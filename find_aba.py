@@ -1,18 +1,18 @@
 import argparse
 
 
-def find_repair(lang, fname=None):
+def find_aba(lang, fname=None):
     if fname is None:
         fname = f'../data/OpenSubtitles/raw/{lang}/{lang}.txt'
-    with open(fname, 'r') as subsfile, open(f'{lang}_repairs.txt', 'w') as repairfile:
+    with open(fname, 'r') as subsfile, open(f'{lang}_repairs.txt', 'w') as abafile:
         line1back = ''
         line2back = ''
         for line in subsfile:
             if line.strip('\n').strip('\t').strip(' ') != '':
                 if line == line2back:
-                    # huhfile.write(line1back.replace('\n', '') + '\t' + line)
-                    print(line2back + line1back + line + '\n')
-                    repairfile.write(line2back + line1back + line + '\n')
+                    aba = f'A\t{line2back}B\t{line1back}A\t{line}\n'
+                    print(aba)
+                    abafile.write(aba)
                 line2back = line1back
                 line1back = line
 
@@ -24,6 +24,6 @@ if __name__ == '__main__':
     args = argparser.parse_args()
 
     if args.fname:
-        find_repair(lang=args.lang, fname=args.fname)
+        find_aba(lang=args.lang, fname=args.fname)
     else:
-        find_repair(lang=args.lang)
+        find_aba(lang=args.lang)
