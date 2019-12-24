@@ -7,11 +7,12 @@ def find_freqs(lang, fname=None):
     if fname is None:
         fname = f'{lang}_b.txt'
     with open(fname, 'r') as bfile:
-        txt = bfile.read()
-        words = txt.split('\n')
-        freqs = collections.Counter(words)
-        df = pd.DataFrame(freqs.most_common(), columns=['word', 'count'])
-        df.to_csv(f'{lang}_freqs.tsv', sep='\t', index=False)
+        txt = bfile.read()  # read file
+        words = txt.split('\n')  # split into list of words
+        freqs = collections.Counter(words)  # count word occurrences
+        df = pd.DataFrame(freqs.most_common(), columns=['word', 'count'])  # store counts in pandas df
+        df = df[df['count'] > 1]  # remove words with count == 1 (likely to be flukes or misspellings)
+        df.to_csv(f'{lang}_freqs.tsv', sep='\t', index=False)  # write df to tab-separated file
 
 
 if __name__ == '__main__':
