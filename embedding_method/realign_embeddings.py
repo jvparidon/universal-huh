@@ -51,24 +51,37 @@ def learn_transformation(source_matrix, target_matrix, normalize_vectors=True):
 def realign_embeddings(lang, align_to):
 
     # load dictionary
-    df = pd.read_csv(f'{align_to}-{lang}')
-    bilingual_dictionary = [(row[align_to], row[lang]) for row in df.iterrows()]
+    df = pd.read_csv(f'dictionaries/{align_to}-{lang}.csv')
+    lang_words = list(df[lang])
+    align_to_words = list(df[align_to])
+    bilingual_dictionary = list(zip(align_to_words, lang_words))
 
     # load source and target vectors
+    source_vecs = subs2vec.vecs.Vectors(f'../../for_publication/{align_to}/wiki-subs.{align_to}.1e6.vec')
+    source_vecs_dict = source_vecs.as_dict()
+    target_vecs = subs2vec.vecs.Vectors(f'../../for_publication/{lang}/wiki-subs.{lang}.1e6.vec')
+    target_vecs_dict = target_vecs.as_dict()
+    source_dictionary = {word: source_vecs_dict.get(word, None) for word in align_to_words if source_vecs_dict.get(word, None) is not None}
+    target_dictionary = {word: target_vecs_dict.get(word, None) for word in lang_words if target_vecs_dict.get(word, None) is not None}
 
-
-    # prep dictionaries
-    source_dictionary = dict(zip(source_language_vocabulary, source_language_vectors))
-    target_dictionary = dict(zip(target_language_vocabulary, target_language_vectors))
+    '''
+    for word, vec in source_dictionary.items():
+        if vec is None:
+            del source_dictionary[word]
+    for word, vec in target_dictionary.items():
+        if vec is None:
+            del target_dictionary[word]
+    '''
 
     # learn mapping
     source_matrix, target_matrix = make_training_matrices(source_dictionary, target_dictionary, bilingual_dictionary)
     transform = learn_transformation(source_matrix, target_matrix)
 
     # apply mapping
-    aligned_target_vectors = np.matmul(target_vectors, transform)
+    target_vecs.vectors = np.matmul(target_vecs.vectors, transform)
 
     # write aligned vectors to file
+    target_vecs.write_vecs(f'{lang}.aligned.vec')
 
 
 if __name__ == '__main__':
@@ -77,4 +90,4 @@ if __name__ == '__main__':
     argparser.add_argument('align_to')
     args = argparser.parse_args()
 
-    realign_embeddings(vars(args))
+    realign_embeddings(**vars(args))
