@@ -1,0 +1,1306 @@
+,Concept_ID,en,mn
+0,Auge::N,eye,нүд
+1,Ohr::N,ear,чих
+2,Nase::N,nose,хамар
+3,Mund::N,mouth,ам
+4,Zahn::N,tooth,шүд
+5,Zunge::N,tongue,хэл
+6,Lippe::N,lip,уруул
+7,Wange::N,cheek,хацар
+8,Gesicht::N,face,царай
+9,Gesicht::N,face,нүүр
+10,Stirn::N,forehead,дух
+11,Haar::N,hair,үс
+12,Schnurrbart::N,moustache,дээд сахал
+13,Schnurrbart::N,moustache,живэр сахал
+14,Bart::N,beard,сахал
+15,Kinn::N,chin,эрүү
+16,Kiefer[Anatomie]::N,jaw,эрүү
+17,Kehle::N,throat,хоолой
+18,Hals::N,neck,хүзүү
+19,Genick::N,nape,шил
+20,Genick::N,nape,хүзүү
+21,Kopf::N,head,толгой
+22,Rücken::N,back,ар
+23,Rücken::N,back,нуруу
+24,Rücken::N,spine,ар
+25,Rücken::N,spine,нуруу
+26,Bauch::N,belly,хэвлий
+27,Bauch::N,belly,гэдэс
+28,Nabel::N,navel,хүйс
+29,Busen::N,bosom,хөх
+30,Brust::N,chest,цээж
+31,Brust::N,breast,цээж
+32,Schulter::N,shoulder,мөр
+33,Schulter::N,shoulder,бугалга
+34,Arm::N,arm,гар
+35,Ellenbogen::N,elbow,тохой
+36,Hand::N,hand,гар
+37,Hand::N,hand,алга
+38,Handfläche::N,palm,алга
+39,Finger::N,finger,хуруу
+40,Fingernagel::N,fingernail,хурууны хумс
+41,Nagel[Anatomie]::N,nail,хумс
+42,Zeh::N,toe,хуруу
+43,Fuß::N,foot,хөл
+44,Ferse::N,heel,өсгий
+45,Knie::N,knee,өвдөг
+46,Oberschenkel::N,thigh,гуя
+47,Bein::N,leg,хөл
+48,Körper::N,body,бие
+49,Haut::N,skin,арьс
+50,Blut::N,blood,цус
+51,Ader::N,vein,судас
+52,Sehne::N,sinew,бүлх
+53,Sehne::N,sinew,шандас
+54,Knochen::N,bone,яс
+55,Gehirn::N,brain,тархи
+56,Herz::N,heart,зүрх
+57,Magen::N,stomach,ходоод
+58,Leber::N,liver,элэг
+59,Atem::N,breath,амьсгаа
+60,Hunger::N,hunger,өлсгөлөн
+61,Träne::N,tear,нулимс
+62,Geschmack::N,flavour,амт
+63,Geschmack::N,flavor,амт
+64,Geruch::N,odour,үнэр
+65,Geruch::N,odor,үнэр
+66,Schlaf::N,sleep,нойр
+67,Traum::N,dream,зүүд
+68,Himmel::N,sky,тэнгэр
+69,Himmel::N,sky,огторгуй
+70,Sonne::N,sun,нар
+71,Mond::N,moon,сар
+72,Stern::N,star,од
+73,Luft::N,air,агаар
+74,Wind::N,wind,салхи
+75,Welle::N,wave,долгио
+76,Welle::N,wave,давалгаа
+77,Wasser::N,water,ус
+78,Stein::N,stone,чулуу
+79,Boden::N,soil,хөрс
+80,Boden::N,ground,хөрс
+81,Erde::N,earth,газар
+82,Erde::N,earth,шороо
+83,Staub::N,dust,тоос
+84,Rauch::N,smoke,утаа
+85,Funke::N,spark,оч
+86,Feuer::N,fire,гал
+87,Licht::N,light,гэрэл
+88,Licht::N,light,гэгээ
+89,Schatten::N,shadow,сүүдэр
+90,Wetter::N,weather,тэнгэр
+91,Wetter::N,weather,цаг уур
+92,Nebel::N,fog,будан
+93,Wolke::N,cloud,үүл
+94,Regen::N,rain,бороо
+95,Schnee::N,snow,цас
+96,Eis::N,ice,мөс
+97,Frost::N,frost,хүйт
+98,Kälte::N,chill,хүйт
+99,Hitze::N,heat,халуун
+100,Raureif::N,hoarfrost,цан
+101,Raureif::N,hoarfrost,хяруу
+102,Regenbogen::N,rainbow,солонго
+103,Donner::N,thunder,тэнгэрийн дуу
+104,Strömung::N,current,урсгал
+105,Tropfen::N,drop,дусал
+106,Schaum::N,foam,хөөс
+107,Schmutz::N,dirt,хир
+108,Schmutz::N,dirt,шавхай
+109,See::N,lake,нуур
+110,Sumpf::N,swamp,намаг
+111,Sumpf::N,swamp,балчиг
+112,Moor::N,moor,хүлрийн намаг
+113,Wiese::N,meadow,нуга
+114,Wald::N,forest,ой
+115,Hügel::N,hill,болдог
+116,Anhöhe::N,elevation,гүвээ
+117,Berg::N,mountain,уул
+118,Gipfel::N,summit,орой
+119,Gipfel::N,summit,оргил
+120,Höhle::N,cave,агуй
+121,Abhang::N,slope,хүр
+122,Quelle::N,source,булаг
+123,Bach::N,brook,горхи
+124,Fluss::N,river,гол
+125,Fluss::N,river,мөрөн
+126,Ufer::N,shore,эрэг
+127,Küste::N,coast,эрэг
+128,Festland::N,land,хуурай газар
+129,Meer::N,sea,далай
+130,Meer::N,sea,тэнгис
+131,Bucht::N,cove,булан
+132,Bucht::N,cove,далайн тохой
+133,Insel::N,island,арал
+134,Blume::N,flower,цэцэг
+135,Gras::N,grass,өвс
+136,Gras::N,grass,ногоо
+137,Wurzel::N,root,үндэс
+138,Baum::N,tree,мод
+139,Stamm::N,trunk,иш
+140,Stamm::N,trunk,гуалин
+141,Rinde::N,bark,холтос
+142,Ast::N,limb,гишүү
+143,Zweig::N,branch,салаа
+144,Blatt::N,leaf,навч
+145,Birke::N,birch,хус
+146,Kiefer[Baum]::N,pine,нарс
+147,Weide[Baum]::N,willow,уд
+148,Weide[Baum]::N,willow,бургас
+149,Tanne::N,fir,гачуур
+150,Horn::N,horn,эвэр
+151,Feder::N,feather,өд
+152,Fell::N,fur,арьс
+153,Flügel::N,wing,жигүүр
+154,Flügel::N,wing,далавч
+155,Klaue::N,claw,савар
+156,Klaue::N,claw,хумс
+157,Kralle::N,claw,савар
+158,Schwanz::N,tail,сүүл
+159,Ei::N,egg,өндөг
+160,Nest::N,nest,үүр
+161,Bau::N,lair,нүх
+162,Bau::N,lair,элүү
+163,Tier::N,animal,амьтан
+164,Tier::N,animal,адгуус
+165,Herde::N,flock,сүрэг
+166,Kuh::N,cow,үнээ
+167,Bulle::N,bull,бух
+168,Pferd::N,horse,морь
+169,Pferd::N,horse,адуу
+170,Schaf::N,sheep,хонь
+171,Schwein::N,pig,гахай
+172,Hund::N,dog,нохой
+173,Katze::N,cat,муур
+174,Katze::N,cat,мигуй
+175,Bär::N,bear,баавгай
+176,Eichhörnchen::N,squirrel,хэрэм
+177,Elch::N,elk,хандгай
+178,Fuchs::N,fox,үнэг
+179,Hase::N,hare,туулай
+180,Maus::N,mouse,хулгана
+181,Wolf::N,wolf,чоно
+182,Vogel::N,bird,шувуу
+183,Schwarm::N,swarm,сүрэг
+184,Huhn::N,chicken,тахиа
+185,Hahn::N,cock,эр тахиа
+186,Gans::N,goose,галуу
+187,Adler::N,eagle,бүргэд
+188,Ente::N,duck,нугас
+189,Eule::N,owl,ууль
+190,Kranich::N,crane,тогоруу
+191,Krähe::N,crow,хэрээ
+192,Kuckuck::N,cuckoo,хөхөө
+193,Schwan::N,swan,хун
+194,Fisch::N,fish,загас
+195,Barsch::N,perch,алгана
+196,Hecht::N,pike,цурхай
+197,Schlange[Tier]::N,snake,могой
+198,Wurm::N,worm,өт
+199,Wurm::N,worm,хорхой
+200,Spinne::N,spider,аалз
+201,Ameise::N,ant,шоргоолж
+202,Laus::N,louse,бөөс
+203,Mücke::N,midge,шумуул
+204,Fliege::N,fly,ялаа
+205,Schmetterling::N,butterfly,эрвээхэй
+206,Beere::N,berry,жимсгэнэ
+207,Apfel::N,apple,алим
+208,Pilz::N,mushroom,мөөг
+209,Zwiebel::N,onion,сонгино
+210,Saat::N,seed,тариа
+211,Korn::N,grain,үр
+212,Korn::N,grain,мөхлөг
+213,Heu::N,hay,өвс
+214,Schale::N,husk,хальс
+215,Grube::N,pit,алам
+216,Grube::N,pit,нүх
+217,Falle::N,trap,хавх
+218,Falle::N,trap,занга
+219,Schlinge::N,noose,урхи
+220,Spur::N,track,мөр
+221,Asche::N,ashes,үнс
+222,Dreck::N,filth,хир
+223,Eisen::N,iron,төмөр
+224,Gold::N,gold,алт
+225,Silber::N,silver,мөнгө
+226,Kohle::N,coal,нүүрс
+227,Glas::N,glass,шил
+228,Lehm::N,clay,шавар
+229,Sand::N,sand,элс
+230,Mensch::N,human,хүн
+231,Mann::N,man,эр
+232,Mann::N,man,эрэгтэй
+233,Frau::N,woman,эмэгтэй
+234,Frau::N,woman,хатагтай
+235,Kind::N,child,хүүхэд
+236,Junge::N,boy,хүү
+237,Mädchen::N,girl,охин
+238,Mädchen::N,girl,бүсгүй
+239,Familie::N,family,айл
+240,Großvater::N,grandfather,өвгөн аав
+241,Großmutter::N,grandmother,эмэг эх
+242,Großmutter::N,grandmother,эмгээ
+243,Eltern::N,parents,эцэг эх
+244,Vater::N,father,аав
+245,Vater::N,father,эцэг
+246,Mutter::N,mother,эх
+247,Mutter::N,mother,ээж
+248,Sohn::N,son,хүү
+249,Tochter::N,daughter,охин
+250,Bruder::N,brother,ах
+251,Bruder::N,brother,дүү
+252,Schwester::N,sister,эгч
+253,Schwester::N,sister,охин дүү
+254,Onkel::N,uncle,авга ах
+255,Onkel::N,uncle,нагац ах
+256,Tante::N,aunt,авга эгч
+257,Tante::N,aunt,нагац эгч
+258,Ehemann::N,husband,нөхөр
+259,Ehefrau::N,wife,эхнэр
+260,Ehefrau::N,wife,гэргий
+261,Freude::N,joy,баяр
+262,Freude::N,joy,баясгалан
+263,Gelächter::N,laughter,инээдэм
+264,Glück::N,happiness,жаргалан
+265,Kummer::N,grief,гаслан
+266,Wunsch::N,wish,ерөөл
+267,Lust::N,desire,дур
+268,Lust::N,desire,хүсэл
+269,Geist::N,spirit,оюун
+270,Gedanke::N,thought,сэтгэл
+271,Gedächtnis::N,memory,ой
+272,Gedächtnis::N,memory,цээж
+273,Verstand::N,mind,ухаан
+274,Sinn::N,meaning,утга
+275,Grund::N,reason,учир
+276,Wahrheit::N,truth,үнэн
+277,Gespräch::N,talk,яриа
+278,Märchen::N,fairy tale,явган үлгэр
+279,Erzählung::N,story,тууж
+280,Nachricht::N,message,мэдээ
+281,Neuigkeit::N,news,сонин
+282,Name::N,name,нэр
+283,Rätsel::N,puzzle,оньсого
+284,Rede::N,speech,хэлсэн үг
+285,Sprache::N,language,хэл
+286,Stimme::N,voice,дуу
+287,Wort::N,word,үг
+288,Zeichen::N,sign,тамга
+289,Zeichen::N,sign,тэмдэг
+290,Ruf::N,call,дуудлага
+291,Lärm::N,noise,шуугиан
+292,Lärm::N,noise,чимээ
+293,Laut::N,sound,анир
+294,Laut::N,sound,дуу
+295,Ton::N,tone,авиа
+296,Ton::N,tone,аялгуу
+297,Lied::N,song,дуу
+298,Ruhe::N,calm,энх
+299,Ruhe::N,calm,тайван
+300,Leute::N,people,хүмүүс
+301,Volk::N,nation,улс
+302,Arbeit::N,work,ажил
+303,Arbeit::N,work,хөдөлмөр
+304,Gast::N,guest,зочин
+305,Gast::N,guest,айлчин
+306,Geschenk::N,gift,бэлэг
+307,Spiel::N,game,наадам
+308,Spiel::N,game,тоглоом
+309,Gesellschaft::N,company,хамт байх
+310,Hilfe::N,help,тусламж
+311,Freund::N,friend,найз
+312,Freund::N,friend,нөхөр
+313,Kamerad::N,companion,хань
+314,Kamerad::N,companion,нөхөр
+315,Angelegenheit::N,matter,хэрэг
+316,Anzahl::N,count,тоо
+317,Art::N,sort,төрөл
+318,Art::N,sort,янз
+319,Stück::N,piece,хэсэг
+320,Teil::N,part,хувь
+321,Teil::N,part,хэсэг
+322,Hälfte::N,half,хагас
+323,Kreis::N,circle,тойрог
+324,Kreis::N,circle,хүрээ
+325,Kreuz::N,cross,загалмай
+326,Linie::N,line,шугам
+327,Strich::N,stroke,зураас
+328,Abstand::N,gap,зай
+329,Entfernung::N,distance,зай
+330,Entfernung::N,distance,хол ойр
+331,Gegend::N,area,хавь
+332,Gegend::N,area,газар
+333,Platz::N,space,зай
+334,Platz::N,space,завсар
+335,Ort::N,place,газар
+336,Ort::N,place,байр
+337,Seite::N,side,тал
+338,Seite::N,side,этгээд
+339,Mitte::N,middle,төв
+340,Mitte::N,middle,дунд
+341,Gegenstand::N,item,юм
+342,Sache::N,thing,үйл
+343,Sache::N,thing,хэрэг
+344,Rand::N,fringe,зах
+345,Rand::N,fringe,хөвөө
+346,Kante::N,edge,ирмэг
+347,Ecke::N,corner,өнцөг
+348,Spitze::N,tip,үзүүр
+349,Ende::N,end,зах
+350,Ende::N,end,үзүүр
+351,Loch::N,hole,цоорхой
+352,Loch::N,hole,онгорхой
+353,Winkel::N,angle,өнцөг
+354,Muster::N,pattern,хээ
+355,Muster::N,pattern,угалз
+356,Größe::N,size,хэмжээ
+357,Länge::N,length,урт
+358,Höhe::N,height,өндөр
+359,Gewicht::N,weight,жин
+360,Menge::N,amount,тоо
+361,Haufen::N,heap,бөөн
+362,Reihe::N,row,эгнээ
+363,Boot::N,boat,завь
+364,Ruder::N,oar,сэлүүр
+365,Schlitten::N,sleigh,чарга
+366,Ski::N,ski,цана
+367,Lagerfeuer::N,campfire,түүдэг
+368,Last::N,load,ачаа
+369,Gang::N,walk,явдал
+370,Schritt::N,step,алхам
+371,Norden::N,north,умар
+372,Süden::N,south,урд
+373,Süden::N,south,өмнө
+374,Westen::N,west,өрнө
+375,Westen::N,west,баруун
+376,Osten::N,east,зүүн
+377,Osten::N,east,дорно
+378,Holz::N,wood,мод
+379,Brett::N,board,банз
+380,Platte::N,slab,хавтан
+381,Stütze::N,bracket,тулгуур
+382,Stütze::N,bracket,тулга
+383,Stange::N,pole,сургааг
+384,Stock::N,stick,саваа
+385,Stab::N,staff,таяг
+386,Rohr::N,pipe,хоолой
+387,Haus::N,house,гэр
+388,Haus::N,house,байшин
+389,Heim::N,home,гэр
+390,Ofen::N,stove,зуух
+391,Ofen::N,stove,пийшин
+392,Fußboden::N,floor,шал
+393,Tisch::N,table,ширээ
+394,Stuhl::N,chair,сандал
+395,Wiege::N,cradle,өлгий
+396,Bett::N,bed,ор
+397,Regal::N,shelf,тавиур
+398,Kiste::N,box,авдар
+399,Kiste::N,box,хайрцаг
+400,Fenster::N,window,гэгээвч
+401,Tür::N,door,үүд
+402,Tür::N,door,хаалга
+403,Tor::N,gate,хаалга
+404,Zaun::N,fence,хашаа
+405,Dach::N,roof,дээвэр
+406,Leiter::N,ladder,шат
+407,Besen::N,broom,хамуур
+408,Besen::N,broom,туужуу
+409,Spaten::N,spade,хүрз
+410,Schaufel::N,shovel,хүрз
+411,Gabel::N,fork,сэрээ
+412,Löffel::N,spoon,халбага
+413,Messer::N,knife,хутга
+414,Nagel::N,nail,хадаас
+415,Netz::N,net,өөш
+416,Netz::N,net,тор
+417,Haken::N,hook,гох
+418,Griff::N,handle,иш
+419,Griff::N,handle,сэнж
+420,Schloss::N,lock,цуурга
+421,Schloss::N,lock,цоож
+422,Bild::N,picture,зураг
+423,Figur::N,figure,баримал
+424,Puppe::N,doll,хүүхэлдэй
+425,Beutel::N,pouch,агсаа
+426,Beutel::N,pouch,уут
+427,Bündel::N,bundle,боодол
+428,Tasche::N,bag,цүнх
+429,Eimer::N,bucket,хөнөг
+430,Eimer::N,bucket,хувин
+431,Deckel::N,cover,таг
+432,Deckel::N,cover,хавхаг
+433,Geschirr::N,dishes,сав суулга
+434,Sack::N,sack,шуудай
+435,Tasse::N,cup,аяга
+436,Topf::N,pot,тогоо
+437,Kessel::N,kettle,тогоо
+438,Essen::N,meal,идээ
+439,Nahrung::N,food,хүнс
+440,Speise::N,dish,идээ
+441,Fleisch::N,meat,мах
+442,Getreide::N,corn,будаа
+443,Brei::N,mush,богшмол
+444,Brei::N,mush,будаа
+445,Brot::N,bread,талх
+446,Scheibe::N,slice,зүсэм
+447,Scheibe::N,slice,хэрчим
+448,Fett::N,fat,өөх
+449,Butter::N,butter,тос
+450,Öl::N,oil,тос
+451,Salz::N,salt,давс
+452,Suppe::N,soup,шөл
+453,Honig::N,honey,бал
+454,Milch::N,milk,сүү
+455,Tee::N,tea,цай
+456,Leder::N,leather,арьс
+457,Leder::N,leather,савхи
+458,Wolle::N,wool,ноос
+459,Wolle::N,wool,унгас
+460,Stoff::N,cloth,бөс
+461,Nadel::N,needle,зүү
+462,Faden::N,thread,боолт
+463,Faden::N,thread,утас
+464,Knopf::N,button,товч
+465,Knoten::N,knot,зангилаа
+466,Farbe::N,paint,будаг
+467,Kleidung::N,clothes,хувцас
+468,Hemd::N,shirt,цамц
+469,Kragen::N,collar,зах заам
+470,Ärmel::N,sleeve,ханцуй
+471,Hose::N,trousers,өмд
+472,Gürtel::N,belt,бүс
+473,Mütze::N,cap,малгай
+474,Mütze::N,cap,бүрх
+475,Schuh::N,shoe,туфли
+476,Stiefel::N,boot,гутал
+477,Ring::N,ring,бөгж
+478,Band::N,ribbon,тууз
+479,Kamm::N,comb,сам
+480,Spiegel::N,mirror,толь
+481,Riemen::N,strap,тасам
+482,Riemen::N,strap,сур
+483,Schnur::N,string,татлага
+484,Leine::N,leash,оосор
+485,Decke::N,blanket,хөнжил
+486,Decke::N,blanket,хучлага
+487,Kissen::N,pillow,дэр
+488,Tuch::N,scarf,алчуур
+489,Tuch::N,scarf,даавуу
+490,Handtuch::N,towel,алчуур
+491,Kraft::N,force,чадал
+492,Kraft::N,force,хүч
+493,Stärke::N,strength,эрч
+494,Stärke::N,strength,тэнхээ
+495,Gesundheit::N,health,бие
+496,Gesundheit::N,health,эрүүл мэнд
+497,Krankheit::N,illness,эмгэг
+498,Schmerz::N,pain,өвчин
+499,Wunde::N,wound,шарх
+500,Fieber::N,fever,халуун
+501,Arznei::N,medicine,эм
+502,Brücke::N,bridge,гүүр
+503,Brunnen::N,well,худаг
+504,Weide::N,pasture,бэлчээр
+505,Pfad::N,path,жим
+506,Pfad::N,path,зөрөг
+507,Weg::N,way,зам
+508,Weg::N,way,харгуй
+509,Straße::N,road,зам
+510,Straße::N,road,харгуй
+511,Dorf::N,village,тосгон
+512,Dorf::N,village,гацаа
+513,Stadt::N,town,хот
+514,Brief::N,letter,захидал
+515,Brief::N,letter,захиа
+516,Buch::N,book,ном
+517,Buch::N,book,бичиг
+518,Buchstabe::N,character,үсэг
+519,Zeitung::N,newspaper,сонин
+520,Leben::N,life,амь
+521,Leben::N,life,амьдрал
+522,Tod::N,death,үхэл
+523,Grab::N,grave,булш
+524,Kirche::N,church,сүм
+525,Sünde::N,sin,нүгэл
+526,Sünde::N,sin,хилэнц
+527,Gott::N,god,бурхан
+528,Arbeiter::N,worker,ажилчин
+529,Arbeiter::N,worker,хөдөлмөрчин
+530,Chef::N,boss,дарга
+531,Meister::N,master,дархан
+532,Arzt::N,doctor,эмч
+533,Lehrer::N,teacher,багш
+534,Geld::N,money,цаас
+535,Geld::N,money,мөнгө
+536,Geschäft::N,business,наймаа
+537,Laden::N,shop,дэлгүүр
+538,Preis::N,price,үнэ
+539,Ware::N,ware,таваар
+540,Ware::N,ware,бараа
+541,Nutzen::N,profit,ашиг
+542,Reichtum::N,wealth,баялаг
+543,Welt::N,world,дэлхий
+544,Welt::N,world,орчлон
+545,Land::N,country,улс
+546,Land::N,country,орон
+547,Staat::N,state,төр
+548,Staat::N,state,гүрэн
+549,König::N,king,ван
+550,Macht::N,power,засаг
+551,Grenze::N,border,хил
+552,Krieg::N,war,дайн
+553,Feind::N,enemy,дайсан
+554,Gewalt::N,violence,хүчирхэх
+555,Kampf::N,fight,тэмцэл
+556,Kampf::N,fight,байлдаан
+557,Bogen[Waffe]::N,bow,нум
+558,Pfeil::N,arrow,годил
+559,Pfeil::N,arrow,сум
+560,Gewehr::N,gun,буу
+561,Fehler::N,mistake,эндэл
+562,Fehler::N,mistake,алдаа
+563,Lüge::N,lie,худал
+564,Schaden::N,damage,хор
+565,Schaden::N,damage,хөнөөл
+566,Unglück::N,misfortune,гай
+567,Unglück::N,misfortune,гамшиг
+568,Schuld::N,fault,гэм
+569,Schuld::N,fault,буруу
+570,Alter::N,age,нас
+571,Schluss::N,conclusion,эцэс
+572,Schluss::N,conclusion,төгсгөл
+573,Zeit::N,time,цаг
+574,Tag::N,day,өдөр
+575,Morgen::N,morning,өглөө
+576,Mittag::N,noon,үд
+577,Abend::N,evening,үдэш
+578,Nacht::N,night,шөнө
+579,Woche::N,week,долоо хоног
+580,Monat::N,month,сар
+581,Jahr::N,year,жил
+582,Frühling::N,spring,хавар
+583,Sommer::N,summer,зун
+584,Herbst::N,autumn,намар
+585,Winter::N,winter,өвөл
+586,Januar::N,January,нэгдүгээр сар
+587,Februar::N,February,хоёрдугаар сар
+588,März::N,March,гуравдугаар сар
+589,April::N,April,дөрөвдүгээр сар
+590,Mai::N,May,тавдугаар сар
+591,Juni::N,June,зургаадугаар сар
+592,Juli::N,July,долдугаар сар
+593,August::N,August,наймдугаар сар
+594,September::N,September,есдүгээр сар
+595,Oktober::N,October,аравдугаар сар
+596,November::N,November,арван нэгдүгээр сар
+597,Dezember::N,December,арван хоёрдугаар сар
+598,Montag::N,Monday,даваа
+599,Dienstag::N,Tuesday,мягмар
+600,Mittwoch::N,Wednesday,лхагва
+601,Donnerstag::N,Thursday,пүрэв
+602,Freitag::N,Friday,баасан
+603,Samstag::N,Saturday,бямба
+604,Sonntag::N,Sunday,ням
+605,groß::A,big,их
+606,groß::A,big,том
+607,klein::A,little,бага
+608,klein::A,little,жаахан
+609,lang::A,long,урт
+610,kurz::A,short,охор
+611,kurz::A,short,богино
+612,breit::A,wide,өргөн
+613,schmal::A,narrow,уйтан
+614,schmal::A,narrow,нарийн
+615,dicht::A,dense,нягт
+616,dicht::A,dense,чигжүү
+617,dick[Gegenstand]::A,thick,зузаан
+618,dünn::A,thin,нимгэн
+619,fein::A,delicate,нарийн
+620,fest::A,firm,бөх
+621,fest::A,firm,хатуу
+622,flach::A,flat,хавтгай
+623,glatt::A,smooth,цагаан
+624,hart::A,hard,хатуу
+625,weich::A,soft,зөөлөн
+626,rund::A,round,дугуй
+627,rund::A,round,дугариг
+628,spitz::A,pointed,шовх
+629,spitz::A,pointed,шовгор
+630,scharf::A,sharp,хурц
+631,scharf::A,sharp,иртэй
+632,stumpf::A,blunt,мохоо
+633,schwer::A,heavy,хүнд
+634,schön::A,beautiful,гуа
+635,schön::A,beautiful,сайхан
+636,heiß::A,hot,халуун
+637,warm::A,warm,дулаан
+638,kalt::A,cold,хүйтэн
+639,kühl::A,cool,сэрүүн
+640,frisch::A,fresh,эрүүл
+641,frisch::A,fresh,жихүүн
+642,feucht::A,damp,чийгтэй
+643,nass::A,wet,нойтон
+644,trocken::A,dry,хатсан
+645,voll::A,full,дүүрэн
+646,leer::A,empty,хоосон
+647,offen::A,open,онгорхой
+648,geschlossen::A,closed,битүү
+649,geschlossen::A,closed,хаалтай
+650,sauber::A,clean,цэвэр
+651,sauber::A,clean,хиргүй
+652,schmutzig::A,dirty,бохир
+653,schmutzig::A,dirty,хиртэй
+654,roh::A,raw,түүхий
+655,reif::A,ripe,болсон
+656,lecker::A,delicious,амттай
+657,süß::A,sweet,амттай
+658,süß::A,sweet,чихэрлэг
+659,bitter::A,bitter,гашуун
+660,sauer::A,sour,эсгэлэн
+661,hell::A,bright,гэгээн
+662,hell::A,bright,гэрэлтэй
+663,dunkel::A,dark,бараан
+664,dunkel::A,dark,харанхуй
+665,schwarz::A,black,хар
+666,weiß::A,white,цагаан
+667,rot::A,red,улаан
+668,gelb::A,yellow,шар
+669,blau::A,blue,хөх
+670,blau::A,blue,цэнхэр
+671,grün::A,green,ногоон
+672,grau::A,grey,орог
+673,grau::A,grey,саарал
+674,bunt::A,colourful,эрээн
+675,bunt::A,colorful,эрээн
+676,billig::A,cheap,хямд
+677,teuer::A,dear,үнэтэй
+678,wertvoll::A,precious,үнэт
+679,blind::A,blind,сохор
+680,taub::A,deaf,чих хатуу
+681,kräftig::A,powerful,чийрэг
+682,stark::A,strong,хүчтэй
+683,stark::A,strong,чадалтай
+684,schwach::A,weak,сул
+685,fett::A,fat,тарган
+686,fett::A,fat,голигор
+687,schlank::A,slim,голшиг
+688,hübsch::A,pretty,сайхан
+689,hübsch::A,pretty,хөөрхөн
+690,böse::A,evil,муу
+691,böse::A,evil,хортой
+692,dumm::A,stupid,тэнэг
+693,faul::A,lazy,залхуу
+694,fleißig::A,diligent,чармайлтгай
+695,geizig::A,stingy,харамч
+696,klug::A,clever,цэцэн
+697,geschickt::A,skilful,дүйтэй
+698,geschickt::A,skillful,дүйтэй
+699,lieb::A,dear,хайрт
+700,lustig::A,merry,цэнгэлтэй
+701,sanft::A,gentle,наалинхай
+702,hungrig::A,hungry,өлөн
+703,hungrig::A,hungry,өлссөн
+704,krank::A,sick,өвчтэй
+705,nackt::A,naked,нүцгэн
+706,traurig::A,sad,гунигт
+707,lebendig::A,living,амьд
+708,lebendig::A,living,амьтай
+709,gut::A,good,сайн
+710,schlecht::A,bad,муу
+711,schlecht::A,bad,өөдгүй
+712,richtig::A,correct,зөв
+713,richtig::A,correct,зүйтэй
+714,schlimm::A,nasty,муухай
+715,wahr::A,true,үнэн
+716,wahr::A,true,жинхэнэ
+717,alt::A,old,хуучин
+718,neu::A,new,шинэ
+719,ehemalig::A,former,агсан
+720,ehemalig::A,former,байсан
+721,alt[Lebewesen]::A,aged,өвгөн
+722,alt[Lebewesen]::A,aged,хижээл
+723,jung::A,young,залуу
+724,arm::A,poor,ядуу
+725,reich::A,rich,баян
+726,reich::A,rich,баялаг
+727,bekannt::A,familiar,танил
+728,berühmt::A,famous,цуутай
+729,berühmt::A,famous,алдартай
+730,fremd::A,foreign,харь
+731,fremd::A,foreign,гадаад
+732,verschieden::A,different,ондоо
+733,verschieden::A,different,янз янзын
+734,nah::A,near,ойрын
+735,nah::A,near,дөтийн
+736,fern::A,far,холын
+737,linker::A,left,буруу
+738,rechter::A,right,баруун
+739,anderer::A,other,өөр
+740,anderer::A,other,нөгөө
+741,erster::A,first,нэгдэх
+742,erster::A,first,нэгдүгээр
+743,zweiter::A,second,хоёрдугаар
+744,dritter::A,third,гуравдугаар
+745,letzter::A,last,сүүлийн
+746,allein::ADV,alone,ганцаараа
+747,auf einmal::ADV,at once,нэгмөсөн
+748,zusammen::ADV,together,цуг
+749,zusammen::ADV,together,хамт
+750,lange::ADV,long,удаан
+751,plötzlich::ADV,suddenly,гэнэт
+752,sofort::ADV,instantly,дороо
+753,später::ADV,later,дараа
+754,jetzt::ADV,now,өнөө
+755,heute::ADV,today,өнөө
+756,heute::ADV,today,өнөөдөр
+757,morgen::ADV,tomorrow,маргааш
+758,morgen::ADV,tomorrow,маргаадар
+759,bald::ADV,soon,түргэн
+760,bald::ADV,soon,удахгүй
+761,dann::ADV,then,хожим
+762,dann::ADV,then,тэгээд
+763,gestern::ADV,yesterday,өчигдөр
+764,einst::ADV,once,нэг
+765,damals::ADV,at that time,тэгэхэд
+766,danach::ADV,afterwards,тэгээд
+767,danach::ADV,afterwards,дараа нь
+768,vorher::ADV,before,урьд
+769,zuerst::ADV,at first,анх
+770,zuerst::ADV,at first,эхлээд
+771,einmal::ADV,once,нэг удаа
+772,manchmal::ADV,sometimes,хааяа
+773,manchmal::ADV,sometimes,заримдаа
+774,oft::ADV,often,олонтоо
+775,immer::ADV,always,байнга
+776,niemals::ADV,never,хэзээ ч
+777,niemals::ADV,never,хэдийд ч
+778,hier::ADV,here,энд
+779,hierhin::ADV,hither,нааш
+780,hierhin::ADV,to here,нааш
+781,hierhin::ADV,here,нааш
+782,von hier::ADV,hence,эндээс
+783,dort::ADV,there,тэнд
+784,dorthin::ADV,thither,тийш
+785,dorthin::ADV,there,тийш
+786,dorthin::ADV,to there,тийш
+787,geradeaus::ADV,ahead,шулуун
+788,vorwärts::ADV,forward,урагшаа
+789,rückwärts::ADV,backward,буцаан
+790,rückwärts::ADV,backward,сөөргөө
+791,zurück::ADV,back,буцаж
+792,zurück::ADV,back,гэдрэг
+793,unten::ADV,below,дор
+794,hinab::ADV,down,уруу
+795,oben::ADV,above,дээр
+796,hinauf::ADV,up,өөд
+797,hinauf::ADV,up,дээш
+798,überall::ADV,everywhere,хааяагүй
+799,überall::ADV,everywhere,энд тэндгүй
+800,nicht::ADV,not,эс
+801,nicht::ADV,not,-гүй
+802,ein wenig::ADV,a little,жаахан
+803,kaum::ADV,hardly,арай
+804,kaum::ADV,hardly,арай гэж
+805,sehr::ADV,very,тун
+806,so::ADV,so,тэгж
+807,so::ADV,so,ингээд
+808,noch::ADV,still,дахин
+809,noch::ADV,still,дахиад
+810,nur::ADV,only,зөвхөн
+811,nur::ADV,only,гагцхүү
+812,schon::ADV,already,нэгэнт
+813,wieder::ADV,again,дахин
+814,wieder::ADV,again,дахиад
+815,vergebens::ADV,in vain,хий
+816,vor::PRP,in front of,өмнө
+817,hinter::PRP,behind,ард
+818,unter::PRP,under,доор
+819,durch::PRP,through,дундуур
+820,neben::PRP,next to,хажууд
+821,zwischen::PRP,between,завсар
+822,zwischen::PRP,between,хооронд
+823,wegen::PRP,because of,төлөө
+824,wegen::PRP,because of,дээрээс
+825,dies::PRN,this,энэ
+826,das::PRN,that,тэр
+827,alles::PRN,everything,цөм
+828,alles::PRN,everything,бүгд
+829,ich::PRN,I,би
+830,du::PRN,you,чи
+831,du::PRN,thou,чи
+832,er::PRN,he,тэр
+833,er::PRN,he,тэр хүн
+834,wir::PRN,we,бид
+835,ihr::PRN,you,та нар
+836,sie::PRN,they,тэд
+837,was::FPRN,what,юу
+838,wer::FPRN,who,хэн
+839,wo::FADV,where,хаа
+840,wo::FADV,where,хаана
+841,wohin::FADV,where ... to,хааш
+842,wohin::FADV,where ... to,хаана
+843,wohin::FADV,where to,хааш
+844,wohin::FADV,where to,хаана
+845,wohin::FADV,where,хааш
+846,wohin::FADV,where,хаана
+847,wie::FADV,how,яаж
+848,wie::FADV,how,хэрхэн
+849,warum::FADV,why,юунд
+850,warum::FADV,why,яагаад
+851,wieviel::FNUM,how much,хэдий
+852,wieviel::FNUM,how much,хэд
+853,eins::NUM,one,нэг
+854,zwei::NUM,two,хоёр
+855,drei::NUM,three,гурав
+856,vier::NUM,four,дөрөв
+857,fünf::NUM,five,тав
+858,sechs::NUM,six,зургаа
+859,sieben::NUM,seven,долоо
+860,acht::NUM,eight,найм
+861,neun::NUM,nine,ес
+862,zehn::NUM,ten,арав
+863,elf::NUM,eleven,арван нэг
+864,zwölf::NUM,twelve,арван хоёр
+865,zwanzig::NUM,twenty,хорь
+866,dreißig::NUM,thirty,гуч
+867,vierzig::NUM,forty,дөч
+868,fünfzig::NUM,fifty,тавь
+869,sechzig::NUM,sixty,жар
+870,siebzig::NUM,seventy,дал
+871,achtzig::NUM,eighty,ная
+872,neunzig::NUM,ninety,ер
+873,hundert::NUM,a hundred,зуу
+874,tausend::NUM,a thousand,мянга
+875,und::CNJ,and,ч
+876,und::CNJ,and,болон
+877,oder::CNJ,or,буюу
+878,stehen::V,stand,зогсох
+879,sitzen::V,sit,суух
+880,liegen::V,lie,хэвтэх
+881,hängen::V,hang,өлгөөтэй байх
+882,hängen::V,hang,дүүжлээтэй байх
+883,werden::V,become,болох
+884,passieren::V,happen,тохиох
+885,beginnen::V,begin,эхлэх
+886,enden::V,end,дүүрэх
+887,wechseln::V,change,хувирах
+888,aufgehen[Sonne]::V,rise,мандах
+889,untergehen[Sonne]::V,set,жаргах
+890,scheinen[Sonne]::V,shine,гэрэлтэх
+891,donnern::V,thunder,дуугарах
+892,wehen::V,blow,салхилах
+893,wehen::V,blow,хөөрөгдөх
+894,strömen::V,stream,гүйх
+895,strömen::V,stream,урсах
+896,fließen::V,flow,урсах
+897,sich drehen::V,revolve,эргэлдэх
+898,schwanken::V,sway,хэлбэлзэх
+899,schwingen::V,swing,ганхах
+900,schwingen::V,swing,хэлбэлзэх
+901,fallen::V,fall,унах
+902,brennen::V,burn,шатах
+903,rauchen::V,smoke,баагих
+904,regnen::V,rain,бороо орно
+905,gefrieren::V,freeze,хөлдөх
+906,tauen::V,thaw,хайлах
+907,schmelzen::V,melt,уярах
+908,trocknen::V,dry,хатах
+909,sieden::V,boil,буцлах
+910,sieden::V,boil,даргилах
+911,faulen::V,rot,үжрэх
+912,faulen::V,rot,өмхийрөх
+913,verfaulen::V,decay,бээх
+914,verfaulen::V,decay,өгрөх
+915,reißen::V,snap,цуурах
+916,versinken::V,sink,живэх
+917,vergehen::V,pass,нөгчих
+918,vergehen::V,pass,өнгөрөх
+919,erscheinen::V,appear,гарах
+920,erscheinen::V,appear,бултайх
+921,verschwinden::V,disappear,далд орох
+922,verschwinden::V,disappear,алга болох
+923,sinken::V,drop,татрах
+924,sinken::V,drop,доошлох
+925,abnehmen::V,decrease,багасах
+926,abnehmen::V,decrease,хорогдох
+927,zunehmen::V,increase,ихсэх
+928,steigen::V,rise,нэмэгдэх
+929,wachsen::V,grow,өсөх
+930,wachsen::V,grow,ургах
+931,glänzen::V,shine,гилгэнэх
+932,glänzen::V,shine,гилбэгнэх
+933,funkeln::V,sparkle,гялжах
+934,funkeln::V,sparkle,гялалзах
+935,lärmen::V,be noisy,шуугих
+936,läuten::V,chime,цохих
+937,klingeln::V,ring,хонхдох
+938,klingeln::V,ring,дуугарах
+939,klirren::V,tinkle,хангир жингэр хийх
+940,brausen::V,roar,бургилах
+941,rauschen::V,rustle,сэржигнэх
+942,klingen::V,sound,хангинах
+943,bellen::V,bark,хуцах
+944,heulen::V,howl,улих
+945,blasen::V,blow,үлзэх
+946,pfeifen::V,whistle,исгэрэх
+947,schreien::V,shout,хашгирах
+948,stöhnen::V,groan,ёолох
+949,stöhnen::V,groan,гэнгэнэх
+950,zittern::V,tremble,дагжих
+951,leben::V,be alive,амьдрах
+952,geboren werden::V,be born,төрөх
+953,atmen::V,breathe,амьсгалах
+954,trinken::V,drink,уух
+955,essen::V,eat,идэх
+956,schlucken::V,swallow,залгих
+957,müde werden::V,get tired,ядрах
+958,einschlafen::V,fall asleep,унтчих
+959,schlafen::V,sleep,унтах
+960,aufwachen::V,wake up,сэрэх
+961,aufstehen::V,get up,босох
+962,sich erholen::V,relax,амрах
+963,krank werden::V,fall ill,өвдөж эхлэх
+964,krank sein::V,be ill,өвдөх
+965,schmerzen::V,ache,өвдөх
+966,schmerzen::V,ache,шархирах
+967,husten::V,cough,ханиах
+968,genesen::V,recover,засрах
+969,sterben::V,die,үхэх
+970,sterben::V,die,нас барах
+971,umkommen::V,perish,үхэх
+972,sich bewegen::V,move,хөдлөх
+973,sich rühren::V,budge,хөдлөх
+974,sich erheben::V,stand up,босох
+975,sich setzen::V,sit down,суух
+976,hinfallen::V,tumble,ойчих
+977,laufen::V,walk,явган явах
+978,schreiten::V,pace,алхах
+979,spazierengehen::V,go for a walk,зугаалах
+980,eilen::V,rush,хурдлах
+981,sich beeilen::V,hurry,яарах
+982,sich beeilen::V,hurry,шамдах
+983,sausen::V,dash,давхих
+984,rennen::V,run,гүйх
+985,springen::V,jump,харайх
+986,springen::V,jump,дэвхрэх
+987,klettern::V,climb,авирах
+988,schaukeln::V,seesaw,ганхалзах
+989,kriechen::V,creep,мөлхөх
+990,schwimmen::V,swim,сэлэх
+991,tauchen::V,dive,шунгах
+992,rudern::V,row,сэлүүрдэх
+993,fahren::V,drive,явах
+994,fliegen::V,fly,нисэх
+995,gehen::V,go,явах
+996,weggehen::V,go away,явах
+997,abfahren::V,depart,одох
+998,abfahren::V,depart,хөдлөх
+999,anhalten::V,stop,зогсох
+1000,hineingehen::V,go in,орох
+1001,eintreten::V,enter,орох
+1002,kommen::V,come,ирэх
+1003,ankommen::V,arrive,хүрэх
+1004,zurückkommen::V,come back,харих
+1005,zurückkommen::V,come back,буцаж ирэх
+1006,bleiben::V,stay,үлдэх
+1007,warten::V,wait,хүлээх
+1008,erwarten::V,wait for,хүлээх
+1009,suchen::V,seek,эрэх
+1010,suchen::V,seek,бэдрэх
+1011,suchen::V,look for,эрэх
+1012,suchen::V,look for,бэдрэх
+1013,finden::V,find,олох
+1014,versuchen::V,try,оролдох
+1015,vorbereiten::V,prepare,бэлтгэх
+1016,lieben::V,love,янаглах
+1017,mögen::V,like,таалах
+1018,lachen::V,laugh,инээх
+1019,rühren::V,move,сэтгэл уяруулах
+1020,weinen::V,weep,уйлах
+1021,schimpfen::V,grumble,хараах
+1022,sich ärgern::V,be annoyed,уурлах
+1023,sich fürchten::V,be afraid,айх
+1024,fürchten::V,be afraid of,айх
+1025,fliehen::V,flee,зугтах
+1026,fliehen::V,flee,гүйж очих
+1027,flüchten::V,escape,оргох
+1028,sehen::V,see,үзэх
+1029,anschauen::V,look at,харах
+1030,ansehen::V,watch,харах
+1031,hören::V,hear,дуулах
+1032,zuhören::V,listen,чагнах
+1033,probieren::V,taste,амсаж үзэх
+1034,riechen::V,smell,үнэрлэх
+1035,fühlen::V,feel,мэдрэх
+1036,scheinen::V,seem,шиг үзэгдэх
+1037,zu sehen sein::V,show,үзэгдэх
+1038,zu sehen sein::V,show,харагдах
+1039,vernehmen::V,hear,дуулах
+1040,frieren::V,be cold,даарах
+1041,tun::V,do,хийх
+1042,tun::V,do,үйлдэх
+1043,können::V,can,болох
+1044,wollen::V,want,хүсэх
+1045,anfangen::V,start,эхлэх
+1046,beenden::V,finish,дуусгах
+1047,aufhören::V,stop,болих
+1048,aufhören::V,stop,зогсох
+1049,gelingen::V,succeed,бүтэх
+1050,geraten::V,turn out,илрэх
+1051,öffnen::V,open,нээх
+1052,öffnen::V,open,тайлах
+1053,schließen::V,close,хаах
+1054,stellen::V,put,тавих
+1055,stellen::V,put,босгох
+1056,setzen::V,place,суулгах
+1057,legen::V,lay,хийх
+1058,legen::V,lay,тавих
+1059,berühren::V,touch,шүргэх
+1060,verbinden::V,connect,залгах
+1061,bedecken::V,cover,бүрэх
+1062,aufhängen::V,hang up,өлгөх
+1063,aufhängen::V,hang up,дүүжлэх
+1064,anzünden::V,light,асаах
+1065,anzünden::V,light,ноцоох
+1066,aufheben::V,pick up,өргөх
+1067,zurücklassen::V,leave,орхих
+1068,zurücklassen::V,leave,үлдээх
+1069,verlieren::V,lose,гээх
+1070,fallen lassen::V,drop,унагах
+1071,machen::V,make,хийх
+1072,machen::V,make,гаргах
+1073,herstellen::V,produce,бүтээх
+1074,bauen::V,build,барих
+1075,reparieren::V,mend,засах
+1076,reparieren::V,mend,сэлбэх
+1077,verbessern::V,improve,засах
+1078,verbessern::V,improve,сайжруулах
+1079,ändern::V,alter,өөрчлөх
+1080,graben::V,dig,малтах
+1081,beugen::V,bow,бөгтийлгөх
+1082,biegen::V,bend,матах
+1083,biegen::V,bend,муруйлгах
+1084,drehen::V,spin,эргүүлэх
+1085,wenden::V,turn,эргүүлэх
+1086,umdrehen::V,turn around,хөрвүүлэх
+1087,heben::V,raise,өргөх
+1088,hochheben::V,lift,өргөх
+1089,ergreifen::V,seize,атгах
+1090,halten::V,hold,барих
+1091,drücken::V,press,дарах
+1092,schieben::V,push,түлхэх
+1093,kratzen::V,scrape,хусах
+1094,kratzen::V,scrape,маажих
+1095,lecken::V,lick,долоох
+1096,beißen::V,bite,зуух
+1097,beißen::V,bite,хазах
+1098,abreißen::V,tear off,таслах
+1099,abschneiden::V,cut off,тайрах
+1100,binden::V,tie,боох
+1101,binden::V,tie,хүлэх
+1102,stecken::V,stick,шаах
+1103,stecken::V,stick,шигтгэх
+1104,brechen::V,break,хугалах
+1105,klopfen::V,knock,цохих
+1106,klopfen::V,knock,тогших
+1107,hauen::V,hit,дэлдэх
+1108,kleben::V,glue,наах
+1109,reiben::V,rub,нухах
+1110,reiben::V,rub,нидчих
+1111,streichen::V,spread,нялах
+1112,streichen::V,spread,түрхэх
+1113,schleifen::V,grind,билүүдэх
+1114,schleifen::V,grind,гуранздах
+1115,schneiden::V,cut,огтлох
+1116,rütteln::V,jolt,холхнулах
+1117,schütteln::V,shake,сэгсрэх
+1118,schwenken::V,swing,дэвэх
+1119,schwenken::V,swing,даллах
+1120,schütten::V,pour,цутгах
+1121,schütten::V,pour,аягалах
+1122,füllen::V,fill,дүүргэх
+1123,einwickeln::V,wrap,боох
+1124,einwickeln::V,wrap,ороох
+1125,tragen::V,carry,авчрах
+1126,schleppen::V,drag,чирэх
+1127,ziehen::V,pull,татах
+1128,aufbewahren::V,keep,хадгалах
+1129,werfen::V,throw,хаях
+1130,werfen::V,throw,шидэх
+1131,fangen::V,catch,барих
+1132,packen::V,grab,шүүрэх
+1133,verstecken::V,hide,нуух
+1134,teilen::V,divide,хуваах
+1135,schicken::V,send,илгээх
+1136,schicken::V,send,явуулах
+1137,bringen::V,bring,авчрах
+1138,bringen::V,bring,аваачих
+1139,hinzufügen::V,add,нэмэх
+1140,bekommen::V,get,хүлээн авах
+1141,erhalten::V,receive,хүлээн авах
+1142,nehmen::V,take,авах
+1143,wählen::V,choose,сонгох
+1144,auswählen::V,select,шилэх
+1145,bewahren::V,preserve,гамнах
+1146,behindern::V,hinder,саад хийх
+1147,behindern::V,hinder,тотгор болох
+1148,verderben::V,spoil,эвдэх
+1149,beschädigen::V,damage,гэмтээх
+1150,zerbrechen::V,break,хагалах
+1151,zerbrechen::V,break,хага цохих
+1152,zerreißen::V,tear,урах
+1153,zerstören::V,destroy,эвдэх
+1154,zerstören::V,destroy,сүйтгэх
+1155,verbrennen::V,burn,шатаах
+1156,geben::V,give,өгөх
+1157,reichen::V,hand,өгөх
+1158,reichen::V,hand,дамжуулах
+1159,schenken::V,give,бэлэглэх
+1160,versprechen::V,promise,амлах
+1161,wünschen::V,wish,ерөөх
+1162,loben::V,praise,магтах
+1163,loben::V,praise,сайшаах
+1164,küssen::V,kiss,озох
+1165,küssen::V,kiss,үнсэх
+1166,wiegen::V,rock,бүүвэйлэх
+1167,zudecken::V,cover,хучих
+1168,zudecken::V,cover,бүтээх
+1169,wecken::V,wake,сэрээх
+1170,zeigen::V,show,үзүүлэх
+1171,führen::V,guide,хөтлөх
+1172,lehren::V,teach,заах
+1173,unterrichten::V,instruct,сургах
+1174,aufziehen::V,bring up,өсгөх
+1175,aufziehen::V,bring up,хүмүүжүүлэх
+1176,leiten::V,lead,удирдах
+1177,antreiben::V,urge,шамдуулах
+1178,lassen::V,let,-уулах
+1179,einladen::V,invite,залах
+1180,vereinigen::V,unite,нэгтгэх
+1181,vereinigen::V,unite,хамтруулах
+1182,besuchen::V,visit,зочлох
+1183,treffen::V,meet,учрах
+1184,treffen::V,meet,дайралдах
+1185,sich versammeln::V,assemble,хуралдах
+1186,spielen::V,play,наадах
+1187,singen::V,sing,дуулах
+1188,tanzen::V,dance,бүжиглэх
+1189,sich trennen::V,separate,салах
+1190,verlassen::V,leave,хаях
+1191,retten::V,rescue,гэтэлгэх
+1192,bewachen::V,guard,сахих
+1193,schützen::V,protect,хамгаалах
+1194,verteidigen::V,defend,хамгаалах
+1195,sich schlagen::V,brawl,зодолдох
+1196,schießen::V,shoot,харвах
+1197,schießen::V,shoot,буу буудах
+1198,siegen::V,win,ялах
+1199,ärgern::V,annoy,уурлуулах
+1200,ärgern::V,annoy,уур хүргэх
+1201,schlagen::V,beat,цохих
+1202,treten::V,kick,өшиглөх
+1203,stechen::V,sting,хатгах
+1204,stoßen::V,shove,ёврох
+1205,stoßen::V,shove,нудрах
+1206,stehlen::V,steal,хулгайлах
+1207,stören::V,disturb,саад болох
+1208,belästigen::V,bother,зовоох
+1209,belästigen::V,bother,амраахгүй байх
+1210,verbergen::V,conceal,нуух
+1211,verbergen::V,conceal,далдлах
+1212,täuschen::V,deceive,мэхлэх
+1213,betrügen::V,cheat,хуурах
+1214,töten::V,kill,алах
+1215,wohnen::V,dwell,суух
+1216,wohnen::V,dwell,амьдрах
+1217,arbeiten::V,work,ажиллах
+1218,arbeiten::V,work,хөдөлмөрлөх
+1219,sammeln::V,gather,түүх
+1220,sammeln::V,gather,хураах
+1221,pflücken::V,pick,түүх
+1222,jagen::V,hunt,агнах
+1223,jagen::V,hunt,гөрөөлөх
+1224,fischen::V,fish,загасчлах
+1225,fischen::V,fish,загас барих
+1226,fassen::V,catch,барих
+1227,hüten::V,herd,маллах
+1228,hüten::V,herd,хариулах
+1229,treiben::V,drive,туух
+1230,anbinden::V,tie up,уях
+1231,füttern::V,feed,тэжээх
+1232,melken::V,milk,саах
+1233,hacken::V,chop,цавчих
+1234,gießen::V,water,услах
+1235,reifen::V,ripen,боловсрох
+1236,zubereiten::V,cook,бэлдэх
+1237,kochen::V,boil,чанах
+1238,backen::V,bake,жигнэх
+1239,braten::V,fry,шарах
+1240,braten::V,fry,хайрах
+1241,umrühren::V,stir,хутгах
+1242,stricken::V,knit,нэхэх
+1243,stricken::V,knit,сүлжих
+1244,nähen::V,sew,оёх
+1245,färben::V,dye,будах
+1246,reinigen::V,clean,арилгах
+1247,reinigen::V,clean,цэвэрлэх
+1248,waschen::V,wash,угаах
+1249,abwischen::V,wipe,арчих
+1250,spülen::V,rinse,зайлах
+1251,fegen::V,sweep,хамах
+1252,fegen::V,sweep,шүүрдэх
+1253,kehren::V,sweep,шүүрдэх
+1254,kehren::V,sweep,туужуудах
+1255,baden::V,bath,усанд орох
+1256,sich waschen::V,wash,биеэ угаах
+1257,ausziehen::V,take off,тайлах
+1258,anziehen::V,put on,өмсөх
+1259,sich anziehen::V,get dressed,хувцаслах
+1260,kämmen::V,comb,самнах
+1261,schmücken::V,decorate,гоёх
+1262,schmücken::V,decorate,чимэх
+1263,sagen::V,say,гэх
+1264,sagen::V,say,хэлэх
+1265,sprechen::V,speak,ярих
+1266,sprechen::V,speak,өгүүлэх
+1267,reden::V,talk,хэлэх
+1268,reden::V,talk,хөөрөлдөх
+1269,sich unterhalten::V,chat,ярилцах
+1270,fragen::V,ask,асуух
+1271,bitten::V,request,гуйх
+1272,erzählen::V,tell,өгүүлэх
+1273,mitteilen::V,convey,дуулгах
+1274,mitteilen::V,convey,мэдээлэх
+1275,nennen::V,name,нэрлэх
+1276,rufen::V,call,дуудах
+1277,prahlen::V,brag,бардах
+1278,prahlen::V,brag,сайрхах
+1279,übersetzen::V,translate,орчуулах
+1280,denken::V,think,санах
+1281,glauben::V,believe,итгэх
+1282,bemerken::V,notice,ажих
+1283,bemerken::V,notice,ажиглах
+1284,erkennen::V,recognize,таних
+1285,begreifen::V,grasp,ойлгох
+1286,verstehen::V,understand,мэдэж авах
+1287,lernen::V,learn,сурах
+1288,wissen::V,know,мэдэх
+1289,sich erinnern an::V,remember,дурсах
+1290,vergessen::V,forget,мартах
+1291,messen::V,measure,хэмжих
+1292,zählen::V,count,тоолох
+1293,rechnen::V,calculate,тооцоох
+1294,lesen::V,read,унших
+1295,malen::V,paint,зурах
+1296,zeichnen::V,draw,дүрслэн бичих
+1297,schreiben::V,write,бичих
+1298,besitzen::V,own,эзэмших
+1299,kaufen::V,buy,худалдан авах
+1300,verkaufen::V,sell,худалдах
+1301,bezahlen::V,pay for,төлөх
+1302,zahlen::V,pay,төлөх
+1303,beherrschen::V,rule,эзэмших
+1304,ertragen::V,endure,тэсэх

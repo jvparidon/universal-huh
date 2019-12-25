@@ -1,0 +1,1364 @@
+,Concept_ID,is,cy
+0,Auge::N,auga,llygad
+1,Ohr::N,eyra,clust
+2,Nase::N,nef,trwyn
+3,Mund::N,munnur,ceg
+4,Zahn::N,tönn,dant
+5,Zunge::N,tunga,tafod
+6,Lippe::N,vör,gwefus
+7,Wange::N,kinn,boch
+8,Wange::N,vangi,boch
+9,Gesicht::N,andlit,wyneb
+10,Stirn::N,enni,talcen
+11,Haar::N,hár,blew
+12,Schnurrbart::N,yfirskegg,mwstas
+13,Bart::N,skegg,barf
+14,Kinn::N,haka,gên
+15,Kiefer[Anatomie]::N,kjálki,gên
+16,Kiefer[Anatomie]::N,skoltur,gên
+17,Kehle::N,kverk,gwddf
+18,Hals::N,háls,gwddf
+19,Genick::N,hnakki,gwar
+20,Genick::N,hnakki,gwegil
+21,Kopf::N,höfuð,pen
+22,Rücken::N,hryggur,cefn
+23,Bauch::N,kviður,bol
+24,Nabel::N,nafli,bogail
+25,Busen::N,barmur,bron
+26,Brust::N,brjóst,brest
+27,Schulter::N,öxl,ysgwydd
+28,Arm::N,armur,braich
+29,Ellenbogen::N,olnbogi,penelin
+30,Hand::N,hönd,llaw
+31,Handfläche::N,lófi,palf
+32,Finger::N,fingur,bys
+33,Fingernagel::N,fingurnögl,ewin
+34,Nagel[Anatomie]::N,nögl,ewin
+35,Zeh::N,tá,bys troed
+36,Fuß::N,fótur,troed
+37,Ferse::N,hæll,sawdl
+38,Knie::N,kné,glin
+39,Oberschenkel::N,læri,clun
+40,Bein::N,fótleggur,coes
+41,Körper::N,búkur,corff
+42,Körper::N,líkami,corff
+43,Haut::N,húð,croen
+44,Haut::N,skinn,croen
+45,Blut::N,blóð,gwaed
+46,Ader::N,æð,gwythïen
+47,Sehne::N,sin,gewyn
+48,Knochen::N,bein,asgwrn
+49,Gehirn::N,heili,ymennydd
+50,Herz::N,hjarta,calon
+51,Magen::N,magi,cylla
+52,Magen::N,magi,stumog
+53,Leber::N,lifur,iau
+54,Atem::N,andi,anadl
+55,Atem::N,andardráttur,anadl
+56,Hunger::N,hungur,newyn
+57,Träne::N,tár,deigryn
+58,Geschmack::N,smekkur,cyflas
+59,Geruch::N,lykt,aroglau
+60,Schlaf::N,svefn,cwsg
+61,Traum::N,draumur,breuddwyd
+62,Himmel::N,himinn,awyr
+63,Sonne::N,sól,haul
+64,Mond::N,tungl,lleuad
+65,Stern::N,stjarna,seren
+66,Luft::N,loft,awyr
+67,Wind::N,vindur,gwynt
+68,Welle::N,alda,ton
+69,Welle::N,bylgja,ton
+70,Wasser::N,vatn,dŵr
+71,Stein::N,steinn,carreg
+72,Boden::N,botn,llawr
+73,Erde::N,jörð,pridd
+74,Staub::N,ryk,llwch
+75,Staub::N,duft,llwch
+76,Rauch::N,reykur,mwg
+77,Funke::N,neisti,gwreichioni
+78,Feuer::N,eldur,tân
+79,Licht::N,ljós,golau
+80,Schatten::N,skuggi,cysgod
+81,Wetter::N,veður,tywydd
+82,Nebel::N,þoka,niwl
+83,Wolke::N,ský,cwmwl
+84,Regen::N,regn,glaw
+85,Schnee::N,snjór,ôd
+86,Schnee::N,snjór,eira
+87,Eis::N,ís,iâ
+88,Frost::N,frost,rhew
+89,Kälte::N,kuldi,oerni
+90,Kälte::N,kuldi,annwyd
+91,Hitze::N,hiti,gwres
+92,Raureif::N,hrím,barrug
+93,Regenbogen::N,regnbogi,enfys
+94,Donner::N,þruma,tyrfau
+95,Strömung::N,straumur,cerrynt
+96,Tropfen::N,dropi,dafn
+97,Tropfen::N,dropi,diferyn
+98,Schaum::N,froða,ewyn
+99,Schmutz::N,óhreinindi,baw
+100,Schmutz::N,óhreinindi,budreddi
+101,See::N,stöðuvatn,llyn
+102,Sumpf::N,fen,cors
+103,Moor::N,mýri,rhos
+104,Wiese::N,engi,dôl
+105,Wald::N,skógur,coedwig
+106,Hügel::N,hæð,bryn
+107,Hügel::N,hóll,bryn
+108,Anhöhe::N,hæð,bryn
+109,Anhöhe::N,hóll,bryn
+110,Berg::N,fell,mynydd
+111,Berg::N,fjall,mynydd
+112,Gipfel::N,tindur,copa
+113,Höhle::N,hellir,ogof
+114,Abhang::N,hlíð,llethr
+115,Abhang::N,brekka,llethr
+116,Quelle::N,lind,tarddiad
+117,Quelle::N,lind,ffynhonnell
+118,Quelle::N,uppspretta,tarddiad
+119,Quelle::N,uppspretta,ffynhonnell
+120,Bach::N,lækur,nant
+121,Bach::N,lækur,afonig
+122,Bach::N,lækur,cornant
+123,Fluss::N,á,afon
+124,Fluss::N,fljót,afon
+125,Ufer::N,árbakki,glan
+126,Ufer::N,sjávarbakki,glan
+127,Küste::N,strönd,traeth
+128,Küste::N,strönd,arfordir
+129,Festland::N,meginland,tir
+130,Meer::N,haf,môr
+131,Meer::N,sjór,môr
+132,Bucht::N,vík,bae
+133,Insel::N,eyja,ynys
+134,Blume::N,blóm,blodyn
+135,Gras::N,gras,glaswellt
+136,Wurzel::N,rót,gwreiddyn
+137,Baum::N,tré,coeden
+138,Stamm::N,stofn,colfen
+139,Stamm::N,stofn,boncyff
+140,Rinde::N,börkur,rhisgl
+141,Ast::N,grein,cangen
+142,Zweig::N,angi,cainc
+143,Zweig::N,angi,cangen
+144,Zweig::N,kvistur,cainc
+145,Zweig::N,kvistur,cangen
+146,Blatt::N,blað,deilen
+147,Birke::N,birki,bedwen
+148,Kiefer[Baum]::N,fura,pinwydden
+149,Weide[Baum]::N,víðir,helygen
+150,Tanne::N,greni,ffynidwydden
+151,Horn::N,horn,corn
+152,Feder::N,fjöður,plufyn
+153,Fell::N,skinn,ffwr
+154,Flügel::N,vængur,adain
+155,Klaue::N,kló,crafanc
+156,Kralle::N,kló,ewin
+157,Schwanz::N,rófa,cwt
+158,Schwanz::N,rófa,cynffon
+159,Schwanz::N,skott,cwt
+160,Schwanz::N,skott,cynffon
+161,Ei::N,egg,wy
+162,Nest::N,hreiður,nyth
+163,Bau::N,greni,ffau
+164,Bau::N,bæli,ffau
+165,Tier::N,dýr,anifail
+166,Herde::N,hjörð,praidd
+167,Herde::N,hjörð,diadell
+168,Kuh::N,kýr,buwch
+169,Bulle::N,boli,tarw
+170,Pferd::N,hestur,ceffyl
+171,Schaf::N,kind,dafad
+172,Schwein::N,svín,mochyn
+173,Hund::N,hundur,ci
+174,Katze::N,köttur,cath
+175,Bär::N,björn,arth
+176,Eichhörnchen::N,íkorni,gwiwer
+177,Elch::N,elgur,elc
+178,Fuchs::N,refur,cadno
+179,Hase::N,héri,ysgyfarnog
+180,Maus::N,mús,llygoden
+181,Wolf::N,úlfur,blaidd
+182,Vogel::N,fugl,aderyn
+183,Schwarm::N,sægur,haid
+184,Huhn::N,hæna,cyw
+185,Hahn::N,hani,ceiliog
+186,Gans::N,gæs,gŵydd
+187,Adler::N,örn,eryr
+188,Ente::N,önd,hwyad
+189,Eule::N,uggla,tylluan
+190,Kranich::N,trana,garan
+191,Kranich::N,trana,crychydd
+192,Krähe::N,kráka,brân
+193,Kuckuck::N,gaukur,cog
+194,Kuckuck::N,gaukur,cwcw
+195,Schwan::N,svanur,alarch
+196,Fisch::N,fiskur,pysgod
+197,Barsch::N,aborri,draenog
+198,Hecht::N,gedda,penhwyad
+199,Schlange[Tier]::N,naðra,neidr
+200,Wurm::N,ormur,abwydyn
+201,Wurm::N,ormur,pryf genwair
+202,Spinne::N,kónguló,cor
+203,Spinne::N,kónguló,pryf copyn
+204,Ameise::N,maur,morgrugyn
+205,Laus::N,lús,lleuen
+206,Mücke::N,mý,gwybedyn
+207,Mücke::N,mýfluga,gwybedyn
+208,Fliege::N,fluga,cleren
+209,Schmetterling::N,fiðrildi,glöyn byw
+210,Schmetterling::N,fiðrildi,iâr fach yr haf
+211,Beere::N,ber,aeronen
+212,Apfel::N,epli,afal
+213,Pilz::N,sveppur,madarch
+214,Zwiebel::N,laukur,nionyn
+215,Zwiebel::N,laukur,winwnsyn
+216,Saat::N,fræ,had
+217,Saat::N,útsæði,had
+218,Korn::N,korn,grawn
+219,Heu::N,hey,gwair
+220,Schale::N,hýði,croen
+221,Schale::N,hýði,plisgyn
+222,Grube::N,gryfja,pwll
+223,Grube::N,gryfja,pydew
+224,Falle::N,gildra,magl
+225,Schlinge::N,snara,cwlwm rhedeg
+226,Spur::N,spor,ôl
+227,Asche::N,aska,lludw
+228,Dreck::N,óþverri,baw
+229,Dreck::N,óþverri,budreddi
+230,Eisen::N,járn,haearn
+231,Gold::N,gull,aur
+232,Silber::N,silfur,arian
+233,Kohle::N,kol,glo
+234,Glas::N,gler,gwydr
+235,Lehm::N,leir,clai
+236,Sand::N,sandur,tywod
+237,Mensch::N,maður,dyn
+238,Mensch::N,manneskja,dyn
+239,Mann::N,maður,dyn
+240,Mann::N,karlmaður,dyn
+241,Frau::N,kona,merch
+242,Frau::N,kona,gwraig
+243,Kind::N,barn,plentyn
+244,Kind::N,krakki,plentyn
+245,Junge::N,drengur,hogyn
+246,Junge::N,drengur,bachgen
+247,Mädchen::N,stelpa,merch
+248,Mädchen::N,stelpa,geneth
+249,Familie::N,fjölskylda,teulu
+250,Familie::N,fjölskylda,tylwyth
+251,Großvater::N,afi,taid
+252,Großvater::N,afi,tad-cu
+253,Großmutter::N,amma,nain
+254,Großmutter::N,amma,mam-gu
+255,Eltern::N,foreldrar,rhieni
+256,Vater::N,faðir,tad
+257,Mutter::N,móðir,mam
+258,Sohn::N,sonur,mab
+259,Tochter::N,dóttir,merch
+260,Bruder::N,bróðir,brawd
+261,Schwester::N,systir,chwaer
+262,Onkel::N,föðurbróðir,ewythr
+263,Tante::N,frænka,modryb
+264,Tante::N,móðursystir,modryb
+265,Ehemann::N,eiginmaður,gŵr
+266,Ehefrau::N,eiginkona,gwraig
+267,Freude::N,gleði,gorfoledd
+268,Gelächter::N,hlátur,chwerthin
+269,Glück::N,gæfa,hapusrwydd
+270,Kummer::N,sorg,galar
+271,Wunsch::N,ósk,dymuniad
+272,Lust::N,fýsn,chwant
+273,Lust::N,löngun,chwant
+274,Geist::N,andi,ysbryd
+275,Gedanke::N,hugsun,meddwl
+276,Gedächtnis::N,minni,cof
+277,Verstand::N,vit,meddwl
+278,Sinn::N,merking,ystyr
+279,Grund::N,ástæða,achos
+280,Grund::N,ástæða,rheswm
+281,Wahrheit::N,sannleikur,gwir
+282,Wahrheit::N,sannleikur,gwirionedd
+283,Gespräch::N,samtal,sgwrs
+284,Märchen::N,ævintýri,chwedl werin
+285,Erzählung::N,saga,stori
+286,Nachricht::N,frétt,neges
+287,Neuigkeit::N,frétt,newydd
+288,Name::N,nafn,enw
+289,Rätsel::N,gáta,pos
+290,Rede::N,ræða,araith
+291,Sprache::N,mál,iaith
+292,Sprache::N,tungumál,iaith
+293,Stimme::N,rödd,llais
+294,Wort::N,orð,gair
+295,Zeichen::N,tákn,arwydd
+296,Zeichen::N,merki,arwydd
+297,Ruf::N,kall,galwad
+298,Lärm::N,hávaði,trwst
+299,Laut::N,hljóð,sain
+300,Ton::N,tónn,tôn
+301,Lied::N,ljóð,cân
+302,Lied::N,söngur,cân
+303,Ruhe::N,ró,tawelwch
+304,Ruhe::N,kyrrð,tawelwch
+305,Leute::N,fólk,pobl
+306,Volk::N,þjóð,pobl
+307,Arbeit::N,vinna,gwaith
+308,Gast::N,gestur,gwestai
+309,Geschenk::N,gjöf,rhodd
+310,Geschenk::N,gjöf,anrheg
+311,Spiel::N,leikur,chwarae
+312,Gesellschaft::N,selskapur,cwmni
+313,Hilfe::N,hjálp,cymorth
+314,Freund::N,vinur,cyfaill
+315,Kamerad::N,félagi,cydymaith
+316,Angelegenheit::N,mál,pwnc
+317,Angelegenheit::N,málefni,pwnc
+318,Anzahl::N,tala,cyfrif
+319,Anzahl::N,fjöldi,cyfrif
+320,Art::N,tegund,bath
+321,Stück::N,biti,darn
+322,Stück::N,stykki,darn
+323,Teil::N,hluti,rhan
+324,Teil::N,partur,rhan
+325,Hälfte::N,helmingur,hanner
+326,Kreis::N,hringur,cylch
+327,Kreuz::N,kross,croes
+328,Kreuz::N,krossmark,croes
+329,Linie::N,lína,llinell
+330,Strich::N,strik,strôc
+331,Strich::N,strik,trawiad
+332,Abstand::N,millibil,bwlch
+333,Abstand::N,millibil,pellter
+334,Entfernung::N,fjarlægð,pellter
+335,Gegend::N,hérað,cylch
+336,Platz::N,pláss,lle
+337,Ort::N,staður,lle
+338,Seite::N,hlið,ochr
+339,Mitte::N,miðja,canol
+340,Gegenstand::N,hlutur,eitem
+341,Sache::N,mál,peth
+342,Rand::N,brún,cwr
+343,Rand::N,brún,ymyl
+344,Kante::N,rönd,min
+345,Kante::N,rönd,ymyl
+346,Ecke::N,horn,cornel
+347,Spitze::N,oddur,blaen
+348,Ende::N,endi,pen
+349,Loch::N,gat,twll
+350,Loch::N,hola,twll
+351,Winkel::N,skot,congl
+352,Winkel::N,krókur,congl
+353,Muster::N,munstur,patrwm
+354,Größe::N,stærð,maint
+355,Größe::N,stærð,maintioli
+356,Länge::N,lengd,hyd
+357,Höhe::N,hæð,uchder
+358,Gewicht::N,vigt,pwysau
+359,Gewicht::N,þyngd,pwysau
+360,Menge::N,magn,swm
+361,Menge::N,magn,maint
+362,Haufen::N,hrúga,pentwr
+363,Haufen::N,haugur,pentwr
+364,Reihe::N,röð,rhes
+365,Boot::N,bátur,cwch
+366,Ruder::N,ár,rhwyf
+367,Schlitten::N,sleði,sled
+368,Schlitten::N,sleði,car llusg
+369,Ski::N,skíði,sgi
+370,Lagerfeuer::N,varðeldur,coelcerth
+371,Last::N,byrði,llwyth
+372,Last::N,farmur,llwyth
+373,Gang::N,ganga,tro
+374,Schritt::N,skref,cam
+375,Norden::N,norður,gogledd
+376,Süden::N,suður,de
+377,Westen::N,vestur,gorllewin
+378,Osten::N,austur,dwyrain
+379,Holz::N,viður,pren
+380,Brett::N,fjöl,bwrdd
+381,Brett::N,fjöl,astell
+382,Platte::N,flötur,llech
+383,Stütze::N,stoð,ateg
+384,Stütze::N,stoð,cynhalydd
+385,Stange::N,stöng,polyn
+386,Stock::N,prik,ffon
+387,Stock::N,prik,brigyn
+388,Stock::N,stafur,ffon
+389,Stock::N,stafur,brigyn
+390,Stab::N,prik,ffon
+391,Stab::N,stafur,ffon
+392,Rohr::N,rör,pibell
+393,Rohr::N,pípa,pibell
+394,Haus::N,hús,tŷ
+395,Heim::N,heimili,cartref
+396,Ofen::N,ofn,stof
+397,Fußboden::N,gólf,llawr
+398,Tisch::N,borð,bwrdd
+399,Stuhl::N,stóll,cadair
+400,Wiege::N,vagga,crud
+401,Bett::N,rúm,gwely
+402,Bett::N,hvíla,gwely
+403,Regal::N,hilla,silff
+404,Kiste::N,kassi,bocs
+405,Kiste::N,kassi,blwch
+406,Fenster::N,gluggi,ffenestr
+407,Tür::N,dyr,drws
+408,Tür::N,hurð,drws
+409,Tor::N,hlið,porth
+410,Zaun::N,girðing,ffens
+411,Zaun::N,limgarður,ffens
+412,Dach::N,þak,to
+413,Leiter::N,stigi,ysgol
+414,Besen::N,sópur,ysgub
+415,Spaten::N,spaði,rhaw
+416,Schaufel::N,skófla,rhaw
+417,Gabel::N,gaffall,fforc
+418,Löffel::N,skeið,llwy
+419,Messer::N,hnífur,cyllell
+420,Nagel::N,nögl,hoel
+421,Netz::N,net,gwe
+422,Netz::N,net,rhwyd
+423,Haken::N,krókur,bach
+424,Griff::N,tak,carn
+425,Schloss::N,lás,clo
+426,Bild::N,mynd,llun
+427,Bild::N,mynd,pictiwr
+428,Figur::N,stytta,ffigur
+429,Puppe::N,brúða,dol
+430,Beutel::N,poki,cwd
+431,Beutel::N,baggi,cwd
+432,Bündel::N,böggull,bwndel
+433,Bündel::N,böggull,coflaid
+434,Tasche::N,veski,cod
+435,Eimer::N,fata,bwced
+436,Eimer::N,fata,cunnog
+437,Deckel::N,lok,caead
+438,Geschirr::N,leirtau,llestri
+439,Sack::N,sekkur,sach
+440,Tasse::N,bolli,cwpan
+441,Topf::N,pottur,pot
+442,Topf::N,pottur,crochan
+443,Kessel::N,ketill,tegell
+444,Essen::N,matur,pryd o fwyd
+445,Nahrung::N,fæða,bwyd
+446,Speise::N,réttur,saig
+447,Speise::N,matarréttur,saig
+448,Fleisch::N,kjöt,cig
+449,Getreide::N,korn,ŷd
+450,Getreide::N,korn,llafur
+451,Brei::N,grautur,uwd
+452,Brot::N,brauð,bara
+453,Scheibe::N,sneið,tafell
+454,Fett::N,fita,saim
+455,Fett::N,fita,braster
+456,Butter::N,smjör,ymenyn
+457,Öl::N,olía,olew
+458,Salz::N,salt,halen
+459,Suppe::N,súpa,cawl
+460,Honig::N,hunang,mêl
+461,Milch::N,mjólk,llaeth
+462,Milch::N,mjólk,llefrith
+463,Tee::N,te,te
+464,Leder::N,skinn,lledr
+465,Wolle::N,ull,gwlân
+466,Stoff::N,dúkur,lliain
+467,Stoff::N,dúkur,brethyn
+468,Nadel::N,nál,nodwydd
+469,Faden::N,þráður,edau
+470,Faden::N,þráður,edefyn
+471,Knopf::N,tala,botwm
+472,Knopf::N,hnappur,botwm
+473,Knoten::N,hnútur,cwlwm
+474,Farbe::N,málning,paent
+475,Kleidung::N,búningur,dillad
+476,Kleidung::N,búningur,gwisgoedd
+477,Kleidung::N,klæðnaður,dillad
+478,Kleidung::N,klæðnaður,gwisgoedd
+479,Hemd::N,skyrta,crys
+480,Kragen::N,kragi,coler
+481,Kragen::N,flibbi,coler
+482,Ärmel::N,ermi,llawes
+483,Hose::N,buxur,trowsus
+484,Gürtel::N,belti,gwregys
+485,Mütze::N,húfa,cap
+486,Schuh::N,skór,esgid
+487,Stiefel::N,stígvél,botasen
+488,Ring::N,hringur,modrwy
+489,Band::N,band,rhuban
+490,Kamm::N,greiða,crib
+491,Spiegel::N,spegill,drych
+492,Riemen::N,ól,strap
+493,Riemen::N,reim,strap
+494,Schnur::N,snúra,llinyn
+495,Leine::N,band,tennyn
+496,Decke::N,teppi,blanced
+497,Decke::N,teppi,gwrthban
+498,Kissen::N,koddi,clustog
+499,Kissen::N,koddi,gobennydd
+500,Tuch::N,klútur,sgarff
+501,Handtuch::N,þurrka,tywel
+502,Handtuch::N,þurrka,lliain sychu
+503,Handtuch::N,handklæði,tywel
+504,Handtuch::N,handklæði,lliain sychu
+505,Kraft::N,afl,grym
+506,Kraft::N,kraftur,grym
+507,Stärke::N,styrkur,nerth
+508,Stärke::N,styrkur,cryfder
+509,Gesundheit::N,heilsa,iechyd
+510,Gesundheit::N,heilbrigði,iechyd
+511,Krankheit::N,sjúkdómur,afiechyd
+512,Krankheit::N,sjúkdómur,anhwylder
+513,Schmerz::N,sársauki,poen
+514,Schmerz::N,sársauki,gwayw
+515,Wunde::N,sár,clwyf
+516,Fieber::N,hitasótt,twymyn
+517,Arznei::N,lyf,meddyginiaeth
+518,Brücke::N,brú,pont
+519,Brunnen::N,brunnur,ffynnon
+520,Weide::N,hagi,porfa
+521,Pfad::N,stígur,llwybr
+522,Weg::N,vegur,ffordd
+523,Straße::N,gata,heol
+524,Straße::N,gata,ffordd
+525,Straße::N,stræti,heol
+526,Straße::N,stræti,ffordd
+527,Dorf::N,þorp,pentref
+528,Stadt::N,borg,tref
+529,Brief::N,bréf,llythyr
+530,Buch::N,bók,llyfr
+531,Buchstabe::N,bókstafur,llythyren
+532,Zeitung::N,dagblað,papur newydd
+533,Leben::N,líf,bywyd
+534,Tod::N,dauði,marwolaeth
+535,Grab::N,gröf,bedd
+536,Kirche::N,kirkja,eglwys
+537,Sünde::N,synd,pechod
+538,Gott::N,guð,duw
+539,Arbeiter::N,verkamaður,gweithiwr
+540,Chef::N,yfirmaður,pennaeth
+541,Meister::N,meistari,meistr
+542,Arzt::N,læknir,meddyg
+543,Lehrer::N,kennari,athro
+544,Geld::N,peningar,pres
+545,Geld::N,peningar,arian
+546,Geschäft::N,viðskipti,busnes
+547,Laden::N,búð,siop
+548,Laden::N,verslun,siop
+549,Preis::N,verð,pris
+550,Ware::N,vara,nwydd
+551,Nutzen::N,gagn,elw
+552,Nutzen::N,gagn,budd
+553,Reichtum::N,auður,cyfoeth
+554,Welt::N,veröld,byd
+555,Land::N,land,gwlad
+556,Staat::N,ríki,gwladwriaeth
+557,König::N,konungur,brenin
+558,Macht::N,vald,grym
+559,Macht::N,vald,awdurdod
+560,Grenze::N,landamæri,ffin
+561,Grenze::N,landamæri,goror
+562,Krieg::N,stríð,rhyfel
+563,Feind::N,fjandmaður,gelyn
+564,Gewalt::N,ofbeldi,ffyrnigrwydd
+565,Kampf::N,bardagi,brwydr
+566,Bogen[Waffe]::N,bogi,bwa
+567,Pfeil::N,ör,saeth
+568,Gewehr::N,byssa,dryll
+569,Fehler::N,villa,gwall
+570,Fehler::N,villa,camgymeriad
+571,Lüge::N,lygi,celwydd
+572,Lüge::N,lygi,anwiredd
+573,Schaden::N,skemmd,niwed
+574,Schaden::N,skemmd,difrod
+575,Unglück::N,óhamingja,anffawd
+576,Schuld::N,sök,bai
+577,Alter::N,aldur,oed
+578,Schluss::N,lok,diwedd
+579,Schluss::N,endir,diwedd
+580,Zeit::N,tími,amser
+581,Tag::N,dagur,dydd
+582,Tag::N,dagur,diwrnod
+583,Morgen::N,morgunn,bore
+584,Mittag::N,hádegi,nawn
+585,Abend::N,kvöld,noswaith
+586,Nacht::N,nótt,nos
+587,Woche::N,vika,wythnos
+588,Monat::N,mánuður,mis
+589,Jahr::N,ár,blwyddyn
+590,Frühling::N,vor,gwanwyn
+591,Sommer::N,sumar,haf
+592,Herbst::N,haust,hydref
+593,Winter::N,vetur,gaeaf
+594,Januar::N,janúar,Ionawr
+595,Februar::N,február,Chwefror
+596,März::N,mars,Mawrth
+597,April::N,apríl,Ebrill
+598,Mai::N,maí,Mai
+599,Juni::N,júní,Mehefin
+600,Juli::N,júlí,Gorffennaf
+601,August::N,ágúst,Awst
+602,September::N,september,Medi
+603,Oktober::N,október,Hydref
+604,November::N,nóvember,Tachwedd
+605,Dezember::N,desember,Rhagfyr
+606,Montag::N,mánudagur,dydd Llun
+607,Dienstag::N,þriðjudagur,dydd Mawrth
+608,Mittwoch::N,miðvikudagur,dydd Mercher
+609,Donnerstag::N,fimmtudagur,dydd Iau
+610,Freitag::N,föstudagur,dydd Gwener
+611,Samstag::N,laugardagur,dydd Sadwrn
+612,Sonntag::N,sunnudagur,dydd Sul
+613,groß::A,stór,mawr
+614,klein::A,lítill,bach
+615,lang::A,langur,hir
+616,kurz::A,stuttur,byr
+617,kurz::A,stuttur,cwta
+618,breit::A,breiður,llydan
+619,schmal::A,mjór,cul
+620,dicht::A,þéttur,dwys
+621,dick[Gegenstand]::A,þykkur,trwchus
+622,dünn::A,þunnur,tenau
+623,fein::A,fíngerður,main
+624,fest::A,fastur,cadarn
+625,flach::A,flatur,gwastad
+626,glatt::A,háll,llyfn
+627,glatt::A,sléttur,llyfn
+628,hart::A,harður,caled
+629,weich::A,mjúkur,meddal
+630,rund::A,kringlóttur,crwn
+631,spitz::A,oddhvass,pigfain
+632,scharf::A,beittur,miniog
+633,stumpf::A,bitlaus,pŵl
+634,schwer::A,þungur,trwm
+635,schön::A,fagur,teg
+636,schön::A,fagur,hardd
+637,schön::A,fagur,prydferth
+638,schön::A,fallegur,teg
+639,schön::A,fallegur,hardd
+640,schön::A,fallegur,prydferth
+641,heiß::A,heitur,poeth
+642,warm::A,hlýr,twym
+643,warm::A,hlýr,cynnes
+644,warm::A,heitur,twym
+645,warm::A,heitur,cynnes
+646,kalt::A,kaldur,oer
+647,kühl::A,svalur,oeraidd
+648,frisch::A,frískur,iach
+649,feucht::A,rakur,llaith
+650,feucht::A,þvalur,llaith
+651,nass::A,votur,gwlyb
+652,nass::A,blautur,gwlyb
+653,trocken::A,þurr,sych
+654,voll::A,fullur,llawn
+655,leer::A,tómur,gwag
+656,offen::A,opinn,agored
+657,geschlossen::A,lokaður,caead
+658,geschlossen::A,lokaður,caeëdig
+659,sauber::A,þrifinn,glân
+660,schmutzig::A,óhreinn,budr
+661,schmutzig::A,óhreinn,brwnt
+662,schmutzig::A,sóðalegur,budr
+663,schmutzig::A,sóðalegur,brwnt
+664,roh::A,hrár,amrwd
+665,reif::A,þroskaður,aeddfed
+666,lecker::A,ljúffengur,blasus
+667,lecker::A,ljúffengur,danteithiol
+668,süß::A,sætur,melys
+669,bitter::A,beiskur,chwerw
+670,sauer::A,súr,sur
+671,hell::A,bjartur,disglair
+672,dunkel::A,dimmur,tywyll
+673,schwarz::A,svartur,du
+674,weiß::A,hvítur,gwyn
+675,rot::A,rauður,coch
+676,gelb::A,gulur,melyn
+677,blau::A,blár,glas
+678,grün::A,grænn,gwyrdd
+679,grau::A,grár,llwyd
+680,bunt::A,marglitur,lliwgar
+681,billig::A,ódýr,rhad
+682,teuer::A,dýr,drud
+683,wertvoll::A,verðmætur,gwerthfawr
+684,blind::A,blindur,dall
+685,taub::A,heyrnarlaus,byddar
+686,kräftig::A,öflugur,nerthol
+687,kräftig::A,öflugur,grymus
+688,stark::A,sterkur,cryf
+689,stark::A,sterkur,cadarn
+690,schwach::A,veill,gwan
+691,fett::A,feitur,tew
+692,schlank::A,grannur,main
+693,schlank::A,spengilegur,main
+694,hübsch::A,snotur,tlws
+695,hübsch::A,laglegur,tlws
+696,böse::A,illur,drwg
+697,böse::A,vondur,drwg
+698,dumm::A,heimskur,twp
+699,faul::A,latur,diog
+700,fleißig::A,iðinn,dyfal
+701,geizig::A,nískur,crintach
+702,geizig::A,nískur,cybyddlyd
+703,klug::A,hygginn,deallus
+704,geschickt::A,fimur,medrus
+705,geschickt::A,fimur,deheuig
+706,geschickt::A,laginn,medrus
+707,geschickt::A,laginn,deheuig
+708,lieb::A,kær,hoff
+709,lieb::A,kær,annwyl
+710,lieb::A,ljúfur,hoff
+711,lieb::A,ljúfur,annwyl
+712,lustig::A,kátur,llon
+713,sanft::A,blíður,mwyn
+714,hungrig::A,soltinn,newynog
+715,hungrig::A,hungraður,newynog
+716,krank::A,sjúkur,sâl
+717,krank::A,sjúkur,gwael
+718,nackt::A,nakinn,noeth
+719,traurig::A,dapur,trist
+720,traurig::A,hryggur,trist
+721,lebendig::A,lifandi,yn fyw
+722,gut::A,góður,da
+723,schlecht::A,slæmur,drwg
+724,schlecht::A,slæmur,gwael
+725,schlecht::A,lélegur,drwg
+726,schlecht::A,lélegur,gwael
+727,richtig::A,réttur,cywir
+728,schlimm::A,slæmur,enbyd
+729,wahr::A,sannur,gwir
+730,alt::A,gamall,hen
+731,neu::A,nýr,newydd
+732,ehemalig::A,fyrrverandi,blaenorol
+733,alt[Lebewesen]::A,gamall,oedrannus
+734,jung::A,ungur,ifanc
+735,arm::A,vesall,tlawd
+736,arm::A,fátækur,tlawd
+737,reich::A,ríkur,cyfoethog
+738,reich::A,auðugur,cyfoethog
+739,bekannt::A,kunnugur,cynefin
+740,bekannt::A,kunnugur,cyfarwydd
+741,berühmt::A,frægur,enwog
+742,fremd::A,framandi,estron
+743,fremd::A,ókunnugur,estron
+744,verschieden::A,ýmis,gwahanol
+745,nah::A,nálægur,agos
+746,fern::A,fjarri,pell
+747,fern::A,fjarlægur,pell
+748,linker::A,vinstri,aswy
+749,linker::A,vinstri,chwith
+750,rechter::A,hægri,de
+751,rechter::A,hægri,deau
+752,anderer::A,annar,arall
+753,erster::A,fyrsti,cyntaf
+754,zweiter::A,annar,ail
+755,dritter::A,þriðji,trydydd
+756,letzter::A,síðasti,olaf
+757,allein::ADV,einn,unig
+758,allein::ADV,einn,ar ei ben ei hun
+759,allein::ADV,aleinn,unig
+760,allein::ADV,aleinn,ar ei ben ei hun
+761,auf einmal::ADV,allt í einu,ar yr un pryd
+762,zusammen::ADV,saman,ynghyd
+763,zusammen::ADV,saman,gyda'i gilydd
+764,lange::ADV,lengi,amser hir
+765,plötzlich::ADV,skyndilega,yn sydyn
+766,sofort::ADV,strax,ar unwaith
+767,sofort::ADV,þegar í stað,ar unwaith
+768,später::ADV,seinna,yn ddiweddarach
+769,jetzt::ADV,nú,yn awr
+770,jetzt::ADV,núna,yn awr
+771,heute::ADV,í dag,heddiw
+772,morgen::ADV,á morgun,yfory
+773,bald::ADV,brátt,yn fuan
+774,bald::ADV,brátt,gyda hyn
+775,bald::ADV,bráðum,yn fuan
+776,bald::ADV,bráðum,gyda hyn
+777,dann::ADV,svo,yna
+778,dann::ADV,svo,y pryd hwnnw
+779,dann::ADV,síðan,yna
+780,dann::ADV,síðan,y pryd hwnnw
+781,gestern::ADV,í gær,ddoe
+782,einst::ADV,forðum,gynt
+783,damals::ADV,þá,ar y pryd
+784,damals::ADV,þá,bryd hynny
+785,damals::ADV,á þeim tímum,ar y pryd
+786,damals::ADV,á þeim tímum,bryd hynny
+787,danach::ADV,á eftir því,wedyn
+788,vorher::ADV,áður,o'r blaen
+789,zuerst::ADV,fyrst,yn gyntaf
+790,einmal::ADV,einu sinni,unwaith
+791,manchmal::ADV,stundum,weithiau
+792,manchmal::ADV,stundum,ar brydiau
+793,oft::ADV,oft,yn aml
+794,oft::ADV,oft,yn fynych
+795,immer::ADV,alltaf,bob amser
+796,immer::ADV,sífellt,bob amser
+797,niemals::ADV,aldrei,ni ... byth
+798,niemals::ADV,aldrei,ni ... erioed
+799,hier::ADV,hér,yma
+800,hierhin::ADV,hingað,hyd yma
+801,von hier::ADV,héðan,oddi yma
+802,dort::ADV,þar,acw
+803,dort::ADV,þarna,acw
+804,dorthin::ADV,þangað,tuag yno
+805,geradeaus::ADV,beint áfram,syth ymlaen
+806,vorwärts::ADV,áfram,ymlaen
+807,rückwärts::ADV,aftur á bak,yn ôl
+808,zurück::ADV,aftur,yn ôl
+809,zurück::ADV,til baka,yn ôl
+810,unten::ADV,niðri,isod
+811,unten::ADV,niðri,oddi tanodd
+812,unten::ADV,fyrir neðan,isod
+813,unten::ADV,fyrir neðan,oddi tanodd
+814,hinab::ADV,niður,i lawr
+815,hinab::ADV,niður,i waered
+816,hinab::ADV,niður eftir,i lawr
+817,hinab::ADV,niður eftir,i waered
+818,oben::ADV,uppi,fry
+819,hinauf::ADV,upp,i fyny
+820,hinauf::ADV,upp,i'r lan
+821,hinauf::ADV,upp eftir,i fyny
+822,hinauf::ADV,upp eftir,i'r lan
+823,überall::ADV,alls staðar,ym mhobman
+824,nicht::ADV,ekki,ni
+825,nicht::ADV,ekki,nid
+826,ein wenig::ADV,dálítið,tipyn
+827,ein wenig::ADV,dálítið,ychydig
+828,kaum::ADV,varla,prin
+829,kaum::ADV,tæplega,prin
+830,sehr::ADV,mjög,iawn
+831,so::ADV,svo,fel
+832,so::ADV,svo,felly
+833,so::ADV,þannig,fel
+834,so::ADV,þannig,felly
+835,noch::ADV,enn,eto
+836,noch::ADV,ennþá,eto
+837,nur::ADV,bara,yn unig
+838,nur::ADV,aðeins,yn unig
+839,schon::ADV,nú þegar,eisoes
+840,schon::ADV,nú þegar,yn barod
+841,wieder::ADV,aftur,drachefn
+842,wieder::ADV,að nýju,drachefn
+843,vergebens::ADV,árangurslaust,yn ofer
+844,vor::PRP,fyrir,o flaen
+845,hinter::PRP,bak við,ar ôl
+846,hinter::PRP,aftur fyrir,ar ôl
+847,unter::PRP,undir,islaw
+848,durch::PRP,gegnum,trwy
+849,neben::PRP,hjá,ar bwys
+850,neben::PRP,við hliðina á,ar bwys
+851,zwischen::PRP,milli,rhwng
+852,zwischen::PRP,milli,cydrhwng
+853,zwischen::PRP,á milli,rhwng
+854,zwischen::PRP,á milli,cydrhwng
+855,wegen::PRP,vegna,o achos
+856,wegen::PRP,vegna,oherwydd
+857,dies::PRN,þetta,hyn
+858,das::PRN,það,hynny
+859,alles::PRN,allt,popeth
+860,ich::PRN,ég,fi
+861,du::PRN,þú,ti
+862,er::PRN,hann,fe
+863,wir::PRN,við,ni
+864,ihr::PRN,þið,chi
+865,sie::PRN,þær,hwy
+866,sie::PRN,þeir,hwy
+867,was::FPRN,hvað,pa beth
+868,wer::FPRN,hver,pwy
+869,wo::FADV,hvar,ble
+870,wo::FADV,hvar,ym mha le
+871,wohin::FADV,hvert,i ble
+872,wohin::FADV,hvert,i ba le
+873,wie::FADV,hvernig,sut
+874,warum::FADV,hvers vegna,pam
+875,wieviel::FNUM,hve mikill,faint
+876,eins::NUM,einn,un
+877,zwei::NUM,tveir,dau
+878,drei::NUM,þrír,tri
+879,vier::NUM,fjórir,pedwar
+880,fünf::NUM,fimm,pump
+881,sechs::NUM,sex,chwech
+882,sieben::NUM,sjö,saith
+883,acht::NUM,átta,wyth
+884,neun::NUM,níu,naw
+885,zehn::NUM,tíu,deg
+886,elf::NUM,ellefu,un ar ddeg
+887,zwölf::NUM,tólf,deuddeg
+888,zwölf::NUM,tólf,un deg dau
+889,zwanzig::NUM,tuttugu,ugain
+890,dreißig::NUM,þrjátíu,tri deg
+891,dreißig::NUM,þrjátíu,deg ar hugain
+892,vierzig::NUM,fjörutíu,deugain
+893,fünfzig::NUM,fimmtíu,hanner cant
+894,sechzig::NUM,sextíu,chwe deg
+895,siebzig::NUM,sjötíu,saith deg
+896,siebzig::NUM,sjötíu,deg a thrigain
+897,achtzig::NUM,áttatíu,wyth deg
+898,achtzig::NUM,áttatíu,pedar ugain
+899,neunzig::NUM,níutíu,naw deg
+900,neunzig::NUM,níutíu,deg a phedwar ugain
+901,hundert::NUM,hundrað,cant
+902,tausend::NUM,þúsund,mil
+903,und::CNJ,og,a
+904,oder::CNJ,eða,neu
+905,stehen::V,standa,sefyll
+906,sitzen::V,sitja,eistedd
+907,liegen::V,liggja,gorwedd
+908,hängen::V,hanga,hongian
+909,werden::V,verða,dod yn
+910,werden::V,verða,mynd yn
+911,passieren::V,gerast,digwydd
+912,beginnen::V,byrja,cychwyn
+913,enden::V,enda,gorffen
+914,enden::V,lykta,gorffen
+915,wechseln::V,skipta,newid
+916,aufgehen[Sonne]::V,koma upp,codi
+917,untergehen[Sonne]::V,ganga til viðar,machlud
+918,scheinen[Sonne]::V,skína,tywynnu
+919,donnern::V,þruma,taranu
+920,wehen::V,blása,chwythu
+921,strömen::V,streyma,ffrydio
+922,fließen::V,fljóta,llifo
+923,sich drehen::V,snúast,troi
+924,sich drehen::V,snúast,cylchdroi
+925,schwanken::V,riða,siglo
+926,schwanken::V,rugga,siglo
+927,schwingen::V,sveiflast,siglo
+928,fallen::V,falla,cwympo
+929,brennen::V,brenna,llosgi
+930,rauchen::V,reykja,mygu
+931,regnen::V,rigna,glawio
+932,gefrieren::V,frjósa,rhewi
+933,tauen::V,þiðna,toddi
+934,tauen::V,þiðna,meirioli
+935,schmelzen::V,bráðna,toddi
+936,trocknen::V,þorna,sychu
+937,sieden::V,sjóða,berwi
+938,faulen::V,rotna,pydru
+939,faulen::V,rotna,braenu
+940,verfaulen::V,rotna,pydru
+941,verfaulen::V,rotna,dadfeilio
+942,reißen::V,rifna,clecian
+943,reißen::V,rifna,torri'n glats
+944,versinken::V,sökkva,suddo
+945,vergehen::V,líða,myned heibio
+946,vergehen::V,líða,pasio
+947,erscheinen::V,birtast,ymddangos
+948,verschwinden::V,hverfa,diflannu
+949,sinken::V,síga,syrthio
+950,abnehmen::V,lækka,lleihau
+951,abnehmen::V,minnka,lleihau
+952,zunehmen::V,aukast,cynyddu
+953,steigen::V,stíga,codi
+954,wachsen::V,vaxa,tyfu
+955,glänzen::V,glóa,disgleirio
+956,glänzen::V,glampa,disgleirio
+957,funkeln::V,leiftra,pefrio
+958,lärmen::V,hafa hátt,cadw sŵn
+959,lärmen::V,hafa hátt,gwneud twrw
+960,läuten::V,hringja,canu
+961,klingeln::V,hringja,canu
+962,klingeln::V,hringja,seinio
+963,klirren::V,glamra,tincian
+964,klirren::V,skrölta,tincian
+965,brausen::V,ólga,rhuo
+966,rauschen::V,suða,siffrwd
+967,rauschen::V,suða,chwithrwd
+968,klingen::V,hljóma,seinio
+969,bellen::V,gelta,cyfarth
+970,heulen::V,væla,udo
+971,heulen::V,væla,oernadu
+972,heulen::V,ýlfra,udo
+973,heulen::V,ýlfra,oernadu
+974,blasen::V,blása,chwythu
+975,pfeifen::V,blístra,chwibanu
+976,schreien::V,æpa,gweiddi
+977,schreien::V,æpa,bloeddio
+978,stöhnen::V,stynja,griddfan
+979,zittern::V,titra,crynu
+980,zittern::V,skjálfa,crynu
+981,leben::V,lifa,byw
+982,geboren werden::V,fæðast,cael eich geni
+983,atmen::V,anda,anadlu
+984,atmen::V,draga andann,anadlu
+985,trinken::V,drekka,yfed
+986,essen::V,borða,bwyta
+987,schlucken::V,kingja,llyncu
+988,müde werden::V,þreytast,blino
+989,einschlafen::V,sofna,mynd i gysgu
+990,einschlafen::V,sofna,syrthio i gysgu
+991,schlafen::V,sofa,huno
+992,schlafen::V,sofa,cysgu
+993,aufwachen::V,vakna,dihuno
+994,aufstehen::V,fara á fætur,codi
+995,sich erholen::V,hvíla sig,ymlacio
+996,sich erholen::V,hvíla sig,dadflino
+997,krank werden::V,veikjast,mynd yn sâl
+998,krank werden::V,veikjast,mynd yn wael
+999,krank werden::V,verða veikur,mynd yn sâl
+1000,krank werden::V,verða veikur,mynd yn wael
+1001,krank sein::V,vera veikur,gwaelu
+1002,schmerzen::V,kenna til,brifo
+1003,husten::V,hósta,pesychu
+1004,genesen::V,batna,gwella
+1005,genesen::V,batna,cael yn ôl
+1006,genesen::V,frískast,gwella
+1007,genesen::V,frískast,cael yn ôl
+1008,sterben::V,deyja,marw
+1009,umkommen::V,farast,trengi
+1010,sich bewegen::V,bifast,symud
+1011,sich rühren::V,hreyfast,syflyd
+1012,sich erheben::V,standa upp,codi
+1013,sich setzen::V,setjast,eistedd
+1014,hinfallen::V,detta,cwympo
+1015,laufen::V,labba,cerdded
+1016,schreiten::V,ganga,camu
+1017,spazierengehen::V,ganga sér til skemmtunar,mynd am dro
+1018,eilen::V,fara hratt,rhuthro
+1019,sich beeilen::V,flýta sér,brysio
+1020,sausen::V,þjóta,rhuthro
+1021,rennen::V,hlaupa,rhedeg
+1022,springen::V,stökkva,llamu
+1023,springen::V,stökkva,neidio
+1024,klettern::V,klifra,dringo
+1025,schaukeln::V,róla,siglo
+1026,schaukeln::V,rugga,siglo
+1027,kriechen::V,skríða,cropian
+1028,schwimmen::V,synda,nofio
+1029,tauchen::V,kafa,plymio
+1030,tauchen::V,kafa,ymsuddo
+1031,rudern::V,róa,rhwyfo
+1032,fahren::V,aka,gyrru
+1033,fahren::V,aka,dreifio
+1034,fahren::V,fara,gyrru
+1035,fahren::V,fara,dreifio
+1036,fliegen::V,fljúga,hedfan
+1037,gehen::V,fara,mynd
+1038,gehen::V,ganga,mynd
+1039,weggehen::V,fara burt,mynd
+1040,weggehen::V,fara burt,ymadael
+1041,weggehen::V,ganga burt,mynd
+1042,weggehen::V,ganga burt,ymadael
+1043,abfahren::V,aka burt,ymadael
+1044,anhalten::V,stöðva,stopio
+1045,hineingehen::V,ganga inn,mynd i mewn
+1046,eintreten::V,koma inn,mynd i
+1047,eintreten::V,ganga inn,mynd i
+1048,kommen::V,koma,dod
+1049,ankommen::V,koma til,cyrraedd
+1050,zurückkommen::V,koma til baka,dychwelyd
+1051,bleiben::V,haldast,aros
+1052,bleiben::V,haldast,sefyll
+1053,bleiben::V,vera kyrr,aros
+1054,bleiben::V,vera kyrr,sefyll
+1055,warten::V,bíða,aros
+1056,warten::V,bíða,disgwyl
+1057,erwarten::V,búast við,disgwyl
+1058,erwarten::V,eiga von á,disgwyl
+1059,suchen::V,leita,chwilio am
+1060,finden::V,finna,darganfod
+1061,versuchen::V,reyna,profi
+1062,versuchen::V,reyna,ceisio
+1063,vorbereiten::V,undirbúa,paratoi
+1064,lieben::V,elska,caru
+1065,mögen::V,þykja gott,hoffi
+1066,mögen::V,falla í geð,hoffi
+1067,lachen::V,hlæja,chwerthin
+1068,rühren::V,snerta,cynhyrfu
+1069,weinen::V,gráta,wylo
+1070,weinen::V,gráta,llefain
+1071,schimpfen::V,skammast,grwgnach
+1072,sich ärgern::V,sárna,gofidio
+1073,sich ärgern::V,gremjast,gofidio
+1074,sich fürchten::V,óttast,ofni
+1075,fürchten::V,óttast,arswydo
+1076,fliehen::V,flýja,ffoi
+1077,flüchten::V,strjúka,dianc
+1078,sehen::V,sjá,gweld
+1079,anschauen::V,horfa á,syllu
+1080,anschauen::V,horfa á,edrych
+1081,ansehen::V,líta á,gwylio
+1082,hören::V,heyra,clywed
+1083,zuhören::V,hlusta,gwrando
+1084,probieren::V,smakka,profi
+1085,riechen::V,þefa,arogli
+1086,fühlen::V,finna til,teimlo
+1087,fühlen::V,finna til,clywed
+1088,scheinen::V,virðast,ymddangos
+1089,zu sehen sein::V,vera að sjá,dod i'r golwg
+1090,vernehmen::V,heyra,clywed sôn am
+1091,vernehmen::V,greina,clywed sôn am
+1092,frieren::V,frjósa,bod yn oer
+1093,tun::V,gera,gwneud
+1094,können::V,geta,gallu
+1095,wollen::V,ætla,bod mewn angen
+1096,wollen::V,vilja,bod mewn angen
+1097,anfangen::V,hefja,dechrau
+1098,beenden::V,enda,darfod
+1099,beenden::V,enda,gorffen
+1100,beenden::V,ljúka,darfod
+1101,beenden::V,ljúka,gorffen
+1102,aufhören::V,lykta,peidio
+1103,gelingen::V,heppnast,llwyddo
+1104,geraten::V,lukkast,diweddu
+1105,öffnen::V,opna,agor
+1106,schließen::V,loka,cau
+1107,stellen::V,láta,gosod
+1108,stellen::V,setja,gosod
+1109,setzen::V,láta,gosod
+1110,setzen::V,setja,gosod
+1111,legen::V,láta,gosod
+1112,legen::V,leggja,gosod
+1113,berühren::V,koma við,cyffwrdd
+1114,verbinden::V,sameina,cysylltu
+1115,bedecken::V,hylja,gorchuddio
+1116,aufhängen::V,hengja,crogi
+1117,aufhängen::V,hengja,hongian
+1118,aufhängen::V,hengja upp,crogi
+1119,aufhängen::V,hengja upp,hongian
+1120,anzünden::V,kveikja í,cynnau
+1121,aufheben::V,taka upp,codi
+1122,aufheben::V,lyfta upp,codi
+1123,zurücklassen::V,skilja eftir,gadael
+1124,verlieren::V,týna,colli
+1125,verlieren::V,glata,colli
+1126,fallen lassen::V,missa,gollwng
+1127,machen::V,búa til,gwneud
+1128,herstellen::V,framleiða,cynhyrchu
+1129,bauen::V,smíða,adeiladu
+1130,bauen::V,byggja,adeiladu
+1131,reparieren::V,gera við,trwsio
+1132,reparieren::V,gera við,atgyweirio
+1133,verbessern::V,bæta,diwygio
+1134,ändern::V,breyta,altro
+1135,graben::V,grafa,palu
+1136,graben::V,grafa,cloddio
+1137,beugen::V,beygja,plygu
+1138,biegen::V,sveigja,plygu
+1139,drehen::V,snúa,troelli
+1140,wenden::V,snúa,troi
+1141,wenden::V,venda,troi
+1142,umdrehen::V,venda,troi
+1143,umdrehen::V,snúa við,troi
+1144,heben::V,hefja,codi
+1145,hochheben::V,lyfta upp,dyrchafu
+1146,ergreifen::V,grípa,gafael
+1147,halten::V,rúma,dal
+1148,halten::V,halda,dal
+1149,drücken::V,þjá,pwyso
+1150,drücken::V,þjá,gwasgu
+1151,drücken::V,þrýsta,pwyso
+1152,drücken::V,þrýsta,gwasgu
+1153,schieben::V,ýta,gwthio
+1154,kratzen::V,klóra,crafu
+1155,lecken::V,sleikja,llyfu
+1156,beißen::V,bíta,cnoi
+1157,beißen::V,bíta,brathu
+1158,abreißen::V,rífa af,tynnu ymaith
+1159,abreißen::V,rífa frá,tynnu ymaith
+1160,abschneiden::V,skera af,torri
+1161,abschneiden::V,klippa af,torri
+1162,binden::V,binda,clymu
+1163,stecken::V,stinga,plannu
+1164,brechen::V,brjóta,torri
+1165,klopfen::V,berja,taro
+1166,klopfen::V,klappa,taro
+1167,hauen::V,berja,taro
+1168,hauen::V,höggva,taro
+1169,kleben::V,líma,gludio
+1170,reiben::V,núa,rhwbio
+1171,streichen::V,smyrja,taenu
+1172,schleifen::V,slípa,hogi
+1173,schneiden::V,skera,torri
+1174,schneiden::V,klippa,torri
+1175,rütteln::V,skaka,ysgytio
+1176,schütteln::V,hrista,siglo
+1177,schütteln::V,hrista,ysgwyd
+1178,schwenken::V,sveifla,siglo
+1179,schütten::V,hella,tywallt
+1180,füllen::V,fylla,llenwi
+1181,einwickeln::V,vefja inn í,lapio
+1182,tragen::V,bera,cludo
+1183,schleppen::V,draga,llusgo
+1184,ziehen::V,toga,tynnu
+1185,ziehen::V,draga,tynnu
+1186,aufbewahren::V,geyma,cadw
+1187,werfen::V,kasta,taflu
+1188,fangen::V,grípa,dal
+1189,packen::V,þrífa í,cipio
+1190,packen::V,þrífa í,crafangu
+1191,verstecken::V,fela,celu
+1192,verstecken::V,fela,cuddio
+1193,teilen::V,deila,rhannu
+1194,schicken::V,senda,anfon
+1195,bringen::V,færa,dod â
+1196,bringen::V,flytja,dod â
+1197,hinzufügen::V,bæta við,chwanegu
+1198,bekommen::V,hljóta,cael
+1199,bekommen::V,ná,cael
+1200,erhalten::V,fá,derbyn
+1201,nehmen::V,taka,cymryd
+1202,wählen::V,velja,dewis
+1203,auswählen::V,velja úr,dethol
+1204,bewahren::V,gæta,cadw
+1205,bewahren::V,vernda,cadw
+1206,behindern::V,varna,atal
+1207,behindern::V,varna,rhwystro
+1208,verderben::V,spilla,difetha
+1209,beschädigen::V,skemma,niweidio
+1210,zerbrechen::V,brjóta,torri
+1211,zerreißen::V,rífa,rhwygo
+1212,zerreißen::V,rífa sundur,rhwygo
+1213,zerstören::V,rífa niður,dinistrio
+1214,verbrennen::V,brenna,llosgi
+1215,geben::V,gefa,rhoi
+1216,reichen::V,rétta,estyn
+1217,schenken::V,gefa,rhoddi
+1218,versprechen::V,lofa,addo
+1219,versprechen::V,heita,addo
+1220,wünschen::V,óska,dymuno
+1221,loben::V,lofa,canmol
+1222,loben::V,hrósa,canmol
+1223,küssen::V,kyssa,cusanu
+1224,wiegen::V,rugga,siglo
+1225,zudecken::V,þekja,gorchuddio
+1226,zudecken::V,breiða yfir,gorchuddio
+1227,wecken::V,vekja,deffro
+1228,zeigen::V,sýna,dangos
+1229,führen::V,leiða,arwain
+1230,lehren::V,kenna,dysgu
+1231,unterrichten::V,fræða,hyfforddi
+1232,aufziehen::V,ala upp,dod i fyny
+1233,leiten::V,stjórna,arwain
+1234,antreiben::V,hvetja,annog
+1235,lassen::V,láta,gadael
+1236,einladen::V,bjóða heim,gwahodd
+1237,vereinigen::V,sameina,uno
+1238,vereinigen::V,sameina,cyfuno
+1239,besuchen::V,heimsækja,ymweld â
+1240,treffen::V,hitta,cwrdd
+1241,treffen::V,hitta,cyfarfod
+1242,sich versammeln::V,safnast saman,casglu
+1243,sich versammeln::V,safnast saman,cynnull
+1244,spielen::V,leika sér,chwarae
+1245,singen::V,syngja,canu
+1246,tanzen::V,dansa,dawnsio
+1247,sich trennen::V,skiljast,ymwahanu
+1248,verlassen::V,yfirgefa,gadael
+1249,retten::V,bjarga,achub
+1250,bewachen::V,gæta,gwarchod
+1251,bewachen::V,hafa vörð á,gwarchod
+1252,schützen::V,vernda,noddi
+1253,verteidigen::V,verja,amddiffyn
+1254,sich schlagen::V,slást,ffraeo
+1255,sich schlagen::V,slást,terfysgu
+1256,sich schlagen::V,berjast,ffraeo
+1257,sich schlagen::V,berjast,terfysgu
+1258,schießen::V,skjóta,saethu
+1259,siegen::V,sigra,ennill
+1260,ärgern::V,ergja,cythruddo
+1261,ärgern::V,skaprauna,cythruddo
+1262,schlagen::V,slá,curo
+1263,schlagen::V,lemja,curo
+1264,treten::V,sparka,cicio
+1265,stechen::V,stinga,pigo
+1266,stoßen::V,hrinda,gwthio
+1267,stehlen::V,stela,dwyn
+1268,stehlen::V,stela,lladrata
+1269,stören::V,trufla,aflonyddu
+1270,belästigen::V,ónáða,trafferthu
+1271,verbergen::V,leyna,cuddio
+1272,täuschen::V,gabba,twyllo
+1273,täuschen::V,blekkja,twyllo
+1274,betrügen::V,svíkja,hocedu
+1275,betrügen::V,blekkja,hocedu
+1276,töten::V,drepa,lladd
+1277,wohnen::V,búa,byw
+1278,arbeiten::V,vinna,gweithio
+1279,sammeln::V,safna,casglu
+1280,pflücken::V,tína,casglu
+1281,pflücken::V,reyta,casglu
+1282,jagen::V,veiða,hela
+1283,fischen::V,fiska,pysgota
+1284,fassen::V,veiða,dal
+1285,hüten::V,gæta,bugeilio
+1286,hüten::V,vakta,bugeilio
+1287,treiben::V,reka,gyrru
+1288,anbinden::V,binda við,clymu
+1289,anbinden::V,binda fast,clymu
+1290,füttern::V,fóðra,porthi
+1291,melken::V,mjólka,godro
+1292,hacken::V,höggva,torri
+1293,gießen::V,hella,dyfrhau
+1294,reifen::V,þroskast,aeddfedu
+1295,zubereiten::V,elda,coginio
+1296,zubereiten::V,tilbúa,coginio
+1297,kochen::V,sjóða,berwi
+1298,backen::V,baka,pobi
+1299,backen::V,baka,crasu
+1300,braten::V,steikja,ffrio
+1301,umrühren::V,hræra í,cyffroi
+1302,stricken::V,prjóna,gwau
+1303,nähen::V,sauma,gwnïo
+1304,färben::V,lita,lliwio
+1305,reinigen::V,hreinsa,glanhau
+1306,waschen::V,þvo,golchi
+1307,abwischen::V,þerra,sychu
+1308,spülen::V,skola,streulio
+1309,spülen::V,þvo upp,streulio
+1310,fegen::V,sópa,ysgubo
+1311,fegen::V,hreinsa,ysgubo
+1312,kehren::V,sópa,ysgubo
+1313,baden::V,baða sig,cael bath
+1314,sich waschen::V,þvo sér,ymolchi
+1315,ausziehen::V,fara úr,tynnu
+1316,anziehen::V,fara í,gwisgo
+1317,sich anziehen::V,klæðast,ymwisgo
+1318,kämmen::V,greiða,cribo
+1319,schmücken::V,prýða,harddu
+1320,schmücken::V,prýða,addurno
+1321,schmücken::V,skreyta,harddu
+1322,schmücken::V,skreyta,addurno
+1323,sagen::V,segja,dweud
+1324,sprechen::V,tala,llefaru
+1325,reden::V,ræða,siarad
+1326,sich unterhalten::V,spjalla,sgwrsio
+1327,sich unterhalten::V,ræðast við,sgwrsio
+1328,fragen::V,spyrja,gofyn
+1329,bitten::V,biðja,gofyn am
+1330,erzählen::V,segja frá,dweud
+1331,mitteilen::V,tilkynna,cyfleu
+1332,nennen::V,nefna,enwi
+1333,rufen::V,kalla,galw
+1334,prahlen::V,gorta,brolio
+1335,prahlen::V,gorta,ymffrostio
+1336,übersetzen::V,þýða,cyfieithu
+1337,denken::V,hugsa,meddwl
+1338,glauben::V,trúa,credu
+1339,glauben::V,trúa,coelio
+1340,bemerken::V,taka eftir,sylwi
+1341,erkennen::V,þekkja,adnabod
+1342,begreifen::V,skilja,amgyffred
+1343,verstehen::V,skilja,deall
+1344,lernen::V,læra,dysgu
+1345,wissen::V,vita,gwybod
+1346,sich erinnern an::V,minnast,cofio
+1347,vergessen::V,gleyma,anghofio
+1348,messen::V,mæla,mesur
+1349,zählen::V,telja,cyfrif
+1350,rechnen::V,reikna,cyfrifo
+1351,lesen::V,lesa,darllen
+1352,malen::V,mála,peintio
+1353,zeichnen::V,teikna,tynnu
+1354,schreiben::V,skrifa,ysgrifennu
+1355,besitzen::V,hafa,meddu
+1356,kaufen::V,kaupa,prynu
+1357,verkaufen::V,selja,gwerthu
+1358,bezahlen::V,borga,talu am
+1359,zahlen::V,borga,talu
+1360,beherrschen::V,hafa á valdi sínu,rheoli
+1361,beherrschen::V,hafa á valdi sínu,llywodraethu
+1362,ertragen::V,þola,dioddef

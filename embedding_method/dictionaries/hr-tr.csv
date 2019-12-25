@@ -1,0 +1,1592 @@
+,Concept_ID,hr,tr
+0,Auge::N,oko,göz
+1,Ohr::N,uho,kulak
+2,Nase::N,nos,burun
+3,Mund::N,usta,ağız
+4,Zahn::N,zub,diş
+5,Zunge::N,jezik,dil
+6,Lippe::N,usna,dudak
+7,Wange::N,obraz,yanak
+8,Gesicht::N,lice,yüz
+9,Stirn::N,čelo,alın
+10,Haar::N,kosa,saç
+11,Schnurrbart::N,brkovi,bıyık
+12,Bart::N,brada,sakal
+13,Kinn::N,brada,çene
+14,Kinn::N,podbradak,çene
+15,Kiefer[Anatomie]::N,čeljust,çene
+16,Kehle::N,grlo,boğaz
+17,Hals::N,vrat,boyun
+18,Hals::N,vrat,gerdan
+19,Genick::N,zatiljak,ense
+20,Kopf::N,glava,baş
+21,Kopf::N,glava,kafa
+22,Rücken::N,leđa,arka
+23,Rücken::N,hrbat,arka
+24,Bauch::N,trbuh,karın
+25,Nabel::N,pupak,göbek
+26,Busen::N,sisa,koyun
+27,Busen::N,njedra,koyun
+28,Brust::N,prsa,göğüs
+29,Schulter::N,rame,omuz
+30,Schulter::N,pleći,omuz
+31,Arm::N,ruka,kol
+32,Ellenbogen::N,lakat,dirsek
+33,Hand::N,ruka,el
+34,Handfläche::N,dlan,avuç
+35,Handfläche::N,dlan,el ayası
+36,Finger::N,prst,parmak
+37,Fingernagel::N,nokat,el tırnağı
+38,Nagel[Anatomie]::N,nokat,tırnak
+39,Zeh::N,nozni prst,ayak parmağı
+40,Fuß::N,noga,ayak
+41,Fuß::N,stopalo,ayak
+42,Ferse::N,peta,topuk
+43,Knie::N,koljeno,diz
+44,Oberschenkel::N,bedro,uyluk
+45,Bein::N,noga,bacak
+46,Körper::N,tijelo,vücut
+47,Haut::N,put,cilt
+48,Haut::N,koža,cilt
+49,Blut::N,krv,kan
+50,Ader::N,žila,damar
+51,Sehne::N,tetiva,kiriş
+52,Knochen::N,kost,kemik
+53,Herz::N,srce,kalp
+54,Herz::N,srce,yürek
+55,Magen::N,stomak,mide
+56,Magen::N,želudac,mide
+57,Leber::N,jetra,karaciğer
+58,Atem::N,dah,nefes
+59,Hunger::N,glad,açlık
+60,Träne::N,suza,gözyaşı
+61,Geschmack::N,ukus,tat
+62,Geschmack::N,ukus,lezzet
+63,Geruch::N,njuh,koku
+64,Geruch::N,miris,koku
+65,Schlaf::N,san,uyku
+66,Traum::N,san,düş
+67,Traum::N,san,rüya
+68,Himmel::N,nebo,gök
+69,Sonne::N,sunce,güneş
+70,Mond::N,mjesec,ay
+71,Stern::N,zvijezda,yıldız
+72,Luft::N,zrak,hava
+73,Wind::N,vjetar,yel
+74,Wind::N,vjetar,rüzgâr
+75,Welle::N,val,dalga
+76,Welle::N,talas,dalga
+77,Wasser::N,voda,su
+78,Stein::N,kamen,taş
+79,Boden::N,tlo,yer
+80,Boden::N,tlo,zemin
+81,Boden::N,zemlja,yer
+82,Boden::N,zemlja,zemin
+83,Erde::N,zemlja,toprak
+84,Staub::N,prah,toz
+85,Staub::N,prašina,toz
+86,Rauch::N,dim,duman
+87,Funke::N,iskra,kıvılcım
+88,Funke::N,varnica,kıvılcım
+89,Feuer::N,vatra,ateş
+90,Licht::N,svjetlo,ışık
+91,Schatten::N,hlad,gölge
+92,Schatten::N,sjena,gölge
+93,Wetter::N,vrijeme,hava
+94,Nebel::N,magla,pus
+95,Wolke::N,oblak,bulut
+96,Regen::N,kiša,yağmur
+97,Schnee::N,snijeg,kar
+98,Eis::N,led,buz
+99,Frost::N,mraz,don
+100,Kälte::N,studen,soğukluk
+101,Kälte::N,hladnoća,soğukluk
+102,Hitze::N,vrućina,sıcaklık
+103,Raureif::N,inje,kırç
+104,Regenbogen::N,duga,gökkuşağı
+105,Donner::N,grom,gök gürlemesi
+106,Donner::N,grmljavina,gök gürlemesi
+107,Strömung::N,struja,akıntı
+108,Strömung::N,struja,cereyan
+109,Strömung::N,strujanje,akıntı
+110,Strömung::N,strujanje,cereyan
+111,Tropfen::N,kap,damla
+112,Tropfen::N,kaplja,damla
+113,Schaum::N,pjena,köpük
+114,Schmutz::N,nečistoća,çamur
+115,Schmutz::N,nečistoća,pislik
+116,Schmutz::N,prljavština,çamur
+117,Schmutz::N,prljavština,pislik
+118,See::N,jezero,göl
+119,Sumpf::N,bara,batak
+120,Moor::N,močvara,cılgıt
+121,Wiese::N,livada,çimen
+122,Wald::N,šuma,koru
+123,Wald::N,šuma,orman
+124,Hügel::N,brijeg,tepe
+125,Hügel::N,brežuljak,tepe
+126,Anhöhe::N,uzvišica,tümsek
+127,Anhöhe::N,uzvišica,yükseklik
+128,Berg::N,brdo,dağ
+129,Gipfel::N,vrh,zirve
+130,Höhle::N,pećina,in
+131,Höhle::N,pećina,mağara
+132,Höhle::N,spilja,in
+133,Höhle::N,spilja,mağara
+134,Abhang::N,obronak,bayır
+135,Abhang::N,nizbrdica,bayır
+136,Quelle::N,izvor,pınar
+137,Quelle::N,izvor,kaynak
+138,Quelle::N,vrelo,pınar
+139,Quelle::N,vrelo,kaynak
+140,Bach::N,potok,çay
+141,Bach::N,potok,dere
+142,Fluss::N,rijeka,nehir
+143,Ufer::N,obala,kıyı
+144,Ufer::N,obala,sahil
+145,Küste::N,obala,kıyı
+146,Küste::N,obala,sahil
+147,Küste::N,morska obala,kıyı
+148,Küste::N,morska obala,sahil
+149,Festland::N,kopno,kara
+150,Meer::N,more,deniz
+151,Bucht::N,zaliv,koy
+152,Bucht::N,zaliv,körfez
+153,Insel::N,ada,ada
+154,Insel::N,otok,ada
+155,Blume::N,cvijet,çiçek
+156,Gras::N,trava,ot
+157,Gras::N,trava,çim
+158,Wurzel::N,korijen,kök
+159,Baum::N,drvo,ağaç
+160,Baum::N,stablo,ağaç
+161,Stamm::N,deblo,gövde
+162,Stamm::N,stablo,gövde
+163,Rinde::N,kora,kabuk
+164,Ast::N,grana,dal
+165,Ast::N,grana,budak
+166,Zweig::N,grana,dal
+167,Blatt::N,list,yaprak
+168,Birke::N,breza,huş
+169,Kiefer[Baum]::N,bor,çam
+170,Weide[Baum]::N,iva,söğüt
+171,Weide[Baum]::N,vŕba,söğüt
+172,Tanne::N,jela,çam
+173,Tanne::N,jela,köknar
+174,Horn::N,rog,boynuz
+175,Feder::N,pero,tüy
+176,Fell::N,koža,post
+177,Flügel::N,krilo,kanat
+178,Klaue::N,papak,pençe
+179,Kralle::N,pandža,tırnak
+180,Schwanz::N,rep,kuyruk
+181,Ei::N,jaje,yumurta
+182,Nest::N,gnijezdo,yuva
+183,Bau::N,jazbina,in
+184,Tier::N,životinja,hayvan
+185,Herde::N,krdo,sürü
+186,Herde::N,stado,sürü
+187,Kuh::N,krava,inek
+188,Bulle::N,bik,boğa
+189,Pferd::N,konj,at
+190,Pferd::N,konj,beygir
+191,Schaf::N,ovca,koyun
+192,Schwein::N,svinja,domuz
+193,Hund::N,pas,it
+194,Hund::N,pas,köpek
+195,Hund::N,pseto,it
+196,Hund::N,pseto,köpek
+197,Katze::N,mačka,kedi
+198,Bär::N,medvjed,ayı
+199,Eichhörnchen::N,vjeverica,sincap
+200,Elch::N,los,büyük kuzey geyiği
+201,Fuchs::N,lisica,tilki
+202,Hase::N,zec,tavşan
+203,Maus::N,miš,fare
+204,Maus::N,miš,sıçan
+205,Wolf::N,vuk,kurt
+206,Wolf::N,kurjak,kurt
+207,Vogel::N,ptica,kuş
+208,Schwarm::N,roj,sürü
+209,Schwarm::N,jato,sürü
+210,Huhn::N,kokoš,tavuk
+211,Hahn::N,kokot,horoz
+212,Hahn::N,pijevac,horoz
+213,Gans::N,guska,kaz
+214,Adler::N,orao,kartal
+215,Adler::N,orao,karakuş
+216,Ente::N,patka,ördek
+217,Eule::N,sova,baykuş
+218,Kranich::N,ždral,turna
+219,Krähe::N,vrana,karga
+220,Kuckuck::N,kukavica,guguk
+221,Schwan::N,labud,kuğu
+222,Fisch::N,riba,balık
+223,Barsch::N,grgeč,hani
+224,Barsch::N,grgeč,levrek
+225,Hecht::N,štuka,turnabalığı
+226,Schlange[Tier]::N,guja,yılan
+227,Schlange[Tier]::N,zmija,yılan
+228,Wurm::N,crv,kurt
+229,Wurm::N,crv,solucan
+230,Spinne::N,pauk,örümcek
+231,Ameise::N,mrav,karınca
+232,Laus::N,uš,bit
+233,Mücke::N,komarac,sivrisinek
+234,Fliege::N,muha,sinek
+235,Schmetterling::N,leptir,kelebek
+236,Beere::N,boba,tane
+237,Beere::N,bobica,tane
+238,Apfel::N,jabuka,elma
+239,Pilz::N,pečurka,mantar
+240,Zwiebel::N,luk,soğan
+241,Zwiebel::N,kapula,soğan
+242,Saat::N,sjemenje,ekin
+243,Korn::N,zrno,tane
+244,Heu::N,sijeno,kuru ot
+245,Schale::N,kora,kabuk
+246,Schale::N,ljuska,kabuk
+247,Grube::N,jama,çukur
+248,Falle::N,zamka,tuzak
+249,Falle::N,klopka,tuzak
+250,Schlinge::N,uzao,ilmik
+251,Schlinge::N,petlja,ilmik
+252,Spur::N,trag,iz
+253,Spur::N,slijed,iz
+254,Asche::N,pepeo,kül
+255,Dreck::N,blato,pislik
+256,Eisen::N,željezo,demir
+257,Gold::N,zlato,altın
+258,Silber::N,srebro,gümüş
+259,Kohle::N,ugalj,kömür
+260,Kohle::N,ugljen,kömür
+261,Glas::N,staklo,cam
+262,Lehm::N,glina,balçık
+263,Lehm::N,ilovača,balçık
+264,Sand::N,pijesak,kum
+265,Mensch::N,čovjek,insan
+266,Mann::N,muškarac,adam
+267,Mann::N,muškarac,erkek
+268,Frau::N,žena,bayan
+269,Kind::N,čedo,çocuk
+270,Kind::N,dijete,çocuk
+271,Junge::N,momče,erkek çocuk
+272,Junge::N,dječak,erkek çocuk
+273,Mädchen::N,djevojka,kız
+274,Mädchen::N,djevojčica,kız
+275,Familie::N,obitelj,aile
+276,Familie::N,porodica,aile
+277,Großvater::N,djed,dede
+278,Großvater::N,djed,büyükbaba
+279,Großmutter::N,baka,nine
+280,Großmutter::N,baka,büyükanne
+281,Eltern::N,roditelji,ebeveyn
+282,Eltern::N,roditelji,ana baba
+283,Vater::N,otac,ata
+284,Vater::N,otac,baba
+285,Mutter::N,majka,ana
+286,Mutter::N,majka,anne
+287,Sohn::N,sin,oğul
+288,Tochter::N,kći,kız
+289,Tochter::N,kći,kız evlât
+290,Tochter::N,kćerka,kız
+291,Tochter::N,kćerka,kız evlât
+292,Bruder::N,brat,abi
+293,Bruder::N,brat,erkek kardeş
+294,Schwester::N,sestra,abla
+295,Schwester::N,sestra,kız kardeş
+296,Onkel::N,čika,dayı
+297,Onkel::N,ujak,dayı
+298,Tante::N,ujna,hala
+299,Tante::N,ujna,teyze
+300,Tante::N,tetka,hala
+301,Tante::N,tetka,teyze
+302,Ehemann::N,muž,koca
+303,Ehemann::N,suprug,koca
+304,Ehefrau::N,žena,karı
+305,Ehefrau::N,supruga,karı
+306,Freude::N,radost,neşe
+307,Freude::N,radost,sevinç
+308,Gelächter::N,grohot,gülme
+309,Gelächter::N,grohot,kahkaha
+310,Glück::N,sreća,mutluluk
+311,Kummer::N,jad,dert
+312,Kummer::N,jad,keder
+313,Kummer::N,briga,dert
+314,Kummer::N,briga,keder
+315,Wunsch::N,želja,arzu
+316,Wunsch::N,želja,istek
+317,Lust::N,volja,arzu
+318,Lust::N,volja,heves
+319,Geist::N,duh,tin
+320,Gedanke::N,misao,fikir
+321,Gedanke::N,misao,düşünce
+322,Gedächtnis::N,pamćenje,bellek
+323,Verstand::N,um,zekâ
+324,Verstand::N,razum,zekâ
+325,Sinn::N,smisao,anlam
+326,Sinn::N,značenje,anlam
+327,Grund::N,razlog,sebep
+328,Wahrheit::N,istina,doğruluk
+329,Wahrheit::N,istina,gerçeklik
+330,Gespräch::N,razgovor,görüşme
+331,Märchen::N,bajka,masal
+332,Erzählung::N,priča,öykü
+333,Erzählung::N,priča,hikâye
+334,Erzählung::N,pripovijest,öykü
+335,Erzählung::N,pripovijest,hikâye
+336,Nachricht::N,vijest,haber
+337,Neuigkeit::N,novost,haber
+338,Name::N,ime,ad
+339,Name::N,ime,isim
+340,Rätsel::N,zagonetka,bilmece
+341,Rede::N,govor,söylev
+342,Rede::N,govor,konuşma
+343,Rede::N,besjeda,söylev
+344,Rede::N,besjeda,konuşma
+345,Sprache::N,jezik,dil
+346,Sprache::N,jezik,lisan
+347,Stimme::N,glas,ses
+348,Wort::N,riječ,kelime
+349,Zeichen::N,znak,işaret
+350,Ruf::N,povik,çağırma
+351,Ruf::N,poklik,çağırma
+352,Lärm::N,buka,şamata
+353,Lärm::N,buka,gürültü
+354,Lärm::N,galama,şamata
+355,Lärm::N,galama,gürültü
+356,Laut::N,zvuk,ses
+357,Ton::N,ton,ses
+358,Lied::N,pjesma,türkü
+359,Ruhe::N,tišina,sakinlik
+360,Ruhe::N,počinak,sakinlik
+361,Leute::N,ljudi,halk
+362,Leute::N,ljudi,insanlar
+363,Volk::N,puk,ulus
+364,Volk::N,puk,millet
+365,Volk::N,narod,ulus
+366,Volk::N,narod,millet
+367,Arbeit::N,rad,iş
+368,Arbeit::N,rad,çalışma
+369,Arbeit::N,posao,iş
+370,Arbeit::N,posao,çalışma
+371,Gast::N,gost,konuk
+372,Gast::N,gost,misafir
+373,Geschenk::N,dar,hediye
+374,Geschenk::N,dar,armağan
+375,Geschenk::N,poklon,hediye
+376,Geschenk::N,poklon,armağan
+377,Spiel::N,igra,oyun
+378,Gesellschaft::N,društvo,çevre
+379,Gesellschaft::N,društvo,arkadaşlık
+380,Gesellschaft::N,kompanija,çevre
+381,Gesellschaft::N,kompanija,arkadaşlık
+382,Hilfe::N,pomoć,yardım
+383,Freund::N,prijatelj,dost
+384,Freund::N,prijatelj,arkadaş
+385,Kamerad::N,drug,arkadaş
+386,Kamerad::N,drugar,arkadaş
+387,Angelegenheit::N,posao,iş
+388,Angelegenheit::N,posao,husus
+389,Anzahl::N,broj,sayı
+390,Anzahl::N,brojnost,sayı
+391,Art::N,vid,çeşit
+392,Art::N,vrst,çeşit
+393,Stück::N,komad,tane
+394,Stück::N,komad,parça
+395,Teil::N,dio,kısım
+396,Hälfte::N,polovina,yarı
+397,Kreis::N,krug,daire
+398,Kreuz::N,križ,haç
+399,Linie::N,crta,hat
+400,Linie::N,crta,çizgi
+401,Strich::N,crta,çizgi
+402,Abstand::N,razmak,aralık
+403,Abstand::N,odstojanje,aralık
+404,Entfernung::N,udaljenost,mesafe
+405,Entfernung::N,udaljenost,uzaklık
+406,Gegend::N,kraj,yöre
+407,Gegend::N,predeo,yöre
+408,Platz::N,mjesto,yer
+409,Ort::N,mjesto,yer
+410,Seite::N,bok,yan
+411,Seite::N,bok,taraf
+412,Seite::N,strana,yan
+413,Seite::N,strana,taraf
+414,Mitte::N,sredina,orta
+415,Mitte::N,sredina,merkez
+416,Gegenstand::N,predmet,şey
+417,Sache::N,posao,iş
+418,Sache::N,posao,şey
+419,Rand::N,rub,kenar
+420,Rand::N,kraj,kenar
+421,Kante::N,brid,kenar
+422,Kante::N,ivica,kenar
+423,Ecke::N,ugao,köşe
+424,Spitze::N,vrh,uç
+425,Spitze::N,vrh,baş
+426,Spitze::N,šiljak,uç
+427,Spitze::N,šiljak,baş
+428,Ende::N,konac,uç
+429,Loch::N,rupa,oyuk
+430,Loch::N,rupa,delik
+431,Winkel::N,kut,köşe
+432,Winkel::N,ugao,köşe
+433,Muster::N,uzor,örnek
+434,Größe::N,veličina,büyüklük
+435,Länge::N,duljina,uzunluk
+436,Höhe::N,visina,yükseklik
+437,Gewicht::N,težina,ağırlık
+438,Menge::N,mnoštvo,miktar
+439,Menge::N,količina,miktar
+440,Haufen::N,hrpa,küme
+441,Haufen::N,hrpa,yığın
+442,Haufen::N,gomila,küme
+443,Haufen::N,gomila,yığın
+444,Reihe::N,red,sıra
+445,Boot::N,čun,kayık
+446,Boot::N,čun,sandal
+447,Boot::N,čamac,kayık
+448,Boot::N,čamac,sandal
+449,Ruder::N,veslo,kürek
+450,Schlitten::N,saone,kızak
+451,Ski::N,ski,kayak
+452,Ski::N,smučka,kayak
+453,Lagerfeuer::N,logorska vatra,kamp ateşi
+454,Last::N,tovar,yük
+455,Gang::N,hod,gidiş
+456,Gang::N,hod,yürüyüş
+457,Schritt::N,korak,adım
+458,Norden::N,sjever,kuzey
+459,Süden::N,jug,güney
+460,Westen::N,zapad,batı
+461,Osten::N,istok,doğu
+462,Holz::N,drvo,ağaç
+463,Holz::N,drvo,tahta
+464,Brett::N,daska,tahta
+465,Platte::N,ploča,levha
+466,Stütze::N,potpora,dayak
+467,Stütze::N,potpora,destek
+468,Stange::N,motka,çubuk
+469,Stock::N,štap,sopa
+470,Stock::N,štap,değnek
+471,Stock::N,palica,sopa
+472,Stock::N,palica,değnek
+473,Stab::N,štap,sırık
+474,Stab::N,štap,baston
+475,Stab::N,šipka,sırık
+476,Stab::N,šipka,baston
+477,Rohr::N,cijev,boru
+478,Haus::N,kuća,ev
+479,Heim::N,dom,ev
+480,Heim::N,dom,yurt
+481,Ofen::N,peć,soba
+482,Fußboden::N,pod,taban
+483,Fußboden::N,pod,döşeme
+484,Tisch::N,stol,masa
+485,Tisch::N,trpeza,masa
+486,Stuhl::N,stolac,iskemle
+487,Stuhl::N,stolac,sandalye
+488,Stuhl::N,stolica,iskemle
+489,Stuhl::N,stolica,sandalye
+490,Wiege::N,kolijevka,beşik
+491,Bett::N,krevet,yatak
+492,Bett::N,postelja,yatak
+493,Regal::N,polica,raf
+494,Kiste::N,sanduk,sandık
+495,Fenster::N,prozor,pencere
+496,Tür::N,vrata,kapı
+497,Tor::N,vrata,kapı
+498,Tor::N,kapija,kapı
+499,Zaun::N,plot,çit
+500,Zaun::N,ograda,çit
+501,Dach::N,krov,dam
+502,Dach::N,krov,çatı
+503,Leiter::N,ljestve,merdiven
+504,Leiter::N,ljestvice,merdiven
+505,Besen::N,metla,süpürge
+506,Spaten::N,ašov,bel
+507,Schaufel::N,lopata,kürek
+508,Gabel::N,viljuška,çatal
+509,Löffel::N,žlica,kaşık
+510,Messer::N,nož,bıçak
+511,Nagel::N,čavao,çivi
+512,Netz::N,mreža,ağ
+513,Haken::N,kuka,çengel
+514,Griff::N,držak,kulp
+515,Griff::N,držak,tutamak
+516,Griff::N,ručica,kulp
+517,Griff::N,ručica,tutamak
+518,Schloss::N,brava,kilit
+519,Bild::N,slika,imaj
+520,Bild::N,slika,resim
+521,Figur::N,figura,şekil
+522,Figur::N,figura,heykel
+523,Puppe::N,lutka,kukla
+524,Beutel::N,kesa,kese
+525,Beutel::N,kesa,torba
+526,Bündel::N,snop,deste
+527,Bündel::N,svežanj,deste
+528,Tasche::N,torba,çanta
+529,Tasche::N,taška,çanta
+530,Eimer::N,kabao,kova
+531,Deckel::N,poklopac,kapak
+532,Geschirr::N,suđe,kap kacak
+533,Geschirr::N,posuđe,kap kacak
+534,Sack::N,džak,torba
+535,Sack::N,vreća,torba
+536,Tasse::N,šalica,fincan
+537,Topf::N,lonac,tencere
+538,Kessel::N,kazan,kazan
+539,Essen::N,obrok,yemek
+540,Nahrung::N,hrana,gıda
+541,Nahrung::N,hrana,besin
+542,Speise::N,jelo,yemek
+543,Fleisch::N,meso,et
+544,Getreide::N,žito,tahıl
+545,Getreide::N,žito,hububat
+546,Getreide::N,žitarice,tahıl
+547,Getreide::N,žitarice,hububat
+548,Brei::N,kaša,ezme
+549,Brot::N,kruh,ekmek
+550,Scheibe::N,kriška,dilim
+551,Fett::N,mast,yağ
+552,Fett::N,salo,yağ
+553,Butter::N,buter,tereyağı
+554,Butter::N,maslac,tereyağı
+555,Öl::N,ulje,yağ
+556,Öl::N,ulje,akar yağ
+557,Salz::N,sol,tuz
+558,Suppe::N,supa,çorba
+559,Honig::N,med,bal
+560,Milch::N,mlijeko,süt
+561,Tee::N,čaj,çay
+562,Leder::N,koža,deri
+563,Leder::N,koža,meşin
+564,Wolle::N,vuna,yün
+565,Stoff::N,štof,kumaş
+566,Stoff::N,tkanina,kumaş
+567,Nadel::N,igla,iğne
+568,Faden::N,nit,tire
+569,Faden::N,nit,iplik
+570,Faden::N,konac,tire
+571,Faden::N,konac,iplik
+572,Knopf::N,dugme,düğme
+573,Knoten::N,čvor,düğüm
+574,Knoten::N,uzao,düğüm
+575,Farbe::N,farba,boya
+576,Kleidung::N,odjeća,giyim
+577,Hemd::N,košulja,gömlek
+578,Kragen::N,ovratnik,yaka
+579,Ärmel::N,rukav,yen
+580,Ärmel::N,rukav,elbise kolu
+581,Hose::N,hlače,pantolon
+582,Gürtel::N,pas,kuşak
+583,Gürtel::N,pojas,kuşak
+584,Mütze::N,kapa,bere
+585,Mütze::N,kapa,kasket
+586,Schuh::N,cipela,kundura
+587,Schuh::N,cipela,ayakkabı
+588,Stiefel::N,čizma,çizme
+589,Ring::N,prsten,yüzük
+590,Band::N,vrpca,bağ
+591,Band::N,vrpca,şerit
+592,Kamm::N,češalj,tarak
+593,Spiegel::N,zrcalo,ayna
+594,Spiegel::N,ogledalo,ayna
+595,Riemen::N,kaiš,kayış
+596,Riemen::N,remen,kayış
+597,Schnur::N,vrpca,ip
+598,Schnur::N,vrpca,sicim
+599,Leine::N,uzica,kayış
+600,Decke::N,ćebe,örtü
+601,Decke::N,ćebe,yorgan
+602,Decke::N,pokrivač,örtü
+603,Decke::N,pokrivač,yorgan
+604,Kissen::N,jastuk,yastık
+605,Tuch::N,rubac,bez
+606,Tuch::N,marama,bez
+607,Handtuch::N,ručnik,havlu
+608,Kraft::N,snaga,güç
+609,Kraft::N,snaga,kuvvet
+610,Stärke::N,jakost,kuvvet
+611,Gesundheit::N,zdravlje,sağlık
+612,Krankheit::N,bolest,hastalık
+613,Schmerz::N,bol,ağrı
+614,Schmerz::N,bol,sancı
+615,Wunde::N,rana,yara
+616,Fieber::N,groznica,ateş
+617,Arznei::N,lijek,ilâç
+618,Brücke::N,most,köprü
+619,Brücke::N,ćuprija,köprü
+620,Brunnen::N,bunar,kuyu
+621,Brunnen::N,bunar,çeşme
+622,Brunnen::N,zdenac,kuyu
+623,Brunnen::N,zdenac,çeşme
+624,Weide::N,paša,otlak
+625,Weide::N,pašnjak,otlak
+626,Pfad::N,staza,patika
+627,Pfad::N,staza,keçiyolu
+628,Weg::N,put,yol
+629,Straße::N,drum,yol
+630,Straße::N,drum,cadde
+631,Straße::N,cesta,yol
+632,Straße::N,cesta,cadde
+633,Dorf::N,selo,köy
+634,Stadt::N,grad,kent
+635,Stadt::N,grad,şehir
+636,Stadt::N,varoš,kent
+637,Stadt::N,varoš,şehir
+638,Brief::N,list,mektup
+639,Brief::N,pismo,mektup
+640,Buch::N,knjiga,kitap
+641,Buchstabe::N,slovo,harf
+642,Zeitung::N,novine,gazete
+643,Leben::N,život,hayat
+644,Tod::N,smrt,ölüm
+645,Grab::N,raka,kabir
+646,Kirche::N,crkva,kilise
+647,Sünde::N,grijeh,günah
+648,Gott::N,bog,tanrı
+649,Arbeiter::N,radnik,işçi
+650,Chef::N,šef,şef
+651,Chef::N,šef,müdür
+652,Meister::N,majstor,usta
+653,Arzt::N,liječnik,hekim
+654,Arzt::N,liječnik,doktor
+655,Lehrer::N,učitelj,hoca
+656,Lehrer::N,učitelj,öğretmen
+657,Geld::N,novac,para
+658,Geschäft::N,posao,ticaret
+659,Geschäft::N,trgovina,ticaret
+660,Laden::N,dućan,dükkân
+661,Preis::N,cijena,fiyat
+662,Ware::N,roba,mal
+663,Nutzen::N,korist,fayda
+664,Reichtum::N,bogatstvo,servet
+665,Reichtum::N,bogatstvo,zenginlik
+666,Welt::N,svijet,dünya
+667,Land::N,zemlja,ülke
+668,Staat::N,država,devlet
+669,König::N,kralj,kral
+670,Macht::N,moć,kudret
+671,Macht::N,moć,iktidar
+672,Macht::N,vlast,kudret
+673,Macht::N,vlast,iktidar
+674,Grenze::N,granica,had
+675,Grenze::N,granica,sınır
+676,Krieg::N,rat,savaş
+677,Feind::N,neprijatelj,düşman
+678,Gewalt::N,sila,zor
+679,Gewalt::N,sila,cebir
+680,Gewalt::N,nasilje,zor
+681,Gewalt::N,nasilje,cebir
+682,Kampf::N,boj,savaş
+683,Kampf::N,borba,savaş
+684,Bogen[Waffe]::N,luk,yay
+685,Pfeil::N,strijela,ok
+686,Gewehr::N,puška,tüfek
+687,Fehler::N,pogreška,hata
+688,Fehler::N,pogreška,yanlış
+689,Fehler::N,griješka,hata
+690,Fehler::N,griješka,yanlış
+691,Lüge::N,laž,yalan
+692,Schaden::N,šteta,zarar
+693,Unglück::N,nesreća,felâket
+694,Unglück::N,nesreća,talihsizlik
+695,Schuld::N,krivnja,suç
+696,Schuld::N,krivnja,kabahat
+697,Alter::N,dob,yaş
+698,Schluss::N,kraj,son
+699,Schluss::N,konac,son
+700,Zeit::N,doba,zaman
+701,Zeit::N,vrijeme,zaman
+702,Tag::N,dan,gün
+703,Morgen::N,jutro,sabah
+704,Mittag::N,podne,öğle
+705,Abend::N,veče,akşam
+706,Abend::N,večer,akşam
+707,Nacht::N,noć,gece
+708,Woche::N,sedmica,hafta
+709,Monat::N,mjesec,ay
+710,Jahr::N,godina,yıl
+711,Jahr::N,godina,sene
+712,Frühling::N,proljeće,ilkbahar
+713,Sommer::N,ljeto,yaz
+714,Herbst::N,jesen,güz
+715,Herbst::N,jesen,sonbahar
+716,Winter::N,zima,kış
+717,Januar::N,januar,ocak
+718,Januar::N,siječanj,ocak
+719,Februar::N,veljača,şubat
+720,Februar::N,februar,şubat
+721,März::N,mart,mart
+722,März::N,ožujak,mart
+723,April::N,april,nisan
+724,April::N,travanj,nisan
+725,Mai::N,maj,mayıs
+726,Mai::N,svibanj,mayıs
+727,Juni::N,juni,haziran
+728,Juni::N,lipanj,haziran
+729,Juli::N,juli,temmuz
+730,Juli::N,srpanj,temmuz
+731,August::N,august,ağustos
+732,August::N,kolovoz,ağustos
+733,September::N,rujan,eylül
+734,September::N,septembar,eylül
+735,Oktober::N,oktobar,ekim
+736,Oktober::N,listopad,ekim
+737,November::N,studeni,kasım
+738,November::N,novembar,kasım
+739,Dezember::N,prosinac,aralık
+740,Montag::N,ponedjeljak,pazartesi
+741,Montag::N,ponedjeljnik,pazartesi
+742,Dienstag::N,utorak,salı
+743,Dienstag::N,utornik,salı
+744,Mittwoch::N,srijeda,çarşamba
+745,Donnerstag::N,četvrtak,perşembe
+746,Freitag::N,petak,cuma
+747,Samstag::N,subota,cumartesi
+748,Sonntag::N,nedjelja,pazar
+749,groß::A,velik,büyük
+750,klein::A,mali,ufak
+751,klein::A,mali,küçük
+752,klein::A,malen,ufak
+753,klein::A,malen,küçük
+754,lang::A,dug,uzun
+755,lang::A,dugačak,uzun
+756,kurz::A,kratak,kısa
+757,breit::A,širok,enli
+758,breit::A,širok,geniş
+759,schmal::A,uski,dar
+760,schmal::A,uzak,dar
+761,dicht::A,gust,sık
+762,dicht::A,gust,yoğun
+763,dick[Gegenstand]::A,debeo,kalın
+764,dick[Gegenstand]::A,debeo,iri
+765,dünn::A,tanak,ince
+766,fein::A,fin,ince
+767,fein::A,fin,narin
+768,fein::A,tanak,ince
+769,fein::A,tanak,narin
+770,fest::A,čvrst,sabit
+771,fest::A,čvrst,sağlam
+772,flach::A,ravan,düz
+773,flach::A,ravan,yassı
+774,flach::A,plosnat,düz
+775,flach::A,plosnat,yassı
+776,glatt::A,gladak,düz
+777,hart::A,tvrd,katı
+778,weich::A,mek,yumuşak
+779,weich::A,mekan,yumuşak
+780,rund::A,okrugao,yuvarlak
+781,spitz::A,oštar,sivri
+782,spitz::A,šiljast,sivri
+783,scharf::A,oštar,keskin
+784,scharf::A,bridak,keskin
+785,stumpf::A,tup,kör
+786,schwer::A,težak,ağır
+787,schön::A,krasan,güzel
+788,heiß::A,vruć,kızgın
+789,warm::A,topao,sıcak
+790,kalt::A,hladan,soğuk
+791,kühl::A,hladan,serin
+792,frisch::A,svjež,taze
+793,feucht::A,vlažan,nemli
+794,feucht::A,vlažan,rutubetli
+795,nass::A,mokar,yaş
+796,nass::A,mokar,ıslak
+797,trocken::A,suh,kuru
+798,voll::A,pun,dolu
+799,voll::A,pun,dolmuş
+800,leer::A,prazan,boş
+801,offen::A,otvoren,açık
+802,geschlossen::A,zatvoren,kapalı
+803,sauber::A,čist,pak
+804,sauber::A,čist,temiz
+805,schmutzig::A,nečist,pis
+806,schmutzig::A,nečist,kirli
+807,schmutzig::A,blatan,pis
+808,schmutzig::A,blatan,kirli
+809,roh::A,sirov,çiğ
+810,reif::A,zreo,olgun
+811,lecker::A,tečan,lezzetli
+812,lecker::A,ukusan,lezzetli
+813,süß::A,sladak,tatlı
+814,süß::A,sladak,şekerli
+815,bitter::A,gorak,acı
+816,sauer::A,kiseo,ekşi
+817,hell::A,vedar,aydınlık
+818,hell::A,svijetao,aydınlık
+819,dunkel::A,taman,karanlık
+820,schwarz::A,crn,kara
+821,schwarz::A,crn,siyah
+822,weiß::A,bio,ak
+823,weiß::A,bio,beyaz
+824,weiß::A,bijel,ak
+825,weiß::A,bijel,beyaz
+826,rot::A,crven,kırmızı
+827,gelb::A,žut,sarı
+828,blau::A,plav,mavi
+829,blau::A,modar,mavi
+830,grün::A,zelen,yeşil
+831,grau::A,siv,boz
+832,bunt::A,šaren,renkli
+833,billig::A,jeftin,ucuz
+834,teuer::A,skup,pahalı
+835,wertvoll::A,vrijedan,değerli
+836,wertvoll::A,dragocjen,değerli
+837,blind::A,slijep,kör
+838,taub::A,gluh,sağır
+839,kräftig::A,snažan,dinç
+840,kräftig::A,snažan,kuvvetli
+841,stark::A,jak,güçlü
+842,stark::A,jak,kuvvetli
+843,stark::A,snažan,güçlü
+844,stark::A,snažan,kuvvetli
+845,schwach::A,slab,zayıf
+846,schwach::A,slab,güçsüz
+847,fett::A,pretio,şişman
+848,schlank::A,vitak,narin
+849,hübsch::A,zgodan,güzel
+850,hübsch::A,zgodan,sevimli
+851,böse::A,zao,kötü
+852,böse::A,opak,kötü
+853,dumm::A,glup,aptal
+854,faul::A,lijen,tembel
+855,fleißig::A,radin,çalışkan
+856,fleißig::A,marljiv,çalışkan
+857,geizig::A,škrt,cimri
+858,klug::A,razborit,zekî
+859,klug::A,razborit,akıllı
+860,geschickt::A,vješt,becerikli
+861,lieb::A,drag,sevimli
+862,lustig::A,veseo,neşeli
+863,sanft::A,blag,nazik
+864,hungrig::A,gladan,aç
+865,krank::A,bolestan,hasta
+866,krank::A,bolestan,rahatsız
+867,nackt::A,nag,çıplak
+868,traurig::A,tužan,kederli
+869,traurig::A,tužan,üzüntülü
+870,traurig::A,žalostan,kederli
+871,traurig::A,žalostan,üzüntülü
+872,lebendig::A,živ,canlı
+873,gut::A,dobar,iyi
+874,schlecht::A,loš,kötü
+875,schlecht::A,rđav,kötü
+876,richtig::A,tačan,doğru
+877,richtig::A,ispravan,doğru
+878,schlimm::A,zao,kötü
+879,schlimm::A,zločest,kötü
+880,wahr::A,istinit,doğru
+881,wahr::A,istinit,gerçek
+882,alt::A,star,eski
+883,neu::A,nov,yeni
+884,ehemalig::A,bivši,önceki
+885,alt[Lebewesen]::A,star,yaşlı
+886,jung::A,mlad,genç
+887,arm::A,ubog,fakir
+888,arm::A,siromašan,fakir
+889,reich::A,bogat,zengin
+890,bekannt::A,poznat,bilinen
+891,berühmt::A,čuven,ünlü
+892,berühmt::A,čuven,meşhur
+893,berühmt::A,slavan,ünlü
+894,berühmt::A,slavan,meşhur
+895,fremd::A,tuđ,yabancı
+896,fremd::A,stran,yabancı
+897,verschieden::A,razan,ayrı
+898,verschieden::A,razan,farklı
+899,verschieden::A,različan,ayrı
+900,verschieden::A,različan,farklı
+901,nah::A,blizak,yakın
+902,nah::A,blizak,bitişik
+903,fern::A,dalek,uzak
+904,fern::A,daljnji,uzak
+905,linker::A,lijevi,sol
+906,rechter::A,desni,sağ
+907,anderer::A,drugi,diğer
+908,anderer::A,drugačiji,diğer
+909,erster::A,prvi,ilk
+910,erster::A,prvi,birinci
+911,zweiter::A,drugi,ikinci
+912,dritter::A,treći,üçüncü
+913,letzter::A,zadnji,son
+914,letzter::A,zadnji,sonuncu
+915,allein::ADV,sam,yalnız
+916,allein::ADV,sam,tek başına
+917,auf einmal::ADV,istodobno,birden
+918,zusammen::ADV,skupa,beraber
+919,zusammen::ADV,skupa,birlikte
+920,zusammen::ADV,zajedno,beraber
+921,zusammen::ADV,zajedno,birlikte
+922,lange::ADV,dugo,çok
+923,lange::ADV,dugo,uzun
+924,plötzlich::ADV,naglo,ansızın
+925,plötzlich::ADV,naglo,birdenbire
+926,plötzlich::ADV,iznenada,ansızın
+927,plötzlich::ADV,iznenada,birdenbire
+928,sofort::ADV,odmah,hemen
+929,sofort::ADV,odmah,derhal
+930,später::ADV,kasnije,daha sonra
+931,jetzt::ADV,sad,şimdi
+932,jetzt::ADV,sada,şimdi
+933,heute::ADV,danas,bugün
+934,morgen::ADV,sutra,yarın
+935,bald::ADV,skoro,yakında
+936,bald::ADV,doskora,yakında
+937,dann::ADV,zatim,sonra
+938,gestern::ADV,juče,dün
+939,gestern::ADV,jučer,dün
+940,einst::ADV,negda,eskiden
+941,einst::ADV,nekada,eskiden
+942,damals::ADV,tada,o zamanlar
+943,damals::ADV,onda,o zamanlar
+944,danach::ADV,poslije,sonradan
+945,danach::ADV,poslije,ondan sonra
+946,danach::ADV,nakon toga,sonradan
+947,danach::ADV,nakon toga,ondan sonra
+948,vorher::ADV,prije,önce
+949,vorher::ADV,prije,önceden
+950,vorher::ADV,prije toga,önce
+951,vorher::ADV,prije toga,önceden
+952,zuerst::ADV,prvo,ilk önce
+953,zuerst::ADV,najprije,ilk önce
+954,einmal::ADV,jednom,bir defa
+955,einmal::ADV,jedanput,bir defa
+956,manchmal::ADV,katkad,bazan
+957,manchmal::ADV,katkada,bazan
+958,oft::ADV,često,sık sık
+959,oft::ADV,često,çok defa
+960,immer::ADV,vazda,daima
+961,immer::ADV,vazda,her zaman
+962,immer::ADV,uvijek,daima
+963,immer::ADV,uvijek,her zaman
+964,niemals::ADV,nikad,asla değil
+965,niemals::ADV,nikad,hiçbir zaman
+966,niemals::ADV,nikada,asla değil
+967,niemals::ADV,nikada,hiçbir zaman
+968,hier::ADV,tu,burada
+969,hier::ADV,ovdje,burada
+970,hierhin::ADV,amo,buraya
+971,hierhin::ADV,ovamo,buraya
+972,von hier::ADV,odavde,buradan
+973,dort::ADV,ondje,orada
+974,dort::ADV,ondje,şurada
+975,dorthin::ADV,onamo,oraya
+976,dorthin::ADV,onamo,şuraya
+977,geradeaus::ADV,ravno,doğru
+978,vorwärts::ADV,naprijed,ileri
+979,rückwärts::ADV,natrag,geri
+980,zurück::ADV,nazad,geriye
+981,zurück::ADV,natrag,geriye
+982,unten::ADV,dolje,aşağıda
+983,hinab::ADV,nizbrdo,aşağıya
+984,oben::ADV,gore,yukarıda
+985,hinauf::ADV,uzbrdo,yukarı
+986,hinauf::ADV,uzbrdo,yukarıya
+987,überall::ADV,svuda,her yerde
+988,überall::ADV,svagdje,her yerde
+989,nicht::ADV,ne,-mi-
+990,nicht::ADV,ne,değil
+991,ein wenig::ADV,malo,biraz
+992,kaum::ADV,tek,dar
+993,kaum::ADV,tek,hemen hemen değil
+994,kaum::ADV,jedva,dar
+995,kaum::ADV,jedva,hemen hemen değil
+996,sehr::ADV,jako,pek
+997,sehr::ADV,jako,gayet
+998,sehr::ADV,veoma,pek
+999,sehr::ADV,veoma,gayet
+1000,so::ADV,tako,öyle
+1001,so::ADV,tako,böyle
+1002,so::ADV,ovako,öyle
+1003,so::ADV,ovako,böyle
+1004,noch::ADV,još,hâlâ
+1005,noch::ADV,još,henüz
+1006,nur::ADV,samo,ancak
+1007,nur::ADV,samo,yalnız
+1008,schon::ADV,već,çoktan
+1009,wieder::ADV,opet,tekrar
+1010,wieder::ADV,opet,yeniden
+1011,wieder::ADV,ponovo,tekrar
+1012,wieder::ADV,ponovo,yeniden
+1013,vergebens::ADV,uzalud,boşuna
+1014,vergebens::ADV,zabadava,boşuna
+1015,vor::PRP,pred,önünde
+1016,vor::PRP,ispred,önünde
+1017,hinter::PRP,za,arkasında
+1018,hinter::PRP,iza,arkasında
+1019,unter::PRP,pod,altında
+1020,unter::PRP,ispod,altında
+1021,durch::PRP,po,sayesinde
+1022,durch::PRP,po,ortasından
+1023,durch::PRP,kroz,sayesinde
+1024,durch::PRP,kroz,ortasından
+1025,neben::PRP,kraj,yanında
+1026,neben::PRP,pored,yanında
+1027,neben::PRP,pokraj,yanında
+1028,zwischen::PRP,među,arasında
+1029,zwischen::PRP,između,arasında
+1030,wegen::PRP,radi,dolayı
+1031,wegen::PRP,zbog,dolayı
+1032,dies::PRN,ovo,bu
+1033,das::PRN,to,o
+1034,das::PRN,to,şu
+1035,das::PRN,ono,o
+1036,das::PRN,ono,şu
+1037,alles::PRN,sve,hepsi
+1038,alles::PRN,sve,her şey
+1039,ich::PRN,ja,ben
+1040,du::PRN,ti,sen
+1041,er::PRN,on,o
+1042,wir::PRN,mi,biz
+1043,ihr::PRN,vi,siz
+1044,sie::PRN,oni,onlar
+1045,was::FPRN,što,ne
+1046,wer::FPRN,tko,kim
+1047,wo::FADV,gdje,nerede
+1048,wohin::FADV,kuda,nereye
+1049,wohin::FADV,kamo,nereye
+1050,wie::FADV,kako,nasıl
+1051,warum::FADV,zašto,neden
+1052,wieviel::FNUM,koliko,kaç
+1053,wieviel::FNUM,koliko,ne kadar
+1054,eins::NUM,jedan,bir
+1055,zwei::NUM,dva,iki
+1056,drei::NUM,tri,üç
+1057,vier::NUM,četiri,dört
+1058,fünf::NUM,pet,beş
+1059,sechs::NUM,šest,altı
+1060,sieben::NUM,sedam,yedi
+1061,acht::NUM,osam,sekiz
+1062,neun::NUM,devet,dokuz
+1063,zehn::NUM,deset,on
+1064,elf::NUM,jedanaest,on bir
+1065,zwölf::NUM,dvanaest,on iki
+1066,zwanzig::NUM,dvadeset,yirmi
+1067,dreißig::NUM,trideset,otuz
+1068,vierzig::NUM,četrdeset,kırk
+1069,fünfzig::NUM,pedeset,elli
+1070,sechzig::NUM,šezdeset,altmış
+1071,siebzig::NUM,sedamdeset,yetmiş
+1072,achtzig::NUM,osamdeset,seksen
+1073,neunzig::NUM,devetdeset,doksan
+1074,hundert::NUM,sto,yüz
+1075,tausend::NUM,tisuća,bin
+1076,und::CNJ,i,ve
+1077,und::CNJ,i,ile
+1078,und::CNJ,te,ve
+1079,und::CNJ,te,ile
+1080,oder::CNJ,ili,ya
+1081,oder::CNJ,ili,yahut
+1082,stehen::V,stajati,durmak
+1083,sitzen::V,sjediti,oturmak
+1084,liegen::V,ležati,yatmak
+1085,hängen::V,visiti,asılı olmak
+1086,werden::V,postati,olmak
+1087,werden::V,postati,olunmak
+1088,werden::V,činiti se,olmak
+1089,werden::V,činiti se,olunmak
+1090,passieren::V,desiti se,olmak
+1091,passieren::V,dogoditi se,olmak
+1092,beginnen::V,početi,başlamak
+1093,enden::V,prestati,bitmek
+1094,enden::V,prestati,sona ermek
+1095,enden::V,svršiti se,bitmek
+1096,enden::V,svršiti se,sona ermek
+1097,wechseln::V,mijenjati se,değişmek
+1098,aufgehen[Sonne]::V,izići,doğmak
+1099,untergehen[Sonne]::V,zaći,batmak
+1100,scheinen[Sonne]::V,sijati,parlamak
+1101,donnern::V,grmjeti,gök gürlemek
+1102,wehen::V,duhati,esmek
+1103,strömen::V,strujati,akmak
+1104,fließen::V,teći,akmak
+1105,sich drehen::V,obrtati se,dönmek
+1106,sich drehen::V,vrtjeti se,dönmek
+1107,schwanken::V,teturati,sallanmak
+1108,schwanken::V,kolebati se,sallanmak
+1109,schwingen::V,njihati,titremek
+1110,schwingen::V,titrati,titremek
+1111,fallen::V,padati,düşmek
+1112,brennen::V,gorjeti,yanmak
+1113,rauchen::V,dimiti se,tütmek
+1114,regnen::V,kišiti,yağmak
+1115,regnen::V,daždjeti,yağmak
+1116,gefrieren::V,smrznuti se,donmak
+1117,tauen::V,kopnjeti,erimek
+1118,tauen::V,kraviti se,erimek
+1119,schmelzen::V,topiti se,erimek
+1120,trocknen::V,sušiti se,kurumak
+1121,sieden::V,kipjeti,kaynamak
+1122,sieden::V,ključati,kaynamak
+1123,faulen::V,gnjiti,çürümek
+1124,verfaulen::V,sagnjiti,çürümek
+1125,reißen::V,otrgnuti se,yırtılmak
+1126,versinken::V,tonuti,batmak
+1127,versinken::V,propasti,batmak
+1128,vergehen::V,prolaziti,geçmek
+1129,erscheinen::V,pojaviti se,görünmek
+1130,verschwinden::V,nestati,kaybolmak
+1131,verschwinden::V,izgubiti se,kaybolmak
+1132,sinken::V,trgnuti,inmek
+1133,sinken::V,spustiti se,inmek
+1134,abnehmen::V,opasti,azalmak
+1135,zunehmen::V,povećati se,artmak
+1136,zunehmen::V,povećati se,çoğalmak
+1137,steigen::V,uzići,artmak
+1138,steigen::V,uzići,yükselmek
+1139,steigen::V,nadoći,artmak
+1140,steigen::V,nadoći,yükselmek
+1141,wachsen::V,rasti,büyümek
+1142,wachsen::V,rasti,gelişmek
+1143,glänzen::V,blistati,parlamak
+1144,glänzen::V,sjati se,parlamak
+1145,funkeln::V,svjetlucati,parıldamak
+1146,lärmen::V,bučati,gürültü yapmak
+1147,lärmen::V,galamiti,gürültü yapmak
+1148,läuten::V,zvoniti,çalmak
+1149,klingeln::V,zvoniti,zil çalmak
+1150,klirren::V,zvečati,şakırdamak
+1151,klirren::V,zvečati,zangırdamak
+1152,brausen::V,hujati,köpürmek
+1153,brausen::V,hujati,kükremek
+1154,rauschen::V,šumiti,fışırdamak
+1155,rauschen::V,šuškati,fışırdamak
+1156,klingen::V,zvučati,tınlamak
+1157,bellen::V,lajati,havlamak
+1158,heulen::V,zavijati,ulumak
+1159,blasen::V,puhati,üflemek
+1160,pfeifen::V,fućkati,düdük çalmak
+1161,schreien::V,vikati,bağırmak
+1162,schreien::V,vikati,haykırmak
+1163,schreien::V,kričati,bağırmak
+1164,schreien::V,kričati,haykırmak
+1165,stöhnen::V,stenjati,inlemek
+1166,zittern::V,drhtati,titremek
+1167,zittern::V,trepetati,titremek
+1168,leben::V,živjeti,yaşamak
+1169,leben::V,živjeti,hayatta olmak
+1170,geboren werden::V,roditi se,doğmak
+1171,atmen::V,disati,solunmak
+1172,atmen::V,disati,nefes almak
+1173,trinken::V,piti,içmek
+1174,essen::V,jesti,yemek
+1175,schlucken::V,gutati,yutmak
+1176,müde werden::V,umoriti se,yorulmak
+1177,einschlafen::V,usnuti,uykuya dalmak
+1178,einschlafen::V,zaspati,uykuya dalmak
+1179,schlafen::V,spati,uyumak
+1180,aufwachen::V,probuditi se,uyanmak
+1181,aufstehen::V,ustati,kalkmak
+1182,aufstehen::V,ustati,yataktan kalkmak
+1183,sich erholen::V,odmoriti se,dinlenmek
+1184,krank werden::V,oboljeti se,hastalanmak
+1185,krank werden::V,razboljeti se,hastalanmak
+1186,krank sein::V,bolovati,hasta olmak
+1187,schmerzen::V,boljeti,ağrımak
+1188,husten::V,kašljati,öksürmek
+1189,genesen::V,ozdraviti,şifa bulmak
+1190,genesen::V,oporaviti se,şifa bulmak
+1191,sterben::V,umrijeti,ölmek
+1192,sterben::V,umrijeti,vefat etmek
+1193,umkommen::V,skapati,ölmek
+1194,sich bewegen::V,gibati se,hareket etmek
+1195,sich bewegen::V,kretati se,hareket etmek
+1196,sich rühren::V,maknuti se,kımıldanmak
+1197,sich erheben::V,dići se,kalkmak
+1198,sich erheben::V,dići se,ayağa kalkmak
+1199,sich setzen::V,sjesti,oturmak
+1200,hinfallen::V,pasti,yere düşmek
+1201,laufen::V,hodati,yürümek
+1202,schreiten::V,stupati,yürümek
+1203,schreiten::V,stupati,adım atmak
+1204,spazierengehen::V,šetati se,gezmek
+1205,spazierengehen::V,šetati se,dolaşmak
+1206,eilen::V,hitati,seğirtmek
+1207,sich beeilen::V,požuriti se,acele etmek
+1208,sausen::V,juriti,hızla gitmek
+1209,rennen::V,trčati,koşmak
+1210,springen::V,skakati,atlamak
+1211,springen::V,skakati,sıçramak
+1212,klettern::V,popeti se,tırmanmak
+1213,klettern::V,penjati se,tırmanmak
+1214,schaukeln::V,ljuljati se,sallanmak
+1215,kriechen::V,puzati,sürünmek
+1216,kriechen::V,gmizati,sürünmek
+1217,schwimmen::V,plivati,yüzmek
+1218,tauchen::V,roniti,dalmak
+1219,tauchen::V,gnjuriti,dalmak
+1220,rudern::V,veslati,kürek çekmek
+1221,fahren::V,voziti se,gitmek
+1222,fliegen::V,letjeti,uçmak
+1223,fliegen::V,lijetati,uçmak
+1224,gehen::V,ići,gitmek
+1225,weggehen::V,otići,gitmek
+1226,abfahren::V,krenuti,kalkmak
+1227,abfahren::V,otputovati,kalkmak
+1228,anhalten::V,stati,durmak
+1229,anhalten::V,zaustaviti,durmak
+1230,hineingehen::V,ulaziti,içeri girmek
+1231,eintreten::V,ući,girmek
+1232,kommen::V,doći,gelmek
+1233,ankommen::V,stići,varmak
+1234,zurückkommen::V,vratiti se,dönmek
+1235,zurückkommen::V,povratiti se,dönmek
+1236,bleiben::V,ostati,kalmak
+1237,warten::V,čekati,beklemek
+1238,erwarten::V,očekivati,beklemek
+1239,suchen::V,tražiti,aramak
+1240,finden::V,naći,bulmak
+1241,versuchen::V,pokušati,denemek
+1242,vorbereiten::V,spremiti,hazırlamak
+1243,vorbereiten::V,pripremiti,hazırlamak
+1244,lieben::V,voljeti,sevmek
+1245,mögen::V,voljeti,beğenmek
+1246,lachen::V,smijati se,gülmek
+1247,rühren::V,taknuti,dokunmak
+1248,rühren::V,taknuti,duygulandırmak
+1249,weinen::V,plakati,ağlamak
+1250,schimpfen::V,psovati,küfretmek
+1251,sich ärgern::V,ljutiti se,kızmak
+1252,sich fürchten::V,bojati se,korkmak
+1253,fürchten::V,bojati se,korkmak
+1254,fliehen::V,pobjeći,kaçmak
+1255,flüchten::V,utjeći,kaçmak
+1256,sehen::V,vidjeti,görmek
+1257,anschauen::V,ogledati,seyretmek
+1258,ansehen::V,gledati,bakmak
+1259,hören::V,čuti,duymak
+1260,hören::V,čuti,işitmek
+1261,zuhören::V,slušati,dinlemek
+1262,probieren::V,probati,denemek
+1263,probieren::V,probati,tadına bakmak
+1264,riechen::V,osjećati miris,kokusunu almak
+1265,fühlen::V,osjećati,duymak
+1266,fühlen::V,osjećati,hissetmek
+1267,scheinen::V,činiti se,görünmek
+1268,zu sehen sein::V,biti vidljiv,görünmek
+1269,vernehmen::V,saznati,haber almak
+1270,frieren::V,zima je,üşümek
+1271,tun::V,raditi,etmek
+1272,tun::V,raditi,yapmak
+1273,können::V,moći,bilmek
+1274,wollen::V,htjeti,istemek
+1275,anfangen::V,početi,başlamak
+1276,beenden::V,svršiti,bitirmek
+1277,beenden::V,dovršiti,bitirmek
+1278,aufhören::V,prestati,bitmek
+1279,gelingen::V,uspjeti,başarmak
+1280,geraten::V,desiti se,düşmek
+1281,öffnen::V,otvoriti,açmak
+1282,schließen::V,zatvoriti,kapamak
+1283,stellen::V,metnuti,koymak
+1284,stellen::V,postaviti,koymak
+1285,setzen::V,posaditi,koymak
+1286,setzen::V,posaditi,oturtmak
+1287,legen::V,polagati,koymak
+1288,legen::V,polagati,yatırmak
+1289,berühren::V,doticati,dokunmak
+1290,berühren::V,dodirivati,dokunmak
+1291,verbinden::V,spojiti,bağlamak
+1292,verbinden::V,spojiti,birleştirmek
+1293,verbinden::V,zavezati,bağlamak
+1294,verbinden::V,zavezati,birleştirmek
+1295,bedecken::V,pokriti,örtmek
+1296,bedecken::V,pokriti,kaplamak
+1297,aufhängen::V,objesiti,asmak
+1298,anzünden::V,upaliti,yakmak
+1299,anzünden::V,upaliti,ateşlemek
+1300,anzünden::V,zapaliti,yakmak
+1301,anzünden::V,zapaliti,ateşlemek
+1302,aufheben::V,podići,kaldırmak
+1303,aufheben::V,podignuti,kaldırmak
+1304,zurücklassen::V,ostaviti,geride bırakmak
+1305,zurücklassen::V,pustiti natrag,geride bırakmak
+1306,verlieren::V,izgubiti,yitirmek
+1307,verlieren::V,izgubiti,kaybetmek
+1308,fallen lassen::V,ispustiti,düşürmek
+1309,machen::V,uraditi,yapmak
+1310,machen::V,načiniti,yapmak
+1311,machen::V,napraviti,yapmak
+1312,herstellen::V,proizvesti,yapmak
+1313,herstellen::V,proizvesti,imal etmek
+1314,bauen::V,graditi,kurmak
+1315,bauen::V,graditi,inşa etmek
+1316,reparieren::V,popraviti,onarmak
+1317,reparieren::V,popraviti,tamir etmek
+1318,verbessern::V,poboljšati,düzeltmek
+1319,ändern::V,promijeniti,değiştirmek
+1320,graben::V,kopati,kazmak
+1321,graben::V,kopkati,kazmak
+1322,beugen::V,saviti,eğmek
+1323,biegen::V,saviti,bükmek
+1324,biegen::V,sagnuti,bükmek
+1325,drehen::V,vrtjeti,çevirmek
+1326,drehen::V,vrtjeti,döndürmek
+1327,wenden::V,obrnuti,çevirmek
+1328,umdrehen::V,okrenuti,çevirmek
+1329,umdrehen::V,prevŕnuti,çevirmek
+1330,heben::V,dizati,kaldırmak
+1331,hochheben::V,dignuti,yukarı kaldırmak
+1332,ergreifen::V,uhvatiti,tutmak
+1333,ergreifen::V,uhvatiti,yakalamak
+1334,ergreifen::V,prihvatiti,tutmak
+1335,ergreifen::V,prihvatiti,yakalamak
+1336,halten::V,držati,tutmak
+1337,drücken::V,pritiskivati,sıkmak
+1338,schieben::V,gurati,itmek
+1339,schieben::V,gurati,sürmek
+1340,kratzen::V,česati,kaşımak
+1341,kratzen::V,grepsti,kaşımak
+1342,lecken::V,lizati,yalamak
+1343,beißen::V,ujesti,ısırmak
+1344,beißen::V,gristi,ısırmak
+1345,abreißen::V,otkinuti,koparmak
+1346,abschneiden::V,odrezati,keserek ayırmak
+1347,binden::V,vezati,bağlamak
+1348,stecken::V,turiti,sokmak
+1349,brechen::V,slomiti,kırmak
+1350,klopfen::V,lupati,çalmak
+1351,klopfen::V,kucati,çalmak
+1352,hauen::V,tući,vurmak
+1353,hauen::V,udarati,vurmak
+1354,kleben::V,lijepiti,yapıştırmak
+1355,reiben::V,trti,ovmak
+1356,reiben::V,trti,sürtmek
+1357,streichen::V,namazati,sürmek
+1358,schleifen::V,brusiti,bilemek
+1359,schneiden::V,rezati,kesmek
+1360,rütteln::V,drmati,sallamak
+1361,schütteln::V,tresti,sarsmak
+1362,schütteln::V,tresti,çalkamak
+1363,schwenken::V,mahati,sallamak
+1364,schütten::V,sipati,dökmek
+1365,schütten::V,sipati,akıtmak
+1366,schütten::V,lijevati,dökmek
+1367,schütten::V,lijevati,akıtmak
+1368,füllen::V,napuniti,doldurmak
+1369,einwickeln::V,umotati,sarmak
+1370,einwickeln::V,zamotati,sarmak
+1371,tragen::V,nositi,taşımak
+1372,schleppen::V,tegliti,sürüklemek
+1373,ziehen::V,vući,çekmek
+1374,aufbewahren::V,čuvati,saklamak
+1375,werfen::V,bacati,atmak
+1376,fangen::V,loviti,tutmak
+1377,fangen::V,loviti,yakalamak
+1378,fangen::V,hvatati,tutmak
+1379,fangen::V,hvatati,yakalamak
+1380,packen::V,ščepati,tutmak
+1381,packen::V,ščepati,yakalamak
+1382,packen::V,zgrabiti,tutmak
+1383,packen::V,zgrabiti,yakalamak
+1384,verstecken::V,sakriti,saklamak
+1385,teilen::V,podijeliti,bölmek
+1386,teilen::V,podijeliti,ayırmak
+1387,schicken::V,slati,yollamak
+1388,schicken::V,slati,göndermek
+1389,bringen::V,donijeti,getirmek
+1390,hinzufügen::V,dodati,katmak
+1391,hinzufügen::V,dodati,eklemek
+1392,hinzufügen::V,pridati,katmak
+1393,hinzufügen::V,pridati,eklemek
+1394,bekommen::V,dobiti,almak
+1395,bekommen::V,dobiti,eline geçmek
+1396,erhalten::V,primiti,almak
+1397,nehmen::V,uzeti,almak
+1398,wählen::V,izabrati,seçmek
+1399,auswählen::V,odabrati,seçmek
+1400,auswählen::V,odabrati,ayırmak
+1401,bewahren::V,sačuvati,korumak
+1402,behindern::V,smetati,engellemek
+1403,verderben::V,pokvariti,bozmak
+1404,beschädigen::V,oštetiti,zedelemek
+1405,beschädigen::V,oštetiti,ziyan vermek
+1406,zerbrechen::V,razbiti,kırmak
+1407,zerbrechen::V,prelomiti,kırmak
+1408,zerreißen::V,poderati,yırtmak
+1409,zerreißen::V,rastrgnuti,yırtmak
+1410,zerstören::V,razoriti,yıkmak
+1411,zerstören::V,razoriti,tahrip etmek
+1412,zerstören::V,razrušiti,yıkmak
+1413,zerstören::V,razrušiti,tahrip etmek
+1414,verbrennen::V,spaliti,yakmak
+1415,verbrennen::V,sagorjeti,yakmak
+1416,geben::V,dati,vermek
+1417,reichen::V,pružiti,uzatmak
+1418,schenken::V,darivati,hediye etmek
+1419,versprechen::V,obećati,vaat etmek
+1420,wünschen::V,željeti,kutlamak
+1421,loben::V,hvaliti,övmek
+1422,küssen::V,ljubiti,öpmek
+1423,wiegen::V,njihati,sallamak
+1424,wiegen::V,ljuljati,sallamak
+1425,zudecken::V,pokriti,örtmek
+1426,wecken::V,probuditi,uyandırmak
+1427,zeigen::V,pokazati,göstermek
+1428,führen::V,voditi,gezdirmek
+1429,führen::V,voditi,yol göstermek
+1430,lehren::V,učiti,okutmak
+1431,lehren::V,učiti,öğretmek
+1432,unterrichten::V,poučiti,öğretmek
+1433,aufziehen::V,uzgajati,yetiştirmek
+1434,leiten::V,upravljati,yönetmek
+1435,leiten::V,upravljati,idare etmek
+1436,antreiben::V,natjeravati,teşvik etmek
+1437,lassen::V,dati,-tırmak
+1438,einladen::V,pozvati,davet etmek
+1439,vereinigen::V,ujediniti,birleştirmek
+1440,besuchen::V,posjetiti,uğramak
+1441,besuchen::V,posjetiti,ziyaret etmek
+1442,besuchen::V,posjetiti,görmeye gitmek
+1443,treffen::V,sresti,rastlamak
+1444,treffen::V,sresti,isabet etmek
+1445,sich versammeln::V,okupiti se,toplanmak
+1446,spielen::V,igrati se,oynamak
+1447,singen::V,pjevati,söylemek
+1448,singen::V,pjevati,şarkı söylemek
+1449,tanzen::V,plesati,oynamak
+1450,tanzen::V,plesati,dans etmek
+1451,sich trennen::V,razići se,ayrılmak
+1452,verlassen::V,ostaviti,bırakmak
+1453,verlassen::V,ostaviti,terk etmek
+1454,verlassen::V,napustiti,bırakmak
+1455,verlassen::V,napustiti,terk etmek
+1456,retten::V,spasiti,kurtarmak
+1457,bewachen::V,čuvati,gözetmek
+1458,bewachen::V,stražariti,gözetmek
+1459,schützen::V,čuvati,korumak
+1460,verteidigen::V,obraniti,savunmak
+1461,sich schlagen::V,biti se,dövüşmek
+1462,sich schlagen::V,udariti se,dövüşmek
+1463,schießen::V,pucati,ateş etmek
+1464,schießen::V,strijeljati,ateş etmek
+1465,siegen::V,pobijediti,yenmek
+1466,ärgern::V,ljutiti,kızdırmak
+1467,schlagen::V,biti,dövmek
+1468,schlagen::V,udariti,dövmek
+1469,treten::V,šutnuti,tepmek
+1470,stechen::V,ubosti,sokmak
+1471,stechen::V,ubosti,batırmak
+1472,stoßen::V,gurnuti,itmek
+1473,stehlen::V,ukrasti,çalmak
+1474,stören::V,smetati,bozmak
+1475,stören::V,smetati,etkilemek
+1476,belästigen::V,smetati,rahatsız etmek
+1477,belästigen::V,dosaditi,rahatsız etmek
+1478,verbergen::V,skriti,saklamak
+1479,täuschen::V,obmanuti,aldatmak
+1480,betrügen::V,prevarati,aldatmak
+1481,betrügen::V,prevarati,dolandırmak
+1482,töten::V,ubiti,öldürmek
+1483,wohnen::V,stanovati,oturmak
+1484,arbeiten::V,raditi,çalışmak
+1485,sammeln::V,sabrati,toplamak
+1486,pflücken::V,ubrati,koparmak
+1487,jagen::V,loviti,avlanmak
+1488,fischen::V,ribati,balık tutmak
+1489,fischen::V,loviti ribu,balık tutmak
+1490,fassen::V,uloviti,tutmak
+1491,fassen::V,uloviti,yakalamak
+1492,hüten::V,pasti,otlatmak
+1493,treiben::V,goniti,gütmek
+1494,anbinden::V,privezati,bağlamak
+1495,füttern::V,hraniti,beslemek
+1496,melken::V,musti,sağmak
+1497,hacken::V,sjeckati,yarmak
+1498,gießen::V,politi,sulamak
+1499,reifen::V,sazreti,olgunlaşmak
+1500,zubereiten::V,prigotoviti,hazırlamak
+1501,kochen::V,kuhati,pişirmek
+1502,kochen::V,kuhati,kaynatmak
+1503,backen::V,peći,pişirmek
+1504,backen::V,peći,fırında pişirmek
+1505,braten::V,peći,kızartmak
+1506,braten::V,pržiti,kızartmak
+1507,umrühren::V,promiješati,karıştırmak
+1508,stricken::V,plesti,örmek
+1509,nähen::V,šiti,dikmek
+1510,färben::V,obojiti,boyamak
+1511,reinigen::V,očistiti,temizlemek
+1512,reinigen::V,počistiti,temizlemek
+1513,waschen::V,prati,yıkamak
+1514,abwischen::V,otrti,silmek
+1515,spülen::V,isprati,çalkamak
+1516,spülen::V,oplakati,çalkamak
+1517,fegen::V,mesti,süpürmek
+1518,fegen::V,pomesti,süpürmek
+1519,kehren::V,mesti,süpürmek
+1520,baden::V,kupati se,yıkanmak
+1521,baden::V,kupati se,banyo yapmak
+1522,sich waschen::V,umiti se,yıkanmak
+1523,sich waschen::V,prati se,yıkanmak
+1524,ausziehen::V,svući,çıkarmak
+1525,anziehen::V,obući,giymek
+1526,sich anziehen::V,obući se,giyinmek
+1527,kämmen::V,češljati,taramak
+1528,schmücken::V,uresiti,süslemek
+1529,schmücken::V,nakititi,süslemek
+1530,sagen::V,reći,demek
+1531,sagen::V,reći,söylemek
+1532,sagen::V,kazati,demek
+1533,sagen::V,kazati,söylemek
+1534,sprechen::V,govoriti,konuşmak
+1535,reden::V,govoriti,konuşmak
+1536,reden::V,besjediti,konuşmak
+1537,sich unterhalten::V,razgovarati se,sohbet etmek
+1538,fragen::V,pitati,sormak
+1539,bitten::V,moliti,dilemek
+1540,bitten::V,moliti,rica etmek
+1541,erzählen::V,ispričati,bahsetmek
+1542,erzählen::V,ispričati,hikâye etmek
+1543,erzählen::V,pripovjediti,bahsetmek
+1544,erzählen::V,pripovjediti,hikâye etmek
+1545,mitteilen::V,saopćiti,bildirmek
+1546,nennen::V,nazvati,adlandırmak
+1547,rufen::V,zvati,çağırmak
+1548,rufen::V,dozvati,çağırmak
+1549,prahlen::V,hvalisati se,övünmek
+1550,übersetzen::V,prevesti,çevirmek
+1551,übersetzen::V,prevesti,tercüme etmek
+1552,denken::V,misliti,düşünmek
+1553,glauben::V,vjerovati,inanmak
+1554,glauben::V,vjerovati,zannetmek
+1555,bemerken::V,zapaziti,farkına varmak
+1556,bemerken::V,primijetiti,farkına varmak
+1557,erkennen::V,prepoznati,tanımak
+1558,begreifen::V,pojmiti,anlamak
+1559,begreifen::V,pojmiti,kavramak
+1560,begreifen::V,shvatiti,anlamak
+1561,begreifen::V,shvatiti,kavramak
+1562,verstehen::V,razabrati,duymak
+1563,verstehen::V,razabrati,anlamak
+1564,lernen::V,učiti se,öğrenmek
+1565,wissen::V,znati,bilmek
+1566,sich erinnern an::V,sjetiti se,hatırlamak
+1567,vergessen::V,zaboraviti,unutmak
+1568,messen::V,mjeriti,ölçmek
+1569,zählen::V,brojiti,saymak
+1570,rechnen::V,računati,hesap etmek
+1571,lesen::V,čitati,okumak
+1572,malen::V,slikati,resmini yapmak
+1573,zeichnen::V,crtati,çizmek
+1574,schreiben::V,pisati,yazmak
+1575,besitzen::V,imati,haiz olmak
+1576,besitzen::V,imati,sahip olmak
+1577,besitzen::V,posjedovati,haiz olmak
+1578,besitzen::V,posjedovati,sahip olmak
+1579,kaufen::V,kupiti,almak
+1580,verkaufen::V,prodati,satmak
+1581,verkaufen::V,raspačati,satmak
+1582,bezahlen::V,platiti,ödemek
+1583,zahlen::V,plaćati,ödemek
+1584,beherrschen::V,vladati,hâkim olmak
+1585,beherrschen::V,gospodariti,hâkim olmak
+1586,ertragen::V,trpjeti,dayanmak
+1587,ertragen::V,trpjeti,katlanmak
+1588,ertragen::V,podnijeti,dayanmak
+1589,ertragen::V,podnijeti,katlanmak
+1590,Gehirn::N,,beyin

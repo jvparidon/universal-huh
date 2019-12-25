@@ -1,0 +1,1344 @@
+,Concept_ID,no,sk
+0,Auge::N,øye,oko
+1,Ohr::N,øre,ucho
+2,Nase::N,nese,nos
+3,Mund::N,munn,ústa
+4,Zahn::N,tann,zub
+5,Zunge::N,tunge,jazyk
+6,Lippe::N,leppe,pera
+7,Wange::N,kinn,líce
+8,Gesicht::N,fjes,tvár
+9,Gesicht::N,fjes,obličaj
+10,Gesicht::N,ansikt,tvár
+11,Gesicht::N,ansikt,obličaj
+12,Stirn::N,panne,čelo
+13,Haar::N,hår,vlas
+14,Schnurrbart::N,bart,fúzy
+15,Bart::N,skjegg,brada
+16,Kinn::N,hake,brada
+17,Kiefer[Anatomie]::N,kjeve,čeľusť
+18,Kehle::N,strupe,hrdlo
+19,Hals::N,hals,krk
+20,Genick::N,nakke,väzy
+21,Kopf::N,hode,hlava
+22,Rücken::N,rygg,chrbát
+23,Bauch::N,buk,brucho
+24,Bauch::N,mage,brucho
+25,Nabel::N,navle,pupok
+26,Busen::N,barm,prsia
+27,Brust::N,bryst,hruď
+28,Schulter::N,skulder,plece
+29,Arm::N,arm,rameno
+30,Ellenbogen::N,albue,lakeť
+31,Hand::N,hånd,ruka
+32,Handfläche::N,håndflate,dlaň
+33,Finger::N,finger,prst
+34,Fingernagel::N,fingernegl,necht
+35,Nagel[Anatomie]::N,negl,necht
+36,Zeh::N,tå,prst na nohe
+37,Fuß::N,fot,noha
+38,Ferse::N,hæl,päta
+39,Knie::N,kne,koleno
+40,Oberschenkel::N,lår,stehno
+41,Bein::N,bein,noha
+42,Körper::N,kropp,telo
+43,Körper::N,legeme,telo
+44,Haut::N,hud,koža
+45,Haut::N,skinn,koža
+46,Blut::N,blod,krv
+47,Ader::N,åre,žila
+48,Sehne::N,sene,šľacha
+49,Knochen::N,bein,kosť
+50,Knochen::N,knokkel,kosť
+51,Gehirn::N,hjerne,mozog
+52,Herz::N,hjerte,srdce
+53,Magen::N,mage,žalúdok
+54,Leber::N,lever,pečeň
+55,Atem::N,pust,dych
+56,Hunger::N,sult,hlad
+57,Träne::N,tåre,slza
+58,Geschmack::N,smak,chuť
+59,Geruch::N,lukt,pach
+60,Schlaf::N,søvn,spánok
+61,Traum::N,drøm,sen
+62,Himmel::N,himmel,nebo
+63,Sonne::N,sol,slnko
+64,Mond::N,måne,mesiac
+65,Stern::N,stjerne,hviezda
+66,Luft::N,luft,vzduch
+67,Wind::N,vind,vietor
+68,Welle::N,bølge,vlna
+69,Wasser::N,vann,voda
+70,Stein::N,stein,kameň
+71,Boden::N,bakke,zem
+72,Boden::N,bakke,pôda
+73,Erde::N,jord,zem
+74,Staub::N,støv,prach
+75,Rauch::N,røyk,dym
+76,Funke::N,gnist,iskra
+77,Feuer::N,ild,oheň
+78,Licht::N,lys,svetlo
+79,Schatten::N,skygge,tieň
+80,Wetter::N,vær,počasie
+81,Nebel::N,tåke,hmla
+82,Wolke::N,sky,oblak
+83,Wolke::N,sky,mračno
+84,Regen::N,regn,dážď
+85,Schnee::N,snø,sneh
+86,Eis::N,is,ľad
+87,Frost::N,frost,mráz
+88,Kälte::N,kulde,zima
+89,Kälte::N,kulde,chlad
+90,Hitze::N,hete,horúčava
+91,Raureif::N,rimfrost,srieň
+92,Raureif::N,rimfrost,inovať
+93,Regenbogen::N,regnbue,dúha
+94,Donner::N,torden,hrom
+95,Strömung::N,strømning,prúdenie
+96,Tropfen::N,dråpe,kvapka
+97,Schaum::N,skum,pena
+98,Schmutz::N,søl,špina
+99,Schmutz::N,søl,nečistota
+100,Schmutz::N,skitt,špina
+101,Schmutz::N,skitt,nečistota
+102,See::N,sjø,jazero
+103,Sumpf::N,sump,bahno
+104,Sumpf::N,myrlende,bahno
+105,Moor::N,myr,močiar
+106,Moor::N,myrhei,močiar
+107,Wiese::N,eng,lúka
+108,Wald::N,skog,les
+109,Wald::N,skog,hora
+110,Hügel::N,haug,vŕšok
+111,Hügel::N,bakke,vŕšok
+112,Anhöhe::N,haug,výšina
+113,Anhöhe::N,haug,vyvýšenina
+114,Anhöhe::N,bakke,výšina
+115,Anhöhe::N,bakke,vyvýšenina
+116,Berg::N,berg,hora
+117,Berg::N,fjell,hora
+118,Gipfel::N,topp,vrchol
+119,Höhle::N,hule,jaskyňa
+120,Abhang::N,li,úbočie
+121,Abhang::N,skråning,úbočie
+122,Quelle::N,kilde,prameň
+123,Bach::N,bekk,potok
+124,Fluss::N,elv,rieka
+125,Ufer::N,bredd,breh
+126,Küste::N,kyst,pobrežie
+127,Festland::N,fastland,pevnina
+128,Meer::N,hav,more
+129,Bucht::N,bukt,záliv
+130,Bucht::N,bukt,zátoka
+131,Insel::N,øy,ostrov
+132,Blume::N,blomst,kvet
+133,Blume::N,blomst,kvetina
+134,Gras::N,gress,tráva
+135,Wurzel::N,rot,koreň
+136,Baum::N,tre,strom
+137,Stamm::N,stamme,kmeň
+138,Rinde::N,bark,kôra
+139,Ast::N,gren,konár
+140,Zweig::N,kvist,vetva
+141,Blatt::N,blad,list
+142,Birke::N,bjørk,breza
+143,Kiefer[Baum]::N,furu,sosna
+144,Kiefer[Baum]::N,furu,borovica
+145,Weide[Baum]::N,selje,vŕba
+146,Weide[Baum]::N,piletre,vŕba
+147,Tanne::N,gran,jedľa
+148,Horn::N,horn,roh
+149,Feder::N,fjær,pero
+150,Fell::N,skinn,koža
+151,Fell::N,skinn,kožušina
+152,Flügel::N,vinge,krídlo
+153,Klaue::N,klauv,paznecht
+154,Kralle::N,klo,pazúr
+155,Schwanz::N,hale,chvost
+156,Ei::N,egg,vajce
+157,Ei::N,egg,vajíčko
+158,Nest::N,rede,hniezdo
+159,Bau::N,hi,nora
+160,Tier::N,dyr,zviera
+161,Herde::N,flokk,stádo
+162,Kuh::N,ku,krava
+163,Bulle::N,tyr,býk
+164,Pferd::N,hest,kôň
+165,Schaf::N,får,ovca
+166,Schwein::N,gris,sviňa
+167,Hund::N,hund,pes
+168,Katze::N,katt,mačka
+169,Bär::N,bjørn,medveď
+170,Eichhörnchen::N,ekorn,veverička
+171,Elch::N,elg,los
+172,Fuchs::N,rev,líška
+173,Hase::N,hare,zajac
+174,Maus::N,mus,myš
+175,Wolf::N,ulv,vlk
+176,Wolf::N,varg,vlk
+177,Vogel::N,fugl,vták
+178,Schwarm::N,sverm,roj
+179,Huhn::N,høne,kurča
+180,Huhn::N,høne,sliepka
+181,Hahn::N,hane,kohút
+182,Gans::N,gås,hus
+183,Adler::N,ørn,orol
+184,Ente::N,and,kačka
+185,Ente::N,and,kačica
+186,Eule::N,ugle,sova
+187,Kranich::N,trane,žeriav
+188,Krähe::N,kråke,vrana
+189,Kuckuck::N,gjøk,kukučka
+190,Schwan::N,svane,labuť
+191,Fisch::N,fisk,ryba
+192,Barsch::N,abbor,ostriež
+193,Hecht::N,gjedde,šťuka
+194,Schlange[Tier]::N,orm,had
+195,Schlange[Tier]::N,slange,had
+196,Wurm::N,orm,červ
+197,Wurm::N,mark,červ
+198,Spinne::N,edderkopp,pavúk
+199,Ameise::N,maur,mravec
+200,Laus::N,lus,voš
+201,Mücke::N,mygg,komár
+202,Fliege::N,flue,mucha
+203,Schmetterling::N,sommerfugl,motýľ
+204,Beere::N,bær,bobuľa
+205,Apfel::N,eple,jablko
+206,Pilz::N,sopp,hríb
+207,Zwiebel::N,løk,cibuľa
+208,Saat::N,sæd,osivo
+209,Korn::N,korn,zrno
+210,Heu::N,høy,seno
+211,Schale::N,skall,šupa
+212,Schale::N,skall,škrupina
+213,Grube::N,grop,jama
+214,Falle::N,felle,pasca
+215,Falle::N,felle,klepec
+216,Schlinge::N,snare,slučka
+217,Spur::N,spor,stopa
+218,Asche::N,aske,popol
+219,Dreck::N,møkk,kal
+220,Dreck::N,møkk,blato
+221,Dreck::N,skitt,kal
+222,Dreck::N,skitt,blato
+223,Eisen::N,jern,železo
+224,Gold::N,gull,zlato
+225,Silber::N,sølv,striebro
+226,Kohle::N,kol,uhlie
+227,Kohle::N,kull,uhlie
+228,Glas::N,glass,sklo
+229,Lehm::N,leire,íl
+230,Lehm::N,leire,hlina
+231,Sand::N,sand,piesok
+232,Mensch::N,menneske,človek
+233,Mann::N,mann,muž
+234,Mann::N,mann,chlap
+235,Frau::N,kvinne,žena
+236,Kind::N,barn,dieťa
+237,Junge::N,gutt,chlapec
+238,Mädchen::N,pike,dievka
+239,Mädchen::N,jente,dievka
+240,Familie::N,familie,rodina
+241,Großvater::N,bestefar,dedo
+242,Großvater::N,bestefar,starý otec
+243,Großmutter::N,bestemor,babička
+244,Großmutter::N,bestemor,stará mať
+245,Eltern::N,foreldre,rodičia
+246,Vater::N,far,otec
+247,Mutter::N,mor,mať
+248,Mutter::N,mor,matka
+249,Sohn::N,sønn,syn
+250,Tochter::N,datter,dcéra
+251,Bruder::N,bror,brat
+252,Schwester::N,søster,sestra
+253,Onkel::N,onkel,ujo
+254,Onkel::N,onkel,strýko
+255,Tante::N,tante,teta
+256,Tante::N,tante,tetka
+257,Ehemann::N,ektemann,muž
+258,Ehemann::N,ektemann,manžel
+259,Ehefrau::N,hustru,žena
+260,Ehefrau::N,hustru,manželka
+261,Freude::N,glede,radosť
+262,Gelächter::N,latter,smiech
+263,Glück::N,lykke,šťastie
+264,Kummer::N,sorg,žiaľ
+265,Kummer::N,sorg,zármutok
+266,Wunsch::N,ønske,prianie
+267,Lust::N,lyst,chuť
+268,Geist::N,ånd,duch
+269,Gedanke::N,tanke,myšlienka
+270,Gedächtnis::N,minne,pamäť
+271,Gedächtnis::N,hukommelse,pamäť
+272,Verstand::N,forstand,rozum
+273,Sinn::N,mening,zmysel
+274,Sinn::N,betydning,zmysel
+275,Grund::N,grunn,dôvod
+276,Grund::N,grunn,príčina
+277,Wahrheit::N,sannhet,pravda
+278,Gespräch::N,samtale,reč
+279,Gespräch::N,samtale,rozhovor
+280,Märchen::N,eventyr,rozprávka
+281,Erzählung::N,fortelling,poviedka
+282,Nachricht::N,melding,správa
+283,Neuigkeit::N,nyhet,novinka
+284,Name::N,navn,meno
+285,Rätsel::N,gåte,záhada
+286,Rätsel::N,gåte,hádanka
+287,Rede::N,tale,reč
+288,Sprache::N,språk,reč
+289,Sprache::N,språk,jazyk
+290,Stimme::N,stemme,hlas
+291,Wort::N,ord,slovo
+292,Zeichen::N,tegn,znak
+293,Ruf::N,rop,volanie
+294,Ruf::N,rop,zavolanie
+295,Lärm::N,bråk,hluk
+296,Lärm::N,bråk,hurhaj
+297,Laut::N,lyd,zvuk
+298,Ton::N,tone,tón
+299,Ton::N,tone,zvuk
+300,Lied::N,vise,pieseň
+301,Ruhe::N,ro,pokoj
+302,Leute::N,folk,ľudia
+303,Volk::N,folk,ľud
+304,Volk::N,folk,národ
+305,Arbeit::N,arbeid,práca
+306,Arbeit::N,arbeid,robota
+307,Gast::N,gjest,hosť
+308,Geschenk::N,gave,dar
+309,Spiel::N,lek,hra
+310,Spiel::N,spill,hra
+311,Gesellschaft::N,selskap,spoločnosť
+312,Hilfe::N,hjelp,pomoc
+313,Freund::N,venn,priateľ
+314,Kamerad::N,kamerat,kamarát
+315,Angelegenheit::N,sak,vec
+316,Angelegenheit::N,sak,záležitosť
+317,Angelegenheit::N,anliggende,vec
+318,Angelegenheit::N,anliggende,záležitosť
+319,Anzahl::N,antall,počet
+320,Anzahl::N,antall,množstvo
+321,Art::N,art,druh
+322,Art::N,slag,druh
+323,Stück::N,stykke,kus
+324,Stück::N,stykke,kúsok
+325,Teil::N,del,časť
+326,Hälfte::N,halvdel,polka
+327,Hälfte::N,halvdel,polovica
+328,Kreis::N,ring,kruh
+329,Kreis::N,sirkel,kruh
+330,Kreuz::N,kors,kríž
+331,Kreuz::N,kryss,kríž
+332,Linie::N,linje,línia
+333,Strich::N,strek,čiara
+334,Abstand::N,avstand,vzdialenosť
+335,Entfernung::N,avstand,vzdialenosť
+336,Gegend::N,strøk,kraj
+337,Gegend::N,strøk,krajina
+338,Platz::N,plass,miesto
+339,Ort::N,sted,miesto
+340,Seite::N,side,bok
+341,Seite::N,side,strana
+342,Mitte::N,midte,stred
+343,Gegenstand::N,gjenstand,predmet
+344,Sache::N,sak,vec
+345,Rand::N,rand,kraj
+346,Rand::N,rand,okraj
+347,Kante::N,kant,hrana
+348,Ecke::N,hjørne,roh
+349,Spitze::N,spiss,hrot
+350,Spitze::N,spiss,špička
+351,Ende::N,ende,koniec
+352,Loch::N,hull,diera
+353,Winkel::N,vinkel,kút
+354,Muster::N,mønster,vzor
+355,Muster::N,mønster,vzorka
+356,Größe::N,størrelse,veľkosť
+357,Länge::N,lengde,dĺžka
+358,Höhe::N,høyde,výška
+359,Gewicht::N,vekt,váha
+360,Menge::N,mengde,množstvo
+361,Haufen::N,haug,hŕba
+362,Haufen::N,bunke,hŕba
+363,Reihe::N,rekke,rad
+364,Boot::N,båt,čln
+365,Ruder::N,åre,veslo
+366,Schlitten::N,slede,sane
+367,Schlitten::N,kjelke,sane
+368,Ski::N,ski,lyža
+369,Lagerfeuer::N,leirbål,táborák
+370,Last::N,bør,ťarcha
+371,Last::N,bør,bremeno
+372,Last::N,last,ťarcha
+373,Last::N,last,bremeno
+374,Gang::N,gang,chôdza
+375,Schritt::N,steg,krok
+376,Schritt::N,skritt,krok
+377,Norden::N,nord,sever
+378,Süden::N,sør,juh
+379,Westen::N,vest,západ
+380,Osten::N,øst,východ
+381,Holz::N,tre,drevo
+382,Brett::N,fjøl,doska
+383,Brett::N,brett,doska
+384,Platte::N,plate,doska
+385,Platte::N,plate,platňa
+386,Stütze::N,støtte,opora
+387,Stange::N,stang,tyč
+388,Stock::N,pinne,palica
+389,Stab::N,stav,palica
+390,Stab::N,kjepp,palica
+391,Rohr::N,rør,rúra
+392,Haus::N,hus,dom
+393,Heim::N,hjem,domov
+394,Ofen::N,ovn,pec
+395,Ofen::N,ovn,kachle
+396,Fußboden::N,gulv,dlážka
+397,Fußboden::N,gulv,podlaha
+398,Tisch::N,bord,stôl
+399,Stuhl::N,stol,stolička
+400,Wiege::N,vogge,kolíska
+401,Bett::N,seng,lôžko
+402,Bett::N,seng,posteľ
+403,Regal::N,reol,regál
+404,Regal::N,reol,polica
+405,Regal::N,hylle,regál
+406,Regal::N,hylle,polica
+407,Kiste::N,kasse,debna
+408,Fenster::N,vindu,okno
+409,Fenster::N,vindu,oblok
+410,Tür::N,dør,dvere
+411,Tor::N,port,vráta
+412,Zaun::N,gjerde,plot
+413,Zaun::N,gjerde,ohrada
+414,Dach::N,tak,krov
+415,Dach::N,tak,strecha
+416,Leiter::N,stige,rebrík
+417,Leiter::N,stige,rebrina
+418,Besen::N,kost,metla
+419,Spaten::N,spade,rýľ
+420,Schaufel::N,skuffe,lopata
+421,Gabel::N,gaffel,vidlička
+422,Löffel::N,skje,lyžica
+423,Messer::N,kniv,nôž
+424,Nagel::N,spiker,klinec
+425,Netz::N,nett,sieť
+426,Haken::N,krok,hák
+427,Haken::N,krok,háčik
+428,Griff::N,tak,rukoväť
+429,Griff::N,håndtak,rukoväť
+430,Schloss::N,lås,zámka
+431,Bild::N,bilde,obraz
+432,Figur::N,figur,figúra
+433,Puppe::N,dukke,bábka
+434,Puppe::N,dukke,bábika
+435,Beutel::N,pose,vrece
+436,Beutel::N,pose,vrecko
+437,Bündel::N,bylt,uzlík
+438,Bündel::N,bylt,zväzok
+439,Tasche::N,veske,taška
+440,Tasche::N,veske,kabelka
+441,Eimer::N,bøtte,vedro
+442,Deckel::N,lokk,vrchnák
+443,Deckel::N,lokk,pokrývka
+444,Geschirr::N,kjøkkentøy,nádoba
+445,Sack::N,sekk,mech
+446,Sack::N,sekk,vrece
+447,Tasse::N,kopp,šálka
+448,Topf::N,gryte,hrniec
+449,Kessel::N,kjele,kotol
+450,Essen::N,mål,jedlo
+451,Nahrung::N,mat,strava
+452,Nahrung::N,mat,potrava
+453,Nahrung::N,næring,strava
+454,Nahrung::N,næring,potrava
+455,Speise::N,matrett,jedlo
+456,Fleisch::N,kjøtt,mäso
+457,Getreide::N,korn,obilie
+458,Brei::N,grøt,kaša
+459,Brot::N,brød,chlieb
+460,Scheibe::N,skive,kotúč
+461,Scheibe::N,skive,krajec
+462,Fett::N,fett,tuk
+463,Fett::N,fett,masť
+464,Butter::N,smør,maslo
+465,Öl::N,olje,olej
+466,Salz::N,salt,soľ
+467,Suppe::N,suppe,polievka
+468,Honig::N,honning,med
+469,Milch::N,melk,mlieko
+470,Tee::N,te,čaj
+471,Leder::N,lær,koža
+472,Leder::N,skinn,koža
+473,Wolle::N,ull,vlna
+474,Stoff::N,tøy,súkno
+475,Stoff::N,stoff,súkno
+476,Nadel::N,nål,ihla
+477,Faden::N,tråd,niť
+478,Faden::N,tråd,vlákno
+479,Knopf::N,knapp,gombík
+480,Knoten::N,knute,uzol
+481,Farbe::N,farge,farba
+482,Kleidung::N,påkledning,šaty
+483,Kleidung::N,påkledning,šatstvo
+484,Hemd::N,skjorte,košeľa
+485,Kragen::N,krage,golier
+486,Ärmel::N,erme,rukáv
+487,Hose::N,bukse,nohavice
+488,Gürtel::N,belte,pás
+489,Gürtel::N,belte,opasok
+490,Mütze::N,lue,čiapka
+491,Schuh::N,sko,obuv
+492,Schuh::N,sko,topánka
+493,Stiefel::N,støvel,čižma
+494,Ring::N,ring,prsteň
+495,Band::N,band,stuha
+496,Kamm::N,kam,hrebeň
+497,Spiegel::N,speil,zrkadlo
+498,Riemen::N,rem,remeň
+499,Schnur::N,snor,šnúra
+500,Leine::N,line,vodidlo
+501,Decke::N,teppe,deka
+502,Decke::N,teppe,prikrývka
+503,Kissen::N,pute,poduška
+504,Tuch::N,tøy,šatka
+505,Handtuch::N,håndkle,uterák
+506,Kraft::N,kraft,moc
+507,Stärke::N,styrke,sila
+508,Gesundheit::N,helse,zdravie
+509,Gesundheit::N,sunnhet,zdravie
+510,Krankheit::N,syke,nemoc
+511,Krankheit::N,syke,choroba
+512,Krankheit::N,sykdom,nemoc
+513,Krankheit::N,sykdom,choroba
+514,Schmerz::N,smerte,bolesť
+515,Wunde::N,sår,rana
+516,Fieber::N,feber,horúčka
+517,Arznei::N,medisin,liek
+518,Arznei::N,legemiddel,liek
+519,Brücke::N,bro,most
+520,Brunnen::N,brønn,studňa
+521,Weide::N,beite,pastva
+522,Pfad::N,sti,chodník
+523,Weg::N,vei,cesta
+524,Straße::N,gate,hradská
+525,Dorf::N,landsby,dedina
+526,Stadt::N,by,mesto
+527,Brief::N,brev,list
+528,Buch::N,bok,kniha
+529,Buchstabe::N,bokstav,litera
+530,Buchstabe::N,bokstav,písmeno
+531,Zeitung::N,avis,noviny
+532,Leben::N,liv,život
+533,Tod::N,død,smrť
+534,Grab::N,grav,hrob
+535,Kirche::N,kirke,kostol
+536,Sünde::N,synd,hriech
+537,Gott::N,gud,boh
+538,Arbeiter::N,arbeider,robotník
+539,Arbeiter::N,arbeider,pracnovík
+540,Chef::N,sjef,šéf
+541,Chef::N,sjef,riaditeľ
+542,Meister::N,mester,majster
+543,Arzt::N,lege,lekár
+544,Lehrer::N,lærer,učiteľ
+545,Geld::N,penger,peniaze
+546,Geschäft::N,forretning,obchod
+547,Laden::N,butikk,obchod
+548,Preis::N,pris,cena
+549,Ware::N,vare,tovar
+550,Nutzen::N,nytte,osoh
+551,Nutzen::N,nytte,úžitok
+552,Reichtum::N,rikdom,bohatstvo
+553,Welt::N,verden,svet
+554,Land::N,land,územie
+555,Land::N,land,krajina
+556,Staat::N,stat,štát
+557,König::N,konge,kráľ
+558,Macht::N,makt,moc
+559,Macht::N,makt,mocnosť
+560,Grenze::N,grense,hranica
+561,Krieg::N,krig,vojna
+562,Feind::N,fiende,nepriateľ
+563,Gewalt::N,vold,násilie
+564,Kampf::N,kamp,boj
+565,Bogen[Waffe]::N,bue,luk
+566,Pfeil::N,pil,šíp
+567,Pfeil::N,pil,strela
+568,Gewehr::N,gevær,puška
+569,Fehler::N,feil,omyl
+570,Fehler::N,feil,chyba
+571,Lüge::N,løgn,lož
+572,Schaden::N,skade,ujma
+573,Schaden::N,skade,škoda
+574,Unglück::N,uhell,nešťastie
+575,Schuld::N,skyld,vina
+576,Schuld::N,skyld,previnenie
+577,Alter::N,alder,vek
+578,Schluss::N,slutt,záver
+579,Schluss::N,slutt,koniec
+580,Zeit::N,tid,čas
+581,Tag::N,dag,deň
+582,Morgen::N,morgen,ráno
+583,Mittag::N,middag,poludnie
+584,Abend::N,aften,večer
+585,Nacht::N,natt,noc
+586,Woche::N,uke,týždeň
+587,Monat::N,måned,mesiac
+588,Jahr::N,år,rok
+589,Frühling::N,vår,jar
+590,Sommer::N,sommer,leto
+591,Herbst::N,høst,jeseň
+592,Winter::N,vinter,zima
+593,Januar::N,januar,január
+594,Februar::N,februar,február
+595,März::N,mars,marec
+596,April::N,april,apríl
+597,Mai::N,mai,máj
+598,Juni::N,juni,jún
+599,Juli::N,juli,júl
+600,August::N,august,august
+601,September::N,september,september
+602,Oktober::N,oktober,október
+603,November::N,november,november
+604,Dezember::N,desember,december
+605,Montag::N,mandag,pondelok
+606,Dienstag::N,tirsdag,utorok
+607,Mittwoch::N,onsdag,streda
+608,Donnerstag::N,torsdag,štvrtok
+609,Freitag::N,fredag,piatok
+610,Samstag::N,lørdag,sobota
+611,Sonntag::N,søndag,nedeľa
+612,groß::A,stor,veľký
+613,klein::A,liten,malý
+614,lang::A,lang,dlhý
+615,kurz::A,kort,krátky
+616,breit::A,bred,široký
+617,schmal::A,smal,úzky
+618,dicht::A,tett,hustý
+619,dick[Gegenstand]::A,tykk,tlstý
+620,dünn::A,tynn,tenký
+621,fein::A,fin,jemný
+622,fest::A,fast,pevný
+623,flach::A,flat,rovný
+624,flach::A,flat,plochý
+625,glatt::A,glatt,hladký
+626,hart::A,hard,tvrdý
+627,weich::A,myk,mäkký
+628,weich::A,bløt,mäkký
+629,rund::A,rund,guľatý
+630,rund::A,rund,okrúhly
+631,spitz::A,spiss,končitý
+632,scharf::A,kvass,ostrý
+633,stumpf::A,stubb,tupý
+634,schwer::A,tung,ťažký
+635,schön::A,pen,pekný
+636,schön::A,pen,krásny
+637,schön::A,vakker,pekný
+638,schön::A,vakker,krásny
+639,heiß::A,het,horúci
+640,warm::A,varm,teplý
+641,kalt::A,kald,studený
+642,kühl::A,kjølig,chladný
+643,frisch::A,fersk,svieži
+644,feucht::A,fuktig,vlhký
+645,feucht::A,fuktig,zvlhnutý
+646,nass::A,våt,mokrý
+647,trocken::A,tørr,suchý
+648,voll::A,full,plný
+649,leer::A,tom,prázdny
+650,offen::A,åpen,otvorený
+651,geschlossen::A,lukket,zavretý
+652,sauber::A,ren,čistý
+653,schmutzig::A,skitten,špinavý
+654,roh::A,rå,surový
+655,reif::A,moden,zrelý
+656,lecker::A,lekker,chutný
+657,süß::A,søt,sladký
+658,bitter::A,besk,horký
+659,bitter::A,bitter,horký
+660,sauer::A,sur,kyslý
+661,hell::A,lys,jasný
+662,hell::A,lys,svetlý
+663,dunkel::A,mørk,temný
+664,schwarz::A,svart,čierny
+665,weiß::A,hvit,biely
+666,rot::A,rød,červený
+667,gelb::A,gul,žltý
+668,blau::A,blå,modrý
+669,blau::A,blå,belasý
+670,grün::A,grønn,zelený
+671,grau::A,grå,šedý
+672,bunt::A,broket,pestrý
+673,billig::A,billig,lacný
+674,teuer::A,dyr,drahý
+675,wertvoll::A,verdifull,cenný
+676,blind::A,blind,slepý
+677,taub::A,døv,hluchý
+678,kräftig::A,kraftig,silný
+679,stark::A,sterk,silný
+680,schwach::A,svak,slabý
+681,schwach::A,svak,bezvládny
+682,fett::A,fet,tučný
+683,schlank::A,slank,štíhly
+684,hübsch::A,pen,šumný
+685,hübsch::A,pen,švárny
+686,böse::A,slem,zlý
+687,dumm::A,dum,hlúpy
+688,faul::A,lat,lenivý
+689,faul::A,doven,lenivý
+690,fleißig::A,flittig,snaživý
+691,fleißig::A,flittig,usilovný
+692,geizig::A,gjerrig,skupý
+693,geizig::A,gjerrig,lakomý
+694,klug::A,klok,múdry
+695,klug::A,klok,bystrý
+696,geschickt::A,hendig,zručný
+697,geschickt::A,hendig,šikovný
+698,geschickt::A,skikket,zručný
+699,geschickt::A,skikket,šikovný
+700,lieb::A,kjær,milý
+701,lieb::A,snill,milý
+702,lustig::A,morsom,veselý
+703,sanft::A,blid,nežný
+704,hungrig::A,sulten,lačný
+705,hungrig::A,sulten,hladný
+706,krank::A,syk,chorý
+707,krank::A,syk,nemocný
+708,nackt::A,naken,nahý
+709,traurig::A,sørgmodig,smutný
+710,lebendig::A,levende,živý
+711,gut::A,god,dobrý
+712,schlecht::A,dårlig,zlý
+713,richtig::A,riktig,správny
+714,schlimm::A,slem,zlý
+715,schlimm::A,slem,nepríjemný
+716,wahr::A,sann,pravý
+717,wahr::A,sann,pravdivý
+718,alt::A,gammel,starý
+719,neu::A,ny,nový
+720,ehemalig::A,forhenværende,bývalý
+721,alt[Lebewesen]::A,gammel,starý
+722,jung::A,ung,mladý
+723,arm::A,fattig,chudobný
+724,reich::A,rik,bohatý
+725,bekannt::A,kjent,známy
+726,berühmt::A,berømt,slávny
+727,berühmt::A,berømt,povestný
+728,fremd::A,fremmed,cudzí
+729,verschieden::A,forskjellig,rôzny
+730,verschieden::A,forskjellig,rozličný
+731,nah::A,nær,blízky
+732,fern::A,fjern,ďaleký
+733,linker::A,venstre,ľavý
+734,rechter::A,høyre,pravý
+735,anderer::A,annen,iný
+736,anderer::A,annen,druhý
+737,erster::A,første,prvý
+738,zweiter::A,annen,druhý
+739,dritter::A,tredje,tretí
+740,letzter::A,sist,ostatný
+741,letzter::A,sist,posledný
+742,allein::ADV,alene,sám
+743,auf einmal::ADV,med ett,zároveň
+744,zusammen::ADV,sammen,spolu
+745,zusammen::ADV,sammen,spoločne
+746,lange::ADV,lenge,dlho
+747,plötzlich::ADV,plutselig,náhle
+748,sofort::ADV,straks,hneď
+749,sofort::ADV,straks,ihneď
+750,später::ADV,senere,neskoršie
+751,jetzt::ADV,nå,teraz
+752,heute::ADV,i dag,dnes
+753,morgen::ADV,i morgen,zajtra
+754,bald::ADV,snart,skoro
+755,dann::ADV,så,nato
+756,dann::ADV,så,potom
+757,gestern::ADV,i går,včera
+758,einst::ADV,engang,kedysi
+759,einst::ADV,engang,niekedy
+760,damals::ADV,den gang,vtedy
+761,danach::ADV,deretter,potom
+762,danach::ADV,deretter,podľa toho
+763,vorher::ADV,før,napred
+764,vorher::ADV,før,predtým
+765,vorher::ADV,i forveien,napred
+766,vorher::ADV,i forveien,predtým
+767,zuerst::ADV,først,najprv
+768,einmal::ADV,en gang,raz
+769,einmal::ADV,en gang,jedenkrát
+770,manchmal::ADV,somme tider,občas
+771,manchmal::ADV,somme tider,niekedy
+772,oft::ADV,ofte,často
+773,immer::ADV,alltid,vždy
+774,immer::ADV,alltid,ustavične
+775,niemals::ADV,aldri,nikdy
+776,hier::ADV,her,tu
+777,hierhin::ADV,hit,sem
+778,hierhin::ADV,hit,tade
+779,von hier::ADV,herfra,odtiaľto
+780,dort::ADV,der,tam
+781,dorthin::ADV,dit,ta
+782,dorthin::ADV,dit,tam
+783,geradeaus::ADV,rett fram,rovno
+784,geradeaus::ADV,rett fram,priamo
+785,vorwärts::ADV,fram,napred
+786,vorwärts::ADV,framover,napred
+787,rückwärts::ADV,baklengs,nazad
+788,zurück::ADV,tilbake,späť
+789,zurück::ADV,tilbake,naspäť
+790,unten::ADV,nede,dolu
+791,unten::ADV,nede,naspodku
+792,hinab::ADV,ned,dolu
+793,hinab::ADV,nedover,dolu
+794,oben::ADV,oppe,hore
+795,oben::ADV,oppe,navrchu
+796,oben::ADV,ovenpå,hore
+797,oben::ADV,ovenpå,navrchu
+798,hinauf::ADV,opp,hore
+799,hinauf::ADV,opp,navrch
+800,hinauf::ADV,oppover,hore
+801,hinauf::ADV,oppover,navrch
+802,überall::ADV,overalt,všade
+803,nicht::ADV,ikke,nie
+804,ein wenig::ADV,litt,trocha
+805,kaum::ADV,neppe,ledva
+806,sehr::ADV,svært,veľmi
+807,so::ADV,så,tak
+808,so::ADV,så,takto
+809,noch::ADV,enda,ešte
+810,nur::ADV,bare,len
+811,schon::ADV,alt,už
+812,schon::ADV,allerede,už
+813,wieder::ADV,igjen,zasa
+814,vergebens::ADV,forgjeves,márne
+815,vergebens::ADV,forgjeves,nadarmo
+816,vor::PRP,foran,pred
+817,vor::PRP,utenfor,pred
+818,hinter::PRP,bak,za
+819,hinter::PRP,bakom,za
+820,unter::PRP,under,pod
+821,durch::PRP,gjennom,cez
+822,durch::PRP,igjennom,cez
+823,neben::PRP,ved siden av,pri
+824,neben::PRP,ved siden av,vedľa
+825,zwischen::PRP,mellom,medzi
+826,wegen::PRP,på grunn av,pre
+827,wegen::PRP,på grunn av,kvôli
+828,dies::PRN,dette,to
+829,dies::PRN,dette,táto
+830,das::PRN,det,to
+831,alles::PRN,alt,všetko
+832,ich::PRN,jeg,ja
+833,du::PRN,du,ty
+834,er::PRN,han,on
+835,wir::PRN,vi,my
+836,ihr::PRN,dere,vy
+837,sie::PRN,de,oni
+838,was::FPRN,hva,čo
+839,wer::FPRN,hvem,kto
+840,wo::FADV,hvor,kde
+841,wohin::FADV,hvor ... hen,kam
+842,wie::FADV,hvordan,ako
+843,warum::FADV,hvorfor,prečo
+844,wieviel::FNUM,hvor mye,koľko
+845,eins::NUM,en,jeden
+846,eins::NUM,ett,jeden
+847,zwei::NUM,to,dva
+848,drei::NUM,tre,tri
+849,vier::NUM,fire,štyri
+850,fünf::NUM,fem,päť
+851,sechs::NUM,seks,šesť
+852,sieben::NUM,sju,sedem
+853,acht::NUM,åtte,osem
+854,neun::NUM,ni,deväť
+855,zehn::NUM,ti,desať
+856,elf::NUM,elleve,jedenásť
+857,zwölf::NUM,tolv,dvanásť
+858,zwanzig::NUM,tjue,dvadsať
+859,dreißig::NUM,tretti,tridsať
+860,vierzig::NUM,førti,štyridsať
+861,fünfzig::NUM,femti,päťdesiat
+862,sechzig::NUM,seksti,šesťdesiat
+863,siebzig::NUM,sytti,sedemdesiat
+864,achtzig::NUM,åtti,osemdesiat
+865,neunzig::NUM,nitti,deväťdesiat
+866,hundert::NUM,hundre,sto
+867,tausend::NUM,tusen,tisíc
+868,und::CNJ,og,i
+869,oder::CNJ,eller,alebo
+870,stehen::V,stå,stáť
+871,sitzen::V,sitte,sedieť
+872,liegen::V,ligge,ležať
+873,hängen::V,henge,visieť
+874,werden::V,bli,stať sa
+875,passieren::V,skje,stať sa
+876,passieren::V,hende,stať sa
+877,beginnen::V,begynne,začať sa
+878,enden::V,ende,končiť sa
+879,enden::V,slutte,končiť sa
+880,wechseln::V,veksle,meniť sa
+881,aufgehen[Sonne]::V,stå opp,vychádzať
+882,untergehen[Sonne]::V,gå ned,zapadnúť
+883,scheinen[Sonne]::V,skinne,svietiť
+884,donnern::V,tordne,hrmieť
+885,wehen::V,blåse,viať
+886,strömen::V,strømme,prúdiť
+887,fließen::V,flyte,tiecť
+888,sich drehen::V,dreie seg,točiť sa
+889,sich drehen::V,dreie seg,krútiť sa
+890,schwanken::V,svaie,kolísať
+891,schwanken::V,svaie,klátiť sa
+892,schwingen::V,svinge,kývať sa
+893,schwingen::V,svinge,chvieť sa
+894,fallen::V,falle,padať
+895,brennen::V,brenne,páliť
+896,brennen::V,brenne,horieť
+897,rauchen::V,ryke,dymiť sa
+898,regnen::V,regne,pršať
+899,gefrieren::V,fryse,zamrznút
+900,tauen::V,tine,taviť sa
+901,schmelzen::V,smelte,taviť sa
+902,trocknen::V,tørre,schnúť
+903,sieden::V,koke,vrieť
+904,faulen::V,råtne,hniť
+905,verfaulen::V,råtne,zhniť
+906,reißen::V,briste,pretrhnúť sa
+907,versinken::V,synke,zapadnúť
+908,versinken::V,synke,potopiť sa
+909,versinken::V,synke ned,zapadnúť
+910,versinken::V,synke ned,potopiť sa
+911,vergehen::V,forløpe,plynúť
+912,erscheinen::V,synes,objaviť sa
+913,verschwinden::V,forsvinne,zmiznúť
+914,sinken::V,synke,klesať
+915,abnehmen::V,avta,ubúdať
+916,abnehmen::V,minske,ubúdať
+917,zunehmen::V,tilta,pribúdať
+918,steigen::V,stige,stúpať
+919,wachsen::V,gro,rásť
+920,wachsen::V,vokse,rásť
+921,glänzen::V,skinne,jagať sa
+922,glänzen::V,skinne,lesknúť sa
+923,funkeln::V,tindre,iskriť sa
+924,lärmen::V,bråke,lomoziť
+925,läuten::V,ringe,cengať
+926,klingeln::V,ringe,zvoniť
+927,klirren::V,klirre,rinčať
+928,brausen::V,bruse,hučať
+929,rauschen::V,suse,šumieť
+930,klingen::V,lyde,znieť
+931,klingen::V,lyde,zvoniť
+932,klingen::V,klinge,znieť
+933,klingen::V,klinge,zvoniť
+934,bellen::V,gjø,štekať
+935,bellen::V,gjø,brechať
+936,bellen::V,bjeffe,štekať
+937,bellen::V,bjeffe,brechať
+938,heulen::V,ule,vyť
+939,blasen::V,blåse,duť
+940,blasen::V,blåse,fúkať
+941,pfeifen::V,plystre,pískať
+942,pfeifen::V,plystre,hvízdať
+943,schreien::V,skrike,kričať
+944,stöhnen::V,stønne,stenať
+945,zittern::V,dirre,triasť sa
+946,zittern::V,skjelve,triasť sa
+947,leben::V,leve,žiť
+948,geboren werden::V,fødes,narodiť sa
+949,atmen::V,ånde,dýchať
+950,atmen::V,puste,dýchať
+951,trinken::V,drikke,piť
+952,essen::V,spise,jesť
+953,schlucken::V,svelge,zhltnuť
+954,müde werden::V,bli trett,unaviť sa
+955,einschlafen::V,sovne,usnúť
+956,einschlafen::V,sovne,zaspať
+957,schlafen::V,sove,spať
+958,aufwachen::V,våkne,zobudiť sa
+959,aufstehen::V,stå opp,vstať
+960,sich erholen::V,bli bra,zotavovať sa
+961,sich erholen::V,bli bra,oddýchovať si
+962,sich erholen::V,komme seg,zotavovať sa
+963,sich erholen::V,komme seg,oddýchovať si
+964,krank werden::V,bli syk,ochorieť
+965,krank sein::V,være syk,chorieť
+966,krank sein::V,være syk,byť chorý
+967,schmerzen::V,gjøre vondt,bolieť
+968,husten::V,hoste,kašľať
+969,genesen::V,komme seg,uzdraviť sa
+970,sterben::V,dø,umrieť
+971,sterben::V,dø,zomrieť
+972,umkommen::V,omkomme,zahynúť
+973,sich bewegen::V,bevege seg,pohybovať sa
+974,sich rühren::V,røre på seg,hnúť sa
+975,sich erheben::V,reise seg,zdvihnúť sa
+976,sich setzen::V,sette sig,sadnúť si
+977,hinfallen::V,falle over ende,spadnúť
+978,laufen::V,løpe,bežať
+979,schreiten::V,skride,kráčať
+980,spazierengehen::V,spasere,prechádzať sa
+981,spazierengehen::V,gå en tur,prechádzať sa
+982,eilen::V,ile,súriť
+983,sich beeilen::V,skynde seg,ponáhľať sa
+984,sausen::V,suse,hučať
+985,rennen::V,løpe,bežať
+986,springen::V,hoppe,skákať
+987,springen::V,springe,skákať
+988,klettern::V,klatre,liezť
+989,schaukeln::V,huske,húpať
+990,schaukeln::V,huske,hojdať
+991,kriechen::V,krype,liezť
+992,kriechen::V,krype,plaziť sa
+993,schwimmen::V,svømme,plávať
+994,tauchen::V,dykke,ponoriť sa
+995,rudern::V,ro,veslovať
+996,fahren::V,kjøre,ísť
+997,fahren::V,kjøre,jazdiť
+998,fliegen::V,fly,letieť
+999,gehen::V,gå,ísť
+1000,weggehen::V,gå bort,odísť
+1001,weggehen::V,gå bort,odchádzať
+1002,abfahren::V,reise,odcestovať
+1003,anhalten::V,stanse,zadržať sa
+1004,anhalten::V,stanse,zastaviť sa
+1005,hineingehen::V,gå inn,vchádzať
+1006,eintreten::V,tre inn,vojsť
+1007,eintreten::V,tre inn,vstúpiť
+1008,kommen::V,komme,prísť
+1009,ankommen::V,ankomme,prísť
+1010,ankommen::V,ankomme,doraziť
+1011,ankommen::V,komme til,prísť
+1012,ankommen::V,komme til,doraziť
+1013,zurückkommen::V,komme tilbake,vrátiť sa
+1014,bleiben::V,bli,ostať
+1015,bleiben::V,bli,zostať
+1016,bleiben::V,forbli,ostať
+1017,bleiben::V,forbli,zostať
+1018,warten::V,vente,čakať
+1019,erwarten::V,vente,očakávať
+1020,suchen::V,søke,hľadať
+1021,finden::V,finne,nájsť
+1022,versuchen::V,prøve,skúsiť
+1023,versuchen::V,prøve,pokúsiť sa
+1024,versuchen::V,forsøke,skúsiť
+1025,versuchen::V,forsøke,pokúsiť sa
+1026,vorbereiten::V,forberede,pripraviť
+1027,lieben::V,elske,ľúbiť
+1028,lieben::V,elske,milovať
+1029,mögen::V,like,mať rád
+1030,lachen::V,le,smiať sa
+1031,rühren::V,røre,dojať
+1032,weinen::V,gråte,plakať
+1033,schimpfen::V,skjelle,nadávať
+1034,sich ärgern::V,ergre seg,hnevať sa
+1035,sich ärgern::V,ergre seg,zlostiť sa
+1036,sich fürchten::V,være redd,báť sa
+1037,fürchten::V,være redd for,báť sa
+1038,fliehen::V,rømme,utekať
+1039,fliehen::V,flykte,utekať
+1040,flüchten::V,flykte,utiecť
+1041,sehen::V,se,vidieť
+1042,anschauen::V,se på,pozrieť sa na
+1043,anschauen::V,betrakte,pozrieť sa na
+1044,ansehen::V,anse,pozrieť
+1045,hören::V,høre,počúvať
+1046,zuhören::V,tilhøre,počúvať
+1047,probieren::V,smake,ochutnať
+1048,probieren::V,smake på,ochutnať
+1049,riechen::V,lukte,ňuchať
+1050,fühlen::V,føle,cítiť
+1051,fühlen::V,føle,pociťovať
+1052,scheinen::V,se ut,zdať sa
+1053,zu sehen sein::V,synes,byť vidieť
+1054,vernehmen::V,få vite,počuť
+1055,frieren::V,fryse,mrznúť
+1056,frieren::V,fryse,oziabať
+1057,tun::V,gjøre,robiť
+1058,können::V,kunne,môcť
+1059,wollen::V,ville,chcieť
+1060,anfangen::V,begynne,začať
+1061,beenden::V,avslutte,skončiť
+1062,aufhören::V,slutte,prestať
+1063,aufhören::V,holde opp,prestať
+1064,gelingen::V,lykkes,podariť sa
+1065,geraten::V,bli,dariť sa
+1066,öffnen::V,åpne,otvoriť
+1067,schließen::V,lukke,zavrieť
+1068,schließen::V,stenge,zavrieť
+1069,stellen::V,stille,postaviť
+1070,setzen::V,sette,posadiť
+1071,legen::V,legge,klásť
+1072,legen::V,legge,položiť
+1073,berühren::V,berøre,dotykať sa
+1074,verbinden::V,forbinde,spojiť
+1075,bedecken::V,dekke,pokryť
+1076,aufhängen::V,henge,zavesiť
+1077,aufhängen::V,henge opp,zavesiť
+1078,anzünden::V,tenne,zapáliť
+1079,anzünden::V,antenne,zapáliť
+1080,anzünden::V,tenne på,zapáliť
+1081,aufheben::V,løfte,zdvihnúť
+1082,aufheben::V,ta opp,zdvihnúť
+1083,zurücklassen::V,slippe tilbake,zanechať
+1084,verlieren::V,miste,stratiť
+1085,fallen lassen::V,droppe,pustiť
+1086,fallen lassen::V,la falle,pustiť
+1087,machen::V,lage,robiť
+1088,machen::V,gjøre,robiť
+1089,herstellen::V,fremstille,vyrobiť
+1090,bauen::V,bygge,stavať
+1091,bauen::V,bygge,budovať
+1092,reparieren::V,reparere,opraviť
+1093,verbessern::V,rette,zlepšiť
+1094,verbessern::V,forbedre,zlepšiť
+1095,ändern::V,forandre,zmeniť
+1096,ändern::V,forandre,preinačiť
+1097,graben::V,grave,ryť
+1098,graben::V,grave,kopať
+1099,beugen::V,bøye,ohnúť
+1100,biegen::V,bøye,ohnúť
+1101,drehen::V,dreie,točiť
+1102,drehen::V,dreie,krútiť
+1103,wenden::V,vende,obrátiť
+1104,wenden::V,vende,prevrátiť
+1105,umdrehen::V,snu,otočiť
+1106,umdrehen::V,snu,obrátiť
+1107,heben::V,heve,dvíhať
+1108,heben::V,heve,povzniesť
+1109,hochheben::V,løfte,zdvihnúť
+1110,ergreifen::V,gripe,uchopiť sa
+1111,ergreifen::V,få tak i,uchopiť sa
+1112,halten::V,holde,držať
+1113,drücken::V,trykke,tisnúť
+1114,schieben::V,skyve,posunovať
+1115,kratzen::V,klø,škrabať
+1116,kratzen::V,klore,škrabať
+1117,lecken::V,slikke,lízať
+1118,beißen::V,bite,kúsať
+1119,abreißen::V,rive av,odtrhnúť
+1120,abschneiden::V,skjære av,odrezať
+1121,abschneiden::V,skjære av,odkrojiť
+1122,binden::V,binde,zaviazať
+1123,binden::V,binde,priviazať
+1124,stecken::V,stikke,strčiť
+1125,brechen::V,bryte,zlomiť
+1126,brechen::V,briste,zlomiť
+1127,klopfen::V,banke,tĺcť
+1128,klopfen::V,banke,klopať
+1129,hauen::V,hogge,nabiť
+1130,kleben::V,klistre,lepiť
+1131,kleben::V,klistre,nalepiť
+1132,reiben::V,gni,trieť
+1133,streichen::V,stryke,namazať
+1134,schleifen::V,slipe,ostríť
+1135,schneiden::V,klippe,rezať
+1136,schneiden::V,klippe,strihať
+1137,rütteln::V,ruske,triasť
+1138,rütteln::V,ruske,lomcovať
+1139,schütteln::V,riste,triasť
+1140,schütteln::V,riste,potriasť
+1141,schwenken::V,svinge,mávať
+1142,schütten::V,helle,sypať
+1143,füllen::V,fylle,plniť
+1144,einwickeln::V,vikle inn,zabaliť
+1145,tragen::V,bære,niesť
+1146,schleppen::V,slepe,vliecť
+1147,ziehen::V,dra,ťahať
+1148,ziehen::V,trekke,ťahať
+1149,aufbewahren::V,oppbevare,uložiť
+1150,aufbewahren::V,oppbevare,uschovať
+1151,aufbewahren::V,ta vare på,uložiť
+1152,aufbewahren::V,ta vare på,uschovať
+1153,werfen::V,kaste,hodiť
+1154,werfen::V,kaste,vrhnúť
+1155,fangen::V,fange,chytať
+1156,packen::V,gripe,baliť
+1157,packen::V,gripe,chytiť
+1158,packen::V,gripe tak i,baliť
+1159,packen::V,gripe tak i,chytiť
+1160,verstecken::V,gjemme,skryť
+1161,verstecken::V,gjemme,schovať
+1162,teilen::V,dele,podeliť
+1163,teilen::V,dele,rozdeliť
+1164,schicken::V,sende,posielať
+1165,bringen::V,bringe,priniesť
+1166,hinzufügen::V,tilføye,pripojiť
+1167,bekommen::V,få,dostať
+1168,erhalten::V,få,prijať
+1169,nehmen::V,ta,vziať
+1170,wählen::V,velge,voliť
+1171,auswählen::V,velge ut,vybrať
+1172,auswählen::V,velge ut,vyvoliť
+1173,bewahren::V,bevare,zachovať
+1174,behindern::V,hindre,zavadzať
+1175,behindern::V,hindre,byť v ceste
+1176,behindern::V,forhindre,zavadzať
+1177,behindern::V,forhindre,byť v ceste
+1178,verderben::V,ødelegge,skaziť
+1179,beschädigen::V,skade,ublížiť
+1180,beschädigen::V,skade,poškodiť
+1181,zerbrechen::V,brekke i stykker,rozbiť
+1182,zerbrechen::V,brekke i stykker,prelomiť
+1183,zerreißen::V,rive i stykker,pretrhnúť
+1184,zerstören::V,ødelegge,zničiť
+1185,verbrennen::V,brenne,spáliť
+1186,verbrennen::V,brenne opp,spáliť
+1187,geben::V,gi,dať
+1188,reichen::V,rekke,podať
+1189,schenken::V,forære,darovať
+1190,schenken::V,skjenke,darovať
+1191,versprechen::V,love,sľúbiť
+1192,wünschen::V,ønske,želať
+1193,loben::V,rose,chváliť
+1194,küssen::V,kysse,bozkať
+1195,wiegen::V,vogge,kolísať
+1196,zudecken::V,dekke til,prikryť
+1197,wecken::V,vekke,zobudiť
+1198,zeigen::V,vise,ukázať
+1199,führen::V,føre,viesť
+1200,lehren::V,lære,učiť
+1201,unterrichten::V,undervise,vyučovať
+1202,aufziehen::V,oppdra,vychovať
+1203,leiten::V,lede,viesť
+1204,antreiben::V,drive på,popudiť
+1205,lassen::V,få til å,dať
+1206,einladen::V,be,pozvať
+1207,einladen::V,be,povolať
+1208,einladen::V,invitere,pozvať
+1209,einladen::V,invitere,povolať
+1210,vereinigen::V,forene,spojiť
+1211,vereinigen::V,forene,zjednotiť
+1212,besuchen::V,besøke,navštíviť
+1213,treffen::V,møte,stretnúť
+1214,treffen::V,treffe,stretnúť
+1215,sich versammeln::V,forsamles,zhromaždiť sa
+1216,spielen::V,leke,hrať
+1217,spielen::V,spille,hrať
+1218,singen::V,synge,spievať
+1219,tanzen::V,danse,tancovať
+1220,sich trennen::V,skilles,rozísť sa
+1221,verlassen::V,forlate,opustiť
+1222,retten::V,redde,zachrániť
+1223,bewachen::V,bevokte,strážiť
+1224,schützen::V,verne,chrániť
+1225,schützen::V,beskytte,chrániť
+1226,verteidigen::V,forsvare,brániť
+1227,sich schlagen::V,slåss,biť sa
+1228,schießen::V,skyte,streliť
+1229,schießen::V,skyte,strieľať
+1230,siegen::V,seire,zvíťaziť
+1231,ärgern::V,ergre,hnevať
+1232,ärgern::V,ergre,zlostiť
+1233,treten::V,sparke,kopnúť
+1234,stechen::V,stikke,bodnúť
+1235,stechen::V,stikke,pichnúť
+1236,stoßen::V,støte,udrieť
+1237,stehlen::V,stjele,kradnúť
+1238,stören::V,forstyrre,vyrušiť
+1239,belästigen::V,plage,obťažovať
+1240,belästigen::V,sjenere,obťažovať
+1241,verbergen::V,gjemme,skryť
+1242,täuschen::V,villede,sklamať
+1243,betrügen::V,bedra,klamať
+1244,betrügen::V,bedra,podvádzať
+1245,töten::V,drepe,zabiť
+1246,töten::V,drepe,usmrtiť
+1247,wohnen::V,bo,bývať
+1248,arbeiten::V,arbeide,pracovať
+1249,sammeln::V,samle,zbierať
+1250,pflücken::V,plukke,trhať
+1251,pflücken::V,plukke,oberať
+1252,jagen::V,jage,poľovať
+1253,fischen::V,fiske,loviť ryby
+1254,fischen::V,fiske,chytať ryby
+1255,fassen::V,fange,uloviť
+1256,hüten::V,vokte,pásť
+1257,treiben::V,drive,hnať
+1258,anbinden::V,feste,priviazať
+1259,füttern::V,fore,kŕmiť
+1260,melken::V,melke,dojiť
+1261,hacken::V,hakke,seknúť
+1262,gießen::V,helle,polievať
+1263,reifen::V,modne,dozrieť
+1264,zubereiten::V,lage,pripraviť
+1265,zubereiten::V,tilberede,pripraviť
+1266,kochen::V,koke,variť
+1267,backen::V,bake,piecť
+1268,backen::V,bake,smažiť
+1269,braten::V,steke,piecť
+1270,braten::V,steke,pražiť
+1271,umrühren::V,røre om,pomiešať
+1272,stricken::V,strikke,pliesť
+1273,nähen::V,sy,šiť
+1274,färben::V,farge,zafarbiť
+1275,reinigen::V,rense,čistiť
+1276,reinigen::V,gjøre ren,čistiť
+1277,waschen::V,vaske,myť
+1278,abwischen::V,tørke av,utrieť
+1279,spülen::V,spyle,vyplachovať
+1280,spülen::V,skylle,vyplachovať
+1281,fegen::V,feie,zametať
+1282,kehren::V,koste,zametať
+1283,baden::V,bade,kúpať sa
+1284,sich waschen::V,vaske seg,umývať sa
+1285,ausziehen::V,ta av,zobliecť
+1286,anziehen::V,ta på,obliecť
+1287,sich anziehen::V,kle på seg,obliecť sa
+1288,kämmen::V,gre,česať
+1289,kämmen::V,kjemme,česať
+1290,schmücken::V,pynte,ozdobiť
+1291,schmücken::V,smykke,ozdobiť
+1292,sagen::V,si,povedať
+1293,sprechen::V,snakke,hovoriť
+1294,reden::V,tale,rozprávať
+1295,reden::V,snakke,rozprávať
+1296,sich unterhalten::V,samtale,rozprávať sa
+1297,fragen::V,spørre,spýtať sa
+1298,bitten::V,be,prosiť
+1299,erzählen::V,fortelle,rozprávať
+1300,mitteilen::V,meddele,oznámiť
+1301,nennen::V,kalle,nazvať
+1302,nennen::V,kalle,menovať
+1303,rufen::V,rope,volať
+1304,rufen::V,rope,zavolať
+1305,prahlen::V,skryte,vystatovať sa
+1306,übersetzen::V,oversette,preložiť
+1307,denken::V,tenke,myslieť
+1308,glauben::V,tro,veriť
+1309,bemerken::V,bemerke,podotknuť
+1310,bemerken::V,bemerke,spozorovať
+1311,bemerken::V,legge merke til,podotknuť
+1312,bemerken::V,legge merke til,spozorovať
+1313,erkennen::V,gjenkjenne,poznať
+1314,begreifen::V,begripe,pochopiť
+1315,begreifen::V,begripe,porozumieť
+1316,verstehen::V,forstå,rozumieť
+1317,verstehen::V,skjønne,rozumieť
+1318,lernen::V,lære,učiť sa
+1319,wissen::V,vite,vedieť
+1320,sich erinnern an::V,huske på,pamätať si na
+1321,vergessen::V,glemme,zabudnuť
+1322,messen::V,måle,merať
+1323,zählen::V,telle,počítať
+1324,rechnen::V,regne,rátať
+1325,rechnen::V,regne,počítať
+1326,lesen::V,lese,čítať
+1327,malen::V,male,maľovať
+1328,zeichnen::V,tegne,kresliť
+1329,schreiben::V,skrive,písať
+1330,besitzen::V,eie,mať
+1331,besitzen::V,eie,vlastniť
+1332,besitzen::V,inneha,mať
+1333,besitzen::V,inneha,vlastniť
+1334,kaufen::V,kjøpe,kúpiť
+1335,verkaufen::V,selge,predať
+1336,bezahlen::V,betale,zaplatiť
+1337,zahlen::V,betale,platiť
+1338,beherrschen::V,beherske,ovládať
+1339,ertragen::V,orke,znášať
+1340,ertragen::V,orke,vydržať
+1341,schlagen::V,,biť
+1342,schlagen::V,,udrieť

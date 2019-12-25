@@ -1,0 +1,1403 @@
+,Concept_ID,et,fr
+0,Auge::N,silm,œil
+1,Ohr::N,kõrv,oreille
+2,Nase::N,nina,nez
+3,Mund::N,suu,bouche
+4,Zahn::N,hammas,dent
+5,Zunge::N,keel,langue
+6,Lippe::N,huul,lèvre
+7,Wange::N,põsk,joue
+8,Gesicht::N,nägu,face
+9,Gesicht::N,nägu,visage
+10,Stirn::N,otsmik,front
+11,Haar::N,juus,cheveu
+12,Schnurrbart::N,vurrud,moustache
+13,Schnurrbart::N,vuntsid,moustache
+14,Bart::N,habe,barbe
+15,Kinn::N,lõug,menton
+16,Kiefer[Anatomie]::N,lõualuu,mâchoire
+17,Kehle::N,kõri,gorge
+18,Hals::N,kael,cou
+19,Genick::N,kukal,nuque
+20,Kopf::N,pea,tête
+21,Rücken::N,selg,dos
+22,Bauch::N,kõht,ventre
+23,Nabel::N,naba,nombril
+24,Busen::N,rind,sein
+25,Brust::N,rind,poitrine
+26,Schulter::N,õlg,épaule
+27,Arm::N,käsivars,bras
+28,Ellenbogen::N,küünarnukk,coude
+29,Hand::N,käsi,main
+30,Handfläche::N,pihk,paume
+31,Finger::N,sõrm,doigt
+32,Fingernagel::N,küüs,ongle
+33,Nagel[Anatomie]::N,küüs,ongle
+34,Zeh::N,varvas,orteil
+35,Zeh::N,varvas,doigt de pied
+36,Fuß::N,jalg,pied
+37,Ferse::N,kand,talon
+38,Knie::N,põlv,genou
+39,Oberschenkel::N,reis,cuisse
+40,Bein::N,jalg,jambe
+41,Körper::N,ihu,corps
+42,Körper::N,keha,corps
+43,Haut::N,nahk,peau
+44,Blut::N,veri,sang
+45,Ader::N,veen,veine
+46,Sehne::N,kõõlus,tendon
+47,Knochen::N,luu,os
+48,Gehirn::N,aju,cerveau
+49,Herz::N,süda,cœur
+50,Magen::N,magu,estomac
+51,Leber::N,maks,foie
+52,Atem::N,hingeõhk,haleine
+53,Atem::N,hingamine,haleine
+54,Hunger::N,nälg,faim
+55,Träne::N,pisar,larme
+56,Geschmack::N,maitse,goût
+57,Geschmack::N,maitse,saveur
+58,Geruch::N,lõhn,odeur
+59,Schlaf::N,uni,sommeil
+60,Traum::N,unenägu,songe
+61,Himmel::N,taevas,ciel
+62,Sonne::N,päike,soleil
+63,Mond::N,kuu,lune
+64,Stern::N,täht,étoile
+65,Luft::N,õhk,air
+66,Wind::N,tuul,vent
+67,Welle::N,laine,vague
+68,Wasser::N,vesi,eau
+69,Stein::N,kivi,pierre
+70,Boden::N,maa,sol
+71,Boden::N,maa,terrain
+72,Boden::N,pinnas,sol
+73,Boden::N,pinnas,terrain
+74,Erde::N,maa,terre
+75,Staub::N,põrm,poussière
+76,Rauch::N,suits,fumée
+77,Funke::N,säde,étincelle
+78,Feuer::N,tuli,feu
+79,Licht::N,valgus,lumière
+80,Schatten::N,vari,ombre
+81,Wetter::N,ilm,temps
+82,Nebel::N,udu,brume
+83,Nebel::N,udu,brouillard
+84,Wolke::N,pilv,nuage
+85,Regen::N,sadu,pluie
+86,Schnee::N,lumi,neige
+87,Eis::N,jää,glace
+88,Frost::N,pakane,gel
+89,Frost::N,pakane,gelée
+90,Kälte::N,külm,froid
+91,Kälte::N,külmus,froid
+92,Hitze::N,kuumus,chaleur
+93,Hitze::N,palavus,chaleur
+94,Raureif::N,härmatis,givre
+95,Regenbogen::N,vikerkaar,arc-en-ciel
+96,Donner::N,kõu,tonnerre
+97,Donner::N,müristamine,tonnerre
+98,Strömung::N,voolus,courant
+99,Strömung::N,jõevool,courant
+100,Tropfen::N,tilk,goutte
+101,Schaum::N,vaht,écume
+102,Schaum::N,vaht,mousse
+103,Schmutz::N,pori,boue
+104,Schmutz::N,pori,saleté
+105,Schmutz::N,mustus,boue
+106,Schmutz::N,mustus,saleté
+107,See::N,järv,lac
+108,Sumpf::N,soo,marais
+109,Sumpf::N,soo,marécage
+110,Moor::N,raba,tourbière
+111,Wiese::N,aas,pré
+112,Wiese::N,nurm,pré
+113,Wald::N,mets,bois
+114,Wald::N,mets,forêt
+115,Hügel::N,küngas,coteau
+116,Hügel::N,küngas,colline
+117,Anhöhe::N,küngas,éminence
+118,Anhöhe::N,küngas,élévation
+119,Berg::N,mägi,mont
+120,Berg::N,mägi,montagne
+121,Gipfel::N,mäetipp,cime
+122,Gipfel::N,mäetipp,sommet
+123,Höhle::N,koobas,caverne
+124,Abhang::N,nõlvak,pente
+125,Abhang::N,nõlvak,versant
+126,Quelle::N,allikas,source
+127,Quelle::N,allikas,fontaine
+128,Bach::N,oja,ruisseau
+129,Fluss::N,jõgi,fleuve
+130,Fluss::N,jõgi,rivière
+131,Ufer::N,kallas,bord
+132,Ufer::N,kallas,rivage
+133,Küste::N,rannik,côte
+134,Festland::N,mander,terre ferme
+135,Festland::N,maismaa,terre ferme
+136,Meer::N,meri,mer
+137,Bucht::N,laht,baie
+138,Insel::N,saar,île
+139,Blume::N,lill,fleur
+140,Gras::N,rohi,herbe
+141,Wurzel::N,juur,racine
+142,Baum::N,puu,arbre
+143,Stamm::N,tüvi,tronc
+144,Rinde::N,koor,écorce
+145,Ast::N,oks,branche
+146,Zweig::N,oks,rameau
+147,Blatt::N,leht,feuille
+148,Birke::N,kask,bouleau
+149,Kiefer[Baum]::N,mänd,pin
+150,Weide[Baum]::N,paju,saule
+151,Tanne::N,nulg,sapin
+152,Horn::N,sarv,corne
+153,Feder::N,sulg,plume
+154,Fell::N,karvkate,peau
+155,Fell::N,karusnahk,peau
+156,Flügel::N,tiib,aile
+157,Flügel::N,tiivik,aile
+158,Klaue::N,küüs,serre
+159,Kralle::N,küünis,ongle
+160,Kralle::N,küünis,griffe
+161,Schwanz::N,saba,queue
+162,Ei::N,muna,œuf
+163,Nest::N,pesa,nid
+164,Bau::N,urg,terrier
+165,Tier::N,loom,animal
+166,Herde::N,kari,troupeau
+167,Kuh::N,lehm,vache
+168,Bulle::N,pull,taureau
+169,Pferd::N,hobune,cheval
+170,Schaf::N,lammas,mouton
+171,Schwein::N,siga,porc
+172,Schwein::N,siga,cochon
+173,Hund::N,koer,chien
+174,Katze::N,kass,chat
+175,Bär::N,karu,ours
+176,Eichhörnchen::N,orav,écureuil
+177,Elch::N,põder,élan
+178,Fuchs::N,rebane,renard
+179,Hase::N,jänes,lièvre
+180,Maus::N,hiir,souris
+181,Wolf::N,hunt,loup
+182,Vogel::N,lind,oiseau
+183,Schwarm::N,parv,nuée
+184,Schwarm::N,parv,volée
+185,Huhn::N,kana,poule
+186,Hahn::N,kukk,coq
+187,Gans::N,hani,oie
+188,Adler::N,kotkas,aigle
+189,Ente::N,part,canard
+190,Eule::N,kakk,hibou
+191,Eule::N,öökull,hibou
+192,Kranich::N,kurg,grue
+193,Krähe::N,vares,corneille
+194,Kuckuck::N,kägu,coucou
+195,Schwan::N,luik,cygne
+196,Fisch::N,kala,poisson
+197,Barsch::N,ahven,perche
+198,Hecht::N,haug,brochet
+199,Schlange[Tier]::N,uss,serpent
+200,Wurm::N,uss,ver
+201,Wurm::N,vagel,ver
+202,Spinne::N,ämblik,araignée
+203,Ameise::N,sipelgas,fourmi
+204,Laus::N,täi,pou
+205,Mücke::N,sääsk,moucheron
+206,Fliege::N,kärbes,mouche
+207,Schmetterling::N,liblikas,papillon
+208,Beere::N,mari,baie
+209,Apfel::N,õun,pomme
+210,Pilz::N,seen,champignon
+211,Zwiebel::N,sibul,oignon
+212,Saat::N,seeme,semence
+213,Korn::N,iva,grain
+214,Korn::N,tera,grain
+215,Heu::N,hein,foin
+216,Schale::N,koor,pelure
+217,Grube::N,kaevand,fosse
+218,Falle::N,lõks,piège
+219,Falle::N,püünis,piège
+220,Schlinge::N,aas,lacs
+221,Spur::N,jälg,trace
+222,Asche::N,tuhk,cendre
+223,Dreck::N,saast,crotte
+224,Dreck::N,mustus,crotte
+225,Eisen::N,raud,fer
+226,Gold::N,kuld,or
+227,Silber::N,hõbe,argent
+228,Kohle::N,süsi,charbon
+229,Glas::N,klaas,verre
+230,Lehm::N,savi,glaise
+231,Sand::N,liiv,sable
+232,Mensch::N,inimene,homme
+233,Mann::N,mees,homme
+234,Frau::N,naine,femme
+235,Kind::N,laps,enfant
+236,Junge::N,poiss,garçon
+237,Mädchen::N,tüdruk,fille
+238,Mädchen::N,tüdruk,jeune fille
+239,Familie::N,perekond,famille
+240,Großvater::N,vanaisa,grand-père
+241,Großmutter::N,vanaema,grand-mère
+242,Eltern::N,vanemad,parents
+243,Vater::N,isa,père
+244,Mutter::N,ema,mère
+245,Sohn::N,poeg,fils
+246,Tochter::N,tütar,fille
+247,Bruder::N,vend,frère
+248,Schwester::N,õde,sœur
+249,Onkel::N,onu,oncle
+250,Tante::N,tädi,tante
+251,Ehemann::N,mees,mari
+252,Ehemann::N,mees,époux
+253,Ehemann::N,abikaasa,mari
+254,Ehemann::N,abikaasa,époux
+255,Ehefrau::N,naine,femme
+256,Ehefrau::N,naine,épouse
+257,Ehefrau::N,abikaasa,femme
+258,Ehefrau::N,abikaasa,épouse
+259,Freude::N,rõõm,joie
+260,Freude::N,rõõm,plaisir
+261,Gelächter::N,naer,rires
+262,Glück::N,õnn,bonheur
+263,Kummer::N,mure,peine
+264,Kummer::N,mure,chagrin
+265,Kummer::N,kurbus,peine
+266,Kummer::N,kurbus,chagrin
+267,Wunsch::N,soov,désir
+268,Lust::N,himu,envie
+269,Geist::N,vaim,esprit
+270,Gedanke::N,mõte,idée
+271,Gedanke::N,mõte,pensée
+272,Gedächtnis::N,mälu,mémoire
+273,Verstand::N,aru,raison
+274,Verstand::N,mõistus,raison
+275,Sinn::N,tähendus,sens
+276,Grund::N,põhjus,cause
+277,Grund::N,põhjus,raison
+278,Wahrheit::N,tõde,vérité
+279,Gespräch::N,kõne,conversation
+280,Gespräch::N,vestlus,conversation
+281,Märchen::N,muinasjutt,conte
+282,Märchen::N,muinasjutt,conte de fées
+283,Erzählung::N,jutustus,conte
+284,Erzählung::N,jutustus,narration
+285,Nachricht::N,teade,message
+286,Neuigkeit::N,uudis,nouvelle
+287,Name::N,nimi,nom
+288,Rätsel::N,mõistatus,énigme
+289,Rätsel::N,mõistatus,devinette
+290,Rede::N,kõne,parole
+291,Rede::N,kõne,discours
+292,Sprache::N,keel,langue
+293,Sprache::N,keel,langage
+294,Stimme::N,hääl,voix
+295,Wort::N,sõna,mot
+296,Zeichen::N,märk,signe
+297,Ruf::N,hüüe,cri
+298,Ruf::N,hüüe,appel
+299,Lärm::N,müra,bruit
+300,Laut::N,hääl,son
+301,Ton::N,toon,ton
+302,Lied::N,laul,chant
+303,Lied::N,laul,chanson
+304,Ruhe::N,rahu,calme
+305,Ruhe::N,rahu,tranquillité
+306,Ruhe::N,vaikus,calme
+307,Ruhe::N,vaikus,tranquillité
+308,Leute::N,inimesed,gens
+309,Volk::N,rahvas,peuple
+310,Arbeit::N,töö,travail
+311,Gast::N,külaline,hôte
+312,Gast::N,külaline,invité
+313,Geschenk::N,kingitus,cadeau
+314,Geschenk::N,kingitus,présent
+315,Spiel::N,mäng,jeu
+316,Gesellschaft::N,selts,compagnie
+317,Hilfe::N,abi,aide
+318,Hilfe::N,abi,secours
+319,Freund::N,sõber,ami
+320,Kamerad::N,sõber,copain
+321,Kamerad::N,sõber,camarade
+322,Angelegenheit::N,asi,affaire
+323,Anzahl::N,arv,nombre
+324,Anzahl::N,hulk,nombre
+325,Art::N,liik,sorte
+326,Art::N,liik,espèce
+327,Stück::N,tükk,morceau
+328,Teil::N,osa,part
+329,Teil::N,osa,partie
+330,Hälfte::N,pool,moitié
+331,Kreis::N,ring,cercle
+332,Kreuz::N,rist,croix
+333,Linie::N,joon,ligne
+334,Strich::N,joon,trait
+335,Abstand::N,vahe,écart
+336,Entfernung::N,kaugus,distance
+337,Entfernung::N,vahemaa,distance
+338,Gegend::N,ümbrus,région
+339,Gegend::N,ümbrus,contrée
+340,Platz::N,ruum,place
+341,Ort::N,paik,lieu
+342,Ort::N,paik,endroit
+343,Seite::N,pool,côté
+344,Mitte::N,keskpaik,milieu
+345,Gegenstand::N,ese,objet
+346,Sache::N,ese,chose
+347,Rand::N,äär,bord
+348,Rand::N,serv,bord
+349,Kante::N,kant,arête
+350,Ecke::N,nurk,coin
+351,Ecke::N,nurk,tournant
+352,Spitze::N,teravik,cime
+353,Spitze::N,teravik,pointe
+354,Ende::N,ots,bout
+355,Ende::N,jupp,bout
+356,Loch::N,auk,trou
+357,Winkel::N,nurk,coin
+358,Winkel::N,nurk,réduit
+359,Muster::N,muster,dessin
+360,Größe::N,suurus,grandeur
+361,Länge::N,pikkus,longueur
+362,Höhe::N,kõrgus,hauteur
+363,Höhe::N,kõrgus,altitude
+364,Gewicht::N,kaal,poids
+365,Gewicht::N,raskus,poids
+366,Menge::N,arv,quantité
+367,Menge::N,hulk,quantité
+368,Haufen::N,hunnik,tas
+369,Reihe::N,rivi,file
+370,Reihe::N,rivi,rangée
+371,Boot::N,paat,canot
+372,Boot::N,paat,bateau
+373,Ruder::N,aer,rame
+374,Ruder::N,aer,aviron
+375,Schlitten::N,saan,traîneau
+376,Ski::N,suusk,ski
+377,Lagerfeuer::N,lõke,feu de camp
+378,Last::N,koorem,charge
+379,Last::N,koorem,fardeau
+380,Gang::N,käik,tour
+381,Gang::N,käik,marche
+382,Schritt::N,samm,pas
+383,Norden::N,põhi,nord
+384,Süden::N,lõuna,sud
+385,Westen::N,lääs,ouest
+386,Westen::N,lääs,occident
+387,Osten::N,ida,est
+388,Osten::N,ida,orient
+389,Holz::N,puu,bois
+390,Brett::N,saelaud,planche
+391,Platte::N,plaat,plaque
+392,Stütze::N,tugi,appui
+393,Stütze::N,tugi,soutien
+394,Stange::N,latt,barre
+395,Stange::N,latt,perche
+396,Stange::N,teivas,barre
+397,Stange::N,teivas,perche
+398,Stock::N,kepp,canne
+399,Stab::N,varras,bâton
+400,Rohr::N,toru,tube
+401,Rohr::N,toru,tuyau
+402,Haus::N,maja,maison
+403,Heim::N,kodu,maison
+404,Ofen::N,ahi,poêle
+405,Fußboden::N,põrand,plancher
+406,Tisch::N,laud,table
+407,Stuhl::N,tool,chaise
+408,Wiege::N,häll,berceau
+409,Wiege::N,kätki,berceau
+410,Bett::N,voodi,lit
+411,Regal::N,riiul,étagère
+412,Kiste::N,kast,caisse
+413,Fenster::N,aken,fenêtre
+414,Tür::N,uks,porte
+415,Tor::N,värav,porte
+416,Tor::N,värav,portail
+417,Zaun::N,aed,clôture
+418,Zaun::N,tara,clôture
+419,Dach::N,katus,toit
+420,Leiter::N,redel,échelle
+421,Besen::N,luud,balai
+422,Spaten::N,labidas,bêche
+423,Schaufel::N,kühvel,pelle
+424,Gabel::N,kahvel,fourchette
+425,Löffel::N,lusikas,cuiller
+426,Messer::N,nuga,couteau
+427,Nagel::N,nael,clou
+428,Netz::N,võrk,filet
+429,Haken::N,haak,croc
+430,Haken::N,haak,crochet
+431,Haken::N,konks,croc
+432,Haken::N,konks,crochet
+433,Griff::N,sang,prise
+434,Griff::N,sang,manche
+435,Griff::N,käepide,prise
+436,Griff::N,käepide,manche
+437,Schloss::N,lukk,serrure
+438,Bild::N,pilt,image
+439,Bild::N,pilt,tableau
+440,Figur::N,kuju,figure
+441,Figur::N,kujund,figure
+442,Puppe::N,nukk,poupée
+443,Beutel::N,paun,sac
+444,Beutel::N,paun,petit sac
+445,Bündel::N,kimp,paquet
+446,Bündel::N,kimp,faisceau
+447,Tasche::N,kott,sac
+448,Eimer::N,pang,seau
+449,Eimer::N,ämber,seau
+450,Deckel::N,kaas,couvercle
+451,Geschirr::N,nõud,vaisselle
+452,Sack::N,kott,sac
+453,Tasse::N,tass,tasse
+454,Topf::N,pada,pot
+455,Topf::N,pada,marmite
+456,Kessel::N,pada,chaudron
+457,Essen::N,söök,repas
+458,Essen::N,söök,manger
+459,Nahrung::N,toit,nourriture
+460,Speise::N,roog,plat
+461,Fleisch::N,liha,viande
+462,Getreide::N,teravili,blé
+463,Getreide::N,teravili,céréales
+464,Brei::N,puder,purée
+465,Brei::N,puder,bouillie
+466,Brot::N,sai,pain
+467,Brot::N,leib,pain
+468,Scheibe::N,viil,tranche
+469,Scheibe::N,viilukas,tranche
+470,Fett::N,rasv,graisse
+471,Butter::N,või,beurre
+472,Öl::N,õli,huile
+473,Salz::N,sool,sel
+474,Suppe::N,supp,soupe
+475,Suppe::N,supp,potage
+476,Honig::N,mesi,miel
+477,Milch::N,piim,lait
+478,Tee::N,tee,thé
+479,Leder::N,nahk,cuir
+480,Wolle::N,vill,laine
+481,Stoff::N,kangas,tissu
+482,Stoff::N,kangas,étoffe
+483,Nadel::N,nõel,aiguille
+484,Faden::N,niit,fil
+485,Knopf::N,nööp,bouton
+486,Knoten::N,sõlm,nœud
+487,Farbe::N,värv,peinture
+488,Kleidung::N,riided,vêtements
+489,Kleidung::N,riided,habillement
+490,Kleidung::N,riietus,vêtements
+491,Kleidung::N,riietus,habillement
+492,Hemd::N,särk,chemise
+493,Kragen::N,krae,col
+494,Ärmel::N,varrukas,manche
+495,Hose::N,püksid,pantalon
+496,Gürtel::N,vöö,ceinture
+497,Mütze::N,müts,bonnet
+498,Mütze::N,müts,casquette
+499,Schuh::N,king,soulier
+500,Schuh::N,king,chaussure
+501,Stiefel::N,saabas,botte
+502,Ring::N,sõrmus,bague
+503,Band::N,lint,ruban
+504,Kamm::N,kamm,peigne
+505,Spiegel::N,peegel,glace
+506,Spiegel::N,peegel,miroir
+507,Riemen::N,rihm,lanière
+508,Riemen::N,rihm,courroie
+509,Schnur::N,nöör,corde
+510,Schnur::N,nöör,ficelle
+511,Leine::N,jalutusrihm,laisse
+512,Decke::N,tekk,couverture
+513,Kissen::N,padi,oreiller
+514,Tuch::N,kalev,drap
+515,Tuch::N,kalev,fichu
+516,Handtuch::N,käterätik,serviette
+517,Handtuch::N,käterätik,essuie-mains
+518,Kraft::N,jõud,force
+519,Stärke::N,tugevus,vigueur
+520,Gesundheit::N,tervis,santé
+521,Krankheit::N,haigus,maladie
+522,Schmerz::N,valu,douleur
+523,Wunde::N,haav,plaie
+524,Wunde::N,haav,blessure
+525,Fieber::N,palavik,fièvre
+526,Arznei::N,ravim,remède
+527,Arznei::N,ravim,médecine
+528,Brücke::N,sild,pont
+529,Brunnen::N,kaev,puits
+530,Weide::N,karjamaa,pâturage
+531,Pfad::N,rada,sentier
+532,Weg::N,tee,voie
+533,Weg::N,tee,chemin
+534,Straße::N,tee,route
+535,Dorf::N,küla,village
+536,Stadt::N,linn,cité
+537,Stadt::N,linn,ville
+538,Brief::N,kiri,lettre
+539,Buch::N,raamat,livre
+540,Buchstabe::N,täht,lettre
+541,Buchstabe::N,täht,caractère
+542,Zeitung::N,ajaleht,journal
+543,Leben::N,elu,vie
+544,Tod::N,surm,mort
+545,Grab::N,haud,tombe
+546,Kirche::N,kirik,église
+547,Sünde::N,patt,péché
+548,Gott::N,jumal,dieu
+549,Arbeiter::N,tööline,ouvrier
+550,Arbeiter::N,tööline,travailleur
+551,Chef::N,ülemus,chef
+552,Chef::N,ülemus,patron
+553,Chef::N,juhataja,chef
+554,Chef::N,juhataja,patron
+555,Meister::N,meister,maître
+556,Arzt::N,arst,médecin
+557,Lehrer::N,õpetaja,professeur
+558,Lehrer::N,õpetaja,instituteur
+559,Geld::N,raha,argent
+560,Geschäft::N,äri,affaire
+561,Geschäft::N,äri,commerce
+562,Laden::N,pood,magasin
+563,Laden::N,pood,boutique
+564,Laden::N,kauplus,magasin
+565,Laden::N,kauplus,boutique
+566,Preis::N,hind,prix
+567,Ware::N,kaup,marchandise
+568,Nutzen::N,tulu,profit
+569,Nutzen::N,kasulikkus,profit
+570,Reichtum::N,rikkus,richesse
+571,Welt::N,maailm,monde
+572,Land::N,maa,pays
+573,Staat::N,riik,État
+574,König::N,kuningas,roi
+575,Macht::N,võim,pouvoir
+576,Macht::N,võim,puissance
+577,Grenze::N,piir,frontière
+578,Krieg::N,sõda,guerre
+579,Feind::N,vaenlane,ennemi
+580,Gewalt::N,väevõim,violence
+581,Kampf::N,võitlus,lutte
+582,Kampf::N,võitlus,combat
+583,Bogen[Waffe]::N,vibu,arc
+584,Pfeil::N,nool,flèche
+585,Gewehr::N,püss,fusil
+586,Fehler::N,viga,faute
+587,Fehler::N,viga,erreur
+588,Lüge::N,vale,mensonge
+589,Schaden::N,kahju,dégât
+590,Schaden::N,kahju,dommage
+591,Unglück::N,häda,malheur
+592,Unglück::N,õnnetus,malheur
+593,Schuld::N,süü,faute
+594,Schuld::N,süü,culpabilité
+595,Alter::N,iga,âge
+596,Schluss::N,lõpp,fin
+597,Zeit::N,aeg,temps
+598,Tag::N,päev,jour
+599,Tag::N,päev,journée
+600,Morgen::N,hommik,matin
+601,Morgen::N,hommik,matinée
+602,Mittag::N,lõuna,midi
+603,Mittag::N,keskpäev,midi
+604,Abend::N,õhtu,soir
+605,Abend::N,õhtu,soirée
+606,Nacht::N,öö,nuit
+607,Woche::N,nädal,semaine
+608,Monat::N,kuu,mois
+609,Jahr::N,aasta,an
+610,Jahr::N,aasta,année
+611,Frühling::N,kevad,printemps
+612,Sommer::N,suvi,été
+613,Herbst::N,sügis,automne
+614,Winter::N,talv,hiver
+615,Januar::N,jaanuar,janvier
+616,Februar::N,veebruar,février
+617,März::N,märts,mars
+618,April::N,aprill,avril
+619,Mai::N,mai,mai
+620,Juni::N,juuni,juin
+621,Juli::N,juuli,juillet
+622,August::N,august,août
+623,September::N,september,septembre
+624,Oktober::N,oktoober,octobre
+625,November::N,november,novembre
+626,Dezember::N,detsember,décembre
+627,Montag::N,esmaspäev,lundi
+628,Dienstag::N,teisipäev,mardi
+629,Mittwoch::N,kesknädal,mercredi
+630,Donnerstag::N,neljapäev,jeudi
+631,Freitag::N,reede,vendredi
+632,Samstag::N,laupäev,samedi
+633,Sonntag::N,pühapäev,dimanche
+634,groß::A,suur,grand
+635,klein::A,väike,petit
+636,klein::A,pisike,petit
+637,lang::A,pikk,long
+638,kurz::A,lühike,court
+639,breit::A,lai,large
+640,schmal::A,kitsas,étroit
+641,dicht::A,tihe,dense
+642,dick[Gegenstand]::A,jäme,épais
+643,dünn::A,õhuke,mince
+644,dünn::A,peenike,mince
+645,fein::A,peen,fin
+646,fein::A,peen,menu
+647,fein::A,õhuke,fin
+648,fein::A,õhuke,menu
+649,fest::A,püsiv,ferme
+650,fest::A,püsiv,solide
+651,fest::A,kindel,ferme
+652,fest::A,kindel,solide
+653,flach::A,lame,plat
+654,flach::A,tasane,plat
+655,glatt::A,sile,poli
+656,glatt::A,sile,lisse
+657,hart::A,kõva,dur
+658,weich::A,pehme,mou
+659,rund::A,ümar,rond
+660,spitz::A,torkav,aigu
+661,spitz::A,torkav,pointu
+662,scharf::A,terav,tranchant
+663,stumpf::A,nüri,mousse
+664,stumpf::A,nüri,émoussé
+665,schwer::A,raske,lourd
+666,schwer::A,raske,pesant
+667,schön::A,kena,beau
+668,heiß::A,kuum,chaud
+669,heiß::A,kuum,très chaud
+670,heiß::A,palav,chaud
+671,heiß::A,palav,très chaud
+672,warm::A,soe,chaud
+673,kalt::A,külm,froid
+674,kühl::A,jahe,frais
+675,frisch::A,värske,frais
+676,feucht::A,niiske,humide
+677,nass::A,märg,mouillé
+678,trocken::A,kuiv,sec
+679,voll::A,täis,plein
+680,voll::A,täis,rempli
+681,leer::A,tühi,vide
+682,offen::A,avatud,ouvert
+683,offen::A,lahtine,ouvert
+684,geschlossen::A,suletud,clos
+685,geschlossen::A,suletud,fermé
+686,sauber::A,puhas,net
+687,sauber::A,puhas,propre
+688,schmutzig::A,räpane,sale
+689,schmutzig::A,räpane,crasseux
+690,schmutzig::A,määrdunud,sale
+691,schmutzig::A,määrdunud,crasseux
+692,roh::A,toores,cru
+693,roh::A,toores,brut
+694,reif::A,küps,mûr
+695,lecker::A,hõrk,délicieux
+696,lecker::A,hõrk,appétissant
+697,lecker::A,maitsev,délicieux
+698,lecker::A,maitsev,appétissant
+699,süß::A,magus,doux
+700,bitter::A,mõru,amer
+701,sauer::A,hapu,aigre
+702,hell::A,hele,clair
+703,dunkel::A,pime,sombre
+704,schwarz::A,must,noir
+705,weiß::A,valge,blanc
+706,rot::A,punane,rouge
+707,gelb::A,kollane,jaune
+708,blau::A,sinine,bleu
+709,grün::A,roheline,vert
+710,grau::A,hall,gris
+711,bunt::A,kirju,multicolore
+712,bunt::A,värviline,multicolore
+713,billig::A,odav,bon marché
+714,teuer::A,kallis,cher
+715,wertvoll::A,väärtuslik,précieux
+716,blind::A,pime,aveugle
+717,taub::A,kurt,sourd
+718,kräftig::A,jõuline,fort
+719,kräftig::A,jõuline,vigoureux
+720,stark::A,tugev,fort
+721,stark::A,tugev,puissant
+722,schwach::A,nõrk,faible
+723,schwach::A,jõuetu,faible
+724,fett::A,rasvane,gras
+725,schlank::A,sale,svelte
+726,hübsch::A,kena,joli
+727,böse::A,tige,mauvais
+728,dumm::A,juhm,sot
+729,dumm::A,juhm,bête
+730,dumm::A,rumal,sot
+731,dumm::A,rumal,bête
+732,faul::A,laisk,fainéant
+733,faul::A,laisk,paresseux
+734,fleißig::A,virk,appliqué
+735,fleißig::A,hoolas,appliqué
+736,geizig::A,ihne,avare
+737,klug::A,tark,intelligent
+738,klug::A,arukas,intelligent
+739,klug::A,mõistlik,intelligent
+740,geschickt::A,osav,habile
+741,lieb::A,armas,cher
+742,lieb::A,armas,gentil
+743,lustig::A,lõbus,gai
+744,lustig::A,lõbus,joyeux
+745,sanft::A,õrn,doux
+746,hungrig::A,näljane,affamé
+747,krank::A,haige,malade
+748,nackt::A,alasti,nu
+749,traurig::A,kurb,triste
+750,lebendig::A,elus,vivant
+751,gut::A,hea,bon
+752,schlecht::A,halb,mauvais
+753,richtig::A,õige,juste
+754,richtig::A,õige,correct
+755,schlimm::A,paha,grave
+756,schlimm::A,paha,mauvais
+757,wahr::A,tõene,vrai
+758,wahr::A,tõene,véritable
+759,alt::A,vana,vieux
+760,neu::A,uus,neuf
+761,neu::A,uus,nouveau
+762,ehemalig::A,endine,ancien
+763,alt[Lebewesen]::A,vana,âgé
+764,alt[Lebewesen]::A,vana,vieux
+765,jung::A,noor,jeune
+766,arm::A,vaene,pauvre
+767,reich::A,rikas,riche
+768,bekannt::A,teada,connu
+769,bekannt::A,tuttav,connu
+770,berühmt::A,tuntud,fameux
+771,berühmt::A,tuntud,célèbre
+772,fremd::A,võõras,étranger
+773,verschieden::A,erinev,différent
+774,nah::A,lähedane,lié
+775,nah::A,lähedane,proche
+776,fern::A,kauge,éloigné
+777,fern::A,kauge,lointain
+778,linker::A,vasak,gauche
+779,rechter::A,parem,droit
+780,anderer::A,muu,autre
+781,anderer::A,teine,autre
+782,erster::A,esimene,premier
+783,zweiter::A,teine,second
+784,zweiter::A,teine,deuxième
+785,dritter::A,kolmas,troisième
+786,letzter::A,viimane,dernier
+787,allein::ADV,üksi,seul
+788,auf einmal::ADV,korraga,à la fois
+789,auf einmal::ADV,ühekorraga,à la fois
+790,zusammen::ADV,koos,ensemble
+791,zusammen::ADV,üheskoos,ensemble
+792,lange::ADV,kaua,longtemps
+793,plötzlich::ADV,äkki,tout à coup
+794,plötzlich::ADV,järsku,tout à coup
+795,sofort::ADV,kohe,immédiatement
+796,später::ADV,hiljem,plus tard
+797,jetzt::ADV,nüüd,maintenant
+798,heute::ADV,täna,aujourd'hui
+799,morgen::ADV,homme,demain
+800,bald::ADV,pea,bientôt
+801,bald::ADV,varsti,bientôt
+802,dann::ADV,siis,puis
+803,dann::ADV,siis,ensuite
+804,gestern::ADV,eile,hier
+805,einst::ADV,vanasti,jadis
+806,einst::ADV,vanasti,autrefois
+807,damals::ADV,tookord,alors
+808,damals::ADV,tookord,à l'époque
+809,danach::ADV,seejärel,après
+810,danach::ADV,seejärel,ensuite
+811,vorher::ADV,enne,auparavant
+812,zuerst::ADV,enne,d'abord
+813,zuerst::ADV,enne,premièrement
+814,zuerst::ADV,esmalt,d'abord
+815,zuerst::ADV,esmalt,premièrement
+816,einmal::ADV,kord,une fois
+817,einmal::ADV,üks kord,une fois
+818,manchmal::ADV,mõnikord,parfois
+819,manchmal::ADV,mõnikord,quelquefois
+820,oft::ADV,tihti,souvent
+821,oft::ADV,sageli,souvent
+822,immer::ADV,ikka,toujours
+823,immer::ADV,alati,toujours
+824,niemals::ADV,mitte kunagi,ne ... jamais
+825,hier::ADV,siin,ici
+826,hierhin::ADV,siia,par ici
+827,von hier::ADV,siit,d'ici
+828,dort::ADV,seal,là
+829,dort::ADV,seal,là-bas
+830,dorthin::ADV,sinna,y
+831,dorthin::ADV,sinna,par là
+832,geradeaus::ADV,otse edasi,tout droit
+833,vorwärts::ADV,edasi,en avant
+834,rückwärts::ADV,tagurpidi,en arrière
+835,zurück::ADV,tagasi,de retour
+836,unten::ADV,all,en bas
+837,unten::ADV,all,au-dessous
+838,unten::ADV,allpool,en bas
+839,unten::ADV,allpool,au-dessous
+840,hinab::ADV,alla,en bas
+841,hinab::ADV,alla,vers le bas
+842,oben::ADV,ülal,dessus
+843,oben::ADV,ülal,en haut
+844,hinauf::ADV,üles,en haut
+845,hinauf::ADV,üles,vers le haut
+846,überall::ADV,kõikjal,partout
+847,nicht::ADV,ei,ne ... pas
+848,nicht::ADV,mitte,ne ... pas
+849,ein wenig::ADV,veidi,un peu
+850,ein wenig::ADV,natuke,un peu
+851,kaum::ADV,vaevalt,à peine
+852,sehr::ADV,väga,très
+853,so::ADV,nii,si
+854,so::ADV,nii,ainsi
+855,noch::ADV,veel,encore
+856,nur::ADV,ainult,seulement
+857,nur::ADV,ainult,ne ... que
+858,schon::ADV,juba,déjà
+859,wieder::ADV,jälle,de nouveau
+860,vergebens::ADV,asjata,en vain
+861,vor::PRP,ees,devant
+862,hinter::PRP,taha,derrière
+863,unter::PRP,all,sous
+864,unter::PRP,all,au-dessous de
+865,durch::PRP,läbi,par
+866,durch::PRP,läbi,à travers
+867,durch::PRP,kaudu,par
+868,durch::PRP,kaudu,à travers
+869,neben::PRP,kõrval,à côté de
+870,zwischen::PRP,vahel,entre
+871,wegen::PRP,tõttu,à cause de
+872,wegen::PRP,pärast,à cause de
+873,dies::PRN,see,ceci
+874,das::PRN,see,ce
+875,das::PRN,see,cela
+876,alles::PRN,kõik,tout
+877,ich::PRN,mina,je
+878,ich::PRN,mina,moi
+879,du::PRN,sina,tu
+880,du::PRN,sina,toi
+881,er::PRN,tema,il
+882,er::PRN,tema,lui
+883,wir::PRN,me,nous
+884,ihr::PRN,te,vous
+885,sie::PRN,nad,ils
+886,sie::PRN,nad,elles
+887,was::FPRN,mis,que
+888,was::FPRN,mis,quoi
+889,wer::FPRN,kes,qui
+890,wo::FADV,kus,où
+891,wohin::FADV,kuhu,où
+892,wie::FADV,kuidas,comment
+893,warum::FADV,miks,pourquoi
+894,wieviel::FNUM,mitu,combien
+895,wieviel::FNUM,kui palju,combien
+896,eins::NUM,üks,un
+897,zwei::NUM,kaks,deux
+898,drei::NUM,kolm,trois
+899,vier::NUM,neli,quatre
+900,fünf::NUM,viis,cinq
+901,sechs::NUM,kuus,six
+902,sieben::NUM,seitse,sept
+903,acht::NUM,kaheksa,huit
+904,neun::NUM,üheksa,neuf
+905,zehn::NUM,kümme,dix
+906,elf::NUM,üksteist,onze
+907,zwölf::NUM,kaksteist,douze
+908,zwanzig::NUM,kakskümmend,vingt
+909,dreißig::NUM,kolmkümmend,trente
+910,vierzig::NUM,nelikümmend,quarante
+911,fünfzig::NUM,viiskümmend,cinquante
+912,sechzig::NUM,kuuskümmend,soixante
+913,siebzig::NUM,seitsekümmend,soixante-dix
+914,achtzig::NUM,kaheksakümmend,quatre-vingt
+915,neunzig::NUM,üheksakümmend,quatre-vingt-dix
+916,hundert::NUM,sada,cent
+917,tausend::NUM,tuhat,mille
+918,und::CNJ,ja,et
+919,oder::CNJ,või,ou
+920,stehen::V,seisma,être debout
+921,sitzen::V,istuma,être assis
+922,liegen::V,lamama,être couché
+923,hängen::V,rippuma,pendre
+924,werden::V,saama,devenir
+925,werden::V,hakkama,devenir
+926,passieren::V,juhtuma,se passer
+927,beginnen::V,algama,commencer
+928,beginnen::V,hakkama,commencer
+929,enden::V,lõppema,finir
+930,enden::V,lõppema,se terminer
+931,wechseln::V,vahelduma,changer
+932,wechseln::V,vahelduma,alterner
+933,aufgehen[Sonne]::V,tõusma,se lever
+934,untergehen[Sonne]::V,loojuma,se coucher
+935,scheinen[Sonne]::V,paistma,briller
+936,donnern::V,kõmisema,tonner
+937,wehen::V,puhuma,souffler
+938,strömen::V,voolama,affluer
+939,fließen::V,voolama,couler
+940,sich drehen::V,pöörduma,tourner
+941,schwanken::V,kõikuma,osciller
+942,schwanken::V,kõikuma,chanceler
+943,schwingen::V,võnkuma,vibrer
+944,schwingen::V,võnkuma,osciller
+945,fallen::V,langema,tomber
+946,brennen::V,põlema,brûler
+947,brennen::V,põlema,flamber
+948,rauchen::V,suitsema,fumer
+949,regnen::V,sadama,pleuvoir
+950,gefrieren::V,kinni külmuma,geler
+951,tauen::V,sulama,dégeler
+952,schmelzen::V,sulama,fondre
+953,trocknen::V,kuivama,sécher
+954,sieden::V,keema,bouillir
+955,faulen::V,mädanema,pourrir
+956,faulen::V,mädanema,se putréfier
+957,verfaulen::V,mädanema,pourrir
+958,reißen::V,rebenema,rompre
+959,reißen::V,rebenema,se déchirer
+960,versinken::V,uppuma,s'enfoncer
+961,vergehen::V,mööduma,passer
+962,erscheinen::V,ilmuma,apparaître
+963,verschwinden::V,kaduma,disparaître
+964,sinken::V,vajuma,descendre
+965,sinken::V,vajuma,s'abaisser
+966,sinken::V,langema,descendre
+967,sinken::V,langema,s'abaisser
+968,abnehmen::V,vähenema,diminuer
+969,abnehmen::V,kahenema,diminuer
+970,zunehmen::V,kasvama,augmenter
+971,steigen::V,tõusma,monter
+972,steigen::V,üles minema,monter
+973,wachsen::V,kasvama,croître
+974,glänzen::V,läikimä,briller
+975,funkeln::V,sädelema,étinceler
+976,lärmen::V,lärmama,faire du bruit
+977,läuten::V,helisema,sonner
+978,klingeln::V,helisema,sonner
+979,klirren::V,kõlisema,cliqueter
+980,brausen::V,kohisema,mugir
+981,rauschen::V,kohisema,bruire
+982,klingen::V,kõlama,sonner
+983,bellen::V,haukuma,aboyer
+984,heulen::V,uluma,hurler
+985,blasen::V,puhuma,souffler
+986,pfeifen::V,vilistama,siffler
+987,schreien::V,karjuma,crier
+988,stöhnen::V,oigama,gémir
+989,zittern::V,värisema,trembler
+990,leben::V,elama,vivre
+991,leben::V,elus olema,vivre
+992,geboren werden::V,sündima,naître
+993,atmen::V,hingama,respirer
+994,trinken::V,jooma,boire
+995,essen::V,sööma,manger
+996,schlucken::V,neelama,avaler
+997,müde werden::V,väsima,se lasser
+998,müde werden::V,väsima,se fatiguer
+999,einschlafen::V,uinuma,s'endormir
+1000,schlafen::V,magama,dormir
+1001,aufwachen::V,ärkama,se réveiller
+1002,aufstehen::V,ärkama,se lever
+1003,aufstehen::V,üles tõusma,se lever
+1004,sich erholen::V,puhkama,se reposer
+1005,sich erholen::V,puhkama,se détendre
+1006,krank werden::V,haigestuma,tomber malade
+1007,krank werden::V,haigeks jääma,tomber malade
+1008,krank sein::V,haige olema,être malade
+1009,schmerzen::V,valutama,faire mal
+1010,husten::V,köhima,tousser
+1011,genesen::V,toibuma,guérir
+1012,genesen::V,toibuma,se remettre
+1013,sterben::V,surema,mourir
+1014,umkommen::V,surma saama,périr
+1015,sich bewegen::V,liikuma,bouger
+1016,sich rühren::V,liikuma,broncher
+1017,sich erheben::V,kerkima,se lever
+1018,sich setzen::V,istet võtma,s'asseoir
+1019,hinfallen::V,kukkuma,tomber
+1020,hinfallen::V,maha kukkuma,tomber
+1021,laufen::V,kõndima,marcher
+1022,laufen::V,kõndima,aller à pied
+1023,schreiten::V,astuma,marcher
+1024,spazierengehen::V,jalutama,se promener
+1025,eilen::V,ruttama,courir
+1026,eilen::V,kiirustama,courir
+1027,sich beeilen::V,ruttama,se hâter
+1028,sich beeilen::V,ruttama,se dépêcher
+1029,sich beeilen::V,kiirustama,se hâter
+1030,sich beeilen::V,kiirustama,se dépêcher
+1031,sausen::V,kihutama,filer
+1032,sausen::V,tormama,filer
+1033,rennen::V,jooksma,courir
+1034,rennen::V,kihutama,courir
+1035,springen::V,hüppama,sauter
+1036,klettern::V,ronima,grimper
+1037,schaukeln::V,kiikuma,se balancer
+1038,kriechen::V,roomama,ramper
+1039,schwimmen::V,ujuma,nager
+1040,tauchen::V,sukelduma,plonger
+1041,rudern::V,sõudma,ramer
+1042,fahren::V,sõitma,aller
+1043,fahren::V,sõitma,rouler
+1044,fliegen::V,lendama,voler
+1045,gehen::V,käima,aller
+1046,gehen::V,minema,aller
+1047,weggehen::V,ära minema,s'en aller
+1048,weggehen::V,välja minema,s'en aller
+1049,abfahren::V,väljuma,partir
+1050,abfahren::V,ära sõitma,partir
+1051,anhalten::V,peatuma,s'arrêter
+1052,hineingehen::V,sisenema,entrer
+1053,hineingehen::V,sisse minema,entrer
+1054,eintreten::V,sisenema,entrer
+1055,eintreten::V,sisse astuma,entrer
+1056,kommen::V,tulema,venir
+1057,ankommen::V,saabuma,arriver
+1058,zurückkommen::V,tagasi tulema,revenir
+1059,bleiben::V,jääma,rester
+1060,bleiben::V,jääma,demeurer
+1061,warten::V,ootama,attendre
+1062,erwarten::V,ootama,attendre
+1063,erwarten::V,lootma,attendre
+1064,suchen::V,otsima,chercher
+1065,finden::V,leidma,trouver
+1066,versuchen::V,püüdma,essayer
+1067,versuchen::V,üritama,essayer
+1068,versuchen::V,katsetama,essayer
+1069,vorbereiten::V,valmistama,préparer
+1070,lieben::V,armastama,aimer
+1071,mögen::V,sallima,aimer
+1072,mögen::V,sallima,vouloir
+1073,mögen::V,meeldima,aimer
+1074,mögen::V,meeldima,vouloir
+1075,lachen::V,naerma,rire
+1076,rühren::V,liigutama,toucher
+1077,rühren::V,liigutama,attendrir
+1078,rühren::V,heldima panema,toucher
+1079,rühren::V,heldima panema,attendrir
+1080,weinen::V,nutma,pleurer
+1081,schimpfen::V,sõimama,gronder
+1082,sich ärgern::V,ärrituma,se fâcher
+1083,sich ärgern::V,vihastuma,se fâcher
+1084,sich fürchten::V,kartma,avoir peur
+1085,sich fürchten::V,hirmu tundma,avoir peur
+1086,fürchten::V,kartma,craindre
+1087,fürchten::V,kartma,avoir peur de
+1088,fliehen::V,põgenema,fuir
+1089,flüchten::V,põgenema,s'enfuir
+1090,sehen::V,nägema,voir
+1091,anschauen::V,vaatama,regarder
+1092,ansehen::V,vaatama,regarder
+1093,hören::V,kuulma,entendre
+1094,zuhören::V,kuulama,écouter
+1095,probieren::V,proovima,goûter
+1096,riechen::V,nuusutama,sentir
+1097,fühlen::V,tundma,sentir
+1098,scheinen::V,näida,sembler
+1099,scheinen::V,näida,paraître
+1100,scheinen::V,ilmuda,sembler
+1101,scheinen::V,ilmuda,paraître
+1102,zu sehen sein::V,ilmuma,se voir
+1103,zu sehen sein::V,ilmuma,être visible
+1104,vernehmen::V,üle kuulama,entendre
+1105,vernehmen::V,üle kuulama,percevoir
+1106,frieren::V,külmetada,avoir froid
+1107,tun::V,tegema,faire
+1108,können::V,võima,savoir
+1109,können::V,võima,pouvoir
+1110,können::V,oskama,savoir
+1111,können::V,oskama,pouvoir
+1112,wollen::V,tahtma,vouloir
+1113,anfangen::V,hakkama,commencer
+1114,anfangen::V,alustama,commencer
+1115,beenden::V,lõpetama,finir
+1116,beenden::V,lõpetama,terminer
+1117,aufhören::V,lakkama,cesser
+1118,aufhören::V,lakkama,arrêter
+1119,gelingen::V,õnnestuma,réussir
+1120,geraten::V,jõudma,réussir
+1121,öffnen::V,avama,ouvrir
+1122,schließen::V,sulgema,fermer
+1123,stellen::V,panema,poser
+1124,stellen::V,panema,mettre
+1125,stellen::V,asetama,poser
+1126,stellen::V,asetama,mettre
+1127,setzen::V,panema,placer
+1128,legen::V,panema,placer
+1129,legen::V,asetama,placer
+1130,berühren::V,riivama,toucher
+1131,berühren::V,puudutama,toucher
+1132,verbinden::V,ühendama,lier
+1133,bedecken::V,katma,couvrir
+1134,aufhängen::V,riputama,accrocher
+1135,anzünden::V,süütama,allumer
+1136,aufheben::V,üles tõstma,ramasser
+1137,zurücklassen::V,jätma,laisser
+1138,verlieren::V,kaotama,perdre
+1139,fallen lassen::V,maha pillama,lâcher
+1140,fallen lassen::V,maha pillama,laisser tomber
+1141,fallen lassen::V,kukkuda laskma,lâcher
+1142,fallen lassen::V,kukkuda laskma,laisser tomber
+1143,machen::V,tegema,faire
+1144,herstellen::V,valmistama,produire
+1145,herstellen::V,valmistama,fabriquer
+1146,bauen::V,ehitama,bâtir
+1147,bauen::V,ehitama,construire
+1148,reparieren::V,parandama,réparer
+1149,verbessern::V,parandama,améliorer
+1150,ändern::V,muutma,changer
+1151,ändern::V,muutma,modifier
+1152,ändern::V,ümber tegema,changer
+1153,ändern::V,ümber tegema,modifier
+1154,graben::V,kaevama,creuser
+1155,beugen::V,painutama,plier
+1156,beugen::V,painutama,ployer
+1157,biegen::V,painutama,courber
+1158,drehen::V,keerama,tordre
+1159,drehen::V,keerama,tourner
+1160,wenden::V,ümber pöörama,retourner
+1161,umdrehen::V,ümber keerama,tourner
+1162,heben::V,tõstma,soulever
+1163,hochheben::V,üles tõstma,lever
+1164,hochheben::V,kõrgele tõstma,lever
+1165,ergreifen::V,haarama,saisir
+1166,ergreifen::V,haarama,prendre
+1167,halten::V,hoidma,tenir
+1168,drücken::V,pigistama,presser
+1169,schieben::V,lükkama,pousser
+1170,kratzen::V,kraapima,gratter
+1171,kratzen::V,kraapima,égratigner
+1172,lecken::V,lakkuma,lécher
+1173,beißen::V,purema,mordre
+1174,beißen::V,hammustama,mordre
+1175,abreißen::V,rebima,arracher
+1176,abreißen::V,ära rebima,arracher
+1177,abschneiden::V,ära lõikama,couper
+1178,binden::V,siduma,lier
+1179,binden::V,siduma,attacher
+1180,stecken::V,pistma,enfoncer
+1181,brechen::V,murdma,rompre
+1182,klopfen::V,koputama,frapper
+1183,hauen::V,lööma,frapper
+1184,kleben::V,kleepima,coller
+1185,reiben::V,hõõruma,frotter
+1186,streichen::V,silitama,empâter
+1187,schleifen::V,lihvima,affiler
+1188,schleifen::V,lihvima,aiguiser
+1189,schleifen::V,teritama,affiler
+1190,schleifen::V,teritama,aiguiser
+1191,schneiden::V,lõikama,couper
+1192,schneiden::V,lõikama,trancher
+1193,rütteln::V,raputama,cahoter
+1194,schütteln::V,raputama,secouer
+1195,schütteln::V,loksutama,secouer
+1196,schwenken::V,vehkima,agiter
+1197,schwenken::V,lehvitama,agiter
+1198,schütten::V,kallama,verser
+1199,füllen::V,täitma,remplir
+1200,einwickeln::V,sisse mähkima,envelopper
+1201,tragen::V,kandma,porter
+1202,schleppen::V,tassima,traîner
+1203,schleppen::V,lohistama,traîner
+1204,ziehen::V,vedama,tirer
+1205,ziehen::V,tõmbama,tirer
+1206,aufbewahren::V,säilitama,garder
+1207,aufbewahren::V,säilitama,conserver
+1208,aufbewahren::V,alal hoidma,garder
+1209,aufbewahren::V,alal hoidma,conserver
+1210,werfen::V,viskama,jeter
+1211,werfen::V,viskama,lancer
+1212,fangen::V,püüdma,attraper
+1213,packen::V,kinni haarama,agripper
+1214,packen::V,kinni võtma,agripper
+1215,verstecken::V,peitma,cacher
+1216,teilen::V,jagama,diviser
+1217,teilen::V,jaotama,diviser
+1218,schicken::V,saatma,envoyer
+1219,bringen::V,viima,apporter
+1220,hinzufügen::V,lisama,ajouter
+1221,bekommen::V,saama,obtenir
+1222,erhalten::V,saama,recevoir
+1223,nehmen::V,võtma,prendre
+1224,wählen::V,valima,choisir
+1225,auswählen::V,valima,choisir
+1226,auswählen::V,valima,sélectionner
+1227,bewahren::V,hoidma,préserver
+1228,behindern::V,takistama,gêner
+1229,verderben::V,rikkuma,gâter
+1230,verderben::V,rikkuma,corrompre
+1231,beschädigen::V,rikkuma,endommager
+1232,zerbrechen::V,katki tegema,casser
+1233,zerreißen::V,katki rebima,déchirer
+1234,zerstören::V,purustama,détruire
+1235,verbrennen::V,põletama,brûler
+1236,geben::V,andma,donner
+1237,reichen::V,andma,tendre
+1238,reichen::V,ulatama,tendre
+1239,schenken::V,kinkima,offrir
+1240,versprechen::V,lubama,promettre
+1241,versprechen::V,tõotama,promettre
+1242,wünschen::V,soovima,souhaiter
+1243,loben::V,kiitma,louer
+1244,küssen::V,suudlema,embrasser
+1245,wiegen::V,hällitama,bercer
+1246,zudecken::V,kaanetama,couvrir
+1247,zudecken::V,kinni katma,couvrir
+1248,wecken::V,äratama,éveiller
+1249,wecken::V,äratama,réveiller
+1250,zeigen::V,näitama,montrer
+1251,zeigen::V,näitama,faire voir
+1252,führen::V,juhatama,guider
+1253,lehren::V,õpetama,apprendre
+1254,unterrichten::V,õpetama,instruire
+1255,aufziehen::V,üles kasvatama,élever
+1256,leiten::V,juhtima,diriger
+1257,leiten::V,juhtima,conduire
+1258,antreiben::V,ergutama,pousser
+1259,lassen::V,laskma,faire
+1260,einladen::V,kutsuma,inviter
+1261,vereinigen::V,ühendama,unir
+1262,vereinigen::V,ühendama,réunir
+1263,besuchen::V,külastama,visiter
+1264,besuchen::V,külastama,aller voir
+1265,treffen::V,kohtama,rencontrer
+1266,sich versammeln::V,kogunema,s'assembler
+1267,spielen::V,mängima,jouer
+1268,singen::V,laulma,chanter
+1269,tanzen::V,tantsima,danser
+1270,sich trennen::V,lahku minema,se séparer
+1271,verlassen::V,maha jätma,quitter
+1272,retten::V,päästma,sauver
+1273,bewachen::V,valvama,garder
+1274,schützen::V,kaitsma,protéger
+1275,verteidigen::V,kaitsma,défendre
+1276,sich schlagen::V,kaklema,se taper
+1277,schießen::V,tulistama,tirer
+1278,siegen::V,võitma,vaincre
+1279,ärgern::V,ärritama,agacer
+1280,ärgern::V,vihastama,agacer
+1281,schlagen::V,lööma,battre
+1282,schlagen::V,lööma,frapper
+1283,treten::V,sõtkuma,botter
+1284,treten::V,sõtkuma,donner un coup de pied à
+1285,stechen::V,pistma,piquer
+1286,stechen::V,torkama,piquer
+1287,stoßen::V,tõukama,heurter
+1288,stehlen::V,varastama,voler
+1289,stören::V,segama,gêner
+1290,stören::V,segama,déranger
+1291,stören::V,häirima,gêner
+1292,stören::V,häirima,déranger
+1293,belästigen::V,ahistama,molester
+1294,belästigen::V,ahistama,importuner
+1295,verbergen::V,peitma,cacher
+1296,verbergen::V,peitma,dissimuler
+1297,verbergen::V,varjama,cacher
+1298,verbergen::V,varjama,dissimuler
+1299,täuschen::V,petma,abuser
+1300,täuschen::V,petma,tromper
+1301,täuschen::V,tüssama,abuser
+1302,täuschen::V,tüssama,tromper
+1303,betrügen::V,petma,duper
+1304,betrügen::V,petma,frauder
+1305,betrügen::V,tüssama,duper
+1306,betrügen::V,tüssama,frauder
+1307,betrügen::V,truudust murtma,duper
+1308,betrügen::V,truudust murtma,frauder
+1309,töten::V,tapma,tuer
+1310,töten::V,surmama,tuer
+1311,wohnen::V,elama,habiter
+1312,wohnen::V,elama,demeurer
+1313,arbeiten::V,töötama,travailler
+1314,sammeln::V,koguma,collectionner
+1315,sammeln::V,korjama,collectionner
+1316,pflücken::V,noppima,cueillir
+1317,jagen::V,jahtima,chasser
+1318,fischen::V,kalastama,pêcher
+1319,fischen::V,kala püüdma,pêcher
+1320,fassen::V,püüdma,capturer
+1321,hüten::V,karjatama,garder
+1322,treiben::V,ajama,mener
+1323,anbinden::V,kinni siduma,attacher
+1324,füttern::V,söötma,faire manger
+1325,melken::V,lüpsma,traire
+1326,hacken::V,raiuma,fendre
+1327,hacken::V,lõhkuma,fendre
+1328,gießen::V,kastma,arroser
+1329,reifen::V,valmima,mûrir
+1330,zubereiten::V,valmistama,préparer
+1331,kochen::V,keetma,cuire
+1332,backen::V,küpsetama,cuire
+1333,braten::V,praadima,rôtir
+1334,umrühren::V,segama,remuer
+1335,stricken::V,kuduma,tricoter
+1336,nähen::V,õmblema,coudre
+1337,färben::V,värvima,teindre
+1338,reinigen::V,puhastama,nettoyer
+1339,waschen::V,pesema,laver
+1340,abwischen::V,puhtaks pühkima,essuyer
+1341,spülen::V,uhtma,rincer
+1342,fegen::V,pühkima,balayer
+1343,kehren::V,pühkima,balayer
+1344,baden::V,suplema,se baigner
+1345,baden::V,kümblema,se baigner
+1346,sich waschen::V,end pesema,se laver
+1347,ausziehen::V,käest võtma,ôter
+1348,ausziehen::V,käest võtma,enlever
+1349,ausziehen::V,jalast võtma,ôter
+1350,ausziehen::V,jalast võtma,enlever
+1351,ausziehen::V,seljast võtma,ôter
+1352,ausziehen::V,seljast võtma,enlever
+1353,anziehen::V,jalga panema,mettre
+1354,sich anziehen::V,riietuma,s'habiller
+1355,kämmen::V,kammima,peigner
+1356,schmücken::V,kaunistama,orner
+1357,schmücken::V,kaunistama,décorer
+1358,sagen::V,ütlema,dire
+1359,sprechen::V,rääkima,parler
+1360,sprechen::V,kõnelema,parler
+1361,reden::V,kõnelema,parler
+1362,sich unterhalten::V,vestlema,bavarder
+1363,sich unterhalten::V,vestlema,s'entretenir
+1364,fragen::V,küsima,demander
+1365,bitten::V,paluma,prier
+1366,erzählen::V,jutustama,raconter
+1367,mitteilen::V,teatama,communiquer
+1368,mitteilen::V,teada andma,communiquer
+1369,nennen::V,nimetama,nommer
+1370,nennen::V,nimetama,appeler
+1371,rufen::V,kutsuma,appeler
+1372,prahlen::V,hooplema,se vanter
+1373,übersetzen::V,tõlkima,traduire
+1374,denken::V,mõtlema,penser
+1375,glauben::V,uskuma,croire
+1376,bemerken::V,märkama,remarquer
+1377,bemerken::V,märkama,apercevoir
+1378,erkennen::V,ära tundma,reconnaître
+1379,begreifen::V,aru saama,concevoir
+1380,verstehen::V,mõistma,entendre
+1381,verstehen::V,mõistma,comprendre
+1382,lernen::V,õppima,apprendre
+1383,wissen::V,teadma,savoir
+1384,sich erinnern an::V,mäletama,se souvenir de
+1385,vergessen::V,unustama,oublier
+1386,messen::V,mõõtma,mesurer
+1387,zählen::V,loendama,compter
+1388,rechnen::V,arvutama,calculer
+1389,lesen::V,lugema,lire
+1390,malen::V,maalima,peindre
+1391,zeichnen::V,joonistama,dessiner
+1392,schreiben::V,kirjutama,écrire
+1393,besitzen::V,omama,posséder
+1394,kaufen::V,ostma,acheter
+1395,verkaufen::V,müüma,vendre
+1396,bezahlen::V,tasuma,payer
+1397,zahlen::V,maksma,payer
+1398,beherrschen::V,valitsema,dominer
+1399,beherrschen::V,valitsema,maîtriser
+1400,ertragen::V,taluma,tolérer
+1401,ertragen::V,taluma,supporter

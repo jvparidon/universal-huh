@@ -1,0 +1,1233 @@
+,Concept_ID,la,xal
+0,Auge::N,oculus,нүдн
+1,Ohr::N,auris,чикн
+2,Nase::N,nasus,хамр
+3,Mund::N,os,амн
+4,Zahn::N,dens,шүдн
+5,Zunge::N,lingua,келн
+6,Lippe::N,labrum,урл
+7,Wange::N,gena,халх
+8,Gesicht::N,vultus,нүр
+9,Stirn::N,frons,маңна
+10,Haar::N,capillus,үсн
+11,Schnurrbart::N,barba labri superioris,сахл
+12,Bart::N,barba,сахл
+13,Bart::N,barba,өргнә сахл
+14,Kinn::N,mentum,өргн
+15,Kiefer[Anatomie]::N,mala,өргн
+16,Kehle::N,iugulums,хол
+17,Hals::N,collum,күзүн
+18,Genick::N,cervices,гиҗг
+19,Kopf::N,caput,толһа
+20,Rücken::N,tergum,нурһн
+21,Bauch::N,venter,гесн
+22,Nabel::N,umbilicus,киисн
+23,Busen::N,sinus,көкн
+24,Brust::N,pectus,чееҗ
+25,Schulter::N,umerus,ээм
+26,Arm::N,bracchium,һар
+27,Ellenbogen::N,cubitum,тоха
+28,Hand::N,manus,баһлцг
+29,Handfläche::N,palma,альхн
+30,Finger::N,digitus,хурһн
+31,Finger::N,digitus,һарин хурһн
+32,Fingernagel::N,unguiculus,хумсн
+33,Nagel[Anatomie]::N,unguis,хумсн
+34,Zeh::N,digitus,хурһн
+35,Zeh::N,digitus,көлин хурһн
+36,Fuß::N,pes,тавг
+37,Ferse::N,calx,өскә
+38,Knie::N,genu,өвдг
+39,Oberschenkel::N,femur,һуй
+40,Bein::N,crus,көл
+41,Körper::N,corpus,махмуд
+42,Haut::N,cutis,арсн
+43,Haut::N,pellis,арсн
+44,Blut::N,sanguis,цусн
+45,Ader::N,vena,судцн
+46,Sehne::N,nervus,шүрүсн
+47,Knochen::N,os,ясн
+48,Gehirn::N,cerebrum,экн
+49,Herz::N,cor,зүркн
+50,Herz::N,animus,зүркн
+51,Magen::N,stomachus,гесн
+52,Leber::N,iecur,элкн
+53,Atem::N,spiritus,әмсхл
+54,Hunger::N,fames,харһнлһн
+55,Träne::N,lacrima,нульмсн
+56,Geschmack::N,sapor,амтн
+57,Geschmack::N,gustus,амтн
+58,Geruch::N,odor,үнр
+59,Schlaf::N,somnus,нөр
+60,Traum::N,somnium,зүүдн
+61,Himmel::N,caelum,теңгр
+62,Sonne::N,sol,нарн
+63,Mond::N,luna,сар
+64,Stern::N,sidus,одн
+65,Stern::N,stella,одн
+66,Luft::N,aer,аһар
+67,Wind::N,ventus,салькн
+68,Welle::N,unda,дольган
+69,Wasser::N,aqua,усн
+70,Stein::N,lapis,чолун
+71,Boden::N,solum,Һазр
+72,Erde::N,terra,Һазр
+73,Staub::N,pulvis,тоосн
+74,Rauch::N,fumus,утан
+75,Funke::N,scintilla,очн
+76,Feuer::N,ignis,һал
+77,Licht::N,lux,герл
+78,Licht::N,lumen,герл
+79,Schatten::N,umbra,сүүдр
+80,Wetter::N,caelum,теңгр
+81,Wetter::N,tempestas,теңгр
+82,Nebel::N,nebula,будн
+83,Wolke::N,nubes,үүлн
+84,Regen::N,imber,хур
+85,Regen::N,pluvia,хур
+86,Schnee::N,nix,цасн
+87,Eis::N,glacies,мөсн
+88,Frost::N,gelu,киитн
+89,Kälte::N,frigus,киитн
+90,Hitze::N,calor,халун
+91,Hitze::N,aestus,халун
+92,Raureif::N,pruina,цаң
+93,Raureif::N,pruina,кирү
+94,Regenbogen::N,arcus,солңһ
+95,Donner::N,tonitrus,оһтрһун дун
+96,Strömung::N,fluctus,урсхл
+97,Tropfen::N,gutta,дусал
+98,Schaum::N,spuma,көөсн
+99,Schmutz::N,sordes,кир
+100,Schmutz::N,squalor,кир
+101,See::N,lacus,нур
+102,Sumpf::N,palus,унул
+103,Moor::N,palus,улм
+104,Wiese::N,pratum,хадлһн
+105,Wald::N,silva,ө-модн
+106,Hügel::N,collis,толһа
+107,Anhöhe::N,specula,хамр
+108,Berg::N,mons,уул
+109,Gipfel::N,vertex,ора
+110,Höhle::N,caverna,хадин көндә
+111,Höhle::N,spelunca,хадин көндә
+112,Abhang::N,declivum,ташу
+113,Quelle::N,fons,булг
+114,Bach::N,rivus,һооҗур
+115,Fluss::N,flumen,һол
+116,Ufer::N,ripa,көвә
+117,Küste::N,litus,көвә
+118,Küste::N,litus,теңгсин көвә
+119,Festland::N,continens,хүүрә һазр
+120,Meer::N,mare,теңгс
+121,Bucht::N,sinus,цекә
+122,Bucht::N,sinus,теңгсин цекә
+123,Insel::N,insula,арл
+124,Blume::N,flos,цецг
+125,Gras::N,herba,ноһан
+126,Gras::N,gramen,ноһан
+127,Wurzel::N,radix,уңг
+128,Baum::N,arbor,модн
+129,Stamm::N,truncus,шилв
+130,Stamm::N,truncus,һол модн
+131,Rinde::N,cortex,көрсн
+132,Ast::N,ramus,ац
+133,Zweig::N,ramus,ац
+134,Blatt::N,folium,хамтхасн
+135,Birke::N,betulla,хусм модн
+136,Kiefer[Baum]::N,pinus,шар харһа
+137,Weide[Baum]::N,salix,удн
+138,Tanne::N,abies,җөөлн цаһан модн
+139,Horn::N,cornu,өвр
+140,Feder::N,penna,өрвлг
+141,Fell::N,pellis,арсн
+142,Flügel::N,ala,җивр
+143,Klaue::N,unguis,хумсн
+144,Kralle::N,unguis,тавг
+145,Schwanz::N,cauda,сүл
+146,Ei::N,ovum,өндгн
+147,Nest::N,nidus,үр
+148,Bau::N,cavum,нүкн
+149,Bau::N,latibulum,нүкн
+150,Tier::N,bestia,мал
+151,Herde::N,grex,сүрг мал
+152,Kuh::N,vacca,үкр
+153,Bulle::N,taurus,бух
+154,Pferd::N,equus,мөрн
+155,Schaf::N,ovis,хөн
+156,Schwein::N,sus,һаха
+157,Schwein::N,porcus,һаха
+158,Hund::N,canis,ноха
+159,Katze::N,felis,мис
+160,Bär::N,ursus,аю
+161,Eichhörnchen::N,sciurus,кермн
+162,Elch::N,alces,хандһа
+163,Fuchs::N,vulpes,арат
+164,Hase::N,lepus,туула
+165,Maus::N,mus,хулһн
+166,Wolf::N,lupus,чон
+167,Vogel::N,avis,шовун
+168,Schwarm::N,examen,зел
+169,Huhn::N,gallina,така
+170,Hahn::N,gallus,эр така
+171,Gans::N,anser,һалун
+172,Adler::N,aquila,һәрд
+173,Ente::N,anas,нуһсн
+174,Eule::N,ulula,һурвлһ
+175,Eule::N,noctua,һурвлһ
+176,Kranich::N,grus,тоһрун
+177,Krähe::N,cornix,шаазһа
+178,Kuckuck::N,cuculus,эргин хуцдг
+179,Schwan::N,olor,хун
+180,Schwan::N,cycnus,хун
+181,Fisch::N,piscis,заһсн
+182,Barsch::N,perca,шүрг
+183,Hecht::N,esox,цурх
+184,Schlange[Tier]::N,serpens,моһа
+185,Wurm::N,vermis,өтн
+186,Spinne::N,aranea,аралҗн
+187,Ameise::N,formica,шорһлҗн
+188,Laus::N,pediculus,бөөсн
+189,Mücke::N,culex,бөкүн
+190,Fliege::N,musca,батхн
+191,Schmetterling::N,papilio,эрвәкә
+192,Beere::N,baca,бөөлҗрһн
+193,Apfel::N,malum,альмн
+194,Pilz::N,fungus,теңгрин ки
+195,Zwiebel::N,cepa,мәңгрснә толһа
+196,Saat::N,seges,буудян экн
+197,Korn::N,granum,экн
+198,Heu::N,faenum,өвсн
+199,Schale::N,putamen,хальсн
+200,Grube::N,fovea,нүкн
+201,Falle::N,pedica,урх
+202,Falle::N,pedica,хавх
+203,Schlinge::N,laqueus,бүтү
+204,Spur::N,vestigium,мөр
+205,Asche::N,cinis,үмсн
+206,Dreck::N,lutum,бальчг
+207,Eisen::N,ferrum,төмр
+208,Gold::N,aurum,алтн
+209,Silber::N,argentum,мөңгн
+210,Silber::N,argentum,цаһан мөңгн
+211,Kohle::N,carbo,нүүрсн
+212,Glas::N,vitrum,шил
+213,Lehm::N,lutum,шавр
+214,Sand::N,arena,элсн
+215,Mensch::N,homo,күн
+216,Mensch::N,homo,күмн
+217,Mann::N,vir,эр
+218,Frau::N,mulier,күүкд күн
+219,Kind::N,puer,үрн
+220,Kind::N,infans,үрн
+221,Junge::N,puer,көвүн
+222,Mädchen::N,puella,бичкн күүкн
+223,Familie::N,familia,бүл
+224,Großvater::N,avus,өвк эцк
+225,Großvater::N,avus,наһц эцк
+226,Großmutter::N,avia,эмг эк
+227,Großmutter::N,avia,наһц эк
+228,Eltern::N,parentes,эк эцк хойр
+229,Vater::N,pater,эцк
+230,Mutter::N,mater,эк
+231,Sohn::N,filius,көвүн
+232,Tochter::N,filia,күүкн
+233,Bruder::N,frater,дү көвүн
+234,Schwester::N,soror,эгч
+235,Schwester::N,soror,дү күүкн
+236,Onkel::N,patruus,авһ
+237,Onkel::N,patruus,наһцх
+238,Onkel::N,avunculus,авһ
+239,Onkel::N,avunculus,наһцх
+240,Tante::N,amita,наһц эгч
+241,Ehemann::N,maritus,залу
+242,Ehefrau::N,uxor,гергн
+243,Freude::N,gaudium,байр
+244,Freude::N,laetitia,байр
+245,Gelächter::N,risus,инәдн
+246,Glück::N,felicitas,җирһл
+247,Glück::N,felicitas,сәәхн җирһл
+248,Kummer::N,aegritudo,зовлң
+249,Wunsch::N,voluntas,дурн
+250,Wunsch::N,desiderium,дурн
+251,Lust::N,libido,җилвтлһн
+252,Lust::N,voluptas,җилвтлһн
+253,Geist::N,mens,зөрг
+254,Geist::N,animus,зөрг
+255,Gedanke::N,sententia,ухан
+256,Gedächtnis::N,memoria,чееҗин тодлвр
+257,Verstand::N,ratio,ухан
+258,Verstand::N,ingenium,ухан
+259,Sinn::N,sensus,учр-утх
+260,Grund::N,causa,учр
+261,Grund::N,causa,шалтан
+262,Wahrheit::N,veritas,үнн
+263,Gespräch::N,sermo,күүндвүр
+264,Märchen::N,fabula,тууль
+265,Erzählung::N,fabula,келвр
+266,Erzählung::N,narratio,келвр
+267,Nachricht::N,nuntius,медүллһн
+268,Neuigkeit::N,novitas,зәңг
+269,Name::N,nomen,нерн
+270,Rätsel::N,aenigma,тәәлвртә тууль
+271,Rede::N,oratio,келлһн
+272,Sprache::N,lingua,келн
+273,Stimme::N,vox,дун
+274,Wort::N,verbum,үг
+275,Wort::N,vocabulum,үг
+276,Zeichen::N,signum,темдг
+277,Ruf::N,clamor,дуудлһн
+278,Lärm::N,strepitus,шууган
+279,Laut::N,sonus,ә
+280,Ton::N,sonus,дун
+281,Lied::N,carmen,дун
+282,Ruhe::N,quies,амулң
+283,Leute::N,homines,әмтн
+284,Volk::N,populus,улс
+285,Arbeit::N,labor,көдлмш
+286,Gast::N,hospes,гиич
+287,Gast::N,conviva,гиич
+288,Geschenk::N,munus,белг
+289,Spiel::N,ludus,наадн
+290,Gesellschaft::N,societas,олн
+291,Hilfe::N,auxilium,нөкд
+292,Hilfe::N,subsidium,нөкд
+293,Freund::N,amicus,иньг
+294,Kamerad::N,socius,үр
+295,Angelegenheit::N,res,керг
+296,Anzahl::N,numerus,то
+297,Art::N,genus,зүүл
+298,Stück::N,frustum,хусг
+299,Stück::N,fragmentum,хусг
+300,Teil::N,pars,хүв
+301,Hälfte::N,dimidium,өрәл
+302,Kreis::N,orbis,төгрг
+303,Kreis::N,circus,төгрг
+304,Kreuz::N,crux,кирс
+305,Linie::N,linea,зурасн
+306,Strich::N,lineamentum,татасн
+307,Abstand::N,intervallum,зә
+308,Entfernung::N,spatium,һазр
+309,Gegend::N,loca,һазр
+310,Gegend::N,regio,һазр
+311,Platz::N,locus,зә
+312,Ort::N,locus,бәәрн
+313,Seite::N,latus,тал
+314,Seite::N,latus,хаҗу
+315,Seite::N,latus,хәврһ
+316,Mitte::N,medium,дунд
+317,Gegenstand::N,res,юмн
+318,Sache::N,res,юмн
+319,Rand::N,margo,зах
+320,Kante::N,angulus,ирмәг
+321,Ecke::N,angulus,өнцг
+322,Spitze::N,cacumen,үзүр
+323,Ende::N,caput,үзүр
+324,Loch::N,foramen,хаһрха
+325,Winkel::N,angulus,булң
+326,Muster::N,exemplum,намч
+327,Größe::N,magnitudo,кемҗән
+328,Länge::N,longitudo,ут
+329,Höhe::N,altitudo,өндр
+330,Gewicht::N,pondus,күнд
+331,Gewicht::N,pondus,чиңнүр
+332,Menge::N,copia,ик
+333,Haufen::N,acervus,ова
+334,Reihe::N,ordo,зерг
+335,Reihe::N,ordo,зерглән
+336,Boot::N,navicula,оңһц
+337,Ruder::N,remus,хәәв
+338,Schlitten::N,sclodia,цан
+339,Ski::N,narta,лыҗ
+340,Lagerfeuer::N,ignis,костёр
+341,Last::N,onus,күнд
+342,Gang::N,cursus,йовлһн
+343,Schritt::N,gradus,ишкм
+344,Norden::N,septentriones,ар үзг
+345,Süden::N,meridies,өмн
+346,Süden::N,meridies,өмн үзг
+347,Westen::N,occidens,барун
+348,Westen::N,occidens,барун үзг
+349,Osten::N,oriens,зүн
+350,Osten::N,oriens,зүн үзг
+351,Holz::N,lignum,модн
+352,Brett::N,tabula,харһа
+353,Platte::N,lamina,хавтха чолун
+354,Stütze::N,adminiculum,тулг
+355,Stange::N,pertica,уньн
+356,Stock::N,baculum,модн
+357,Stab::N,scipio,шуург
+358,Rohr::N,tubus,турва
+359,Haus::N,aedes,гер
+360,Heim::N,domicilium,гер-бул
+361,Ofen::N,fornax,беш
+362,Fußboden::N,solum,девскр
+363,Tisch::N,mensa,ширә
+364,Stuhl::N,sella,стул
+365,Wiege::N,cunae,өлгә
+366,Wiege::N,cunae,дүүҗң
+367,Bett::N,lectus,орн
+368,Bett::N,lectus,орндг
+369,Regal::N,foruli,таг
+370,Regal::N,foruli,тәвц
+371,Kiste::N,cista,яршг
+372,Fenster::N,fenestra,терз
+373,Tür::N,ianua,үүдн
+374,Tor::N,porta,үүдн
+375,Tor::N,porta,өргн үүдн
+376,Tor::N,porta,хашан үүдн
+377,Zaun::N,saepes,хаша
+378,Dach::N,tectum,деевр
+379,Leiter::N,scalae,шат
+380,Leiter::N,scalae,давшур
+381,Besen::N,scopae,сәвүр
+382,Spaten::N,pala,күрз
+383,Schaufel::N,pala,совг
+384,Gabel::N,fuscinula,серә
+385,Löffel::N,coclear,ухр
+386,Messer::N,culter,утх
+387,Nagel::N,clavus,хадасн
+388,Netz::N,rete,гөлм
+389,Haken::N,hamus,дегә
+390,Griff::N,manubrium,иш
+391,Griff::N,manubrium,бәрүл
+392,Schloss::N,claustra,оньс
+393,Bild::N,tabula,зург
+394,Bild::N,pictura,зург
+395,Figur::N,statunculum,фигур
+396,Puppe::N,pupa,наадһа
+397,Beutel::N,sacculus,мишг
+398,Bündel::N,fascis,багла
+399,Bündel::N,fascis,боодһа
+400,Tasche::N,sacculus,сумк
+401,Eimer::N,situla,суулһ
+402,Deckel::N,operculum,бүркәсн
+403,Geschirr::N,vasa,сав
+404,Geschirr::N,vasa,сав-сарх
+405,Sack::N,saccus,мишг
+406,Tasse::N,pocillum,ааһ
+407,Topf::N,olla,кастрюль
+408,Kessel::N,aenum,хәәсн
+409,Essen::N,cena,зоогллһн
+410,Nahrung::N,cibus,теҗәл
+411,Nahrung::N,alimenta,теҗәл
+412,Speise::N,cibus,хот
+413,Fleisch::N,caro,махн
+414,Getreide::N,frumentum,хот болҗ эдлгддг цецгүдтә урһмл
+415,Brei::N,puls,хаш
+416,Brot::N,panis,өдмг
+417,Scheibe::N,frustum,зүсм
+418,Fett::N,pingue,өөкн
+419,Butter::N,butȳrum,тосн
+420,Öl::N,oleum,тосн
+421,Salz::N,sal,давсн
+422,Suppe::N,ius,шөлн
+423,Honig::N,mel,бал
+424,Milch::N,lac,үсн
+425,Tee::N,thea,цә
+426,Leder::N,corium,арсн
+427,Wolle::N,lana,утцн
+428,Wolle::N,lana,эд
+429,Stoff::N,textum,эд
+430,Nadel::N,acus,зүн
+431,Faden::N,filum,утцн
+432,Knopf::N,bulla,товч
+433,Knoten::N,nodus,зәңгдә
+434,Farbe::N,pigmentum,будг
+435,Kleidung::N,vestimenta,хувцн
+436,Kleidung::N,vestimenta,хувц-хунр
+437,Hemd::N,tunica,киилг
+438,Kragen::N,collare,зах
+439,Ärmel::N,manica,ханцн
+440,Hose::N,bracae,шалвур
+441,Gürtel::N,cingulum,бүс
+442,Mütze::N,pilleus,махла
+443,Schuh::N,calceus,башмгуд
+444,Stiefel::N,pero,һосн
+445,Stiefel::N,caliga,һосн
+446,Ring::N,anulus,билцг
+447,Band::N,redimiculum,лент
+448,Kamm::N,pecten,сам
+449,Spiegel::N,speculum,толь
+450,Riemen::N,lorum,бүс
+451,Schnur::N,linum,деесн
+452,Leine::N,retinaculum,бурнтг
+453,Leine::N,retinaculum,нохан көтлвр
+454,Decke::N,lodix,көнҗл
+455,Kissen::N,pulvinus,дер
+456,Tuch::N,velum,альчур
+457,Handtuch::N,mantele,полотенц
+458,Handtuch::N,mantele,һар-нүүрин альчур
+459,Kraft::N,vis,күчн
+460,Stärke::N,robur,чидл
+461,Gesundheit::N,valetudo,эрүл-менд
+462,Krankheit::N,morbus,өвчн
+463,Schmerz::N,dolor,өвдлһн
+464,Wunde::N,vulnus,шав
+465,Fieber::N,febris,безг
+466,Arznei::N,remedium,эм
+467,Brücke::N,pons,тагт
+468,Brunnen::N,puteus,худг
+469,Weide::N,pascua,малын идг
+470,Pfad::N,semita,цувг
+471,Weg::N,iter,хаалһ
+472,Straße::N,via,зам
+473,Dorf::N,vicus,хотн
+474,Stadt::N,urbs,балһсн
+475,Stadt::N,oppidum,балһсн
+476,Brief::N,epistula,бичг
+477,Buch::N,liber,дегтр
+478,Buchstabe::N,littera,үзг
+479,Zeitung::N,diurnum,газет
+480,Leben::N,vita,җирһл
+481,Tod::N,mors,үкл
+482,Tod::N,mors,өңгрлһн
+483,Grab::N,sepulcrum,оршалһна нүкн
+484,Kirche::N,ecclesia,чонҗ
+485,Sünde::N,peccatum,нүл
+486,Sünde::N,peccatum,килнц
+487,Gott::N,deus,бурхн
+488,Arbeiter::N,operarius,көдлмшч
+489,Chef::N,praefectus,толһач
+490,Meister::N,magister,урн
+491,Arzt::N,medicus,эмч
+492,Lehrer::N,magister,багш
+493,Geld::N,aes,мөңгн
+494,Geld::N,pecunia,мөңгн
+495,Geschäft::N,negotium,көдлмш
+496,Laden::N,taberna,лавк
+497,Preis::N,pretium,үн
+498,Ware::N,merx,эд-тавр
+499,Nutzen::N,utilitas,олз
+500,Reichtum::N,opes,зөөр
+501,Reichtum::N,divitiae,зөөр
+502,Welt::N,mundus,орчлң
+503,Welt::N,mundus,делкә
+504,Land::N,terra,орн-нутг
+505,Staat::N,res publica,государств
+506,König::N,rex,хан
+507,Macht::N,potestas,йосн
+508,Grenze::N,limes,меҗә
+509,Krieg::N,bellum,дән
+510,Feind::N,inimicus,дәәсн
+511,Gewalt::N,vis,күч һарһлһн
+512,Kampf::N,pugna,ноолдан
+513,Kampf::N,pugna,бәрлдлһн
+514,Bogen[Waffe]::N,arcus,саадг
+515,Pfeil::N,sagitta,сумн
+516,Gewehr::N,sclopetum,бу
+517,Fehler::N,error,алдг
+518,Lüge::N,mendacium,худл
+519,Schaden::N,damnum,хорлт
+520,Schaden::N,detrimentum,хорлт
+521,Unglück::N,miseria,гүрм
+522,Unglück::N,calamitas,гүрм
+523,Schuld::N,culpa,гем
+524,Schuld::N,culpa,буру
+525,Alter::N,aetas,насн
+526,Schluss::N,finis,чилгч
+527,Zeit::N,tempus,цаг
+528,Tag::N,dies,өдр
+529,Morgen::N,mane,өрүн
+530,Mittag::N,meridies,үд
+531,Abend::N,vesper,асхн
+532,Nacht::N,nox,сө
+533,Woche::N,septimana,долан хонг
+534,Monat::N,mensis,сар
+535,Jahr::N,annus,җил
+536,Frühling::N,ver,хавр
+537,Sommer::N,aestas,зун
+538,Herbst::N,autumnus,намр
+539,Winter::N,hiems,үвл
+540,Januar::N,Ianuarius,январь
+541,Februar::N,Februarius,февраль
+542,März::N,Martius,март
+543,März::N,Martius,моһа сар
+544,April::N,Aprilis,апрель
+545,Mai::N,Maius,май
+546,Juni::N,Iunius,июнь
+547,Juni::N,Iunius,мөчн сар
+548,Juli::N,Iulius,июль
+549,August::N,Augustus,август
+550,September::N,September,һаха сар
+551,Oktober::N,Octobris,октябрь
+552,November::N,Novembris,ноябрь
+553,November::N,Novembris,үкр сар
+554,Dezember::N,December,бар сар
+555,Montag::N,dies lunae,понедельник
+556,Dienstag::N,dies Martis ,вторник
+557,Mittwoch::N,dies Mercurii,среда
+558,Mittwoch::N,dies Mercurii,үлмҗ өдр
+559,Donnerstag::N,dies Iovis,четверг
+560,Donnerstag::N,dies Iovis,пүрвә өдр
+561,Freitag::N,dies Veneris,пятниц
+562,Samstag::N,dies Saturni,суббот
+563,Sonntag::N,dominicus,нарн өдр
+564,Sonntag::N,dominicus,воскресень
+565,Sonntag::N,dies solis,нарн өдр
+566,Sonntag::N,dies solis,воскресень
+567,groß::A,magnus,ик
+568,klein::A,parvus,бичкн
+569,lang::A,longus,ут
+570,kurz::A,brevis,оһтр
+571,breit::A,latus,өргн
+572,schmal::A,angustus,уутьхн
+573,dicht::A,densus,нигт
+574,dick[Gegenstand]::A,crassus,зузан
+575,dünn::A,tenuis,нимгн
+576,fein::A,subtilis,нәрхн
+577,fest::A,solidus,бат
+578,fest::A,stabilis,бат
+579,flach::A,planus,хавтха
+580,glatt::A,levis,тегш
+581,glatt::A,levis,тиньгр
+582,hart::A,durus,хату
+583,weich::A,mollis,җөөлн
+584,weich::A,mollis,җөөлкн
+585,rund::A,rotundus,төгрг
+586,spitz::A,acutus,шовһр
+587,scharf::A,acer,хурц
+588,stumpf::A,hebes,мука
+589,schwer::A,gravis,күнд
+590,schön::A,pulcher,сәәхн
+591,schön::A,formosus,сәәхн
+592,heiß::A,fervidus,халун
+593,warm::A,calidus,дулан
+594,kalt::A,frigidus,киитн
+595,kühl::A,frigidus,серүн
+596,frisch::A,recens,серүн
+597,feucht::A,umidus,чиигтә
+598,nass::A,madidus,чиигтә
+599,trocken::A,aridus,хагсу
+600,voll::A,plenus,дүүрң
+601,leer::A,vacuus,сул
+602,leer::A,vacuus,хоосн
+603,offen::A,apertus,секәтә
+604,geschlossen::A,clausus,хаалһата
+605,sauber::A,lautus,цевр
+606,schmutzig::A,sordidus,киртә
+607,roh::A,crudus,түүкә
+608,reif::A,maturus,болсн
+609,lecker::A,delicatus,әмтәхн
+610,süß::A,dulcis,әмтәхн
+611,bitter::A,amarus,һашун
+612,bitter::A,amarus,һашута
+613,bitter::A,acerbus,һашун
+614,bitter::A,acerbus,һашута
+615,sauer::A,acidus,ишклң
+616,hell::A,clarus,герлтә
+617,dunkel::A,obscurus,харңһу
+618,schwarz::A,niger,хар
+619,weiß::A,albus,цаһан
+620,rot::A,ruber,улан
+621,gelb::A,flavus,шар
+622,blau::A,caeruleus,көк
+623,grün::A,viridis,көк
+624,grau::A,canus,бор
+625,bunt::A,varius,алг
+626,bunt::A,varius,эрәтә
+627,billig::A,vilis,кимд
+628,teuer::A,carus,үнтә
+629,wertvoll::A,pretiosus,үнтә
+630,wertvoll::A,pretiosus,эрднь
+631,blind::A,caecus,сохр
+632,taub::A,surdus,дүлә
+633,kräftig::A,robustus,күчтә
+634,stark::A,firmus,чаңһ
+635,stark::A,validus,чаңһ
+636,schwach::A,debilis,күчн тату
+637,schwach::A,infirmus,күчн тату
+638,fett::A,crassus,тарһн
+639,schlank::A,procerus,эццн
+640,hübsch::A,pulcher,көркхн
+641,böse::A,improbus,уурта
+642,dumm::A,stultus,тенг
+643,dumm::A,stupidus,тенг
+644,faul::A,piger,залху
+645,fleißig::A,sedulus,кинән
+646,fleißig::A,sedulus,кинмһә
+647,geizig::A,avarus,ховдг
+648,klug::A,prudens,ухата
+649,geschickt::A,sollers,чадмг
+650,lieb::A,carus,эңкр
+651,lustig::A,iocosus,сергмҗтә
+652,lustig::A,iocosus,җирһлтә
+653,sanft::A,clemens,номһн
+654,hungrig::A,impastus,өлн
+655,hungrig::A,impastus,харһнсн
+656,krank::A,aeger,өвчтә
+657,krank::A,aeger,шалтгта
+658,nackt::A,nudus,нүцкн
+659,traurig::A,maestus,һундлта
+660,lebendig::A,vivus,әмд
+661,gut::A,bonus,сән
+662,schlecht::A,malus,му
+663,richtig::A,rectus,зөвтә
+664,schlimm::A,malus,җигшүртә
+665,wahr::A,verus,үнн
+666,wahr::A,verus,мөн
+667,alt::A,antiquus,хуучн
+668,neu::A,novus,шин
+669,ehemalig::A,pristinus,хуучн
+670,alt[Lebewesen]::A,vetus,көгшн
+671,jung::A,iuvenis,баһ
+672,arm::A,pauper,угатя
+673,reich::A,dives,байн
+674,bekannt::A,notus,таньл
+675,bekannt::A,notus,таньдг
+676,berühmt::A,celeber,туурсн
+677,berühmt::A,illustris,туурсн
+678,fremd::A,peregrinus,күүнә
+679,verschieden::A,varius,әдл биш
+680,verschieden::A,varius,йилһәтә
+681,nah::A,propinquus,өөрхн
+682,fern::A,longinquus,хол
+683,linker::A,sinister,зүн
+684,rechter::A,dexter,барун
+685,anderer::A,alius,талдан
+686,erster::A,primus,негдгч
+687,zweiter::A,secundus,хойрдгч
+688,dritter::A,tertius,һурвдгч
+689,letzter::A,ultimus,отхн
+690,allein::ADV,solum,һанцарн
+691,auf einmal::ADV,simul,нег дәкҗ
+692,zusammen::ADV,una,хамдан
+693,lange::ADV,diu,удан
+694,plötzlich::ADV,subito,генткн
+695,plötzlich::ADV,repente,генткн
+696,sofort::ADV,statim,дарунь
+697,später::ADV,postea,сүүлд
+698,jetzt::ADV,nunc,ода
+699,heute::ADV,hodie,эндр
+700,morgen::ADV,cras,маңһдур
+701,bald::ADV,mox,дарунь
+702,dann::ADV,deinde,дәкәд
+703,gestern::ADV,heri,өцклдүр
+704,einst::ADV,olim,нег саамд
+705,damals::ADV,tum,тиигхд
+706,danach::ADV,postea,тегәд
+707,vorher::ADV,antea,урд
+708,zuerst::ADV,primo,түрүләд
+709,einmal::ADV,semel,нег дәкҗ
+710,manchmal::ADV,interdum,зәрмдән
+711,oft::ADV,saepe,хара биш
+712,oft::ADV,saepe,хатяр биш
+713,oft::ADV,saepe,дару-дарунь
+714,immer::ADV,semper,оньдинд
+715,niemals::ADV,numquam,кезә чмгн биш
+716,hier::ADV,hic,энд
+717,hier::ADV,hic,энүнд
+718,hierhin::ADV,huc,нааран
+719,von hier::ADV,hinc,эндәс
+720,dort::ADV,ibi,тенд
+721,dorthin::ADV,eo,тиигән
+722,geradeaus::ADV,recte,шуд
+723,vorwärts::ADV,porro,уралан
+724,rückwärts::ADV,retro,гедргән
+725,zurück::ADV,retro,хәрү
+726,unten::ADV,infra,дор
+727,hinab::ADV,pessum,дор
+728,hinab::ADV,pessum,доракшан
+729,oben::ADV,supra,деер
+730,hinauf::ADV,sursum,өөдән
+731,hinauf::ADV,sursum,деер
+732,überall::ADV,ubique,альд болв чигн
+733,nicht::ADV,non,эс
+734,nicht::ADV,non,биш
+735,nicht::ADV,non,бичә
+736,ein wenig::ADV,paulum,баахн
+737,ein wenig::ADV,paulum,баахнар
+738,kaum::ADV,vix,әрә
+739,kaum::ADV,aegre,әрә
+740,sehr::ADV,valde,йир
+741,sehr::ADV,magnopere,йир
+742,so::ADV,ita,иигҗ
+743,noch::ADV,etiam,ода чигн
+744,nur::ADV,solum,һанцхн
+745,nur::ADV,tantum,һанцхн
+746,schon::ADV,iam,одх
+747,wieder::ADV,rursus,бас
+748,vergebens::ADV,frustra,киидән
+749,vor::PRP,ante,урд
+750,hinter::PRP,post,ца
+751,unter::PRP,sub,дор
+752,durch::PRP,per,ивт
+753,durch::PRP,per,дундаһур
+754,neben::PRP,iuxta,хаҗуд
+755,zwischen::PRP,inter,хоорнд
+756,wegen::PRP,propter,көлтә
+757,wegen::PRP,propter,деерәс
+758,dies::PRN,hoc,эн
+759,das::PRN,id,тер
+760,alles::PRN,omnia,цуһар
+761,ich::PRN,ego,би
+762,du::PRN,tu,чи
+763,er::PRN,is,тер
+764,er::PRN,ille,тер
+765,wir::PRN,nos,мадн
+766,ihr::PRN,vos,та
+767,sie::PRN,ii,тедн
+768,sie::PRN,illi,тедн
+769,was::FPRN,quid,юн
+770,wer::FPRN,quis,кен
+771,wo::FADV,ubi,хама
+772,wohin::FADV,quo,хамаран
+773,wie::FADV,quomodo,яһҗ
+774,wie::FADV,quomodo,яһад
+775,warum::FADV,cur,юңгад
+776,wieviel::FNUM,quantum,кедү
+777,eins::NUM,unus,негн
+778,zwei::NUM,duo,хойр
+779,drei::NUM,tres,һурвн
+780,vier::NUM,quattuor,дөрвн
+781,fünf::NUM,quinque,тавн
+782,sechs::NUM,sex,зурһан
+783,sieben::NUM,septem,долан
+784,acht::NUM,octo,нәәмн
+785,neun::NUM,novem,йисн
+786,zehn::NUM,decem,арвн
+787,elf::NUM,undecim,арвн негн
+788,zwölf::NUM,duodecim,арвн хойр
+789,zwanzig::NUM,viginti,хөрн
+790,dreißig::NUM,triginta,һучн
+791,vierzig::NUM,quadraginta,дөчн
+792,fünfzig::NUM,quinquaginta,тәвн
+793,sechzig::NUM,sexaginta,җирн
+794,siebzig::NUM,septuaginta,далн
+795,achtzig::NUM,octoginta,найн
+796,neunzig::NUM,nonaginta,йирн
+797,hundert::NUM,centum,зун
+798,tausend::NUM,mille,миңһн
+799,und::CNJ,et,болн
+800,und::CNJ,-que,болн
+801,oder::CNJ,vel,эс гиҗ
+802,oder::CNJ,vel,эс гихлә
+803,stehen::V,stare,зогсх
+804,sitzen::V,sedere,суух
+805,liegen::V,iacere,кевтх
+806,hängen::V,pendere,өлгәтә бәәх
+807,werden::V,fieri,болх
+808,passieren::V,accidere,болх
+809,beginnen::V,incipere,эклх
+810,enden::V,finem habere,төгсх
+811,wechseln::V,mutari,хүврх
+812,aufgehen[Sonne]::V,oriri,һарх
+813,untergehen[Sonne]::V,occidere,орх
+814,untergehen[Sonne]::V,occidere,сүүрлх
+815,scheinen[Sonne]::V,lucere,герлтх
+816,donnern::V,tonare,күрҗңнх
+817,wehen::V,flare,сальклх
+818,strömen::V,fluere,һооҗх
+819,fließen::V,manare,урсх
+820,sich drehen::V,torqueri,эргх
+821,schwanken::V,vacillare,дәәвлх
+822,schwingen::V,vibrare,нәәхлх
+823,fallen::V,cadere,унх
+824,fallen::V,cadere,киисх
+825,brennen::V,ardere,шатх
+826,rauchen::V,fumare,ута һарһх
+827,regnen::V,pluere,орх
+828,gefrieren::V,congelari,мөстх
+829,tauen::V,rorare,хәәлх
+830,schmelzen::V,liquescere,хәәлх
+831,schmelzen::V,liquescere,хәәлгдх
+832,trocknen::V,arescere,эврх
+833,sieden::V,fervere,буслх
+834,faulen::V,putescere,үмкәрх
+835,verfaulen::V,putescere,илҗрх
+836,reißen::V,scindi,тасрх
+837,versinken::V,mergi,чивх
+838,vergehen::V,praeterire,болх
+839,erscheinen::V,apparere,һарх
+840,verschwinden::V,discedere,уга болх
+841,sinken::V,labi,татгдх
+842,abnehmen::V,deminui,хасгдх
+843,zunehmen::V,augeri,өсх
+844,steigen::V,augescere,немх
+845,wachsen::V,crescere,өсх
+846,wachsen::V,crescere,урһх
+847,glänzen::V,splendere,гилвкх
+848,funkeln::V,micare,цәклх
+849,lärmen::V,strepere,шууглдх
+850,läuten::V,sonare,хоңх
+851,klingeln::V,tinnire,җиңнулх
+852,klirren::V,crepare,җиңнх
+853,brausen::V,saevire,догшрхх
+854,rauschen::V,crepare,сарҗңнх
+855,klingen::V,sonare,ә һарх
+856,bellen::V,latrare,хуцх
+857,heulen::V,ululare,уульх
+858,blasen::V,flare,үләх
+859,pfeifen::V,sibilare,ишкрх
+860,schreien::V,clamare,хәәкрх
+861,stöhnen::V,gemere,түңшх
+862,zittern::V,tremere,дагҗннх
+863,zittern::V,trepidare,дагҗннх
+864,leben::V,vivere,бәәх
+865,geboren werden::V,nasci,төрх
+866,atmen::V,spirare,әмсхлх
+867,trinken::V,bibere,уух
+868,essen::V,edere,идх
+869,schlucken::V,devorare,зальгх
+870,müde werden::V,fatigari,көшх
+871,einschlafen::V,obdormiscere,унтх
+872,schlafen::V,dormire,нөөрсх
+873,aufwachen::V,expergisci,серх
+874,aufstehen::V,exsurgere,босх
+875,sich erholen::V,se reficere,амрх
+876,krank werden::V,aegrescere,гемтх
+877,krank sein::V,aegrotare,шалтглх
+878,schmerzen::V,dolere,өвдх
+879,husten::V,tussire,ханях
+880,genesen::V,convalescere,эдгх
+881,sterben::V,mori,үкх
+882,sterben::V,mori,өңгрх
+883,umkommen::V,perire,үкх
+884,sich bewegen::V,se movere,көдлх
+885,sich bewegen::V,se movere,көндрх
+886,sich rühren::V,micare,көндрх
+887,sich erheben::V,surgere,босх
+888,sich setzen::V,considere,суух
+889,hinfallen::V,cadere,унх
+890,hinfallen::V,cadere,киисх
+891,laufen::V,vadere,йовх
+892,schreiten::V,gradi,алхх
+893,spazierengehen::V,ambulare,сергҗ йовх
+894,eilen::V,properare,шулудх
+895,sich beeilen::V,festinare,адһх
+896,sich beeilen::V,festinare,шамдх
+897,sausen::V,currere,хурдлх
+898,sausen::V,currere,йир_хурдар_гүүх
+899,sausen::V,currere,йир_хурдар_йовх
+900,rennen::V,currere,гүүх
+901,springen::V,salire,һәрәдх
+902,klettern::V,niti,давшх
+903,schaukeln::V,oscillare,дүүдңндх
+904,kriechen::V,repere,мөлкх
+905,kriechen::V,serpere,мөлкх
+906,schwimmen::V,nare,усчх
+907,schwimmen::V,natare,усчх
+908,tauchen::V,mergere,булхх
+909,rudern::V,remigare,хәәвдх
+910,fahren::V,vehi,йовх
+911,fliegen::V,volare,нисх
+912,gehen::V,ire,йовх
+913,gehen::V,vadere,йовх
+914,weggehen::V,abire,йовх
+915,weggehen::V,abire,одх
+916,weggehen::V,abire,һарх
+917,weggehen::V,abire,мөрлх
+918,weggehen::V,discedere,йовх
+919,weggehen::V,discedere,одх
+920,weggehen::V,discedere,һарх
+921,weggehen::V,discedere,мөрлх
+922,abfahren::V,proficisci,мордх
+923,anhalten::V,consistere,зогсх
+924,hineingehen::V,inire,орх
+925,hineingehen::V,ingredi,орх
+926,eintreten::V,intrare,орх
+927,kommen::V,venire,ирх
+928,ankommen::V,advenire,ирх
+929,zurückkommen::V,revenire,орх
+930,bleiben::V,manere,бәәх
+931,warten::V,opperiri,күләх
+932,erwarten::V,opperiri,күләх
+933,erwarten::V,expectare,күләх
+934,suchen::V,quaerere,хәәх
+935,finden::V,reperire,олх
+936,versuchen::V,conari,седх
+937,versuchen::V,temptare,седх
+938,vorbereiten::V,parare,белдх
+939,lieben::V,amare,дурлх
+940,mögen::V,amare,таассгдх
+941,lachen::V,ridere,инәх
+942,rühren::V,commovere,уйрах
+943,weinen::V,flere,уульх
+944,schimpfen::V,increpare,харах
+945,sich ärgern::V,indignari,уурлх
+946,sich fürchten::V,vereri,әәх
+947,fürchten::V,timere,әәх
+948,fürchten::V,timere,сүрдх
+949,fliehen::V,fugere,зулх
+950,flüchten::V,effugere,орһх
+951,flüchten::V,effugere,зулх
+952,sehen::V,videre,үзх
+953,anschauen::V,aspectare,харх
+954,ansehen::V,spectare,хәләх
+955,ansehen::V,spectare,үзх
+956,hören::V,audire,соңсх
+957,zuhören::V,auscultare,соңсх
+958,probieren::V,gustare,амсх
+959,riechen::V,olfacere,үнрчлх
+960,fühlen::V,sentire,медх
+961,scheinen::V,videri,болҗ медгдх
+962,scheinen::V,videri,миниһәр болхла
+963,scheinen::V,videri,болад бәәх
+964,zu sehen sein::V,conspici,үзгдх
+965,vernehmen::V,comperire,соңсх
+966,frieren::V,algere,даарх
+967,tun::V,facere,кех
+968,können::V,posse,чадх
+969,wollen::V,velle,дурлх
+970,anfangen::V,incipere,эклх
+971,beenden::V,finire,дуусх
+972,aufhören::V,desistere,уурх
+973,gelingen::V,contingere,бүтх
+974,gelingen::V,contingere,күцәх
+975,geraten::V,evenire,болх
+976,öffnen::V,aperire,секх
+977,schließen::V,claudere,хаах
+978,stellen::V,sistere,тәвх
+979,setzen::V,ponere,суулһх
+980,legen::V,ponere,тәвх
+981,berühren::V,tangere,көндәх
+982,verbinden::V,iungere,боох
+983,bedecken::V,tegere,хучх
+984,bedecken::V,tegere,бүркх
+985,bedecken::V,operire,хучх
+986,bedecken::V,operire,бүркх
+987,aufhängen::V,suspendere,өлгх
+988,anzünden::V,accendere,асах
+989,anzünden::V,accendere,шатах
+990,anzünden::V,inflammare,асах
+991,anzünden::V,inflammare,шатах
+992,aufheben::V,tollere,өөдән өргх
+993,zurücklassen::V,relinquere,үлдәх
+994,verlieren::V,perdere,геех
+995,verlieren::V,amittere,геех
+996,fallen lassen::V,dimittere,алдх
+997,machen::V,facere,кех
+998,herstellen::V,fabricare,кех
+999,bauen::V,construere,тосхх
+1000,reparieren::V,reparare,ясх
+1001,verbessern::V,emendare,сәәрүлх
+1002,ändern::V,mutare,хүврәх
+1003,graben::V,fodere,малтх
+1004,beugen::V,flectere,нуһлх
+1005,biegen::V,curvare,матилһх
+1006,drehen::V,torquere,эргүлх
+1007,wenden::V,vertere,көмрх
+1008,wenden::V,vertere,эргүлх
+1009,umdrehen::V,convertere,эргүлх
+1010,heben::V,tollere,өргх
+1011,heben::V,tollere,деер өргх
+1012,hochheben::V,levare,өргх
+1013,ergreifen::V,capessere,бәрх
+1014,halten::V,tenere,бәрх
+1015,drücken::V,premere,шахх
+1016,schieben::V,promovere,түлкх
+1017,kratzen::V,radere,мааҗх
+1018,lecken::V,lambere,долах
+1019,beißen::V,mordere,хазх
+1020,abreißen::V,avellere,таслх
+1021,abschneiden::V,desecare,тәәрх
+1022,binden::V,ligare,боох
+1023,stecken::V,inserere,шаах
+1024,stecken::V,inserere,хатхх
+1025,brechen::V,rumpere,хамхлх
+1026,klopfen::V,pultare,цокх
+1027,hauen::V,ferire,цокх
+1028,kleben::V,agglutinare,наах
+1029,reiben::V,terere,зүлгх
+1030,streichen::V,oblinere,наах
+1031,streichen::V,oblinere,лашх
+1032,streichen::V,oblinere,түркх
+1033,schleifen::V,acuere,хурцлх
+1034,schneiden::V,secare,хәәчлх
+1035,rütteln::V,quassare,дәәвлүлх
+1036,schütteln::V,quatere,сегсрх
+1037,schwenken::V,ventilare,дайлх
+1038,schütten::V,fundere,кех
+1039,füllen::V,complere,дүүргх
+1040,einwickeln::V,involvere,орах
+1041,tragen::V,ferre,зөөх
+1042,tragen::V,portare,зөөх
+1043,schleppen::V,pertrahere,чирх
+1044,ziehen::V,trahere,татх
+1045,aufbewahren::V,asservare,хадһлх
+1046,werfen::V,iacere,хайх
+1047,fangen::V,capere,бәрх
+1048,fangen::V,capere,хавлх
+1049,packen::V,capessere,бәрх
+1050,verstecken::V,abdere,дүрх
+1051,verstecken::V,abdere,бултулх
+1052,teilen::V,partiri,хувах
+1053,teilen::V,dividere,хувах
+1054,schicken::V,mittere,илгәх
+1055,bringen::V,apportare,авч ирх
+1056,hinzufügen::V,addere,немх
+1057,bekommen::V,adipisci,авх
+1058,erhalten::V,accipere,авх 
+1059,nehmen::V,sumere,авх
+1060,wählen::V,eligere,шүүх
+1061,auswählen::V,deligere,шүүх
+1062,bewahren::V,conservare,хадһлх
+1063,bewahren::V,conservare,кевтнь үлдәх
+1064,bewahren::V,conservare,кевтнь бәәлһх
+1065,behindern::V,impedire,харшлх
+1066,verderben::V,corrumpere,үрәх
+1067,beschädigen::V,laedere,эвдх
+1068,zerbrechen::V,rumpere,күүлх
+1069,zerbrechen::V,rumpere,хамхлх
+1070,zerbrechen::V,frangere,күүлх
+1071,zerbrechen::V,frangere,хамхлх
+1072,zerreißen::V,discindere,шуучх
+1073,zerstören::V,delere,эвдх
+1074,verbrennen::V,urere,шатах
+1075,verbrennen::V,cremare,шатах
+1076,geben::V,dare,өгх
+1077,reichen::V,praebere,өгх
+1078,schenken::V,donare,белглх
+1079,schenken::V,largiri,белглх
+1080,versprechen::V,polliceri,амлх
+1081,versprechen::V,promittere,амлх
+1082,loben::V,laudare,магтх
+1083,küssen::V,osculari,үмсх
+1084,zudecken::V,tegere,бүркх
+1085,wecken::V,excitare,серүлх
+1086,zeigen::V,monstrare,үзүлх
+1087,führen::V,ducere,көтлх
+1088,lehren::V,docere,заах
+1089,lehren::V,docere,сурһх
+1090,unterrichten::V,instituere,сурһх
+1091,unterrichten::V,instituere,багшлх
+1092,aufziehen::V,nutrire,өскәх
+1093,leiten::V,ducere,һардх
+1094,leiten::V,ducere,толһалх
+1095,antreiben::V,incitare,шамдах
+1096,lassen::V,iubere,күч үзүлх
+1097,einladen::V,invitare,үрх
+1098,vereinigen::V,coniungere,хамцулх
+1099,besuchen::V,visere,одх
+1100,treffen::V,convenire,харһх
+1101,sich versammeln::V,convenire,цуглрх
+1102,sich versammeln::V,convenire,хурх
+1103,spielen::V,ludere,наадх
+1104,singen::V,cantare,дуулх
+1105,tanzen::V,saltare,биилх
+1106,sich trennen::V,digredi,хаһцх
+1107,sich trennen::V,discedere,хаһцх
+1108,verlassen::V,deserere,хайх
+1109,verlassen::V,relinquere,хайх
+1110,retten::V,servare,әм аврх
+1111,retten::V,servare,әәмшгәс харсх
+1112,bewachen::V,custodire,харх
+1113,bewachen::V,custodire,манх
+1114,schützen::V,tueri,харсх
+1115,schützen::V,tutari,харсх
+1116,verteidigen::V,defendere,харсх
+1117,sich schlagen::V,luctari,гүвдлдх
+1118,schießen::V,iaculari,хах
+1119,siegen::V,vincere,диилх
+1120,ärgern::V,irritare,уурлулх
+1121,schlagen::V,ferire,цокх
+1122,schlagen::V,ferire,гүвдх
+1123,treten::V,calcare,
+1124,stechen::V,pungere,хатхх
+1125,stoßen::V,tundere,түлкчкх
+1126,stehlen::V,furari,хулхалх
+1127,stören::V,turbare,һә болх
+1128,belästigen::V,obtundere,амр эс өгх
+1129,verbergen::V,celare,нуух
+1130,verbergen::V,celare,бултулх
+1131,verbergen::V,occultare,нуух
+1132,verbergen::V,occultare,бултулх
+1133,täuschen::V,fallere,меклх
+1134,betrügen::V,fraudare,меклх
+1135,betrügen::V,fraudare,мек һарһх
+1136,töten::V,necare,алх
+1137,töten::V,caedere,алх
+1138,wohnen::V,habitare,бәәх
+1139,arbeiten::V,laborare,көдлх
+1140,sammeln::V,colligere,түүх
+1141,pflücken::V,carpere,түүх
+1142,pflücken::V,carpere,хурах
+1143,jagen::V,venari,аңнх
+1144,jagen::V,venari,аңһучлх
+1145,fischen::V,piscari,заһс аңнх
+1146,fassen::V,capere,бәрх
+1147,hüten::V,custodire,хәрүлх
+1148,treiben::V,agere,туух
+1149,anbinden::V,alligare,уйх
+1150,füttern::V,nutrire,теҗәх
+1151,melken::V,mulgere,саах
+1152,hacken::V,findere,чавчх
+1153,gießen::V,rigare,услх
+1154,reifen::V,maturescere,болх
+1155,reifen::V,maturescere,болвсрх
+1156,zubereiten::V,apparare,белдх
+1157,kochen::V,coquere,чанх
+1158,kochen::V,coquere,болһх
+1159,backen::V,coquere,болһх
+1160,braten::V,torrere,хуурх
+1161,umrühren::V,commovere,самрх
+1162,stricken::V,texere,өлгх
+1163,nähen::V,suere,уйх
+1164,färben::V,tingere,будх
+1165,reinigen::V,purgare,цеврлх
+1166,waschen::V,lavare,уһах
+1167,abwischen::V,abstergere,арчх
+1168,spülen::V,perluere,зәәлх
+1169,fegen::V,verrere,сәвүрдх
+1170,kehren::V,purgare,сәвүрдх
+1171,baden::V,lavari,өөмх
+1172,sich waschen::V,lavari,уһах
+1173,sich waschen::V,lavari,бийән уһаҗ
+1174,ausziehen::V,exuere,тәәлх
+1175,anziehen::V,induere,өмсх
+1176,sich anziehen::V,vestiri,хувцлх
+1177,kämmen::V,pectere,самлх
+1178,schmücken::V,ornare,чимх
+1179,schmücken::V,ornare,кеерүлх
+1180,schmücken::V,decorare,чимх
+1181,schmücken::V,decorare,кеерүлх
+1182,sagen::V,dicere,келх
+1183,sprechen::V,fari,келх
+1184,reden::V,loqui,күүндх
+1185,reden::V,loqui,күр_кех
+1186,sich unterhalten::V,colloqui,күүндх
+1187,sich unterhalten::V,disputare,күүндх
+1188,fragen::V,rogare,сурх
+1189,fragen::V,quaerere,сурх
+1190,bitten::V,orare,эрх
+1191,bitten::V,rogare,эрх
+1192,erzählen::V,narrare,келх
+1193,erzählen::V,narrare,келҗ өгх
+1194,mitteilen::V,communicare,медүлх
+1195,nennen::V,appellare,нерәдх
+1196,nennen::V,appellare,нер өгх
+1197,rufen::V,vocare,дуудх
+1198,prahlen::V,gloriari,көөрх
+1199,übersetzen::V,vertere,орчулх
+1200,denken::V,cogitare,санх
+1201,glauben::V,credere,шүтх
+1202,glauben::V,credere,нәәлх
+1203,bemerken::V,animadvertere,темдглх
+1204,erkennen::V,cognoscere,таньх
+1205,erkennen::V,cognoscere,медх
+1206,begreifen::V,comprehendere,медх
+1207,verstehen::V,intellegere,соңсх
+1208,lernen::V,discere,сурх
+1209,wissen::V,scire,медх
+1210,sich erinnern an::V,meminisse,санх
+1211,vergessen::V,oblivisci,мартх
+1212,messen::V,metiri,кемҗәлх
+1213,zählen::V,numerare,тоолх
+1214,rechnen::V,reri,тоолх
+1215,rechnen::V,calculare,тоолх
+1216,lesen::V,legere,умшх
+1217,malen::V,pingere,зурх
+1218,zeichnen::V,scribere,зурх
+1219,schreiben::V,scribere,бичх
+1220,besitzen::V,possidere,эзлх
+1221,kaufen::V,emere,хулдҗ авх
+1222,verkaufen::V,vendere,хулдх
+1223,verkaufen::V,vendere,гүүлгх
+1224,bezahlen::V,pendere,өгх
+1225,zahlen::V,solvere,өгх
+1226,beherrschen::V,regere,эзлх
+1227,beherrschen::V,imperare,эзлх
+1228,ertragen::V,tolerare,даах
+1229,ertragen::V,sustinere,даах
+1230,wünschen::V,,сә хәәх
+1231,wiegen::V,,саатулх

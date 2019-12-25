@@ -1,0 +1,1280 @@
+,Concept_ID,el,az
+0,Auge::N,μάτι,göz
+1,Auge::N,οφθαλμός,göz
+2,Ohr::N,αυτί,qulaq
+3,Nase::N,μύτη,burun
+4,Mund::N,στόμα,ağız
+5,Zahn::N,δόντι,diş
+6,Zunge::N,γλώσσα,dil
+7,Lippe::N,χείλος,dodaq
+8,Wange::N,παρειά,yanaq
+9,Wange::N,μάγουλο,yanaq
+10,Gesicht::N,πρόσωπο,üz
+11,Stirn::N,μέτωπο,alın
+12,Haar::N,μαλλιά,saç
+13,Schnurrbart::N,μουστάκι,bığ
+14,Bart::N,γένια,saqqal
+15,Kinn::N,πιγούνι,çənə
+16,Kiefer[Anatomie]::N,σαγόνι,çənə
+17,Kehle::N,λαρύγγι,boğaz
+18,Hals::N,λαιμός,boyun
+19,Genick::N,σβέρκος,ənsə
+20,Kopf::N,κεφάλι,baş
+21,Rücken::N,ράχη,bel
+22,Bauch::N,κοιλιά,qarın
+23,Nabel::N,αφαλός,göbək
+24,Busen::N,στήθος,məmə
+25,Brust::N,στήθος,döş
+26,Schulter::N,ώμος,çiyin
+27,Arm::N,χέρι,qol
+28,Arm::N,μπράτςο,qol
+29,Ellenbogen::N,αγκώνας,dirsək
+30,Hand::N,χέρι,əl
+31,Handfläche::N,παλάμη,ovuc
+32,Finger::N,δάχτυλο,barmaq
+33,Fingernagel::N,νύχι,barmaq dırnağı
+34,Nagel[Anatomie]::N,νύχι,dırnak
+35,Zeh::N,δάχτυλο του ποδιού,ayaq barmağı
+36,Fuß::N,πόδι,ayaq
+37,Ferse::N,φτέρνα,daban
+38,Knie::N,γόνατο,diz
+39,Oberschenkel::N,μηρός,bud
+40,Bein::N,πόδι,qıç
+41,Körper::N,σώμα,əndam
+42,Körper::N,κορμί,əndam
+43,Haut::N,πετσί,dəri
+44,Blut::N,αίμα,qan
+45,Ader::N,φλέβα,damar
+46,Sehne::N,νεύρο,vətər
+47,Sehne::N,τένοντας,vətər
+48,Knochen::N,οστό,sümük
+49,Knochen::N,κόκκαλο,sümük
+50,Gehirn::N,μυαλό,beyin
+51,Gehirn::N,εγκέφαλος,beyin
+52,Herz::N,καρδιά,ürək
+53,Magen::N,στομάχι,mədə
+54,Leber::N,ήπαρ,qara ciyər
+55,Leber::N,συκωτί,qara ciyər
+56,Atem::N,αναπνοή,nəfəs
+57,Hunger::N,πείνα,aclıq
+58,Träne::N,δάκρυ,göz yaşı
+59,Geschmack::N,γεύση,tam
+60,Geschmack::N,γεύση,ləzzət
+61,Geruch::N,οσμή,qoxu
+62,Geruch::N,μυρωδία,qoxu
+63,Schlaf::N,ύπνος,yuxu
+64,Traum::N,όνειρο,röya
+65,Himmel::N,ουρανός,göy
+66,Himmel::N,ουρανός,səma
+67,Sonne::N,ήλιος,günəş
+68,Mond::N,σελήνη,ay
+69,Mond::N,φεγγάρι,ay
+70,Stern::N,άστρο,ulduz
+71,Stern::N,αστέρι,ulduz
+72,Luft::N,αέρας,hava
+73,Wind::N,αέρας,yel
+74,Wind::N,αέρας,külək
+75,Wind::N,άνεμος,yel
+76,Wind::N,άνεμος,külək
+77,Welle::N,κύμα,dalğa
+78,Wasser::N,νερό,su
+79,Stein::N,πέτρα,daş
+80,Boden::N,χώμα,yer
+81,Boden::N,χώμα,zəmin
+82,Erde::N,γη,yer torpaq
+83,Staub::N,σκόνη,toz
+84,Rauch::N,καπνός,tüstü
+85,Funke::N,σπίθα,qığılcım
+86,Funke::N,σπινθήρας,qığılcım
+87,Feuer::N,φωτιά,od
+88,Licht::N,φως,işıq
+89,Schatten::N,σκιά,kölgə
+90,Schatten::N,ίσκιος,kölgə
+91,Wetter::N,καιρός,hava
+92,Nebel::N,ομίχλη,duman
+93,Wolke::N,σύννεφο,bulud
+94,Regen::N,βροχή,yağış
+95,Regen::N,βροχή,yağmur
+96,Schnee::N,χιόνι,qar
+97,Eis::N,πάγος,buz
+98,Frost::N,παγωνία,ayaz
+99,Kälte::N,κρύο,soyuq
+100,Kälte::N,ψύχος,soyuq
+101,Hitze::N,ζέστη,coşğunluq
+102,Raureif::N,πάχνη,qırov
+103,Regenbogen::N,ουράνιο τόξο,göy qurşağı
+104,Donner::N,βροντή,göy gurultusu
+105,Strömung::N,ρεύμα,axın
+106,Tropfen::N,στάλα,damcı
+107,Schaum::N,αφρός,köpük
+108,Schmutz::N,βρωμιά,çamır
+109,See::N,λίμνη,göl
+110,Sumpf::N,βάλτος,bataqlıq
+111,Moor::N,έλος,bataqlıq
+112,Wiese::N,λιβάδι,çəmən
+113,Wald::N,δάσος,meşə
+114,Hügel::N,λόφος,təpə
+115,Anhöhe::N,ύψωμα,təpə
+116,Berg::N,όρος,dağ
+117,Berg::N,βουνό,dağ
+118,Gipfel::N,κορυφή,zirvə
+119,Höhle::N,σπηλιά,mağara
+120,Abhang::N,πλαγιά,yamac
+121,Quelle::N,πηγή,bulaq
+122,Quelle::N,βρύση,bulaq
+123,Bach::N,ρυάκι,kiçik çay
+124,Fluss::N,ποτάμι,çay
+125,Fluss::N,ποταμός,çay
+126,Ufer::N,όχθη,kənar
+127,Küste::N,ακτή,sahil
+128,Küste::N,ακρογιαλιά,sahil
+129,Festland::N,στεριά,materik
+130,Meer::N,θάλασσα,dəniz
+131,Bucht::N,κόλπος,körfəz
+132,Insel::N,νησί,ada
+133,Insel::N,νήσος,ada
+134,Blume::N,άνθος,çiçək
+135,Blume::N,λουλούδι,çiçək
+136,Gras::N,χόρτο,ot
+137,Gras::N,χορτάρι,ot
+138,Wurzel::N,ρίζα,kök
+139,Baum::N,δέντρο,ağac
+140,Stamm::N,κορμός,gövdə
+141,Rinde::N,φλούδα,qabıq
+142,Ast::N,κλαδί,şax
+143,Zweig::N,κλαδί,budaq
+144,Zweig::N,κλάδος,budaq
+145,Blatt::N,φύλλο,yarpaq
+146,Birke::N,σημύδα,tozağacı
+147,Kiefer[Baum]::N,πεύκο,şam
+148,Weide[Baum]::N,ιτιά,söyüd
+149,Tanne::N,έλατο,küknar
+150,Horn::N,κέρας,buynuz
+151,Horn::N,κέρατο,buynuz
+152,Feder::N,φτερό,tük
+153,Feder::N,φτερό,lələk
+154,Fell::N,δέρμα,xəz
+155,Fell::N,τομάρι,xəz
+156,Flügel::N,πτερύγιο,qanad
+157,Klaue::N,κουλό,pəncə
+158,Kralle::N,νύχι,dırnaq
+159,Schwanz::N,ουρά,quyruq
+160,Ei::N,αβγό,yumurta
+161,Nest::N,φωλιά,yuva
+162,Bau::N,φωλιά,yuva
+163,Tier::N,ζώο,heyvan
+164,Herde::N,κοπάδι,sürü
+165,Kuh::N,αγελάδα,inək
+166,Bulle::N,ταύρος,öküz
+167,Pferd::N,άλογο,at
+168,Schaf::N,πρόβατο,qoyun
+169,Schwein::N,γουρούνι,donuz
+170,Hund::N,σκυλί,it
+171,Hund::N,σκυλί,köpək
+172,Hund::N,σκύλος,it
+173,Hund::N,σκύλος,köpək
+174,Katze::N,γάτα,pişik
+175,Bär::N,άρκτος,ayı
+176,Bär::N,αρκούδα,ayı
+177,Eichhörnchen::N,βερβερίτσα,dələ
+178,Elch::N,άλκη,sığın
+179,Fuchs::N,αλεπού,tülkü
+180,Hase::N,λαγός,dovşan
+181,Maus::N,ποντικός,siçan
+182,Wolf::N,λύκος,qurd
+183,Vogel::N,πουλί,quş
+184,Schwarm::N,σμήνος,sürü
+185,Huhn::N,κότα,toyuq
+186,Huhn::N,όρνιθα,toyuq
+187,Hahn::N,πετεινός,xoruz
+188,Gans::N,χήνα,qaz
+189,Adler::N,αετός,qartal
+190,Adler::N,αετός,qaraquş
+191,Ente::N,πάπια,ördək
+192,Eule::N,κουκουβάγια,bayquş
+193,Kranich::N,γερανός,durna
+194,Krähe::N,καρακάξα,qarğa
+195,Kuckuck::N,κούκος,ququ
+196,Schwan::N,κύκνος,qu quşu
+197,Fisch::N,ψάρι,balıq
+198,Barsch::N,πέρκα,tar
+199,Hecht::N,λούτσος,durnabalığı
+200,Schlange[Tier]::N,φίδι,ilan
+201,Wurm::N,σκουλήκι,qurd
+202,Spinne::N,αράχνη,hörümçək
+203,Ameise::N,μυρμήγκι,qarışqa
+204,Laus::N,ψείρα,bit
+205,Mücke::N,κουνούπι,ağcaqanad
+206,Fliege::N,μύγα,milçək
+207,Schmetterling::N,πεταλούδα,kəpənək
+208,Beere::N,ρόγα,gilə
+209,Apfel::N,μήλο,alma
+210,Pilz::N,μανιτάρι,göbələk
+211,Zwiebel::N,κρεμμύδι,soğan
+212,Saat::N,σπόρος,əkin
+213,Korn::N,σπυρί,taxıl
+214,Heu::N,σανός,quru ot
+215,Schale::N,τσόφλι,qabıq
+216,Grube::N,λάκκος,çuxur
+217,Falle::N,παγίδα,tələ
+218,Falle::N,παγίδα,duzaq
+219,Schlinge::N,θηλειά,ilmək
+220,Spur::N,ίχνος,iz
+221,Asche::N,στάχτη,kül
+222,Dreck::N,βρωμιά,kir
+223,Eisen::N,σίδερο,dəmir
+224,Gold::N,μάλαμα,altun
+225,Gold::N,χρυσάφι,altun
+226,Silber::N,ασήμι,gümüş
+227,Silber::N,άργυρος,gümüş
+228,Kohle::N,κάρβουνο,kömür
+229,Glas::N,γυαλί,şüşə
+230,Lehm::N,πηλός,gil
+231,Lehm::N,πηλός,palçıq
+232,Sand::N,άμμος,qum
+233,Mensch::N,άνθρωπος,adam
+234,Mensch::N,άνθρωπος,insan
+235,Mann::N,άνδρας,kişi
+236,Frau::N,γυναίκα,qadın
+237,Kind::N,παιδί,uşaq
+238,Junge::N,αγόρι,oğlan
+239,Mädchen::N,κοπέλα,qız
+240,Mädchen::N,κορίτσι,qız
+241,Familie::N,οικογένεια,ailə
+242,Großvater::N,παππούς,baba
+243,Großmutter::N,γιαγιά,nənə
+244,Eltern::N,γονείς,valideyn
+245,Vater::N,πατέρας,ata
+246,Mutter::N,μητέρα,ana
+247,Sohn::N,γιος,oğul
+248,Tochter::N,κόρη,qız
+249,Bruder::N,αδελφός,qardaş
+250,Schwester::N,αδελφή,bacı
+251,Onkel::N,θείος,əmi
+252,Onkel::N,θείος,dayı
+253,Tante::N,θεία,bibi
+254,Ehemann::N,σύζυγος,ər
+255,Ehefrau::N,σύζυγος,arvad
+256,Freude::N,χαρά,nəşə
+257,Freude::N,χαρά,sevinc
+258,Gelächter::N,γέλια,gülüş
+259,Gelächter::N,γέλια,qəhqəhə
+260,Glück::N,ευτυχία,səadət
+261,Glück::N,ευτυχία,xoşbəxtlik
+262,Kummer::N,έγνοια,qəm
+263,Kummer::N,έγνοια,kədər
+264,Wunsch::N,επιθυμία,arzu
+265,Lust::N,όρεξη,həvəs
+266,Geist::N,πνέυμα,ruh
+267,Gedanke::N,σκέψη,fikir
+268,Gedanke::N,σκέψη,düşüncə
+269,Gedächtnis::N,μνήμη,xatir
+270,Gedächtnis::N,μνήμη,hafizə
+271,Verstand::N,νους,ağıl
+272,Sinn::N,νόημα,məna
+273,Grund::N,λόγος,səbəb
+274,Wahrheit::N,αλήθεια,haqq
+275,Wahrheit::N,αλήθεια,doğruluq
+276,Gespräch::N,συνομιλία,söhbət
+277,Gespräch::N,συνομιλία,qonuşma
+278,Märchen::N,παραμύθι,nağıl
+279,Erzählung::N,διήγημα,hekayə
+280,Nachricht::N,είδηση,xəbər
+281,Neuigkeit::N,νέο,xəbər
+282,Neuigkeit::N,νέο,yenilik
+283,Name::N,όνομα,ad
+284,Rätsel::N,αίνιγμα,tapmaca
+285,Rede::N,λόγος,nitq
+286,Rede::N,ομιλία,nitq
+287,Sprache::N,γλώσσα,dil
+288,Stimme::N,φωνή,səs
+289,Wort::N,λέξη,söz
+290,Wort::N,λέξη,kəlmə
+291,Zeichen::N,σημείο,nişan
+292,Ruf::N,κραυγή,çığırtı
+293,Lärm::N,θόρυβος,gurultu
+294,Laut::N,ήχος,səs
+295,Ton::N,ήχος,ton
+296,Ton::N,τόνος,ton
+297,Lied::N,τραγούδι,mahnı
+298,Ruhe::N,ησυχία,sakitlik
+299,Leute::N,κόσμος,xalq
+300,Leute::N,άνθρωποι,xalq
+301,Volk::N,λαός,millət
+302,Arbeit::N,εργασία,iş
+303,Arbeit::N,εργασία,əmək
+304,Gast::N,επισκέπτης,qonaq
+305,Gast::N,επισκέπτης,müsafir
+306,Geschenk::N,δώρο,hədiyyə
+307,Spiel::N,παιχνίδι,oyun
+308,Spiel::N,παιχνίδι,tamaşa
+309,Gesellschaft::N,κοινωνία,cəmiyyet
+310,Hilfe::N,βοήθεια,kömək
+311,Hilfe::N,βοήθεια,yardım
+312,Freund::N,φίλος,dost
+313,Kamerad::N,σύντροφος,yoldaş
+314,Angelegenheit::N,υπόθεση,iş
+315,Anzahl::N,αριθμός,say
+316,Art::N,είδος,çeşid
+317,Stück::N,κομμάτι,dənə
+318,Stück::N,κομμάτι,parça
+319,Teil::N,μέρος,qisim
+320,Hälfte::N,μισό,yarım
+321,Kreis::N,κύκλος,dairə
+322,Kreuz::N,σταυρός,xaç
+323,Linie::N,γραμμή,xətt
+324,Strich::N,γραμμή,cızıq
+325,Abstand::N,απόσταση,məsafə
+326,Entfernung::N,απόσταση,məsafə
+327,Entfernung::N,απόσταση,uzaqlıq
+328,Gegend::N,περιοχή,bölgə
+329,Gegend::N,τοποθεσία,bölgə
+330,Platz::N,χώρος,yer
+331,Ort::N,τόπος,yer
+332,Seite::N,πλευρά,yan
+333,Seite::N,πλευρά,tərəf
+334,Mitte::N,μέση,orta
+335,Gegenstand::N,αντικείμενο,şey
+336,Sache::N,πράγμα,şey
+337,Rand::N,άκρη,kənar
+338,Rand::N,χείλος,kənar
+339,Kante::N,άκρη,tiyə
+340,Kante::N,άκρη,kənar
+341,Ecke::N,γωνιά,bucaq
+342,Spitze::N,μύτη,uc
+343,Ende::N,άκρη,son
+344,Ende::N,άκρη,axır
+345,Loch::N,τρύπα,deşik
+346,Winkel::N,γωνία,guşə
+347,Muster::N,σχέδιο,ülgü
+348,Größe::N,μέγεθος,böyüklük
+349,Länge::N,μήκος,uzunluq
+350,Höhe::N,ύψος,yüksəklik
+351,Gewicht::N,βάρος,çəki
+352,Gewicht::N,βάρος,ağırlıq
+353,Menge::N,ποσότητα,miqdar
+354,Haufen::N,σωρός,yığın
+355,Reihe::N,αράδα,səf
+356,Reihe::N,αράδα,sıra
+357,Boot::N,βάρκα,qayıq
+358,Ruder::N,κουπί,kürək
+359,Schlitten::N,έλκηθρο,kirşə
+360,Ski::N,σκι,xizək
+361,Lagerfeuer::N,φωτιά,düşərgə tonqalı
+362,Last::N,φορτίο,yük
+363,Gang::N,δρόμος,yeriş
+364,Schritt::N,βήμα,addım
+365,Norden::N,βορράς,şimal
+366,Süden::N,νότος,cənub
+367,Westen::N,δύση,qərb
+368,Osten::N,ανατολή,şərq
+369,Holz::N,ξύλο,ağac
+370,Holz::N,ξύλο,taxta
+371,Brett::N,σανίδι,taxta
+372,Platte::N,πλάκα,lövhə
+373,Stütze::N,στήριγμα,dayaq
+374,Stütze::N,στήριγμα,dəstək
+375,Stange::N,ραβδί,şüvül
+376,Stange::N,κοντός,şüvül
+377,Stock::N,ξύλο,dəyənək
+378,Stock::N,μπαστούνι,dəyənək
+379,Stab::N,ραβδί,əsa
+380,Stab::N,ραβδί,şüvül
+381,Rohr::N,σωλήνας,boru
+382,Rohr::N,σωλήνας,truba
+383,Haus::N,σπίτι,ev
+384,Heim::N,σπίτι,ev
+385,Ofen::N,σόμπα,peç
+386,Ofen::N,σόμπα,soba
+387,Ofen::N,θερμάστρα,peç
+388,Ofen::N,θερμάστρα,soba
+389,Fußboden::N,πάτωμα,döşəmə
+390,Tisch::N,τραπέζι,masa
+391,Stuhl::N,καρέκλα,stul
+392,Wiege::N,κούνια,beşik
+393,Bett::N,κρεβάτι,yataq
+394,Regal::N,ράφι,rəf
+395,Kiste::N,κιβώτιο,yeşik
+396,Kiste::N,κιβώτιο,sandıq
+397,Fenster::N,παράθυρο,pəncərə
+398,Tür::N,πόρτα,qapı
+399,Tor::N,πύλη,darvaza
+400,Zaun::N,φράχτης,çəpər
+401,Dach::N,στέγη,dam
+402,Leiter::N,σκάλα,nərdivan
+403,Leiter::N,κλίμακα,nərdivan
+404,Besen::N,σκούπα,süpürgə
+405,Spaten::N,φτυάρι,kürək
+406,Schaufel::N,φτυάρι,kürək
+407,Gabel::N,πιρούνι,çəngəl
+408,Löffel::N,κουτάλι,qaşıq
+409,Messer::N,μαχαίρι,bıçaq
+410,Nagel::N,καρφί,mıx
+411,Netz::N,δίχτυ,tor
+412,Haken::N,γάντζος,çəngəl
+413,Haken::N,αγκίστρι,çəngəl
+414,Griff::N,λαβή,qulp
+415,Griff::N,λαβή,tutacaq
+416,Schloss::N,κλειδαριά,qıfıl
+417,Bild::N,εικόνα,rəsm
+418,Figur::N,ανάστημα,şəkil
+419,Figur::N,ανάστημα,heykəl
+420,Puppe::N,κούκλα,kukla
+421,Puppe::N,κούκλα,gəlincik
+422,Beutel::N,πουγγί,kisə
+423,Beutel::N,πουγγί,torba
+424,Bündel::N,δεμάτι,bağlama
+425,Tasche::N,τσάντα,çanta
+426,Eimer::N,κουβάς,vedrə
+427,Eimer::N,κουβάς,çəllək
+428,Deckel::N,καπάκι,qapaq
+429,Geschirr::N,σκεύη,qab-qazan
+430,Sack::N,σάκος,çuval
+431,Tasse::N,φλιτζάνι,fincan
+432,Topf::N,χύτρα,qazan
+433,Kessel::N,καζάνι,qazan
+434,Essen::N,φαγητό,yemək
+435,Nahrung::N,τροφή,qida
+436,Speise::N,φαγητό,xörək
+437,Fleisch::N,κρέας,ət
+438,Getreide::N,σιτάρι,taxıl
+439,Brei::N,χυλός,aş
+440,Brei::N,χυλός,sıyıq
+441,Brot::N,ψωμί,çörək
+442,Brot::N,άρτος,çörək
+443,Scheibe::N,φέτα,dilim
+444,Fett::N,πάχος,yağ
+445,Butter::N,βούτυρο,kərə yağı
+446,Öl::N,λάδι,yağ
+447,Salz::N,αλάτι,duz
+448,Suppe::N,σούπα,şorba
+449,Honig::N,μέλι,bal
+450,Milch::N,γάλα,süd
+451,Tee::N,τσάι,çay
+452,Leder::N,πετσί,dəri
+453,Wolle::N,μαλλί,yun
+454,Stoff::N,ύφασμα,qumaş
+455,Nadel::N,βελόνα,iynə
+456,Faden::N,κλωστή,sap
+457,Knopf::N,κουμπί,düymə
+458,Knoten::N,κόμπος,düyün
+459,Farbe::N,μπογιά,boya
+460,Kleidung::N,ρούχα,geyim
+461,Kleidung::N,ενδυμασία,geyim
+462,Hemd::N,πουκάμισο,köynək
+463,Kragen::N,κολάρο,yaxa
+464,Ärmel::N,μανίκι,qol
+465,Hose::N,πανταλόνι,şalvar
+466,Gürtel::N,ζώνη,kəmər
+467,Mütze::N,σκούφος,şapka
+468,Schuh::N,παπούτσι,tufli
+469,Schuh::N,παπούτσι,ayaqqabı
+470,Stiefel::N,μπότα,çəkmə
+471,Ring::N,δαχτυλίδι,üzük
+472,Band::N,κορδέλα,lent
+473,Kamm::N,χτένα,daraq
+474,Spiegel::N,καθρέφτης,güzgü
+475,Riemen::N,λουρί,qayış
+476,Schnur::N,κορδόνι,ip
+477,Leine::N,σχοινί,kəmsik
+478,Decke::N,κουβέρτα,ədyal
+479,Decke::N,κουβέρτα,yorğan
+480,Kissen::N,μαξιλάρι,yastıq
+481,Tuch::N,πανί,şarf
+482,Tuch::N,πανί,kaşne
+483,Tuch::N,μαντήλι,şarf
+484,Tuch::N,μαντήλι,kaşne
+485,Handtuch::N,πετσέτα,dəsmal
+486,Kraft::N,δύναμη,güc
+487,Stärke::N,ισχύς,qüvvət
+488,Stärke::N,δύναμη,qüvvət
+489,Gesundheit::N,υγεία,sağlamlıq
+490,Krankheit::N,αρρώστια,xəstəlik
+491,Schmerz::N,πόνος,ağrı
+492,Schmerz::N,πόνος,sancı
+493,Wunde::N,πληγή,yara
+494,Fieber::N,πυρετός,isitmə
+495,Fieber::N,πυρετός,qızdırma
+496,Arznei::N,φάρμακο,ilaç
+497,Arznei::N,φάρμακο,dərman
+498,Brücke::N,γέφυρα,körpü
+499,Brunnen::N,πηγάδι,quyu
+500,Weide::N,βοσκή,otlaq
+501,Pfad::N,μονοπάτι,cığır
+502,Weg::N,δρόμος,yol
+503,Straße::N,οδός,küçə
+504,Straße::N,δρόμος,küçə
+505,Dorf::N,χωριό,kənd
+506,Stadt::N,πόλη,şəhər
+507,Brief::N,γράμμα,məktub
+508,Brief::N,επιστολή,məktub
+509,Buch::N,βιβλίο,kitab
+510,Buchstabe::N,γράμμα,hərf
+511,Zeitung::N,εφημερίδα,qəzet
+512,Leben::N,ζωή,həyat
+513,Leben::N,βίος,həyat
+514,Tod::N,θάνατος,ölüm
+515,Grab::N,τάφος,qəbir
+516,Kirche::N,εκκλησία,kilsə
+517,Sünde::N,αμαρτία,günah
+518,Gott::N,θεός,tanrı
+519,Arbeiter::N,εργάτης,işçi
+520,Chef::N,προϊστάμενος,şef
+521,Chef::N,προϊστάμενος,rəis
+522,Meister::N,μάστορας,usta
+523,Meister::N,αρχιτεχνίτης,usta
+524,Arzt::N,γιατρός,həkim
+525,Arzt::N,γιατρός,doktor
+526,Lehrer::N,δάσκαλος,müəllim
+527,Geld::N,λεφτά,pul
+528,Geld::N,χρήματα,pul
+529,Geschäft::N,συναλλαγή,ticarət
+530,Laden::N,μαγαζί,dükan
+531,Laden::N,κατάστημα,dükan
+532,Preis::N,τιμή,qiymət
+533,Ware::N,εμπόρευμα,mal
+534,Nutzen::N,όφελος,fayda
+535,Reichtum::N,πλούτος,zənginlik
+536,Welt::N,κόσμος,aləm
+537,Welt::N,κόσμος,dünya
+538,Land::N,χώρα,ölkə
+539,Staat::N,κράτος,dövlət
+540,Staat::N,πολιτεία,dövlət
+541,König::N,βασιλιάς,kral
+542,König::N,βασιλιάς,məlik
+543,Macht::N,εξουσία,qüdrət
+544,Grenze::N,σύνορα,hüdud
+545,Grenze::N,σύνορα,sərhət
+546,Krieg::N,πόλεμος,hərb
+547,Krieg::N,πόλεμος,müharibə
+548,Feind::N,εχθρός,düşmən
+549,Gewalt::N,βία,cəbr
+550,Kampf::N,αγώνας,savaş
+551,Bogen[Waffe]::N,τόξο,yay
+552,Pfeil::N,σαΐτα,ox
+553,Gewehr::N,τουφέκι,tüfəng
+554,Fehler::N,λάθος,xəta
+555,Fehler::N,σφάλμα,xəta
+556,Lüge::N,ψέμα,yalan
+557,Lüge::N,ψεύδος,yalan
+558,Schaden::N,ζημία,ziyan
+559,Unglück::N,δυστυχία,bəla
+560,Schuld::N,ενοχή,təqsir
+561,Schuld::N,φταίξιμο,təqsir
+562,Alter::N,ηλικία,yaş
+563,Schluss::N,τέλος,son
+564,Zeit::N,χρόνος,vaxt
+565,Zeit::N,χρόνος,zaman
+566,Tag::N,μέρα,gün
+567,Tag::N,ημέρα,gün
+568,Morgen::N,πρωί,sabah
+569,Mittag::N,μεσημέρι,günorta
+570,Abend::N,βράδυ,axşam
+571,Nacht::N,νύχτα,gecə
+572,Woche::N,εβδομάδα,həftə
+573,Monat::N,μήνας,ay
+574,Jahr::N,έτος,il
+575,Jahr::N,χρόνος,il
+576,Frühling::N,άνοιξη,yaz
+577,Frühling::N,άνοιξη,bahar
+578,Sommer::N,καλοκαίρι,yay
+579,Herbst::N,φθινόπωρο,payız
+580,Winter::N,χειμώνας,qış
+581,Januar::N,Ιανουάριος,Janvar
+582,Februar::N,Φεβρουάριος,Fevral
+583,März::N,Μάρτιος,Mart
+584,April::N,Απρίλιος,Aprel
+585,Mai::N,Μάιος,May
+586,Juni::N,Ιούνιος,İyun
+587,Juli::N,Ιούλιος,İyul
+588,August::N,Αύγουστος,Avqust
+589,September::N,Σεπτέμβριος,Sentyabr
+590,Oktober::N,Οκτώβριος,Oktyabr
+591,November::N,Νοέμβριος,Noyabr
+592,Dezember::N,Δεκέμβριος,Dekabr
+593,Montag::N,Δευτέρα,bazar ertəsi
+594,Dienstag::N,Τρίτη,çərşənbə axşamı
+595,Mittwoch::N,Τετάρτη,çərşənbə
+596,Donnerstag::N,Πέμπτη,cüme axşamı
+597,Freitag::N,Παρασκευή,cüme
+598,Samstag::N,Σάββατο,şənbə
+599,Sonntag::N,Κυριακή,bazar
+600,groß::A,μεγάλος,böyük
+601,klein::A,μικρός,kiçik
+602,lang::A,μακρύς,uzun
+603,kurz::A,κοντός,qısa
+604,breit::A,φαρδύς,enli
+605,breit::A,φαρδύς,geniş
+606,schmal::A,στενός,dar
+607,dicht::A,πυκνός,sıx
+608,dick[Gegenstand]::A,παχύς,qalın
+609,dick[Gegenstand]::A,χοντρός,qalın
+610,dünn::A,ψιλός,nazik
+611,dünn::A,λεπτός,nazik
+612,fein::A,ψιλός,incə
+613,fest::A,στερεός,bərk
+614,fest::A,στερεός,möhkəm
+615,flach::A,επίπεδος,düz
+616,glatt::A,λείος,hamar
+617,glatt::A,ομαλός,hamar
+618,hart::A,σκληρός,sərt
+619,weich::A,μαλακός,yumşaq
+620,rund::A,στρογγυλός,yuvarlaq
+621,spitz::A,μυτερός,uclu
+622,spitz::A,μυτερός,sivri
+623,scharf::A,κοφτερός,kəskin
+624,stumpf::A,αμβλύς,küt
+625,schwer::A,βαρύς,ağır
+626,schön::A,ωραίος,gözəl
+627,schön::A,ωραίος,gəşəng
+628,schön::A,όμορφος,gözəl
+629,schön::A,όμορφος,gəşəng
+630,heiß::A,ζεστός,isti
+631,warm::A,θερμός,ilıq
+632,kalt::A,κρύος,soyuq
+633,kalt::A,ψυχρός,soyuq
+634,kühl::A,δροσερός,sərin
+635,frisch::A,νωπός,təzə
+636,frisch::A,φρέσκος,təzə
+637,feucht::A,υγρός,nəm
+638,nass::A,βρεγμένος,yaş
+639,trocken::A,ξηρός,quru
+640,trocken::A,στεγνός,quru
+641,voll::A,γεμάτος,dolu
+642,leer::A,άδειος,boş
+643,offen::A,ανοιχτός,açıq
+644,geschlossen::A,κλειστός,qapalı
+645,sauber::A,καθαρός,təmiz
+646,schmutzig::A,βρώμικος,kirli
+647,schmutzig::A,λερωμένος,kirli
+648,roh::A,ωμός,çiy
+649,reif::A,ώριμος,yetişmiş
+650,lecker::A,νόστιμος,dadlı
+651,lecker::A,νόστιμος,ləzzətli
+652,süß::A,γλυκός,şirin
+653,bitter::A,πικρός,acı
+654,sauer::A,ξινός,turş
+655,hell::A,φωτεινός,aydın
+656,dunkel::A,σκοτεινός,qaranlıq
+657,schwarz::A,μαύρος,qara
+658,schwarz::A,μελανός,qara
+659,weiß::A,άσπρος,ağ
+660,rot::A,κόκκινος,qırmızı
+661,gelb::A,κίτρινος,sarı
+662,blau::A,μπλε,göy
+663,blau::A,μπλε,mavi
+664,blau::A,γαλανός,göy
+665,blau::A,γαλανός,mavi
+666,grün::A,πράσινος,yaşıl
+667,grau::A,γκρίζος,boz
+668,bunt::A,ποικιλόχρωπος,əlvan
+669,bunt::A,ποικιλόχρωπος,rəngli
+670,billig::A,φτηνός,ucuz
+671,teuer::A,ακριβός,bahalı
+672,wertvoll::A,πολύτιμος,qiymətli
+673,blind::A,τυφλός,kor
+674,taub::A,κουφός,kar
+675,kräftig::A,δυνατός,güclü
+676,stark::A,γερός,qüvvətli
+677,schwach::A,αδύνατος,zəif
+678,schwach::A,αδύνατος,gücsüz
+679,fett::A,παχύς,şişman
+680,schlank::A,λεπτός,zərif
+681,schlank::A,λυγερός,zərif
+682,hübsch::A,όμορφος,göyçək
+683,hübsch::A,χαριτωμένος,göyçək
+684,böse::A,κακός,fəna
+685,dumm::A,κουτός,axmaq
+686,dumm::A,ανόητος,axmaq
+687,faul::A,τεμπέλης,tənbəl
+688,fleißig::A,εργατικός,çalışqan
+689,geizig::A,τσιγγούνης,xəsis
+690,klug::A,έξυπνος,ağıllı
+691,geschickt::A,επιδέξιος,bacarıqlı
+692,lieb::A,φίλος,əziz
+693,lieb::A,φίλος,sevimli
+694,lieb::A,αγαπητός,əziz
+695,lieb::A,αγαπητός,sevimli
+696,lustig::A,εύθυμος,məzəli
+697,lustig::A,εύθυμος,gülməli
+698,lustig::A,χαρούμενος,məzəli
+699,lustig::A,χαρούμενος,gülməli
+700,sanft::A,ήπιος,mülayim
+701,hungrig::A,πεινασμένος,ac
+702,krank::A,άρρωστος,xəstə
+703,nackt::A,γυμνός,çılpaq
+704,traurig::A,λυπημένος,qəmgin
+705,traurig::A,λυπημένος,kədərli
+706,lebendig::A,ζωντανός,canlı
+707,gut::A,καλός,yaxşı
+708,schlecht::A,κακός,pis
+709,richtig::A,σωστός,doğru
+710,schlimm::A,άσχημος,fəna
+711,wahr::A,αληθής,gərçək
+712,wahr::A,αληθινός,gərçək
+713,alt::A,παλιός,əski
+714,alt::A,παλιός,köhnə
+715,neu::A,νέος,yeni
+716,neu::A,καινούργιος,yeni
+717,ehemalig::A,παλιός,əvvəlki
+718,alt[Lebewesen]::A,γέρος,qoca
+719,jung::A,νέος,gənc
+720,arm::A,φτωχός,kasıb
+721,arm::A,φτωχός,yoxsul
+722,reich::A,πλούσιος,zəngin
+723,bekannt::A,γνωστός,tanış
+724,berühmt::A,περίφημος,məşhur
+725,berühmt::A,ξακουσμένος,məşhur
+726,fremd::A,ξένος,yad
+727,verschieden::A,διαφορετικός,dürlü
+728,nah::A,κοντινός,yaxın
+729,fern::A,μακριά,uzaq
+730,linker::A,αριστερός,sol
+731,rechter::A,δεξιός,sağ
+732,anderer::A,άλλος,başqa
+733,erster::A,πρώτος,birinci
+734,zweiter::A,δεύτερος,ikinci
+735,dritter::A,τρίτος,üçüncü
+736,letzter::A,τελευταίος,sonuncu
+737,letzter::A,τελευταίος,axırıncı
+738,allein::ADV,μόνος,tək
+739,allein::ADV,μόνος,yalqız
+740,auf einmal::ADV,εφάπαξ,birdən
+741,zusammen::ADV,μαζί,birlikdə
+742,lange::ADV,πολύν καιρό,uzun
+743,plötzlich::ADV,έξαφνα,qəfildən
+744,sofort::ADV,αμέσως,həmən
+745,sofort::ADV,αμέσως,dərhal
+746,später::ADV,αργότερα,sonra
+747,jetzt::ADV,τώρα,indi
+748,heute::ADV,σήμερα,bugün
+749,morgen::ADV,αύριο,sabah
+750,bald::ADV,σε λίγο,yaxında
+751,bald::ADV,σε λίγο,tezliklə
+752,bald::ADV,εντός ολίγου,yaxında
+753,bald::ADV,εντός ολίγου,tezliklə
+754,dann::ADV,ύστερα,onda
+755,gestern::ADV,χτες,dünən
+756,einst::ADV,ποτέ,əvvəllər
+757,einst::ADV,άλλοτε,əvvəllər
+758,damals::ADV,τότε,o vaxt
+759,danach::ADV,μετά,sonra
+760,danach::ADV,ύστερα,sonra
+761,vorher::ADV,πριν,qabaqcadan
+762,vorher::ADV,προηγουμένως,qabaqcadan
+763,zuerst::ADV,πρώτα,əvvəl
+764,einmal::ADV,μία φορά,bir dəfə
+765,manchmal::ADV,κάποτε,hərdənbir
+766,oft::ADV,συχνά,tez-tez
+767,oft::ADV,συχνά,çox vaxt
+768,oft::ADV,πολλές φορές,tez-tez
+769,oft::ADV,πολλές φορές,çox vaxt
+770,immer::ADV,πάντα,daimi
+771,immer::ADV,πάντα,həmişə
+772,immer::ADV,πάντοτε,daimi
+773,immer::ADV,πάντοτε,həmişə
+774,niemals::ADV,ποτέ,əsla
+775,niemals::ADV,ποτέ,heç bir zaman
+776,hier::ADV,εδώ,bura
+777,hier::ADV,εδώ,burada
+778,hierhin::ADV,εδώ,buraya
+779,von hier::ADV,από δω,buradan
+780,dort::ADV,εκεί,ora
+781,dort::ADV,εκεί,orada
+782,dorthin::ADV,προς τα κει,oraya
+783,geradeaus::ADV,κατευθείαν,düz
+784,vorwärts::ADV,εμπρός,irəli
+785,rückwärts::ADV,πίσω,geri
+786,zurück::ADV,πίσω,geriyə
+787,unten::ADV,κάτω,aşağıda
+788,hinab::ADV,προς τα κάτω,aşağı
+789,oben::ADV,πάνω,yuxarıda
+790,oben::ADV,επάνω,yuxarıda
+791,hinauf::ADV,προς τα πάνω,yuxarı
+792,überall::ADV,παντού,hər yerdə
+793,nicht::ADV,δεν,-ma-
+794,ein wenig::ADV,λιγάκι,bir az
+795,kaum::ADV,μόλις,güclə
+796,sehr::ADV,πολύ,çox
+797,so::ADV,έτσι,belə
+798,noch::ADV,ακόμα,hələ
+799,nur::ADV,μόνο,yalnız
+800,schon::ADV,ήδη,artıq
+801,schon::ADV,κιόλας,artıq
+802,wieder::ADV,ξανά,yenə
+803,vergebens::ADV,μάταια,boş yerə
+804,vor::PRP,μπροστά σε,önündə
+805,vor::PRP,μπροστά από,önündə
+806,hinter::PRP,πίσω από ,arxasında
+807,unter::PRP,υπό,altında
+808,unter::PRP,κάτω από,altında
+809,durch::PRP,διά,içindən
+810,durch::PRP,διά μέσου,içindən
+811,neben::PRP,δίπλα σε,yanında
+812,zwischen::PRP,μεταξύ,arasında
+813,zwischen::PRP,ανάμεσα σε,arasında
+814,wegen::PRP,για,üçün
+815,wegen::PRP,για,ötəri
+816,wegen::PRP,λόγω,üçün
+817,wegen::PRP,λόγω,ötəri
+818,dies::PRN,αυτό,bu
+819,das::PRN,το,o
+820,alles::PRN,όλα,hər şey
+821,ich::PRN,εγώ,mən
+822,du::PRN,σύ,sən
+823,du::PRN,εσύ,sən
+824,er::PRN,αυτός,o
+825,wir::PRN,εμείς,biz
+826,ihr::PRN,εσείς,siz
+827,sie::PRN,αυτοί,onlar
+828,was::FPRN,τι,nə
+829,wer::FPRN,ποιος,kim
+830,wo::FADV,πού,harada
+831,wohin::FADV,πού,haraya
+832,wohin::FADV,για πού,haraya
+833,wie::FADV,πώς,necə
+834,warum::FADV,γιατί,niyə
+835,warum::FADV,γιατί,nə üçün
+836,wieviel::FNUM,πόσος,neçə
+837,wieviel::FNUM,πόσος,nə qədər
+838,eins::NUM,ένα,bir
+839,zwei::NUM,δύο,iki
+840,drei::NUM,τρία,üç
+841,drei::NUM,τρεις,üç
+842,vier::NUM,τέσσερα,dörd
+843,vier::NUM,τέσσερις,dörd
+844,fünf::NUM,πέντε,beş
+845,sechs::NUM,έξι,altı
+846,sieben::NUM,εφτά,yeddi
+847,acht::NUM,οχτώ,səkkiz
+848,neun::NUM,εννιά,doqquz
+849,zehn::NUM,δέκα,on
+850,elf::NUM,έντεκα,on bir
+851,zwölf::NUM,δώδεκα,on iki
+852,zwanzig::NUM,είκοσι,iyirmi
+853,dreißig::NUM,τριάντα,otuz
+854,vierzig::NUM,σαράντα,qırx
+855,fünfzig::NUM,πενήντα,əlli
+856,sechzig::NUM,εξήντα,altmış
+857,siebzig::NUM,εβδομήντα,yetmiş
+858,achtzig::NUM,ογδόντα,səksən
+859,neunzig::NUM,ενενήντα,doxsan
+860,hundert::NUM,εκατό,yüz
+861,tausend::NUM,χίλιοι,min
+862,und::CNJ,και,və
+863,oder::CNJ,ή,ya
+864,stehen::V,στέκομαι,durmaq
+865,stehen::V,είμαι όρθιος,durmaq
+866,sitzen::V,κάθομαι,oturmaq
+867,liegen::V,είμαι ξαπλωμένος,uzanmaq
+868,hängen::V,κρέμομαι,asılmaq
+869,werden::V,γίνομαι,olmaq
+870,passieren::V,συμβαίνω,olmaq
+871,passieren::V,συμβαίνω,baş vermək
+872,beginnen::V,αρχίζω,başlamaq
+873,enden::V,τελειώνω,bitmək
+874,wechseln::V,αλλάζω,dəyişmək
+875,aufgehen[Sonne]::V,βγαίνω,doğmaq
+876,aufgehen[Sonne]::V,ανατέλλω,doğmaq
+877,untergehen[Sonne]::V,δύω,batmaq
+878,untergehen[Sonne]::V,βασιλεύω,batmaq
+879,scheinen[Sonne]::V,λάμπω,parlamaq
+880,donnern::V,βροντώ,guruldamaq
+881,wehen::V,φυσώ,əsmək
+882,strömen::V,ρέω,axmaq
+883,strömen::V,τρέχω,axmaq
+884,fließen::V,ρέω,axmaq
+885,sich drehen::V,γυρίζω,dönmək
+886,sich drehen::V,στρέφομαι,dönmək
+887,schwanken::V,ταλαντεύομαι,yellənmək
+888,schwingen::V,αιωρούμαι,yellənmək
+889,schwingen::V,ταλαντεύομαι,yellənmək
+890,fallen::V,πέφτω,düşmek
+891,brennen::V,καίω,yanmaq
+892,rauchen::V,καπνίζω,tüstüləmək
+893,regnen::V,βρέχω,yağmaq
+894,gefrieren::V,παγώνω,donmaq
+895,tauen::V,λειώνω,ərimək
+896,schmelzen::V,λειώνω,ərimək
+897,trocknen::V,στεγνώνω,qurumaq
+898,sieden::V,βράζω,qaynamaq
+899,faulen::V,σαπίζω,çürümək
+900,verfaulen::V,σαπίζω,çürümək
+901,reißen::V,σχίζω,yırtılmaq
+902,versinken::V,βουλιάζω,batmaq
+903,versinken::V,βυθίζομαι,batmaq
+904,vergehen::V,περνώ,ötmək
+905,erscheinen::V,εμφανίζομαι,görünmək
+906,verschwinden::V,χάνομαι,yox olmaq
+907,verschwinden::V,εξαφανίζομαι,yox olmaq
+908,sinken::V,κατεβαίνω,enmək
+909,abnehmen::V,μειώνομαι ,azalmaq
+910,zunehmen::V,αυξάνω,artmaq
+911,zunehmen::V,μεγαλώνω,artmaq
+912,steigen::V,ανεβαίνω,yüksəlmək
+913,wachsen::V,μεγαλώνω,böyümək
+914,glänzen::V,γυαλίζω,parlamaq
+915,funkeln::V,αστράφτω,parıldamaq
+916,funkeln::V,σπιθοβολώ,parıldamaq
+917,lärmen::V,θορυβώ,səs-küy etmək
+918,läuten::V,χτυπώ ,çalmaq
+919,klingeln::V,κουδουνίζω,zəng etmək
+920,klirren::V,κουδουνίζω,cingildəmək
+921,brausen::V,βουΐζω,gurlamaq
+922,rauschen::V,βουΐζω,xışıldamaq
+923,klingen::V,ηχώ,səslənmək
+924,bellen::V,γαυγίζω,hürmək
+925,heulen::V,ουρλιάζω,ulamaq
+926,blasen::V,φυσώ,üfləmək
+927,pfeifen::V,σφυρίζω,fit vermek
+928,schreien::V,κραυγάζω,bağırmaq
+929,schreien::V,κραυγάζω,qışqırmaq
+930,stöhnen::V,βογγώ,inləmək
+931,zittern::V,τρέμω,titrəmək
+932,leben::V,ζω,yaşamaq
+933,geboren werden::V,γεννιέμαι,doğmaq
+934,atmen::V,αναπνέω,nəfəs almaq
+935,trinken::V,πίνω,içmek
+936,essen::V,τρώω,yemək
+937,schlucken::V,καταπίνω,udmaq
+938,müde werden::V,κουράζομαι,yorulmaq
+939,einschlafen::V,αποκοιμιέμαι,yuxuya getmək
+940,schlafen::V,κοιμάμαι,uyumaq
+941,aufwachen::V,ξυπνώ,oyanmaq
+942,aufstehen::V,σηκώνομαι,yuxudan durmaq
+943,sich erholen::V,ξεκουράζομαι,dincəlmək
+944,krank werden::V,αρρωσταίνω,xəstə olmaq
+945,krank sein::V,ασθενώ,azarlanmaq
+946,krank sein::V,ασθενώ,xəstələnmək
+947,schmerzen::V,πονώ,ağrimaq
+948,husten::V,βήχω,öksürmək
+949,genesen::V,θεραπεύομαι,sağalmaq
+950,sterben::V,πεθαίνω,ölmək
+951,sterben::V,πεθαίνω,vəfat etmək
+952,umkommen::V,πεθαίνω,həlak olmaq
+953,sich bewegen::V,κουνιέμαι,hərəkət etmək
+954,sich rühren::V,σαλεύω,tərpənmək
+955,sich erheben::V,επαναστατώ,qalxmaq
+956,sich setzen::V,κάθομαι,oturmaq
+957,hinfallen::V,πέφτω κάτω,yıxılmaq
+958,laufen::V,τρέχω,yerimək
+959,schreiten::V,βαδίζω,addım atmaq
+960,spazierengehen::V,κάνω βόλτα,gəzmək
+961,spazierengehen::V,πηγαίνω περίπατο,gəzmək
+962,eilen::V,σπεύδω,atılmaq
+963,sich beeilen::V,βιάζομαι,tələsmək
+964,sausen::V,τρέχω γρήγορα,çırpmaq
+965,rennen::V,τρέχω,qaçmaq
+966,springen::V,πηδώ,sıçramaq
+967,klettern::V,σκαρφαλώνω,dırmanmaq
+968,schaukeln::V,κουνιέμαι,sallanmaq
+969,kriechen::V,έρπω,sürünmək
+970,kriechen::V,σέρνομαι,sürünmək
+971,schwimmen::V,κολυμπώ,üzmek
+972,tauchen::V,βουτώ,dalmaq
+973,rudern::V,κωπηλατώ,avarlamaq
+974,fahren::V,πηγαίνω,sürmək
+975,fliegen::V,πετώ,uçmaq
+976,gehen::V,βαδίζω,getmək
+977,gehen::V,πηγαίνω,getmək
+978,weggehen::V,φεύγω,getmək
+979,abfahren::V,ξεκινώ,yola düşmək
+980,abfahren::V,αναχωρώ,yola düşmək
+981,anhalten::V,σταματώ,saxlamaq
+982,hineingehen::V,μπαίνω,girmək
+983,eintreten::V,μπαίνω,girmək
+984,eintreten::V,μπαίνω,daxil olmaq
+985,eintreten::V,εισέρχομαι,girmək
+986,eintreten::V,εισέρχομαι,daxil olmaq
+987,kommen::V,έρχομαι,gəlmək
+988,ankommen::V,φτάνω,gəlib çatmaq
+989,zurückkommen::V,επιστρέφω,qayıtmaq
+990,bleiben::V,μένω,qalmaq
+991,warten::V,περιμένω,gözləmək
+992,erwarten::V,αναμένω,bəkləmək
+993,erwarten::V,περιμένω,bəkləmək
+994,suchen::V,ψάχνω,aramaq
+995,suchen::V,ψάχνω,axtarmaq
+996,finden::V,βρίσκω,tapmaq
+997,versuchen::V,προσπαθώ,çalışmaq
+998,vorbereiten::V,προετοιμάζω,hazırlamaq
+999,lieben::V,αγαπώ,sevmək
+1000,mögen::V,μου αρέσει,xoşlamaq
+1001,lachen::V,γελώ,gülmək
+1002,rühren::V,συγκινώ,həyəcanlandırmaq
+1003,weinen::V,κλαίω,ağlamaq
+1004,schimpfen::V,βρίζω,küfr etmək
+1005,sich ärgern::V,θυμώνω,acıqlanmaq
+1006,sich fürchten::V,φοβάμαι,qorxmaq
+1007,fürchten::V,φοβάμαι,qorxmaq
+1008,fliehen::V,φεύγω,qaçmaq
+1009,flüchten::V,δραπετεύω,qaçmaq
+1010,sehen::V,βλέπω,görmək
+1011,anschauen::V,κοιτάζω,baxmaq
+1012,ansehen::V,βλέπω,baxmaq
+1013,hören::V,ακούω,duymaq
+1014,hören::V,ακούω,eşitmək
+1015,zuhören::V,ακούω,dinləmək
+1016,probieren::V,δοκιμάζω,dadına baxmaq
+1017,riechen::V,μυρίζω,qoxlamaq
+1018,riechen::V,οσφραίνομαι,qoxlamaq
+1019,fühlen::V,αισθάνομαι,duymaq
+1020,scheinen::V,φαίνομαι,görünmək
+1021,zu sehen sein::V,φαίνομαι,görünmək
+1022,vernehmen::V,ακούω,eşitmək
+1023,vernehmen::V,μαθαίνω,eşitmək
+1024,frieren::V,κρυώνω,üşümək
+1025,tun::V,κάνω,etmək
+1026,können::V,ξέρω,bilmək
+1027,können::V,ξέρω,bacarmaq
+1028,können::V,μπορώ,bilmək
+1029,können::V,μπορώ,bacarmaq
+1030,wollen::V,θέλω,istəmək
+1031,anfangen::V,αρχίζω,başlamaq
+1032,beenden::V,τελειώνω,bitirmək
+1033,aufhören::V,παύω,bitmək
+1034,aufhören::V,παύω,qurtarmaq
+1035,gelingen::V,πετυχαίνω,müvəffəq olmaq
+1036,geraten::V,γίνομαι,düşmək
+1037,öffnen::V,ανοίγω,açmaq
+1038,schließen::V,κλείνω,qapamaq
+1039,stellen::V,θέτω,qoymaq
+1040,setzen::V,θέτω,oturtmaq
+1041,legen::V,θέτω,qoymaq
+1042,berühren::V,εγγίζω,toxunmaq
+1043,verbinden::V,συνδέω,bağlamaq
+1044,bedecken::V,σκεπάζω,örtmək
+1045,aufhängen::V,κρεμώ,asmaq
+1046,anzünden::V,ανάβω,yandırmaq
+1047,aufheben::V,σηκώνω,qaldırmaq
+1048,zurücklassen::V,εγκαταλείπω,buraxmaq
+1049,verlieren::V,χάνω,itirmək
+1050,fallen lassen::V,αφήνω να πέσει,düşürmək
+1051,machen::V,κάνω,etmək
+1052,machen::V,φτιάχνω,etmək
+1053,herstellen::V,κατασκευάζω,istehsal etmək
+1054,bauen::V,χτίζω,tikmək
+1055,bauen::V,οικοδομώ,tikmək
+1056,reparieren::V,επισκευάζω,təmir etmək
+1057,reparieren::V,επιδιορθώνω,təmir etmək
+1058,verbessern::V,βελτιώνω,düzəltmək
+1059,verbessern::V,καλυτερεύω,düzəltmək
+1060,ändern::V,αλλάζω,dəyişdirmək
+1061,graben::V,σκάβω,qazımaq
+1062,beugen::V,λυγίζω,əymək
+1063,biegen::V,κάμπτω,bükmək
+1064,drehen::V,στρέφω,döndərmək
+1065,wenden::V,γυρίζω,çevirmək
+1066,umdrehen::V,γυρίζω,çevirmək
+1067,heben::V,υψώνω,qaldırmaq
+1068,heben::V,σηκώνω,qaldırmaq
+1069,hochheben::V,υψώνω,qaldırmaq
+1070,hochheben::V,σηκώνω,qaldırmaq
+1071,ergreifen::V,πιάνω,tutmaq
+1072,ergreifen::V,αρπάζω,tutmaq
+1073,halten::V,βαστώ,saxlamaq
+1074,drücken::V,πιέζω,sıxmaq
+1075,schieben::V,σπρώχνω,sürmək
+1076,kratzen::V,γρατσουνίζω,qaşımaq
+1077,lecken::V,γλείφω,yalamaq
+1078,beißen::V,δαγκάνω,dişləmək
+1079,abreißen::V,κόβω,qoparmaq
+1080,abreißen::V,σχίζω,qoparmaq
+1081,abschneiden::V,αποκόπτω,ayırmaq
+1082,binden::V,δένω,bağlamaq
+1083,stecken::V,χώνω,soxmaq
+1084,brechen::V,σπάζω,qırmaq
+1085,klopfen::V,χτυπώ,sındırmaq
+1086,klopfen::V,τινάζω,sındırmaq
+1087,hauen::V,χτυπώ,vurmaq
+1088,kleben::V,κολλώ,apışdırmaq
+1089,reiben::V,τρίβω,ovmaq
+1090,streichen::V,αλείφω,sürtmək
+1091,schleifen::V,ακονίζω,bülövləmək
+1092,schneiden::V,κόβω,kəsmək
+1093,rütteln::V,σείω,sirkələmək
+1094,rütteln::V,τινάζω,sirkələmək
+1095,schütteln::V,σείω,çalxalamaq
+1096,schütteln::V,κουνώ,çalxalamaq
+1097,schwenken::V,κουνώ,yelləmək
+1098,schütten::V,χύνω,tökmək
+1099,füllen::V,γεμίζω,doldurmaq
+1100,einwickeln::V,τυλίγω,sarımaq
+1101,tragen::V,φέρνω,daşımaq
+1102,schleppen::V,κουβαλώ,sürükləmək
+1103,ziehen::V,τραβώ,çəkmək
+1104,aufbewahren::V,φυλάω,gizlətmək
+1105,werfen::V,ρίχνω,atmaq
+1106,fangen::V,πιάνω,tutmaq
+1107,packen::V,τσακώνω,yaxalamaq
+1108,verstecken::V,κρύβω,gizlətmək
+1109,teilen::V,μερίζω,bölmək
+1110,schicken::V,στέλνω,yollamaq
+1111,schicken::V,στέλνω,göndərmək
+1112,bringen::V,φέρνω,gətirmək
+1113,hinzufügen::V,προσθέτω,əlavə etmək
+1114,bekommen::V,προσκομίζω,almaq
+1115,bekommen::V,προσκομίζω,əldə etmək
+1116,erhalten::V,παίρνω,almaq
+1117,erhalten::V,λαμβάνω,almaq
+1118,nehmen::V,πιάνω,almaq
+1119,nehmen::V,παίρνω,almaq
+1120,wählen::V,εκλέγω,seçmək
+1121,auswählen::V,διαλέγω,arımaq
+1122,bewahren::V,διατηρώ,qorumaq
+1123,behindern::V,εμποδίζω,mane olmaq
+1124,verderben::V,χαλώ,pozmaq
+1125,beschädigen::V,ζημιώνω,zədələmək
+1126,zerbrechen::V,σπάζω,qırmaq
+1127,zerbrechen::V,σπάζω,sındırmaq
+1128,zerreißen::V,σχίζω,yırtmaq
+1129,zerstören::V,καταστρέφω,dağıtmaq
+1130,verbrennen::V,καίω,yandırmaq
+1131,geben::V,δίνω,vermək
+1132,reichen::V,δίνω,uzatmaq
+1133,schenken::V,χαρίζω,vermək
+1134,versprechen::V,υπόσχομαι,vəd vermək
+1135,wünschen::V,εύχομαι,arzulamaq
+1136,loben::V,επαινώ,tərifləmək
+1137,küssen::V,φιλώ,öpmək
+1138,wiegen::V,κουνώ,tərpətmək
+1139,wiegen::V,νανουρίζω,tərpətmək
+1140,zudecken::V,σκεπάζω,örtmək
+1141,wecken::V,ξυπνώ,oyatmaq
+1142,zeigen::V,δείχνω,göstərmək
+1143,führen::V,οδηγώ,rəhbərlik etmək
+1144,lehren::V,διδάσκω,öyrətmək
+1145,unterrichten::V,διδάσκω,öyrətmək
+1146,unterrichten::V,διδάσκω,dərs vermək
+1147,aufziehen::V,ανατρέφω,tərbiyə etmək
+1148,leiten::V,ηγούμαι,idarə etmək
+1149,leiten::V,διευθύνω,idarə etmək
+1150,antreiben::V,σπρώχνω,bizləmək
+1151,antreiben::V,παρακινώ,bizləmək
+1152,lassen::V,αφήνω,-tırmaq
+1153,einladen::V,προσκαλώ,dəvət etmək
+1154,vereinigen::V,ενώνω,birləşdirmək
+1155,besuchen::V,επισκέπτομαι,baş çəkmək
+1156,besuchen::V,επισκέπτομαι,ziyarət etmək
+1157,treffen::V,συναντώ,rastlaşmaq
+1158,treffen::V,συναντώ,rast gəlmək
+1159,sich versammeln::V,μαζεύομαι,toplanmaq
+1160,spielen::V,παίζω,oynamaq
+1161,singen::V,τραγουδώ,oxumaq
+1162,tanzen::V,χορεύω,oynamaq
+1163,tanzen::V,χορεύω,rəqs etmək
+1164,sich trennen::V,αποχωρίζομαι,ayrılmaq
+1165,verlassen::V,εγκαταλείπω,tərk etmək
+1166,retten::V,σώζω,xilas etmək
+1167,bewachen::V,φρουρώ,gözətmək
+1168,schützen::V,προστατεύω,qorumaq
+1169,verteidigen::V,υπερασπίζω,qorumaq
+1170,sich schlagen::V,χτυπιέμαι,döyüşmək
+1171,schießen::V,πυροβολώ,atmaq
+1172,schießen::V,πυροβολώ,atəş açmaq
+1173,siegen::V,νικώ,yenmək
+1174,ärgern::V,τσαντίζω,acışdırmaq
+1175,schlagen::V,χτυπώ,döymək
+1176,treten::V,κλοτσώ,təpmək
+1177,stechen::V,τρυπώ,soxmaq
+1178,stoßen::V,ωθώ,itələmək
+1179,stoßen::V,σπρώχνω,itələmək
+1180,stehlen::V,κλέβω,çalmaq
+1181,stehlen::V,κλέβω,oğurlamaq
+1182,stören::V,διαταράσσω,pozmaq
+1183,belästigen::V,ενοχλώ,narahat etmək
+1184,verbergen::V,κρύβω,gizləmək
+1185,täuschen::V,παραπλανώ,aldatmaq
+1186,betrügen::V,απατώ,aldatmaq
+1187,töten::V,σκοτώνω,öldürmək
+1188,töten::V,θανατώνω,öldürmək
+1189,wohnen::V,μένω,yaşamaq
+1190,wohnen::V,κατοικώ,yaşamaq
+1191,arbeiten::V,δουλεύω,işləmək
+1192,arbeiten::V,δουλεύω,çalışmaq
+1193,arbeiten::V,εργάζομαι,işləmək
+1194,arbeiten::V,εργάζομαι,çalışmaq
+1195,sammeln::V,μαζεύω,yığmaq
+1196,sammeln::V,μαζεύω,toplamaq
+1197,sammeln::V,συλλέγω,yığmaq
+1198,sammeln::V,συλλέγω,toplamaq
+1199,pflücken::V,κόβω,qoparmaq
+1200,jagen::V,κυνηγώ,ovlamaq
+1201,fischen::V,ψαρεύω,balıq tutmaq
+1202,fassen::V,πιάνω,tutmaq
+1203,hüten::V,φυλάγω,güdmək
+1204,hüten::V,προσέχω,güdmək
+1205,treiben::V,οδηγώ,haylamaq
+1206,anbinden::V,δένω,bağlamaq
+1207,füttern::V,ταΐζω,bəsləmək
+1208,melken::V,αρμέγω,sağmaq
+1209,hacken::V,κόβω,yarmaq
+1210,gießen::V,ποτίζω,sulamaq
+1211,reifen::V,ωριμάζω,dəymək
+1212,zubereiten::V,ετοιμάζω,bişirmək
+1213,kochen::V,βράζω,qaynatmaq
+1214,backen::V,ψήνω,bişirmək
+1215,braten::V,τηγανίζω,qızartmaq
+1216,umrühren::V,ανακατεύω,qarışdırmaq
+1217,stricken::V,πλέκω,hörmək
+1218,nähen::V,ράβω,tikmək
+1219,färben::V,βάφω,boyamaq
+1220,färben::V,χρωματίζω,boyamaq
+1221,reinigen::V,καθαρίζω,təmizləmək
+1222,waschen::V,πλένω,yumaq
+1223,abwischen::V,σφουγγίζω,silmək
+1224,spülen::V,ξεπλένω,çalxamaq
+1225,fegen::V,σκουπίζω,süpürmək
+1226,kehren::V,σκουπίζω,süpürmək
+1227,baden::V,κάνω μπάνιο,çimmək
+1228,sich waschen::V,πλένομαι,yuyunmaq
+1229,ausziehen::V,βγάζω,soyunmaq
+1230,anziehen::V,φορώ,geymək
+1231,sich anziehen::V,ντύνομαι,geyinmək
+1232,kämmen::V,χτενίζω,daramaq
+1233,schmücken::V,στολίζω,bəzəmək
+1234,sagen::V,λέω,demək
+1235,sagen::V,λέω,söymek
+1236,sprechen::V,μιλώ,danışmaq
+1237,reden::V,μιλώ,danışmaq
+1238,reden::V,κουβεντιάζω,danışmaq
+1239,sich unterhalten::V,συνομιλώ,söhbət etmək
+1240,sich unterhalten::V,κουβεντιάζω,söhbət etmək
+1241,fragen::V,ρωτώ,soruşmaq
+1242,bitten::V,ζητώ,diləmək
+1243,bitten::V,ζητώ,xahiş etmək
+1244,bitten::V,παρακαλώ,diləmək
+1245,bitten::V,παρακαλώ,xahiş etmək
+1246,erzählen::V,διηγούμαι,bəhs etmək
+1247,mitteilen::V,πληροφορώ,bildirmək
+1248,nennen::V,ονομάζω,adlandırmaq
+1249,rufen::V,φωνάζω,çağırmaq
+1250,prahlen::V,καυχιέμαι,öyünmək
+1251,übersetzen::V,μεταφράζω,tərcümə etmək
+1252,denken::V,σκέφτομαι,düşünmək
+1253,denken::V,σκέφτομαι,fikirləşmək
+1254,glauben::V,πιστεύω,inanmaq
+1255,bemerken::V,παρατηρώ,qeyd etmək
+1256,erkennen::V,αναγνωρίζω,tanımaq
+1257,begreifen::V,καταλαβαίνω,anlamaq
+1258,verstehen::V,ακούω,duymaq
+1259,lernen::V,μαθαίνω,öyrənmək
+1260,wissen::V,ξέρω,bilmək
+1261,sich erinnern an::V,θυμάμαι,xatırlamaq
+1262,vergessen::V,ξεχνώ,unutmaq
+1263,messen::V,μετρώ,ölçmək
+1264,zählen::V,μετρώ,saymaq
+1265,rechnen::V,λογαριάζω,hesablamaq
+1266,lesen::V,διαβάζω,oxumaq
+1267,malen::V,ζωγραφίζω,şəkil çəkmək
+1268,zeichnen::V,σχεδιάζω,cızmaq
+1269,schreiben::V,γράφω,yazmaq
+1270,besitzen::V,κατέχω,yiyələnmək
+1271,besitzen::V,κατέχω,malik olmaq
+1272,kaufen::V,αγοράζω,satın almaq
+1273,verkaufen::V,πουλώ,satmaq
+1274,bezahlen::V,πληρώνω,ödəmək
+1275,zahlen::V,πληρώνω,ödəmək
+1276,beherrschen::V,κυριαρχώ,idarə etmək
+1277,ertragen::V,βαστώ,dözmək
+1278,ertragen::V,αντέχω,dözmək

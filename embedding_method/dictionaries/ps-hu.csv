@@ -1,0 +1,1451 @@
+,Concept_ID,ps,hu
+0,Auge::N,سترګه,szem
+1,Ohr::N,غوږ,fül
+2,Nase::N,پوزه,orr
+3,Mund::N,خوله,száj
+4,Zahn::N,غاښ,fog
+5,Zunge::N,جبه,nyelv
+6,Lippe::N,شونډه,ajak
+7,Wange::N,باړخو,orca
+8,Gesicht::N,مخ,arc
+9,Stirn::N,تندی,homlok
+10,Stirn::N,وچولی,homlok
+11,Haar::N,وېښته,haj
+12,Schnurrbart::N,برېت,bajusz
+13,Bart::N,ږیره,szakáll
+14,Kinn::N,زنه,áll
+15,Kiefer[Anatomie]::N,جامه,állkapocs
+16,Kehle::N,غاړه,gége
+17,Kehle::N,غاړه,torok
+18,Hals::N,غاړه,nyak
+19,Genick::N,ورمېږ,tarkó
+20,Kopf::N,سر,fő
+21,Kopf::N,سر,fej
+22,Rücken::N,شا,hát
+23,Bauch::N,نس,has
+24,Bauch::N,ګېډه,has
+25,Nabel::N,نوم,köldök
+26,Busen::N,تی,mell
+27,Busen::N,تی,kebel
+28,Brust::N,سینه,mell
+29,Schulter::N,اوږه,váll
+30,Arm::N,لاس,kar
+31,Ellenbogen::N,څنګل,könyök
+32,Hand::N,لاس,kéz
+33,Handfläche::N,ورغوی,tenyér
+34,Finger::N,ګوته,ujj
+35,Fingernagel::N,نوک,köröm
+36,Nagel[Anatomie]::N,نوک,köröm
+37,Zeh::N,ګوته,lábujj
+38,Fuß::N,پښه,láb
+39,Ferse::N,پونده,sarok
+40,Knie::N,زنګون,térd
+41,Oberschenkel::N,پتون,comb
+42,Bein::N,پښه,láb
+43,Bein::N,پښه,lábszár
+44,Körper::N,ځان,test
+45,Haut::N,پوټکی,bőr
+46,Blut::N,وینه,vér
+47,Ader::N,رګ,ér
+48,Sehne::N,پله,ín
+49,Knochen::N,هډوکی,csont
+50,Gehirn::N,ماغزه,agy
+51,Gehirn::N,ماغزه,agyvelő
+52,Herz::N,زړه,szív
+53,Magen::N,معده,gyomor
+54,Leber::N,ينه,máj
+55,Leber::N,ځیګر,máj
+56,Atem::N,نفس,lehelet
+57,Atem::N,نفس,lélegzet
+58,Hunger::N,ولږه,éhség
+59,Träne::N,اوښکه,könny
+60,Geschmack::N,مزه,íz
+61,Geschmack::N,خوند,íz
+62,Geruch::N,بوی,szag
+63,Schlaf::N,خوب,álom
+64,Schlaf::N,خوب,alvás
+65,Traum::N,خوب,álom
+66,Himmel::N,اسمان,ég
+67,Himmel::N,اسمان,menny
+68,Sonne::N,لمر,nap
+69,Mond::N,سپوږمۍ,hold
+70,Stern::N,ستوری,csillag
+71,Luft::N,هوا,levegő
+72,Wind::N,ورښ,szél
+73,Welle::N,موج,hullám
+74,Wasser::N,اوبه,víz
+75,Stein::N,ډبره,kő
+76,Boden::N,مځکه,föld
+77,Boden::N,مځکه,talaj
+78,Erde::N,خاوره,föld
+79,Staub::N,ګرد,por
+80,Staub::N,خاوره,por
+81,Rauch::N,دود,füst
+82,Rauch::N,لوګی,füst
+83,Funke::N,سپرغۍ,szikra
+84,Feuer::N,اور,tűz
+85,Licht::N,رڼا,fény
+86,Schatten::N,سیوری,árnyék
+87,Wetter::N,هوا,idő
+88,Wetter::N,هوا,időjárás
+89,Nebel::N,لړه,köd
+90,Wolke::N,ورېځ,felhő
+91,Regen::N,وریا,eső
+92,Regen::N,باران,eső
+93,Schnee::N,واوره,hó
+94,Eis::N,یخ,jég
+95,Eis::N,کنګل,jég
+96,Frost::N,یخ,fagy
+97,Kälte::N,ساړه,hideg
+98,Hitze::N,تودوخي,hő
+99,Hitze::N,تودوخي,hőség
+100,Raureif::N,سپینه پرخه,zúzmara
+101,Regenbogen::N,بوډۍ ټال,szivárvány
+102,Regenbogen::N,سره زرغونه,szivárvány
+103,Donner::N,تالنده,dörgés
+104,Donner::N,تالنده,mennydörgés
+105,Strömung::N,بهېدنه,áramlat
+106,Tropfen::N,قطره,csepp
+107,Tropfen::N,څاڅکی,csepp
+108,Schaum::N,ځګ,hab
+109,Schaum::N,ځګ,tajték
+110,Schmutz::N,ناپاکي,piszok
+111,See::N,جهیل,tó
+112,Sumpf::N,جبه,mocsár
+113,Moor::N,جبه,láp
+114,Wiese::N,چمن,rét
+115,Wiese::N,چمن,mező
+116,Wiese::N,شنېلی,rét
+117,Wiese::N,شنېلی,mező
+118,Wald::N,ځنګل,erdő
+119,Hügel::N,تپه,domb
+120,Anhöhe::N,غونډۍ,magaslat
+121,Berg::N,غ‍‍‍‍‍ر,hegy
+122,Gipfel::N,څوکه,csúcs
+123,Höhle::N,کاز,barlang
+124,Abhang::N,لمن,lejtő
+125,Quelle::N,چینه,forrás
+126,Bach::N,واله,patak
+127,Fluss::N,سیند,folyó
+128,Ufer::N,غاړه,part
+129,Küste::N,ساحل,tengerpart
+130,Festland::N,وچه,szárazföld
+131,Meer::N,بحر,tenger
+132,Meer::N,سمندر,tenger
+133,Bucht::N,کارۍ,öböl
+134,Insel::N,ټاپو,sziget
+135,Insel::N,جزيره,sziget
+136,Blume::N,ګل,virág
+137,Gras::N,واښه,fű
+138,Wurzel::N,ریښه,gyökér
+139,Baum::N,ونه,fa
+140,Stamm::N,ډډ,tő
+141,Stamm::N,ډډ,törzs
+142,Rinde::N,پوستکی,kéreg
+143,Ast::N,ښاخ,ág
+144,Zweig::N,څانګه,gally
+145,Blatt::N,پاڼه,levél
+146,Birke::N,توس,nyír
+147,Kiefer[Baum]::N,نښتر,fenyő
+148,Weide[Baum]::N,وله,fűz
+149,Tanne::N,ناجو,fenyő
+150,Horn::N,ښکر,szarv
+151,Feder::N,بڼکه,toll
+152,Fell::N,پوستکی,szőr
+153,Fell::N,پوستکی,bunda
+154,Flügel::N,وزر,szárny
+155,Klaue::N,پنجه,köröm
+156,Klaue::N,منګول,köröm
+157,Kralle::N,پنجه,karom
+158,Kralle::N,منګول,karom
+159,Schwanz::N,لکۍ,farok
+160,Ei::N,وۍ,tojás
+161,Ei::N,هګۍ,tojás
+162,Nest::N,جاله,fészek
+163,Bau::N,کاز,odú
+164,Tier::N,ژوی,állat
+165,Tier::N,حیوان,állat
+166,Herde::N,رمه,nyáj
+167,Herde::N,رمه,csorda
+168,Herde::N,غېله,nyáj
+169,Herde::N,غېله,csorda
+170,Kuh::N,غوا,tehén
+171,Bulle::N,غوئی,bika
+172,Pferd::N,آس,ló
+173,Schaf::N,پسه,juh
+174,Schaf::N,پسه,birka
+175,Schwein::N,سرکوزی,sertés
+176,Hund::N,سپی,eb
+177,Hund::N,سپی,kutya
+178,Katze::N,پشه,macska
+179,Bär::N,خرس,medve
+180,Eichhörnchen::N,خړ لمی,mókus
+181,Elch::N,ګوزن,jávorszarvas
+182,Fuchs::N,سپلم,róka
+183,Hase::N,سوی,nyúl
+184,Maus::N,مږک,egér
+185,Wolf::N,لېوه,farkas
+186,Vogel::N,مرغه,madár
+187,Schwarm::N,سېل,raj
+188,Huhn::N,چرګه,tyúk
+189,Hahn::N,چرګ,kakas
+190,Gans::N,بته,lúd
+191,Gans::N,بته,liba
+192,Adler::N,عقاب,sas
+193,Ente::N,ایلۍ,kacsa
+194,Eule::N,ګونګی,bagoly
+195,Kranich::N,کلنګ,daru
+196,Krähe::N,کارغه,varjú
+197,Kuckuck::N,فاخته,kakukk
+198,Schwan::N,قو,hattyú
+199,Fisch::N,کب,hal
+200,Fisch::N,ماهی,hal
+201,Schlange[Tier]::N,مار,kígyó
+202,Wurm::N,چینجی,kukac
+203,Spinne::N,غڼه,pók
+204,Spinne::N,تارکښ,pók
+205,Ameise::N,مېږی,hangya
+206,Laus::N,سپږه,tetű
+207,Mücke::N,ماشی,szúnyog
+208,Fliege::N,مچ,légy
+209,Schmetterling::N,پتنګ,lepke
+210,Schmetterling::N,پتنګ,pillangó
+211,Beere::N,مېوۍ,bogyó
+212,Apfel::N,مڼه,alma
+213,Pilz::N,خرېړی,gomba
+214,Zwiebel::N,پیاز,hagyma
+215,Saat::N,تخم,vetőmag
+216,Korn::N,تخم,mag
+217,Korn::N,تخم,szem
+218,Korn::N,دانه,mag
+219,Korn::N,دانه,szem
+220,Heu::N,بوس,széna
+221,Heu::N,پروړه,széna
+222,Schale::N,پوستکی,héj
+223,Grube::N,کنده,verem
+224,Falle::N,دام,csapda
+225,Falle::N,لومه,csapda
+226,Schlinge::N,کړۍ,tőr
+227,Spur::N,نښه,nyom
+228,Asche::N,آس,hamu
+229,Asche::N,ایره,hamu
+230,Dreck::N,ناپاکي,sár
+231,Dreck::N,ناپاکي,piszok
+232,Eisen::N,اوسپنه,vas
+233,Gold::N,سره زر,arany
+234,Silber::N,نقره,ezüst
+235,Silber::N,سپین زر,ezüst
+236,Kohle::N,سکور,szén
+237,Kohle::N,سکاره,szén
+238,Glas::N,ښيښه,üveg
+239,Lehm::N,خټه,agyag
+240,Lehm::N,خټه,vályog
+241,Sand::N,شګه,homok
+242,Mensch::N,انسان,ember
+243,Mann::N,سړی,úr
+244,Mann::N,سړی,férfi
+245,Mann::N,نارینه,úr
+246,Mann::N,نارینه,férfi
+247,Frau::N,ښځه,nő
+248,Frau::N,ښځه,asszony
+249,Kind::N,بچی,gyerek
+250,Kind::N,بچی,gyermek
+251,Kind::N,ماشوم,gyerek
+252,Kind::N,ماشوم,gyermek
+253,Junge::N,هلک,fiú
+254,Mädchen::N,نجلۍ,lány
+255,Familie::N,کورنۍ,család
+256,Großvater::N,بابا,nagyapa
+257,Großmutter::N,انا,nagyanya
+258,Eltern::N,مور او پلار,szülők
+259,Vater::N,پلار,apa
+260,Vater::N,پلار,atya
+261,Mutter::N,مور,anya
+262,Sohn::N,زوی,fiú
+263,Tochter::N,لور,lány
+264,Bruder::N,ورور,fivér
+265,Bruder::N,ورور,testvér
+266,Schwester::N,خور,nővér
+267,Schwester::N,خور,lánytestvér
+268,Onkel::N,تره,nagybácsi
+269,Onkel::N,ماما,nagybácsi
+270,Tante::N,خاله,nagynéni
+271,Ehemann::N,مېړه,férj
+272,Ehefrau::N,مېرمن,feleség
+273,Freude::N,خوشحالي,öröm
+274,Gelächter::N,خندا,nevetés
+275,Gelächter::N,خندا,hahotázás
+276,Glück::N,بخت,boldogság
+277,Kummer::N,غم,bánat
+278,Wunsch::N,هيله,óhaj
+279,Wunsch::N,غوښتنه,óhaj
+280,Lust::N,شوق,kedv
+281,Lust::N,مینه,kedv
+282,Geist::N,روح,elme
+283,Geist::N,روح,szellem
+284,Gedanke::N,فکر,gondolat
+285,Gedächtnis::N,یاد,emlékezet
+286,Gedächtnis::N,حافظه,emlékezet
+287,Verstand::N,عقل,ész
+288,Verstand::N,عقل,értelem
+289,Verstand::N,شعور,ész
+290,Verstand::N,شعور,értelem
+291,Sinn::N,معنی,értelem
+292,Grund::N,علت,ok
+293,Grund::N,علت,alap
+294,Grund::N,اساس,ok
+295,Grund::N,اساس,alap
+296,Wahrheit::N,حقیقت,igaz
+297,Wahrheit::N,حقیقت,igazság
+298,Gespräch::N,مرکه,beszélgetés
+299,Gespräch::N,خبرې اترې,beszélgetés
+300,Märchen::N,افسانه,mese
+301,Erzählung::N,قصه,elbeszélés
+302,Erzählung::N,کیسه,elbeszélés
+303,Nachricht::N,خبر,hír
+304,Nachricht::N,خبر,híradás
+305,Neuigkeit::N,نوی خبر,újság
+306,Name::N,نوم,név
+307,Rätsel::N,کیسۍ,rejtvény
+308,Rätsel::N,چیستان,rejtvény
+309,Rede::N,وینا,beszéd
+310,Rede::N,وینا,szónoklat
+311,Sprache::N,ژبه,nyelv
+312,Stimme::N,غږ,hang
+313,Stimme::N,اواز,hang
+314,Wort::N,لغت,szó
+315,Wort::N,کلمه,szó
+316,Zeichen::N,نښه,jel
+317,Zeichen::N,اشاره,jel
+318,Ruf::N,ږغ,kiáltás
+319,Ruf::N,بلنه,kiáltás
+320,Lärm::N,غالمغال,zaj
+321,Laut::N,ږغ,hang
+322,Ton::N,اواز,hang
+323,Lied::N,غزله,dal
+324,Lied::N,غزله,ének
+325,Lied::N,سندره,dal
+326,Lied::N,سندره,ének
+327,Ruhe::N,ارامي,csend
+328,Ruhe::N,ارامي,nyugalom
+329,Leute::N,خلک,emberek
+330,Volk::N,ولس,nép
+331,Arbeit::N,کار,dolog
+332,Gast::N,مېلمه,vendég
+333,Geschenk::N,تحفه,ajándék
+334,Geschenk::N,سوغات,ajándék
+335,Spiel::N,لوبه,játék
+336,Gesellschaft::N,ډله,társaság
+337,Hilfe::N,کومک,segítség
+338,Hilfe::N,مرسته,segítség
+339,Freund::N,ملګری,barát
+340,Kamerad::N,انډيوال,társ
+341,Angelegenheit::N,موضوع,ügy
+342,Anzahl::N,شمېر,szám
+343,Anzahl::N,تعداد,szám
+344,Art::N,ډول,faj
+345,Art::N,ډول,fajta
+346,Stück::N,ټوټه,darab
+347,Teil::N,برخه,rész
+348,Hälfte::N,نیم,fél
+349,Kreis::N,دایره,kör
+350,Kreuz::N,صلیب,kereszt
+351,Linie::N,خط,vonal
+352,Linie::N,لیکه,vonal
+353,Strich::N,کرښه,vonás
+354,Abstand::N,فاصله,köz
+355,Entfernung::N,واټن,távolság
+356,Gegend::N,سیمه,táj
+357,Gegend::N,سیمه,vidék
+358,Gegend::N,منطقه,táj
+359,Gegend::N,منطقه,vidék
+360,Platz::N,ځای,hely
+361,Ort::N,ځای,hely
+362,Seite::N,مخ,fél
+363,Seite::N,مخ,oldal
+364,Seite::N,اړخ,fél
+365,Seite::N,اړخ,oldal
+366,Mitte::N,وسط,közép
+367,Mitte::N,مینځ,közép
+368,Gegenstand::N,شی,tárgy
+369,Sache::N,شی,dolog
+370,Sache::N,څيز,dolog
+371,Rand::N,څنډه,szél
+372,Rand::N,څنډه,perem
+373,Rand::N,څنډه,szegély
+374,Rand::N,کناره,szél
+375,Rand::N,کناره,perem
+376,Rand::N,کناره,szegély
+377,Kante::N,اړخ,él
+378,Ecke::N,ګوټ,sarok
+379,Ecke::N,ګوټ,szöglet
+380,Spitze::N,څوکه,csúcs
+381,Ende::N,څوکه,vég
+382,Loch::N,سوری,lyuk
+383,Winkel::N,کنج,szög
+384,Winkel::N,کوتی,szög
+385,Muster::N,نمونه,minta
+386,Größe::N,قد,nagyság
+387,Größe::N,لويوالی,nagyság
+388,Länge::N,طول,hossz
+389,Länge::N,طول,hosszúság
+390,Länge::N,اوږد والی,hossz
+391,Länge::N,اوږد والی,hosszúság
+392,Höhe::N,جګوالی,magasság
+393,Gewicht::N,وزن,súly
+394,Menge::N,اندازه,sokaság
+395,Menge::N,اندازه,mennyiség
+396,Haufen::N,کوټه,halom
+397,Reihe::N,صف,sor
+398,Reihe::N,کتار,sor
+399,Boot::N,قايق,csónak
+400,Ruder::N,چپه,evező
+401,Schlitten::N,ښویېدونی,szánkó
+402,Ski::N,سکي,sí
+403,Lagerfeuer::N,اور,tábortűz
+404,Last::N,بار,teher
+405,Last::N,پېټی,teher
+406,Gang::N,تګ,járás
+407,Schritt::N,ګام,lépés
+408,Norden::N,شمال,észak
+409,Süden::N,سوېل,dél
+410,Westen::N,لوېدېځ,nyugat
+411,Osten::N,شرق,kelet
+412,Osten::N,ختیځ,kelet
+413,Holz::N,لرګی,fa
+414,Brett::N,تخته,deszka
+415,Platte::N,تخته,lap
+416,Platte::N,تخته,lemez
+417,Stütze::N,تکیوان,támasz
+418,Stütze::N,تکیوان,támaszték
+419,Stange::N,ډاګه,rúd
+420,Stange::N,ډاګه,pózna
+421,Stock::N,لرګی,pálca
+422,Stab::N,چيخله,bot
+423,Rohr::N,نل,cső
+424,Haus::N,کور,ház
+425,Heim::N,کور,otthon
+426,Ofen::N,تودنۍ,kályha
+427,Fußboden::N,غولی,padló
+428,Tisch::N,مېز,asztal
+429,Stuhl::N,چوکۍ,szék
+430,Wiege::N,زانګو,bölcső
+431,Bett::N,کټ,ágy
+432,Bett::N,چپرکټ,ágy
+433,Regal::N,تاخچۍ,polc
+434,Regal::N,تاخچۍ,állvány
+435,Kiste::N,صندوق,láda
+436,Fenster::N,کړکۍ,ablak
+437,Tür::N,دروازه,ajtó
+438,Tor::N,دروازه,kapu
+439,Zaun::N,کټاره,kerítés
+440,Dach::N,بام,tető
+441,Leiter::N,زينه,létra
+442,Besen::N,جارو,seprű
+443,Spaten::N,یوم,ásó
+444,Schaufel::N,بېلچه,lapát
+445,Gabel::N,پنجه,villa
+446,Löffel::N,کاشوغه,kanál
+447,Messer::N,چاقو,kés
+448,Nagel::N,ميخ,szeg
+449,Netz::N,جال,háló
+450,Haken::N,څنګک,kampó
+451,Griff::N,لاستی,nyél
+452,Griff::N,لاستی,fogantyú
+453,Schloss::N,کلپ,zár
+454,Bild::N,رسم,kép
+455,Figur::N,قدوقامت,alak
+456,Puppe::N,ګوډۍ,bábu
+457,Beutel::N,کڅوړه,zacskó
+458,Bündel::N,دسته,köteg
+459,Tasche::N,بکس,táska
+460,Tasche::N,توبره,táska
+461,Eimer::N,سطل,vödör
+462,Deckel::N,سرپوښ,fedő
+463,Deckel::N,سرپوښ,fedél
+464,Geschirr::N,لوښی,edény
+465,Sack::N,جوال,zsák
+466,Tasse::N,پیاله,csésze
+467,Topf::N,دېګی,fazék
+468,Kessel::N,دېګ,üst
+469,Kessel::N,دېګ,bogrács
+470,Essen::N,خوراک,evés
+471,Essen::N,خوراک,étkezés
+472,Nahrung::N,خوراک,ennivaló
+473,Speise::N,خواړه,étel
+474,Fleisch::N,غوښه,hús
+475,Getreide::N,غله,gabona
+476,Brei::N,اوګره,pép
+477,Brei::N,اوګره,kása
+478,Brot::N,ډوډۍ,kenyér
+479,Scheibe::N,مړۍ,szelet
+480,Fett::N,غوړي,háj
+481,Fett::N,غوړي,zsír
+482,Butter::N,کوچ,vaj
+483,Öl::N,تېل,olaj
+484,Salz::N,مالګه,só
+485,Suppe::N,شوربا,leves
+486,Honig::N,شات,méz
+487,Milch::N,شوده,tej
+488,Tee::N,چای,tea
+489,Leder::N,څرمن,bőr
+490,Wolle::N,پشم,gyapjú
+491,Stoff::N,ټوټه,szövet
+492,Nadel::N,ستن,tű
+493,Faden::N,تار,fonál
+494,Knopf::N,تڼۍ,gomb
+495,Knopf::N,تکمه,gomb
+496,Knoten::N,غوټه,csomó
+497,Farbe::N,رنګ,szín
+498,Farbe::N,رنګ,festék
+499,Kleidung::N,کالي,ruha
+500,Kleidung::N,کالي,ruházat
+501,Hemd::N,کميس,ing
+502,Kragen::N,غاړه,gallér
+503,Ärmel::N,لستوڼی,ujj
+504,Hose::N,پطلون,gatya
+505,Hose::N,پطلون,nadrág
+506,Gürtel::N,کمربند,öv
+507,Mütze::N,خولۍ,sapka
+508,Schuh::N,بوټ,cipő
+509,Stiefel::N,موزه,csizma
+510,Ring::N,ګوته,gyűrű
+511,Band::N,فيته,szalag
+512,Kamm::N,ګمنځ,fésű
+513,Spiegel::N,ایینه,tükör
+514,Spiegel::N,هنداره,tükör
+515,Riemen::N,تسمه,szíj
+516,Schnur::N,مزی,zsinór
+517,Leine::N,رسۍ,póráz
+518,Decke::N,بړستن,takaró
+519,Kissen::N,بالښت,párna
+520,Tuch::N,ټیکری,kendő
+521,Handtuch::N,دسمال,törülköző
+522,Kraft::N,زور,erő
+523,Kraft::N,توان,erő
+524,Stärke::N,قوت,erő
+525,Stärke::N,قوت,erősség
+526,Gesundheit::N,صحت,egészség
+527,Gesundheit::N,روغتیا,egészség
+528,Krankheit::N,مرض,kór
+529,Krankheit::N,مرض,betegség
+530,Krankheit::N,ناروغي,kór
+531,Krankheit::N,ناروغي,betegség
+532,Schmerz::N,درد,fájdalom
+533,Wunde::N,ټپ,seb
+534,Wunde::N,زخم,seb
+535,Fieber::N,تبه,láz
+536,Arznei::N,دوا,orvosság
+537,Arznei::N,دوا,gyógyszer
+538,Arznei::N,دارو,orvosság
+539,Arznei::N,دارو,gyógyszer
+540,Brücke::N,پول,híd
+541,Brunnen::N,څاه,kút
+542,Brunnen::N,کوهی,kút
+543,Weide::N,وله,legelő
+544,Pfad::N,تړه,ösvény
+545,Weg::N,لیار,út
+546,Straße::N,سړک,út
+547,Dorf::N,کلی,falu
+548,Stadt::N,ښار,város
+549,Brief::N,لیک,levél
+550,Brief::N,مکتوب,levél
+551,Buch::N,کتاب,könyv
+552,Buchstabe::N,حرف,betű
+553,Buchstabe::N,توری,betű
+554,Zeitung::N,اخبار,újság
+555,Zeitung::N,اخبار,hírlap
+556,Leben::N,ژوند,élet
+557,Tod::N,مرګ,halál
+558,Tod::N,مړینه,halál
+559,Grab::N,قبر,sír
+560,Grab::N,ډورۍ,sír
+561,Kirche::N,کلیسا,templom
+562,Sünde::N,ګناه,bűn
+563,Sünde::N,ګناه,vétek
+564,Gott::N,خدای,isten
+565,Arbeiter::N,کاریګر,munkás
+566,Chef::N,آمر,főnök
+567,Meister::N,استاد,mester
+568,Arzt::N,طبیب,orvos
+569,Arzt::N,ډاکټر,orvos
+570,Lehrer::N,معلم,tanár
+571,Lehrer::N,معلم,tanító
+572,Lehrer::N,ښوونکی,tanár
+573,Lehrer::N,ښوونکی,tanító
+574,Geld::N,پیسې,pénz
+575,Geschäft::N,سوداګري,üzlet
+576,Laden::N,دکان,bolt
+577,Laden::N,مغازه,bolt
+578,Preis::N,بیه,ár
+579,Ware::N,مال,áru
+580,Nutzen::N,ګټه,haszon
+581,Reichtum::N,شتمني,gazdagság
+582,Welt::N,نړۍ,világ
+583,Welt::N,دنیا,világ
+584,Land::N,هېواد,ország
+585,Staat::N,دولت,állam
+586,König::N,باچا,király
+587,König::N,پادشاه,király
+588,Macht::N,قدرت,hatalom
+589,Grenze::N,حد,határ
+590,Grenze::N,سرحد,határ
+591,Krieg::N,جګړه,háború
+592,Feind::N,دښمن,ellenség
+593,Gewalt::N,زور,erőszak
+594,Gewalt::N,تشدد,erőszak
+595,Kampf::N,جنګ,harc
+596,Kampf::N,مبارزه,harc
+597,Bogen[Waffe]::N,لیندۍ,íj
+598,Pfeil::N,غشی,nyíl
+599,Gewehr::N,ټوپک,puska
+600,Gewehr::N,ټوپک,fegyver
+601,Fehler::N,خطا,hiba
+602,Fehler::N,غلطي,hiba
+603,Lüge::N,دروغ,hazugság
+604,Schaden::N,زیان,kár
+605,Schaden::N,تاوان,kár
+606,Unglück::N,بدبختي,csapás
+607,Unglück::N,بدبختي,balszerencse
+608,Schuld::N,ګناه,bűn
+609,Alter::N,منګ,kor
+610,Schluss::N,اخر,vég
+611,Schluss::N,اخر,befejezés
+612,Zeit::N,وخت,idő
+613,Tag::N,ورځ,nap
+614,Morgen::N,سبا,reggel
+615,Morgen::N,سهار,reggel
+616,Mittag::N,غرمه,dél
+617,Abend::N,ماښام,este
+618,Nacht::N,شپه,éj
+619,Nacht::N,شپه,éjszaka
+620,Woche::N,اونۍ,hét
+621,Monat::N,مياشت,hó
+622,Monat::N,مياشت,hónap
+623,Jahr::N,کال,év
+624,Frühling::N,پسرلی,tavasz
+625,Sommer::N,دوبی,nyár
+626,Herbst::N,منی,ősz
+627,Herbst::N,خزان,ősz
+628,Winter::N,ژمی,tél
+629,Januar::N,جنوري,január
+630,Februar::N,فبروري,február
+631,März::N,مارچ,március
+632,April::N,اپریل,április
+633,Mai::N,مې,május
+634,Juni::N,جون,június
+635,Juli::N,جولای,július
+636,August::N,اګست,augusztus
+637,September::N,سپټامبر,szeptember
+638,Oktober::N,اکتوبر,október
+639,November::N,نومبر,november
+640,Dezember::N,دسمبر,december
+641,Montag::N,دوشنبه,hétfő
+642,Dienstag::N,سه شنبه,kedd
+643,Mittwoch::N,چارشنبه,szerda
+644,Donnerstag::N,پنجشنبه,csütörtök
+645,Freitag::N,جمعه,péntek
+646,Samstag::N,خالي,szombat
+647,Sonntag::N,یکشنبه,vasárnap
+648,groß::A,لوی,nagy
+649,klein::A,وړوکی,pici
+650,klein::A,وړوکی,kicsi
+651,lang::A,اوړد,hosszú
+652,kurz::A,لنډ,rövid
+653,breit::A,پراخه,széles
+654,schmal::A,تنګ,keskeny
+655,dicht::A,ګڼ,sűrű
+656,dick[Gegenstand]::A,پنډ,vastag
+657,dünn::A,نری,vékony
+658,fein::A,نازک,vékony
+659,fest::A,کلک,szilárd
+660,fest::A,ټینګ,szilárd
+661,flach::A,هوار,sík
+662,flach::A,هوار,lapos
+663,glatt::A,ښوی,sima
+664,hart::A,کلک,kemény
+665,weich::A,نرم,puha
+666,weich::A,پوست,puha
+667,rund::A,ګرد,kerek
+668,spitz::A,تېره,hegyes
+669,scharf::A,تېز,éles
+670,scharf::A,تېره,éles
+671,stumpf::A,پڅ,tompa
+672,stumpf::A,پڅ,életlen
+673,schwer::A,دروند,nehéz
+674,schwer::A,دروند,súlyos
+675,schön::A,ښکلی,szép
+676,heiß::A,تود,forró
+677,warm::A,تود,meleg
+678,kalt::A,ېخ,hideg
+679,kalt::A,سوړ,hideg
+680,kühl::A,ېخ,hűs
+681,kühl::A,ېخ,hűvös
+682,kühl::A,سوړ,hűs
+683,kühl::A,سوړ,hűvös
+684,frisch::A,تازه,üde
+685,frisch::A,تازه,friss
+686,feucht::A,مرطوب,nedves
+687,nass::A,لوند,vizes
+688,trocken::A,وچ,száraz
+689,voll::A,ډک,telt
+690,leer::A,خالی,üres
+691,offen::A,خلاص,nyílt
+692,offen::A,خلاص,nyitott
+693,offen::A,پرانیستی,nyílt
+694,offen::A,پرانیستی,nyitott
+695,geschlossen::A,تړلی,zárt
+696,geschlossen::A,تړلی,csukott
+697,sauber::A,پاک,tiszta
+698,schmutzig::A,چټل,piszkos
+699,schmutzig::A,چټل,szennyes
+700,roh::A,خام,nyers
+701,reif::A,پوخ,érett
+702,reif::A,رسېدلی,érett
+703,lecker::A,خوندور,finom
+704,lecker::A,مزه دار,finom
+705,süß::A,خوږ,édes
+706,süß::A,شیرین,édes
+707,bitter::A,تریخ,keserű
+708,sauer::A,ټاک,savanyú
+709,sauer::A,تريو,savanyú
+710,hell::A,روڼ,világos
+711,hell::A,روښان,világos
+712,dunkel::A,تیاره,sötét
+713,schwarz::A,تور,fekete
+714,weiß::A,سپين,fehér
+715,rot::A,سور,vörös
+716,gelb::A,زېړ,sárga
+717,blau::A,شین,kék
+718,blau::A,اسماني رنګه,kék
+719,grün::A,زرغون,zöld
+720,grau::A,خړ,ősz
+721,grau::A,خړ,szürke
+722,bunt::A,رنګارنګ,tarka
+723,bunt::A,رنګارنګ,színes
+724,billig::A,ارزان,olcsó
+725,teuer::A,ګران,drága
+726,wertvoll::A,قیمتي,értékes
+727,blind::A,ړوند,vak
+728,taub::A,کوڼ,süket
+729,kräftig::A,قوی,erős
+730,stark::A,قوی,erős
+731,stark::A,تکړه,erős
+732,schwach::A,ضعیف,gyenge
+733,schwach::A,ضعیف,erőtlen
+734,schwach::A,کمزوری,gyenge
+735,schwach::A,کمزوری,erőtlen
+736,fett::A,چاغ,hájas
+737,schlank::A,خوش اندام,karcsú
+738,hübsch::A,ښکلی,csinos
+739,hübsch::A,ښایسته,csinos
+740,böse::A,شریر,rossz
+741,böse::A,شریر,gonosz
+742,böse::A,قهرناک,rossz
+743,böse::A,قهرناک,gonosz
+744,dumm::A,احمق,buta
+745,dumm::A,احمق,ostoba
+746,faul::A,لټ,lusta
+747,faul::A,تنبل,lusta
+748,fleißig::A,زحمت کښ,szorgalmas
+749,geizig::A,بخیل,fukar
+750,geizig::A,بخیل,fösvény
+751,klug::A,عاقل,okos
+752,klug::A,عاقل,eszes
+753,klug::A,هوښیار,okos
+754,klug::A,هوښیار,eszes
+755,geschickt::A,ماهر,ügyes
+756,lieb::A,عزیز,drága
+757,lieb::A,عزیز,kedves
+758,lieb::A,محبوب,drága
+759,lieb::A,محبوب,kedves
+760,lustig::A,خوشحال,víg
+761,lustig::A,خوشحال,vidám
+762,sanft::A,پوست,enyhe
+763,sanft::A,ملایم,enyhe
+764,hungrig::A,وږی,éhes
+765,krank::A,مريض,beteg
+766,krank::A,ناروغ,beteg
+767,nackt::A,لوڅ,csupasz
+768,nackt::A,لوڅ,meztelen
+769,traurig::A,غمجن,bús
+770,traurig::A,غمجن,szomorú
+771,lebendig::A,ژوندی,élő
+772,gut::A,ښه,jó
+773,schlecht::A,بد,rossz
+774,schlecht::A,خراب,rossz
+775,richtig::A,سم,helyes
+776,richtig::A,صحیح,helyes
+777,schlimm::A,بد,rossz
+778,schlimm::A,مخوف,rossz
+779,wahr::A,واقعي,igaz
+780,alt::A,زوړ,ó
+781,alt::A,زوړ,régi
+782,neu::A,نوی,új
+783,ehemalig::A,پخوانی,volt
+784,ehemalig::A,پخوانی,egykori
+785,alt[Lebewesen]::A,زوړ,öreg
+786,jung::A,ځوان,fiatal
+787,arm::A,غریب,szegény
+788,arm::A,بې وزله,szegény
+789,reich::A,شتمن,gazdag
+790,reich::A,دولتمند,gazdag
+791,bekannt::A,اشنا,ismert
+792,bekannt::A,اشنا,ismeretes
+793,berühmt::A,مشهور,híres
+794,fremd::A,پردی,idegen
+795,fremd::A,بېګانه,idegen
+796,verschieden::A,مختلف,különböző
+797,nah::A,نژدې,közeli
+798,fern::A,لیری,távoli
+799,linker::A,چپ,bal
+800,linker::A,کیڼ,bal
+801,rechter::A,ښی,jobb
+802,anderer::A,بل,más
+803,anderer::A,بل,másik
+804,erster::A,لومړی,első
+805,zweiter::A,دوهم,második
+806,dritter::A,درېم,harmadik
+807,letzter::A,آخرنی,utolsó
+808,letzter::A,وروستی,utolsó
+809,allein::ADV,یوازې,egyedül
+810,auf einmal::ADV,په یوه وخت کی,egyszerre
+811,zusammen::ADV,یو ځای,együtt
+812,zusammen::ADV,یو ځای,összesen
+813,lange::ADV,ډېر وخت,sokáig
+814,lange::ADV,ډېر وخت,hosszan
+815,lange::ADV,ډېره موده,sokáig
+816,lange::ADV,ډېره موده,hosszan
+817,plötzlich::ADV,ناببره,hirtelen
+818,plötzlich::ADV,ناببره,egyszerre
+819,plötzlich::ADV,یوناڅاپه,hirtelen
+820,plötzlich::ADV,یوناڅاپه,egyszerre
+821,sofort::ADV,فوراً,rögtön
+822,sofort::ADV,فوراً,tüstént
+823,sofort::ADV,سمدلاسه,rögtön
+824,sofort::ADV,سمدلاسه,tüstént
+825,später::ADV,وروسته,későn
+826,jetzt::ADV,اوس,most
+827,heute::ADV,نن,ma
+828,morgen::ADV,سبا,holnap
+829,bald::ADV,ژر,majd
+830,bald::ADV,ژر,nemsokára
+831,dann::ADV,پس,akkor
+832,dann::ADV,وروسته,akkor
+833,gestern::ADV,پرون,tegnap
+834,einst::ADV,پخوا,hajdan
+835,damals::ADV,هغه وخت,akkor
+836,damals::ADV,هغه وخت,akkoriban
+837,danach::ADV,بیا,azután
+838,vorher::ADV,دمخه,előbb
+839,zuerst::ADV,لومړی,először
+840,einmal::ADV,یو ځل,egyszer
+841,manchmal::ADV,ګاهی ګاهی,néha
+842,manchmal::ADV,ګاهی ګاهی,olykor
+843,oft::ADV,ډېر ځله,sokszor
+844,immer::ADV,تل,mindig
+845,immer::ADV,همېشه,mindig
+846,niemals::ADV,هیڅکله نه,sohasem
+847,hier::ADV,دلته,itt
+848,hierhin::ADV,دلته,erre
+849,hierhin::ADV,دې ځای ته,erre
+850,von hier::ADV,د دې ځای نه,innen
+851,dort::ADV,هلته,ott
+852,dorthin::ADV,هلته,oda
+853,dorthin::ADV,هغه ځای ته,oda
+854,geradeaus::ADV,مخامخ,egyenesen
+855,vorwärts::ADV,مخ پهٔ وړاندې,előre
+856,rückwärts::ADV,بېرته,hátrafelé
+857,zurück::ADV,بېرته,hátra
+858,zurück::ADV,بېرته,vissza
+859,unten::ADV,لاندي,alul
+860,hinab::ADV,ښکته,le
+861,hinab::ADV,ښکته,lefelé
+862,oben::ADV,پورته,fenn
+863,oben::ADV,پورته,felül
+864,hinauf::ADV,پاس,fel
+865,hinauf::ADV,پاس,felfelé
+866,überall::ADV,هره خوا,mindenütt
+867,nicht::ADV,نه,nem
+868,ein wenig::ADV,یو څه,egy kicsit
+869,kaum::ADV,ایله,alig
+870,sehr::ADV,ډېر,nagyon
+871,sehr::ADV,زيات,nagyon
+872,so::ADV,داسې,úgy
+873,so::ADV,دومره,úgy
+874,noch::ADV,نور,még
+875,nur::ADV,تش,csak
+876,nur::ADV,تش,csupán
+877,nur::ADV,صرف,csak
+878,nur::ADV,صرف,csupán
+879,schon::ADV,دمخه,már
+880,wieder::ADV,بیا,ismét
+881,wieder::ADV,بیا,megint
+882,vergebens::ADV,عبث,hiába
+883,vor::PRP,دمخه,előtt
+884,hinter::PRP,شاته,mögött
+885,unter::PRP,لاندي,alatt
+886,durch::PRP,د مینځ نه,át
+887,durch::PRP,د مینځ نه,keresztül
+888,neben::PRP,نژدې,mellett
+889,zwischen::PRP,ترمینځ,között
+890,wegen::PRP,د ... له لاسه,miatt
+891,wegen::PRP,د ... له لاسه,végett
+892,dies::PRN,دا,ez
+893,das::PRN,دا,az
+894,alles::PRN,هرڅهٔ,minden
+895,ich::PRN,زه,én
+896,du::PRN,ته,te
+897,er::PRN,دی,ő
+898,wir::PRN,مونږ,mi
+899,ihr::PRN,تاسې,ti
+900,sie::PRN,هغوی,ők
+901,was::FPRN,څهٔ,mi
+902,wer::FPRN,چا,ki
+903,wer::FPRN,څوک,ki
+904,wo::FADV,چيری,hol
+905,wo::FADV,چېرته,hol
+906,wohin::FADV,چېرته,hova
+907,wie::FADV,څنګه,hogy
+908,wie::FADV,څنګه,hogyan
+909,warum::FADV,ولې,miért
+910,wieviel::FNUM,څو,hány
+911,wieviel::FNUM,څو,mennyi
+912,wieviel::FNUM,څومره,hány
+913,wieviel::FNUM,څومره,mennyi
+914,eins::NUM,یو,egy
+915,zwei::NUM,دوه,kettő
+916,drei::NUM,درې,három
+917,vier::NUM,څلور,négy
+918,fünf::NUM,پنځه,öt
+919,sechs::NUM,شپږ,hat
+920,sieben::NUM,اوه,hét
+921,acht::NUM,اته,nyolc
+922,neun::NUM,نهه,kilenc
+923,zehn::NUM,لس,tíz
+924,elf::NUM,یوولس,tizenegy
+925,zwölf::NUM,دولس,tizenkettő
+926,zwanzig::NUM,شل,húsz
+927,dreißig::NUM,دېرش,harminc
+928,vierzig::NUM,څلوېښت,negyven
+929,fünfzig::NUM,پنځوس,ötven
+930,sechzig::NUM,شپېته,hatvan
+931,siebzig::NUM,اویا,hetven
+932,achtzig::NUM,اتیا,nyolcvan
+933,neunzig::NUM,نوي,kilencven
+934,hundert::NUM,سل,száz
+935,tausend::NUM,زر,ezer
+936,und::CNJ,او,és
+937,und::CNJ,او,meg
+938,oder::CNJ,ېا,vagy
+939,stehen::V,درېدل,áll
+940,sitzen::V,کښېنستل,ül
+941,liegen::V,ملاستل,fekszik
+942,hängen::V,ځړېدل,függ
+943,werden::V,کېدل,lesz
+944,passieren::V,پېښېدل,történik
+945,beginnen::V,شروع کېدل,kezdődik
+946,enden::V,خلاصدل,végződik
+947,enden::V,خلاصدل,befejeződik
+948,enden::V,تمامېدل,végződik
+949,enden::V,تمامېدل,befejeződik
+950,wechseln::V,تغییر موندل,változik
+951,aufgehen[Sonne]::V,ختل,kel
+952,untergehen[Sonne]::V,لوېدل,lemegy
+953,untergehen[Sonne]::V,پرېوتل,lemegy
+954,scheinen[Sonne]::V,رڼا کول,süt
+955,donnern::V,تنېدل,dörög
+956,donnern::V,غړمبېدل,dörög
+957,wehen::V,چلېدل,fúj
+958,strömen::V,بهېدل,áramlik
+959,fließen::V,بهېدل,folyik
+960,fließen::V,تویېدل,folyik
+961,sich drehen::V,ګرځېدل,forog
+962,sich drehen::V,چورلېدل,forog
+963,schwanken::V,زنګېدل,inog
+964,schwanken::V,زنګېدل,ingadozik
+965,schwingen::V,زنګېدل,leng
+966,fallen::V,ولېدل,esik
+967,brennen::V,سوځېدل,ég
+968,rauchen::V,لوګی کول,füstöl
+969,regnen::V,باران اورېدل,esik
+970,gefrieren::V,کنګل نيول,megfagy
+971,tauen::V,وېلې کېدل,olvad
+972,schmelzen::V,وېلې کېدل,olvad
+973,schmelzen::V,وېلې کېدل,elolvad
+974,trocknen::V,وچېدل,szárad
+975,sieden::V,اېشېدل,forr
+976,faulen::V,خرابېدل,rothad
+977,verfaulen::V,ورستېدل,elrothad
+978,verfaulen::V,ورستېدل,megrothad
+979,reißen::V,شلېدل,szakad
+980,versinken::V,ډوېېدل,süllyed
+981,versinken::V,ډوېېدل,elsüllyed
+982,vergehen::V,تېرېدل,múlik
+983,vergehen::V,تېرېدل,elmúlik
+984,erscheinen::V,ښکارېدل,feltűnik
+985,erscheinen::V,ښکارېدل,megjelenik
+986,verschwinden::V,ورکېدل,letűnik
+987,sinken::V,ښکته کېدل,süllyed
+988,abnehmen::V,کمېدل,apad
+989,abnehmen::V,کمېدل,csökken
+990,zunehmen::V,زیاتېدل,növekszik
+991,zunehmen::V,زیاتېدل,gyarapszik
+992,steigen::V,جګېدل,emelkedik
+993,steigen::V,پورته کېدل,emelkedik
+994,wachsen::V,وده کول,nő
+995,wachsen::V,وده کول,terem
+996,wachsen::V,وده کول,növekszik
+997,glänzen::V,ځلېدل,ragyog
+998,glänzen::V,ځلېدل,fénylik
+999,funkeln::V,پړکېدل,csillog
+1000,funkeln::V,پړکېدل,tündöklik
+1001,lärmen::V,غال و غول کول,lármázik
+1002,läuten::V,زنګ وهل,cseng
+1003,klingeln::V,زنګ وهل,csenget
+1004,klirren::V,کړنګېدل,csörömpöl
+1005,brausen::V,تلاطم کول,zúg
+1006,brausen::V,تلاطم کول,morajlik
+1007,rauschen::V,شڼهار کول,zúg
+1008,klingen::V,آواز کول,hangzik
+1009,bellen::V,غپېدل,ugat
+1010,heulen::V,انګلل,bőg
+1011,heulen::V,انګلل,üvölt
+1012,blasen::V,پو کول,fúj
+1013,pfeifen::V,شپېلک وهل,fütyül
+1014,schreien::V,ناره کول,kiált
+1015,schreien::V,ناره کول,kiabál
+1016,stöhnen::V,زګېروی کول,nyög
+1017,zittern::V,لړزېدل,remeg
+1018,zittern::V,لړزېدل,reszket
+1019,leben::V,ژوند کول,él
+1020,geboren werden::V,زېږېدل,születik
+1021,atmen::V,ساه کښل,lélegzik
+1022,atmen::V,تنفس کول,lélegzik
+1023,trinken::V,څښل,iszik
+1024,essen::V,خوړل,eszik
+1025,schlucken::V,غړپول,nyel
+1026,müde werden::V,ستړی کېدل,elfárad
+1027,müde werden::V,ستړی کېدل,kifárad
+1028,einschlafen::V,ویده کېدل,elalszik
+1029,schlafen::V,خوب کول,alszik
+1030,aufwachen::V,ویښېدل,felébred
+1031,aufstehen::V,پاڅېدل,felkel
+1032,sich erholen::V,استراحت کول,pihen
+1033,krank werden::V,رنځورېدل,megbetegedik
+1034,krank werden::V,رنځورېدل,belebetegszik
+1035,krank sein::V,ناجوړېدل,betegeskedik
+1036,schmerzen::V,خوږېدل,fáj
+1037,schmerzen::V,درد کول,fáj
+1038,husten::V,ټوخېدل,köhög
+1039,genesen::V,رغېدل,meggyógyul
+1040,sterben::V,مړل,hal
+1041,umkommen::V,تلفېدل,elpusztul
+1042,sich bewegen::V,چلېدل,mozog
+1043,sich bewegen::V,حرکت کول,mozog
+1044,sich rühren::V,ښورېدل,mozdul
+1045,sich erheben::V,درېدل,feláll
+1046,sich erheben::V,درېدل,felemelkedik
+1047,sich setzen::V,کښېنستل,ül
+1048,sich setzen::V,کښېنستل,leül
+1049,hinfallen::V,لوېدل,bukik
+1050,hinfallen::V,لوېدل,elesik
+1051,laufen::V,منډې وهل,jár
+1052,schreiten::V,قدم ایښودل,lép
+1053,spazierengehen::V,چکر وهل,sétál
+1054,eilen::V,بېړه کول,siet
+1055,sich beeilen::V,عجله کول,siet
+1056,sausen::V,ځغستل,robog
+1057,rennen::V,زغلېدل,fut
+1058,rennen::V,زغلېدل,szalad
+1059,springen::V,ټوپ وهل,ugrik
+1060,klettern::V,ختل,kúszik
+1061,schaukeln::V,زنګېدل,hintázik
+1062,kriechen::V,خاپوړی وهل,kúszik
+1063,schwimmen::V,لامبو وهل,úszik
+1064,tauchen::V,غوټه وهل,merül
+1065,rudern::V,پارو وهل,evez
+1066,fahren::V,تلل,jár
+1067,fahren::V,تلل,megy
+1068,fahren::V,تلل,utazik
+1069,fliegen::V,الوتل,száll
+1070,gehen::V,تلل,megy
+1071,weggehen::V,بهر وتل,elmegy
+1072,abfahren::V,تلل,indul
+1073,anhalten::V,ودرېدل,megáll
+1074,hineingehen::V,داخلېدل,bemegy
+1075,eintreten::V,ننوتل,belép
+1076,kommen::V,راتلل,jön
+1077,ankommen::V,رسېدل,érkezik
+1078,ankommen::V,رسېدل,megérkezik
+1079,zurückkommen::V,بېرته راتلل,visszajön
+1080,bleiben::V,پاتې کېدل,marad
+1081,bleiben::V,پاتې کېدل,megmarad
+1082,warten::V,انتظار وېستل,vár
+1083,warten::V,انتظار وېستل,várakozik
+1084,erwarten::V,انتظار کول,vár
+1085,erwarten::V,انتظار کول,megvár
+1086,suchen::V,لټول,kutat
+1087,finden::V,میندل,talál
+1088,finden::V,پیدا کول,talál
+1089,versuchen::V,هڅه کول,megpróbál
+1090,versuchen::V,هڅه کول,megkísérel
+1091,vorbereiten::V,چمتوکول,előkészít
+1092,lieben::V,مینه لرل,szeret
+1093,mögen::V,خوښول,szeret
+1094,mögen::V,علاقه لرل,szeret
+1095,lachen::V,خندېدل,nevet
+1096,rühren::V,اغېزه کول,mozdít
+1097,weinen::V,ژړل,sír
+1098,schimpfen::V,ښکنځا کول,szid
+1099,schimpfen::V,ښکنځا کول,szitkozódik
+1100,sich ärgern::V,قهر راتلل,mérgelődik
+1101,sich ärgern::V,قهر راتلل,bosszankodik
+1102,sich fürchten::V,ډارېدل,fél
+1103,sich fürchten::V,ډارېدل,retteg
+1104,fürchten::V,ډارېدل,fél
+1105,fliehen::V,تښتېدل,menekül
+1106,flüchten::V,تښتېدل,elmenekül
+1107,sehen::V,لیدل,néz
+1108,anschauen::V,کتل,megnéz
+1109,ansehen::V,ننداره کول,néz
+1110,ansehen::V,ننداره کول,ránéz
+1111,ansehen::V,ننداره کول,megnéz
+1112,hören::V,اورېدل,hall
+1113,zuhören::V,غوږ نیول,hallgat
+1114,zuhören::V,غوږ نیول,meghallgat
+1115,probieren::V,څکه کول,kóstol
+1116,probieren::V,څکه کول,megkóstol
+1117,probieren::V,چاشنی کول,kóstol
+1118,probieren::V,چاشنی کول,megkóstol
+1119,riechen::V,بويول,szagol
+1120,fühlen::V,حسول,érez
+1121,scheinen::V,ښکارېدل,tűnik
+1122,scheinen::V,ښکارېدل,látszik
+1123,zu sehen sein::V,ښکارېدل,mutatkozik
+1124,vernehmen::V,خبرېدل,hall
+1125,frieren::V,ساړه کېتل,fázik
+1126,tun::V,کول,csinál
+1127,tun::V,کول,cselekszik
+1128,können::V,کولای شول,tud
+1129,können::V,د لاسه کېدل,tud
+1130,wollen::V,غوښتل,akar
+1131,anfangen::V,شروع کول,kezd
+1132,beenden::V,ختمول,befejez
+1133,beenden::V,پای ته رسول,befejez
+1134,aufhören::V,بس کول,megszűnik
+1135,gelingen::V,موفق کېدل,sikerül
+1136,gelingen::V,بریالی کېدل,sikerül
+1137,geraten::V,کېدل,kerül
+1138,geraten::V,کېدل,jut
+1139,öffnen::V,خلاصول,nyit
+1140,öffnen::V,خلاصول,kinyit
+1141,öffnen::V,پرانیستل,nyit
+1142,öffnen::V,پرانیستل,kinyit
+1143,schließen::V,تړل,csuk
+1144,schließen::V,تړل,becsuk
+1145,stellen::V,ایښودل,állít
+1146,stellen::V,ایښودل,helyez
+1147,setzen::V,کښېنول,ültet
+1148,setzen::V,کښېنول,helyez
+1149,legen::V,ایښودل,tesz
+1150,legen::V,ایښودل,fektet
+1151,berühren::V,لاس وهل,érint
+1152,verbinden::V,تړل,beköt
+1153,verbinden::V,تړل,összeköt
+1154,bedecken::V,پوښول,betakar
+1155,bedecken::V,پوښول,beborít
+1156,aufhängen::V,ځوړندول,felakaszt
+1157,anzünden::V,بلول,gyújt
+1158,anzünden::V,بلول,meggyújt
+1159,aufheben::V,پورته کول,felemel
+1160,zurücklassen::V,پرېښودل,hátrahagy
+1161,verlieren::V,ورکول,veszít
+1162,verlieren::V,ورکول,elveszít
+1163,fallen lassen::V,له لاسه لوېدل,elejt
+1164,machen::V,کول,tesz
+1165,machen::V,کول,csinál
+1166,herstellen::V,جوړول,gyárt
+1167,herstellen::V,جوړول,előállít
+1168,herstellen::V,توليدول,gyárt
+1169,herstellen::V,توليدول,előállít
+1170,bauen::V,جوړول,épít
+1171,reparieren::V,ترمیمول,javít
+1172,reparieren::V,ترمیمول,kijavít
+1173,reparieren::V,ترمیمول,megjavít
+1174,verbessern::V,اصلاح کول,megjavít
+1175,ändern::V,تغیر ورکول,változtat
+1176,ändern::V,تغیر ورکول,megváltoztat
+1177,graben::V,کيندل,ás
+1178,beugen::V,ټیټول,meghajt
+1179,biegen::V,کږول,hajlít
+1180,drehen::V,ګرځول,forgat
+1181,wenden::V,اړول,fordít
+1182,wenden::V,اړول,megfordít
+1183,umdrehen::V,اړول,megfordít
+1184,umdrehen::V,اړول,megforgat
+1185,heben::V,جګول,emel
+1186,heben::V,پورته کول,emel
+1187,hochheben::V,جګول,felemel
+1188,ergreifen::V,نیول,megfog
+1189,halten::V,نیول,tart
+1190,drücken::V,کښېکښل,nyom
+1191,drücken::V,کښېکښل,megnyom
+1192,schieben::V,پوری وهل,tol
+1193,kratzen::V,ګرول,vakar
+1194,lecken::V,څټل,nyal
+1195,beißen::V,چیچل,harap
+1196,abreißen::V,شکول,letép
+1197,abschneiden::V,پرېکول,levág
+1198,binden::V,تړل,köt
+1199,binden::V,تړل,kötöz
+1200,stecken::V,ټومبل,dug
+1201,brechen::V,ماتول,tör
+1202,brechen::V,ماتول,eltör
+1203,klopfen::V,ټکول,kopogtat
+1204,hauen::V,ټکول,vág
+1205,hauen::V,ټکول,levág
+1206,kleben::V,نښلول,tapaszt
+1207,kleben::V,سرېښول,tapaszt
+1208,reiben::V,مږل,dörzsöl
+1209,reiben::V,مږل,súrol
+1210,streichen::V,مښل,simít
+1211,schleifen::V,تېره کول,fen
+1212,schleifen::V,تېره کول,csiszol
+1213,schleifen::V,تېره کول,köszörül
+1214,schneiden::V,غوڅول,vág
+1215,schneiden::V,غوڅول,szel
+1216,schneiden::V,غوڅول,metsz
+1217,schneiden::V,پرېکول,vág
+1218,schneiden::V,پرېکول,szel
+1219,schneiden::V,پرېکول,metsz
+1220,rütteln::V,خوڅول,ráz
+1221,schütteln::V,ښورول,ráz
+1222,schütteln::V,ښورول,megráz
+1223,schwenken::V,خوڅول,lóbál
+1224,schwenken::V,خوڅول,lobogtat
+1225,schütten::V,اچول,önt
+1226,schütten::V,تویول,önt
+1227,füllen::V,ډکول,tölt
+1228,füllen::V,ډکول,megtölt
+1229,einwickeln::V,پېچل,becsavar
+1230,einwickeln::V,نغښتل,becsavar
+1231,tragen::V,وړل,hord
+1232,schleppen::V,وړل,vonszol
+1233,ziehen::V,کښل,húz
+1234,aufbewahren::V,ساتل,megőriz
+1235,werfen::V,اچول,dob
+1236,werfen::V,اچول,hajít
+1237,werfen::V,غورځول,dob
+1238,werfen::V,غورځول,hajít
+1239,fangen::V,نیول,fog
+1240,fangen::V,ګیرول,fog
+1241,packen::V,نیول,megragad
+1242,verstecken::V,پټول,eldug
+1243,verstecken::V,پټول,elrejt
+1244,teilen::V,وېشل,oszt
+1245,teilen::V,وېشل,megoszt
+1246,teilen::V,تقسیمول,oszt
+1247,teilen::V,تقسیمول,megoszt
+1248,schicken::V,لېږل,küld
+1249,schicken::V,استول,küld
+1250,bringen::V,راوړل,hoz
+1251,bringen::V,راوړل,visz
+1252,hinzufügen::V,زیاتول,hozzáad
+1253,bekommen::V,حاصلول,kap
+1254,bekommen::V,حاصلول,megkap
+1255,erhalten::V,اخیستل,kap
+1256,erhalten::V,اخیستل,megkap
+1257,nehmen::V,نیول,vesz
+1258,nehmen::V,اخيستل,vesz
+1259,wählen::V,خوښول,választ
+1260,auswählen::V,چنده کول,kiválaszt
+1261,bewahren::V,ساتل,megtart
+1262,behindern::V,مانع کېدل,akadályoz
+1263,behindern::V,مانع کېدل,gátol
+1264,behindern::V,ممانعت کول,akadályoz
+1265,behindern::V,ممانعت کول,gátol
+1266,verderben::V,خرابېدل,elront
+1267,beschädigen::V,ورانول,rongál
+1268,zerbrechen::V,ماتول,eltör
+1269,zerbrechen::V,ماتول,széttör
+1270,zerbrechen::V,ماتول,kettétör
+1271,zerreißen::V,څیرې کول,eltép
+1272,zerreißen::V,څیرې کول,széttép
+1273,zerstören::V,ړنګول,elpusztít
+1274,zerstören::V,ورانول,elpusztít
+1275,verbrennen::V,سوځول,éget
+1276,verbrennen::V,سوځول,eléget
+1277,geben::V,ورکول,ad
+1278,reichen::V,ورکول,nyújt
+1279,schenken::V,بښل,ajándékoz
+1280,versprechen::V,لوز کول,ígér
+1281,wünschen::V,غوښتل,kíván
+1282,loben::V,ستایل,dicsér
+1283,loben::V,تمجید کول,dicsér
+1284,küssen::V,ښکلول,csókol
+1285,wiegen::V,زنګول,ringat
+1286,zudecken::V,پوښول,betakar
+1287,wecken::V,ويښول,kelt
+1288,wecken::V,ويښول,ébreszt
+1289,zeigen::V,ښودل,mutat
+1290,führen::V,بیول,visz
+1291,führen::V,بیول,vezet
+1292,lehren::V,درس ورکول,tanít
+1293,lehren::V,تعلیم ورکول,tanít
+1294,unterrichten::V,درس ورکول,tanít
+1295,aufziehen::V,روزل,felnevel
+1296,leiten::V,رهبری کول,vezet
+1297,leiten::V,رهبری کول,vezérel
+1298,leiten::V,لارښوونه کول,vezet
+1299,leiten::V,لارښوونه کول,vezérel
+1300,antreiben::V,چټک کول,hajt
+1301,lassen::V,اړکول,-tat
+1302,lassen::V,اړکول,-at
+1303,einladen::V,بلل,meghív
+1304,vereinigen::V,متحد کول,egyesít
+1305,vereinigen::V,یوځای کول,egyesít
+1306,besuchen::V,کتنه کول,látogat
+1307,treffen::V,ليدل,talál
+1308,treffen::V,تلقی کول,talál
+1309,sich versammeln::V,راغونډېدل,gyülekezik
+1310,sich versammeln::V,راغونډېدل,összegyűlik
+1311,spielen::V,لوبه کول,játszik
+1312,singen::V,سندرې وېل,énekel
+1313,tanzen::V,ګډېدل,táncol
+1314,sich trennen::V,بېلېدل,elválik
+1315,verlassen::V,ترک کول,elhagy
+1316,retten::V,نجات ورکول,ment
+1317,bewachen::V,ساتل,őriz
+1318,bewachen::V,حفاظت کول,őriz
+1319,schützen::V,ژغورل,óv
+1320,schützen::V,ژغورل,véd
+1321,verteidigen::V,دفاع کول,véd
+1322,sich schlagen::V,جنګېدل,verekszik
+1323,schießen::V,ویشتل,lő
+1324,siegen::V,غالبېدل,győz
+1325,ärgern::V,خپه کول,bosszant
+1326,schlagen::V,وهل,üt
+1327,schlagen::V,وهل,ver
+1328,treten::V,په لغته وهل,rúg
+1329,stechen::V,ټومبل,döf
+1330,stechen::V,ټومبل,szúr
+1331,stoßen::V,ټېل وهل,lök
+1332,stoßen::V,پوری وهل,lök
+1333,stehlen::V,تښتول,lop
+1334,stehlen::V,غلا کول,lop
+1335,stören::V,ماتول,zavar
+1336,belästigen::V,ځورول,zaklat
+1337,belästigen::V,تکلیف ورکول,zaklat
+1338,verbergen::V,پټول,rejt
+1339,verbergen::V,پټول,elrejt
+1340,täuschen::V,تېرایستل,megtéveszt
+1341,täuschen::V,خطا ایستل,megtéveszt
+1342,betrügen::V,غولول,csal
+1343,töten::V,وژل,öl
+1344,töten::V,مړ کول,öl
+1345,wohnen::V,اوسېدل,lakik
+1346,arbeiten::V,کار کول,dolgozik
+1347,sammeln::V,راټولول,szed
+1348,sammeln::V,راټولول,gyűjt
+1349,sammeln::V,راغونډول,szed
+1350,sammeln::V,راغونډول,gyűjt
+1351,pflücken::V,شکول,szed
+1352,jagen::V,ښکار کول,vadászik
+1353,fischen::V,کب نيول,halászik
+1354,fassen::V,نیول,fog
+1355,fassen::V,ګیرول,fog
+1356,hüten::V,پوول,őriz
+1357,hüten::V,پوول,legeltet
+1358,treiben::V,بیول,hajt
+1359,anbinden::V,تړل,köt
+1360,füttern::V,خوراک ورکول,etet
+1361,melken::V,لوشل,fej
+1362,hacken::V,پی کول,vág
+1363,gießen::V,اوبه کول,öntöz
+1364,reifen::V,رسېدل,érik
+1365,zubereiten::V,تیارول,elkészít
+1366,kochen::V,پخول,főz
+1367,backen::V,پخول,süt
+1368,braten::V,وريتول,süt
+1369,umrühren::V,لړل,megkever
+1370,stricken::V,اوبدل,köt
+1371,nähen::V,ګنډل,varr
+1372,färben::V,رنګول,fest
+1373,reinigen::V,صافول,tisztít
+1374,waschen::V,مینځل,mos
+1375,abwischen::V,وچول,letöröl
+1376,spülen::V,کنګالول,mosogat
+1377,fegen::V,جارو کول,söpör
+1378,kehren::V,جارو کول,söpör
+1379,baden::V,لمبېدل,fürdik
+1380,sich waschen::V,ځان مينځل,mosdik
+1381,sich waschen::V,ځان مينځل,mosakszik
+1382,ausziehen::V,کښل,levesz
+1383,ausziehen::V,ایستل,levesz
+1384,anziehen::V,اغوستل,felölt
+1385,anziehen::V,اغوستل,felvesz
+1386,sich anziehen::V,کالی اغوستل,öltözik
+1387,sich anziehen::V,کالی اغوستل,felöltözik
+1388,kämmen::V,ګمنځول,fésül
+1389,schmücken::V,ښکلی کول,díszít
+1390,sagen::V,وېل,mond
+1391,sprechen::V,وېل,beszél
+1392,sprechen::V,غږېدل,beszél
+1393,reden::V,ګړېدل,beszél
+1394,reden::V,خبرې کول,beszél
+1395,sich unterhalten::V,خبری کول,beszélget
+1396,fragen::V,پوښتنه کول,kérdez
+1397,bitten::V,غوښتل,kér
+1398,erzählen::V,کيسه کول,mesél
+1399,erzählen::V,کيسه کول,elbeszél
+1400,erzählen::V,حکايت کول,mesél
+1401,erzählen::V,حکايت کول,elbeszél
+1402,mitteilen::V,خبرول,közöl
+1403,mitteilen::V,خبر ورکول,közöl
+1404,nennen::V,نوم ايښودل,hív
+1405,nennen::V,نوم ايښودل,nevez
+1406,rufen::V,بلل,hív
+1407,prahlen::V,لاپې وهل,dicsekszik
+1408,übersetzen::V,ژباړل,fordít
+1409,übersetzen::V,ترجمه کول,fordít
+1410,denken::V,فکر کول,gondol
+1411,glauben::V,باور کول,hisz
+1412,bemerken::V,لیدل,észrevesz
+1413,erkennen::V,پېژندل,ráismer
+1414,erkennen::V,پېژندل,felismer
+1415,begreifen::V,رسېدل,felfog
+1416,begreifen::V,پوهېدل,felfog
+1417,verstehen::V,پوهېدل,ért
+1418,verstehen::V,پوهېدل,megért
+1419,lernen::V,زده کول,tanul
+1420,lernen::V,زده کول,megtanul
+1421,lernen::V,درس لوستل,tanul
+1422,lernen::V,درس لوستل,megtanul
+1423,wissen::V,پوهېدل,tud
+1424,sich erinnern an::V,یادول,emlékszik
+1425,sich erinnern an::V,په یاد راوړل,emlékszik
+1426,vergessen::V,هېرول,felejt
+1427,vergessen::V,هېرول,elfelejt
+1428,messen::V,اندازه کول,mér
+1429,messen::V,اندازه کول,megmér
+1430,zählen::V,شمارل,számol
+1431,zählen::V,شمارل,megszámol
+1432,rechnen::V,حسابول,számít
+1433,lesen::V,لوستل,olvas
+1434,malen::V,رسمول,fest
+1435,zeichnen::V,رسمول,rajzol
+1436,schreiben::V,لیکل,ír
+1437,besitzen::V,لرل,birtokol
+1438,kaufen::V,رانیول,vesz
+1439,kaufen::V,رانیول,megvesz
+1440,verkaufen::V,خرڅول,elad
+1441,bezahlen::V,تأدیه کول,fizet
+1442,bezahlen::V,تأدیه کول,kifizet
+1443,zahlen::V,کسات اخيستل,fizet
+1444,zahlen::V,کسات اخيستل,megfizet
+1445,beherrschen::V,تسلط لرل,ural
+1446,ertragen::V,زغمل,elbír
+1447,ertragen::V,زغمل,elvisel
+1448,Barsch::N,,sügér
+1449,Hecht::N,,csuka

@@ -1,0 +1,1502 @@
+,Concept_ID,os,kl
+0,Auge::N,цӕст,isi
+1,Ohr::N,хъус,siut
+2,Nase::N,фындз,
+3,Mund::N,дзых,paaq
+4,Mund::N,дзых,qaneq
+5,Zahn::N,дӕндаг,kigut
+6,Zunge::N,ӕвзаг,oqaq
+7,Lippe::N,был,qarloq
+8,Wange::N,рус,ersaq
+9,Wange::N,уадул,ersaq
+10,Wange::N,ӕхсӕрфарс,ersaq
+11,Gesicht::N,цӕсгом,kiinaq
+12,Stirn::N,ных,qaaq
+13,Haar::N,хил,meqqoq
+14,Schnurrbart::N,рихи,
+15,Bart::N,зачъе,umik
+16,Kinn::N,роцъо,talloq
+17,Kiefer[Anatomie]::N,ӕфсӕр,alleroq
+18,Kehle::N,хъуыр,malaq
+19,Hals::N,къубал,qungaseq
+20,Genick::N,къӕбут,pukusuk
+21,Kopf::N,сӕр,niaqoq
+22,Rücken::N,фӕсонтӕ,qimerlut
+23,Bauch::N,гуыбын,naaq
+24,Nabel::N,бикъ,qalaseq
+25,Busen::N,дзидзи,iviangeq
+26,Brust::N,риу,iviangeq
+27,Schulter::N,уӕхск,ersik
+28,Schulter::N,уӕхск,assaqqoq
+29,Arm::N,цонг,taleq
+30,Ellenbogen::N,рæмбын,ikusik
+31,Hand::N,къух,assak
+32,Handfläche::N,армытъӕпӕн,itumak
+33,Finger::N,ӕнруылдз,inuak
+34,Fingernagel::N,ных,kikiak
+35,Nagel[Anatomie]::N,ных,kukik
+36,Zeh::N,къух,isigak
+37,Fuß::N,фад,
+38,Ferse::N,зӕвӕт,kimmik
+39,Knie::N,уӕраг,seeqqoq
+40,Oberschenkel::N,агъд,uppat
+41,Oberschenkel::N,агъд,quttoraq
+42,Bein::N,зӕнг,isigak
+43,Körper::N,буар,timi
+44,Haut::N,царм,mattak
+45,Blut::N,туг,aak
+46,Ader::N,дадзин,taqaq
+47,Ader::N,тугдадзин,taqaq
+48,Sehne::N,хъиутæ,ujalu
+49,Sehne::N,хъиутæ,ujaloq
+50,Sehne::N,нуар,ujalu
+51,Sehne::N,нуар,ujaloq
+52,Knochen::N,стӕг,saanikut
+53,Gehirn::N,магъз,qarasaq
+54,Herz::N,зӕрдӕ,uummat
+55,Magen::N,ахсӕн,aqajaroq
+56,Leber::N,игæр,tinguk
+57,Atem::N,улӕфт,anerneq
+58,Hunger::N,стонг,kaanneq
+59,Träne::N,цæссыг,qia
+60,Träne::N,цæссыг,qiak
+61,Geschmack::N,ад,qilanaartuut
+62,Geruch::N,смаг,tipi
+63,Geruch::N,смаг,tipik
+64,Schlaf::N,хуыссӕг,
+65,Traum::N,фын,sinnattoq
+66,Traum::N,фын,sinnattugaq
+67,Himmel::N,арв,qilak
+68,Himmel::N,уӕларв,qilak
+69,Sonne::N,хур,seqineq
+70,Mond::N,мӕй,qaammat
+71,Stern::N,стъалы,ulloriaq
+72,Luft::N,уӕлдӕф,silaannaq
+73,Wind::N,дымгӕ,anori
+74,Wind::N,дымгӕ,anorsarik
+75,Welle::N,уылӕн,aalappaa
+76,Wasser::N,дон,imeq
+77,Stein::N,дур,ujarak
+78,Boden::N,зӕхх,nateq
+79,Erde::N,сыджыт,issoq
+80,Staub::N,рыг,pujualanerit
+81,Staub::N,рыг,pujoralanerit
+82,Rauch::N,фӕздӕг,iseq
+83,Rauch::N,фӕздӕг,pujoq
+84,Funke::N,цӕхӕр,illoorneq
+85,Feuer::N,зынг,inneq
+86,Licht::N,рухс,qaamaneq
+87,Schatten::N,аууон,tarraq
+88,Wetter::N,боныхъӕд,sila
+89,Nebel::N,мигъ,pujoq
+90,Wolke::N,ӕврагъ,nuia
+91,Regen::N,уарын,sialuk
+92,Schnee::N,мит,aput
+93,Eis::N,их,siku
+94,Frost::N,ихæн,issi
+95,Frost::N,ихæн,issik
+96,Kälte::N,уазал,issi
+97,Hitze::N,ӕнтӕф,kianneq
+98,Hitze::N,ӕнтӕф,kiassuseq
+99,Raureif::N,халас,kaneq
+100,Regenbogen::N,арвырон,neriusaaq
+101,Regenbogen::N,арвырдын,neriusaaq
+102,Donner::N,æрвнæрын,kalleq
+103,Strömung::N,цыд,
+104,Tropfen::N,æртах,kuseriarneq
+105,Schaum::N,фынк,qapuk
+106,Schmutz::N,цъыф,minguk
+107,See::N,цад,taseq
+108,Sumpf::N,цъыфдзаст,maqulluk
+109,Moor::N,цъыфдзаст,
+110,Wiese::N,уыгӕрдӕн,masarsuk
+111,Wald::N,хъӕд,
+112,Hügel::N,обау,qattuneq
+113,Hügel::N,обау,majuariaq
+114,Hügel::N,обау,majorajaaq
+115,Hügel::N,обау,qaqqannguaq
+116,Hügel::N,къуыбыр,qattuneq
+117,Hügel::N,къуыбыр,majuariaq
+118,Hügel::N,къуыбыр,majorajaaq
+119,Hügel::N,къуыбыр,qaqqannguaq
+120,Anhöhe::N,уæлвæз,
+121,Anhöhe::N,уæлхох,
+122,Berg::N,хох,qaqqaq
+123,Gipfel::N,цъупп,
+124,Höhle::N,лӕгӕт,qaarusuk
+125,Abhang::N,къул,ippik
+126,Abhang::N,къул,sivinganeq
+127,Abhang::N,къул,sivingajaaq
+128,Abhang::N,къул,kussangajaaq
+129,Quelle::N,суадон,
+130,Bach::N,мӕсчъыдон,kuunnguaq
+131,Fluss::N,дон,kuuk
+132,Fluss::N,цӕугӕдон,kuuk
+133,Ufer::N,был,sissap sinaa
+134,Küste::N,донбыл,sineriak
+135,Festland::N,сурзæхх,
+136,Meer::N,денджыз,imaq
+137,Bucht::N,донбакæлæн,ikeq
+138,Bucht::N,донбакæлæн,kangerluk
+139,Bucht::N,донбакæлæн,kangerliumaneq
+140,Insel::N,сакъадах,qeqertaq
+141,Blume::N,дидинӕг,naasoq
+142,Gras::N,кӕрдӕг,ivigaq
+143,Wurzel::N,уидаг,niulutaq
+144,Baum::N,бӕлас,orpik
+145,Stamm::N,хӕтӕл,kanaartaq
+146,Rinde::N,цъар,ameraq
+147,Ast::N,арх,avalequt
+148,Zweig::N,къалиу,avalequt
+149,Blatt::N,сыф,pilutaq
+150,Birke::N,бæрз,patitsit
+151,Kiefer[Baum]::N,нӕзы,
+152,Weide[Baum]::N,хӕрис,palleq
+153,Tanne::N,наз,orsuerneq
+154,Horn::N,сыкъа,nassuk
+155,Feder::N,сис,suluk
+156,Fell::N,царм,ameq
+157,Flügel::N,базыр,suluk
+158,Flügel::N,базыр,isaroq
+159,Klaue::N,ных,kukik
+160,Kralle::N,дзӕмбы,kukik
+161,Schwanz::N,къӕдзил,pamioq
+162,Schwanz::N,къӕдзил,paperuusaq
+163,Ei::N,айк,mannik
+164,Nest::N,ахстон,ullut
+165,Bau::N,хуынкъ,ini
+166,Tier::N,сырд,uumasoq
+167,Tier::N,цӕрӕгой,uumasoq
+168,Herde::N,дзуг,unguukkat
+169,Herde::N,рӕгъау,unguukkat
+170,Kuh::N,хъуг,ussik
+171,Bulle::N,гал,angukulak
+172,Bulle::N,гал,anguteralak
+173,Bulle::N,гал,angutikulooq
+174,Pferd::N,бӕх,
+175,Schaf::N,фыс,sava
+176,Schwein::N,хуы,puuluki
+177,Hund::N,куыдз,qimmeq
+178,Katze::N,гӕды,puisaaq
+179,Bär::N,арс,allaq
+180,Eichhörnchen::N,æхсæрæг,sissinnguaq
+181,Elch::N,цæгатаг саг,
+182,Fuchs::N,рувас,terianniaq
+183,Hase::N,тæрхъус,ukaleq
+184,Maus::N,мыст,teriannguaq
+185,Wolf::N,бирӕгъ,amaroq
+186,Vogel::N,цъиу,timmiaq
+187,Vogel::N,маргъ,timmiaq
+188,Schwarm::N,бал,
+189,Huhn::N,карк,kukkukooq
+190,Huhn::N,карк,marloraaqaaq
+191,Hahn::N,уасӕг,kiasiusaq
+192,Gans::N,хъаз,nerleq
+193,Adler::N,цӕргӕс,nattoralik
+194,Ente::N,ацц,
+195,Eule::N, уыг,uppik
+196,Eule::N,сидахъ,uppik
+197,Kranich::N,зырнæг,qorlorfik
+198,Kranich::N,хърихъупп,qorlorfik
+199,Krähe::N,халон,tuluatsiaq
+200,Kuckuck::N,гаккук,kukkooq
+201,Schwan::N,доныхъаз,qussuk
+202,Fisch::N,кӕсаг,aalisagaq
+203,Barsch::N,окунь,
+204,Hecht::N,хихор кӕсаг,
+205,Schlange[Tier]::N,калм,pulateriarsuk
+206,Schlange[Tier]::N,калм,pulateriaarsuk
+207,Wurm::N,зулкъ,
+208,Wurm::N,къуыдыргалм,
+209,Spinne::N,хӕлуарӕг,aasiaq
+210,Spinne::N,хӕлуарӕг,nissavaarsuk
+211,Ameise::N,мæлдзыг,uniaaluk
+212,Laus::N,сыст,kumak
+213,Mücke::N,къогъо,ippernaq
+214,Fliege::N,бындз,ippernaq
+215,Schmetterling::N,гæлæбу,paluaq
+216,Schmetterling::N,гæлæбу,pakkaluaq
+217,Schmetterling::N,гæлæбу,utsuppaluaq
+218,Schmetterling::N,гæлæбу,taqaleqisaaq
+219,Beere::N,гагадыргъ,paarmaq
+220,Beere::N,гагадыргъ,paarngaq
+221,Apfel::N,фӕткъуы,iipili
+222,Pilz::N,зокъо,anngiusaq
+223,Pilz::N,къозо,anngiusaq
+224,Zwiebel::N,хъӕдындз,uanitsoq
+225,Saat::N,тауинаг,naatsiiassaq
+226,Saat::N,мыггаг,naatsiiassaq
+227,Korn::N,мыггаг,maannineq
+228,Korn::N,тауинаг,maannineq
+229,Heu::N,хос,
+230,Schale::N,цъар,niutsivik
+231,Schale::N,цъар,ilulissaq qaartussaq
+232,Grube::N,урм,itersaq
+233,Grube::N,къахт,itersaq
+234,Grube::N,дзыхъхъ,itersaq
+235,Falle::N,цъысым,pualavoq
+236,Falle::N,къӕппӕг,pualavoq
+237,Schlinge::N,цасм,orseq
+238,Schlinge::N,цасм,norloq
+239,Spur::N,фæд,tumaa
+240,Asche::N,фӕнык,arsat
+241,Asche::N,ӕртхутӕг,arsat
+242,Dreck::N,цъыф,minguk
+243,Eisen::N,ӕфсӕйнаг,savimineq
+244,Eisen::N,ӕфсӕйнаг,saffiugassaq
+245,Gold::N,сыгъзӕрин,kuulti
+246,Silber::N,ӕвзист,siilviuvoq
+247,Kohle::N,ӕвзалы,aamarsuit aamaruutissat
+248,Glas::N,авг,igalaaq
+249,Glas::N,авг,imertarfik
+250,Glas::N,авг,igalaamineq
+251,Lehm::N,ӕлыг,marraq
+252,Sand::N,змис,sioqqat
+253,Mensch::N,лӕг,inuk
+254,Mensch::N,лӕг,silamiu
+255,Mensch::N,адӕймаг,inuk
+256,Mensch::N,адӕймаг,silamiu
+257,Mensch::N,удгоймаг,inuk
+258,Mensch::N,удгоймаг,silamiu
+259,Mann::N,лӕг,angut
+260,Mann::N,нӕлгоймаг,angut
+261,Frau::N,сылгоймаг,arnaq
+262,Kind::N,сывӕллон,meeraq
+263,Junge::N,лӕппу,nukappiaraq
+264,Mädchen::N,чызг,arnannguaq
+265,Familie::N,бинонтæ,ilaqutakka
+266,Familie::N,бинонтæ,ilaqutariit
+267,Großvater::N,фыдыфыд,aatak
+268,Großvater::N,мадыфыд,aatak
+269,Großmutter::N,фыды мад,aanaq
+270,Großmutter::N,мады мад,aanaq
+271,Eltern::N,ныййарджытæ,angajoqqaat
+272,Vater::N,фыд,ataata
+273,Vater::N,фыд,ataataq
+274,Mutter::N,мад,anaana
+275,Sohn::N,фырт,erneq
+276,Tochter::N,чызг,panik
+277,Bruder::N,ӕфсымӕр,ani
+278,Bruder::N,ӕфсымӕр,aqqaluk
+279,Bruder::N,ӕфсымӕр,qatanngut
+280,Schwester::N,хо,naja
+281,Schwester::N,хо,aleqa
+282,Schwester::N,хо,qatanngut
+283,Onkel::N,фыдыфсымӕр,akkak
+284,Tante::N,мадыхо,aja
+285,Tante::N,мадыхо,ajak
+286,Tante::N,мадыхо,atsak
+287,Ehemann::N,мой,ui
+288,Ehefrau::N,ус,nuliaq
+289,Freude::N,цин,tipaatsussuseq
+290,Freude::N,циндзинад,tipaatsussuseq
+291,Gelächter::N,худын,illaq
+292,Gelächter::N,худт,illaq
+293,Gelächter::N,худæг,illaq
+294,Glück::N,амонд,usornaat
+295,Glück::N,амонд,usornarsuseq
+296,Kummer::N,хъыг,
+297,Wunsch::N,бӕллиц,kissaat
+298,Lust::N,монц,illigussuseq
+299,Lust::N,монц,piummaseq
+300,Geist::N,уд,anerneq
+301,Geist::N,уд,toornaq
+302,Gedanke::N,хъуыды,isumassaq
+303,Gedächtnis::N,мысæн,eqqaamannissuseq
+304,Gedächtnis::N,мысын,eqqaamannissuseq
+305,Gedächtnis::N,зæрдылдарын,eqqaamannissuseq
+306,Verstand::N,зонд,isuma
+307,Verstand::N,зонд,sianissut
+308,Verstand::N,зонд,misigissut
+309,Verstand::N,зонд,sianissuseq
+310,Verstand::N,зонд,silaqassuseq
+311,Sinn::N,нысаниуæг,isuma
+312,Grund::N,ӕфсон,patsit
+313,Wahrheit::N,æцæг,sallusuissut
+314,Gespräch::N,ныхас,
+315,Märchen::N,аргъау,oqalualaarut
+316,Märchen::N,аргъау,oqaluasaaq
+317,Erzählung::N,радзырд,oqaluttuaq
+318,Nachricht::N,уац,oqaassut
+319,Nachricht::N,уац,oqqersuut
+320,Neuigkeit::N,хабар,tusarnartaq
+321,Name::N,ном,ateq
+322,Rätsel::N,уыци-уыци,nalorsitsaarut
+323,Rätsel::N,базон-базон,nalorsitsaarut
+324,Rede::N,раныхас,oqaluuseq
+325,Sprache::N,ӕвзаг,oqaatsit
+326,Stimme::N,хъӕлӕс,erinaq
+327,Stimme::N,хъӕлӕс,qarluuseq
+328,Wort::N,дзырд,oqaasii
+329,Zeichen::N,нысан,nalunaaqqut
+330,Ruf::N,сидт,qaaqqussut
+331,Lärm::N,уынæр,perpaluk
+332,Laut::N,зӕл,torsukattak
+333,Laut::N,мыр,torsukattak
+334,Ton::N,мыр,erinaq
+335,Lied::N,зарӕг,taalliaq
+336,Lied::N,зарӕг,erinarsuut
+337,Ruhe::N,æнцой,qatsunganeq
+338,Leute::N,адӕм,inuiak
+339,Leute::N,адӕм,inuiaqatigiit
+340,Volk::N,адӕм,inuiaat
+341,Arbeit::N,фӕллой,suliaq
+342,Gast::N,уазӕг,qaaqqusaq
+343,Geschenk::N,хуын,pajugut
+344,Spiel::N,хъазт,
+345,Gesellschaft::N,дзыллæ,
+346,Gesellschaft::N,æхсæнад,
+347,Hilfe::N,æххуыс,annertoqqut
+348,Hilfe::N,ахъаз,annertoqqut
+349,Freund::N,лымӕн,tiliaq
+350,Freund::N,лымӕн,ikinngut
+351,Kamerad::N,ӕмбал,tiliaq
+352,Kamerad::N,ӕмбал,ikinngut
+353,Angelegenheit::N,хъуыддаг,
+354,Anzahl::N,бӕрц,
+355,Art::N,хуыз,ileqquuseq
+356,Art::N,хуызад,ileqquuseq
+357,Stück::N,кæрдих,nakkaalaniku
+358,Stück::N,комдзаг,nakkaalaniku
+359,Teil::N,хай,tassiaasat
+360,Hälfte::N,æрдæг,affaq
+361,Hälfte::N,æмбис,affaq
+362,Kreis::N,зиллакк,kaajaluinneq or kaajaluitsoq
+363,Kreuz::N,дзуар,sanningasulik
+364,Linie::N,хахх,tittaq
+365,Linie::N,хахх,titarneq
+366,Strich::N,хахх,
+367,Abstand::N,æхсæнуат,aku
+368,Abstand::N,æхсæнуат,ikiaq
+369,Entfernung::N,дæрддзæг,asi
+370,Entfernung::N,дардцæг,asi
+371,Gegend::N,ран,nuna
+372,Platz::N,бууат,ini
+373,Platz::N,бууат,inissaq
+374,Ort::N,ран,sumiiffik
+375,Ort::N,бынат,sumiiffik
+376,Seite::N,фахс,saneraq
+377,Mitte::N,астӕу,qiteq
+378,Gegenstand::N,дзаума,
+379,Sache::N,дзаума,pigisaq
+380,Rand::N,кӕрон,sini
+381,Rand::N,кӕрон,akerfineq
+382,Kante::N,фӕрск,akerfineq
+383,Ecke::N,тигъ,teqeqqoq
+384,Ecke::N,тигъ,tikeqqoq
+385,Ecke::N,фисын,teqeqqoq
+386,Ecke::N,фисын,tikeqqoq
+387,Spitze::N,бырынкъ,inngik
+388,Ende::N,кӕрон,isu
+389,Loch::N,хуынкъ,putu
+390,Winkel::N,къуым,teqeqqorissaat
+391,Muster::N,нывæфтыд,ilisserut
+392,Muster::N,кæдзист,ilisserut
+393,Größe::N,ас,angissuseq
+394,Länge::N,дӕргъ,takissuseq
+395,Höhe::N,бæрзонд,
+396,Höhe::N,бæрзæнд,
+397,Höhe::N,бæрзонддзинад,
+398,Gewicht::N,уӕз,oqimaalutaq
+399,Menge::N,бӕрц,amerlassuseq
+400,Haufen::N,кӕри,eqimattat
+401,Reihe::N,рӕнхъ,allunaasaq
+402,Boot::N,чема,qajaq
+403,Boot::N,чема,angallat
+404,Boot::N,чема,umiatsiaq
+405,Ruder::N,къохар,iput
+406,Schlitten::N,дзоныгъ,qamutit
+407,Schlitten::N,дзоныгъ,qimusseq
+408,Ski::N,къахдзоныгътæ,ataarut
+409,Ski::N,лыжæтæ,ataarut
+410,Lagerfeuer::N,арт,
+411,Last::N,уаргъ,nammagaq
+412,Gang::N,цыд,
+413,Schritt::N,санчъех,allorneq
+414,Schritt::N,къахдзӕф,allorneq
+415,Norden::N,цæгат,avannaq
+416,Süden::N,хуссар,qava
+417,Süden::N,хуссар,kujat
+418,Süden::N,хуссар,kujataa
+419,Westen::N,ныгуылæн,kitaa
+420,Osten::N,скæсæн,kangi
+421,Holz::N,хъӕдӕрмӕг,qisuk
+422,Brett::N,фæйнæг,salliligaq
+423,Platte::N,къӕй,qaateq
+424,Stütze::N,быцæу,ajagutaq
+425,Stütze::N,быцæу,ajaagutaq
+426,Stange::N,хъил,kaaviffik
+427,Stock::N,лӕдзӕг,ajaappissat
+428,Stab::N,хъил,ajaappissat
+429,Rohr::N,хӕтӕл,sullulik
+430,Haus::N,хӕдзар,illu
+431,Heim::N,къона,
+432,Ofen::N,пец,kissarsuut
+433,Fußboden::N,астӕрд,nateq
+434,Tisch::N,стъол,allattarfik
+435,Stuhl::N,бандон,issiavik
+436,Stuhl::N,бандон,issiaffik
+437,Wiege::N,авдæн,uaasoq
+438,Bett::N,сынтӕг,nallavik
+439,Regal::N,тӕрхӕг,ilisivik
+440,Regal::N,уӕлвӕйнӕг,ilisivik
+441,Kiste::N,асыкк,sakissat
+442,Kiste::N,асыкк,illerfiusaq
+443,Fenster::N,рудзынг,aki
+444,Fenster::N,рудзынг,igalaaq
+445,Fenster::N,фæрссаг,aki
+446,Fenster::N,фæрссаг,igalaaq
+447,Tür::N,дуар,matu
+448,Tor::N,кулдуар,isaaffik
+449,Zaun::N,æмбонд,saputit
+450,Zaun::N,быру,saputit
+451,Zaun::N,гæрæн,saputit
+452,Dach::N,уӕлхӕдзар,qaliaq
+453,Leiter::N,асин,tummeqqat
+454,Leiter::N,асин,majuartarfiit
+455,Besen::N,уисой,saligutit
+456,Spaten::N,бел,nivaataq
+457,Schaufel::N,æвгæнæн,nivaataq
+458,Schaufel::N,кæфой,nivaataq
+459,Gabel::N,вилкæ,qilluaq
+460,Gabel::N,вилкæ,ajassaatit
+461,Löffel::N,уидыг,alussaat
+462,Messer::N,кард,savik
+463,Nagel::N,зӕгӕл,kukik
+464,Netz::N,хыз,anguffaseq
+465,Haken::N,хæдз,nissik
+466,Haken::N,хæдз,qarsorsaq
+467,Haken::N,хæдз,qarsorsartoq
+468,Haken::N,хæбырæгъ,nissik
+469,Haken::N,хæбырæгъ,qarsorsaq
+470,Haken::N,хæбырæгъ,qarsorsartoq
+471,Griff::N,фистон,ipi
+472,Schloss::N,гуыдыр,illussaarsuaq
+473,Bild::N,ныв,assiliaq
+474,Figur::N,кæрдгæныв,kisitsit
+475,Puppe::N,чындз,inuusaq
+476,Beutel::N,дзӕкъул,
+477,Bündel::N,баст,qilertaq
+478,Tasche::N,хызын,pooqattaq
+479,Tasche::N,дзæкъул,pooqattaq
+480,Eimer::N,къæрта,
+481,Eimer::N,чъыбыла,
+482,Eimer::N,ведра,
+483,Deckel::N,сæр,matu
+484,Deckel::N,æмбæрзæн,matu
+485,Geschirr::N,мигæнæн,anut
+486,Geschirr::N,мигæнæнтæ,anut
+487,Sack::N,голлаг,
+488,Tasse::N,пиала,tiitorfik
+489,Tasse::N,пиала,tiitorfiup ilorlia
+490,Tasse::N,къус,tiitorfik
+491,Tasse::N,къус,tiitorfiup ilorlia
+492,Topf::N,аг,qoqqoq
+493,Topf::N,чысыл аг,qoqqoq
+494,Kessel::N,аг,uunnaavik
+495,Essen::N,хӕрд,igaaq
+496,Nahrung::N,хойраг,neqissaq
+497,Speise::N,хӕринаг,nerisassat
+498,Fleisch::N,дзидза,neqi
+499,Fleisch::N,фыдызгъӕл,neqi
+500,Getreide::N,халсар,maannineq
+501,Brei::N,кас,
+502,Brot::N,дзул,iffit
+503,Brot::N,дзул,iffiaq
+504,Scheibe::N,къӕбӕр,igalaassiaq
+505,Fett::N,сой,tarnutissaq
+506,Fett::N,сой,tarnutissiaq
+507,Butter::N,нӕлхӕ,punneq
+508,Öl::N,зети,uulia
+509,Salz::N,цӕхх,taratsut
+510,Suppe::N,бас,qajoq
+511,Honig::N,мыд,tungusunnitsuut
+512,Milch::N,ӕхсыр,immuk
+513,Tee::N,цай,tii
+514,Tee::N,цай,teeq
+515,Leder::N,мæскуы,
+516,Wolle::N,фӕсмын,nuersagassiaq
+517,Stoff::N,хъуымац,milliaq
+518,Stoff::N,хъуымац,qarlissiaq
+519,Nadel::N,судзин,meqqut
+520,Faden::N,ӕндах,ujalussiaq
+521,Knopf::N,цӕппӕр,attat
+522,Knoten::N,ӕлхынцъ,akeroq
+523,Knoten::N,ӕлхынцъ,qilerneq
+524,Farbe::N,ахорæн,qalipaat
+525,Kleidung::N,дарӕс,atisat
+526,Kleidung::N,дарӕс,annoraaq
+527,Hemd::N,хӕдон,ilupaaq
+528,Kragen::N,æфцæггот,qungasiinnaq
+529,Ärmel::N,дыс,aaq
+530,Hose::N,хæлаф,qarliit
+531,Hose::N,æддаг хæлаф,qarliit
+532,Hose::N,салбар,qarliit
+533,Gürtel::N,рон,qiterut
+534,Gürtel::N,рон,unngersaq
+535,Mütze::N,худ,nasaq
+536,Schuh::N,басмахъ,skuu
+537,Schuh::N,басмахъ,ikernuk
+538,Schuh::N,басмахъ,ateraasaq
+539,Stiefel::N,цырыхъхъ,kamik
+540,Ring::N,къухдарӕн,assammiu
+541,Band::N,лент,qilerutissiaq
+542,Kamm::N,сӕрвасӕн,illaagutit
+543,Kamm::N,сӕрвасӕн,illaajaatit pl.
+544,Spiegel::N,айдæн,tarrarsuut
+545,Spiegel::N,кæсæн,tarrarsuut
+546,Riemen::N,гӕрз,allunaaq
+547,Schnur::N,бӕндӕн,kujaaq
+548,Schnur::N,бӕндӕн,allunaasaq
+549,Decke::N,хъӕццул,qipik
+550,Kissen::N,баз,akit
+551,Tuch::N,кæлмæрзæн,qarlissiaq
+552,Tuch::N,кæрдæн,qarlissiaq
+553,Handtuch::N,хисæрфæн,allarut
+554,Handtuch::N,хисæрфæн,allarterut
+555,Kraft::N,тых,pissak
+556,Kraft::N,хъомыс,pissak
+557,Stärke::N,тых,qerattarsaat
+558,Stärke::N,æхсар,qerattarsaat
+559,Gesundheit::N,æнæниздзинад,peqqisusseq
+560,Krankheit::N,низ,nappaat
+561,Krankheit::N,рын,nappaat
+562,Schmerz::N,рис,anniaat
+563,Wunde::N,цӕф,iki
+564,Fieber::N,ризӕг,nappaat qanimanartoq
+565,Fieber::N,тӕфсӕг,nappaat qanimanartoq
+566,Arznei::N,хос,imigassaq
+567,Brücke::N,хид,ikaartarfik
+568,Brunnen::N,цъай,tissaluttuliaq
+569,Weide::N,хизæн,masarsuk
+570,Weide::N,хизæнуат,masarsuk
+571,Weide::N,сæрвæт,masarsuk
+572,Pfad::N,къахвæндаг,aqqut
+573,Pfad::N,къахвæд,aqqut
+574,Weg::N,фӕндаг,aggerfik
+575,Straße::N,фӕндаг,aqqusineq
+576,Dorf::N,хъӕу,nunaqarfik
+577,Stadt::N,сахар,illorpaat
+578,Stadt::N,сахар,illorpalik
+579,Brief::N,фыстӕг,allagarsiaq
+580,Buch::N,чиныг,atuakkat
+581,Buch::N,чиныг,mappersagaq
+582,Buchstabe::N,дамгъӕ,naqinneq
+583,Zeitung::N,газет,aviisi
+584,Leben::N,цард,inuussuseq
+585,Leben::N,цӕрӕнбон,inuussuseq
+586,Tod::N,мæлæт,toqu
+587,Tod::N,мæлæт,toquneq
+588,Tod::N,адзал,toqu
+589,Tod::N,адзал,toquneq
+590,Grab::N,ингӕн,iliveq
+591,Grab::N,ингӕн,illissat
+592,Kirche::N,аргъуан,oqaluffik
+593,Sünde::N,тæригъæд,ajorti
+594,Gott::N,хуыцау,
+595,Arbeiter::N,кусæг,sulisoq
+596,Chef::N,ӕмцег,ittoqut
+597,Meister::N,мастер,naalagaq
+598,Meister::N,дæсны,naalagaq
+599,Arzt::N,хосгæнæг,katsorsaasoq
+600,Arzt::N,дохтыр,katsorsaasoq
+601,Lehrer::N,ахуыргæнæг,ilinniartitsisoq
+602,Geld::N,ӕхца,aningaasat
+603,Geschäft::N,бизнес,niuertarfik
+604,Geschäft::N,хъуыддаг,niuertarfik
+605,Laden::N,дукани,niuertarfik
+606,Preis::N,аргъ,aki
+607,Ware::N,базайраг,qaliata pii
+608,Ware::N,базайраг,nioqqutissaq
+609,Nutzen::N,пайда,iluaqut
+610,Reichtum::N,хъæздыгдзинад,
+611,Reichtum::N,исбон,
+612,Reichtum::N,мулк,
+613,Welt::N,дуне,nunarsuaq
+614,Land::N,бӕстӕ,nuna
+615,Staat::N,паддзахад,
+616,König::N,къарол,kunngi
+617,Macht::N,хицаудзинад,pissaassuseq
+618,Grenze::N,арӕн,killik
+619,Krieg::N,хӕст,sorsunneq
+620,Feind::N,знаг,akeraq
+621,Feind::N,знаг,akerartorti
+622,Feind::N,знаг,qinngarsuisoq
+623,Feind::N,фыдгул,akeraq
+624,Feind::N,фыдгул,akerartorti
+625,Feind::N,фыдгул,qinngarsuisoq
+626,Feind::N,фыдзæрдæ,akeraq
+627,Feind::N,фыдзæрдæ,akerartorti
+628,Feind::N,фыдзæрдæ,qinngarsuisoq
+629,Feind::N,сон,akeraq
+630,Feind::N,сон,akerartorti
+631,Feind::N,сон,qinngarsuisoq
+632,Gewalt::N,тыхми,
+633,Gewalt::N,тыхдзинад,
+634,Kampf::N,хæст,sorsunneq
+635,Kampf::N,хъæбысæйхæст,sorsunneq
+636,Kampf::N,тох,sorsunneq
+637,Bogen[Waffe]::N,ӕрдын,
+638,Pfeil::N,фат,qalugiusaq
+639,Gewehr::N,топп,aallaat
+640,Fehler::N,рӕдыд,kukkuneq
+641,Fehler::N,рӕдыд,paarlaappaa
+642,Lüge::N,мӕнг,
+643,Lüge::N,гӕдыдзинад,
+644,Schaden::N,зиан,
+645,Unglück::N,бæллæх,perluut
+646,Schuld::N,азым,akiitsugaq
+647,Schuld::N,азым,akiligassaq
+648,Alter::N,кар,utoqqaq
+649,Schluss::N,кæрон,isu
+650,Zeit::N,рӕстӕг,ulloq
+651,Zeit::N,рӕстӕг,akuttoqatigiinneq
+652,Tag::N,бон,ulloq
+653,Morgen::N,райсом,ullaaq
+654,Mittag::N,æмбисбон,ulloqeqqa
+655,Abend::N,изӕр,unnuk
+656,Nacht::N,ӕхсӕв,unnuaq
+657,Woche::N,къуыри,sapaatip akunnera
+658,Monat::N,мӕй,qaammat
+659,Jahr::N,аз,ukioq
+660,Jahr::N,афӕдз,ukioq
+661,Frühling::N,уалдзæг,upernaaq
+662,Sommer::N,сӕрд,aasaq
+663,Herbst::N,фæззæг,ukiaq
+664,Winter::N,зымӕг,ukioq
+665,Januar::N,январь,siulleeq
+666,Januar::N,январь,qaammaliaq
+667,Februar::N,февраль,aarlaat
+668,März::N,мартъи,marsi
+669,März::N,мартъи,martsi
+670,April::N,апрель,
+671,Mai::N,май,maaji
+672,Juni::N,июнь,juuni
+673,Juli::N,июль,juuli
+674,August::N,август,aggusti
+675,September::N,сентябрь,septembari
+676,Oktober::N,октябрь,oktobari
+677,November::N,ноябрь,novembari
+678,Dezember::N,декабрь,detsembari
+679,Montag::N,къуырисæр,ataasinngortoq
+680,Dienstag::N,дыццæг,marlunngorneq
+681,Mittwoch::N,æртыццæг,pingasunngorneq
+682,Donnerstag::N,цыппæрæм,sisamanngorneq
+683,Freitag::N,майрæмбон,tallimanngorneq
+684,Samstag::N,сабат,arfininngorneq
+685,Sonntag::N,хуыцаубон,sapaat
+686,Sonntag::N,хуыцаубон,sapaati
+687,groß::A,дынджыр,angivoq
+688,klein::A,гыццыл,mikivoq
+689,lang::A,даргъ,takisooq
+690,kurz::A,цыбыр,naatsoq
+691,breit::A,фӕтӕн,silippoq
+692,schmal::A,нарӕг,amitsoq
+693,schmal::A,уынгӕг,amitsoq
+694,dicht::A,бæзджын,torsusooq
+695,dicht::A,тар,torsusooq
+696,dick[Gegenstand]::A,сӕвджын,issuvoq
+697,dick[Gegenstand]::A,сӕвджын,issusooq
+698,dünn::A,тæнæг,amitsoq
+699,fein::A,лыстӕг,mamarpoq
+700,fest::A,фидар,tangeqarpoq
+701,fest::A,хъӕддых,tangeqarpoq
+702,flach::A,тъӕпӕн,nalimmappoq
+703,glatt::A,лӕгъз,quasak
+704,hart::A,хъӕбӕр,mattusooq
+705,hart::A,хъӕбӕр,manngerpoq
+706,hart::A,хъӕбӕр,titeqquluppoq
+707,weich::A,фӕлмӕн,nerumaarpoq
+708,rund::A,тымбыл,ammallorippoq
+709,spitz::A,цыргъбырынкъ,qummukujooq
+710,spitz::A,цыргъфындз,qummukujooq
+711,scharf::A,цыргъ,ipippoq
+712,stumpf::A,къуымых,anngerpoq
+713,schwer::A,уӕззау,oqimaappoq
+714,schön::A,аив,kusanarpoq
+715,schön::A,рӕсугъд,kusanarpoq
+716,heiß::A,тӕвд,kiappoq
+717,warm::A,хъарм,oqorpoq
+718,kalt::A,уазал,issippoq
+719,kühl::A,сатæг,pueqqortippoq
+720,kühl::A,уазалгомау,pueqqortippoq
+721,frisch::A,сатæг,
+722,feucht::A,уымӕл,isugutavoq
+723,feucht::A,уымӕл,qaasernarpoq
+724,nass::A,хуылыдз,imerorpoq
+725,trocken::A,хус,panerpoq
+726,voll::A,дзаг,ulikkaarpoq
+727,voll::A,йедзаг ,ulikkaarpoq
+728,leer::A,афтид,imaattuarpoq
+729,offen::A,гом,ammavoq
+730,geschlossen::A,æхгæд,matuvoq
+731,sauber::A,сыгъдæг,eqqippoq
+732,sauber::A,сыгъдæг,sukuluippoq
+733,sauber::A,сыгъдæг,ipeqanngilaq
+734,schmutzig::A,чъиллон,tapappoq
+735,schmutzig::A,чъиллон,minguppoq
+736,roh::A,хом,aapavoq
+737,reif::A,рӕгъӕд,qaarulerpoq
+738,lecker::A,хӕрзад,
+739,süß::A,адджын,tungusunnippoq
+740,bitter::A,судзаг,qasilippoq
+741,sauer::A,туаг,
+742,hell::A,рухс,qaamavoq
+743,dunkel::A,талынг,qernerpoq
+744,schwarz::A,сау,qernerpoq
+745,weiß::A,урс,qaqorpoq
+746,rot::A,сырх,aappaluppoq
+747,gelb::A,бур,sungaarpoq
+748,blau::A,цъӕх,tungujorpoq
+749,grün::A,цъӕх,qorsooqqippoq
+750,grün::A,кӕрдӕгхуыз,qorsooqqippoq
+751,grau::A,цъӕх,qaserpoq
+752,grau::A,фӕныкхуыз,qaserpoq
+753,bunt::A,хъулон,
+754,bunt::A,гæрæм,
+755,billig::A,аслам,akikippoq
+756,teuer::A,зынаргъ,
+757,wertvoll::A,зынаргъ,erlinnarpoq
+758,blind::A,куырм,tappiippoq
+759,blind::A,куырм,isigisaqanngilaq
+760,taub::A,къуырма,tusilarpoq
+761,kräftig::A,домбай,pissaq
+762,kräftig::A,домбай,pissarsuaq
+763,kräftig::A,тыхджын,pissaq
+764,kräftig::A,тыхджын,pissarsuaq
+765,stark::A,тыхджын,sanngivoq
+766,schwach::A,ӕнӕбон,nakuippoq
+767,fett::A,нард,pualavoq
+768,schlank::A,гуырвидыц,tuappoq
+769,schlank::A,хæрзконд,tuappoq
+770,schlank::A,рæхснæг,tuappoq
+771,schlank::A,сагамад,tuappoq
+772,hübsch::A,аив,aatsialaq
+773,hübsch::A,рӕсугъд,aatsialaq
+774,böse::A,фыдзӕрдӕ,ajorpoq
+775,dumm::A,ӕдылы,taqajak
+776,dumm::A,ӕдылы,sikkilluppoq
+777,dumm::A,ӕдылы,qaatusimasaqanngilaq
+778,faul::A,зивӕг,eqiasuppoq
+779,faul::A,зивӕг,eqiattortuvoq
+780,faul::A,зивӕггӕнаг,eqiasuppoq
+781,faul::A,зивӕггӕнаг,eqiattortuvoq
+782,fleißig::A,æнæзивæг,eqiasuippoq
+783,fleißig::A,æнувыд,eqiasuippoq
+784,geizig::A,чъынды,iasilaarpoq
+785,geizig::A,чъынды,tukkuippoq
+786,geizig::A,æлгъин,iasilaarpoq
+787,geizig::A,æлгъин,tukkuippoq
+788,geizig::A,мæрддзæст,iasilaarpoq
+789,geizig::A,мæрддзæст,tukkuippoq
+790,klug::A,зондджын,mallak
+791,klug::A,зондджын,ittanneq
+792,klug::A,зондджын,kutaappoq
+793,klug::A,зондджын,kuttaappoq
+794,klug::A,зондджын,qarasagippoq
+795,geschickt::A,хӕрзарӕхст,
+796,lieb::A,уарзон,akisooq
+797,lustig::A,хъӕлдзӕг,piikulavoq
+798,sanft::A,мынчын,isumagippoq
+799,hungrig::A,ӕххормаг,kaappoq
+800,hungrig::A,ӕххормаг,perlilerpoq
+801,krank::A,нӕфӕразгӕ,napparsimavoq
+802,nackt::A,бӕгънӕг,
+803,traurig::A,ӕрхӕндӕг,aliasuppoq
+804,lebendig::A,цардӕгас,uumavoq
+805,gut::A,хорз,ajunngilaq
+806,schlecht::A,цауд,sualuppoq
+807,richtig::A,раст,iluarpoq
+808,schlimm::A,ӕвзӕр,amiilaarnarpoq
+809,wahr::A,ӕцӕг,ilumoorpoq
+810,alt::A,зӕронд,pisoqaq
+811,neu::A,ног,nutaavoq
+812,ehemalig::A,раздӕры,
+813,alt[Lebewesen]::A,ацӕргӕ,utoqqaq
+814,jung::A,ӕрыгон,inuusuppoq
+815,jung::A,ӕрыгон,kingulliarsuk
+816,arm::A,мӕгуыр,piillasoq
+817,arm::A,мӕгуыр,piitsuuvoq
+818,reich::A,хъӕздыг,pisuuvoq
+819,bekannt::A,зонгӕ,
+820,berühmt::A,номдзыд,tusaamasaq
+821,fremd::A,æцæгæлон,ajasoornarpoq
+822,verschieden::A,æндæр æмæ æндæр,allatut
+823,verschieden::A,æндæр æмæ æндæр,tamalaat
+824,verschieden::A,алы,allatut
+825,verschieden::A,алы,tamalaat
+826,verschieden::A,алыхуызон,allatut
+827,verschieden::A,алыхуызон,tamalaat
+828,nah::A,хӕстӕг,qanippoq
+829,fern::A,дард,ungasippoq
+830,fern::A,дӕрддаг,ungasippoq
+831,linker::A,галиу,saamerleq
+832,rechter::A,рахиз,innarluissut
+833,anderer::A,иннӕ,
+834,anderer::A,ӕндӕр,
+835,erster::A,фыццаг,siulleq
+836,erster::A,фыццӕгӕм,siulleq
+837,zweiter::A,дыккаг,qataatsup tullia
+838,zweiter::A,дыккæгæм,qataatsup tullia
+839,dritter::A,æртыккаг,pingajorarterut
+840,dritter::A,æртыккæгæм,pingajorarterut
+841,letzter::A,фӕстаг,kingulleq
+842,allein::ADV,иунæг,kisimiippoq
+843,auf einmal::ADV,уайтагъд,tassanngaannaq
+844,auf einmal::ADV,æвиппайды,tassanngaannaq
+845,auf einmal::ADV,æваст,tassanngaannaq
+846,zusammen::ADV,иумӕ,attaasa
+847,zusammen::ADV,иумӕ,attarmik
+848,lange::ADV,бирæ рæстæг,akuni
+849,plötzlich::ADV,æвиппайды,tassanngaannaq
+850,plötzlich::ADV,æваст,tassanngaannaq
+851,sofort::ADV,уыцы сахат,erniinnaq
+852,sofort::ADV,уайтагъд,erniinnaq
+853,später::ADV,фæстæдæр,kingorna
+854,jetzt::ADV,ныр,maanna
+855,jetzt::ADV,ныр,massakkut
+856,heute::ADV,абон,ullumi
+857,morgen::ADV,райсом,aqagu
+858,bald::ADV,тагъд,erniinnaq
+859,bald::ADV,рæхджы,erniinnaq
+860,dann::ADV,стæй,taava
+861,gestern::ADV,знон,ippassaq
+862,einst::ADV,кӕддӕр,ataatsimik
+863,einst::ADV,кӕддӕр,ilaanni
+864,damals::ADV,уæд,taamani
+865,damals::ADV,уæд,taamanikkut
+866,damals::ADV,уæд,taassumuunakkut
+867,danach::ADV,стæй,taava
+868,danach::ADV,уый фæстæ,taava
+869,vorher::ADV,раздæр,siornagut
+870,zuerst::ADV,фыццаг,
+871,einmal::ADV,иу хатт,ilaanni
+872,einmal::ADV,иу хатт,ataatsimik
+873,manchmal::ADV,хатт,qaqutigu
+874,manchmal::ADV,хатт,qaqutigut
+875,oft::ADV,арæх,akulikitsumik
+876,immer::ADV,ӕдзух,tamatigut
+877,niemals::ADV,никуы,
+878,niemals::ADV,никæд,
+879,hier::ADV,ам,maani
+880,hierhin::ADV,ардӕм,maani
+881,von hier::ADV,ардыгæй,
+882,dort::ADV,уым,
+883,dorthin::ADV,уырдӕм,ikuuna
+884,geradeaus::ADV,æргом,narlumut
+885,vorwärts::ADV,размӕ,pilangavoc
+886,rückwärts::ADV,фӕстӕмӕ,kingumut
+887,rückwärts::ADV,фӕстӕмӕ,tunumut or tunummut
+888,zurück::ADV,фӕстӕмӕ,kingumut
+889,zurück::ADV,фӕстӕмӕ,tunumut or tunummut
+890,unten::ADV,дæлæ,kana
+891,unten::ADV,дæлейы,kana
+892,unten::ADV,бынæй,kana
+893,hinab::ADV,дӕлӕмӕ,qiviu
+894,hinab::ADV,уырдыгмӕ,qiviu
+895,oben::ADV,уӕле,
+896,hinauf::ADV,уӕлӕмӕ,
+897,überall::ADV,алыран,tamaginni
+898,überall::ADV,алыран,tamani tamaani
+899,überall::ADV,алкæм,tamaginni
+900,überall::ADV,алкæм,tamani tamaani
+901,überall::ADV,кæмдæриддæр,tamaginni
+902,überall::ADV,кæмдæриддæр,tamani tamaani
+903,nicht::ADV,нӕ,
+904,ein wenig::ADV,чысыл,
+905,kaum::ADV,цъус,qaqutigorsuaq
+906,sehr::ADV,тынг,assut
+907,sehr::ADV,иттӕг,assut
+908,so::ADV,афтӕ,
+909,noch::ADV,ма,qeratavoq
+910,nur::ADV,канд,
+911,nur::ADV,ӕрмӕст,
+912,schon::ADV,нырид,taava-una
+913,wieder::ADV,ногӕй,kingumut
+914,vergebens::ADV,дзæгъæлы,angiluk
+915,vergebens::ADV,уæгъды,angiluk
+916,vergebens::ADV,æнæхъуаджы,angiluk
+917,vor::PRP,разы,
+918,hinter::PRP,фӕстӕ,
+919,unter::PRP,бын,
+920,durch::PRP,æхсæнты,
+921,neben::PRP,цур,
+922,zwischen::PRP,астӕу,
+923,wegen::PRP,тыххай,
+924,dies::PRN,ай,manna
+925,dies::PRN,ай,matuma
+926,das::PRN,уый,ua
+927,alles::PRN,алцы,
+928,alles::PRN,æппæтдæр,
+929,alles::PRN,иууылдӕр,
+930,ich::PRN,æз,uanga
+931,du::PRN,ды,illit
+932,er::PRN,уый,una
+933,wir::PRN,мах,uagut
+934,ihr::PRN,сымах,ilissi
+935,sie::PRN,уыдон,uku
+936,was::FPRN,цы,aat?
+937,wer::FPRN,чи,kikkut
+938,wo::FADV,кӕм,sumi
+939,wohin::FADV,кӕдӕм,sumut
+940,wie::FADV,куыд,qanoq
+941,warum::FADV,цӕмӕн,sooq
+942,wieviel::FNUM,цал,qassit
+943,wieviel::FNUM,цал,qanoq atsigisumik?
+944,eins::NUM,иу,ataaseq
+945,zwei::NUM,дыууӕ,marluk
+946,drei::NUM,ӕртӕ,pingasut
+947,vier::NUM,цыппар,sisamat
+948,vier::NUM,цыппар,qajuusat
+949,fünf::NUM,фондз,tallimat
+950,sechs::NUM,ӕхсӕз,arfineq
+951,sechs::NUM,ӕхсӕз,arfinillit
+952,sieben::NUM,авд,arfineq-marluk
+953,acht::NUM,аст,arfineq pingasut
+954,neun::NUM,фараст,qulingiluat
+955,neun::NUM,фараст,arfineq sisamat
+956,zehn::NUM,дӕс,qulit
+957,elf::NUM,иуæндæс,aqqaneq
+958,zwölf::NUM,дыууадæс,aqqaneq-marluk
+959,zwanzig::NUM,дыууын,tyve
+960,dreißig::NUM,æртын,tredive
+961,dreißig::NUM,æртын,pingasunik qulillit
+962,dreißig::NUM,дæсæмæссæдз,tredive
+963,dreißig::NUM,дæсæмæссæдз,pingasunik qulillit
+964,vierzig::NUM,цыппор,fyrre
+965,vierzig::NUM,цыппур,fyrre
+966,vierzig::NUM,дыууиссæдзы,fyrre
+967,fünfzig::NUM,фӕндзай,halvtreds
+968,fünfzig::NUM,фӕндзай,tallimanik qulillit
+969,sechzig::NUM,æхсай,tres
+970,sechzig::NUM,æртиссæдзы,tres
+971,siebzig::NUM,æвдай,halvfjerds
+972,siebzig::NUM,дæс æмæ æртиссæдзы,halvfjerds
+973,achtzig::NUM,цыппарыссæдзы,firs
+974,achtzig::NUM,æстай,firs
+975,neunzig::NUM,нæуæдз,halvfems
+976,neunzig::NUM,дæс æмæ цыппарыссæдзы,halvfems
+977,hundert::NUM,сӕдӕ,et hundrede
+978,tausend::NUM,мин,et tusinde
+979,und::CNJ,ӕмӕ,aamma
+980,oder::CNJ,кӕнӕ,imalluunnit
+981,stehen::V,лӕууын,sikingavoq
+982,sitzen::V,бадын,ingippoq
+983,liegen::V,хуыссын,nalavoq
+984,liegen::V,хуыссын,aqupivoq
+985,hängen::V,ауыгъд уын,nivinngarpaa
+986,werden::V,суӕвын,pinngorpoq
+987,passieren::V,æрцæуын,pivoq
+988,beginnen::V,райдайын,aallarnerpaa
+989,enden::V,фæуын,naggaserpaa
+990,wechseln::V,ивын,immikkut ilivoq
+991,aufgehen[Sonne]::V,скæсын,
+992,untergehen[Sonne]::V, аныгуылын,ilioqqaasoq
+993,scheinen[Sonne]::V,рухс кӕнын,qinnorpoq
+994,scheinen[Sonne]::V,рухс кӕнын,qinngorpoq
+995,donnern::V,нæрын,kalleq
+996,wehen::V,дымын,timmivoq
+997,strömen::V,кӕлын,
+998,fließen::V,цæуын,
+999,fließen::V,уайын,
+1000,fließen::V,кæлын,
+1001,sich drehen::V,зилын,ipippaa
+1002,schwanken::V,æнкъуысын,aalavoq
+1003,schwingen::V,æнкъуысын,issakajaat or issakatsiaarut
+1004,schwingen::V,змæлын,issakajaat or issakatsiaarut
+1005,fallen::V,хауын,quasivaa
+1006,brennen::V,судзын,seerpoq
+1007,brennen::V,судзын,uuppaa
+1008,rauchen::V,фæздæг кæнын,pujoorpoq
+1009,regnen::V,уарын,siallerpoq
+1010,gefrieren::V,сӕлын,qiulerpoq
+1011,tauen::V,стайын,aappoq
+1012,schmelzen::V,тайын,aappoq
+1013,schmelzen::V,тайын,aatsippaa
+1014,trocknen::V,хус кæнын,panerserpaa
+1015,sieden::V,фыцын,qalappoq
+1016,faulen::V,ӕмбийын,
+1017,verfaulen::V,бамбийын,
+1018,reißen::V,скъуийын,qulli
+1019,reißen::V,скъуийын,alittorpaa
+1020,reißen::V,скъуийын,kimillanneq
+1021,versinken::V,дӕлдон_кӕнын,kivivaa
+1022,versinken::V,дӕлдон_кӕнын,apparpoq
+1023,vergehen::V,аивгъуийын,qaangerpaa
+1024,vergehen::V,аивгъуийын,sarsuppoq
+1025,erscheinen::V,разынын,takutippoq
+1026,verschwinden::V,фæтары уын,
+1027,verschwinden::V,фæдæлдзæх уын,
+1028,verschwinden::V,фесæфын,
+1029,verschwinden::V,æрбайсæфын,
+1030,sinken::V,дæлæмæ æрхауын,kivivaa
+1031,sinken::V,дæлæмæ æрхауын,apparpoq
+1032,abnehmen::V,фæкъаддæр уын,ikillipput
+1033,abnehmen::V,фæцух уын,ikillipput
+1034,zunehmen::V,фæфылдæр уын,allisippaa
+1035,zunehmen::V,сбирæ уын,allisippaa
+1036,zunehmen::V,сахадын,allisippaa
+1037,steigen::V,сыстын,allisippaa
+1038,wachsen::V,рӕзын,allivoq
+1039,glänzen::V,ӕрттивын,qinngorpoq
+1040,glänzen::V,ӕрттивын,qinnorpoq
+1041,funkeln::V,тыбар-тыбур_кӕнын,uisorilavoq
+1042,lärmen::V,хъæлæба кæнын,
+1043,läuten::V,цæгъдын,avilualaarpoq
+1044,klingeln::V,цæгъдын,aviluarpoq
+1045,klingeln::V,цæгъдын,aviluarpaluppoq
+1046,klirren::V,дзыгъал-мыгъул кæнын,
+1047,klirren::V,дзæгъ-дзæгъ кæнын,
+1048,brausen::V,абухын,ittuk
+1049,brausen::V,абухын,ittuppoq
+1050,brausen::V,абухын,ittuppaluppoq
+1051,klingen::V,зæлын,
+1052,klingen::V,азæлын,
+1053,klingen::V,хъуысын,
+1054,bellen::V,рæйын,qiluppoq
+1055,heulen::V,ниуын,maarpoq
+1056,heulen::V,ниуын,maalavoq
+1057,heulen::V,ниуын,miaggoorpoq
+1058,blasen::V,фу кӕнын,aporneq
+1059,pfeifen::V,æхситт кæнын,siggartartitsivoq
+1060,pfeifen::V,æхситт кæнын,siorsulavoq
+1061,pfeifen::V,къуыззитт кæнын,siggartartitsivoq
+1062,pfeifen::V,къуыззитт кæнын,siorsulavoq
+1063,schreien::V,хъӕр кӕнын,suaarpoq
+1064,stöhnen::V,хъæрзын,nipiliorpoq
+1065,stöhnen::V,хъæрзын,nipilliorpoq
+1066,stöhnen::V,дзыназын,nipiliorpoq
+1067,stöhnen::V,дзыназын,nipilliorpoq
+1068,zittern::V,ризын,qarsulivik
+1069,leben::V,цӕрын,inuuvoq
+1070,geboren werden::V,райгуырын,inuuvoq
+1071,geboren werden::V,райгуырын,inunngorpoq
+1072,atmen::V,улӕфын,anersaarpoq
+1073,trinken::V,нуазын,imerpoq
+1074,essen::V,хӕрын,tamorpoq
+1075,schlucken::V,ныхъуырын,tuluarnaq
+1076,müde werden::V,бафæллайын,
+1077,müde werden::V,бафæлмæцын,
+1078,müde werden::V,сфæлмæцын,
+1079,einschlafen::V,бафынæй уын,sinippoq
+1080,schlafen::V,хуыссын,sinik
+1081,schlafen::V,фынӕй кӕнын,sinik
+1082,aufwachen::V,райхъал уын,iterpoq
+1083,aufwachen::V,райхъал уын,eqqumavoq
+1084,aufstehen::V,стын,makippoq
+1085,sich erholen::V,фæллад уадзын,qasuerserpoq
+1086,sich erholen::V,улæфын,qasuerserpoq
+1087,krank werden::V,фӕрынчын уын,
+1088,krank sein::V,сӕйын,
+1089,schmerzen::V,риссын,anneraa
+1090,schmerzen::V,риссын,annernarpoq
+1091,husten::V,хуыфын,quersorpoq
+1092,genesen::V,сдзæбæх уын,ajunngissivoq
+1093,genesen::V,сдзæбæх уын,ilisimmarpoq
+1094,genesen::V,сдзæбæх уын,ilorrippoq
+1095,genesen::V,рандидзын,ajunngissivoq
+1096,genesen::V,рандидзын,ilisimmarpoq
+1097,genesen::V,рандидзын,ilorrippoq
+1098,genesen::V,сæндидзын,ajunngissivoq
+1099,genesen::V,сæндидзын,ilisimmarpoq
+1100,genesen::V,сæндидзын,ilorrippoq
+1101,sterben::V,мӕлын,toquvoq
+1102,umkommen::V,фесæфын,
+1103,umkommen::V,байсæфын,
+1104,umkommen::V,бабын уын,
+1105,umkommen::V,мард фæуын,
+1106,sich bewegen::V,тæлфын,ingerlavoq
+1107,sich bewegen::V,цæуын,ingerlavoq
+1108,sich rühren::V,змӕлын,
+1109,sich erheben::V,стын,
+1110,sich setzen::V,сбадын,ingippoq
+1111,hinfallen::V,ӕрхауын,
+1112,laufen::V,цӕуын,arpappoq
+1113,laufen::V,рацу-бацу_кӕнын,arpappoq
+1114,schreiten::V,къахдзæф кæнын,ingerlavoq
+1115,schreiten::V,санчъех кæнын,ingerlavoq
+1116,schreiten::V,цæуын,ingerlavoq
+1117,spazierengehen::V,озер кæнын,utertakajaarpoq
+1118,spazierengehen::V,озер кæнын,utertakattajaarpoq
+1119,spazierengehen::V,тезгъо кæнын,utertakajaarpoq
+1120,spazierengehen::V,тезгъо кæнын,utertakattajaarpoq
+1121,eilen::V,тагъд кæнын,qaa qaa
+1122,eilen::V,тагъд кæнын,qiilasaarpoq
+1123,eilen::V,тагъд кæнын,ingerlasaarpaa
+1124,eilen::V,тындзын,qaa qaa
+1125,eilen::V,тындзын,qiilasaarpoq
+1126,eilen::V,тындзын,ingerlasaarpaa
+1127,sich beeilen::V,тагъд кæнын,tuaviorpoq
+1128,sich beeilen::V,тындзын,tuaviorpoq
+1129,sausen::V,уайын,uiguut
+1130,sausen::V,тæхын,uiguut
+1131,rennen::V,згъорын,igivoq
+1132,springen::V,гæпп кæнын,upernassaq
+1133,springen::V,сæррæтт кæнын,upernassaq
+1134,springen::V,лиуырын,upernassaq
+1135,klettern::V,хилын,pilaakkeerpoq
+1136,schaukeln::V,хецъро кæнын,aalavoq
+1137,schaukeln::V,херыйыл бадын,aalavoq
+1138,kriechen::V,бырын,
+1139,schwimmen::V,ленк кӕнын,naluppoq
+1140,tauchen::V,ныгъуылын,allorpoq
+1141,rudern::V,бæлæгъ тæрын,ipuppaa
+1142,rudern::V,чема тæрын,ipuppaa
+1143,fahren::V,цӕуын,qimusserpoq
+1144,fliegen::V,тӕхын,timmivoq
+1145,gehen::V,цӕуын,
+1146,weggehen::V,ацӕуын,piiarpoq
+1147,abfahren::V,араст уын,
+1148,anhalten::V,æрлæууын,unitsippaa
+1149,hineingehen::V,мидæмæ цæуын,timaappaa
+1150,eintreten::V,бацӕуын,allattorpaa
+1151,kommen::V,æрцæуын,qaa-
+1152,kommen::V,æрцæуын,pivaa
+1153,ankommen::V,æрцæуын,tikippoq
+1154,zurückkommen::V,раздæхын,angerlarpoq
+1155,zurückkommen::V,фæстæмæ_раздæхын,angerlarpoq
+1156,zurückkommen::V,æрбаздæхын,angerlarpoq
+1157,zurückkommen::V,аздæхын,angerlarpoq
+1158,bleiben::V,лӕууын,uninngavoq
+1159,warten::V,ӕнхъӕлмӕ кӕсын,paavoq
+1160,warten::V,ӕнхъӕлмӕ кӕсын,utaqqivoq
+1161,erwarten::V,ӕнхъӕлмӕ кӕсын,
+1162,suchen::V,агурын,nivivaa
+1163,finden::V,ссарын,nanivaa
+1164,versuchen::V,фӕлварын,uuppaa
+1165,versuchen::V,фӕлварын,ussersarpaa
+1166,vorbereiten::V,бацаттæ кæнын,piareersarpaa
+1167,vorbereiten::V,æрæввонг кæнын,piareersarpaa
+1168,lieben::V,уарзын,asavaa
+1169,mögen::V,зæрдæмæ цæуын,akaaraa
+1170,lachen::V,худын,
+1171,rühren::V,зæрдæ суынгæг кæнын,qeerlerpaa
+1172,weinen::V,кӕуын,qiavoq
+1173,schimpfen::V,æлгъитын,qatimaarpoq
+1174,sich ärgern::V,мæсты кæнын,ugguutigaa
+1175,sich fürchten::V,тæрсын,eqqanaarpoq
+1176,fürchten::V,тæрсын,ersigaa
+1177,fliehen::V,лидзын,qimaavoq
+1178,flüchten::V,алидзын,allikarfigaa
+1179,sehen::V,уынын,isigaa
+1180,anschauen::V,акӕсын,
+1181,ansehen::V,кӕсын,alaatsinaappaa
+1182,hören::V,хъусын,tusarpaa
+1183,zuhören::V,хъусын,naalappoq
+1184,probieren::V,уынын,
+1185,probieren::V,аходын,
+1186,riechen::V,смудын,tipippoq
+1187,fühlen::V,ӕнкъарын,misigaa
+1188,scheinen::V,зынын,takutippoq
+1189,zu sehen sein::V,зынын,
+1190,vernehmen::V,фехъусын,
+1191,frieren::V,сийын,qiiavoq
+1192,tun::V,кӕнын,iliorpoq
+1193,können::V,фӕразын,
+1194,wollen::V,фӕндын,piumavaa
+1195,anfangen::V,райдайын,pilerpoq
+1196,beenden::V,фӕуын,naggaserpaa
+1197,aufhören::V,банцайын,naammatsippaa
+1198,aufhören::V,фенцайын,naammatsippaa
+1199,gelingen::V,бантысын,
+1200,geraten::V,разынын,
+1201,öffnen::V,гом кӕнын,ammarpaa
+1202,schließen::V,ӕхгӕнын,matuaa
+1203,stellen::V,ӕвӕрын,ilivaa
+1204,stellen::V,ӕвӕрын,iliorarpai
+1205,stellen::V,ӕвӕрын,ilioqqarpai
+1206,setzen::V,сбадын кӕнын,iliorarpai
+1207,setzen::V,сбадын кӕнын,ilioqqarpai
+1208,legen::V,ӕрӕвӕрын,ilivaa
+1209,berühren::V,агайын,attorpaa
+1210,verbinden::V,бӕттын,taperserpaa
+1211,bedecken::V,ӕмбӕрзын,iikkerpaa
+1212,bedecken::V,ӕмбӕрзын,iikkersorpaa
+1213,aufhängen::V,ауындзын,inivaa
+1214,aufhängen::V,ауындзын,iniorarpai
+1215,anzünden::V,ссудзын,saggaavoq
+1216,aufheben::V,сисын,allisippaa
+1217,zurücklassen::V,ныууадзын,aallarpoq
+1218,verlieren::V,фесафын,annaavaa
+1219,fallen lassen::V,ӕрӕппарын,nakkaavaa
+1220,fallen lassen::V,къухтӕй феуӕгъд кӕнын,nakkaavaa
+1221,machen::V,саразын,iliorpoq
+1222,herstellen::V,сцæттæ кæнын,anillatsippaa
+1223,herstellen::V,саразын,anillatsippaa
+1224,bauen::V,амайын,marrarterpaa
+1225,reparieren::V,æмпъузын,iluarsaappaa
+1226,reparieren::V,цалцæг кæнын,iluarsaappaa
+1227,verbessern::V,фæхуыздæр кæнын,naqqippaa
+1228,ändern::V,аивын,
+1229,graben::V,къахын,assappaa
+1230,beugen::V,æркъæдз кæнын,qappappoq
+1231,beugen::V,æртасын кæнын,qappappoq
+1232,biegen::V,тасын кӕнын,qappappoq
+1233,drehen::V,здухын,
+1234,wenden::V,афæлдахын,assappaa
+1235,wenden::V,афæлдахын,assakarpoq
+1236,wenden::V,рафæлдахын,assappaa
+1237,wenden::V,рафæлдахын,assakarpoq
+1238,umdrehen::V,афæлдахын,assakartippaa
+1239,heben::V,сдарын,kivippaa
+1240,heben::V,схæцын,kivippaa
+1241,hochheben::V,уæлæмæ хæцын,kissumiarpaa
+1242,ergreifen::V,фӕлӕбурын,isaappaa
+1243,ergreifen::V,фӕлӕбурын,isaguppaa
+1244,halten::V,дарын,minarpaa
+1245,drücken::V,æлхъивын,naqittaat
+1246,drücken::V,хæцын,naqittaat
+1247,schieben::V,схойын,
+1248,kratzen::V,хафын,qitsuppaa
+1249,lecken::V,сдæрын,aluppaa
+1250,beißen::V,хæцын,kiivaa
+1251,abreißen::V,ратонын,aqqarpaa
+1252,abreißen::V,ратонын,isaterpaa
+1253,abschneiden::V,ралыг кӕнын,kipivaa
+1254,binden::V,бабӕттын,kakkersarpaa
+1255,stecken::V,ныссадзын,kussunneq
+1256,brechen::V,асæттын,nallorpaa
+1257,brechen::V,басæттын,nallorpaa
+1258,brechen::V,ныссæттын,nallorpaa
+1259,klopfen::V,хойын,pattappaa
+1260,klopfen::V,гуыпп-гуыпп кæнын,pattappaa
+1261,klopfen::V,къуырцц-къуырцц кæнын,pattappaa
+1262,hauen::V,цӕвын,aqivaa
+1263,hauen::V,нӕмын,aqivaa
+1264,kleben::V,ныхасын,qaappoq
+1265,kleben::V,æндадзын,qaappoq
+1266,reiben::V,сӕрфын,tagiarpaa
+1267,reiben::V,сӕрфын,tangiarpaa
+1268,reiben::V,хафын,tagiarpaa
+1269,reiben::V,хафын,tangiarpaa
+1270,streichen::V,байсæрдын,erlerpoq
+1271,streichen::V,сахорын,erlerpoq
+1272,schleifen::V,ссын,sequppaa
+1273,schleifen::V,цыргъ кӕнын,sequppaa
+1274,schneiden::V,кӕрдын,uullivoq
+1275,rütteln::V,æнкъусын,
+1276,schütteln::V,уигъын,aalavoq
+1277,schwenken::V,тилын,issarpoq
+1278,schwenken::V,уигъын,issarpoq
+1279,schütten::V,ныккӕнын,
+1280,füllen::V,байдзаг кæнын,immerpaa
+1281,einwickeln::V,батухын,immoqquserpaa
+1282,tragen::V,хӕссын,maqippaa
+1283,tragen::V,хӕссын,assartorpoq
+1284,schleppen::V,ласын,assartorpoq
+1285,ziehen::V,ласын,kalippaa
+1286,ziehen::V,ласын,kalissarpoq
+1287,aufbewahren::V,æвæрын,toqqorpaa
+1288,werfen::V,зыввытт кӕнын,kuivaa
+1289,fangen::V,ӕрцахсын,anguaa
+1290,packen::V,рацахсын,
+1291,verstecken::V,æмбæхсын,anngigaa
+1292,verstecken::V,нымæхсын,anngigaa
+1293,teilen::V,уарын,agguut
+1294,teilen::V,уарын,agguusersorpaa
+1295,schicken::V,ӕрвитын,nassiuppaa
+1296,bringen::V,æрхæссын,aggiuppaa
+1297,bringen::V,æрхæссын,nassataraa
+1298,bringen::V,æрбахæссын,aggiuppaa
+1299,bringen::V,æрбахæссын,nassataraa
+1300,hinzufügen::V,ӕфтауын,
+1301,bekommen::V,ссарын,tiguaa
+1302,bekommen::V,сфæрæз кæнын,tiguaa
+1303,bekommen::V,самал кæнын,tiguaa
+1304,erhalten::V,райсын,tiguaa
+1305,nehmen::V,райсын,pivoq
+1306,nehmen::V,райсын,tiguaa
+1307,wählen::V,равзарын,
+1308,auswählen::V,авзарын,
+1309,bewahren::V,бавæрын,sukkunik simerserpaa
+1310,bewahren::V,нывæрын,sukkunik simerserpaa
+1311,behindern::V,цæлхдур æвæрын,
+1312,behindern::V,ныхдур æвæрын,
+1313,behindern::V,къуылымпы кæнын,
+1314,behindern::V,хъыг дарын,
+1315,verderben::V,фесафын,asiutippaa
+1316,verderben::V,фесафын,piuneerunnerit
+1317,beschädigen::V,халын,
+1318,zerbrechen::V,асӕттын,ukuvoq
+1319,zerreißen::V,аскъуынын,tisavaa
+1320,zerreißen::V,аскъуынын,alittorpaa
+1321,zerstören::V,фехалын,aserorpaa
+1322,verbrennen::V,басудзын,seerpoq
+1323,geben::V,дӕттын,pivoq
+1324,reichen::V,адæттын,
+1325,schenken::V,лæвар кæнын,
+1326,versprechen::V,дзырд раттын,neriorsorpaa
+1327,versprechen::V,зӕрдӕ бавӕрын,neriorsorpaa
+1328,wünschen::V,зæрдæ зæгъы,kissaat
+1329,loben::V,раппӕлын,nersorpaa
+1330,loben::V,раппӕлын,nersornaat
+1331,küssen::V,пъа кæнын,kunippaa
+1332,küssen::V,пъа кæнын,kunissorpaa
+1333,küssen::V,ба кæнын,kunippaa
+1334,küssen::V,ба кæнын,kunissorpaa
+1335,wiegen::V,узын,
+1336,zudecken::V,бамбӕрзын,majorpaa
+1337,wecken::V,райхъал кӕнын,itersarpaa
+1338,zeigen::V,амонын,tikkuuppaa
+1339,führen::V,кӕнын,tasissiuppaa
+1340,führen::V,кӕнын,ilitsersorpaa
+1341,führen::V,кӕнын,tasissersuuppaa
+1342,führen::V,фæкæнын,tasissiuppaa
+1343,führen::V,фæкæнын,ilitsersorpaa
+1344,führen::V,фæкæнын,tasissersuuppaa
+1345,lehren::V,ахуыр кæнын,ilinniartippaa
+1346,unterrichten::V,ахуыр кæнын,ajoqerpaa
+1347,unterrichten::V,ахуыр кæнын,ajoqersorpaa
+1348,unterrichten::V,ахуыр кæнын,ilinniartitsivoq
+1349,aufziehen::V,хъомыл кӕнын,inororsarpaa
+1350,leiten::V,разамынд дӕттын,iluatsippaa
+1351,antreiben::V,тагъд кæнын,ikusimmippaa
+1352,antreiben::V,рог кæнын,ikusimmippaa
+1353,lassen::V,кæнын,
+1354,einladen::V,ӕрхонын,qaaqquaa
+1355,einladen::V,ӕрхонын,qaasarpaa
+1356,einladen::V,ӕрбахонын,qaaqquaa
+1357,einladen::V,ӕрбахонын,qaasarpaa
+1358,vereinigen::V,баиу кӕнын,taperserpaa
+1359,besuchen::V,абæрæг кæнын,tikeraarpaa
+1360,besuchen::V,бабæрæг кæнын,tikeraarpaa
+1361,besuchen::V,бауайын,tikeraarpaa
+1362,treffen::V,фембæлын,aporappaa
+1363,sich versammeln::V,æрæмбырд уын,majorpoq
+1364,spielen::V,хъазын,pinnguarpoq
+1365,singen::V,зарын,erinarsorpoq
+1366,tanzen::V,кафын,qitippoq
+1367,sich trennen::V,фæйнæрдæм фæцæуын айхæлын,immikkoortippaa
+1368,verlassen::V,ныууадзын,
+1369,retten::V,фервӕзын кӕнын,annaappaa
+1370,bewachen::V,хъахъхъӕнын,
+1371,schützen::V,хъахъхъӕнын,eriagaa
+1372,schützen::V,хъахъхъӕнын,pineqartaalivaa
+1373,verteidigen::V,бахизын,
+1374,sich schlagen::V,хыл кæнын,
+1375,schießen::V,ӕхсын,aallaavaa
+1376,schießen::V,ӕхсын,piseriuppaa
+1377,siegen::V,басӕттын,
+1378,siegen::V,фӕуӕлахиз уӕвын,
+1379,ärgern::V,мӕсты кӕнын,ninngassarpaa
+1380,ärgern::V,мӕсты кӕнын,ninngassaarpaa
+1381,schlagen::V,ныццæвын,unatarpaa
+1382,stechen::V,фæрæхойын,iguppaa
+1383,stechen::V,фæрæхойын,qasilippoq
+1384,stoßen::V,риуыгъын,ikuserpaa
+1385,stoßen::V,риуыгъын,ikusimmippaa
+1386,stehlen::V,давын,tillippaa
+1387,stören::V,хъыгдарын,akornuserpaa
+1388,belästigen::V,хъыгдарын,
+1389,verbergen::V,бамбӕхсын,anngigaa
+1390,verbergen::V,басусӕг кӕнын,anngigaa
+1391,täuschen::V,фӕливын,
+1392,täuschen::V,асайын,
+1393,betrügen::V,асайын,peqquserluttuliorfigaa
+1394,töten::V,амарын,maappaa
+1395,töten::V,амарын,toquppaa
+1396,wohnen::V,цӕрын,najugaqarpoq
+1397,arbeiten::V,кусын,sulivoq
+1398,sammeln::V,æртонын,katersorpai
+1399,pflücken::V,тонын,
+1400,jagen::V,цуан кæнын,piniarpoq
+1401,fischen::V,кæсаг ахсын æнгуырæй,aalisarpoq
+1402,fischen::V,æнгуыр дарын,aalisarpoq
+1403,fassen::V,ӕрцахсын,
+1404,hüten::V,хизын,
+1405,treiben::V,скъӕрын,
+1406,anbinden::V,бабæттын,qilerut
+1407,anbinden::V,бабæттын,qilersorpaa
+1408,anbinden::V,бабæттын,ungerlatserpaa
+1409,anbinden::V,æрбæттын,qilerut
+1410,anbinden::V,æрбæттын,qilersorpaa
+1411,anbinden::V,æрбæттын,ungerlatserpaa
+1412,füttern::V,холлаг дæттын,nerlerpaa
+1413,füttern::V,холлаг æвæрын,nerlerpaa
+1414,füttern::V,дарын,nerlerpaa
+1415,melken::V,дуцын,
+1416,hacken::V,кæрдын,
+1417,hacken::V,лыгтæ кæнын,
+1418,gießen::V,бакалын,imerterpaa
+1419,reifen::V,срæгъæд уын,
+1420,reifen::V,сцæттæ уын,
+1421,zubereiten::V,сцӕттӕ кӕнын,
+1422,kochen::V,фыцын,igavoq
+1423,backen::V,фыцын,
+1424,braten::V,цурын,siappaa
+1425,umrühren::V,ахæццæ кæнын,qeerlerpaa
+1426,umrühren::V,азмæнтын,qeerlerpaa
+1427,umrühren::V,астауын,qeerlerpaa
+1428,stricken::V,кæнын,
+1429,stricken::V,бийын,
+1430,nähen::V,хуыйын,
+1431,färben::V,ахорын,misuppaa
+1432,reinigen::V,ссыгъдæг кæнын,sanniarpaa
+1433,reinigen::V,ныссыгъдæг кæнын,sanniarpaa
+1434,reinigen::V,ныссæрфын,sanniarpaa
+1435,waschen::V,ӕхсын,asappaa
+1436,abwischen::V,сӕрфын,saligarpaa
+1437,abwischen::V,сӕрфын,saligartorpaa
+1438,spülen::V,æнхъæвзын,
+1439,fegen::V,мӕрзын,sanngiarpaa
+1440,kehren::V,мӕрзын,
+1441,baden::V,хи найын,uffarpoq
+1442,sich waschen::V,хи æхсын,uffarpoq
+1443,ausziehen::V,ласын,annoraajarpaa
+1444,anziehen::V,скæнын,ativaa
+1445,anziehen::V,скæнын,atitippaa
+1446,sich anziehen::V,дзаума скæнын,atisalersorpoq
+1447,sich anziehen::V,дарæс скæнын,atisalersorpoq
+1448,kämmen::V,ныффасын,
+1449,kämmen::V,æрфасын,
+1450,schmücken::V,фӕлындын,
+1451,sagen::V,зæгъын,oqarpoq
+1452,sprechen::V,дзурын,oqaluttarpoq
+1453,reden::V,ныхас кӕнын,oqaluppoq
+1454,sich unterhalten::V,ныхас кæнын,
+1455,fragen::V,фӕрсын,aperaa
+1456,bitten::V,курын,aperaa
+1457,bitten::V,курын,qinnuigaa
+1458,erzählen::V,радзурын,oqaluttuaraa
+1459,erzählen::V,ратаурæгъ кæнын,oqaluttuaraa
+1460,mitteilen::V,фехъусын кæнын,oqalualaarpoq
+1461,nennen::V,хонын,
+1462,rufen::V,сидын,qaaqquaa
+1463,prahlen::V,ӕппӕлын,oqqartuvoq
+1464,prahlen::V,ӕппӕлын,oqallortuvoq
+1465,übersetzen::V,ратæлмац кæнын,ikaarpoq
+1466,übersetzen::V,ратæлмац кæнын,nutserpaa
+1467,denken::V,ӕнхъӕлын,isumaqarpoq
+1468,denken::V,хъуыды кӕнын,isumaqarpoq
+1469,glauben::V,уырнын,upperaa
+1470,glauben::V,уырнын,isumaqarpoq
+1471,bemerken::V,фенын,
+1472,erkennen::V,базонын,ilisaraa
+1473,begreifen::V,ӕмбарын,
+1474,begreifen::V,бамбарын,
+1475,lernen::V,ахуыр кӕнын,ilinniarpoq
+1476,wissen::V,зонын,nalunngilaa
+1477,sich erinnern an::V,зæрдыл æрлæууын,eqqaavaa
+1478,sich erinnern an::V,æрымысын,eqqaavaa
+1479,sich erinnern an::V,æрбаймысын,eqqaavaa
+1480,sich erinnern an::V,æрхъуыды кæнын,eqqaavaa
+1481,vergessen::V,ферох кæнын,puiorpaa
+1482,vergessen::V,айрох кæнын,puiorpaa
+1483,messen::V,барын,ussersarpaa
+1484,zählen::V,нымайын,kisitsivoq
+1485,rechnen::V,хынцын,kisitsivoq
+1486,lesen::V,кӕсын,atuarpoq
+1487,lesen::V,фӕрсын,atuarpoq
+1488,malen::V,ныв кӕнын,qalipappaa
+1489,zeichnen::V,ныв кӕнын,
+1490,schreiben::V,фыссын,allappoq
+1491,besitzen::V,хицау уын,
+1492,kaufen::V,балхӕнын,pisiaraa
+1493,verkaufen::V,уӕй кӕнын,akigaa
+1494,bezahlen::V,бафидын,akilerpaa
+1495,zahlen::V,фидын,
+1496,beherrschen::V,æлдариуæг кæнын,inappaa
+1497,ertragen::V,бавзарын,ernertaaraa
+1498,Leine::N,,aleq
+1499,treten::V,,tukerpoq
+1500,verstehen::V,,paasivaa

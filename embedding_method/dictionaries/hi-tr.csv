@@ -1,0 +1,1827 @@
+,Concept_ID,hi,tr
+0,Auge::N,आँख,göz
+1,Auge::N,चक्षु,göz
+2,Ohr::N,कान,kulak
+3,Ohr::N,कर्ण,kulak
+4,Nase::N,नाक,burun
+5,Nase::N,नासा,burun
+6,Mund::N,मुख,ağız
+7,Mund::N,मुँह,ağız
+8,Zahn::N,दंत,diş
+9,Zahn::N,दाँत,diş
+10,Zunge::N,जीभ,dil
+11,Zunge::N,ज़बान,dil
+12,Zunge::N,जिह्वा,dil
+13,Lippe::N,ओंठ,dudak
+14,Lippe::N,होंठ,dudak
+15,Wange::N,गाल,yanak
+16,Wange::N,कपोल,yanak
+17,Gesicht::N,मुँह,yüz
+18,Gesicht::N,चेहरा,yüz
+19,Stirn::N,माथा,alın
+20,Stirn::N,मस्तक,alın
+21,Haar::N,बाल,saç
+22,Schnurrbart::N,मूँछें,bıyık
+23,Bart::N,दाढ़ी,sakal
+24,Kinn::N,चिबुक,çene
+25,Kiefer[Anatomie]::N,जबड़ा,çene
+26,Kehle::N,गला,boğaz
+27,Hals::N,गला,boyun
+28,Hals::N,गला,gerdan
+29,Hals::N,गरदन,boyun
+30,Hals::N,गरदन,gerdan
+31,Genick::N,गरदन,ense
+32,Genick::N,ग्रीवा,ense
+33,Kopf::N,सिर,baş
+34,Kopf::N,सिर,kafa
+35,Kopf::N,शीर्ष,baş
+36,Kopf::N,शीर्ष,kafa
+37,Rücken::N,पीठ,arka
+38,Bauch::N,उदर,karın
+39,Nabel::N,नाभि,göbek
+40,Nabel::N,ढोंढी,göbek
+41,Busen::N,कुच,koyun
+42,Busen::N,स्तन,koyun
+43,Brust::N,वक्ष,göğüs
+44,Schulter::N,कंधा,omuz
+45,Schulter::N,स्कंध,omuz
+46,Arm::N,बाँह,kol
+47,Arm::N,बाज़ू,kol
+48,Ellenbogen::N,कुहनी,dirsek
+49,Hand::N,हाथ,el
+50,Hand::N,हस्त,el
+51,Handfläche::N,हथेली,avuç
+52,Handfläche::N,हथेली,el ayası
+53,Finger::N,उँगली,parmak
+54,Finger::N,अँगुली,parmak
+55,Fingernagel::N,नख,el tırnağı
+56,Fingernagel::N,नाख़ून,el tırnağı
+57,Nagel[Anatomie]::N,नख,tırnak
+58,Nagel[Anatomie]::N,नाख़ून,tırnak
+59,Zeh::N,उँगली,ayak parmağı
+60,Zeh::N,पाँव की उँगली,ayak parmağı
+61,Fuß::N,चरण,ayak
+62,Fuß::N,पाँव,ayak
+63,Ferse::N,एड़ी,topuk
+64,Knie::N,जानु,diz
+65,Knie::N,घुटना,diz
+66,Oberschenkel::N,उरु,uyluk
+67,Bein::N,टाँग,bacak
+68,Körper::N,तन,vücut
+69,Körper::N,देह,vücut
+70,Körper::N,शरीर,vücut
+71,Haut::N,चर्म,cilt
+72,Haut::N,त्वचा,cilt
+73,Blut::N,लहू,kan
+74,Blut::N,ख़ून,kan
+75,Ader::N,रग,damar
+76,Ader::N,शिरा,damar
+77,Sehne::N,कंडरा,kiriş
+78,Sehne::N,स्नायु,kiriş
+79,Knochen::N,अस्थि,kemik
+80,Gehirn::N,दिमाग़,beyin
+81,Gehirn::N,मस्तिष्क,beyin
+82,Herz::N,दिल,kalp
+83,Herz::N,दिल,yürek
+84,Herz::N,हृदय,kalp
+85,Herz::N,हृदय,yürek
+86,Magen::N,मेदा,mide
+87,Magen::N,अमाशय,mide
+88,Leber::N,जिगर,karaciğer
+89,Leber::N,यकृत्,karaciğer
+90,Atem::N,दम,nefes
+91,Atem::N,साँस,nefes
+92,Atem::N,श्वास,nefes
+93,Hunger::N,भूख,açlık
+94,Hunger::N,क्षुधा,açlık
+95,Träne::N,आँसू,gözyaşı
+96,Träne::N,अश्रु,gözyaşı
+97,Geschmack::N,स्वाद,tat
+98,Geschmack::N,स्वाद,lezzet
+99,Geschmack::N,ज़ायक़ा,tat
+100,Geschmack::N,ज़ायक़ा,lezzet
+101,Geruch::N,बू,koku
+102,Geruch::N,गंध,koku
+103,Schlaf::N,नींद,uyku
+104,Schlaf::N,निद्रा,uyku
+105,Traum::N,सपना,düş
+106,Traum::N,सपना,rüya
+107,Traum::N,स्वप्न,düş
+108,Traum::N,स्वप्न,rüya
+109,Himmel::N,आकाश,gök
+110,Himmel::N,आसमान,gök
+111,Sonne::N,रवि,güneş
+112,Sonne::N,सूरज,güneş
+113,Sonne::N,सूर्य,güneş
+114,Mond::N,चाँद,ay
+115,Mond::N,चंद्र,ay
+116,Stern::N,तारा,yıldız
+117,Stern::N,सितारा,yıldız
+118,Luft::N,हवा,hava
+119,Luft::N,वायु,hava
+120,Wind::N,पाद,yel
+121,Wind::N,पाद,rüzgâr
+122,Welle::N,लहर,dalga
+123,Welle::N,तरंग,dalga
+124,Wasser::N,जल,su
+125,Wasser::N,पानी,su
+126,Stein::N,पत्थर,taş
+127,Boden::N,मिट्टी,yer
+128,Boden::N,मिट्टी,zemin
+129,Erde::N,भूमि,toprak
+130,Erde::N,ज़मीन,toprak
+131,Staub::N,धूल,toz
+132,Rauch::N,धूआँ,duman
+133,Rauch::N,धुम्र,duman
+134,Funke::N,चिनगारी,kıvılcım
+135,Funke::N,स्फुलिंग,kıvılcım
+136,Feuer::N,आग,ateş
+137,Feuer::N,आतिश,ateş
+138,Feuer::N,अग्नि,ateş
+139,Licht::N,रोशनी,ışık
+140,Licht::N,प्रकाश,ışık
+141,Schatten::N,छाया,gölge
+142,Schatten::N,परछाई,gölge
+143,Wetter::N,ऋतु,hava
+144,Wetter::N,मौसम,hava
+145,Nebel::N,धुँध,pus
+146,Nebel::N,कुहरा,pus
+147,Wolke::N,मेघ,bulut
+148,Wolke::N,अभ्र,bulut
+149,Regen::N,मेंह,yağmur
+150,Regen::N,बारिश,yağmur
+151,Schnee::N,हिम,kar
+152,Schnee::N,बर्फ़,kar
+153,Eis::N,हिम,buz
+154,Eis::N,बर्फ़,buz
+155,Frost::N,ठंड,don
+156,Kälte::N,सर्दी,soğukluk
+157,Kälte::N,शीतलता,soğukluk
+158,Hitze::N,ताप,sıcaklık
+159,Hitze::N,गरमी,sıcaklık
+160,Raureif::N,पाला,kırç
+161,Regenbogen::N,इंद्र-धनुष,gökkuşağı
+162,Donner::N,गरज,gök gürlemesi
+163,Donner::N,मेघ-गर्जन,gök gürlemesi
+164,Strömung::N,बहाव,akıntı
+165,Strömung::N,बहाव,cereyan
+166,Strömung::N,प्रवाह,akıntı
+167,Strömung::N,प्रवाह,cereyan
+168,Tropfen::N,बूँद,damla
+169,Schaum::N,झाग,köpük
+170,Schmutz::N,गंद,çamur
+171,Schmutz::N,गंद,pislik
+172,Schmutz::N,कीचड़,çamur
+173,Schmutz::N,कीचड़,pislik
+174,See::N,झील,göl
+175,See::N,सरोवर,göl
+176,Sumpf::N,दलदल,batak
+177,Sumpf::N,धँसान,batak
+178,Moor::N,झाबर,cılgıt
+179,Moor::N,धँसान,cılgıt
+180,Wiese::N,घास-स्थल,çimen
+181,Wald::N,जंगल,koru
+182,Wald::N,जंगल,orman
+183,Hügel::N,टीला,tepe
+184,Hügel::N,पहाड़,tepe
+185,Anhöhe::N,टीला,tümsek
+186,Anhöhe::N,टीला,yükseklik
+187,Anhöhe::N,पहाड़ी,tümsek
+188,Anhöhe::N,पहाड़ी,yükseklik
+189,Berg::N,पहाड़,dağ
+190,Gipfel::N,शिखर,zirve
+191,Höhle::N,गुहा,in
+192,Höhle::N,गुहा,mağara
+193,Höhle::N,गुफ़ा,in
+194,Höhle::N,गुफ़ा,mağara
+195,Abhang::N,ढाल,bayır
+196,Abhang::N,ढलान,bayır
+197,Quelle::N,चश्मा,pınar
+198,Quelle::N,चश्मा,kaynak
+199,Bach::N,सोता,çay
+200,Bach::N,सोता,dere
+201,Bach::N,नदिका,çay
+202,Bach::N,नदिका,dere
+203,Fluss::N,नदी,nehir
+204,Fluss::N,सरिता,nehir
+205,Ufer::N,तट,kıyı
+206,Ufer::N,तट,sahil
+207,Ufer::N,किनारा,kıyı
+208,Ufer::N,किनारा,sahil
+209,Küste::N,समुद्र-तट,kıyı
+210,Küste::N,समुद्र-तट,sahil
+211,Festland::N,महाद्वीप,kara
+212,Meer::N,सागर,deniz
+213,Meer::N,समुद्र,deniz
+214,Bucht::N,खाड़ी,koy
+215,Bucht::N,खाड़ी,körfez
+216,Insel::N,टापू,ada
+217,Insel::N,द्वीप,ada
+218,Blume::N,फूल,çiçek
+219,Blume::N,पुष्प,çiçek
+220,Gras::N,घास,ot
+221,Gras::N,घास,çim
+222,Wurzel::N,मूल,kök
+223,Baum::N,पेड़,ağaç
+224,Baum::N,वृक्ष,ağaç
+225,Stamm::N,धड़,gövde
+226,Rinde::N,छाल,kabuk
+227,Rinde::N,वल्कल,kabuk
+228,Ast::N,डाल,dal
+229,Ast::N,डाल,budak
+230,Ast::N,शाखा,dal
+231,Ast::N,शाखा,budak
+232,Zweig::N,टहनी,dal
+233,Blatt::N,पत्र,yaprak
+234,Blatt::N,पत्ता,yaprak
+235,Birke::N,भूर्ज,huş
+236,Kiefer[Baum]::N,पाइन-वृक्ष,çam
+237,Weide[Baum]::N,बेंत,söğüt
+238,Tanne::N,फ़र,çam
+239,Tanne::N,फ़र,köknar
+240,Horn::N,सींग,boynuz
+241,Horn::N,विषाण,boynuz
+242,Feder::N,पर,tüy
+243,Feder::N,पंख,tüy
+244,Fell::N,खाल,post
+245,Fell::N,पशु-चर्म,post
+246,Flügel::N,पंख,kanat
+247,Flügel::N,डैना,kanat
+248,Klaue::N,पंजा,pençe
+249,Kralle::N,पंजा,tırnak
+250,Kralle::N,नाख़ून,tırnak
+251,Schwanz::N,पूँछ,kuyruk
+252,Ei::N,अंडा,yumurta
+253,Nest::N,नीड़,yuva
+254,Nest::N,घोंसला,yuva
+255,Bau::N,बिल,in
+256,Bau::N,माँद,in
+257,Tier::N,पशु,hayvan
+258,Tier::N,जानवर,hayvan
+259,Herde::N,गल्ला,sürü
+260,Kuh::N,गौ,inek
+261,Kuh::N,गाय,inek
+262,Bulle::N,साँड़,boğa
+263,Pferd::N,अश्व,at
+264,Pferd::N,अश्व,beygir
+265,Pferd::N,घोड़ा,at
+266,Pferd::N,घोड़ा,beygir
+267,Schaf::N,भेड़,koyun
+268,Schwein::N,शूकर,domuz
+269,Hund::N,श्वान,it
+270,Hund::N,श्वान,köpek
+271,Hund::N,कुत्ता,it
+272,Hund::N,कुत्ता,köpek
+273,Katze::N,बिल्ली,kedi
+274,Bär::N,रीछ,ayı
+275,Bär::N,भालू,ayı
+276,Eichhörnchen::N,गिलहरी,sincap
+277,Elch::N,एल्क,büyük kuzey geyiği
+278,Fuchs::N,लोमड़ी,tilki
+279,Hase::N,खरहा,tavşan
+280,Hase::N,ख़रगोश,tavşan
+281,Maus::N,मूष,fare
+282,Maus::N,मूष,sıçan
+283,Maus::N,चूहा,fare
+284,Maus::N,चूहा,sıçan
+285,Wolf::N,वृक,kurt
+286,Wolf::N,भेड़िया,kurt
+287,Vogel::N,पक्षी,kuş
+288,Vogel::N,चिड़िया,kuş
+289,Schwarm::N,झुंड,sürü
+290,Huhn::N,मुर्ग़ी,tavuk
+291,Hahn::N,मुर्ग़ा,horoz
+292,Gans::N,हंस,kaz
+293,Gans::N,हंसिनी,kaz
+294,Adler::N,उक़ाब,kartal
+295,Adler::N,उक़ाब,karakuş
+296,Ente::N,बतख़,ördek
+297,Ente::N,बत्तक,ördek
+298,Eule::N,उल्लू,baykuş
+299,Kranich::N,सारस,turna
+300,Kranich::N,क्रौंंच,turna
+301,Krähe::N,काक,karga
+302,Kuckuck::N,कोयल,guguk
+303,Kuckuck::N,कोकिल,guguk
+304,Schwan::N,हंस,kuğu
+305,Schwan::N,मराल,kuğu
+306,Fisch::N,मछली,balık
+307,Fisch::N,मत्स्य,balık
+308,Barsch::N,पर्च,hani
+309,Barsch::N,पर्च,levrek
+310,Hecht::N,पाइक,turnabalığı
+311,Schlange[Tier]::N,सर्प,yılan
+312,Wurm::N,कृमि,kurt
+313,Wurm::N,कृमि,solucan
+314,Wurm::N,कीड़ा,kurt
+315,Wurm::N,कीड़ा,solucan
+316,Spinne::N,लूता,örümcek
+317,Spinne::N,मकड़ी,örümcek
+318,Ameise::N,चींटी,karınca
+319,Laus::N,जूँ,bit
+320,Mücke::N,डाँस,sivrisinek
+321,Fliege::N,मक्खी,sinek
+322,Fliege::N,मक्षिका,sinek
+323,Schmetterling::N,तितली,kelebek
+324,Beere::N,बेरी,tane
+325,Apfel::N,सेब,elma
+326,Pilz::N,खुंबी,mantar
+327,Zwiebel::N,प्याज़,soğan
+328,Saat::N,बीज,ekin
+329,Korn::N,दाना,tane
+330,Heu::N,मूखी घास,kuru ot
+331,Schale::N,बकला,kabuk
+332,Schale::N,छिलका,kabuk
+333,Grube::N,गड्ढा,çukur
+334,Falle::N,जाल,tuzak
+335,Falle::N,फँदा,tuzak
+336,Schlinge::N,फँदा,ilmik
+337,Spur::N,सुराग़,iz
+338,Spur::N,पद-चिह्न,iz
+339,Asche::N,राख,kül
+340,Dreck::N,मैल,pislik
+341,Dreck::N,गंदगी,pislik
+342,Eisen::N,लोहा,demir
+343,Gold::N,सोना,altın
+344,Gold::N,स्वर्ण,altın
+345,Silber::N,रजत,gümüş
+346,Silber::N,चाँदी,gümüş
+347,Kohle::N,कोयला,kömür
+348,Glas::N,काँच,cam
+349,Lehm::N,चिकनी मिट्टी,balçık
+350,Sand::N,रेत,kum
+351,Sand::N,बालू,kum
+352,Mensch::N,मानव,insan
+353,Mensch::N,इनसान,insan
+354,Mensch::N,मनुष्य,insan
+355,Mann::N,आदमी,adam
+356,Mann::N,आदमी,erkek
+357,Mann::N,पुरुष,adam
+358,Mann::N,पुरुष,erkek
+359,Frau::N,औरत,bayan
+360,Frau::N,महिला,bayan
+361,Frau::N,स्त्री,bayan
+362,Kind::N,बाल,çocuk
+363,Kind::N,बच्चा,çocuk
+364,Junge::N,लड़का,erkek çocuk
+365,Mädchen::N,लड़की,kız
+366,Mädchen::N,कुमारी,kız
+367,Familie::N,परिवार,aile
+368,Großvater::N,दादा,dede
+369,Großvater::N,दादा,büyükbaba
+370,Großmutter::N,नानी,nine
+371,Großmutter::N,नानी,büyükanne
+372,Eltern::N,माँ-बाप,ebeveyn
+373,Eltern::N,माँ-बाप,ana baba
+374,Eltern::N,माता-पिता,ebeveyn
+375,Eltern::N,माता-पिता,ana baba
+376,Vater::N,बाप,ata
+377,Vater::N,बाप,baba
+378,Vater::N,पिता,ata
+379,Vater::N,पिता,baba
+380,Mutter::N,माँ,ana
+381,Mutter::N,माँ,anne
+382,Mutter::N,माता,ana
+383,Mutter::N,माता,anne
+384,Sohn::N,बेटा,oğul
+385,Sohn::N,पुत्र,oğul
+386,Tochter::N,बेटी,kız
+387,Tochter::N,बेटी,kız evlât
+388,Tochter::N,पुत्री,kız
+389,Tochter::N,पुत्री,kız evlât
+390,Bruder::N,भाई,abi
+391,Bruder::N,भाई,erkek kardeş
+392,Bruder::N,भ्राता,abi
+393,Bruder::N,भ्राता,erkek kardeş
+394,Schwester::N,बहन,abla
+395,Schwester::N,बहन,kız kardeş
+396,Schwester::N,भगिनी,abla
+397,Schwester::N,भगिनी,kız kardeş
+398,Onkel::N,ताऊ,dayı
+399,Onkel::N,काका,dayı
+400,Tante::N,बूआ,hala
+401,Tante::N,बूआ,teyze
+402,Tante::N,फूफी,hala
+403,Tante::N,फूफी,teyze
+404,Tante::N,ख़ाला,hala
+405,Tante::N,ख़ाला,teyze
+406,Ehemann::N,पति,koca
+407,Ehemann::N,शौहर,koca
+408,Ehefrau::N,बीवी,karı
+409,Freude::N,आनंद,neşe
+410,Freude::N,आनंद,sevinç
+411,Freude::N,प्रसन्नता,neşe
+412,Freude::N,प्रसन्नता,sevinç
+413,Gelächter::N,हँसी,gülme
+414,Gelächter::N,हँसी,kahkaha
+415,Gelächter::N,क़हक़हा,gülme
+416,Gelächter::N,क़हक़हा,kahkaha
+417,Glück::N,आनंद,mutluluk
+418,Glück::N,ख़ुशी,mutluluk
+419,Kummer::N,शोक,dert
+420,Kummer::N,शोक,keder
+421,Kummer::N,दुःख,dert
+422,Kummer::N,दुःख,keder
+423,Wunsch::N,इच्छा,arzu
+424,Wunsch::N,इच्छा,istek
+425,Wunsch::N,अभिलाषा,arzu
+426,Wunsch::N,अभिलाषा,istek
+427,Lust::N,चाह,arzu
+428,Lust::N,चाह,heves
+429,Lust::N,कामना,arzu
+430,Lust::N,कामना,heves
+431,Geist::N,जान,tin
+432,Geist::N,प्राण,tin
+433,Gedanke::N,विचार,fikir
+434,Gedanke::N,विचार,düşünce
+435,Gedächtnis::N,याददाश्त,bellek
+436,Gedächtnis::N,स्मरण-शक्ति,bellek
+437,Verstand::N,समझ,zekâ
+438,Verstand::N,अक़्ल,zekâ
+439,Verstand::N,बुद्धि,zekâ
+440,Sinn::N,अर्थ,anlam
+441,Grund::N,वजह,sebep
+442,Grund::N,कारण,sebep
+443,Wahrheit::N,सत्य,doğruluk
+444,Wahrheit::N,सत्य,gerçeklik
+445,Wahrheit::N,सच्चाई,doğruluk
+446,Wahrheit::N,सच्चाई,gerçeklik
+447,Gespräch::N,चर्चा,görüşme
+448,Gespräch::N,वार्ता,görüşme
+449,Gespräch::N,बात-चीत,görüşme
+450,Märchen::N,क़िस्सा,masal
+451,Erzählung::N,कथा,öykü
+452,Erzählung::N,कथा,hikâye
+453,Erzählung::N,कहानी,öykü
+454,Erzählung::N,कहानी,hikâye
+455,Nachricht::N,सूचना,haber
+456,Nachricht::N,समाचार,haber
+457,Neuigkeit::N,ख़बर,haber
+458,Neuigkeit::N,समाचार,haber
+459,Name::N,नाम,ad
+460,Name::N,नाम,isim
+461,Rätsel::N,पहेली,bilmece
+462,Rede::N,वचन,söylev
+463,Rede::N,वचन,konuşma
+464,Rede::N,भाषण,söylev
+465,Rede::N,भाषण,konuşma
+466,Sprache::N,भाषा,dil
+467,Sprache::N,भाषा,lisan
+468,Sprache::N,ज़बान,dil
+469,Sprache::N,ज़बान,lisan
+470,Stimme::N,स्वर,ses
+471,Stimme::N,आवाज़,ses
+472,Wort::N,शब्द,kelime
+473,Wort::N,लफ़्ज़,kelime
+474,Zeichen::N,निशान,işaret
+475,Ruf::N,पुकार,çağırma
+476,Ruf::N,आह्वान,çağırma
+477,Lärm::N,शोर,şamata
+478,Lärm::N,शोर,gürültü
+479,Lärm::N,हुल्लड़,şamata
+480,Lärm::N,हुल्लड़,gürültü
+481,Laut::N,स्वर,ses
+482,Laut::N,ध्वनि,ses
+483,Ton::N,सुर,ses
+484,Ton::N,स्वर,ses
+485,Lied::N,गीत,türkü
+486,Ruhe::N,आराम,sakinlik
+487,Ruhe::N,ख़ामोशी,sakinlik
+488,Leute::N,लोग,halk
+489,Leute::N,लोग,insanlar
+490,Volk::N,क़ौम,ulus
+491,Volk::N,क़ौम,millet
+492,Volk::N,प्रजा,ulus
+493,Volk::N,प्रजा,millet
+494,Arbeit::N,काम,iş
+495,Arbeit::N,काम,çalışma
+496,Gast::N,अतिथि,konuk
+497,Gast::N,अतिथि,misafir
+498,Gast::N,मेहमान,konuk
+499,Gast::N,मेहमान,misafir
+500,Geschenk::N,उपहार,hediye
+501,Geschenk::N,उपहार,armağan
+502,Geschenk::N,तोहफ़ा,hediye
+503,Geschenk::N,तोहफ़ा,armağan
+504,Spiel::N,खेल,oyun
+505,Spiel::N,क्रीड़ा,oyun
+506,Gesellschaft::N,साथ,çevre
+507,Gesellschaft::N,साथ,arkadaşlık
+508,Hilfe::N,मदद,yardım
+509,Hilfe::N,सहायता,yardım
+510,Freund::N,मित्र,dost
+511,Freund::N,मित्र,arkadaş
+512,Kamerad::N,साथी,arkadaş
+513,Kamerad::N,कामरेड,arkadaş
+514,Angelegenheit::N,बात,iş
+515,Angelegenheit::N,बात,husus
+516,Angelegenheit::N,मामला,iş
+517,Angelegenheit::N,मामला,husus
+518,Anzahl::N,तादाद,sayı
+519,Anzahl::N,संख्या,sayı
+520,Art::N,तरह,çeşit
+521,Art::N,क़िस्म,çeşit
+522,Stück::N,फाँक,tane
+523,Stück::N,फाँक,parça
+524,Stück::N,टुकड़ा,tane
+525,Stück::N,टुकड़ा,parça
+526,Teil::N,भाग,kısım
+527,Teil::N,हिस्सा,kısım
+528,Hälfte::N,अर्धभाग,yarı
+529,Kreis::N,चक्कर,daire
+530,Kreuz::N,सलीब,haç
+531,Kreuz::N,क्रूस,haç
+532,Linie::N,लाइन,hat
+533,Linie::N,लाइन,çizgi
+534,Strich::N,लकीर,çizgi
+535,Abstand::N,अंतर,aralık
+536,Abstand::N,फ़ासला,aralık
+537,Entfernung::N,दूरी,mesafe
+538,Entfernung::N,दूरी,uzaklık
+539,Entfernung::N,फ़ासला,mesafe
+540,Entfernung::N,फ़ासला,uzaklık
+541,Gegend::N,इलाक़ा,yöre
+542,Platz::N,जगह,yer
+543,Platz::N,स्थान,yer
+544,Ort::N,स्थल,yer
+545,Ort::N,स्थान,yer
+546,Seite::N,ओर,yan
+547,Seite::N,ओर,taraf
+548,Seite::N,तरफ़,yan
+549,Seite::N,तरफ़,taraf
+550,Mitte::N,बीच,orta
+551,Mitte::N,बीच,merkez
+552,Mitte::N,मध्य,orta
+553,Mitte::N,मध्य,merkez
+554,Gegenstand::N,चीज़,şey
+555,Gegenstand::N,पदार्थ,şey
+556,Sache::N,चीज़,iş
+557,Sache::N,चीज़,şey
+558,Sache::N,वस्तु,iş
+559,Sache::N,वस्तु,şey
+560,Rand::N,छोर,kenar
+561,Rand::N,उपांत,kenar
+562,Kante::N,कोर,kenar
+563,Kante::N,किनारा,kenar
+564,Ecke::N,कोना,köşe
+565,Ecke::N,नुक्कड़,köşe
+566,Spitze::N,नोक,uç
+567,Spitze::N,नोक,baş
+568,Ende::N,छोर,uç
+569,Ende::N,सिरा,uç
+570,Loch::N,छेद,oyuk
+571,Loch::N,छेद,delik
+572,Loch::N,सूराख़,oyuk
+573,Loch::N,सूराख़,delik
+574,Winkel::N,कोण,köşe
+575,Winkel::N,कोना,köşe
+576,Muster::N,नमूना,örnek
+577,Muster::N,डिज़ाइन,örnek
+578,Größe::N,परिमाण,büyüklük
+579,Größe::N,विस्तार,büyüklük
+580,Länge::N,लंबाई,uzunluk
+581,Höhe::N,ऊँचाई,yükseklik
+582,Höhe::N,उच्चता,yükseklik
+583,Gewicht::N,भार,ağırlık
+584,Gewicht::N,वज़न,ağırlık
+585,Menge::N,मात्रा,miktar
+586,Haufen::N,ढेर,küme
+587,Haufen::N,ढेर,yığın
+588,Haufen::N,अंबार,küme
+589,Haufen::N,अंबार,yığın
+590,Reihe::N,क़तार,sıra
+591,Reihe::N,पंक्ति,sıra
+592,Boot::N,नाव,kayık
+593,Boot::N,नाव,sandal
+594,Boot::N,नौका,kayık
+595,Boot::N,नौका,sandal
+596,Ruder::N,चप्पू,kürek
+597,Schlitten::N,बर्फ़-गाड़ी,kızak
+598,Ski::N,स्की,kayak
+599,Lagerfeuer::N,अलाव,kamp ateşi
+600,Lagerfeuer::N,कैंप-फ़ायर,kamp ateşi
+601,Last::N,भार,yük
+602,Gang::N,चाल,gidiş
+603,Gang::N,चाल,yürüyüş
+604,Schritt::N,डग,adım
+605,Schritt::N,क़दम,adım
+606,Norden::N,उत्तर,kuzey
+607,Süden::N,दक्खिन,güney
+608,Westen::N,पश्चिम,batı
+609,Osten::N,पूरब,doğu
+610,Holz::N,काठ,ağaç
+611,Holz::N,काठ,tahta
+612,Holz::N,काष्ठ,ağaç
+613,Holz::N,काष्ठ,tahta
+614,Brett::N,पटरा,tahta
+615,Brett::N,तख़्ता,tahta
+616,Platte::N,फलक,levha
+617,Platte::N,तख़्ता,levha
+618,Stütze::N,टेक,dayak
+619,Stütze::N,टेक,destek
+620,Stütze::N,थूनी,dayak
+621,Stütze::N,थूनी,destek
+622,Stange::N,छड़,çubuk
+623,Stange::N,बाँस,çubuk
+624,Stock::N,लाठी,sopa
+625,Stock::N,लाठी,değnek
+626,Stab::N,लग्गा,sırık
+627,Stab::N,लग्गा,baston
+628,Rohr::N,नल,boru
+629,Haus::N,घर,ev
+630,Haus::N,मकान,ev
+631,Heim::N,घर,ev
+632,Heim::N,घर,yurt
+633,Heim::N,गृह,ev
+634,Heim::N,गृह,yurt
+635,Ofen::N,चूल्हा,soba
+636,Fußboden::N,फ़र्श,taban
+637,Fußboden::N,फ़र्श,döşeme
+638,Tisch::N,मेज़,masa
+639,Stuhl::N,कुरसी,iskemle
+640,Stuhl::N,कुरसी,sandalye
+641,Wiege::N,पालना,beşik
+642,Wiege::N,हिंडोला,beşik
+643,Bett::N,खाट,yatak
+644,Bett::N,पलंग,yatak
+645,Regal::N,शेल्फ़,raf
+646,Kiste::N,पेटी,sandık
+647,Kiste::N,डिब्बा,sandık
+648,Fenster::N,खिड़की,pencere
+649,Tür::N,द्वार,kapı
+650,Tür::N,दरवाज़ा,kapı
+651,Tor::N,फाटक,kapı
+652,Zaun::N,बाड़ा,çit
+653,Dach::N,छत,dam
+654,Dach::N,छत,çatı
+655,Dach::N,छप्पर,dam
+656,Dach::N,छप्पर,çatı
+657,Leiter::N,सीढ़ी,merdiven
+658,Besen::N,झाड़ू,süpürge
+659,Besen::N,बुहारी,süpürge
+660,Spaten::N,कुदाल,bel
+661,Schaufel::N,बेलचा,kürek
+662,Schaufel::N,फावड़ा,kürek
+663,Gabel::N,काँटा,çatal
+664,Löffel::N,चम्मच,kaşık
+665,Messer::N,छुरा,bıçak
+666,Messer::N,चाक़ू,bıçak
+667,Nagel::N,कील,çivi
+668,Nagel::N,मेख़,çivi
+669,Netz::N,जाल,ağ
+670,Haken::N,अंकुश,çengel
+671,Griff::N,मूठ,kulp
+672,Griff::N,मूठ,tutamak
+673,Griff::N,हत्था,kulp
+674,Griff::N,हत्था,tutamak
+675,Schloss::N,ताला,kilit
+676,Bild::N,चित्र,imaj
+677,Bild::N,चित्र,resim
+678,Figur::N,मूर्ति,şekil
+679,Figur::N,मूर्ति,heykel
+680,Puppe::N,पुतली,kukla
+681,Puppe::N,गुड़िया,kukla
+682,Beutel::N,झोला,kese
+683,Beutel::N,झोला,torba
+684,Bündel::N,पुलिंदा,deste
+685,Tasche::N,बेग,çanta
+686,Tasche::N,बस्ता,çanta
+687,Eimer::N,बाल्टी,kova
+688,Deckel::N,ढक्कन,kapak
+689,Geschirr::N,बरतन-भाँड़े,kap kacak
+690,Sack::N,बोरा,torba
+691,Tasse::N,प्याला,fincan
+692,Topf::N,देग़चा,tencere
+693,Kessel::N,देग़,kazan
+694,Kessel::N,बटलोई,kazan
+695,Essen::N,खाना,yemek
+696,Nahrung::N,भोजन,gıda
+697,Nahrung::N,भोजन,besin
+698,Speise::N,खाना,yemek
+699,Speise::N,व्यंजन,yemek
+700,Fleisch::N,मांस,et
+701,Fleisch::N,गोश्त,et
+702,Getreide::N,अनाज,tahıl
+703,Getreide::N,अनाज,hububat
+704,Brei::N,भरता,ezme
+705,Brei::N,दलिया,ezme
+706,Brot::N,रोटी,ekmek
+707,Scheibe::N,कतला,dilim
+708,Fett::N,वसा,yağ
+709,Fett::N,चरबी,yağ
+710,Butter::N,मक्खन,tereyağı
+711,Öl::N,तेल,yağ
+712,Öl::N,तेल,akar yağ
+713,Salz::N,नमक,tuz
+714,Suppe::N,सूप,çorba
+715,Suppe::N,शोरबा,çorba
+716,Honig::N,शहद,bal
+717,Milch::N,दूध,süt
+718,Tee::N,चाय,çay
+719,Leder::N,चमड़ा,deri
+720,Leder::N,चमड़ा,meşin
+721,Wolle::N,ऊन,yün
+722,Stoff::N,कपड़ा,kumaş
+723,Nadel::N,सूई,iğne
+724,Faden::N,डोरा,tire
+725,Faden::N,डोरा,iplik
+726,Knopf::N,बटन,düğme
+727,Knopf::N,घुंडी,düğme
+728,Knoten::N,गाँठ,düğüm
+729,Knoten::N,गुत्थी,düğüm
+730,Farbe::N,रंग,boya
+731,Farbe::N,वर्ण,boya
+732,Kleidung::N,पहनावा,giyim
+733,Hemd::N,कुरता,gömlek
+734,Hemd::N,क़मीज़,gömlek
+735,Kragen::N,गरदनी,yaka
+736,Kragen::N,गरेबान,yaka
+737,Ärmel::N,आस्तीन,yen
+738,Ärmel::N,आस्तीन,elbise kolu
+739,Hose::N,पैंट,pantolon
+740,Hose::N,पतलून,pantolon
+741,Gürtel::N,पेटी,kuşak
+742,Gürtel::N,मेखला,kuşak
+743,Mütze::N,टोपी,bere
+744,Mütze::N,टोपी,kasket
+745,Schuh::N,जूता,kundura
+746,Schuh::N,जूता,ayakkabı
+747,Stiefel::N,बूट,çizme
+748,Ring::N,अँगूठी,yüzük
+749,Band::N,पट्टी,bağ
+750,Band::N,पट्टी,şerit
+751,Kamm::N,कंघी,tarak
+752,Spiegel::N,आईना,ayna
+753,Spiegel::N,दर्पण,ayna
+754,Riemen::N,तसमा,kayış
+755,Riemen::N,पट्टा,kayış
+756,Schnur::N,डोरी,ip
+757,Schnur::N,डोरी,sicim
+758,Schnur::N,सुतली,ip
+759,Schnur::N,सुतली,sicim
+760,Leine::N,रस्सी,kayış
+761,Decke::N,रज़ाई,örtü
+762,Decke::N,रज़ाई,yorgan
+763,Kissen::N,तकिया,yastık
+764,Kissen::N,गाद्दा,yastık
+765,Tuch::N,रूमाल,bez
+766,Tuch::N,वस्त्र,bez
+767,Handtuch::N,अँगोछा,havlu
+768,Kraft::N,ज़ोर,güç
+769,Kraft::N,ज़ोर,kuvvet
+770,Kraft::N,शक्ति,güç
+771,Kraft::N,शक्ति,kuvvet
+772,Stärke::N,बल,kuvvet
+773,Stärke::N,ताक़त,kuvvet
+774,Gesundheit::N,स्वास्थ्य,sağlık
+775,Gesundheit::N,तंदुरुस्ती,sağlık
+776,Krankheit::N,रोग,hastalık
+777,Krankheit::N,बीमारी,hastalık
+778,Schmerz::N,दर्द,ağrı
+779,Schmerz::N,दर्द,sancı
+780,Schmerz::N,पीड़ा,ağrı
+781,Schmerz::N,पीड़ा,sancı
+782,Wunde::N,घाव,yara
+783,Wunde::N,ज़ख़्म,yara
+784,Fieber::N,ज्वर,ateş
+785,Fieber::N,बुख़ार,ateş
+786,Arznei::N,दवा,ilâç
+787,Arznei::N,औषाधि,ilâç
+788,Brücke::N,पुल,köprü
+789,Brücke::N,सेतु,köprü
+790,Brunnen::N,कुआँ,kuyu
+791,Brunnen::N,कुआँ,çeşme
+792,Weide::N,चरागाह,otlak
+793,Pfad::N,पथ,patika
+794,Pfad::N,पथ,keçiyolu
+795,Pfad::N,पगडंडी,patika
+796,Pfad::N,पगडंडी,keçiyolu
+797,Weg::N,मार्ग,yol
+798,Straße::N,राह,yol
+799,Straße::N,राह,cadde
+800,Straße::N,रास्ता,yol
+801,Straße::N,रास्ता,cadde
+802,Dorf::N,गाँव,köy
+803,Dorf::N,ग्राम,köy
+804,Stadt::N,शहर,kent
+805,Stadt::N,शहर,şehir
+806,Brief::N,ख़त,mektup
+807,Brief::N,पत्र,mektup
+808,Brief::N,चिट्ठी,mektup
+809,Buch::N,किताब,kitap
+810,Buch::N,पुस्तक,kitap
+811,Buchstabe::N,अक्षर,harf
+812,Zeitung::N,अख़बार,gazete
+813,Zeitung::N,समाचार-पत्र,gazete
+814,Leben::N,जीवन,hayat
+815,Leben::N,ज़िंदगी,hayat
+816,Tod::N,मौत,ölüm
+817,Tod::N,मृत्यु,ölüm
+818,Grab::N,क़ब्र,kabir
+819,Kirche::N,चर्च,kilise
+820,Kirche::N,गिरजा,kilise
+821,Sünde::N,पाप,günah
+822,Sünde::N,गुनाह,günah
+823,Gott::N,देव,tanrı
+824,Gott::N,ईश्वर,tanrı
+825,Arbeiter::N,मज़दूर,işçi
+826,Chef::N,अध्यक्ष,şef
+827,Chef::N,अध्यक्ष,müdür
+828,Meister::N,शिल्पज्ञ,usta
+829,Arzt::N,वैद्य,hekim
+830,Arzt::N,वैद्य,doktor
+831,Arzt::N,डॉक्टर,hekim
+832,Arzt::N,डॉक्टर,doktor
+833,Arzt::N,चिकित्सक,hekim
+834,Arzt::N,चिकित्सक,doktor
+835,Lehrer::N,शिक्षक,hoca
+836,Lehrer::N,शिक्षक,öğretmen
+837,Lehrer::N,अध्यापक,hoca
+838,Lehrer::N,अध्यापक,öğretmen
+839,Geld::N,धन,para
+840,Geld::N,पैसा,para
+841,Geschäft::N,सौदा,ticaret
+842,Geschäft::N,व्यापार,ticaret
+843,Laden::N,दुकान,dükkân
+844,Preis::N,दाम,fiyat
+845,Preis::N,मूल्य,fiyat
+846,Ware::N,माल,mal
+847,Ware::N,पण्य,mal
+848,Nutzen::N,लाभ,fayda
+849,Nutzen::N,फ़ायदा,fayda
+850,Reichtum::N,धन,servet
+851,Reichtum::N,धन,zenginlik
+852,Reichtum::N,दौलत,servet
+853,Reichtum::N,दौलत,zenginlik
+854,Welt::N,विश्व,dünya
+855,Welt::N,दुनिया,dünya
+856,Land::N,देश,ülke
+857,Land::N,मुल्क,ülke
+858,Staat::N,राज्य,devlet
+859,Staat::N,राष्ट्र,devlet
+860,König::N,राजा,kral
+861,König::N,बादशाह,kral
+862,Macht::N,शासन,kudret
+863,Macht::N,शासन,iktidar
+864,Macht::N,सत्ता,kudret
+865,Macht::N,सत्ता,iktidar
+866,Grenze::N,सरहद,had
+867,Grenze::N,सरहद,sınır
+868,Krieg::N,जंग,savaş
+869,Krieg::N,युद्ध,savaş
+870,Feind::N,शत्रु,düşman
+871,Feind::N,दुश्मन,düşman
+872,Gewalt::N,हिंसा,zor
+873,Gewalt::N,हिंसा,cebir
+874,Kampf::N,लड़ाई,savaş
+875,Kampf::N,संघर्ष,savaş
+876,Bogen[Waffe]::N,कमान,yay
+877,Pfeil::N,बान,ok
+878,Gewehr::N,बंदूक़,tüfek
+879,Fehler::N,भूल,hata
+880,Fehler::N,भूल,yanlış
+881,Fehler::N,ग़लती,hata
+882,Fehler::N,ग़लती,yanlış
+883,Lüge::N,झूठ,yalan
+884,Lüge::N,असत्य,yalan
+885,Schaden::N,हानि,zarar
+886,Schaden::N,नुक़सान,zarar
+887,Unglück::N,मुसीबत,felâket
+888,Unglück::N,मुसीबत,talihsizlik
+889,Unglück::N,विपात्ति,felâket
+890,Unglück::N,विपात्ति,talihsizlik
+891,Schuld::N,दोष,suç
+892,Schuld::N,दोष,kabahat
+893,Schuld::N,क़सूर,suç
+894,Schuld::N,क़सूर,kabahat
+895,Alter::N,आयु,yaş
+896,Alter::N,उम्र,yaş
+897,Schluss::N,अंत,son
+898,Schluss::N,समाप्ति,son
+899,Zeit::N,काल,zaman
+900,Zeit::N,वक़्त,zaman
+901,Tag::N,दिन,gün
+902,Tag::N,रोज़,gün
+903,Morgen::N,सुबह,sabah
+904,Mittag::N,दोपहर,öğle
+905,Mittag::N,मध्याह्न,öğle
+906,Abend::N,शाम,akşam
+907,Abend::N,संध्या,akşam
+908,Nacht::N,रात,gece
+909,Nacht::N,रात्रि,gece
+910,Woche::N,हफ़्ता,hafta
+911,Monat::N,मास,ay
+912,Monat::N,महीना,ay
+913,Jahr::N,बरस,yıl
+914,Jahr::N,बरस,sene
+915,Jahr::N,वर्ष,yıl
+916,Jahr::N,वर्ष,sene
+917,Frühling::N,वसंत,ilkbahar
+918,Sommer::N,गरमी,yaz
+919,Sommer::N,ग्रीष्म,yaz
+920,Herbst::N,शरत्,güz
+921,Herbst::N,शरत्,sonbahar
+922,Herbst::N,पतझड़,güz
+923,Herbst::N,पतझड़,sonbahar
+924,Winter::N,जाड़ा,kış
+925,Winter::N,सर्दियाँ,kış
+926,Januar::N,जनवरी,ocak
+927,Februar::N,फ़रवरी,şubat
+928,März::N,मार्च,mart
+929,April::N,अप्रैल,nisan
+930,Mai::N,मई,mayıs
+931,Juni::N,जून,haziran
+932,Juli::N,जुलाई,temmuz
+933,August::N,अगस्त,ağustos
+934,September::N,सितंबर,eylül
+935,Oktober::N,अक्तूबर,ekim
+936,November::N,नवंबर,kasım
+937,Dezember::N,दिसंबर,aralık
+938,Montag::N,पीर,pazartesi
+939,Montag::N,सोमवार,pazartesi
+940,Dienstag::N,मंगलवार,salı
+941,Mittwoch::N,बुधवार,çarşamba
+942,Donnerstag::N,गुरुवार,perşembe
+943,Donnerstag::N,बृहस्पतिवार,perşembe
+944,Freitag::N,शुक्रवार,cuma
+945,Samstag::N,सनीचर,cumartesi
+946,Samstag::N,शनिवार,cumartesi
+947,Sonntag::N,इतवार,pazar
+948,Sonntag::N,रविवार,pazar
+949,groß::A,बड़ा,büyük
+950,klein::A,कम,ufak
+951,klein::A,कम,küçük
+952,klein::A,छोटा,ufak
+953,klein::A,छोटा,küçük
+954,lang::A,लंबा,uzun
+955,lang::A,दीर्घ,uzun
+956,kurz::A,लधु,kısa
+957,kurz::A,छोटा,kısa
+958,breit::A,चौड़ा,enli
+959,breit::A,चौड़ा,geniş
+960,schmal::A,तंग,dar
+961,schmal::A,सँकरा,dar
+962,dicht::A,सघन,sık
+963,dicht::A,सघन,yoğun
+964,dick[Gegenstand]::A,मोटा,kalın
+965,dick[Gegenstand]::A,मोटा,iri
+966,dünn::A,महीन,ince
+967,dünn::A,बारीक,ince
+968,fein::A,कोमल,ince
+969,fein::A,कोमल,narin
+970,fein::A,सूक्ष्म,ince
+971,fein::A,सूक्ष्म,narin
+972,fest::A,दृढ़,sabit
+973,fest::A,दृढ़,sağlam
+974,fest::A,मज़बूत,sabit
+975,fest::A,मज़बूत,sağlam
+976,flach::A,चपटा,düz
+977,flach::A,चपटा,yassı
+978,glatt::A,चौरस,düz
+979,glatt::A,चिकना,düz
+980,hart::A,कठोर,katı
+981,hart::A,सख़्त,katı
+982,weich::A,नरम,yumuşak
+983,weich::A,मुलायम,yumuşak
+984,rund::A,गोल,yuvarlak
+985,rund::A,वर्तुल,yuvarlak
+986,spitz::A,नुकीला,sivri
+987,scharf::A,पैना,keskin
+988,stumpf::A,भोथरा,kör
+989,schwer::A,भारी,ağır
+990,schwer::A,वज़नी,ağır
+991,schön::A,सुंदर,güzel
+992,heiß::A,उष्ण,kızgın
+993,warm::A,गरम,sıcak
+994,kalt::A,सर्द,soğuk
+995,kühl::A,ठंडा,serin
+996,frisch::A,तर,taze
+997,frisch::A,ताज़ा,taze
+998,feucht::A,नम,nemli
+999,feucht::A,नम,rutubetli
+1000,feucht::A,भीगा,nemli
+1001,feucht::A,भीगा,rutubetli
+1002,nass::A,गीला,yaş
+1003,nass::A,गीला,ıslak
+1004,trocken::A,सूखा,kuru
+1005,trocken::A,ख़ुश्क,kuru
+1006,voll::A,भरा,dolu
+1007,voll::A,भरा,dolmuş
+1008,voll::A,पूरा,dolu
+1009,voll::A,पूरा,dolmuş
+1010,leer::A,ख़ाली,boş
+1011,offen::A,खुला,açık
+1012,geschlossen::A,बंद,kapalı
+1013,sauber::A,साफ़,pak
+1014,sauber::A,साफ़,temiz
+1015,sauber::A,सुथरा,pak
+1016,sauber::A,सुथरा,temiz
+1017,schmutzig::A,गंदा,pis
+1018,schmutzig::A,गंदा,kirli
+1019,roh::A,कच्चा,çiğ
+1020,reif::A,पक्व,olgun
+1021,reif::A,पक्का,olgun
+1022,lecker::A,मज़ेदार,lezzetli
+1023,lecker::A,स्वादिष्ट,lezzetli
+1024,süß::A,मीठा,tatlı
+1025,süß::A,मीठा,şekerli
+1026,bitter::A,कटु,acı
+1027,bitter::A,कड़वा,acı
+1028,sauer::A,खट्टा,ekşi
+1029,hell::A,रोशन,aydınlık
+1030,dunkel::A,अँधेरा,karanlık
+1031,schwarz::A,काला,kara
+1032,schwarz::A,काला,siyah
+1033,schwarz::A,स्याह,kara
+1034,schwarz::A,स्याह,siyah
+1035,weiß::A,सफ़ेद,ak
+1036,weiß::A,सफ़ेद,beyaz
+1037,rot::A,लाल,kırmızı
+1038,rot::A,सुर्ख़,kırmızı
+1039,gelb::A,पीला,sarı
+1040,gelb::A,ज़र्द,sarı
+1041,blau::A,नीला,mavi
+1042,blau::A,आसमानी,mavi
+1043,grün::A,हरा,yeşil
+1044,grau::A,धूसर,boz
+1045,bunt::A,रंगीन,renkli
+1046,bunt::A,बहुरंगा,renkli
+1047,billig::A,सस्ता,ucuz
+1048,teuer::A,महँगा,pahalı
+1049,wertvoll::A,क़ीमती,değerli
+1050,wertvoll::A,मूल्यवान्,değerli
+1051,blind::A,अंधा,kör
+1052,taub::A,बहरा,sağır
+1053,kräftig::A,ताक़तवर,dinç
+1054,kräftig::A,ताक़तवर,kuvvetli
+1055,kräftig::A,शक्तिशाली,dinç
+1056,kräftig::A,शक्तिशाली,kuvvetli
+1057,stark::A,प्रबल,güçlü
+1058,stark::A,प्रबल,kuvvetli
+1059,stark::A,बलवान्,güçlü
+1060,stark::A,बलवान्,kuvvetli
+1061,schwach::A,कमज़ोर,zayıf
+1062,schwach::A,कमज़ोर,güçsüz
+1063,fett::A,मोटा,şişman
+1064,fett::A,मांसल,şişman
+1065,schlank::A,पतला,narin
+1066,schlank::A,छरहरा,narin
+1067,hübsch::A,सुंदर,güzel
+1068,hübsch::A,सुंदर,sevimli
+1069,hübsch::A,ख़ूबसूरत,güzel
+1070,hübsch::A,ख़ूबसूरत,sevimli
+1071,böse::A,पापी,kötü
+1072,böse::A,दुष्ट,kötü
+1073,dumm::A,मूर्ख,aptal
+1074,dumm::A,बुद्धू,aptal
+1075,faul::A,आलसी,tembel
+1076,faul::A,सुस्त,tembel
+1077,fleißig::A,मेहनती,çalışkan
+1078,fleißig::A,परिश्रमी,çalışkan
+1079,geizig::A,कृपण,cimri
+1080,geizig::A,कंजूस,cimri
+1081,klug::A,समझदार,zekî
+1082,klug::A,समझदार,akıllı
+1083,klug::A,होशियार,zekî
+1084,klug::A,होशियार,akıllı
+1085,klug::A,अक़्लमंद,zekî
+1086,klug::A,अक़्लमंद,akıllı
+1087,geschickt::A,किशल,becerikli
+1088,lieb::A,प्रिय,sevimli
+1089,lieb::A,प्यारा,sevimli
+1090,lustig::A,हँसमुख,neşeli
+1091,lustig::A,ख़ुशदिल,neşeli
+1092,sanft::A,नम्र,nazik
+1093,hungrig::A,भूखा,aç
+1094,krank::A,बीमार,hasta
+1095,krank::A,बीमार,rahatsız
+1096,krank::A,अस्वस्थ,hasta
+1097,krank::A,अस्वस्थ,rahatsız
+1098,nackt::A,नग्न,çıplak
+1099,traurig::A,उदास,kederli
+1100,traurig::A,उदास,üzüntülü
+1101,traurig::A,रंजीदा,kederli
+1102,traurig::A,रंजीदा,üzüntülü
+1103,lebendig::A,जीता,canlı
+1104,lebendig::A,ज़िंदा,canlı
+1105,gut::A,अच्छा,iyi
+1106,schlecht::A,बुरा,kötü
+1107,schlecht::A,ख़राब,kötü
+1108,richtig::A,ठीक,doğru
+1109,schlimm::A,बुरा,kötü
+1110,schlimm::A,अप्रिय,kötü
+1111,wahr::A,सच,doğru
+1112,wahr::A,सच,gerçek
+1113,alt::A,पुराना,eski
+1114,neu::A,नया,yeni
+1115,ehemalig::A,भूतपूर्व,önceki
+1116,alt[Lebewesen]::A,बूढ़ा,yaşlı
+1117,alt[Lebewesen]::A,वृद्ध,yaşlı
+1118,jung::A,जवान,genç
+1119,arm::A,ग़रीब,fakir
+1120,reich::A,धनी,zengin
+1121,reich::A,अमीर,zengin
+1122,bekannt::A,मालूम,bilinen
+1123,berühmt::A,मशहूर,ünlü
+1124,berühmt::A,मशहूर,meşhur
+1125,berühmt::A,प्रसिद्ध,ünlü
+1126,berühmt::A,प्रसिद्ध,meşhur
+1127,fremd::A,विदेशी,yabancı
+1128,fremd::A,अपरिचित,yabancı
+1129,verschieden::A,अलग,ayrı
+1130,verschieden::A,अलग,farklı
+1131,verschieden::A,भिन्न,ayrı
+1132,verschieden::A,भिन्न,farklı
+1133,nah::A,नज़दीकी,yakın
+1134,nah::A,नज़दीकी,bitişik
+1135,fern::A,दूर,uzak
+1136,fern::A,दूरस्थ,uzak
+1137,linker::A,बायाँ,sol
+1138,rechter::A,दायाँ,sağ
+1139,rechter::A,दाहिना,sağ
+1140,anderer::A,अन्य,diğer
+1141,anderer::A,दूसरा,diğer
+1142,erster::A,पहला,ilk
+1143,erster::A,पहला,birinci
+1144,erster::A,प्रथम,ilk
+1145,erster::A,प्रथम,birinci
+1146,zweiter::A,दूसरा,ikinci
+1147,zweiter::A,द्वितीय,ikinci
+1148,dritter::A,तीसरा,üçüncü
+1149,letzter::A,अंतिम,son
+1150,letzter::A,अंतिम,sonuncu
+1151,letzter::A,आख़िरी,son
+1152,letzter::A,आख़िरी,sonuncu
+1153,allein::ADV,तनहा,yalnız
+1154,allein::ADV,तनहा,tek başına
+1155,allein::ADV,अकेले,yalnız
+1156,allein::ADV,अकेले,tek başına
+1157,auf einmal::ADV,वक़्त में,birden
+1158,zusammen::ADV,एक साथ,beraber
+1159,zusammen::ADV,एक साथ,birlikte
+1160,zusammen::ADV,साथ साथ,beraber
+1161,zusammen::ADV,साथ साथ,birlikte
+1162,lange::ADV,देर तक,çok
+1163,lange::ADV,देर तक,uzun
+1164,plötzlich::ADV,सहसा,ansızın
+1165,plötzlich::ADV,सहसा,birdenbire
+1166,plötzlich::ADV,अचानक,ansızın
+1167,plötzlich::ADV,अचानक,birdenbire
+1168,sofort::ADV,तुरंत,hemen
+1169,sofort::ADV,तुरंत,derhal
+1170,später::ADV,बाद को,daha sonra
+1171,später::ADV,बाद में,daha sonra
+1172,jetzt::ADV,अब,şimdi
+1173,jetzt::ADV,अभी,şimdi
+1174,heute::ADV,आज,bugün
+1175,morgen::ADV,कल,yarın
+1176,bald::ADV,जल्दी,yakında
+1177,dann::ADV,तब,sonra
+1178,gestern::ADV,कल,dün
+1179,einst::ADV,एक दिन,eskiden
+1180,einst::ADV,पहले कभी,eskiden
+1181,damals::ADV,उस समय,o zamanlar
+1182,damals::ADV,उन दिनों,o zamanlar
+1183,danach::ADV,इसके बाद,sonradan
+1184,danach::ADV,इसके बाद,ondan sonra
+1185,danach::ADV,इसके पश्चात्,sonradan
+1186,danach::ADV,इसके पश्चात्,ondan sonra
+1187,vorher::ADV,पहले,önce
+1188,vorher::ADV,पहले,önceden
+1189,vorher::ADV,पेशतर,önce
+1190,vorher::ADV,पेशतर,önceden
+1191,zuerst::ADV,पहले,ilk önce
+1192,einmal::ADV,एक बार,bir defa
+1193,einmal::ADV,एक दफ़ा,bir defa
+1194,manchmal::ADV,कभी कभी,bazan
+1195,oft::ADV,अक्सर,sık sık
+1196,oft::ADV,अक्सर,çok defa
+1197,immer::ADV,सदा,daima
+1198,immer::ADV,सदा,her zaman
+1199,immer::ADV,हमेशा,daima
+1200,immer::ADV,हमेशा,her zaman
+1201,niemals::ADV,कभी नहीं,asla değil
+1202,niemals::ADV,कभी नहीं,hiçbir zaman
+1203,niemals::ADV,कदापि नहीं,asla değil
+1204,niemals::ADV,कदापि नहीं,hiçbir zaman
+1205,hier::ADV,इधर,burada
+1206,hier::ADV,यहाँ,burada
+1207,hierhin::ADV,इधर को,buraya
+1208,hierhin::ADV,यहाँ को,buraya
+1209,von hier::ADV,यहाँ से,buradan
+1210,dort::ADV,उधर,orada
+1211,dort::ADV,उधर,şurada
+1212,dort::ADV,वहाँ,orada
+1213,dort::ADV,वहाँ,şurada
+1214,dorthin::ADV,उधर को,oraya
+1215,dorthin::ADV,उधर को,şuraya
+1216,dorthin::ADV,वहाँ को,oraya
+1217,dorthin::ADV,वहाँ को,şuraya
+1218,geradeaus::ADV,सीधे,doğru
+1219,vorwärts::ADV,आगे,ileri
+1220,vorwärts::ADV,आगे को,ileri
+1221,rückwärts::ADV,पीछे को,geri
+1222,zurück::ADV,वापस,geriye
+1223,unten::ADV,नीचे,aşağıda
+1224,hinab::ADV,नीचे को,aşağıya
+1225,oben::ADV,ऊपर,yukarıda
+1226,hinauf::ADV,ऊपर को,yukarı
+1227,hinauf::ADV,ऊपर को,yukarıya
+1228,überall::ADV,हर जगह,her yerde
+1229,überall::ADV,हर स्थान,her yerde
+1230,nicht::ADV,न,-mi-
+1231,nicht::ADV,न,değil
+1232,nicht::ADV,नहीं,-mi-
+1233,nicht::ADV,नहीं,değil
+1234,ein wenig::ADV,कुछ,biraz
+1235,ein wenig::ADV,ज़रा,biraz
+1236,ein wenig::ADV,थोड़ा,biraz
+1237,kaum::ADV,लगभग नहीं,dar
+1238,kaum::ADV,लगभग नहीं,hemen hemen değil
+1239,kaum::ADV,बराबर नहीं,dar
+1240,kaum::ADV,बराबर नहीं,hemen hemen değil
+1241,sehr::ADV,बहुत,pek
+1242,sehr::ADV,बहुत,gayet
+1243,so::ADV,ऐसा,öyle
+1244,so::ADV,ऐसा,böyle
+1245,noch::ADV,अभी तक,hâlâ
+1246,noch::ADV,अभी तक,henüz
+1247,nur::ADV,केवल,ancak
+1248,nur::ADV,केवल,yalnız
+1249,nur::ADV,सिर्फ़,ancak
+1250,nur::ADV,सिर्फ़,yalnız
+1251,schon::ADV,चुकना,çoktan
+1252,wieder::ADV,फिर,tekrar
+1253,wieder::ADV,फिर,yeniden
+1254,wieder::ADV,दुबारा,tekrar
+1255,wieder::ADV,दुबारा,yeniden
+1256,vergebens::ADV,व्यर्थ,boşuna
+1257,vor::PRP,के आगे,önünde
+1258,vor::PRP,के सामने,önünde
+1259,hinter::PRP,के पीछे,arkasında
+1260,unter::PRP,के तले,altında
+1261,unter::PRP,के नीचे,altında
+1262,durch::PRP,के पार,sayesinde
+1263,durch::PRP,के पार,ortasından
+1264,neben::PRP,के पास,yanında
+1265,neben::PRP,की बग़ल में,yanında
+1266,zwischen::PRP,के बीच,arasında
+1267,wegen::PRP,के कारण,dolayı
+1268,wegen::PRP,की वजह से,dolayı
+1269,dies::PRN,यह,bu
+1270,das::PRN,वह,o
+1271,das::PRN,वह,şu
+1272,alles::PRN,सब,hepsi
+1273,alles::PRN,सब,her şey
+1274,alles::PRN,सब कुछ,hepsi
+1275,alles::PRN,सब कुछ,her şey
+1276,ich::PRN,मैं,ben
+1277,du::PRN,तू,sen
+1278,er::PRN,यह,o
+1279,wir::PRN,हम,biz
+1280,ihr::PRN,तुम,siz
+1281,sie::PRN,ये,onlar
+1282,was::FPRN,क्या,ne
+1283,wer::FPRN,कौन,kim
+1284,wo::FADV,किधर,nerede
+1285,wohin::FADV,किधर,nereye
+1286,wie::FADV,कैसे,nasıl
+1287,warum::FADV,क्यों,neden
+1288,wieviel::FNUM,कितना,kaç
+1289,wieviel::FNUM,कितना,ne kadar
+1290,eins::NUM,एक,bir
+1291,zwei::NUM,दो,iki
+1292,drei::NUM,तीन,üç
+1293,vier::NUM,चार,dört
+1294,fünf::NUM,पाँच,beş
+1295,sechs::NUM,छह,altı
+1296,sieben::NUM,सात,yedi
+1297,acht::NUM,आठ,sekiz
+1298,neun::NUM,नौ,dokuz
+1299,zehn::NUM,दस,on
+1300,elf::NUM,ग्यारह,on bir
+1301,zwölf::NUM,बारह,on iki
+1302,zwanzig::NUM,बीस,yirmi
+1303,dreißig::NUM,तीस,otuz
+1304,vierzig::NUM,चालीस,kırk
+1305,fünfzig::NUM,पचास,elli
+1306,sechzig::NUM,साठ,altmış
+1307,siebzig::NUM,सत्तर,yetmiş
+1308,achtzig::NUM,अस्सी,seksen
+1309,neunzig::NUM,नव्वे,doksan
+1310,hundert::NUM,सौ,yüz
+1311,tausend::NUM,हज़ार,bin
+1312,und::CNJ,और,ve
+1313,und::CNJ,और,ile
+1314,oder::CNJ,या,ya
+1315,oder::CNJ,या,yahut
+1316,stehen::V,खड़ा होना,durmak
+1317,sitzen::V,बैठना,oturmak
+1318,liegen::V,लेटना,yatmak
+1319,hängen::V,लटकना,asılı olmak
+1320,werden::V,बनना,olmak
+1321,werden::V,बनना,olunmak
+1322,passieren::V,होना,olmak
+1323,beginnen::V,आरंभ होना,başlamak
+1324,beginnen::V,प्रारंभ होना,başlamak
+1325,enden::V,अंत होना,bitmek
+1326,enden::V,अंत होना,sona ermek
+1327,enden::V,ख़तम होना,bitmek
+1328,enden::V,ख़तम होना,sona ermek
+1329,wechseln::V,बदलना,değişmek
+1330,aufgehen[Sonne]::V,चढ़ना,doğmak
+1331,aufgehen[Sonne]::V,उदित होना,doğmak
+1332,untergehen[Sonne]::V,अस्त हो जाना,batmak
+1333,scheinen[Sonne]::V,रोशनी देना,parlamak
+1334,donnern::V,गरजना,gök gürlemek
+1335,wehen::V,चलना,esmek
+1336,strömen::V,बहना,akmak
+1337,strömen::V,प्रवाहित होना,akmak
+1338,fließen::V,बहना,akmak
+1339,fließen::V,प्रवाहित होना,akmak
+1340,sich drehen::V,घूमना,dönmek
+1341,schwanken::V,हिलना,sallanmak
+1342,schwingen::V,हिलना,titremek
+1343,fallen::V,गिरना,düşmek
+1344,brennen::V,जलना,yanmak
+1345,rauchen::V,धुआँ उड़ाना,tütmek
+1346,regnen::V,बरसना,yağmak
+1347,gefrieren::V,जमना,donmak
+1348,tauen::V,गलना,erimek
+1349,tauen::V,पिघलना,erimek
+1350,schmelzen::V,गलना,erimek
+1351,schmelzen::V,पिघलना,erimek
+1352,trocknen::V,सूखना,kurumak
+1353,sieden::V,उबलना,kaynamak
+1354,faulen::V,गलना,çürümek
+1355,faulen::V,सड़ना,çürümek
+1356,verfaulen::V,गलना,çürümek
+1357,verfaulen::V,सड़ना,çürümek
+1358,reißen::V,फटना,yırtılmak
+1359,versinken::V,डूबना,batmak
+1360,vergehen::V,बीतना,geçmek
+1361,vergehen::V,गुज़रना,geçmek
+1362,erscheinen::V,दिखाई देना,görünmek
+1363,verschwinden::V,ग़ायब होना,kaybolmak
+1364,sinken::V,घटना,inmek
+1365,sinken::V,उतरना,inmek
+1366,abnehmen::V,घटना,azalmak
+1367,zunehmen::V,बढ़ना,artmak
+1368,zunehmen::V,बढ़ना,çoğalmak
+1369,steigen::V,बढ़ना,artmak
+1370,steigen::V,बढ़ना,yükselmek
+1371,wachsen::V,उगना,büyümek
+1372,wachsen::V,उगना,gelişmek
+1373,glänzen::V,चमकना,parlamak
+1374,funkeln::V,जगमगाना,parıldamak
+1375,funkeln::V,टिमटिमाना,parıldamak
+1376,lärmen::V,शोर मचाना,gürültü yapmak
+1377,läuten::V,बजना,çalmak
+1378,klingeln::V,बजना,zil çalmak
+1379,klirren::V,झनझनाना,şakırdamak
+1380,klirren::V,झनझनाना,zangırdamak
+1381,brausen::V,साँय-साँय करना,köpürmek
+1382,brausen::V,साँय-साँय करना,kükremek
+1383,rauschen::V,सरसराना,fışırdamak
+1384,klingen::V,बजना,tınlamak
+1385,bellen::V,भौंकना,havlamak
+1386,heulen::V,गुर्राना,ulumak
+1387,blasen::V,फूँकना,üflemek
+1388,pfeifen::V,सीटी देना,düdük çalmak
+1389,schreien::V,चिल्लाना,bağırmak
+1390,schreien::V,चिल्लाना,haykırmak
+1391,stöhnen::V,कराहना,inlemek
+1392,stöhnen::V,आहें भरना,inlemek
+1393,zittern::V,काँपना,titremek
+1394,leben::V,जीना,yaşamak
+1395,leben::V,जीना,hayatta olmak
+1396,geboren werden::V,पैदा होना,doğmak
+1397,atmen::V,साँस लेना,solunmak
+1398,atmen::V,साँस लेना,nefes almak
+1399,trinken::V,पीना,içmek
+1400,essen::V,खाना,yemek
+1401,schlucken::V,निगलना,yutmak
+1402,müde werden::V,थकना,yorulmak
+1403,müde werden::V,उकताना,yorulmak
+1404,einschlafen::V,सो जाना,uykuya dalmak
+1405,schlafen::V,सोना,uyumak
+1406,aufwachen::V,जागना,uyanmak
+1407,aufstehen::V,उठना,kalkmak
+1408,aufstehen::V,उठना,yataktan kalkmak
+1409,sich erholen::V,सुस्ताना,dinlenmek
+1410,sich erholen::V,आराम करना,dinlenmek
+1411,krank werden::V,बीमार पड़ना,hastalanmak
+1412,krank sein::V,बीमार होना,hasta olmak
+1413,schmerzen::V,दुखना,ağrımak
+1414,schmerzen::V,दर्द करना,ağrımak
+1415,husten::V,खाँसना,öksürmek
+1416,genesen::V,ठीक हो जाना,şifa bulmak
+1417,genesen::V,स्वस्थ हो जाना,şifa bulmak
+1418,sterben::V,मरना,ölmek
+1419,sterben::V,मरना,vefat etmek
+1420,umkommen::V,मरना,ölmek
+1421,sich bewegen::V,चलना,hareket etmek
+1422,sich bewegen::V,हिलना,hareket etmek
+1423,sich rühren::V,हिलना,kımıldanmak
+1424,sich erheben::V,उठना,kalkmak
+1425,sich erheben::V,उठना,ayağa kalkmak
+1426,sich setzen::V,बैठना,oturmak
+1427,hinfallen::V,गिरना,yere düşmek
+1428,laufen::V,चलना,yürümek
+1429,schreiten::V,क़दम जाना,yürümek
+1430,schreiten::V,क़दम जाना,adım atmak
+1431,spazierengehen::V,सैर करना,gezmek
+1432,spazierengehen::V,सैर करना,dolaşmak
+1433,eilen::V,तेज़ी से जाना,seğirtmek
+1434,eilen::V,शीघ्रता से चलना,seğirtmek
+1435,sich beeilen::V,जल्दी करना,acele etmek
+1436,sich beeilen::V,शीघ्रता करना,acele etmek
+1437,sausen::V,बड़ी तेज़ी से चलना,hızla gitmek
+1438,rennen::V,भागना,koşmak
+1439,rennen::V,दौड़ना,koşmak
+1440,springen::V,उछलना,atlamak
+1441,springen::V,उछलना,sıçramak
+1442,klettern::V,चढ़ना,tırmanmak
+1443,schaukeln::V,झूलना,sallanmak
+1444,kriechen::V,रेंगना,sürünmek
+1445,schwimmen::V,तैरना,yüzmek
+1446,tauchen::V,डूबना,dalmak
+1447,rudern::V,खेना,kürek çekmek
+1448,rudern::V,चप्पू चलाना,kürek çekmek
+1449,fahren::V,चलना,gitmek
+1450,fahren::V,यात्रा करना,gitmek
+1451,fliegen::V,उड़ना,uçmak
+1452,gehen::V,जाना,gitmek
+1453,weggehen::V,चला जाना,gitmek
+1454,weggehen::V,बाहर जाना,gitmek
+1455,abfahren::V,छूटना,kalkmak
+1456,abfahren::V,रवाना होना,kalkmak
+1457,anhalten::V,रुकना,durmak
+1458,anhalten::V,खड़ा होना,durmak
+1459,hineingehen::V,घुसना,içeri girmek
+1460,hineingehen::V,अंदर जाना,içeri girmek
+1461,eintreten::V,प्रवेश करना,girmek
+1462,kommen::V,आना,gelmek
+1463,ankommen::V,पहुँचना,varmak
+1464,zurückkommen::V,लौटना,dönmek
+1465,zurückkommen::V,वापस आना,dönmek
+1466,bleiben::V,रहना,kalmak
+1467,bleiben::V,रुकना,kalmak
+1468,warten::V,इंतज़ार करना,beklemek
+1469,erwarten::V,प्रतीक्षा करना,beklemek
+1470,suchen::V,ढूँढ़ना,aramak
+1471,finden::V,पाना,bulmak
+1472,finden::V,ढूँढ़ निकालना,bulmak
+1473,versuchen::V,कोशिश करना,denemek
+1474,vorbereiten::V,तैयार करना,hazırlamak
+1475,lieben::V,प्यार करना,sevmek
+1476,mögen::V,पसंद होना,beğenmek
+1477,lachen::V,हँसना,gülmek
+1478,rühren::V,छूना,dokunmak
+1479,rühren::V,छूना,duygulandırmak
+1480,weinen::V,रोना,ağlamak
+1481,schimpfen::V,गाली देना,küfretmek
+1482,sich ärgern::V,चिढ़ना,kızmak
+1483,sich ärgern::V,नाराज़ होना,kızmak
+1484,sich fürchten::V,डरना,korkmak
+1485,sich fürchten::V,भय खाना,korkmak
+1486,fürchten::V,डरना से,korkmak
+1487,fürchten::V,भय खाना से,korkmak
+1488,fliehen::V,भागना,kaçmak
+1489,flüchten::V,निकल भागना,kaçmak
+1490,sehen::V,देखना,görmek
+1491,anschauen::V,देखना,seyretmek
+1492,ansehen::V,दृष्टि डालना पर,bakmak
+1493,hören::V,सुनना,duymak
+1494,hören::V,सुनना,işitmek
+1495,zuhören::V,सुनना,dinlemek
+1496,probieren::V,चखना,denemek
+1497,probieren::V,चखना,tadına bakmak
+1498,riechen::V,सूँघना,kokusunu almak
+1499,fühlen::V,महसूस करना,duymak
+1500,fühlen::V,महसूस करना,hissetmek
+1501,scheinen::V,लगना,görünmek
+1502,zu sehen sein::V,दिखाई देना,görünmek
+1503,vernehmen::V,सुनना,haber almak
+1504,frieren::V,ठंड लगना,üşümek
+1505,frieren::V,सर्दी लगना,üşümek
+1506,tun::V,करना,etmek
+1507,tun::V,करना,yapmak
+1508,können::V,सकना,bilmek
+1509,können::V,जानना,bilmek
+1510,wollen::V,चाहना,istemek
+1511,anfangen::V,शुरू करना,başlamak
+1512,beenden::V,ख़त्म करना,bitirmek
+1513,beenden::V,समाप्त करना,bitirmek
+1514,aufhören::V,बंद जाना,bitmek
+1515,aufhören::V,समाप्त जाना,bitmek
+1516,gelingen::V,बनना,başarmak
+1517,gelingen::V,अच्छा होना,başarmak
+1518,geraten::V,बन पड़ना,düşmek
+1519,öffnen::V,खोलना,açmak
+1520,schließen::V,बंद करना,kapamak
+1521,stellen::V,रखना,koymak
+1522,setzen::V,रखना,koymak
+1523,setzen::V,रखना,oturtmak
+1524,setzen::V,बिठाना,koymak
+1525,setzen::V,बिठाना,oturtmak
+1526,legen::V,रखना,koymak
+1527,legen::V,रखना,yatırmak
+1528,legen::V,लिटाना,koymak
+1529,legen::V,लिटाना,yatırmak
+1530,berühren::V,छूना,dokunmak
+1531,berühren::V,स्पर्श करना,dokunmak
+1532,verbinden::V,बाँधना,bağlamak
+1533,verbinden::V,बाँधना,birleştirmek
+1534,bedecken::V,ढकना,örtmek
+1535,bedecken::V,ढकना,kaplamak
+1536,aufhängen::V,लटकाना,asmak
+1537,anzünden::V,जलाना,yakmak
+1538,anzünden::V,जलाना,ateşlemek
+1539,aufheben::V,उठाना,kaldırmak
+1540,zurücklassen::V,पीछे छोड़ना,geride bırakmak
+1541,verlieren::V,खोना,yitirmek
+1542,verlieren::V,खोना,kaybetmek
+1543,verlieren::V,गँवाना,yitirmek
+1544,verlieren::V,गँवाना,kaybetmek
+1545,fallen lassen::V,गिराना,düşürmek
+1546,machen::V,करना,yapmak
+1547,machen::V,बनाना,yapmak
+1548,herstellen::V,बनाना,yapmak
+1549,herstellen::V,बनाना,imal etmek
+1550,herstellen::V,तैयार करना,yapmak
+1551,herstellen::V,तैयार करना,imal etmek
+1552,bauen::V,बनाना,kurmak
+1553,bauen::V,बनाना,inşa etmek
+1554,bauen::V,निर्माण करना,kurmak
+1555,bauen::V,निर्माण करना,inşa etmek
+1556,reparieren::V,मरम्मत करना,onarmak
+1557,reparieren::V,मरम्मत करना,tamir etmek
+1558,verbessern::V,सुधारना,düzeltmek
+1559,ändern::V,बदलना,değiştirmek
+1560,ändern::V,परीवर्तन करना,değiştirmek
+1561,graben::V,खोदना,kazmak
+1562,beugen::V,झुकाना,eğmek
+1563,biegen::V,झुकाना,bükmek
+1564,drehen::V,फेरना,çevirmek
+1565,drehen::V,फेरना,döndürmek
+1566,drehen::V,घुमाना,çevirmek
+1567,drehen::V,घुमाना,döndürmek
+1568,wenden::V,पलटना,çevirmek
+1569,wenden::V,मोड़ना,çevirmek
+1570,umdrehen::V,घुमाना,çevirmek
+1571,heben::V,उठाना,kaldırmak
+1572,heben::V,ऊँचा करना,kaldırmak
+1573,hochheben::V,उठाना,yukarı kaldırmak
+1574,hochheben::V,ऊपर को उठाना,yukarı kaldırmak
+1575,ergreifen::V,पकड़ना,tutmak
+1576,ergreifen::V,पकड़ना,yakalamak
+1577,ergreifen::V,हाथ में लेना,tutmak
+1578,ergreifen::V,हाथ में लेना,yakalamak
+1579,halten::V,धरना,tutmak
+1580,halten::V,पकड़ना,tutmak
+1581,drücken::V,दबाना,sıkmak
+1582,schieben::V,सरकाना,itmek
+1583,schieben::V,सरकाना,sürmek
+1584,schieben::V,खिसकाना,itmek
+1585,schieben::V,खिसकाना,sürmek
+1586,kratzen::V,खुरचना,kaşımak
+1587,kratzen::V,खुजलाना,kaşımak
+1588,lecken::V,चाटना,yalamak
+1589,beißen::V,काटना,ısırmak
+1590,abreißen::V,तोड़ना,koparmak
+1591,abschneiden::V,काट करना,keserek ayırmak
+1592,binden::V,बाँधना,bağlamak
+1593,stecken::V,खोंसना,sokmak
+1594,brechen::V,तोड़ना,kırmak
+1595,klopfen::V,खटखटाना,çalmak
+1596,hauen::V,ठोकना,vurmak
+1597,kleben::V,चिपकाना,yapıştırmak
+1598,reiben::V,घिसना,ovmak
+1599,reiben::V,घिसना,sürtmek
+1600,reiben::V,रगड़ना,ovmak
+1601,reiben::V,रगड़ना,sürtmek
+1602,streichen::V,लगाना,sürmek
+1603,schleifen::V,तेज़ करना,bilemek
+1604,schneiden::V,कतरना,kesmek
+1605,rütteln::V,झकझोरना,sallamak
+1606,schütteln::V,हिलाना,sarsmak
+1607,schütteln::V,हिलाना,çalkamak
+1608,schwenken::V,घुमाना,sallamak
+1609,schütten::V,उँडेलना,dökmek
+1610,schütten::V,उँडेलना,akıtmak
+1611,füllen::V,भरना,doldurmak
+1612,füllen::V,ठूसना,doldurmak
+1613,einwickeln::V,लपेटना,sarmak
+1614,tragen::V,ढोना,taşımak
+1615,schleppen::V,घसीटना,sürüklemek
+1616,ziehen::V,खींचना,çekmek
+1617,aufbewahren::V,रखना,saklamak
+1618,werfen::V,फेंकना,atmak
+1619,fangen::V,पकड़ना,tutmak
+1620,fangen::V,पकड़ना,yakalamak
+1621,packen::V,पकड़ना,tutmak
+1622,packen::V,पकड़ना,yakalamak
+1623,verstecken::V,छिपाना,saklamak
+1624,teilen::V,बाँटना,bölmek
+1625,teilen::V,बाँटना,ayırmak
+1626,schicken::V,भेजना,yollamak
+1627,schicken::V,भेजना,göndermek
+1628,bringen::V,लाना,getirmek
+1629,hinzufügen::V,जोड़ना,katmak
+1630,hinzufügen::V,जोड़ना,eklemek
+1631,bekommen::V,पाना,almak
+1632,bekommen::V,पाना,eline geçmek
+1633,erhalten::V,पाना,almak
+1634,erhalten::V,मिलना,almak
+1635,nehmen::V,लेना,almak
+1636,wählen::V,चुनना,seçmek
+1637,auswählen::V,चुनना,seçmek
+1638,auswählen::V,चुनना,ayırmak
+1639,bewahren::V,बनाए रखना,korumak
+1640,behindern::V,रोकना,engellemek
+1641,verderben::V,ख़राब करना,bozmak
+1642,beschädigen::V,नुक़सान पहुँचाना,zedelemek
+1643,beschädigen::V,नुक़सान पहुँचाना,ziyan vermek
+1644,zerbrechen::V,तोड़ना,kırmak
+1645,zerreißen::V,तोड़ना,yırtmak
+1646,zerstören::V,नष्ट करना,yıkmak
+1647,zerstören::V,नष्ट करना,tahrip etmek
+1648,zerstören::V,बरबाद करना,yıkmak
+1649,zerstören::V,बरबाद करना,tahrip etmek
+1650,verbrennen::V,जलाना,yakmak
+1651,geben::V,देना,vermek
+1652,reichen::V,थमाना,uzatmak
+1653,schenken::V,भेंट देना,hediye etmek
+1654,versprechen::V,वादा करना,vaat etmek
+1655,wünschen::V,कामना करना,kutlamak
+1656,loben::V,तारीफ़ करना,övmek
+1657,küssen::V,चूमना,öpmek
+1658,wiegen::V,झुलाना,sallamak
+1659,zudecken::V,ढकना,örtmek
+1660,wecken::V,जगाना,uyandırmak
+1661,zeigen::V,दिखाना,göstermek
+1662,führen::V,रास्ता दिखाना,gezdirmek
+1663,führen::V,रास्ता दिखाना,yol göstermek
+1664,lehren::V,पढ़ाना,okutmak
+1665,lehren::V,पढ़ाना,öğretmek
+1666,unterrichten::V,सिखाना,öğretmek
+1667,aufziehen::V,पालना,yetiştirmek
+1668,leiten::V,संचालन करना,yönetmek
+1669,leiten::V,संचालन करना,idare etmek
+1670,antreiben::V,हड़बड़ाना,teşvik etmek
+1671,lassen::V,-आना,-tırmak
+1672,lassen::V,कराना,-tırmak
+1673,einladen::V,बुलाना,davet etmek
+1674,vereinigen::V,मिलाना,birleştirmek
+1675,vereinigen::V,संयुक्त करना,birleştirmek
+1676,besuchen::V,मिलना से,uğramak
+1677,besuchen::V,मिलना से,ziyaret etmek
+1678,besuchen::V,मिलना से,görmeye gitmek
+1679,besuchen::V,मिलने जाना से,uğramak
+1680,besuchen::V,मिलने जाना से,ziyaret etmek
+1681,besuchen::V,मिलने जाना से,görmeye gitmek
+1682,treffen::V,मिलना,rastlamak
+1683,treffen::V,मिलना,isabet etmek
+1684,sich versammeln::V,इकट्ठा होना,toplanmak
+1685,spielen::V,खेलना,oynamak
+1686,singen::V,गाना,söylemek
+1687,singen::V,गाना,şarkı söylemek
+1688,tanzen::V,नाचना,oynamak
+1689,tanzen::V,नाचना,dans etmek
+1690,sich trennen::V,अलग होना,ayrılmak
+1691,verlassen::V,छोड़ना,bırakmak
+1692,verlassen::V,छोड़ना,terk etmek
+1693,retten::V,बचाना,kurtarmak
+1694,bewachen::V,आँख रखना पर,gözetmek
+1695,schützen::V,रक्षा करना,korumak
+1696,verteidigen::V,रक्षा करना,savunmak
+1697,sich schlagen::V,हाथापाई करना,dövüşmek
+1698,schießen::V,गोली मारना,ateş etmek
+1699,siegen::V,जीतना,yenmek
+1700,siegen::V,विजय पाना,yenmek
+1701,ärgern::V,चिढ़ाना,kızdırmak
+1702,schlagen::V,मारना,dövmek
+1703,treten::V,ठोकर मारना,tepmek
+1704,stechen::V,भेदना,sokmak
+1705,stechen::V,भेदना,batırmak
+1706,stechen::V,भोंकना,sokmak
+1707,stechen::V,भोंकना,batırmak
+1708,stoßen::V,धक्का देना,itmek
+1709,stoßen::V,झटका देना,itmek
+1710,stehlen::V,चोरी करना,çalmak
+1711,stören::V,बुरा लगना,bozmak
+1712,stören::V,बुरा लगना,etkilemek
+1713,belästigen::V,तंग करना,rahatsız etmek
+1714,verbergen::V,लुकाना,saklamak
+1715,täuschen::V,धोखा देना,aldatmak
+1716,betrügen::V,धोखा देना,aldatmak
+1717,betrügen::V,धोखा देना,dolandırmak
+1718,töten::V,मारना,öldürmek
+1719,töten::V,मार डालना,öldürmek
+1720,wohnen::V,रहना,oturmak
+1721,arbeiten::V,काम करना,çalışmak
+1722,sammeln::V,जमा करना,toplamak
+1723,pflücken::V,चुनना,koparmak
+1724,pflücken::V,तोड़ना,koparmak
+1725,jagen::V,आखेट करना,avlanmak
+1726,jagen::V,शिकार करना,avlanmak
+1727,fischen::V,मछली पकड़ना,balık tutmak
+1728,fassen::V,पकड़ना,tutmak
+1729,fassen::V,पकड़ना,yakalamak
+1730,hüten::V,चराना,otlatmak
+1731,treiben::V,हाँकना,gütmek
+1732,anbinden::V,बाँधना,bağlamak
+1733,füttern::V,खिलाना,beslemek
+1734,melken::V,दुहना,sağmak
+1735,hacken::V,काटना,yarmak
+1736,gießen::V,सींचना,sulamak
+1737,reifen::V,पकना,olgunlaşmak
+1738,zubereiten::V,पकाना,hazırlamak
+1739,kochen::V,पकाना,pişirmek
+1740,kochen::V,पकाना,kaynatmak
+1741,kochen::V,राँधना,pişirmek
+1742,kochen::V,राँधना,kaynatmak
+1743,backen::V,पकाना,pişirmek
+1744,backen::V,पकाना,fırında pişirmek
+1745,braten::V,तलना,kızartmak
+1746,braten::V,भूनना,kızartmak
+1747,umrühren::V,फेंटना,karıştırmak
+1748,stricken::V,बुनना,örmek
+1749,nähen::V,सीना,dikmek
+1750,färben::V,रँगना,boyamak
+1751,reinigen::V,साफ़ करना,temizlemek
+1752,reinigen::V,शुद्ध करना,temizlemek
+1753,waschen::V,धोना,yıkamak
+1754,abwischen::V,पोंछ्ना,silmek
+1755,spülen::V,माँजना,çalkamak
+1756,spülen::V,खँगालना,çalkamak
+1757,fegen::V,बुहारना,süpürmek
+1758,kehren::V,झाड़ना,süpürmek
+1759,baden::V,स्नान करना,yıkanmak
+1760,baden::V,स्नान करना,banyo yapmak
+1761,sich waschen::V,नहाना,yıkanmak
+1762,sich waschen::V,हाथ-मुँह धोना,yıkanmak
+1763,ausziehen::V,उतारना,çıkarmak
+1764,anziehen::V,पहनना,giymek
+1765,sich anziehen::V,कपड़े पहनना,giyinmek
+1766,kämmen::V,कंघी करना,taramak
+1767,schmücken::V,सजाना,süslemek
+1768,schmücken::V,सँवारना,süslemek
+1769,sagen::V,कहना,demek
+1770,sagen::V,कहना,söylemek
+1771,sagen::V,बताना,demek
+1772,sagen::V,बताना,söylemek
+1773,sprechen::V,बोलना,konuşmak
+1774,reden::V,बोलना,konuşmak
+1775,reden::V,बात करना,konuşmak
+1776,sich unterhalten::V,बात करना,sohbet etmek
+1777,sich unterhalten::V,बातचीत करना,sohbet etmek
+1778,fragen::V,पूछ्ना,sormak
+1779,fragen::V,प्रश्न करना,sormak
+1780,bitten::V,माँगना से,dilemek
+1781,bitten::V,माँगना से,rica etmek
+1782,erzählen::V,बताना,bahsetmek
+1783,erzählen::V,बताना,hikâye etmek
+1784,mitteilen::V,ख़बर देना,bildirmek
+1785,mitteilen::V,सूचना देना,bildirmek
+1786,nennen::V,नाम देना,adlandırmak
+1787,rufen::V,बुलाना,çağırmak
+1788,prahlen::V,शेख़ी बघारना,övünmek
+1789,übersetzen::V,अनुवाद करना,çevirmek
+1790,übersetzen::V,अनुवाद करना,tercüme etmek
+1791,denken::V,सोचना,düşünmek
+1792,glauben::V,विश्वास करना,inanmak
+1793,glauben::V,विश्वास करना,zannetmek
+1794,bemerken::V,ध्यान देना पर,farkına varmak
+1795,erkennen::V,पहचानना,tanımak
+1796,begreifen::V,समझना,anlamak
+1797,begreifen::V,समझना,kavramak
+1798,verstehen::V,सुनना,duymak
+1799,verstehen::V,सुनना,anlamak
+1800,lernen::V,पढ़ना,öğrenmek
+1801,wissen::V,जानना,bilmek
+1802,wissen::V,मालूम होना,bilmek
+1803,sich erinnern an::V,याद करना,hatırlamak
+1804,vergessen::V,भूलना,unutmak
+1805,vergessen::V,बिसारना,unutmak
+1806,messen::V,नापना,ölçmek
+1807,zählen::V,गिनना,saymak
+1808,rechnen::V,गणना करना,hesap etmek
+1809,rechnen::V,हिसाब करना,hesap etmek
+1810,lesen::V,पढ़ना,okumak
+1811,malen::V,कींचना,resmini yapmak
+1812,zeichnen::V,चित्र कींचना,çizmek
+1813,schreiben::V,लिखना,yazmak
+1814,besitzen::V,मालिक होना,haiz olmak
+1815,besitzen::V,मालिक होना,sahip olmak
+1816,besitzen::V,स्वामी होना,haiz olmak
+1817,besitzen::V,स्वामी होना,sahip olmak
+1818,kaufen::V,ख़रीदना,almak
+1819,verkaufen::V,बेचना,satmak
+1820,bezahlen::V,चुकाना,ödemek
+1821,bezahlen::V,अदा करना,ödemek
+1822,zahlen::V,अदा करना,ödemek
+1823,beherrschen::V,शासन करना पर,hâkim olmak
+1824,ertragen::V,सहना,dayanmak
+1825,ertragen::V,सहना,katlanmak

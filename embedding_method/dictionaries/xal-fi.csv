@@ -1,0 +1,1343 @@
+,Concept_ID,xal,fi
+0,Auge::N,нүдн,silmä
+1,Ohr::N,чикн,korva
+2,Nase::N,хамр,nenä
+3,Mund::N,амн,suu
+4,Zahn::N,шүдн,hammas
+5,Zunge::N,келн,kieli
+6,Lippe::N,урл,huuli
+7,Wange::N,халх,poski
+8,Gesicht::N,нүр,naama
+9,Gesicht::N,нүр,kasvot
+10,Stirn::N,маңна,otsa
+11,Haar::N,үсн,hius
+12,Haar::N,үсн,tukka
+13,Schnurrbart::N,сахл,viikset
+14,Bart::N,сахл,parta
+15,Bart::N,өргнә сахл,parta
+16,Kinn::N,өргн,leuka
+17,Kiefer[Anatomie]::N,өргн,leukaluu
+18,Kehle::N,хол,kurkku
+19,Hals::N,күзүн,kaula
+20,Genick::N,гиҗг,niska
+21,Kopf::N,толһа,pää
+22,Rücken::N,нурһн,selkä
+23,Bauch::N,гесн,maha
+24,Bauch::N,гесн,vatsa
+25,Nabel::N,киисн,napa
+26,Busen::N,көкн,rinta
+27,Brust::N,чееҗ,rinta
+28,Schulter::N,ээм,olka
+29,Schulter::N,ээм,hartia
+30,Schulter::N,ээм,olkapää
+31,Arm::N,һар,käsivarsi
+32,Ellenbogen::N,тоха,kyynärpää
+33,Hand::N,баһлцг,käsi
+34,Handfläche::N,альхн,kämmen
+35,Finger::N,хурһн,sormi
+36,Finger::N,һарин хурһн,sormi
+37,Fingernagel::N,хумсн,kynsi
+38,Nagel[Anatomie]::N,хумсн,kynsi
+39,Zeh::N,хурһн,varvas
+40,Zeh::N,көлин хурһн,varvas
+41,Fuß::N,тавг,jalka
+42,Ferse::N,өскә,kantapää
+43,Knie::N,өвдг,polvi
+44,Oberschenkel::N,һуй,reisi
+45,Bein::N,көл,jalka
+46,Körper::N,махмуд,keho
+47,Körper::N,махмуд,ruumis
+48,Haut::N,арсн,iho
+49,Blut::N,цусн,veri
+50,Ader::N,судцн,suoni
+51,Sehne::N,шүрүсн,jänne
+52,Knochen::N,ясн,luu
+53,Gehirn::N,экн,aivot
+54,Herz::N,зүркн,sydän
+55,Magen::N,гесн,maha
+56,Magen::N,гесн,vatsa
+57,Leber::N,элкн,maksa
+58,Atem::N,әмсхл,henki
+59,Atem::N,әмсхл,hengitys
+60,Hunger::N,харһнлһн,nälkä
+61,Träne::N,нульмсн,kyynel
+62,Geschmack::N,амтн,maku
+63,Geruch::N,үнр,haju
+64,Schlaf::N,нөр,uni
+65,Traum::N,зүүдн,uni
+66,Himmel::N,теңгр,taivas
+67,Sonne::N,нарн,aurinko
+68,Mond::N,сар,kuu
+69,Stern::N,одн,tähti
+70,Luft::N,аһар,ilma
+71,Wind::N,салькн,tuuli
+72,Welle::N,дольган,aalto
+73,Wasser::N,усн,vesi
+74,Stein::N,чолун,kivi
+75,Boden::N,Һазр,maa
+76,Boden::N,Һазр,maaperä
+77,Erde::N,Һазр,maa
+78,Staub::N,тоосн,pöly
+79,Rauch::N,утан,savu
+80,Funke::N,очн,kipinä
+81,Feuer::N,һал,tuli
+82,Licht::N,герл,valo
+83,Schatten::N,сүүдр,varjo
+84,Wetter::N,теңгр,sää
+85,Nebel::N,будн,sumu
+86,Wolke::N,үүлн,pilvi
+87,Regen::N,хур,sade
+88,Schnee::N,цасн,lumi
+89,Eis::N,мөсн,jää
+90,Frost::N,киитн,halla
+91,Frost::N,киитн,pakkanen
+92,Kälte::N,киитн,vilu
+93,Kälte::N,киитн,kylmyys
+94,Hitze::N,халун,helle
+95,Hitze::N,халун,kuumuus
+96,Raureif::N,цаң,huurre
+97,Raureif::N,кирү,huurre
+98,Regenbogen::N,солңһ,sateenkaari
+99,Donner::N,оһтрһун дун,jyrinä
+100,Strömung::N,урсхл,virtaus
+101,Tropfen::N,дусал,tippa
+102,Tropfen::N,дусал,pisara
+103,Schaum::N,көөсн,vaahto
+104,Schmutz::N,кир,loka
+105,See::N,нур,järvi
+106,Sumpf::N,унул,suo
+107,Moor::N,улм,räme
+108,Wiese::N,хадлһн,niitty
+109,Wald::N,ө-модн,metsä
+110,Hügel::N,толһа,mäki
+111,Hügel::N,толһа,kumpu
+112,Hügel::N,толһа,kukkula
+113,Anhöhe::N,хамр,mäki
+114,Anhöhe::N,хамр,kumpare
+115,Berg::N,уул,mäki
+116,Berg::N,уул,vuori
+117,Gipfel::N,ора,laki
+118,Gipfel::N,ора,huippu
+119,Höhle::N,хадин көндә,luola
+120,Abhang::N,ташу,rinne
+121,Quelle::N,булг,lähde
+122,Bach::N,һооҗур,puro
+123,Fluss::N,һол,joki
+124,Ufer::N,көвә,ranta
+125,Küste::N,көвә,rannikko
+126,Küste::N,теңгсин көвә,rannikko
+127,Festland::N,хүүрә һазр,manner
+128,Meer::N,теңгс,meri
+129,Bucht::N,цекә,lahti
+130,Bucht::N,теңгсин цекә,lahti
+131,Insel::N,арл,saari
+132,Blume::N,цецг,kukka
+133,Gras::N,ноһан,ruoho
+134,Wurzel::N,уңг,juuri
+135,Baum::N,модн,puu
+136,Stamm::N,шилв,runko
+137,Stamm::N,һол модн,runko
+138,Rinde::N,көрсн,kuori
+139,Rinde::N,көрсн,parkki
+140,Ast::N,ац,oksa
+141,Zweig::N,ац,haara
+142,Blatt::N,хамтхасн,lehti
+143,Birke::N,хусм модн,koivu
+144,Kiefer[Baum]::N,шар харһа,mänty
+145,Kiefer[Baum]::N,шар харһа,petäjä
+146,Weide[Baum]::N,удн,paju
+147,Tanne::N,җөөлн цаһан модн,kuusi
+148,Horn::N,өвр,sarvi
+149,Feder::N,өрвлг,sulka
+150,Feder::N,өрвлг,höyhen
+151,Fell::N,арсн,talja
+152,Flügel::N,җивр,siipi
+153,Klaue::N,хумсн,kynsi
+154,Kralle::N,тавг,kynsi
+155,Schwanz::N,сүл,häntä
+156,Schwanz::N,сүл,pyrstö
+157,Ei::N,өндгн,muna
+158,Nest::N,үр,pesä
+159,Bau::N,нүкн,pesä
+160,Tier::N,мал,eläin
+161,Herde::N,сүрг мал,lauma
+162,Kuh::N,үкр,lehmä
+163,Bulle::N,бух,sonni
+164,Pferd::N,мөрн,hevonen
+165,Schaf::N,хөн,lammas
+166,Schwein::N,һаха,sika
+167,Hund::N,ноха,koira
+168,Katze::N,мис,kissa
+169,Bär::N,аю,karhu
+170,Eichhörnchen::N,кермн,orava
+171,Elch::N,хандһа,hirvi
+172,Fuchs::N,арат,kettu
+173,Hase::N,туула,jänis
+174,Maus::N,хулһн,hiiri
+175,Wolf::N,чон,susi
+176,Vogel::N,шовун,lintu
+177,Schwarm::N,зел,parvi
+178,Huhn::N,така,kana
+179,Hahn::N,эр така,kukko
+180,Gans::N,һалун,hanhi
+181,Adler::N,һәрд,kotka
+182,Ente::N,нуһсн,ankka
+183,Eule::N,һурвлһ,pöllö
+184,Kranich::N,тоһрун,kurki
+185,Krähe::N,шаазһа,varis
+186,Kuckuck::N,эргин хуцдг,käki
+187,Schwan::N,хун,joutsen
+188,Fisch::N,заһсн,kala
+189,Barsch::N,шүрг,ahven
+190,Hecht::N,цурх,hauki
+191,Schlange[Tier]::N,моһа,käärme
+192,Wurm::N,өтн,mato
+193,Spinne::N,аралҗн,hämähäkki
+194,Ameise::N,шорһлҗн,muurahainen
+195,Laus::N,бөөсн,täi
+196,Mücke::N,бөкүн,sääski
+197,Mücke::N,бөкүн,hyttynen
+198,Fliege::N,батхн,kärpänen
+199,Schmetterling::N,эрвәкә,perhonen
+200,Beere::N,бөөлҗрһн,marja
+201,Apfel::N,альмн,omena
+202,Pilz::N,теңгрин ки,sieni
+203,Zwiebel::N,мәңгрснә толһа,sipuli
+204,Saat::N,буудян экн,siemenet
+205,Korn::N,экн,jyvä
+206,Korn::N,экн,vilja
+207,Heu::N,өвсн,heinä
+208,Schale::N,хальсн,kuori
+209,Grube::N,нүкн,kuoppa
+210,Falle::N,урх,loukku
+211,Falle::N,хавх,loukku
+212,Schlinge::N,бүтү,ansa
+213,Spur::N,мөр,jälki
+214,Asche::N,үмсн,tuhka
+215,Dreck::N,бальчг,lika
+216,Eisen::N,төмр,rauta
+217,Gold::N,алтн,kulta
+218,Silber::N,мөңгн,hopea
+219,Silber::N,цаһан мөңгн,hopea
+220,Kohle::N,нүүрсн,hiili
+221,Glas::N,шил,lasi
+222,Lehm::N,шавр,savi
+223,Sand::N,элсн,hiekka
+224,Mensch::N,күн,ihminen
+225,Mensch::N,күмн,ihminen
+226,Mann::N,эр,mies
+227,Frau::N,күүкд күн,nainen
+228,Kind::N,үрн,lapsi
+229,Junge::N,көвүн,poika
+230,Mädchen::N,бичкн күүкн,tyttö
+231,Familie::N,бүл,perhe
+232,Großvater::N,өвк эцк,isoisä
+233,Großvater::N,наһц эцк,isoisä
+234,Großmutter::N,эмг эк,isoäiti
+235,Großmutter::N,наһц эк,isoäiti
+236,Eltern::N,эк эцк хойр,vanhemmat
+237,Vater::N,эцк,isä
+238,Mutter::N,эк,äiti
+239,Sohn::N,көвүн,poika
+240,Tochter::N,күүкн,tytär
+241,Bruder::N,дү көвүн,veli
+242,Schwester::N,эгч,sisko
+243,Schwester::N,дү күүкн,sisko
+244,Onkel::N,авһ,eno
+245,Onkel::N,авһ,setä
+246,Onkel::N,наһцх,eno
+247,Onkel::N,наһцх,setä
+248,Tante::N,наһц эгч,täti
+249,Ehemann::N,залу,mies
+250,Ehemann::N,залу,aviomies
+251,Ehefrau::N,гергн,vaimo
+252,Ehefrau::N,гергн,aviovaimo
+253,Freude::N,байр,ilo
+254,Freude::N,байр,riemu
+255,Gelächter::N,инәдн,nauru
+256,Glück::N,җирһл,onni
+257,Glück::N,сәәхн җирһл,onni
+258,Kummer::N,зовлң,suru
+259,Kummer::N,зовлң,murhe
+260,Wunsch::N,дурн,toive
+261,Wunsch::N,дурн,toivomus
+262,Lust::N,җилвтлһн,himo
+263,Geist::N,зөрг,henki
+264,Gedanke::N,ухан,aate
+265,Gedanke::N,ухан,ajatus
+266,Gedächtnis::N,чееҗин тодлвр,muisti
+267,Verstand::N,ухан,äly
+268,Verstand::N,ухан,järki
+269,Verstand::N,ухан,ymmärrys
+270,Sinn::N,учр-утх,merkitys
+271,Grund::N,учр,syy
+272,Grund::N,учр,peruste
+273,Grund::N,шалтан,syy
+274,Grund::N,шалтан,peruste
+275,Wahrheit::N,үнн,tosi
+276,Wahrheit::N,үнн,totuus
+277,Gespräch::N,күүндвүр,puhelu
+278,Gespräch::N,күүндвүр,keskustelu
+279,Märchen::N,тууль,satu
+280,Erzählung::N,келвр,tarina
+281,Erzählung::N,келвр,kertomus
+282,Nachricht::N,медүллһн,tieto
+283,Nachricht::N,медүллһн,ilmoitus
+284,Neuigkeit::N,зәңг,uutinen
+285,Name::N,нерн,nimi
+286,Rätsel::N,тәәлвртә тууль,arvoitus
+287,Rede::N,келлһн,puhe
+288,Sprache::N,келн,kieli
+289,Stimme::N,дун,ääni
+290,Wort::N,үг,sana
+291,Zeichen::N,темдг,merkki
+292,Ruf::N,дуудлһн,kutsu
+293,Lärm::N,шууган,melu
+294,Lärm::N,шууган,hälinä
+295,Laut::N,ә,ääni
+296,Ton::N,дун,sävel
+297,Lied::N,дун,laulu
+298,Ruhe::N,амулң,lepo
+299,Ruhe::N,амулң,rauha
+300,Leute::N,әмтн,väki
+301,Leute::N,әмтн,ihmiset
+302,Volk::N,улс,kansa
+303,Arbeit::N,көдлмш,työ
+304,Gast::N,гиич,vieras
+305,Geschenk::N,белг,lahja
+306,Spiel::N,наадн,peli
+307,Spiel::N,наадн,leikki
+308,Gesellschaft::N,олн,seura
+309,Hilfe::N,нөкд,apu
+310,Freund::N,иньг,ystävä
+311,Kamerad::N,үр,toveri
+312,Angelegenheit::N,керг,asia
+313,Anzahl::N,то,lukumäärä
+314,Art::N,зүүл,laji
+315,Stück::N,хусг,pala
+316,Stück::N,хусг,kappale
+317,Teil::N,хүв,osa
+318,Hälfte::N,өрәл,puoli
+319,Kreis::N,төгрг,ympyrä
+320,Kreuz::N,кирс,risti
+321,Linie::N,зурасн,viiva
+322,Strich::N,татасн,piirto
+323,Abstand::N,зә,väli
+324,Abstand::N,зә,väljyys
+325,Entfernung::N,һазр,etäisyys
+326,Gegend::N,һазр,seutu
+327,Platz::N,зә,tila
+328,Ort::N,бәәрн,kohta
+329,Ort::N,бәәрн,paikka
+330,Seite::N,тал,sivu
+331,Seite::N,тал,kylki
+332,Seite::N,хаҗу,sivu
+333,Seite::N,хаҗу,kylki
+334,Seite::N,хәврһ,sivu
+335,Seite::N,хәврһ,kylki
+336,Mitte::N,дунд,keskus
+337,Mitte::N,дунд,puoliväli
+338,Gegenstand::N,юмн,kalu
+339,Gegenstand::N,юмн,esine
+340,Sache::N,юмн,asia
+341,Rand::N,зах,ääri
+342,Rand::N,зах,syrjä
+343,Kante::N,ирмәг,särmä
+344,Ecke::N,өнцг,nurkka
+345,Spitze::N,үзүр,terä
+346,Spitze::N,үзүр,kärki
+347,Ende::N,үзүр,pää
+348,Ende::N,үзүр,perä
+349,Loch::N,хаһрха,kolo
+350,Loch::N,хаһрха,reikä
+351,Winkel::N,булң,kulma
+352,Muster::N,намч,kuvio
+353,Größe::N,кемҗән,koko
+354,Größe::N,кемҗән,suuruus
+355,Länge::N,ут,pituus
+356,Höhe::N,өндр,korkeus
+357,Gewicht::N,күнд,paino
+358,Gewicht::N,чиңнүр,paino
+359,Menge::N,ик,määrä
+360,Haufen::N,ова,kasa
+361,Reihe::N,зерг,rivi
+362,Reihe::N,зерглән,rivi
+363,Boot::N,оңһц,vene
+364,Ruder::N,хәәв,airo
+365,Schlitten::N,цан,reki
+366,Schlitten::N,цан,kelkka
+367,Ski::N,лыҗ,suksi
+368,Lagerfeuer::N,костёр,nuotio
+369,Last::N,күнд,kuorma
+370,Gang::N,йовлһн,kulku
+371,Gang::N,йовлһн,käynti
+372,Schritt::N,ишкм,askel
+373,Norden::N,ар үзг,pohjoinen
+374,Süden::N,өмн,etelä
+375,Süden::N,өмн үзг,etelä
+376,Westen::N,барун,länsi
+377,Westen::N,барун үзг,länsi
+378,Osten::N,зүн,itä
+379,Osten::N,зүн үзг,itä
+380,Holz::N,модн,puu
+381,Brett::N,харһа,lauta
+382,Platte::N,хавтха чолун,levy
+383,Stütze::N,тулг,noja
+384,Stange::N,уньн,tanko
+385,Stock::N,модн,keppi
+386,Stab::N,шуург,sauva
+387,Stab::N,шуург,seiväs
+388,Rohr::N,турва,putki
+389,Haus::N,гер,talo
+390,Heim::N,гер-бул,koti
+391,Ofen::N,беш,uuni
+392,Fußboden::N,девскр,lattia
+393,Tisch::N,ширә,pöytä
+394,Stuhl::N,стул,tuoli
+395,Wiege::N,өлгә,kehto
+396,Wiege::N,дүүҗң,kehto
+397,Bett::N,орн,sänky
+398,Bett::N,орндг,sänky
+399,Regal::N,таг,hylly
+400,Regal::N,тәвц,hylly
+401,Kiste::N,яршг,arkku
+402,Kiste::N,яршг,kirstu
+403,Kiste::N,яршг,laatikko
+404,Fenster::N,терз,ikkuna
+405,Tür::N,үүдн,ovi
+406,Tor::N,үүдн,portti
+407,Tor::N,өргн үүдн,portti
+408,Tor::N,хашан үүдн,portti
+409,Zaun::N,хаша,aita
+410,Dach::N,деевр,katto
+411,Leiter::N,шат,tikkaat
+412,Leiter::N,шат,tikapuut
+413,Leiter::N,давшур,tikkaat
+414,Leiter::N,давшур,tikapuut
+415,Besen::N,сәвүр,luuta
+416,Spaten::N,күрз,lapio
+417,Schaufel::N,совг,lapio
+418,Gabel::N,серә,haarukka
+419,Löffel::N,ухр,lusikka
+420,Messer::N,утх,veitsi
+421,Nagel::N,хадасн,naula
+422,Netz::N,гөлм,verkko
+423,Haken::N,дегә,haka
+424,Haken::N,дегә,koukku
+425,Griff::N,иш,ripa
+426,Griff::N,иш,kahva
+427,Griff::N,бәрүл,ripa
+428,Griff::N,бәрүл,kahva
+429,Schloss::N,оньс,lukko
+430,Bild::N,зург,kuva
+431,Figur::N,фигур,kuvio
+432,Puppe::N,наадһа,nukke
+433,Beutel::N,мишг,pussi
+434,Bündel::N,багла,nippu
+435,Bündel::N,багла,kimppu
+436,Bündel::N,боодһа,nippu
+437,Bündel::N,боодһа,kimppu
+438,Tasche::N,сумк,laukku
+439,Eimer::N,суулһ,sanko
+440,Eimer::N,суулһ,ämpäri
+441,Deckel::N,бүркәсн,kansi
+442,Geschirr::N,сав,astia
+443,Geschirr::N,сав-сарх,astia
+444,Sack::N,мишг,säkki
+445,Tasse::N,ааһ,kuppi
+446,Topf::N,кастрюль,pata
+447,Kessel::N,хәәсн,kattila
+448,Essen::N,зоогллһн,syönti
+449,Nahrung::N,теҗәл,ruoka
+450,Nahrung::N,теҗәл,ravinto
+451,Speise::N,хот,ruoka
+452,Fleisch::N,махн,liha
+453,Getreide::N,хот болҗ эдлгддг цецгүдтә урһмл,vilja
+454,Brei::N,хаш,puuro
+455,Brot::N,өдмг,leipä
+456,Scheibe::N,зүсм,viipale
+457,Fett::N,өөкн,rasva
+458,Butter::N,тосн,voi
+459,Öl::N,тосн,öljy
+460,Salz::N,давсн,suola
+461,Suppe::N,шөлн,keitto
+462,Honig::N,бал,hunaja
+463,Milch::N,үсн,maito
+464,Tee::N,цә,tee
+465,Leder::N,арсн,nahka
+466,Wolle::N,утцн,villa
+467,Wolle::N,эд,villa
+468,Stoff::N,эд,kangas
+469,Nadel::N,зүн,neula
+470,Faden::N,утцн,lanka
+471,Knopf::N,товч,nappi
+472,Knoten::N,зәңгдә,solmu
+473,Farbe::N,будг,maali
+474,Kleidung::N,хувцн,vaatteet
+475,Kleidung::N,хувц-хунр,vaatteet
+476,Hemd::N,киилг,paita
+477,Kragen::N,зах,kaulus
+478,Ärmel::N,ханцн,hiha
+479,Hose::N,шалвур,housut
+480,Gürtel::N,бүс,vyö
+481,Mütze::N,махла,lakki
+482,Schuh::N,башмгуд,kenkä
+483,Stiefel::N,һосн,saapas
+484,Ring::N,билцг,sormus
+485,Band::N,лент,nauha
+486,Kamm::N,сам,kampa
+487,Spiegel::N,толь,peili
+488,Riemen::N,бүс,hihna
+489,Schnur::N,деесн,naru
+490,Schnur::N,деесн,nuora
+491,Leine::N,бурнтг,talutushihna
+492,Leine::N,нохан көтлвр,talutushihna
+493,Decke::N,көнҗл,peite
+494,Kissen::N,дер,tyyny
+495,Kissen::N,дер,pielus
+496,Tuch::N,альчур,huivi
+497,Handtuch::N,полотенц,pyyheliina
+498,Handtuch::N,һар-нүүрин альчур,pyyheliina
+499,Kraft::N,күчн,väki
+500,Kraft::N,күчн,voima
+501,Stärke::N,чидл,vahvuus
+502,Gesundheit::N,эрүл-менд,terveys
+503,Krankheit::N,өвчн,tauti
+504,Krankheit::N,өвчн,sairaus
+505,Schmerz::N,өвдлһн,kipu
+506,Schmerz::N,өвдлһн,särky
+507,Wunde::N,шав,haava
+508,Fieber::N,безг,kuume
+509,Arznei::N,эм,lääke
+510,Brücke::N,тагт,silta
+511,Brunnen::N,худг,kaivo
+512,Weide::N,малын идг,laidun
+513,Pfad::N,цувг,polku
+514,Weg::N,хаалһ,tie
+515,Straße::N,зам,katu
+516,Dorf::N,хотн,kylä
+517,Stadt::N,балһсн,kaupunki
+518,Brief::N,бичг,kirje
+519,Buch::N,дегтр,kirja
+520,Buchstabe::N,үзг,kirjain
+521,Zeitung::N,газет,lehti
+522,Zeitung::N,газет,sanomalehti
+523,Leben::N,җирһл,elo
+524,Leben::N,җирһл,elämä
+525,Tod::N,үкл,kuolema
+526,Tod::N,өңгрлһн,kuolema
+527,Grab::N,оршалһна нүкн,hauta
+528,Kirche::N,чонҗ,kirkko
+529,Sünde::N,нүл,synti
+530,Sünde::N,килнц,synti
+531,Gott::N,бурхн,jumala
+532,Arbeiter::N,көдлмшч,työläinen
+533,Chef::N,толһач,päällikkö
+534,Meister::N,урн,mestari
+535,Arzt::N,эмч,lääkäri
+536,Lehrer::N,багш,opettaja
+537,Geld::N,мөңгн,raha
+538,Geschäft::N,көдлмш,liike
+539,Laden::N,лавк,puoti
+540,Laden::N,лавк,kauppa
+541,Preis::N,үн,hinta
+542,Ware::N,эд-тавр,tavara
+543,Nutzen::N,олз,hyöty
+544,Reichtum::N,зөөр,rikkaus
+545,Welt::N,орчлң,maailma
+546,Welt::N,делкә,maailma
+547,Land::N,орн-нутг,maa
+548,Staat::N,государств,valtio
+549,König::N,хан,kuningas
+550,Macht::N,йосн,mahti
+551,Grenze::N,меҗә,raja
+552,Krieg::N,дән,sota
+553,Feind::N,дәәсн,vihollinen
+554,Gewalt::N,күч һарһлһн,väkivalta
+555,Kampf::N,ноолдан,taistelu
+556,Kampf::N,бәрлдлһн,taistelu
+557,Bogen[Waffe]::N,саадг,jousi
+558,Pfeil::N,сумн,nuoli
+559,Gewehr::N,бу,kivääri
+560,Fehler::N,алдг,vika
+561,Fehler::N,алдг,virhe
+562,Lüge::N,худл,valhe
+563,Schaden::N,хорлт,vaurio
+564,Schaden::N,хорлт,vahinko
+565,Unglück::N,гүрм,vahinko
+566,Unglück::N,гүрм,onnettomuus
+567,Schuld::N,гем,syy
+568,Schuld::N,буру,syy
+569,Alter::N,насн,ikä
+570,Schluss::N,чилгч,loppu
+571,Zeit::N,цаг,aika
+572,Tag::N,өдр,päivä
+573,Morgen::N,өрүн,aamu
+574,Morgen::N,өрүн,huomen
+575,Mittag::N,үд,keskipäivä
+576,Abend::N,асхн,ilta
+577,Nacht::N,сө,yö
+578,Woche::N,долан хонг,viikko
+579,Monat::N,сар,kuukausi
+580,Jahr::N,җил,vuosi
+581,Frühling::N,хавр,kevät
+582,Sommer::N,зун,kesä
+583,Herbst::N,намр,syksy
+584,Winter::N,үвл,talvi
+585,Januar::N,январь,tammikuu
+586,Februar::N,февраль,helmikuu
+587,März::N,март,maaliskuu
+588,März::N,моһа сар,maaliskuu
+589,April::N,апрель,huhtikuu
+590,Mai::N,май,toukokuu
+591,Juni::N,июнь,kesäkuu
+592,Juni::N,мөчн сар,kesäkuu
+593,Juli::N,июль,heinäkuu
+594,August::N,август,elokuu
+595,September::N,һаха сар,syyskuu
+596,Oktober::N,октябрь,lokakuu
+597,November::N,ноябрь,marraskuu
+598,November::N,үкр сар,marraskuu
+599,Dezember::N,бар сар,joulukuu
+600,Montag::N,понедельник,maanantai
+601,Dienstag::N,вторник,tiistai
+602,Mittwoch::N,среда,keskiviikko
+603,Mittwoch::N,үлмҗ өдр,keskiviikko
+604,Donnerstag::N,четверг,torstai
+605,Donnerstag::N,пүрвә өдр,torstai
+606,Freitag::N,пятниц,perjantai
+607,Samstag::N,суббот,lauantai
+608,Sonntag::N,нарн өдр,sunnuntai
+609,Sonntag::N,воскресень,sunnuntai
+610,groß::A,ик,iso
+611,groß::A,ик,suuri
+612,klein::A,бичкн,pieni
+613,lang::A,ут,pitkä
+614,kurz::A,оһтр,lyhyt
+615,breit::A,өргн,leveä
+616,schmal::A,уутьхн,kapea
+617,dicht::A,нигт,taaja
+618,dick[Gegenstand]::A,зузан,paksu
+619,dünn::A,нимгн,ohut
+620,fein::A,нәрхн,hieno
+621,fest::A,бат,luja
+622,flach::A,хавтха,litteä
+623,flach::A,хавтха,tasainen
+624,glatt::A,тегш,sileä
+625,glatt::A,тегш,siloinen
+626,glatt::A,тиньгр,sileä
+627,glatt::A,тиньгр,siloinen
+628,hart::A,хату,kova
+629,weich::A,җөөлн,pehmeä
+630,weich::A,җөөлкн,pehmeä
+631,rund::A,төгрг,pyöreä
+632,spitz::A,шовһр,terävä
+633,scharf::A,хурц,terävä
+634,stumpf::A,мука,tylsä
+635,schwer::A,күнд,raskas
+636,schwer::A,күнд,painava
+637,schön::A,сәәхн,kaunis
+638,heiß::A,халун,kuuma
+639,warm::A,дулан,lämmin
+640,kalt::A,киитн,kylmä
+641,kalt::A,киитн,viluinen
+642,kühl::A,серүн,viileä
+643,frisch::A,серүн,tuore
+644,feucht::A,чиигтә,kostea
+645,nass::A,чиигтә,märkä
+646,trocken::A,хагсу,kuiva
+647,voll::A,дүүрң,täysi
+648,leer::A,сул,tyhjä
+649,leer::A,хоосн,tyhjä
+650,offen::A,секәтә,avonainen
+651,geschlossen::A,хаалһата,suljettu
+652,sauber::A,цевр,puhdas
+653,schmutzig::A,киртә,likainen
+654,roh::A,түүкә,raaka
+655,reif::A,болсн,kypsä
+656,lecker::A,әмтәхн,herkullinen
+657,süß::A,әмтәхн,makea
+658,bitter::A,һашун,karvas
+659,bitter::A,һашун,kitkerä
+660,bitter::A,һашута,karvas
+661,bitter::A,һашута,kitkerä
+662,sauer::A,ишклң,hapan
+663,hell::A,герлтә,kirkas
+664,hell::A,герлтә,valoisa
+665,dunkel::A,харңһу,pimeä
+666,schwarz::A,хар,musta
+667,weiß::A,цаһан,valkea
+668,rot::A,улан,punainen
+669,gelb::A,шар,keltainen
+670,blau::A,көк,sininen
+671,grün::A,көк,vihreä
+672,grau::A,бор,harmaa
+673,bunt::A,алг,kirjava
+674,bunt::A,эрәтә,kirjava
+675,billig::A,кимд,halpa
+676,billig::A,кимд,huokea
+677,teuer::A,үнтә,kallis
+678,wertvoll::A,үнтә,arvokas
+679,wertvoll::A,эрднь,arvokas
+680,blind::A,сохр,sokea
+681,taub::A,дүлә,kuuro
+682,kräftig::A,күчтә,väkevä
+683,kräftig::A,күчтә,voimakas
+684,stark::A,чаңһ,vahva
+685,schwach::A,күчн тату,heikko
+686,fett::A,тарһн,lihava
+687,schlank::A,эццн,hoikka
+688,schlank::A,эццн,solakka
+689,hübsch::A,көркхн,soma
+690,hübsch::A,көркхн,sievä
+691,böse::A,уурта,paha
+692,böse::A,уурта,häijy
+693,dumm::A,тенг,tyhmä
+694,dumm::A,тенг,typerä
+695,faul::A,залху,laiska
+696,fleißig::A,кинән,ahkera
+697,fleißig::A,кинмһә,ahkera
+698,geizig::A,ховдг,saita
+699,klug::A,ухата,älykäs
+700,geschickt::A,чадмг,taitava
+701,lieb::A,эңкр,rakas
+702,lustig::A,сергмҗтә,hauska
+703,lustig::A,сергмҗтә,iloinen
+704,lustig::A,җирһлтә,hauska
+705,lustig::A,җирһлтә,iloinen
+706,sanft::A,номһн,lauha
+707,sanft::A,номһн,lempeä
+708,hungrig::A,өлн,nälkäinen
+709,hungrig::A,харһнсн,nälkäinen
+710,krank::A,өвчтә,sairas
+711,krank::A,шалтгта,sairas
+712,nackt::A,нүцкн,alaston
+713,traurig::A,һундлта,surullinen
+714,traurig::A,һундлта,murheellinen
+715,lebendig::A,әмд,elävä
+716,gut::A,сән,hyvä
+717,schlecht::A,му,paha
+718,schlecht::A,му,huono
+719,richtig::A,зөвтә,oikea
+720,schlimm::A,җигшүртә,paha
+721,wahr::A,үнн,tosi
+722,wahr::A,мөн,tosi
+723,alt::A,хуучн,vanha
+724,neu::A,шин,uusi
+725,ehemalig::A,хуучн,entinen
+726,ehemalig::A,хуучн,muinainen
+727,alt[Lebewesen]::A,көгшн,vanha
+728,jung::A,баһ,nuori
+729,arm::A,угатя,köyhä
+730,reich::A,байн,rikas
+731,bekannt::A,таньл,tuttu
+732,bekannt::A,таньл,tunnettu
+733,bekannt::A,таньдг,tuttu
+734,bekannt::A,таньдг,tunnettu
+735,berühmt::A,туурсн,kuuluisa
+736,fremd::A,күүнә,vieras
+737,verschieden::A,әдл биш,eri
+738,verschieden::A,әдл биш,erilainen
+739,verschieden::A,йилһәтә,eri
+740,verschieden::A,йилһәтә,erilainen
+741,nah::A,өөрхн,läheinen
+742,fern::A,хол,etäinen
+743,linker::A,зүн,vasen
+744,rechter::A,барун,oikea
+745,anderer::A,талдан,muu
+746,anderer::A,талдан,toinen
+747,erster::A,негдгч,ensimmäinen
+748,zweiter::A,хойрдгч,toinen
+749,dritter::A,һурвдгч,kolmas
+750,letzter::A,отхн,viimeinen
+751,allein::ADV,һанцарн,yksin
+752,auf einmal::ADV,нег дәкҗ,yhdellä kertaa
+753,zusammen::ADV,хамдан,yhdessä
+754,lange::ADV,удан,kauan
+755,lange::ADV,удан,pitkään
+756,plötzlich::ADV,генткн,äkkiä
+757,sofort::ADV,дарунь,heti
+758,später::ADV,сүүлд,myöhemmin
+759,jetzt::ADV,ода,nyt
+760,heute::ADV,эндр,tänään
+761,morgen::ADV,маңһдур,huomenna
+762,bald::ADV,дарунь,pian
+763,dann::ADV,дәкәд,sitten
+764,gestern::ADV,өцклдүр,eilen
+765,einst::ADV,нег саамд,aikanaan
+766,damals::ADV,тиигхд,silloin
+767,damals::ADV,тиигхд,siihen aikaan
+768,danach::ADV,тегәд,sen jälkeen
+769,vorher::ADV,урд,ennen
+770,zuerst::ADV,түрүләд,ensin
+771,zuerst::ADV,түрүләд,ensiksi
+772,einmal::ADV,нег дәкҗ,kerran
+773,manchmal::ADV,зәрмдән,joskus
+774,oft::ADV,хара биш,usein
+775,oft::ADV,хатяр биш,usein
+776,oft::ADV,дару-дарунь,usein
+777,immer::ADV,оньдинд,aina
+778,niemals::ADV,кезә чмгн биш,ei koskaan
+779,hier::ADV,энд,tässä
+780,hier::ADV,энд,täällä
+781,hier::ADV,энүнд,tässä
+782,hier::ADV,энүнд,täällä
+783,hierhin::ADV,нааран,tähän
+784,von hier::ADV,эндәс,tästä
+785,von hier::ADV,эндәс,täältä
+786,dort::ADV,тенд,siinä
+787,dort::ADV,тенд,siellä
+788,dorthin::ADV,тиигән,sinne
+789,dorthin::ADV,тиигән,tuonne
+790,geradeaus::ADV,шуд,suoraan
+791,vorwärts::ADV,уралан,eteenpäin
+792,rückwärts::ADV,гедргән,taaksepäin
+793,zurück::ADV,хәрү,takaisin
+794,unten::ADV,дор,alhaalla
+795,hinab::ADV,дор,alas
+796,hinab::ADV,доракшан,alas
+797,oben::ADV,деер,ylhäällä
+798,hinauf::ADV,өөдән,ylös
+799,hinauf::ADV,деер,ylös
+800,überall::ADV,альд болв чигн,kaikkialla
+801,nicht::ADV,эс,ei
+802,nicht::ADV,биш,ei
+803,nicht::ADV,бичә,ei
+804,ein wenig::ADV,баахн,vähän
+805,ein wenig::ADV,баахнар,vähän
+806,kaum::ADV,әрә,tuskin
+807,sehr::ADV,йир,kovin
+808,sehr::ADV,йир,oikein
+809,so::ADV,иигҗ,näin
+810,noch::ADV,ода чигн,vielä
+811,nur::ADV,һанцхн,vain
+812,nur::ADV,һанцхн,ainoastaan
+813,schon::ADV,одх,jo
+814,wieder::ADV,бас,taas
+815,wieder::ADV,бас,jälleen
+816,vergebens::ADV,киидән,turhaan
+817,vor::PRP,урд,edessä
+818,hinter::PRP,ца,takana
+819,unter::PRP,дор,alla
+820,durch::PRP,ивт,läpi
+821,durch::PRP,ивт,kautta
+822,durch::PRP,дундаһур,läpi
+823,durch::PRP,дундаһур,kautta
+824,neben::PRP,хаҗуд,vieressä
+825,zwischen::PRP,хоорнд,välillä
+826,wegen::PRP,көлтә,takia
+827,wegen::PRP,көлтә,vuoksi
+828,wegen::PRP,деерәс,takia
+829,wegen::PRP,деерәс,vuoksi
+830,dies::PRN,эн,tämä
+831,das::PRN,тер,se
+832,alles::PRN,цуһар,kaikki
+833,ich::PRN,би,minä
+834,du::PRN,чи,sinä
+835,er::PRN,тер,hän
+836,wir::PRN,мадн,me
+837,ihr::PRN,та,te
+838,sie::PRN,тедн,he
+839,was::FPRN,юн,mikä
+840,wer::FPRN,кен,ken
+841,wer::FPRN,кен,kuka
+842,wo::FADV,хама,missä
+843,wohin::FADV,хамаран,mihin
+844,wie::FADV,яһҗ,miten
+845,wie::FADV,яһҗ,kuinka
+846,wie::FADV,яһад,miten
+847,wie::FADV,яһад,kuinka
+848,warum::FADV,юңгад,miksi
+849,wieviel::FNUM,кедү,paljonko
+850,wieviel::FNUM,кедү,kuinka paljon
+851,eins::NUM,негн,yksi
+852,zwei::NUM,хойр,kaksi
+853,drei::NUM,һурвн,kolme
+854,vier::NUM,дөрвн,neljä
+855,fünf::NUM,тавн,viisi
+856,sechs::NUM,зурһан,kuusi
+857,sieben::NUM,долан,seitsemän
+858,acht::NUM,нәәмн,kahdeksan
+859,neun::NUM,йисн,yhdeksän
+860,zehn::NUM,арвн,kymmenen
+861,elf::NUM,арвн негн,yksitoista
+862,zwölf::NUM,арвн хойр,kaksitoista
+863,zwanzig::NUM,хөрн,kaksikymmentä
+864,dreißig::NUM,һучн,kolmekymmentä
+865,vierzig::NUM,дөчн,neljäkymmentä
+866,fünfzig::NUM,тәвн,viisikymmentä
+867,sechzig::NUM,җирн,kuusikymmentä
+868,siebzig::NUM,далн,seitsemänkymmentä
+869,achtzig::NUM,найн,kahdeksankymmentä
+870,neunzig::NUM,йирн,yhdeksänkymmentä
+871,hundert::NUM,зун,sata
+872,tausend::NUM,миңһн,tuhat
+873,und::CNJ,болн,ja
+874,oder::CNJ,эс гиҗ,tai
+875,oder::CNJ,эс гихлә,tai
+876,stehen::V,зогсх,seisoa
+877,sitzen::V,суух,istua
+878,liegen::V,кевтх,maata
+879,hängen::V,өлгәтә бәәх,riippua
+880,werden::V,болх,tulla
+881,werden::V,болх,joutua
+882,passieren::V,болх,sattua
+883,passieren::V,болх,tapahtua
+884,beginnen::V,эклх,alkaa
+885,enden::V,төгсх,loppua
+886,enden::V,төгсх,päättyä
+887,wechseln::V,хүврх,vaihtua
+888,wechseln::V,хүврх,vaihdella
+889,aufgehen[Sonne]::V,һарх,nousta
+890,untergehen[Sonne]::V,орх,laskea
+891,untergehen[Sonne]::V,сүүрлх,laskea
+892,scheinen[Sonne]::V,герлтх,paistaa
+893,donnern::V,күрҗңнх,jyristä
+894,wehen::V,сальклх,tuulla
+895,wehen::V,сальклх,puhaltaa
+896,strömen::V,һооҗх,virrata
+897,fließen::V,урсх,valua
+898,fließen::V,урсх,juosta
+899,sich drehen::V,эргх,pyöriä
+900,schwanken::V,дәәвлх,horjua
+901,schwingen::V,нәәхлх,heilua
+902,schwingen::V,нәәхлх,värähdellä
+903,fallen::V,унх,pudota
+904,fallen::V,унх,langeta
+905,fallen::V,киисх,pudota
+906,fallen::V,киисх,langeta
+907,brennen::V,шатх,palaa
+908,rauchen::V,ута һарһх,savuta
+909,regnen::V,орх,sataa
+910,gefrieren::V,мөстх,jäätyä
+911,tauen::V,хәәлх,sulaa
+912,schmelzen::V,хәәлх,sulaa
+913,schmelzen::V,хәәлгдх,sulaa
+914,trocknen::V,эврх,kuivua
+915,sieden::V,буслх,kiehua
+916,faulen::V,үмкәрх,mädätä
+917,verfaulen::V,илҗрх,mädätä
+918,verfaulen::V,илҗрх,mädäntyä
+919,reißen::V,тасрх,revetä
+920,versinken::V,чивх,upota
+921,versinken::V,чивх,vajota
+922,vergehen::V,болх,kulua
+923,erscheinen::V,һарх,ilmestyä
+924,verschwinden::V,уга болх,kadota
+925,sinken::V,татгдх,vajota
+926,abnehmen::V,хасгдх,vähetä
+927,zunehmen::V,өсх,kasvaa
+928,zunehmen::V,өсх,lisääntyä
+929,steigen::V,немх,nousta
+930,wachsen::V,өсх,kasvaa
+931,wachsen::V,урһх,kasvaa
+932,glänzen::V,гилвкх,kiiltää
+933,funkeln::V,цәклх,kipinöidä
+934,lärmen::V,шууглдх,meluta
+935,läuten::V,хоңх,soida
+936,klingeln::V,җиңнулх,soida
+937,klirren::V,җиңнх,kalista
+938,brausen::V,догшрхх,kohista
+939,rauschen::V,сарҗңнх,kohista
+940,klingen::V,ә һарх,soida
+941,bellen::V,хуцх,haukkua
+942,heulen::V,уульх,ulvoa
+943,blasen::V,үләх,puhaltaa
+944,pfeifen::V,ишкрх,viheltää
+945,schreien::V,хәәкрх,kirkua
+946,stöhnen::V,түңшх,voihkia
+947,zittern::V,дагҗннх,vapista
+948,leben::V,бәәх,elää
+949,geboren werden::V,төрх,syntyä
+950,atmen::V,әмсхлх,hengittää
+951,trinken::V,уух,juoda
+952,essen::V,идх,syödä
+953,schlucken::V,зальгх,niellä
+954,müde werden::V,көшх,uupua
+955,einschlafen::V,унтх,uinahtaa
+956,schlafen::V,нөөрсх,maata
+957,schlafen::V,нөөрсх,nukkua
+958,aufwachen::V,серх,herätä
+959,aufstehen::V,босх,nousta
+960,aufstehen::V,босх,nousta ylös
+961,sich erholen::V,амрх,levätä
+962,krank werden::V,гемтх,sairastua
+963,krank sein::V,шалтглх,potea
+964,krank sein::V,шалтглх,sairastaa
+965,schmerzen::V,өвдх,särkeä
+966,schmerzen::V,өвдх,kivistää
+967,husten::V,ханях,yskiä
+968,genesen::V,эдгх,toipua
+969,sterben::V,үкх,kuolla
+970,sterben::V,өңгрх,kuolla
+971,umkommen::V,үкх,saada surmansa
+972,umkommen::V,үкх,kuolla
+973,sich bewegen::V,көдлх,liikkua
+974,sich bewegen::V,көндрх,liikkua
+975,sich rühren::V,көндрх,liikahtaa
+976,sich erheben::V,босх,nousta
+977,sich setzen::V,суух,istuutua
+978,hinfallen::V,унх,kaatua
+979,hinfallen::V,киисх,kaatua
+980,laufen::V,йовх,kävellä
+981,schreiten::V,алхх,astua
+982,schreiten::V,алхх,astella
+983,spazierengehen::V,сергҗ йовх,kävellä
+984,eilen::V,шулудх,kiirehtiä
+985,sich beeilen::V,адһх,kiirehtiä
+986,sich beeilen::V,адһх,olla kiireissään
+987,sich beeilen::V,шамдх,kiirehtiä
+988,sich beeilen::V,шамдх,olla kiireissään
+989,sausen::V,хурдлх,rynnätä
+990,sausen::V,хурдлх,viilettää
+991,sausen::V,йир_хурдар_гүүх,rynnätä
+992,sausen::V,йир_хурдар_гүүх,viilettää
+993,sausen::V,йир_хурдар_йовх,rynnätä
+994,sausen::V,йир_хурдар_йовх,viilettää
+995,rennen::V,гүүх,juosta
+996,springen::V,һәрәдх,hypätä
+997,klettern::V,давшх,kiivetä
+998,schaukeln::V,дүүдңндх,kiikkua
+999,kriechen::V,мөлкх,ryömiä
+1000,schwimmen::V,усчх,uida
+1001,tauchen::V,булхх,sukeltaa
+1002,rudern::V,хәәвдх,soutaa
+1003,fahren::V,йовх,ajaa
+1004,fahren::V,йовх,kulkea
+1005,fliegen::V,нисх,lentää
+1006,gehen::V,йовх,käydä
+1007,weggehen::V,йовх,lähteä
+1008,weggehen::V,йовх,poistua
+1009,weggehen::V,одх,lähteä
+1010,weggehen::V,одх,poistua
+1011,weggehen::V,һарх,lähteä
+1012,weggehen::V,һарх,poistua
+1013,weggehen::V,мөрлх,lähteä
+1014,weggehen::V,мөрлх,poistua
+1015,abfahren::V,мордх,lähteä
+1016,anhalten::V,зогсх,pysähtyä
+1017,anhalten::V,зогсх,seisahtua
+1018,hineingehen::V,орх,mennä sisään
+1019,eintreten::V,орх,astua sisään
+1020,kommen::V,ирх,tulla
+1021,ankommen::V,ирх,saapua
+1022,zurückkommen::V,орх,palata
+1023,bleiben::V,бәәх,jäädä
+1024,bleiben::V,бәәх,viipyä
+1025,warten::V,күләх,odottaa
+1026,erwarten::V,күләх,odottaa
+1027,suchen::V,хәәх,etsiä
+1028,finden::V,олх,löytää
+1029,versuchen::V,седх,yrittää
+1030,vorbereiten::V,белдх,valmistaa
+1031,lieben::V,дурлх,pitää
+1032,lieben::V,дурлх,rakastaa
+1033,mögen::V,таассгдх,pitää
+1034,mögen::V,таассгдх,tykätä
+1035,lachen::V,инәх,nauraa
+1036,rühren::V,уйрах,liikuttaa
+1037,weinen::V,уульх,itkeä
+1038,schimpfen::V,харах,haukkua
+1039,sich ärgern::V,уурлх,suuttua
+1040,sich fürchten::V,әәх,pelätä
+1041,fürchten::V,әәх,pelätä
+1042,fürchten::V,сүрдх,pelätä
+1043,fliehen::V,зулх,paeta
+1044,flüchten::V,орһх,paeta
+1045,flüchten::V,зулх,paeta
+1046,sehen::V,үзх,nähdä
+1047,anschauen::V,харх,katsoa
+1048,ansehen::V,хәләх,katsoa
+1049,ansehen::V,үзх,katsoa
+1050,hören::V,соңсх,kuulla
+1051,zuhören::V,соңсх,kuunnella
+1052,probieren::V,амсх,maistaa
+1053,riechen::V,үнрчлх,haistaa
+1054,fühlen::V,медх,tuntea
+1055,scheinen::V,болҗ медгдх,tuntua
+1056,scheinen::V,миниһәр болхла,tuntua
+1057,scheinen::V,болад бәәх,tuntua
+1058,zu sehen sein::V,үзгдх,näkyä
+1059,vernehmen::V,соңсх,kuulla
+1060,frieren::V,даарх,palella
+1061,tun::V,кех,tehdä
+1062,können::V,чадх,osata
+1063,wollen::V,дурлх,tahtoa
+1064,anfangen::V,эклх,ruveta
+1065,anfangen::V,эклх,aloittaa
+1066,beenden::V,дуусх,lopettaa
+1067,aufhören::V,уурх,loppua
+1068,gelingen::V,бүтх,onnistua
+1069,gelingen::V,күцәх,onnistua
+1070,geraten::V,болх,sujua
+1071,geraten::V,болх,joutua
+1072,öffnen::V,секх,avata
+1073,öffnen::V,секх,aukaista
+1074,schließen::V,хаах,sulkea
+1075,stellen::V,тәвх,panna
+1076,stellen::V,тәвх,asettaa
+1077,setzen::V,суулһх,panna
+1078,setzen::V,суулһх,istuttaa
+1079,legen::V,тәвх,panna
+1080,legen::V,тәвх,asettaa
+1081,berühren::V,көндәх,koskea
+1082,berühren::V,көндәх,koskettaa
+1083,verbinden::V,боох,liittää
+1084,verbinden::V,боох,yhdistää
+1085,bedecken::V,хучх,kattaa
+1086,bedecken::V,хучх,peittää
+1087,bedecken::V,бүркх,kattaa
+1088,bedecken::V,бүркх,peittää
+1089,aufhängen::V,өлгх,ripustaa
+1090,anzünden::V,асах,sytyttää
+1091,anzünden::V,шатах,sytyttää
+1092,aufheben::V,өөдән өргх,ylös nostaa
+1093,aufheben::V,өөдән өргх,nostaa
+1094,zurücklassen::V,үлдәх,jättää
+1095,verlieren::V,геех,kadottaa
+1096,fallen lassen::V,алдх,pudottaa
+1097,machen::V,кех,tehdä
+1098,herstellen::V,кех,tuottaa
+1099,herstellen::V,кех,valmistaa
+1100,bauen::V,тосхх,rakentaa
+1101,reparieren::V,ясх,korjata
+1102,verbessern::V,сәәрүлх,parantaa
+1103,ändern::V,хүврәх,muuttaa
+1104,graben::V,малтх,kaivaa
+1105,beugen::V,нуһлх,taivuttaa
+1106,biegen::V,матилһх,taivuttaa
+1107,drehen::V,эргүлх,kääntää
+1108,wenden::V,көмрх,kääntää
+1109,wenden::V,эргүлх,kääntää
+1110,umdrehen::V,эргүлх,kääntää
+1111,heben::V,өргх,nostaa
+1112,heben::V,өргх,kohottaa
+1113,heben::V,деер өргх,nostaa
+1114,heben::V,деер өргх,kohottaa
+1115,hochheben::V,өргх,nostaa
+1116,ergreifen::V,бәрх,tarttua
+1117,halten::V,бәрх,pitää
+1118,drücken::V,шахх,painaa
+1119,drücken::V,шахх,puristaa
+1120,schieben::V,түлкх,työntää
+1121,kratzen::V,мааҗх,raapia
+1122,lecken::V,долах,nuolla
+1123,beißen::V,хазх,purra
+1124,abreißen::V,таслх,repiä
+1125,abschneiden::V,тәәрх,leikata poikki
+1126,abschneiden::V,тәәрх,leikata
+1127,binden::V,боох,sitoa
+1128,stecken::V,шаах,pistää
+1129,stecken::V,хатхх,pistää
+1130,brechen::V,хамхлх,murtaa
+1131,klopfen::V,цокх,koputtaa
+1132,klopfen::V,цокх,kolkuttaa
+1133,hauen::V,цокх,lyödä
+1134,kleben::V,наах,liimata
+1135,reiben::V,зүлгх,hieroa
+1136,reiben::V,зүлгх,hangata
+1137,streichen::V,наах,sivellä
+1138,streichen::V,лашх,sivellä
+1139,streichen::V,түркх,sivellä
+1140,schleifen::V,хурцлх,hioa
+1141,schneiden::V,хәәчлх,leikata
+1142,rütteln::V,дәәвлүлх,ravistaa
+1143,schütteln::V,сегсрх,pudistaa
+1144,schwenken::V,дайлх,heiluttaa
+1145,schütten::V,кех,kaataa
+1146,füllen::V,дүүргх,täyttää
+1147,einwickeln::V,орах,kääriä
+1148,tragen::V,зөөх,kantaa
+1149,schleppen::V,чирх,raahata
+1150,ziehen::V,татх,vetää
+1151,aufbewahren::V,хадһлх,säilyttää
+1152,werfen::V,хайх,viskata
+1153,fangen::V,бәрх,napata
+1154,fangen::V,бәрх,ottaa kiinni
+1155,fangen::V,хавлх,napata
+1156,fangen::V,хавлх,ottaa kiinni
+1157,packen::V,бәрх,tarttua
+1158,verstecken::V,дүрх,kätkeä
+1159,verstecken::V,дүрх,piilottaa
+1160,verstecken::V,бултулх,kätkeä
+1161,verstecken::V,бултулх,piilottaa
+1162,teilen::V,хувах,jakaa
+1163,schicken::V,илгәх,lähettää
+1164,bringen::V,авч ирх,viedä
+1165,hinzufügen::V,немх,lisätä
+1166,bekommen::V,авх,saada
+1167,erhalten::V,авх ,saada
+1168,nehmen::V,авх,ottaa
+1169,wählen::V,шүүх,valita
+1170,auswählen::V,шүүх,valikoida
+1171,bewahren::V,хадһлх,säilyttää
+1172,bewahren::V,кевтнь үлдәх,säilyttää
+1173,bewahren::V,кевтнь бәәлһх,säilyttää
+1174,behindern::V,харшлх,estää
+1175,verderben::V,үрәх,pilata
+1176,verderben::V,үрәх,turmella
+1177,beschädigen::V,эвдх,vioittaa
+1178,beschädigen::V,эвдх,vahingoittaa
+1179,zerbrechen::V,күүлх,rikkoa
+1180,zerbrechen::V,хамхлх,rikkoa
+1181,zerreißen::V,шуучх,repiä rikki
+1182,zerreißen::V,шуучх,repiä palasiksi
+1183,zerstören::V,эвдх,hävittää
+1184,verbrennen::V,шатах,polttaa
+1185,geben::V,өгх,antaa
+1186,reichen::V,өгх,ojentaa
+1187,schenken::V,белглх,lahjoittaa
+1188,versprechen::V,амлх,luvata
+1189,wünschen::V,сә хәәх,toivottaa
+1190,loben::V,магтх,ylistää
+1191,küssen::V,үмсх,suudella
+1192,wiegen::V,саатулх,tuudittaa
+1193,wiegen::V,саатулх,keinuttaa
+1194,zudecken::V,бүркх,peittää
+1195,wecken::V,серүлх,herättää
+1196,zeigen::V,үзүлх,näyttää
+1197,zeigen::V,үзүлх,osoittaa
+1198,führen::V,көтлх,johdattaa
+1199,lehren::V,заах,opettaa
+1200,lehren::V,сурһх,opettaa
+1201,unterrichten::V,сурһх,opettaa
+1202,unterrichten::V,багшлх,opettaa
+1203,aufziehen::V,өскәх,kasvattaa
+1204,leiten::V,һардх,johtaa
+1205,leiten::V,толһалх,johtaa
+1206,antreiben::V,шамдах,hoputtaa
+1207,lassen::V,күч үзүлх,antaa
+1208,einladen::V,үрх,kutsua
+1209,vereinigen::V,хамцулх,yhdistää
+1210,besuchen::V,одх,vierailla
+1211,treffen::V,харһх,tavata
+1212,sich versammeln::V,цуглрх,kokoontua
+1213,sich versammeln::V,хурх,kokoontua
+1214,spielen::V,наадх,pelata
+1215,spielen::V,наадх,leikkiä
+1216,singen::V,дуулх,laulaa
+1217,tanzen::V,биилх,tanssia
+1218,sich trennen::V,хаһцх,erota
+1219,verlassen::V,хайх,jättää
+1220,retten::V,әм аврх,pelastaa
+1221,retten::V,әәмшгәс харсх,pelastaa
+1222,bewachen::V,харх,vartioida
+1223,bewachen::V,манх,vartioida
+1224,schützen::V,харсх,suojella
+1225,verteidigen::V,харсх,puolustaa
+1226,sich schlagen::V,гүвдлдх,tapella
+1227,schießen::V,хах,ampua
+1228,siegen::V,диилх,voittaa
+1229,ärgern::V,уурлулх,ärsyttää
+1230,schlagen::V,цокх,lyödä
+1231,schlagen::V,гүвдх,lyödä
+1232,stechen::V,хатхх,pistää
+1233,stoßen::V,түлкчкх,sysätä
+1234,stoßen::V,түлкчкх,työntää
+1235,stehlen::V,хулхалх,varastaa
+1236,stören::V,һә болх,häiritä
+1237,belästigen::V,амр эс өгх,häiritä
+1238,verbergen::V,нуух,kätkeä
+1239,verbergen::V,бултулх,kätkeä
+1240,täuschen::V,меклх,harhauttaa
+1241,betrügen::V,меклх,pettää
+1242,betrügen::V,меклх,petkuttaa
+1243,betrügen::V,мек һарһх,pettää
+1244,betrügen::V,мек һарһх,petkuttaa
+1245,töten::V,алх,tappaa
+1246,wohnen::V,бәәх,asua
+1247,arbeiten::V,көдлх,tehdä työtä
+1248,arbeiten::V,көдлх,työskennellä
+1249,sammeln::V,түүх,koota
+1250,sammeln::V,түүх,kerätä
+1251,pflücken::V,түүх,poimia
+1252,pflücken::V,хурах,poimia
+1253,jagen::V,аңнх,metsästää
+1254,jagen::V,аңһучлх,metsästää
+1255,fischen::V,заһс аңнх,kalastaa
+1256,fassen::V,бәрх,pyydystää
+1257,fassen::V,бәрх,saalistaa
+1258,hüten::V,хәрүлх,paimentaa
+1259,treiben::V,туух,ajaa
+1260,anbinden::V,уйх,kytkeä
+1261,füttern::V,теҗәх,ruokkia
+1262,melken::V,саах,lypsää
+1263,hacken::V,чавчх,hakata
+1264,gießen::V,услх,kastella
+1265,reifen::V,болх,kypsyä
+1266,reifen::V,болвсрх,kypsyä
+1267,zubereiten::V,белдх,valmistaa
+1268,kochen::V,чанх,keittää
+1269,kochen::V,болһх,keittää
+1270,backen::V,болһх,leipoa
+1271,braten::V,хуурх,paistaa
+1272,umrühren::V,самрх,hämmentää
+1273,stricken::V,өлгх,kutoa
+1274,stricken::V,өлгх,neuloa
+1275,nähen::V,уйх,ommella
+1276,färben::V,будх,värjätä
+1277,färben::V,будх,värittää
+1278,reinigen::V,цеврлх,puhdistaa
+1279,waschen::V,уһах,pestä
+1280,abwischen::V,арчх,pyyhkiä
+1281,spülen::V,зәәлх,huuhtoa
+1282,fegen::V,сәвүрдх,pyyhkäistä
+1283,kehren::V,сәвүрдх,lakaista
+1284,baden::V,өөмх,kylpeä
+1285,sich waschen::V,уһах,peseytyä
+1286,sich waschen::V,бийән уһаҗ,peseytyä
+1287,ausziehen::V,тәәлх,riisua
+1288,anziehen::V,өмсх,pukea ylleen
+1289,sich anziehen::V,хувцлх,pukeutua
+1290,kämmen::V,самлх,kammata
+1291,schmücken::V,чимх,koristaa
+1292,schmücken::V,чимх,kaunistaa
+1293,schmücken::V,кеерүлх,koristaa
+1294,schmücken::V,кеерүлх,kaunistaa
+1295,sagen::V,келх,sanoa
+1296,sprechen::V,келх,puhua
+1297,reden::V,күүндх,keskustella
+1298,reden::V,күр_кех,keskustella
+1299,sich unterhalten::V,күүндх,jutella
+1300,fragen::V,сурх,kysyä
+1301,bitten::V,эрх,pyytää
+1302,erzählen::V,келх,kertoa
+1303,erzählen::V,келҗ өгх,kertoa
+1304,mitteilen::V,медүлх,ilmoittaa
+1305,nennen::V,нерәдх,kutsua
+1306,nennen::V,нерәдх,nimittää
+1307,nennen::V,нер өгх,kutsua
+1308,nennen::V,нер өгх,nimittää
+1309,rufen::V,дуудх,kutsua
+1310,prahlen::V,көөрх,kerskailla
+1311,übersetzen::V,орчулх,kääntää
+1312,denken::V,санх,miettiä
+1313,denken::V,санх,ajatella
+1314,glauben::V,шүтх,uskoa
+1315,glauben::V,нәәлх,uskoa
+1316,bemerken::V,темдглх,huomata
+1317,erkennen::V,таньх,tunnistaa
+1318,erkennen::V,медх,tunnistaa
+1319,begreifen::V,медх,ymmärtää
+1320,verstehen::V,соңсх,ymmärtää
+1321,lernen::V,сурх,oppia
+1322,wissen::V,медх,tietää
+1323,sich erinnern an::V,санх,muistaa
+1324,vergessen::V,мартх,unohtaa
+1325,messen::V,кемҗәлх,mitata
+1326,zählen::V,тоолх,laskea
+1327,rechnen::V,тоолх,laskea
+1328,lesen::V,умшх,lukea
+1329,malen::V,зурх,maalata
+1330,zeichnen::V,зурх,piirtää
+1331,zeichnen::V,зурх,piirustaa
+1332,schreiben::V,бичх,kirjoittaa
+1333,besitzen::V,эзлх,omistaa
+1334,kaufen::V,хулдҗ авх,ostaa
+1335,verkaufen::V,хулдх,myydä
+1336,verkaufen::V,гүүлгх,myydä
+1337,bezahlen::V,өгх,maksaa
+1338,zahlen::V,өгх,maksaa
+1339,beherrschen::V,эзлх,hallita
+1340,ertragen::V,даах,kestää
+1341,treten::V,,potkaista

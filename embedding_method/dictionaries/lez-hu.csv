@@ -1,0 +1,1381 @@
+,Concept_ID,lez,hu
+0,Auge::N,вил,szem
+1,Ohr::N,яб,fül
+2,Nase::N,нер,orr
+3,Mund::N,сив,száj
+4,Zahn::N,сас,fog
+5,Zahn::N,свах,fog
+6,Zunge::N,мез,nyelv
+7,Lippe::N,пӏуз,ajak
+8,Wange::N,хъвехъ,orca
+9,Gesicht::N,ччин,arc
+10,Stirn::N,пел,homlok
+11,Haar::N,чӏар,haj
+12,Schnurrbart::N,спел,bajusz
+13,Schnurrbart::N,спелар,bajusz
+14,Bart::N,ччуру,szakáll
+15,Kinn::N,чене,áll
+16,Kiefer[Anatomie]::N,чене,állkapocs
+17,Kehle::N,туьд,gége
+18,Kehle::N,туьд,torok
+19,Hals::N,гардан,nyak
+20,Genick::N,кьам,tarkó
+21,Kopf::N,кьил,fő
+22,Kopf::N,кьил,fej
+23,Rücken::N,далу,hát
+24,Bauch::N,руфун,has
+25,Nabel::N,пицӏ,köldök
+26,Busen::N,мам,mell
+27,Busen::N,мам,kebel
+28,Brust::N,хур,mell
+29,Schulter::N,къуьн,váll
+30,Arm::N,гъил,kar
+31,Ellenbogen::N,кьуьнт,könyök
+32,Hand::N,капаш,kéz
+33,Handfläche::N,капан юкь,tenyér
+34,Finger::N,тӏуб,ujj
+35,Fingernagel::N,кек,köröm
+36,Nagel[Anatomie]::N,кек,köröm
+37,Zeh::N,кул,lábujj
+38,Fuß::N,кӏвач,láb
+39,Ferse::N,дабан,sarok
+40,Knie::N,мет,térd
+41,Bein::N,кӏвач,láb
+42,Bein::N,кӏвач,lábszár
+43,Körper::N,беден,test
+44,Haut::N,хам,bőr
+45,Blut::N,иви,vér
+46,Ader::N,дамар,ér
+47,Sehne::N,кьуру дамар,ín
+48,Knochen::N,кӏараб,csont
+49,Gehirn::N,мефт,agy
+50,Gehirn::N,мефт,agyvelő
+51,Herz::N,рикӏ,szív
+52,Magen::N,хук,gyomor
+53,Leber::N,лекь,máj
+54,Atem::N,ял,lehelet
+55,Atem::N,ял,lélegzet
+56,Atem::N,нефес,lehelet
+57,Atem::N,нефес,lélegzet
+58,Hunger::N,каш,éhség
+59,Träne::N,вилин нагъв,könny
+60,Geschmack::N,дад,íz
+61,Geschmack::N,тӏям,íz
+62,Geruch::N,ни,szag
+63,Schlaf::N,ахвар,álom
+64,Schlaf::N,ахвар,alvás
+65,Traum::N,ахвар,álom
+66,Himmel::N,цав,ég
+67,Himmel::N,цав,menny
+68,Sonne::N,рагъ,nap
+69,Mond::N,варз,hold
+70,Stern::N,гъед,csillag
+71,Luft::N,гьава,levegő
+72,Wind::N,гар,szél
+73,Welle::N,лепе,hullám
+74,Wasser::N,яд,víz
+75,Stein::N,къван,kő
+76,Boden::N,накьв,föld
+77,Boden::N,накьв,talaj
+78,Erde::N,ччил,föld
+79,Staub::N,руг,por
+80,Rauch::N,гум,füst
+81,Funke::N,цӏелхем,szikra
+82,Feuer::N,цӏай,tűz
+83,Licht::N,экв,fény
+84,Schatten::N,серин,árnyék
+85,Wetter::N,гьава,idő
+86,Wetter::N,гьава,időjárás
+87,Nebel::N,ччилин циф,köd
+88,Wolke::N,циф,felhő
+89,Regen::N,марф,eső
+90,Schnee::N,жив,hó
+91,Eis::N,мурк,jég
+92,Frost::N,аяз,fagy
+93,Kälte::N,мекь,hideg
+94,Kälte::N,мекьивал,hideg
+95,Hitze::N,зегьем,hő
+96,Hitze::N,зегьем,hőség
+97,Raureif::N,къирав,zúzmara
+98,Regenbogen::N,яргъируш,szivárvány
+99,Donner::N,цавун ван,dörgés
+100,Donner::N,цавун ван,mennydörgés
+101,Tropfen::N,стӏал,csepp
+102,Schaum::N,каф,hab
+103,Schaum::N,каф,tajték
+104,Schmutz::N,чирк,piszok
+105,Schmutz::N,кьуруш,piszok
+106,See::N,вир,tó
+107,Sumpf::N,уьлен,mocsár
+108,Wiese::N,векь,rét
+109,Wiese::N,векь,mező
+110,Wald::N,там,erdő
+111,Hügel::N,кӏунтӏ,domb
+112,Anhöhe::N,тепе,magaslat
+113,Anhöhe::N,гьуьндуьрвал,magaslat
+114,Berg::N,дагъ,hegy
+115,Gipfel::N,кӏукӏ,csúcs
+116,Höhle::N,кьветӏ,barlang
+117,Abhang::N,гуьне,lejtő
+118,Quelle::N,чешме,forrás
+119,Bach::N,булах,patak
+120,Fluss::N,вацӏ,folyó
+121,Ufer::N,къерех,part
+122,Küste::N,къерех,tengerpart
+123,Festland::N,кьурамат,szárazföld
+124,Meer::N,гьуьл,tenger
+125,Bucht::N,бухта,öböl
+126,Insel::N,остров,sziget
+127,Blume::N,цуьк,virág
+128,Gras::N,хъач,fű
+129,Wurzel::N,дувул,gyökér
+130,Baum::N,ттар,fa
+131,Stamm::N,тан,tő
+132,Stamm::N,тан,törzs
+133,Rinde::N,чкал,kéreg
+134,Ast::N,тӏур,ág
+135,Zweig::N,хел,gally
+136,Blatt::N,пеш,levél
+137,Birke::N,верх,nyír
+138,Kiefer[Baum]::N,шамагъаж,fenyő
+139,Weide[Baum]::N,цӏвелин ттар,fűz
+140,Tanne::N,ель,fenyő
+141,Horn::N,карч,szarv
+142,Feder::N,цӏакул,toll
+143,Fell::N,хам,szőr
+144,Fell::N,хам,bunda
+145,Flügel::N,лув,szárny
+146,Klaue::N,къармах,köröm
+147,Kralle::N,пац,karom
+148,Kralle::N,тапас,karom
+149,Schwanz::N,ттум,farok
+150,Ei::N,кака,tojás
+151,Nest::N,муг,fészek
+152,Bau::N,тӏеквен,odú
+153,Tier::N,гьайван,állat
+154,Herde::N,суьруь,nyáj
+155,Herde::N,суьруь,csorda
+156,Kuh::N,ккал,tehén
+157,Bulle::N,яц,bika
+158,Bulle::N,бугъа,bika
+159,Pferd::N,балкӏан,ló
+160,Schaf::N,хеб,juh
+161,Schaf::N,хеб,birka
+162,Schwein::N,вак,sertés
+163,Hund::N,кицӏ,eb
+164,Hund::N,кицӏ,kutya
+165,Katze::N,кац,macska
+166,Bär::N,сев,medve
+167,Eichhörnchen::N,белка,mókus
+168,Elch::N,лось,jávorszarvas
+169,Fuchs::N,сикӏ,róka
+170,Hase::N,къуьр,nyúl
+171,Maus::N,кьиф,egér
+172,Wolf::N,жанавур,farkas
+173,Vogel::N,луван ничхир,madár
+174,Schwarm::N,луж,raj
+175,Huhn::N,верч,tyúk
+176,Hahn::N,кӏек,kakas
+177,Gans::N,къаз,lúd
+178,Gans::N,къаз,liba
+179,Adler::N,лекь,sas
+180,Ente::N,пӏатӏ,kacsa
+181,Eule::N,тӏиб,bagoly
+182,Kranich::N,дурна,daru
+183,Krähe::N,къаргъа,varjú
+184,Kuckuck::N,кукупӏ,kakukk
+185,Schwan::N,къугь,hattyú
+186,Fisch::N,гъед,hal
+187,Barsch::N,окунь,sügér
+188,Hecht::N,щука,csuka
+189,Schlange[Tier]::N,илан,kígyó
+190,Schlange[Tier]::N,гъуьлягъ,kígyó
+191,Wurm::N,квак,kukac
+192,Spinne::N,хуьшрекан,pók
+193,Ameise::N,цегв,hangya
+194,Laus::N,нет,tetű
+195,Mücke::N,ветӏ,szúnyog
+196,Fliege::N,тӏветӏ,légy
+197,Schmetterling::N,чепелукь,lepke
+198,Schmetterling::N,чепелукь,pillangó
+199,Beere::N,куьлуь емиш,bogyó
+200,Apfel::N,ич,alma
+201,Pilz::N,къарникъуз,gomba
+202,Zwiebel::N,чичӏек,hagyma
+203,Saat::N,тумар,vetőmag
+204,Korn::N,твар,mag
+205,Korn::N,твар,szem
+206,Heu::N,векь,széna
+207,Heu::N,векьер,széna
+208,Schale::N,пириш,héj
+209,Schale::N,хъуьруьш,héj
+210,Grube::N,фур,verem
+211,Falle::N,ракьар,csapda
+212,Schlinge::N,гьалкъа,tőr
+213,Spur::N,гел,nyom
+214,Asche::N,руьхъ,hamu
+215,Dreck::N,чирк,sár
+216,Dreck::N,чирк,piszok
+217,Dreck::N,кьуруш,sár
+218,Dreck::N,кьуруш,piszok
+219,Eisen::N,ракь,vas
+220,Gold::N,алтун,arany
+221,Silber::N,гимиш,ezüst
+222,Kohle::N,цӏивин,szén
+223,Glas::N,шуьше,üveg
+224,Lehm::N,ччеб,agyag
+225,Lehm::N,ччеб,vályog
+226,Sand::N,къум,homok
+227,Mensch::N,инсан,ember
+228,Mann::N,итим,úr
+229,Mann::N,итим,férfi
+230,Frau::N,паб,nő
+231,Frau::N,паб,asszony
+232,Frau::N,дишегьли,nő
+233,Frau::N,дишегьли,asszony
+234,Kind::N,аял,gyerek
+235,Kind::N,аял,gyermek
+236,Junge::N,гада,fiú
+237,Mädchen::N,руш,lány
+238,Familie::N,хзан,család
+239,Familie::N,килфет,család
+240,Großvater::N,чӏехи буба,nagyapa
+241,Großmutter::N,чӏехи диде,nagyanya
+242,Eltern::N,диде-буба,szülők
+243,Vater::N,буба,apa
+244,Vater::N,буба,atya
+245,Mutter::N,диде,anya
+246,Sohn::N,хва,fiú
+247,Tochter::N,руш,lány
+248,Bruder::N,стха,fivér
+249,Bruder::N,стха,testvér
+250,Schwester::N,вах,nővér
+251,Schwester::N,вах,lánytestvér
+252,Onkel::N,ими,nagybácsi
+253,Onkel::N,халу,nagybácsi
+254,Tante::N,эме,nagynéni
+255,Tante::N,хала,nagynéni
+256,Ehemann::N,гъуьл,férj
+257,Ehefrau::N,паб,feleség
+258,Freude::N,шадвал,öröm
+259,Gelächter::N,хъвер,nevetés
+260,Gelächter::N,хъвер,hahotázás
+261,Glück::N,бахт,boldogság
+262,Kummer::N,дерт,bánat
+263,Kummer::N,хажалат,bánat
+264,Wunsch::N,мурад,óhaj
+265,Lust::N,гьевес,kedv
+266,Geist::N,руьгь,elme
+267,Geist::N,руьгь,szellem
+268,Gedanke::N,фикир,gondolat
+269,Verstand::N,акьул,ész
+270,Verstand::N,акьул,értelem
+271,Sinn::N,мана,értelem
+272,Grund::N,себеб,ok
+273,Grund::N,себеб,alap
+274,Wahrheit::N,керчек,igaz
+275,Wahrheit::N,керчек,igazság
+276,Wahrheit::N,гьакъикъат,igaz
+277,Wahrheit::N,гьакъикъат,igazság
+278,Gespräch::N,ихтилат,beszélgetés
+279,Märchen::N,мах,mese
+280,Erzählung::N,кьиса,elbeszélés
+281,Nachricht::N,хабар,hír
+282,Nachricht::N,хабар,híradás
+283,Neuigkeit::N,цӏийи хабар,újság
+284,Name::N,тӏвар,név
+285,Rätsel::N,мискӏал,rejtvény
+286,Rede::N,рахун,beszéd
+287,Rede::N,рахун,szónoklat
+288,Sprache::N,чӏал,nyelv
+289,Stimme::N,ван,hang
+290,Wort::N,гаф,szó
+291,Zeichen::N,ишара,jel
+292,Ruf::N,эвер,kiáltás
+293,Lärm::N,ван-сес,zaj
+294,Laut::N,ван,hang
+295,Laut::N,сес,hang
+296,Ton::N,ван-сес,hang
+297,Lied::N,мани,dal
+298,Lied::N,мани,ének
+299,Ruhe::N,ласвал,csend
+300,Ruhe::N,ласвал,nyugalom
+301,Ruhe::N,фаракъат,csend
+302,Ruhe::N,фаракъат,nyugalom
+303,Ruhe::N,асайиш,csend
+304,Ruhe::N,асайиш,nyugalom
+305,Leute::N,инсанар,emberek
+306,Volk::N,халкь,nép
+307,Arbeit::N,кӏвалах,dolog
+308,Gast::N,мугьман,vendég
+309,Geschenk::N,савкьат,ajándék
+310,Spiel::N,къугъун,játék
+311,Gesellschaft::N,жемят,társaság
+312,Gesellschaft::N,общество,társaság
+313,Hilfe::N,куьмек,segítség
+314,Freund::N,дуст,barát
+315,Kamerad::N,яр-дуст,társ
+316,Angelegenheit::N,кар,ügy
+317,Anzahl::N,сан,szám
+318,Anzahl::N,кьадар,szám
+319,Art::N,жуьре,faj
+320,Art::N,жуьре,fajta
+321,Stück::N,кӏус,darab
+322,Teil::N,пай,rész
+323,Hälfte::N,зур,fél
+324,Hälfte::N,зур пай,fél
+325,Kreis::N,круг,kör
+326,Kreis::N,чкаяр,kör
+327,Kreis::N,элкъвей цӏар,kör
+328,Kreuz::N,хаш,kereszt
+329,Linie::N,цӏар,vonal
+330,Strich::N,цӏар,vonás
+331,Abstand::N,ара,köz
+332,Entfernung::N,мензил,távolság
+333,Gegend::N,чка,táj
+334,Gegend::N,чка,vidék
+335,Platz::N,ара,hely
+336,Ort::N,чка,hely
+337,Seite::N,пад,fél
+338,Seite::N,пад,oldal
+339,Mitte::N,юкь,közép
+340,Gegenstand::N,затӏ,tárgy
+341,Sache::N,шей,dolog
+342,Sache::N,затӏ,dolog
+343,Rand::N,къерех,szél
+344,Rand::N,къерех,perem
+345,Rand::N,къерех,szegély
+346,Kante::N,син,él
+347,Ecke::N,пӏипӏ,sarok
+348,Ecke::N,пӏипӏ,szöglet
+349,Spitze::N,кӏвенкӏв,csúcs
+350,Ende::N,кьил,vég
+351,Loch::N,тӏеквен,lyuk
+352,Winkel::N,пӏипӏ,szög
+353,Muster::N,гишир,minta
+354,Größe::N,кьадар,nagyság
+355,Länge::N,яргъивал,hossz
+356,Länge::N,яргъивал,hosszúság
+357,Höhe::N,кьакьанвал,magasság
+358,Gewicht::N,заланвал,súly
+359,Menge::N,кьадар,sokaság
+360,Menge::N,кьадар,mennyiség
+361,Haufen::N,хара,halom
+362,Reihe::N,жерге,sor
+363,Boot::N,луьткве,csónak
+364,Ruder::N,кьусу,evező
+365,Schlitten::N,гъелерар,szánkó
+366,Lagerfeuer::N,цӏай,tábortűz
+367,Last::N,заланвал,teher
+368,Gang::N,ериш,járás
+369,Schritt::N,къадам,lépés
+370,Norden::N,кефер,észak
+371,Norden::N,кефер пад,észak
+372,Süden::N,кьибле,dél
+373,Westen::N,рагъакӏидай пад,nyugat
+374,Osten::N,рагъэкъечӏдай пад,kelet
+375,Holz::N,кӏарас,fa
+376,Brett::N,кьул,deszka
+377,Brett::N,тахта,deszka
+378,Stütze::N,даях,támasz
+379,Stütze::N,даях,támaszték
+380,Stange::N,юрк,rúd
+381,Stange::N,юрк,pózna
+382,Stock::N,лаш,pálca
+383,Stab::N,юрк,bot
+384,Rohr::N,турба,cső
+385,Haus::N,ужагъ,ház
+386,Heim::N,кӏвал,otthon
+387,Ofen::N,пич,kályha
+388,Fußboden::N,кӏвалин ччил,padló
+389,Tisch::N,стол,asztal
+390,Stuhl::N,стул,szék
+391,Wiege::N,кьеб,bölcső
+392,Bett::N,тахт,ágy
+393,Regal::N,кьацӏ,polc
+394,Regal::N,кьацӏ,állvány
+395,Kiste::N,ящик,láda
+396,Fenster::N,дакӏар,ablak
+397,Tür::N,рак,ajtó
+398,Tor::N,варар,kapu
+399,Zaun::N,пару,kerítés
+400,Dach::N,къав,tető
+401,Leiter::N,гурар,létra
+402,Besen::N,таран кул,seprű
+403,Spaten::N,ппер,ásó
+404,Schaufel::N,хекендаз,lapát
+405,Gabel::N,шиш,villa
+406,Löffel::N,тӏур,kanál
+407,Messer::N,чукӏул,kés
+408,Nagel::N,мих,szeg
+409,Netz::N,чил,háló
+410,Haken::N,къармах,kampó
+411,Griff::N,ттум,nyél
+412,Griff::N,ттум,fogantyú
+413,Schloss::N,куьлег,zár
+414,Bild::N,шикил,kép
+415,Bild::N,суьрет,kép
+416,Figur::N,фигура,alak
+417,Puppe::N,нини,bábu
+418,Beutel::N,тагъар,zacskó
+419,Bündel::N,галгам,köteg
+420,Tasche::N,чанта,táska
+421,Eimer::N,ведре,vödör
+422,Deckel::N,кьил,fedő
+423,Deckel::N,кьил,fedél
+424,Deckel::N,къалпагъ,fedő
+425,Deckel::N,къалпагъ,fedél
+426,Geschirr::N,къаб-къажах,edény
+427,Sack::N,чувал,zsák
+428,Tasse::N,сукӏра,csésze
+429,Topf::N,къажгъан,fazék
+430,Kessel::N,къажгъан,üst
+431,Kessel::N,къажгъан,bogrács
+432,Essen::N,тӏуьн,evés
+433,Essen::N,тӏуьн,étkezés
+434,Nahrung::N,тӏуьн,ennivaló
+435,Speise::N,хуьрек,étel
+436,Fleisch::N,як,hús
+437,Getreide::N,техил,gabona
+438,Brei::N,хапӏа,pép
+439,Brei::N,хапӏа,kása
+440,Brei::N,хешил,pép
+441,Brei::N,хешил,kása
+442,Brot::N,фу,kenyér
+443,Scheibe::N,чӏук,szelet
+444,Fett::N,ягълу,háj
+445,Fett::N,ягълу,zsír
+446,Butter::N,гъери,vaj
+447,Öl::N,ягълу,olaj
+448,Salz::N,кьел,só
+449,Suppe::N,суп,leves
+450,Suppe::N,шурпа,leves
+451,Honig::N,вирт,méz
+452,Milch::N,нек,tej
+453,Tee::N,чай,tea
+454,Leder::N,тумаж,bőr
+455,Wolle::N,йис,gyapjú
+456,Stoff::N,парча,szövet
+457,Nadel::N,раб,tű
+458,Faden::N,гъал,fonál
+459,Knopf::N,дуьгме,gomb
+460,Knoten::N,тӏвал,csomó
+461,Farbe::N,ранг,szín
+462,Farbe::N,ранг,festék
+463,Kleidung::N,партал,ruha
+464,Kleidung::N,партал,ruházat
+465,Hemd::N,перем,ing
+466,Kragen::N,хев,gallér
+467,Ärmel::N,хел,ujj
+468,Hose::N,шалвар,gatya
+469,Hose::N,шалвар,nadrág
+470,Gürtel::N,чӏул,öv
+471,Mütze::N,бармак,sapka
+472,Mütze::N,бапӏах,sapka
+473,Schuh::N,ботинка,cipő
+474,Stiefel::N,чекме,csizma
+475,Ring::N,тупӏал,gyűrű
+476,Band::N,тасма,szalag
+477,Kamm::N,регъ,fésű
+478,Spiegel::N,гуьзгуь,tükör
+479,Riemen::N,къайиш,szíj
+480,Schnur::N,еб,zsinór
+481,Decke::N,яргъан,takaró
+482,Kissen::N,хъуьцуьган,párna
+483,Tuch::N,шал,kendő
+484,Handtuch::N,дасмал,törülköző
+485,Kraft::N,гуж,erő
+486,Stärke::N,къуват,erő
+487,Stärke::N,къуват,erősség
+488,Gesundheit::N,сагъвал,egészség
+489,Krankheit::N,тӏал,kór
+490,Krankheit::N,тӏал,betegség
+491,Schmerz::N,тӏал,fájdalom
+492,Schmerz::N,тӏарвал,fájdalom
+493,Wunde::N,хер,seb
+494,Fieber::N,ифин,láz
+495,Arznei::N,дарман,orvosság
+496,Arznei::N,дарман,gyógyszer
+497,Brücke::N,муьгъ,híd
+498,Brunnen::N,къуй,kút
+499,Weide::N,уьруьш,legelő
+500,Pfad::N,рехъ,ösvény
+501,Weg::N,рехъ,út
+502,Straße::N,рехъ,út
+503,Dorf::N,хуьр,falu
+504,Stadt::N,шегьер,város
+505,Brief::N,кагъаз,levél
+506,Buch::N,улуб,könyv
+507,Buchstabe::N,гьарф,betű
+508,Zeitung::N,газета,újság
+509,Zeitung::N,газета,hírlap
+510,Leben::N,уьмуьр,élet
+511,Tod::N,кьиникь,halál
+512,Grab::N,сур,sír
+513,Kirche::N,килиса,templom
+514,Sünde::N,гунагь,bűn
+515,Sünde::N,гунагь,vétek
+516,Gott::N,аллагь,isten
+517,Arbeiter::N,фяле,munkás
+518,Chef::N,гьаким,főnök
+519,Meister::N,устӏар,mester
+520,Arzt::N,доктор,orvos
+521,Lehrer::N,муаллим,tanár
+522,Lehrer::N,муаллим,tanító
+523,Geld::N,пул,pénz
+524,Laden::N,магазин,bolt
+525,Preis::N,къимет,ár
+526,Ware::N,мал,áru
+527,Ware::N,товар,áru
+528,Nutzen::N,хийир,haszon
+529,Nutzen::N,менфят,haszon
+530,Reichtum::N,девлет,gazdagság
+531,Welt::N,дуьнья,világ
+532,Land::N,уьлкве,ország
+533,Staat::N,пачагьлугъ,állam
+534,Staat::N,государство,állam
+535,König::N,пачагь,király
+536,Macht::N,власть,hatalom
+537,Grenze::N,сергьят,határ
+538,Krieg::N,дяве,háború
+539,Feind::N,душман,ellenség
+540,Gewalt::N,гуж,erőszak
+541,Kampf::N,женг,harc
+542,Bogen[Waffe]::N,чӏемерук,íj
+543,Pfeil::N,хьел,nyíl
+544,Gewehr::N,тфенг,puska
+545,Gewehr::N,тфенг,fegyver
+546,Fehler::N,гъалатӏ,hiba
+547,Lüge::N,ттаб,hazugság
+548,Schaden::N,зиян,kár
+549,Schaden::N,зарар,kár
+550,Unglück::N,бала,csapás
+551,Unglück::N,бала,balszerencse
+552,Unglück::N,бедбахтвал,csapás
+553,Unglück::N,бедбахтвал,balszerencse
+554,Schuld::N,тахсир,bűn
+555,Alter::N,яш,kor
+556,Schluss::N,эхир,vég
+557,Schluss::N,эхир,befejezés
+558,Zeit::N,вяде,idő
+559,Tag::N,югъ,nap
+560,Morgen::N,пакама,reggel
+561,Mittag::N,нисин,dél
+562,Abend::N,няни,este
+563,Nacht::N,йиф,éj
+564,Nacht::N,йиф,éjszaka
+565,Woche::N,гьафте,hét
+566,Monat::N,варз,hó
+567,Monat::N,варз,hónap
+568,Jahr::N,йис,év
+569,Frühling::N,гатфар,tavasz
+570,Sommer::N,гад,nyár
+571,Herbst::N,зул,ősz
+572,Winter::N,кьуьд,tél
+573,Januar::N,январь,január
+574,Februar::N,февраль,február
+575,März::N,март,március
+576,April::N,апрель,április
+577,Mai::N,май,május
+578,Juni::N,июнь,június
+579,Juli::N,июль,július
+580,August::N,август,augusztus
+581,September::N,сентябрь,szeptember
+582,Oktober::N,октябрь,október
+583,November::N,ноябрь,november
+584,Dezember::N,декабрь,december
+585,Montag::N,ислен,hétfő
+586,Dienstag::N,саласа,kedd
+587,Mittwoch::N,арбе,szerda
+588,Donnerstag::N,хемис югъ,csütörtök
+589,Freitag::N,жуьмя,péntek
+590,Freitag::N,жуьмя югъ,péntek
+591,Samstag::N,киш,szombat
+592,Sonntag::N,гьяд,vasárnap
+593,groß::A,еке,nagy
+594,groß::A,чӏехи,nagy
+595,klein::A,гъвечӏи,pici
+596,klein::A,гъвечӏи,kicsi
+597,lang::A,яргъи,hosszú
+598,kurz::A,куьруь,rövid
+599,breit::A,гьяркьуь,széles
+600,schmal::A,гуьтӏуь,keskeny
+601,dicht::A,къалин,sűrű
+602,dünn::A,кьелечӏ,vékony
+603,fein::A,шуькӏуь,vékony
+604,fest::A,кӏеви,szilárd
+605,flach::A,кьулу,sík
+606,flach::A,кьулу,lapos
+607,glatt::A,цӏалцӏам,sima
+608,hart::A,кӏеви,kemény
+609,weich::A,хъуьтуьл,puha
+610,rund::A,элкъвей,kerek
+611,spitz::A,хци,hegyes
+612,scharf::A,хци,éles
+613,stumpf::A,къуьруь,tompa
+614,stumpf::A,къуьруь,életlen
+615,schwer::A,залан,nehéz
+616,schwer::A,залан,súlyos
+617,schön::A,иер,szép
+618,heiß::A,кудай,forró
+619,warm::A,чими,meleg
+620,kalt::A,мекьи,hideg
+621,kühl::A,къайи,hűs
+622,kühl::A,къайи,hűvös
+623,frisch::A,таза,üde
+624,frisch::A,таза,friss
+625,frisch::A,михьи,üde
+626,frisch::A,михьи,friss
+627,feucht::A,ламу,nedves
+628,nass::A,кьежей,vizes
+629,trocken::A,кьуру,száraz
+630,voll::A,ацӏай,telt
+631,leer::A,буш,üres
+632,leer::A,ичӏи,üres
+633,offen::A,ахъа,nyílt
+634,offen::A,ахъа,nyitott
+635,geschlossen::A,кӏеви,zárt
+636,geschlossen::A,кӏеви,csukott
+637,sauber::A,михьи,tiszta
+638,schmutzig::A,чиркин,piszkos
+639,schmutzig::A,чиркин,szennyes
+640,schmutzig::A,кьацӏай,piszkos
+641,schmutzig::A,кьацӏай,szennyes
+642,roh::A,чиг,nyers
+643,roh::A,ицӏи,nyers
+644,reif::A,дигмиш хьайи,érett
+645,lecker::A,дадлу,finom
+646,süß::A,ширин,édes
+647,bitter::A,туькьуьл,keserű
+648,sauer::A,цуру,savanyú
+649,hell::A,экуь,világos
+650,dunkel::A,мичӏи,sötét
+651,schwarz::A,чӏулав,fekete
+652,weiß::A,лацу,fehér
+653,rot::A,яру,vörös
+654,gelb::A,хъипи,sárga
+655,blau::A,вили,kék
+656,grün::A,къацу,zöld
+657,grau::A,рехи,ősz
+658,grau::A,рехи,szürke
+659,bunt::A,цӏару,tarka
+660,bunt::A,цӏару,színes
+661,bunt::A,яру-цӏару,tarka
+662,bunt::A,яру-цӏару,színes
+663,billig::A,ужуз,olcsó
+664,teuer::A,багьа,drága
+665,wertvoll::A,масан,értékes
+666,blind::A,буьркьуь,vak
+667,taub::A,биши,süket
+668,kräftig::A,гужлу,erős
+669,stark::A,къуватлу,erős
+670,schwach::A,такьатсуз,gyenge
+671,schwach::A,такьатсуз,erőtlen
+672,fett::A,куьк,hájas
+673,schlank::A,шумал,karcsú
+674,hübsch::A,гуьрчег,csinos
+675,böse::A,пис,rossz
+676,böse::A,пис,gonosz
+677,dumm::A,ахмакь,buta
+678,dumm::A,ахмакь,ostoba
+679,faul::A,тенпел,lusta
+680,fleißig::A,сяй ийидай,szorgalmas
+681,fleißig::A,сяйи ийидай,szorgalmas
+682,geizig::A,мискьи,fukar
+683,geizig::A,мискьи,fösvény
+684,klug::A,акьуллу,okos
+685,klug::A,акьуллу,eszes
+686,geschickt::A,магьир,ügyes
+687,lieb::A,играми,drága
+688,lieb::A,играми,kedves
+689,lustig::A,шад,víg
+690,lustig::A,шад,vidám
+691,sanft::A,назик,enyhe
+692,sanft::A,милайим,enyhe
+693,hungrig::A,гишин,éhes
+694,krank::A,кефсуз,beteg
+695,nackt::A,кьецӏил,csupasz
+696,nackt::A,кьецӏил,meztelen
+697,traurig::A,пашман,bús
+698,traurig::A,пашман,szomorú
+699,lebendig::A,ччан алай,élő
+700,gut::A,хъсан,jó
+701,gut::A,вижевай,jó
+702,schlecht::A,пис,rossz
+703,richtig::A,дуьз,helyes
+704,schlimm::A,нифретлу,rossz
+705,wahr::A,гьакъикъи,igaz
+706,alt::A,эски,ó
+707,alt::A,эски,régi
+708,alt::A,куьгьне,ó
+709,alt::A,куьгьне,régi
+710,neu::A,цӏийи,új
+711,ehemalig::A,виликан,volt
+712,ehemalig::A,виликан,egykori
+713,alt[Lebewesen]::A,кьуьзуь,öreg
+714,jung::A,жегьил,fiatal
+715,arm::A,кесиб,szegény
+716,reich::A,девлетлу,gazdag
+717,bekannt::A,чидай,ismert
+718,bekannt::A,чидай,ismeretes
+719,berühmt::A,машгьур,híres
+720,fremd::A,ччара,idegen
+721,verschieden::A,жуьреба-жуьре,különböző
+722,nah::A,мукьвал,közeli
+723,fern::A,яргъал,távoli
+724,linker::A,чапла,bal
+725,rechter::A,эрчӏи,jobb
+726,anderer::A,маса,más
+727,anderer::A,маса,másik
+728,anderer::A,муькуь,más
+729,anderer::A,муькуь,másik
+730,erster::A,сад лагьай,első
+731,zweiter::A,кьвед лагьай,második
+732,dritter::A,пуд лагьай,harmadik
+733,letzter::A,эхиримжи,utolsó
+734,allein::ADV,кьилди,egyedül
+735,zusammen::ADV,санал,együtt
+736,zusammen::ADV,санал,összesen
+737,lange::ADV,яргъалди,sokáig
+738,lange::ADV,яргъалди,hosszan
+739,plötzlich::ADV,садлагьана,hirtelen
+740,plötzlich::ADV,садлагьана,egyszerre
+741,sofort::ADV,гьасятда,rögtön
+742,sofort::ADV,гьасятда,tüstént
+743,später::ADV,гуьгъуьнлай,későn
+744,jetzt::ADV,гила,most
+745,heute::ADV,къе,ma
+746,morgen::ADV,пака,holnap
+747,bald::ADV,мукьва,majd
+748,bald::ADV,мукьва,nemsokára
+749,bald::ADV,мукьвара,majd
+750,bald::ADV,мукьвара,nemsokára
+751,dann::ADV,ахпа,akkor
+752,gestern::ADV,накь,tegnap
+753,einst::ADV,садра,hajdan
+754,damals::ADV,а чӏавуз,akkor
+755,damals::ADV,а чӏавуз,akkoriban
+756,danach::ADV,ахпа,azután
+757,vorher::ADV,вилик,előbb
+758,zuerst::ADV,сифте,először
+759,einmal::ADV,садра,egyszer
+760,manchmal::ADV,гагь-гагь,néha
+761,manchmal::ADV,гагь-гагь,olykor
+762,oft::ADV,гзаф вахтара,sokszor
+763,immer::ADV,гьамиша,mindig
+764,niemals::ADV,са чӏавузни,sohasem
+765,niemals::ADV,са вахтундани,sohasem
+766,hier::ADV,ина,itt
+767,hierhin::ADV,иниз,erre
+768,von hier::ADV,инай,innen
+769,dort::ADV,ана,ott
+770,dorthin::ADV,аниз,oda
+771,geradeaus::ADV,дуьз,egyenesen
+772,vorwärts::ADV,вилик,előre
+773,vorwärts::ADV,виликди,előre
+774,rückwärts::ADV,кьулухъ,hátrafelé
+775,unten::ADV,агъада,alul
+776,hinab::ADV,агъуз,le
+777,hinab::ADV,агъуз,lefelé
+778,oben::ADV,винел,fenn
+779,oben::ADV,винел,felül
+780,hinauf::ADV,виниз,fel
+781,hinauf::ADV,виниз,felfelé
+782,überall::ADV,вирина,mindenütt
+783,nicht::ADV,ваъ,nem
+784,ein wenig::ADV,са тӏимил,egy kicsit
+785,kaum::ADV,жизви,alig
+786,sehr::ADV,лап,nagyon
+787,so::ADV,икӏ,úgy
+788,noch::ADV,гьеле,még
+789,nur::ADV,анжах,csak
+790,nur::ADV,анжах,csupán
+791,schon::ADV,хъувуна,már
+792,schon::ADV,мадни дардиз,már
+793,schon::ADV,мадни гуьтӏуьз,már
+794,schon::ADV,мадни гуьтӏуь я,már
+795,vergebens::ADV,нагьакь,hiába
+796,vergebens::ADV,нагьакьа,hiába
+797,vor::PRP,вилик,előtt
+798,hinter::PRP,кьулухъ,mögött
+799,unter::PRP,кӏаник,alatt
+800,durch::PRP,арадай,át
+801,durch::PRP,арадай,keresztül
+802,durch::PRP,-кай хкатна,át
+803,durch::PRP,-кай хкатна,keresztül
+804,neben::PRP,патав,mellett
+805,neben::PRP,мукьув,mellett
+806,zwischen::PRP,ара,között
+807,zwischen::PRP,арада,között
+808,wegen::PRP,гъиляй,miatt
+809,wegen::PRP,гъиляй,végett
+810,dies::PRN,и,ez
+811,dies::PRN,им,ez
+812,das::PRN,а,az
+813,das::PRN,ам,az
+814,alles::PRN,вири,minden
+815,alles::PRN,михьиз,minden
+816,ich::PRN,за,én
+817,ich::PRN,зун,én
+818,du::PRN,вун,te
+819,er::PRN,ам,ő
+820,er::PRN,гьа,ő
+821,wir::PRN,чун,mi
+822,ihr::PRN,куьн,ti
+823,sie::PRN,абур,ők
+824,was::FPRN,вуч,mi
+825,wer::FPRN,вуж,ki
+826,wo::FADV,гьина,hol
+827,wohin::FADV,гьиниз,hova
+828,wie::FADV,гьикӏ,hogy
+829,wie::FADV,гьикӏ,hogyan
+830,warum::FADV,вучиз,miért
+831,wieviel::FNUM,шумуд,hány
+832,wieviel::FNUM,шумуд,mennyi
+833,eins::NUM,са,egy
+834,zwei::NUM,кьвед,kettő
+835,drei::NUM,пуд,három
+836,vier::NUM,кьуд,négy
+837,fünf::NUM,вад,öt
+838,sechs::NUM,ругуд,hat
+839,sieben::NUM,ирид,hét
+840,acht::NUM,муьжуьд,nyolc
+841,neun::NUM,кӏуьд,kilenc
+842,zehn::NUM,цӏуд,tíz
+843,elf::NUM,цӏусад,tizenegy
+844,zwölf::NUM,цӏикьвед,tizenkettő
+845,zwanzig::NUM,къад,húsz
+846,dreißig::NUM,къанницӏуд,harminc
+847,vierzig::NUM,яхцӏур,negyven
+848,fünfzig::NUM,яхцӏурни цӏуд,ötven
+849,sechzig::NUM,пудкъад,hatvan
+850,siebzig::NUM,пудкъанни цӏуд,hetven
+851,achtzig::NUM,кьудкъад,nyolcvan
+852,neunzig::NUM,кьудкъанни цӏуд,kilencven
+853,hundert::NUM,виш,száz
+854,tausend::NUM,агъзур,ezer
+855,und::CNJ,ва,és
+856,und::CNJ,ва,meg
+857,oder::CNJ,я,vagy
+858,stehen::V,акъвазун,áll
+859,sitzen::V,ацукьун,ül
+860,liegen::V,къаткун,fekszik
+861,hängen::V,куьрс хьун,függ
+862,werden::V,хьун,lesz
+863,passieren::V,хьун,történik
+864,beginnen::V,башламиш хьун,kezdődik
+865,enden::V,куьтягь хьун,végződik
+866,enden::V,куьтягь хьун,befejeződik
+867,wechseln::V,дегиш хьун,változik
+868,aufgehen[Sonne]::V,экъечӏун,kel
+869,untergehen[Sonne]::V,акӏун,lemegy
+870,scheinen[Sonne]::V,ишигь гун,süt
+871,donnern::V,къукърумар авун,dörög
+872,strömen::V,авахьун,áramlik
+873,fließen::V,авахьун,folyik
+874,sich drehen::V,элкъуьн,forog
+875,schwanken::V,юзун,inog
+876,schwanken::V,юзун,ingadozik
+877,schwingen::V,галтад хьун,leng
+878,fallen::V,аватун,esik
+879,brennen::V,кун,ég
+880,brennen::V,ккун,ég
+881,regnen::V,къун,esik
+882,gefrieren::V,муркӏади кьун,megfagy
+883,tauen::V,цӏурун,olvad
+884,schmelzen::V,цӏурун,olvad
+885,schmelzen::V,цӏурун,elolvad
+886,trocknen::V,кьурун,szárad
+887,sieden::V,ругун,forr
+888,faulen::V,кутӏун,rothad
+889,verfaulen::V,чуьруьтмиш хьун,elrothad
+890,verfaulen::V,чуьруьтмиш хьун,megrothad
+891,verfaulen::V,кутӏун,elrothad
+892,verfaulen::V,кутӏун,megrothad
+893,reißen::V,атӏун,szakad
+894,reißen::V,къазунун,szakad
+895,versinken::V,батмиш хьун,süllyed
+896,versinken::V,батмиш хьун,elsüllyed
+897,vergehen::V,алатун,múlik
+898,vergehen::V,алатун,elmúlik
+899,erscheinen::V,майдандиз акъатун,feltűnik
+900,erscheinen::V,майдандиз акъатун,megjelenik
+901,verschwinden::V,квахьун,letűnik
+902,sinken::V,элекьун,süllyed
+903,abnehmen::V,тӏимил хьун,apad
+904,abnehmen::V,тӏимил хьун,csökken
+905,abnehmen::V,гъвечӏи хьун,apad
+906,abnehmen::V,гъвечӏи хьун,csökken
+907,zunehmen::V,артух хьун,növekszik
+908,zunehmen::V,артух хьун,gyarapszik
+909,steigen::V,хкаж хьун,emelkedik
+910,wachsen::V,экъечӏун,nő
+911,wachsen::V,экъечӏун,terem
+912,wachsen::V,экъечӏун,növekszik
+913,glänzen::V,цӏарцӏар гун,ragyog
+914,glänzen::V,цӏарцӏар гун,fénylik
+915,funkeln::V,нур гун,csillog
+916,funkeln::V,нур гун,tündöklik
+917,lärmen::V,ван авун,lármázik
+918,läuten::V,зенг ягъун,cseng
+919,klingeln::V,зенг ягъун,csenget
+920,klirren::V,зигринг авун,csörömpöl
+921,brausen::V,къати хьун,zúg
+922,brausen::V,къати хьун,morajlik
+923,rauschen::V,вишриш авун,zúg
+924,klingen::V,ван авун,hangzik
+925,bellen::V,элуькьун,ugat
+926,heulen::V,къув ягъун,bőg
+927,heulen::V,къув ягъун,üvölt
+928,blasen::V,уф гун,fúj
+929,pfeifen::V,уьфт ягъун,fütyül
+930,schreien::V,гьараюн,kiált
+931,schreien::V,гьараюн,kiabál
+932,stöhnen::V,суза авун,nyög
+933,zittern::V,зурзун,remeg
+934,zittern::V,зурзун,reszket
+935,leben::V,яшамиш хьун,él
+936,geboren werden::V,хьун,születik
+937,atmen::V,нефес чӏугун,lélegzik
+938,trinken::V,хъун,iszik
+939,essen::V,тӏуьн,eszik
+940,schlucken::V,туькьуьнун,nyel
+941,müde werden::V,галатун,elfárad
+942,müde werden::V,галатун,kifárad
+943,müde werden::V,юргъун хьун,elfárad
+944,müde werden::V,юргъун хьун,kifárad
+945,einschlafen::V,ксун,elalszik
+946,schlafen::V,ксун,alszik
+947,aufwachen::V,ахварай аватун,felébred
+948,aufstehen::V,къарагъун,felkel
+949,sich erholen::V,ял ягъун,pihen
+950,krank werden::V,кефсуз хьун,megbetegedik
+951,krank werden::V,кефсуз хьун,belebetegszik
+952,krank sein::V,тӏа хьун,betegeskedik
+953,schmerzen::V,тӏа хьун,fáj
+954,husten::V,уьгьуь ягъун,köhög
+955,genesen::V,сагъ хъхьун,meggyógyul
+956,sterben::V,кьин,hal
+957,umkommen::V,терг хьун,elpusztul
+958,sich bewegen::V,юзун,mozog
+959,sich rühren::V,юзун,mozdul
+960,sich erheben::V,къарагъун,feláll
+961,sich erheben::V,къарагъун,felemelkedik
+962,sich setzen::V,ацукьун,ül
+963,sich setzen::V,ацукьун,leül
+964,hinfallen::V,алукьун,bukik
+965,hinfallen::V,алукьун,elesik
+966,laufen::V,къекъуьн,jár
+967,schreiten::V,ккамар къачун,lép
+968,spazierengehen::V,сейр авун,sétál
+969,eilen::V,тади авун,siet
+970,sich beeilen::V,гьерекатун,siet
+971,sausen::V,чкурун,robog
+972,rennen::V,катун,fut
+973,rennen::V,катун,szalad
+974,rennen::V,зверун,fut
+975,rennen::V,зверун,szalad
+976,springen::V,хкадарун,ugrik
+977,klettern::V,акьахун,kúszik
+978,kriechen::V,капаралди фин,kúszik
+979,schwimmen::V,сирнав авун,úszik
+980,tauchen::V,кьилихъди циз вегьин,merül
+981,rudern::V,кьусуйралди лодка гьалун,evez
+982,rudern::V,цуьруьгъуьлдалди кӏватӏун,evez
+983,fahren::V,фин,jár
+984,fahren::V,фин,megy
+985,fahren::V,фин,utazik
+986,fliegen::V,лув гун,száll
+987,fliegen::V,цавай фин,száll
+988,gehen::V,фин,megy
+989,weggehen::V,хъфин,elmegy
+990,abfahren::V,фин,indul
+991,abfahren::V,рекье гьатун,indul
+992,anhalten::V,акъвазун,megáll
+993,hineingehen::V,гьахьун,bemegy
+994,eintreten::V,гьахьун,belép
+995,kommen::V,атун,jön
+996,ankommen::V,атун,érkezik
+997,ankommen::V,атун,megérkezik
+998,zurückkommen::V,хтун,visszajön
+999,bleiben::V,амукьун,marad
+1000,bleiben::V,амукьун,megmarad
+1001,warten::V,гуьзлемишун,vár
+1002,warten::V,гуьзлемишун,várakozik
+1003,erwarten::V,вил алаз акъвазун,vár
+1004,erwarten::V,вил алаз акъвазун,megvár
+1005,suchen::V,къекъуьн,kutat
+1006,finden::V,жугъун,talál
+1007,versuchen::V,алахъун,megpróbál
+1008,versuchen::V,алахъун,megkísérel
+1009,vorbereiten::V,гьазурун,előkészít
+1010,lieben::V,кӏан хьун,szeret
+1011,mögen::V,рикӏ ацукьун,szeret
+1012,lachen::V,хъуьруьн,nevet
+1013,weinen::V,шехьун,sír
+1014,schimpfen::V,сеперар гун,szid
+1015,schimpfen::V,сеперар гун,szitkozódik
+1016,schimpfen::V,экъуьгъунар авун,szid
+1017,schimpfen::V,экъуьгъунар авун,szitkozódik
+1018,sich ärgern::V,хъел акатун,mérgelődik
+1019,sich ärgern::V,хъел акатун,bosszankodik
+1020,sich fürchten::V,кичӏе хьун,fél
+1021,sich fürchten::V,кичӏе хьун,retteg
+1022,fürchten::V,къурхутмиш хьун,fél
+1023,fliehen::V,катун,menekül
+1024,flüchten::V,катун,elmenekül
+1025,sehen::V,акун,néz
+1026,anschauen::V,вил вегьин,megnéz
+1027,ansehen::V,килигун,néz
+1028,ansehen::V,килигун,ránéz
+1029,ansehen::V,килигун,megnéz
+1030,hören::V,ван хьун,hall
+1031,zuhören::V,яб гун,hallgat
+1032,zuhören::V,яб гун,meghallgat
+1033,probieren::V,дад акун,kóstol
+1034,probieren::V,дад акун,megkóstol
+1035,riechen::V,ни чӏугун,szagol
+1036,fühlen::V,гьисс авун,érez
+1037,frieren::V,кьун,fázik
+1038,frieren::V,мекьи хьун,fázik
+1039,tun::V,авун,csinál
+1040,tun::V,авун,cselekszik
+1041,können::V,хьун,tud
+1042,können::V,акъакьун,tud
+1043,wollen::V,кӏан хьун,akar
+1044,anfangen::V,башламишун,kezd
+1045,beenden::V,куьтягьун,befejez
+1046,aufhören::V,акъвазун,megszűnik
+1047,gelingen::V,арадал атун,sikerül
+1048,geraten::V,акъатун,kerül
+1049,geraten::V,акъатун,jut
+1050,öffnen::V,ахъаюн,nyit
+1051,öffnen::V,ахъаюн,kinyit
+1052,schließen::V,акьалун,csuk
+1053,schließen::V,акьалун,becsuk
+1054,stellen::V,эцигун,állít
+1055,stellen::V,эцигун,helyez
+1056,setzen::V,ацукьарун,ültet
+1057,setzen::V,ацукьарун,helyez
+1058,legen::V,эцигун,tesz
+1059,legen::V,эцигун,fektet
+1060,berühren::V,хкӏурун,érint
+1061,verbinden::V,гилигун,beköt
+1062,verbinden::V,гилигун,összeköt
+1063,bedecken::V,кӏевун,betakar
+1064,bedecken::V,кӏевун,beborít
+1065,aufhängen::V,куьрсарун,felakaszt
+1066,anzünden::V,куькӏуьрун,gyújt
+1067,anzünden::V,куькӏуьрун,meggyújt
+1068,aufheben::V,хкажун,felemel
+1069,zurücklassen::V,тун,hátrahagy
+1070,verlieren::V,квадарун,veszít
+1071,verlieren::V,квадарун,elveszít
+1072,fallen lassen::V,авадрун,elejt
+1073,machen::V,авун,tesz
+1074,machen::V,авун,csinál
+1075,machen::V,кар авун,tesz
+1076,machen::V,кар авун,csinál
+1077,herstellen::V,расун,gyárt
+1078,herstellen::V,расун,előállít
+1079,bauen::V,туькӏуьрун,épít
+1080,reparieren::V,расун,javít
+1081,reparieren::V,расун,kijavít
+1082,reparieren::V,расун,megjavít
+1083,verbessern::V,хъсанрун,megjavít
+1084,ändern::V,табдил авун,változtat
+1085,ändern::V,табдил авун,megváltoztat
+1086,graben::V,эгъуьнун,ás
+1087,beugen::V,акӏажарун,meghajt
+1088,beugen::V,кангур авун,meghajt
+1089,biegen::V,патахъарун,hajlít
+1090,drehen::V,алчударун,forgat
+1091,umdrehen::V,элкъуьрун,megfordít
+1092,umdrehen::V,элкъуьрун,megforgat
+1093,heben::V,хкажун,emel
+1094,hochheben::V,хкажун,felemel
+1095,ergreifen::V,агалчна кьун,megfog
+1096,halten::V,кьун,tart
+1097,drücken::V,чуькьуьн,nyom
+1098,drücken::V,чуькьуьн,megnyom
+1099,schieben::V,хуртӏ гун,tol
+1100,kratzen::V,къадгъунун,vakar
+1101,lecken::V,мез гун,nyal
+1102,beißen::V,кӏасун,harap
+1103,abreißen::V,галудун,letép
+1104,abschneiden::V,атӏун,levág
+1105,stecken::V,сухун,dug
+1106,brechen::V,хун,tör
+1107,brechen::V,хун,eltör
+1108,brechen::V,кукӏварун,tör
+1109,brechen::V,кукӏварун,eltör
+1110,klopfen::V,тахъ-тахъ авун,kopogtat
+1111,hauen::V,ягъун,vág
+1112,hauen::V,ягъун,levág
+1113,kleben::V,алкӏурун,tapaszt
+1114,kleben::V,кукӏурун,tapaszt
+1115,reiben::V,тӏушунун,dörzsöl
+1116,reiben::V,тӏушунун,súrol
+1117,streichen::V,алтадун,simít
+1118,schleifen::V,кӏвенкӏв авун,fen
+1119,schleifen::V,кӏвенкӏв авун,csiszol
+1120,schleifen::V,кӏвенкӏв авун,köszörül
+1121,schneiden::V,атӏун,vág
+1122,schneiden::V,атӏун,szel
+1123,schneiden::V,атӏун,metsz
+1124,rütteln::V,къарсурун,ráz
+1125,schütteln::V,къарсурун,ráz
+1126,schütteln::V,къарсурун,megráz
+1127,schwenken::V,элягъун,lóbál
+1128,schwenken::V,элягъун,lobogtat
+1129,schwenken::V,галтадун,lóbál
+1130,schwenken::V,галтадун,lobogtat
+1131,schütten::V,цун,önt
+1132,füllen::V,ацӏурун,tölt
+1133,füllen::V,ацӏурун,megtölt
+1134,einwickeln::V,кутун,becsavar
+1135,einwickeln::V,элкъуьрун,becsavar
+1136,tragen::V,тухун,hord
+1137,schleppen::V,галчӏурун,vonszol
+1138,ziehen::V,ялун,húz
+1139,ziehen::V,чӏугун,húz
+1140,aufbewahren::V,хуьн,megőriz
+1141,werfen::V,гадрун,dob
+1142,werfen::V,гадрун,hajít
+1143,fangen::V,кьун,fog
+1144,packen::V,кьун,megragad
+1145,verstecken::V,кӏевун,eldug
+1146,verstecken::V,кӏевун,elrejt
+1147,teilen::V,паюн,oszt
+1148,teilen::V,паюн,megoszt
+1149,schicken::V,ракъурун,küld
+1150,bringen::V,гъун,hoz
+1151,bringen::V,гъун,visz
+1152,hinzufügen::V,алава авун,hozzáad
+1153,bekommen::V,къачун,kap
+1154,bekommen::V,къачун,megkap
+1155,bekommen::V,жугъурун,kap
+1156,bekommen::V,жугъурун,megkap
+1157,erhalten::V,къачун,kap
+1158,erhalten::V,къачун,megkap
+1159,nehmen::V,къачун,vesz
+1160,wählen::V,хкягъун,választ
+1161,auswählen::V,хкягъун,kiválaszt
+1162,bewahren::V,хуьн,megtart
+1163,behindern::V,манийвал авун,akadályoz
+1164,behindern::V,манийвал авун,gátol
+1165,verderben::V,чӏурун,elront
+1166,beschädigen::V,нукьсанвал гун,rongál
+1167,zerbrechen::V,хун,eltör
+1168,zerbrechen::V,хун,széttör
+1169,zerbrechen::V,хун,kettétör
+1170,zerreißen::V,къазунун,eltép
+1171,zerreißen::V,къазунун,széttép
+1172,zerstören::V,чӏурун,elpusztít
+1173,zerstören::V,барбатӏун,elpusztít
+1174,verbrennen::V,ккун,éget
+1175,verbrennen::V,ккун,eléget
+1176,geben::V,гун,ad
+1177,reichen::V,вугун,nyújt
+1178,reichen::V,гун,nyújt
+1179,schenken::V,пишкеш авун,ajándékoz
+1180,versprechen::V,гаф гун,ígér
+1181,wünschen::V,дуьа авун,kíván
+1182,loben::V,тариф авун,dicsér
+1183,küssen::V,темен гун,csókol
+1184,wiegen::V,эчӏягъун,ringat
+1185,zudecken::V,гьалдун,betakar
+1186,wecken::V,ахварай авудун,kelt
+1187,wecken::V,ахварай авудун,ébreszt
+1188,zeigen::V,къалурун,mutat
+1189,führen::V,тухун,visz
+1190,führen::V,тухун,vezet
+1191,lehren::V,кӏелиз тун,tanít
+1192,unterrichten::V,тарс гун,tanít
+1193,aufziehen::V,тербия гун,felnevel
+1194,aufziehen::V,тербияламишун,felnevel
+1195,leiten::V,идара авун,vezet
+1196,leiten::V,идара авун,vezérel
+1197,antreiben::V,тади кутун,hajt
+1198,einladen::V,теклиф авун,meghív
+1199,vereinigen::V,сад авун,egyesít
+1200,besuchen::V,кьилив атун,látogat
+1201,treffen::V,гьалтун,talál
+1202,sich versammeln::V,алтӏушун,gyülekezik
+1203,sich versammeln::V,алтӏушун,összegyűlik
+1204,spielen::V,къугъун,játszik
+1205,singen::V,лугьун,énekel
+1206,singen::V,мани лугьун,énekel
+1207,tanzen::V,кьуьл авун,táncol
+1208,sich trennen::V,къакъатун,elválik
+1209,verlassen::V,гъил къачун,elhagy
+1210,retten::V,къутармишун,ment
+1211,bewachen::V,хуьн,őriz
+1212,schützen::V,хуьн,óv
+1213,schützen::V,хуьн,véd
+1214,verteidigen::V,хуьн,véd
+1215,sich schlagen::V,кукӏун,verekszik
+1216,schießen::V,акъатун,lő
+1217,siegen::V,гъалиб хьун,győz
+1218,ärgern::V,хъел гъун,bosszant
+1219,ärgern::V,хъел кутун,bosszant
+1220,schlagen::V,ягъун,üt
+1221,schlagen::V,ягъун,ver
+1222,schlagen::V,галукьарун,üt
+1223,schlagen::V,галукьарун,ver
+1224,treten::V,кьуьл къекъягъун,rúg
+1225,treten::V,кьуьл эцягъун,rúg
+1226,stechen::V,акьадарун,döf
+1227,stechen::V,акьадарун,szúr
+1228,stoßen::V,эцягъун,lök
+1229,stehlen::V,чуьнуьхун,lop
+1230,stören::V,хкуьрун,zavar
+1231,belästigen::V,хкуьрун,zaklat
+1232,belästigen::V,азият гун,zaklat
+1233,verbergen::V,далдаламишун,rejt
+1234,verbergen::V,далдаламишун,elrejt
+1235,täuschen::V,алцурарун,megtéveszt
+1236,täuschen::V,алцуррун,megtéveszt
+1237,betrügen::V,алцурарун,csal
+1238,betrügen::V,гьарамзадавал авун,csal
+1239,töten::V,яна кьин,öl
+1240,wohnen::V,дуланмиш хьун,lakik
+1241,arbeiten::V,кӏвалахун,dolgozik
+1242,arbeiten::V,кӏвалах авун,dolgozik
+1243,sammeln::V,кӏватӏун,szed
+1244,sammeln::V,кӏватӏун,gyűjt
+1245,pflücken::V,атӏун,szed
+1246,jagen::V,гъуьрч авун,vadászik
+1247,fischen::V,гъетер кьун,halászik
+1248,fassen::V,кьун,fog
+1249,hüten::V,чӏура хуьн,őriz
+1250,hüten::V,чӏура хуьн,legeltet
+1251,treiben::V,гьалун,hajt
+1252,anbinden::V,акалун,köt
+1253,füttern::V,ем гун,etet
+1254,melken::V,ацун,fej
+1255,hacken::V,куьткуьнун,vág
+1256,gießen::V,яд гун,öntöz
+1257,reifen::V,чурун,érik
+1258,reifen::V,агакьун,érik
+1259,zubereiten::V,гьазурун,elkészít
+1260,kochen::V,ругун,főz
+1261,backen::V,чурун,süt
+1262,braten::V,чурун,süt
+1263,umrühren::V,какадарун,megkever
+1264,stricken::V,хурун,köt
+1265,nähen::V,цун,varr
+1266,färben::V,шир ягъун,fest
+1267,reinigen::V,михьун,tisztít
+1268,waschen::V,чуьхуьн,mos
+1269,abwischen::V,гуьцӏун,letöröl
+1270,spülen::V,экъуьрун,mosogat
+1271,fegen::V,шуткун,söpör
+1272,kehren::V,кул алтадун,söpör
+1273,baden::V,эхъуьн,fürdik
+1274,sich waschen::V,жендек чуьхуьн,mosdik
+1275,sich waschen::V,жендек чуьхуьн,mosakszik
+1276,ausziehen::V,хутӏунун,levesz
+1277,ausziehen::V,галудун,levesz
+1278,anziehen::V,алукӏун,felölt
+1279,anziehen::V,алукӏун,felvesz
+1280,sich anziehen::V,алукӏун,öltözik
+1281,sich anziehen::V,алукӏун,felöltözik
+1282,sich anziehen::V,парталар алукӏун,öltözik
+1283,sich anziehen::V,парталар алукӏун,felöltözik
+1284,kämmen::V,эвягъун,fésül
+1285,schmücken::V,безетмишун,díszít
+1286,schmücken::V,гуьрчегарун,díszít
+1287,sagen::V,лугьун,mond
+1288,sprechen::V,рахун,beszél
+1289,reden::V,рахун,beszél
+1290,sich unterhalten::V,ихтилат авун,beszélget
+1291,fragen::V,жузун,kérdez
+1292,bitten::V,тӏалабун,kér
+1293,erzählen::V,ахъаюн,mesél
+1294,erzählen::V,ахъаюн,elbeszél
+1295,mitteilen::V,хабар гун,közöl
+1296,nennen::V,тӏвар гун,hív
+1297,nennen::V,тӏвар гун,nevez
+1298,rufen::V,эверун,hív
+1299,prahlen::V,яцӏу гафар авун,dicsekszik
+1300,übersetzen::V,таржума авун,fordít
+1301,übersetzen::V,гафладун,fordít
+1302,denken::V,фикир авун,gondol
+1303,glauben::V,агъун,hisz
+1304,bemerken::V,фикир гун,észrevesz
+1305,begreifen::V,гъавурда акьун,felfog
+1306,lernen::V,кӏелун,tanul
+1307,lernen::V,кӏелун,megtanul
+1308,wissen::V,чир хьун,tud
+1309,wissen::V,чирхьун,tud
+1310,sich erinnern an::V,рикӏел хуьн,emlékszik
+1311,vergessen::V,рикӏелай фин,felejt
+1312,vergessen::V,рикӏелай фин,elfelejt
+1313,vergessen::V,рикӏелай алатун,felejt
+1314,vergessen::V,рикӏелай алатун,elfelejt
+1315,messen::V,алцумун,mér
+1316,messen::V,алцумун,megmér
+1317,zählen::V,гьисабун,számol
+1318,zählen::V,гьисабун,megszámol
+1319,rechnen::V,гьисабун,számít
+1320,lesen::V,кӏелун,olvas
+1321,malen::V,кхьин,fest
+1322,malen::V,шикилар чӏугун,fest
+1323,zeichnen::V,чӏугун,rajzol
+1324,schreiben::V,кхьин,ír
+1325,besitzen::V,иеси хьун,birtokol
+1326,kaufen::V,къачун,vesz
+1327,kaufen::V,къачун,megvesz
+1328,kaufen::V,маса къачун,vesz
+1329,kaufen::V,маса къачун,megvesz
+1330,verkaufen::V,гун,elad
+1331,verkaufen::V,маса гун,elad
+1332,bezahlen::V,къимет гун,fizet
+1333,bezahlen::V,къимет гун,kifizet
+1334,bezahlen::V,эвезда авун,fizet
+1335,bezahlen::V,эвезда авун,kifizet
+1336,bezahlen::V,гьакъи агакьрун,fizet
+1337,bezahlen::V,гьакъи агакьрун,kifizet
+1338,zahlen::V,къимет гун,fizet
+1339,zahlen::V,къимет гун,megfizet
+1340,zahlen::V,эвезда авун,fizet
+1341,zahlen::V,эвезда авун,megfizet
+1342,zahlen::V,гьакъи агакьрун,fizet
+1343,zahlen::V,гьакъи агакьрун,megfizet
+1344,beherrschen::V,иеси хьун,ural
+1345,ertragen::V,таб гун,elbír
+1346,ertragen::V,таб гун,elvisel
+1347,Oberschenkel::N,,comb
+1348,Strömung::N,,áramlat
+1349,Moor::N,,láp
+1350,Gedächtnis::N,,emlékezet
+1351,Ski::N,,sí
+1352,Platte::N,,lap
+1353,Platte::N,,lemez
+1354,Leine::N,,póráz
+1355,Geschäft::N,,üzlet
+1356,dick[Gegenstand]::A,,vastag
+1357,auf einmal::ADV,,egyszerre
+1358,zurück::ADV,,hátra
+1359,zurück::ADV,,vissza
+1360,wieder::ADV,,ismét
+1361,wieder::ADV,,megint
+1362,wehen::V,,fúj
+1363,rauchen::V,,füstöl
+1364,schaukeln::V,,hintázik
+1365,rühren::V,,mozdít
+1366,scheinen::V,,tűnik
+1367,scheinen::V,,látszik
+1368,zu sehen sein::V,,mutatkozik
+1369,vernehmen::V,,hall
+1370,wenden::V,,fordít
+1371,wenden::V,,megfordít
+1372,binden::V,,köt
+1373,binden::V,,kötöz
+1374,lassen::V,,-tat
+1375,lassen::V,,-at
+1376,erkennen::V,,ráismer
+1377,erkennen::V,,felismer
+1378,verstehen::V,,ért
+1379,verstehen::V,,megért

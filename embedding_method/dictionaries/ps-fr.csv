@@ -1,0 +1,1448 @@
+,Concept_ID,ps,fr
+0,Auge::N,سترګه,œil
+1,Ohr::N,غوږ,oreille
+2,Nase::N,پوزه,nez
+3,Mund::N,خوله,bouche
+4,Zahn::N,غاښ,dent
+5,Zunge::N,جبه,langue
+6,Lippe::N,شونډه,lèvre
+7,Wange::N,باړخو,joue
+8,Gesicht::N,مخ,face
+9,Gesicht::N,مخ,visage
+10,Stirn::N,تندی,front
+11,Stirn::N,وچولی,front
+12,Haar::N,وېښته,cheveu
+13,Schnurrbart::N,برېت,moustache
+14,Bart::N,ږیره,barbe
+15,Kinn::N,زنه,menton
+16,Kiefer[Anatomie]::N,جامه,mâchoire
+17,Kehle::N,غاړه,gorge
+18,Hals::N,غاړه,cou
+19,Genick::N,ورمېږ,nuque
+20,Kopf::N,سر,tête
+21,Rücken::N,شا,dos
+22,Bauch::N,نس,ventre
+23,Bauch::N,ګېډه,ventre
+24,Nabel::N,نوم,nombril
+25,Busen::N,تی,sein
+26,Brust::N,سینه,poitrine
+27,Schulter::N,اوږه,épaule
+28,Arm::N,لاس,bras
+29,Ellenbogen::N,څنګل,coude
+30,Hand::N,لاس,main
+31,Handfläche::N,ورغوی,paume
+32,Finger::N,ګوته,doigt
+33,Fingernagel::N,نوک,ongle
+34,Nagel[Anatomie]::N,نوک,ongle
+35,Zeh::N,ګوته,orteil
+36,Zeh::N,ګوته,doigt de pied
+37,Fuß::N,پښه,pied
+38,Ferse::N,پونده,talon
+39,Knie::N,زنګون,genou
+40,Oberschenkel::N,پتون,cuisse
+41,Bein::N,پښه,jambe
+42,Körper::N,ځان,corps
+43,Haut::N,پوټکی,peau
+44,Blut::N,وینه,sang
+45,Ader::N,رګ,veine
+46,Sehne::N,پله,tendon
+47,Knochen::N,هډوکی,os
+48,Gehirn::N,ماغزه,cerveau
+49,Herz::N,زړه,cœur
+50,Magen::N,معده,estomac
+51,Leber::N,ينه,foie
+52,Leber::N,ځیګر,foie
+53,Atem::N,نفس,haleine
+54,Hunger::N,ولږه,faim
+55,Träne::N,اوښکه,larme
+56,Geschmack::N,مزه,goût
+57,Geschmack::N,مزه,saveur
+58,Geschmack::N,خوند,goût
+59,Geschmack::N,خوند,saveur
+60,Geruch::N,بوی,odeur
+61,Schlaf::N,خوب,sommeil
+62,Traum::N,خوب,songe
+63,Himmel::N,اسمان,ciel
+64,Sonne::N,لمر,soleil
+65,Mond::N,سپوږمۍ,lune
+66,Stern::N,ستوری,étoile
+67,Luft::N,هوا,air
+68,Wind::N,ورښ,vent
+69,Welle::N,موج,vague
+70,Wasser::N,اوبه,eau
+71,Stein::N,ډبره,pierre
+72,Boden::N,مځکه,sol
+73,Boden::N,مځکه,terrain
+74,Erde::N,خاوره,terre
+75,Staub::N,ګرد,poussière
+76,Staub::N,خاوره,poussière
+77,Rauch::N,دود,fumée
+78,Rauch::N,لوګی,fumée
+79,Funke::N,سپرغۍ,étincelle
+80,Feuer::N,اور,feu
+81,Licht::N,رڼا,lumière
+82,Schatten::N,سیوری,ombre
+83,Wetter::N,هوا,temps
+84,Nebel::N,لړه,brume
+85,Nebel::N,لړه,brouillard
+86,Wolke::N,ورېځ,nuage
+87,Regen::N,وریا,pluie
+88,Regen::N,باران,pluie
+89,Schnee::N,واوره,neige
+90,Eis::N,یخ,glace
+91,Eis::N,کنګل,glace
+92,Frost::N,یخ,gel
+93,Frost::N,یخ,gelée
+94,Kälte::N,ساړه,froid
+95,Hitze::N,تودوخي,chaleur
+96,Raureif::N,سپینه پرخه,givre
+97,Regenbogen::N,بوډۍ ټال,arc-en-ciel
+98,Regenbogen::N,سره زرغونه,arc-en-ciel
+99,Donner::N,تالنده,tonnerre
+100,Strömung::N,بهېدنه,courant
+101,Tropfen::N,قطره,goutte
+102,Tropfen::N,څاڅکی,goutte
+103,Schaum::N,ځګ,écume
+104,Schaum::N,ځګ,mousse
+105,Schmutz::N,ناپاکي,boue
+106,Schmutz::N,ناپاکي,saleté
+107,See::N,جهیل,lac
+108,Sumpf::N,جبه,marais
+109,Sumpf::N,جبه,marécage
+110,Moor::N,جبه,tourbière
+111,Wiese::N,چمن,pré
+112,Wiese::N,شنېلی,pré
+113,Wald::N,ځنګل,bois
+114,Wald::N,ځنګل,forêt
+115,Hügel::N,تپه,coteau
+116,Hügel::N,تپه,colline
+117,Anhöhe::N,غونډۍ,éminence
+118,Anhöhe::N,غونډۍ,élévation
+119,Berg::N,غ‍‍‍‍‍ر,mont
+120,Berg::N,غ‍‍‍‍‍ر,montagne
+121,Gipfel::N,څوکه,cime
+122,Gipfel::N,څوکه,sommet
+123,Höhle::N,کاز,caverne
+124,Abhang::N,لمن,pente
+125,Abhang::N,لمن,versant
+126,Quelle::N,چینه,source
+127,Quelle::N,چینه,fontaine
+128,Bach::N,واله,ruisseau
+129,Fluss::N,سیند,fleuve
+130,Fluss::N,سیند,rivière
+131,Ufer::N,غاړه,bord
+132,Ufer::N,غاړه,rivage
+133,Küste::N,ساحل,côte
+134,Festland::N,وچه,terre ferme
+135,Meer::N,بحر,mer
+136,Meer::N,سمندر,mer
+137,Bucht::N,کارۍ,baie
+138,Insel::N,ټاپو,île
+139,Insel::N,جزيره,île
+140,Blume::N,ګل,fleur
+141,Gras::N,واښه,herbe
+142,Wurzel::N,ریښه,racine
+143,Baum::N,ونه,arbre
+144,Stamm::N,ډډ,tronc
+145,Rinde::N,پوستکی,écorce
+146,Ast::N,ښاخ,branche
+147,Zweig::N,څانګه,rameau
+148,Blatt::N,پاڼه,feuille
+149,Birke::N,توس,bouleau
+150,Kiefer[Baum]::N,نښتر,pin
+151,Weide[Baum]::N,وله,saule
+152,Tanne::N,ناجو,sapin
+153,Horn::N,ښکر,corne
+154,Feder::N,بڼکه,plume
+155,Fell::N,پوستکی,peau
+156,Flügel::N,وزر,aile
+157,Klaue::N,پنجه,serre
+158,Klaue::N,منګول,serre
+159,Kralle::N,پنجه,ongle
+160,Kralle::N,پنجه,griffe
+161,Kralle::N,منګول,ongle
+162,Kralle::N,منګول,griffe
+163,Schwanz::N,لکۍ,queue
+164,Ei::N,وۍ,œuf
+165,Ei::N,هګۍ,œuf
+166,Nest::N,جاله,nid
+167,Bau::N,کاز,terrier
+168,Tier::N,ژوی,animal
+169,Tier::N,حیوان,animal
+170,Herde::N,رمه,troupeau
+171,Herde::N,غېله,troupeau
+172,Kuh::N,غوا,vache
+173,Bulle::N,غوئی,taureau
+174,Pferd::N,آس,cheval
+175,Schaf::N,پسه,mouton
+176,Schwein::N,سرکوزی,porc
+177,Schwein::N,سرکوزی,cochon
+178,Hund::N,سپی,chien
+179,Katze::N,پشه,chat
+180,Bär::N,خرس,ours
+181,Eichhörnchen::N,خړ لمی,écureuil
+182,Elch::N,ګوزن,élan
+183,Fuchs::N,سپلم,renard
+184,Hase::N,سوی,lièvre
+185,Maus::N,مږک,souris
+186,Wolf::N,لېوه,loup
+187,Vogel::N,مرغه,oiseau
+188,Schwarm::N,سېل,nuée
+189,Schwarm::N,سېل,volée
+190,Huhn::N,چرګه,poule
+191,Hahn::N,چرګ,coq
+192,Gans::N,بته,oie
+193,Adler::N,عقاب,aigle
+194,Ente::N,ایلۍ,canard
+195,Eule::N,ګونګی,hibou
+196,Kranich::N,کلنګ,grue
+197,Krähe::N,کارغه,corneille
+198,Kuckuck::N,فاخته,coucou
+199,Schwan::N,قو,cygne
+200,Fisch::N,کب,poisson
+201,Fisch::N,ماهی,poisson
+202,Schlange[Tier]::N,مار,serpent
+203,Wurm::N,چینجی,ver
+204,Spinne::N,غڼه,araignée
+205,Spinne::N,تارکښ,araignée
+206,Ameise::N,مېږی,fourmi
+207,Laus::N,سپږه,pou
+208,Mücke::N,ماشی,moucheron
+209,Fliege::N,مچ,mouche
+210,Schmetterling::N,پتنګ,papillon
+211,Beere::N,مېوۍ,baie
+212,Apfel::N,مڼه,pomme
+213,Pilz::N,خرېړی,champignon
+214,Zwiebel::N,پیاز,oignon
+215,Saat::N,تخم,semence
+216,Korn::N,تخم,grain
+217,Korn::N,دانه,grain
+218,Heu::N,بوس,foin
+219,Heu::N,پروړه,foin
+220,Schale::N,پوستکی,pelure
+221,Grube::N,کنده,fosse
+222,Falle::N,دام,piège
+223,Falle::N,لومه,piège
+224,Schlinge::N,کړۍ,lacs
+225,Spur::N,نښه,trace
+226,Asche::N,آس,cendre
+227,Asche::N,ایره,cendre
+228,Dreck::N,ناپاکي,crotte
+229,Eisen::N,اوسپنه,fer
+230,Gold::N,سره زر,or
+231,Silber::N,نقره,argent
+232,Silber::N,سپین زر,argent
+233,Kohle::N,سکور,charbon
+234,Kohle::N,سکاره,charbon
+235,Glas::N,ښيښه,verre
+236,Lehm::N,خټه,glaise
+237,Sand::N,شګه,sable
+238,Mensch::N,انسان,homme
+239,Mann::N,سړی,homme
+240,Mann::N,نارینه,homme
+241,Frau::N,ښځه,femme
+242,Kind::N,بچی,enfant
+243,Kind::N,ماشوم,enfant
+244,Junge::N,هلک,garçon
+245,Mädchen::N,نجلۍ,fille
+246,Mädchen::N,نجلۍ,jeune fille
+247,Familie::N,کورنۍ,famille
+248,Großvater::N,بابا,grand-père
+249,Großmutter::N,انا,grand-mère
+250,Eltern::N,مور او پلار,parents
+251,Vater::N,پلار,père
+252,Mutter::N,مور,mère
+253,Sohn::N,زوی,fils
+254,Tochter::N,لور,fille
+255,Bruder::N,ورور,frère
+256,Schwester::N,خور,sœur
+257,Onkel::N,تره,oncle
+258,Onkel::N,ماما,oncle
+259,Tante::N,خاله,tante
+260,Ehemann::N,مېړه,mari
+261,Ehemann::N,مېړه,époux
+262,Ehefrau::N,مېرمن,femme
+263,Ehefrau::N,مېرمن,épouse
+264,Freude::N,خوشحالي,joie
+265,Freude::N,خوشحالي,plaisir
+266,Gelächter::N,خندا,rires
+267,Glück::N,بخت,bonheur
+268,Kummer::N,غم,peine
+269,Kummer::N,غم,chagrin
+270,Wunsch::N,هيله,désir
+271,Wunsch::N,غوښتنه,désir
+272,Lust::N,شوق,envie
+273,Lust::N,مینه,envie
+274,Geist::N,روح,esprit
+275,Gedanke::N,فکر,idée
+276,Gedanke::N,فکر,pensée
+277,Gedächtnis::N,یاد,mémoire
+278,Gedächtnis::N,حافظه,mémoire
+279,Verstand::N,عقل,raison
+280,Verstand::N,شعور,raison
+281,Sinn::N,معنی,sens
+282,Grund::N,علت,cause
+283,Grund::N,علت,raison
+284,Grund::N,اساس,cause
+285,Grund::N,اساس,raison
+286,Wahrheit::N,حقیقت,vérité
+287,Gespräch::N,مرکه,conversation
+288,Gespräch::N,خبرې اترې,conversation
+289,Märchen::N,افسانه,conte
+290,Märchen::N,افسانه,conte de fées
+291,Erzählung::N,قصه,conte
+292,Erzählung::N,قصه,narration
+293,Erzählung::N,کیسه,conte
+294,Erzählung::N,کیسه,narration
+295,Nachricht::N,خبر,message
+296,Neuigkeit::N,نوی خبر,nouvelle
+297,Name::N,نوم,nom
+298,Rätsel::N,کیسۍ,énigme
+299,Rätsel::N,کیسۍ,devinette
+300,Rätsel::N,چیستان,énigme
+301,Rätsel::N,چیستان,devinette
+302,Rede::N,وینا,parole
+303,Rede::N,وینا,discours
+304,Sprache::N,ژبه,langue
+305,Sprache::N,ژبه,langage
+306,Stimme::N,غږ,voix
+307,Stimme::N,اواز,voix
+308,Wort::N,لغت,mot
+309,Wort::N,کلمه,mot
+310,Zeichen::N,نښه,signe
+311,Zeichen::N,اشاره,signe
+312,Ruf::N,ږغ,cri
+313,Ruf::N,ږغ,appel
+314,Ruf::N,بلنه,cri
+315,Ruf::N,بلنه,appel
+316,Lärm::N,غالمغال,bruit
+317,Laut::N,ږغ,son
+318,Ton::N,اواز,ton
+319,Lied::N,غزله,chant
+320,Lied::N,غزله,chanson
+321,Lied::N,سندره,chant
+322,Lied::N,سندره,chanson
+323,Ruhe::N,ارامي,calme
+324,Ruhe::N,ارامي,tranquillité
+325,Leute::N,خلک,gens
+326,Volk::N,ولس,peuple
+327,Arbeit::N,کار,travail
+328,Gast::N,مېلمه,hôte
+329,Gast::N,مېلمه,invité
+330,Geschenk::N,تحفه,cadeau
+331,Geschenk::N,تحفه,présent
+332,Geschenk::N,سوغات,cadeau
+333,Geschenk::N,سوغات,présent
+334,Spiel::N,لوبه,jeu
+335,Gesellschaft::N,ډله,compagnie
+336,Hilfe::N,کومک,aide
+337,Hilfe::N,کومک,secours
+338,Hilfe::N,مرسته,aide
+339,Hilfe::N,مرسته,secours
+340,Freund::N,ملګری,ami
+341,Kamerad::N,انډيوال,copain
+342,Kamerad::N,انډيوال,camarade
+343,Angelegenheit::N,موضوع,affaire
+344,Anzahl::N,شمېر,nombre
+345,Anzahl::N,تعداد,nombre
+346,Art::N,ډول,sorte
+347,Art::N,ډول,espèce
+348,Stück::N,ټوټه,morceau
+349,Teil::N,برخه,part
+350,Teil::N,برخه,partie
+351,Hälfte::N,نیم,moitié
+352,Kreis::N,دایره,cercle
+353,Kreuz::N,صلیب,croix
+354,Linie::N,خط,ligne
+355,Linie::N,لیکه,ligne
+356,Strich::N,کرښه,trait
+357,Abstand::N,فاصله,écart
+358,Entfernung::N,واټن,distance
+359,Gegend::N,سیمه,région
+360,Gegend::N,سیمه,contrée
+361,Gegend::N,منطقه,région
+362,Gegend::N,منطقه,contrée
+363,Platz::N,ځای,place
+364,Ort::N,ځای,lieu
+365,Ort::N,ځای,endroit
+366,Seite::N,مخ,côté
+367,Seite::N,اړخ,côté
+368,Mitte::N,وسط,milieu
+369,Mitte::N,مینځ,milieu
+370,Gegenstand::N,شی,objet
+371,Sache::N,شی,chose
+372,Sache::N,څيز,chose
+373,Rand::N,څنډه,bord
+374,Rand::N,کناره,bord
+375,Kante::N,اړخ,arête
+376,Ecke::N,ګوټ,coin
+377,Ecke::N,ګوټ,tournant
+378,Spitze::N,څوکه,cime
+379,Spitze::N,څوکه,pointe
+380,Ende::N,څوکه,bout
+381,Loch::N,سوری,trou
+382,Winkel::N,کنج,coin
+383,Winkel::N,کنج,réduit
+384,Winkel::N,کوتی,coin
+385,Winkel::N,کوتی,réduit
+386,Muster::N,نمونه,dessin
+387,Größe::N,قد,grandeur
+388,Größe::N,لويوالی,grandeur
+389,Länge::N,طول,longueur
+390,Länge::N,اوږد والی,longueur
+391,Höhe::N,جګوالی,hauteur
+392,Höhe::N,جګوالی,altitude
+393,Gewicht::N,وزن,poids
+394,Menge::N,اندازه,quantité
+395,Haufen::N,کوټه,tas
+396,Reihe::N,صف,file
+397,Reihe::N,صف,rangée
+398,Reihe::N,کتار,file
+399,Reihe::N,کتار,rangée
+400,Boot::N,قايق,canot
+401,Boot::N,قايق,bateau
+402,Ruder::N,چپه,rame
+403,Ruder::N,چپه,aviron
+404,Schlitten::N,ښویېدونی,traîneau
+405,Ski::N,سکي,ski
+406,Lagerfeuer::N,اور,feu de camp
+407,Last::N,بار,charge
+408,Last::N,بار,fardeau
+409,Last::N,پېټی,charge
+410,Last::N,پېټی,fardeau
+411,Gang::N,تګ,tour
+412,Gang::N,تګ,marche
+413,Schritt::N,ګام,pas
+414,Norden::N,شمال,nord
+415,Süden::N,سوېل,sud
+416,Westen::N,لوېدېځ,ouest
+417,Westen::N,لوېدېځ,occident
+418,Osten::N,شرق,est
+419,Osten::N,شرق,orient
+420,Osten::N,ختیځ,est
+421,Osten::N,ختیځ,orient
+422,Holz::N,لرګی,bois
+423,Brett::N,تخته,planche
+424,Platte::N,تخته,plaque
+425,Stütze::N,تکیوان,appui
+426,Stütze::N,تکیوان,soutien
+427,Stange::N,ډاګه,barre
+428,Stange::N,ډاګه,perche
+429,Stock::N,لرګی,canne
+430,Stab::N,چيخله,bâton
+431,Rohr::N,نل,tube
+432,Rohr::N,نل,tuyau
+433,Haus::N,کور,maison
+434,Heim::N,کور,maison
+435,Ofen::N,تودنۍ,poêle
+436,Fußboden::N,غولی,plancher
+437,Tisch::N,مېز,table
+438,Stuhl::N,چوکۍ,chaise
+439,Wiege::N,زانګو,berceau
+440,Bett::N,کټ,lit
+441,Bett::N,چپرکټ,lit
+442,Regal::N,تاخچۍ,étagère
+443,Kiste::N,صندوق,caisse
+444,Fenster::N,کړکۍ,fenêtre
+445,Tür::N,دروازه,porte
+446,Tor::N,دروازه,porte
+447,Tor::N,دروازه,portail
+448,Zaun::N,کټاره,clôture
+449,Dach::N,بام,toit
+450,Leiter::N,زينه,échelle
+451,Besen::N,جارو,balai
+452,Spaten::N,یوم,bêche
+453,Schaufel::N,بېلچه,pelle
+454,Gabel::N,پنجه,fourchette
+455,Löffel::N,کاشوغه,cuiller
+456,Messer::N,چاقو,couteau
+457,Nagel::N,ميخ,clou
+458,Netz::N,جال,filet
+459,Haken::N,څنګک,croc
+460,Haken::N,څنګک,crochet
+461,Griff::N,لاستی,prise
+462,Griff::N,لاستی,manche
+463,Schloss::N,کلپ,serrure
+464,Bild::N,رسم,image
+465,Bild::N,رسم,tableau
+466,Figur::N,قدوقامت,figure
+467,Puppe::N,ګوډۍ,poupée
+468,Beutel::N,کڅوړه,sac
+469,Beutel::N,کڅوړه,petit sac
+470,Bündel::N,دسته,paquet
+471,Bündel::N,دسته,faisceau
+472,Tasche::N,بکس,sac
+473,Tasche::N,توبره,sac
+474,Eimer::N,سطل,seau
+475,Deckel::N,سرپوښ,couvercle
+476,Geschirr::N,لوښی,vaisselle
+477,Sack::N,جوال,sac
+478,Tasse::N,پیاله,tasse
+479,Topf::N,دېګی,pot
+480,Topf::N,دېګی,marmite
+481,Kessel::N,دېګ,chaudron
+482,Essen::N,خوراک,repas
+483,Essen::N,خوراک,manger
+484,Nahrung::N,خوراک,nourriture
+485,Speise::N,خواړه,plat
+486,Fleisch::N,غوښه,viande
+487,Getreide::N,غله,blé
+488,Getreide::N,غله,céréales
+489,Brei::N,اوګره,purée
+490,Brei::N,اوګره,bouillie
+491,Brot::N,ډوډۍ,pain
+492,Scheibe::N,مړۍ,tranche
+493,Fett::N,غوړي,graisse
+494,Butter::N,کوچ,beurre
+495,Öl::N,تېل,huile
+496,Salz::N,مالګه,sel
+497,Suppe::N,شوربا,soupe
+498,Suppe::N,شوربا,potage
+499,Honig::N,شات,miel
+500,Milch::N,شوده,lait
+501,Tee::N,چای,thé
+502,Leder::N,څرمن,cuir
+503,Wolle::N,پشم,laine
+504,Stoff::N,ټوټه,tissu
+505,Stoff::N,ټوټه,étoffe
+506,Nadel::N,ستن,aiguille
+507,Faden::N,تار,fil
+508,Knopf::N,تڼۍ,bouton
+509,Knopf::N,تکمه,bouton
+510,Knoten::N,غوټه,nœud
+511,Farbe::N,رنګ,peinture
+512,Kleidung::N,کالي,vêtements
+513,Kleidung::N,کالي,habillement
+514,Hemd::N,کميس,chemise
+515,Kragen::N,غاړه,col
+516,Ärmel::N,لستوڼی,manche
+517,Hose::N,پطلون,pantalon
+518,Gürtel::N,کمربند,ceinture
+519,Mütze::N,خولۍ,bonnet
+520,Mütze::N,خولۍ,casquette
+521,Schuh::N,بوټ,soulier
+522,Schuh::N,بوټ,chaussure
+523,Stiefel::N,موزه,botte
+524,Ring::N,ګوته,bague
+525,Band::N,فيته,ruban
+526,Kamm::N,ګمنځ,peigne
+527,Spiegel::N,ایینه,glace
+528,Spiegel::N,ایینه,miroir
+529,Spiegel::N,هنداره,glace
+530,Spiegel::N,هنداره,miroir
+531,Riemen::N,تسمه,lanière
+532,Riemen::N,تسمه,courroie
+533,Schnur::N,مزی,corde
+534,Schnur::N,مزی,ficelle
+535,Leine::N,رسۍ,laisse
+536,Decke::N,بړستن,couverture
+537,Kissen::N,بالښت,oreiller
+538,Tuch::N,ټیکری,drap
+539,Tuch::N,ټیکری,fichu
+540,Handtuch::N,دسمال,serviette
+541,Handtuch::N,دسمال,essuie-mains
+542,Kraft::N,زور,force
+543,Kraft::N,توان,force
+544,Stärke::N,قوت,vigueur
+545,Gesundheit::N,صحت,santé
+546,Gesundheit::N,روغتیا,santé
+547,Krankheit::N,مرض,maladie
+548,Krankheit::N,ناروغي,maladie
+549,Schmerz::N,درد,douleur
+550,Wunde::N,ټپ,plaie
+551,Wunde::N,ټپ,blessure
+552,Wunde::N,زخم,plaie
+553,Wunde::N,زخم,blessure
+554,Fieber::N,تبه,fièvre
+555,Arznei::N,دوا,remède
+556,Arznei::N,دوا,médecine
+557,Arznei::N,دارو,remède
+558,Arznei::N,دارو,médecine
+559,Brücke::N,پول,pont
+560,Brunnen::N,څاه,puits
+561,Brunnen::N,کوهی,puits
+562,Weide::N,وله,pâturage
+563,Pfad::N,تړه,sentier
+564,Weg::N,لیار,voie
+565,Weg::N,لیار,chemin
+566,Straße::N,سړک,route
+567,Dorf::N,کلی,village
+568,Stadt::N,ښار,cité
+569,Stadt::N,ښار,ville
+570,Brief::N,لیک,lettre
+571,Brief::N,مکتوب,lettre
+572,Buch::N,کتاب,livre
+573,Buchstabe::N,حرف,lettre
+574,Buchstabe::N,حرف,caractère
+575,Buchstabe::N,توری,lettre
+576,Buchstabe::N,توری,caractère
+577,Zeitung::N,اخبار,journal
+578,Leben::N,ژوند,vie
+579,Tod::N,مرګ,mort
+580,Tod::N,مړینه,mort
+581,Grab::N,قبر,tombe
+582,Grab::N,ډورۍ,tombe
+583,Kirche::N,کلیسا,église
+584,Sünde::N,ګناه,péché
+585,Gott::N,خدای,dieu
+586,Arbeiter::N,کاریګر,ouvrier
+587,Arbeiter::N,کاریګر,travailleur
+588,Chef::N,آمر,chef
+589,Chef::N,آمر,patron
+590,Meister::N,استاد,maître
+591,Arzt::N,طبیب,médecin
+592,Arzt::N,ډاکټر,médecin
+593,Lehrer::N,معلم,professeur
+594,Lehrer::N,معلم,instituteur
+595,Lehrer::N,ښوونکی,professeur
+596,Lehrer::N,ښوونکی,instituteur
+597,Geld::N,پیسې,argent
+598,Geschäft::N,سوداګري,affaire
+599,Geschäft::N,سوداګري,commerce
+600,Laden::N,دکان,magasin
+601,Laden::N,دکان,boutique
+602,Laden::N,مغازه,magasin
+603,Laden::N,مغازه,boutique
+604,Preis::N,بیه,prix
+605,Ware::N,مال,marchandise
+606,Nutzen::N,ګټه,profit
+607,Reichtum::N,شتمني,richesse
+608,Welt::N,نړۍ,monde
+609,Welt::N,دنیا,monde
+610,Land::N,هېواد,pays
+611,Staat::N,دولت,État
+612,König::N,باچا,roi
+613,König::N,پادشاه,roi
+614,Macht::N,قدرت,pouvoir
+615,Macht::N,قدرت,puissance
+616,Grenze::N,حد,frontière
+617,Grenze::N,سرحد,frontière
+618,Krieg::N,جګړه,guerre
+619,Feind::N,دښمن,ennemi
+620,Gewalt::N,زور,violence
+621,Gewalt::N,تشدد,violence
+622,Kampf::N,جنګ,lutte
+623,Kampf::N,جنګ,combat
+624,Kampf::N,مبارزه,lutte
+625,Kampf::N,مبارزه,combat
+626,Bogen[Waffe]::N,لیندۍ,arc
+627,Pfeil::N,غشی,flèche
+628,Gewehr::N,ټوپک,fusil
+629,Fehler::N,خطا,faute
+630,Fehler::N,خطا,erreur
+631,Fehler::N,غلطي,faute
+632,Fehler::N,غلطي,erreur
+633,Lüge::N,دروغ,mensonge
+634,Schaden::N,زیان,dégât
+635,Schaden::N,زیان,dommage
+636,Schaden::N,تاوان,dégât
+637,Schaden::N,تاوان,dommage
+638,Unglück::N,بدبختي,malheur
+639,Schuld::N,ګناه,faute
+640,Schuld::N,ګناه,culpabilité
+641,Alter::N,منګ,âge
+642,Schluss::N,اخر,fin
+643,Zeit::N,وخت,temps
+644,Tag::N,ورځ,jour
+645,Tag::N,ورځ,journée
+646,Morgen::N,سبا,matin
+647,Morgen::N,سبا,matinée
+648,Morgen::N,سهار,matin
+649,Morgen::N,سهار,matinée
+650,Mittag::N,غرمه,midi
+651,Abend::N,ماښام,soir
+652,Abend::N,ماښام,soirée
+653,Nacht::N,شپه,nuit
+654,Woche::N,اونۍ,semaine
+655,Monat::N,مياشت,mois
+656,Jahr::N,کال,an
+657,Jahr::N,کال,année
+658,Frühling::N,پسرلی,printemps
+659,Sommer::N,دوبی,été
+660,Herbst::N,منی,automne
+661,Herbst::N,خزان,automne
+662,Winter::N,ژمی,hiver
+663,Januar::N,جنوري,janvier
+664,Februar::N,فبروري,février
+665,März::N,مارچ,mars
+666,April::N,اپریل,avril
+667,Mai::N,مې,mai
+668,Juni::N,جون,juin
+669,Juli::N,جولای,juillet
+670,August::N,اګست,août
+671,September::N,سپټامبر,septembre
+672,Oktober::N,اکتوبر,octobre
+673,November::N,نومبر,novembre
+674,Dezember::N,دسمبر,décembre
+675,Montag::N,دوشنبه,lundi
+676,Dienstag::N,سه شنبه,mardi
+677,Mittwoch::N,چارشنبه,mercredi
+678,Donnerstag::N,پنجشنبه,jeudi
+679,Freitag::N,جمعه,vendredi
+680,Samstag::N,خالي,samedi
+681,Sonntag::N,یکشنبه,dimanche
+682,groß::A,لوی,grand
+683,klein::A,وړوکی,petit
+684,lang::A,اوړد,long
+685,kurz::A,لنډ,court
+686,breit::A,پراخه,large
+687,schmal::A,تنګ,étroit
+688,dicht::A,ګڼ,dense
+689,dick[Gegenstand]::A,پنډ,épais
+690,dünn::A,نری,mince
+691,fein::A,نازک,fin
+692,fein::A,نازک,menu
+693,fest::A,کلک,ferme
+694,fest::A,کلک,solide
+695,fest::A,ټینګ,ferme
+696,fest::A,ټینګ,solide
+697,flach::A,هوار,plat
+698,glatt::A,ښوی,poli
+699,glatt::A,ښوی,lisse
+700,hart::A,کلک,dur
+701,weich::A,نرم,mou
+702,weich::A,پوست,mou
+703,rund::A,ګرد,rond
+704,spitz::A,تېره,aigu
+705,spitz::A,تېره,pointu
+706,scharf::A,تېز,tranchant
+707,scharf::A,تېره,tranchant
+708,stumpf::A,پڅ,mousse
+709,stumpf::A,پڅ,émoussé
+710,schwer::A,دروند,lourd
+711,schwer::A,دروند,pesant
+712,schön::A,ښکلی,beau
+713,heiß::A,تود,chaud
+714,heiß::A,تود,très chaud
+715,warm::A,تود,chaud
+716,kalt::A,ېخ,froid
+717,kalt::A,سوړ,froid
+718,kühl::A,ېخ,frais
+719,kühl::A,سوړ,frais
+720,frisch::A,تازه,frais
+721,feucht::A,مرطوب,humide
+722,nass::A,لوند,mouillé
+723,trocken::A,وچ,sec
+724,voll::A,ډک,plein
+725,voll::A,ډک,rempli
+726,leer::A,خالی,vide
+727,offen::A,خلاص,ouvert
+728,offen::A,پرانیستی,ouvert
+729,geschlossen::A,تړلی,clos
+730,geschlossen::A,تړلی,fermé
+731,sauber::A,پاک,net
+732,sauber::A,پاک,propre
+733,schmutzig::A,چټل,sale
+734,schmutzig::A,چټل,crasseux
+735,roh::A,خام,cru
+736,roh::A,خام,brut
+737,reif::A,پوخ,mûr
+738,reif::A,رسېدلی,mûr
+739,lecker::A,خوندور,délicieux
+740,lecker::A,خوندور,appétissant
+741,lecker::A,مزه دار,délicieux
+742,lecker::A,مزه دار,appétissant
+743,süß::A,خوږ,doux
+744,süß::A,شیرین,doux
+745,bitter::A,تریخ,amer
+746,sauer::A,ټاک,aigre
+747,sauer::A,تريو,aigre
+748,hell::A,روڼ,clair
+749,hell::A,روښان,clair
+750,dunkel::A,تیاره,sombre
+751,schwarz::A,تور,noir
+752,weiß::A,سپين,blanc
+753,rot::A,سور,rouge
+754,gelb::A,زېړ,jaune
+755,blau::A,شین,bleu
+756,blau::A,اسماني رنګه,bleu
+757,grün::A,زرغون,vert
+758,grau::A,خړ,gris
+759,bunt::A,رنګارنګ,multicolore
+760,billig::A,ارزان,bon marché
+761,teuer::A,ګران,cher
+762,wertvoll::A,قیمتي,précieux
+763,blind::A,ړوند,aveugle
+764,taub::A,کوڼ,sourd
+765,kräftig::A,قوی,fort
+766,kräftig::A,قوی,vigoureux
+767,stark::A,قوی,fort
+768,stark::A,قوی,puissant
+769,stark::A,تکړه,fort
+770,stark::A,تکړه,puissant
+771,schwach::A,ضعیف,faible
+772,schwach::A,کمزوری,faible
+773,fett::A,چاغ,gras
+774,schlank::A,خوش اندام,svelte
+775,hübsch::A,ښکلی,joli
+776,hübsch::A,ښایسته,joli
+777,böse::A,شریر,mauvais
+778,böse::A,قهرناک,mauvais
+779,dumm::A,احمق,sot
+780,dumm::A,احمق,bête
+781,faul::A,لټ,fainéant
+782,faul::A,لټ,paresseux
+783,faul::A,تنبل,fainéant
+784,faul::A,تنبل,paresseux
+785,fleißig::A,زحمت کښ,appliqué
+786,geizig::A,بخیل,avare
+787,klug::A,عاقل,intelligent
+788,klug::A,هوښیار,intelligent
+789,geschickt::A,ماهر,habile
+790,lieb::A,عزیز,cher
+791,lieb::A,عزیز,gentil
+792,lieb::A,محبوب,cher
+793,lieb::A,محبوب,gentil
+794,lustig::A,خوشحال,gai
+795,lustig::A,خوشحال,joyeux
+796,sanft::A,پوست,doux
+797,sanft::A,ملایم,doux
+798,hungrig::A,وږی,affamé
+799,krank::A,مريض,malade
+800,krank::A,ناروغ,malade
+801,nackt::A,لوڅ,nu
+802,traurig::A,غمجن,triste
+803,lebendig::A,ژوندی,vivant
+804,gut::A,ښه,bon
+805,schlecht::A,بد,mauvais
+806,schlecht::A,خراب,mauvais
+807,richtig::A,سم,juste
+808,richtig::A,سم,correct
+809,richtig::A,صحیح,juste
+810,richtig::A,صحیح,correct
+811,schlimm::A,بد,grave
+812,schlimm::A,بد,mauvais
+813,schlimm::A,مخوف,grave
+814,schlimm::A,مخوف,mauvais
+815,wahr::A,واقعي,vrai
+816,wahr::A,واقعي,véritable
+817,alt::A,زوړ,vieux
+818,neu::A,نوی,neuf
+819,neu::A,نوی,nouveau
+820,ehemalig::A,پخوانی,ancien
+821,alt[Lebewesen]::A,زوړ,âgé
+822,alt[Lebewesen]::A,زوړ,vieux
+823,jung::A,ځوان,jeune
+824,arm::A,غریب,pauvre
+825,arm::A,بې وزله,pauvre
+826,reich::A,شتمن,riche
+827,reich::A,دولتمند,riche
+828,bekannt::A,اشنا,connu
+829,berühmt::A,مشهور,fameux
+830,berühmt::A,مشهور,célèbre
+831,fremd::A,پردی,étranger
+832,fremd::A,بېګانه,étranger
+833,verschieden::A,مختلف,différent
+834,nah::A,نژدې,lié
+835,nah::A,نژدې,proche
+836,fern::A,لیری,éloigné
+837,fern::A,لیری,lointain
+838,linker::A,چپ,gauche
+839,linker::A,کیڼ,gauche
+840,rechter::A,ښی,droit
+841,anderer::A,بل,autre
+842,erster::A,لومړی,premier
+843,zweiter::A,دوهم,second
+844,zweiter::A,دوهم,deuxième
+845,dritter::A,درېم,troisième
+846,letzter::A,آخرنی,dernier
+847,letzter::A,وروستی,dernier
+848,allein::ADV,یوازې,seul
+849,auf einmal::ADV,په یوه وخت کی,à la fois
+850,zusammen::ADV,یو ځای,ensemble
+851,lange::ADV,ډېر وخت,longtemps
+852,lange::ADV,ډېره موده,longtemps
+853,plötzlich::ADV,ناببره,tout à coup
+854,plötzlich::ADV,یوناڅاپه,tout à coup
+855,sofort::ADV,فوراً,immédiatement
+856,sofort::ADV,سمدلاسه,immédiatement
+857,später::ADV,وروسته,plus tard
+858,jetzt::ADV,اوس,maintenant
+859,heute::ADV,نن,aujourd'hui
+860,morgen::ADV,سبا,demain
+861,bald::ADV,ژر,bientôt
+862,dann::ADV,پس,puis
+863,dann::ADV,پس,ensuite
+864,dann::ADV,وروسته,puis
+865,dann::ADV,وروسته,ensuite
+866,gestern::ADV,پرون,hier
+867,einst::ADV,پخوا,jadis
+868,einst::ADV,پخوا,autrefois
+869,damals::ADV,هغه وخت,alors
+870,damals::ADV,هغه وخت,à l'époque
+871,danach::ADV,بیا,après
+872,danach::ADV,بیا,ensuite
+873,vorher::ADV,دمخه,auparavant
+874,zuerst::ADV,لومړی,d'abord
+875,zuerst::ADV,لومړی,premièrement
+876,einmal::ADV,یو ځل,une fois
+877,manchmal::ADV,ګاهی ګاهی,parfois
+878,manchmal::ADV,ګاهی ګاهی,quelquefois
+879,oft::ADV,ډېر ځله,souvent
+880,immer::ADV,تل,toujours
+881,immer::ADV,همېشه,toujours
+882,niemals::ADV,هیڅکله نه,ne ... jamais
+883,hier::ADV,دلته,ici
+884,hierhin::ADV,دلته,par ici
+885,hierhin::ADV,دې ځای ته,par ici
+886,von hier::ADV,د دې ځای نه,d'ici
+887,dort::ADV,هلته,là
+888,dort::ADV,هلته,là-bas
+889,dorthin::ADV,هلته,y
+890,dorthin::ADV,هلته,par là
+891,dorthin::ADV,هغه ځای ته,y
+892,dorthin::ADV,هغه ځای ته,par là
+893,geradeaus::ADV,مخامخ,tout droit
+894,vorwärts::ADV,مخ پهٔ وړاندې,en avant
+895,rückwärts::ADV,بېرته,en arrière
+896,zurück::ADV,بېرته,de retour
+897,unten::ADV,لاندي,en bas
+898,unten::ADV,لاندي,au-dessous
+899,hinab::ADV,ښکته,en bas
+900,hinab::ADV,ښکته,vers le bas
+901,oben::ADV,پورته,dessus
+902,oben::ADV,پورته,en haut
+903,hinauf::ADV,پاس,en haut
+904,hinauf::ADV,پاس,vers le haut
+905,überall::ADV,هره خوا,partout
+906,nicht::ADV,نه,ne ... pas
+907,ein wenig::ADV,یو څه,un peu
+908,kaum::ADV,ایله,à peine
+909,sehr::ADV,ډېر,très
+910,sehr::ADV,زيات,très
+911,so::ADV,داسې,si
+912,so::ADV,داسې,ainsi
+913,so::ADV,دومره,si
+914,so::ADV,دومره,ainsi
+915,noch::ADV,نور,encore
+916,nur::ADV,تش,seulement
+917,nur::ADV,تش,ne ... que
+918,nur::ADV,صرف,seulement
+919,nur::ADV,صرف,ne ... que
+920,schon::ADV,دمخه,déjà
+921,wieder::ADV,بیا,de nouveau
+922,vergebens::ADV,عبث,en vain
+923,vor::PRP,دمخه,devant
+924,hinter::PRP,شاته,derrière
+925,unter::PRP,لاندي,sous
+926,unter::PRP,لاندي,au-dessous de
+927,durch::PRP,د مینځ نه,par
+928,durch::PRP,د مینځ نه,à travers
+929,neben::PRP,نژدې,à côté de
+930,zwischen::PRP,ترمینځ,entre
+931,wegen::PRP,د ... له لاسه,à cause de
+932,dies::PRN,دا,ceci
+933,das::PRN,دا,ce
+934,das::PRN,دا,cela
+935,alles::PRN,هرڅهٔ,tout
+936,ich::PRN,زه,je
+937,ich::PRN,زه,moi
+938,du::PRN,ته,tu
+939,du::PRN,ته,toi
+940,er::PRN,دی,il
+941,er::PRN,دی,lui
+942,wir::PRN,مونږ,nous
+943,ihr::PRN,تاسې,vous
+944,sie::PRN,هغوی,ils
+945,sie::PRN,هغوی,elles
+946,was::FPRN,څهٔ,que
+947,was::FPRN,څهٔ,quoi
+948,wer::FPRN,چا,qui
+949,wer::FPRN,څوک,qui
+950,wo::FADV,چيری,où
+951,wo::FADV,چېرته,où
+952,wohin::FADV,چېرته,où
+953,wie::FADV,څنګه,comment
+954,warum::FADV,ولې,pourquoi
+955,wieviel::FNUM,څو,combien
+956,wieviel::FNUM,څومره,combien
+957,eins::NUM,یو,un
+958,zwei::NUM,دوه,deux
+959,drei::NUM,درې,trois
+960,vier::NUM,څلور,quatre
+961,fünf::NUM,پنځه,cinq
+962,sechs::NUM,شپږ,six
+963,sieben::NUM,اوه,sept
+964,acht::NUM,اته,huit
+965,neun::NUM,نهه,neuf
+966,zehn::NUM,لس,dix
+967,elf::NUM,یوولس,onze
+968,zwölf::NUM,دولس,douze
+969,zwanzig::NUM,شل,vingt
+970,dreißig::NUM,دېرش,trente
+971,vierzig::NUM,څلوېښت,quarante
+972,fünfzig::NUM,پنځوس,cinquante
+973,sechzig::NUM,شپېته,soixante
+974,siebzig::NUM,اویا,soixante-dix
+975,achtzig::NUM,اتیا,quatre-vingt
+976,neunzig::NUM,نوي,quatre-vingt-dix
+977,hundert::NUM,سل,cent
+978,tausend::NUM,زر,mille
+979,und::CNJ,او,et
+980,oder::CNJ,ېا,ou
+981,stehen::V,درېدل,être debout
+982,sitzen::V,کښېنستل,être assis
+983,liegen::V,ملاستل,être couché
+984,hängen::V,ځړېدل,pendre
+985,werden::V,کېدل,devenir
+986,passieren::V,پېښېدل,se passer
+987,beginnen::V,شروع کېدل,commencer
+988,enden::V,خلاصدل,finir
+989,enden::V,خلاصدل,se terminer
+990,enden::V,تمامېدل,finir
+991,enden::V,تمامېدل,se terminer
+992,wechseln::V,تغییر موندل,changer
+993,wechseln::V,تغییر موندل,alterner
+994,aufgehen[Sonne]::V,ختل,se lever
+995,untergehen[Sonne]::V,لوېدل,se coucher
+996,untergehen[Sonne]::V,پرېوتل,se coucher
+997,scheinen[Sonne]::V,رڼا کول,briller
+998,donnern::V,تنېدل,tonner
+999,donnern::V,غړمبېدل,tonner
+1000,wehen::V,چلېدل,souffler
+1001,strömen::V,بهېدل,affluer
+1002,fließen::V,بهېدل,couler
+1003,fließen::V,تویېدل,couler
+1004,sich drehen::V,ګرځېدل,tourner
+1005,sich drehen::V,چورلېدل,tourner
+1006,schwanken::V,زنګېدل,osciller
+1007,schwanken::V,زنګېدل,chanceler
+1008,schwingen::V,زنګېدل,vibrer
+1009,schwingen::V,زنګېدل,osciller
+1010,fallen::V,ولېدل,tomber
+1011,brennen::V,سوځېدل,brûler
+1012,brennen::V,سوځېدل,flamber
+1013,rauchen::V,لوګی کول,fumer
+1014,regnen::V,باران اورېدل,pleuvoir
+1015,gefrieren::V,کنګل نيول,geler
+1016,tauen::V,وېلې کېدل,dégeler
+1017,schmelzen::V,وېلې کېدل,fondre
+1018,trocknen::V,وچېدل,sécher
+1019,sieden::V,اېشېدل,bouillir
+1020,faulen::V,خرابېدل,pourrir
+1021,faulen::V,خرابېدل,se putréfier
+1022,verfaulen::V,ورستېدل,pourrir
+1023,reißen::V,شلېدل,rompre
+1024,reißen::V,شلېدل,se déchirer
+1025,versinken::V,ډوېېدل,s'enfoncer
+1026,vergehen::V,تېرېدل,passer
+1027,erscheinen::V,ښکارېدل,apparaître
+1028,verschwinden::V,ورکېدل,disparaître
+1029,sinken::V,ښکته کېدل,descendre
+1030,sinken::V,ښکته کېدل,s'abaisser
+1031,abnehmen::V,کمېدل,diminuer
+1032,zunehmen::V,زیاتېدل,augmenter
+1033,steigen::V,جګېدل,monter
+1034,steigen::V,پورته کېدل,monter
+1035,wachsen::V,وده کول,croître
+1036,glänzen::V,ځلېدل,briller
+1037,funkeln::V,پړکېدل,étinceler
+1038,lärmen::V,غال و غول کول,faire du bruit
+1039,läuten::V,زنګ وهل,sonner
+1040,klingeln::V,زنګ وهل,sonner
+1041,klirren::V,کړنګېدل,cliqueter
+1042,brausen::V,تلاطم کول,mugir
+1043,rauschen::V,شڼهار کول,bruire
+1044,klingen::V,آواز کول,sonner
+1045,bellen::V,غپېدل,aboyer
+1046,heulen::V,انګلل,hurler
+1047,blasen::V,پو کول,souffler
+1048,pfeifen::V,شپېلک وهل,siffler
+1049,schreien::V,ناره کول,crier
+1050,stöhnen::V,زګېروی کول,gémir
+1051,zittern::V,لړزېدل,trembler
+1052,leben::V,ژوند کول,vivre
+1053,geboren werden::V,زېږېدل,naître
+1054,atmen::V,ساه کښل,respirer
+1055,atmen::V,تنفس کول,respirer
+1056,trinken::V,څښل,boire
+1057,essen::V,خوړل,manger
+1058,schlucken::V,غړپول,avaler
+1059,müde werden::V,ستړی کېدل,se lasser
+1060,müde werden::V,ستړی کېدل,se fatiguer
+1061,einschlafen::V,ویده کېدل,s'endormir
+1062,schlafen::V,خوب کول,dormir
+1063,aufwachen::V,ویښېدل,se réveiller
+1064,aufstehen::V,پاڅېدل,se lever
+1065,sich erholen::V,استراحت کول,se reposer
+1066,sich erholen::V,استراحت کول,se détendre
+1067,krank werden::V,رنځورېدل,tomber malade
+1068,krank sein::V,ناجوړېدل,être malade
+1069,schmerzen::V,خوږېدل,faire mal
+1070,schmerzen::V,درد کول,faire mal
+1071,husten::V,ټوخېدل,tousser
+1072,genesen::V,رغېدل,guérir
+1073,genesen::V,رغېدل,se remettre
+1074,sterben::V,مړل,mourir
+1075,umkommen::V,تلفېدل,périr
+1076,sich bewegen::V,چلېدل,bouger
+1077,sich bewegen::V,حرکت کول,bouger
+1078,sich rühren::V,ښورېدل,broncher
+1079,sich erheben::V,درېدل,se lever
+1080,sich setzen::V,کښېنستل,s'asseoir
+1081,hinfallen::V,لوېدل,tomber
+1082,laufen::V,منډې وهل,marcher
+1083,laufen::V,منډې وهل,aller à pied
+1084,schreiten::V,قدم ایښودل,marcher
+1085,spazierengehen::V,چکر وهل,se promener
+1086,eilen::V,بېړه کول,courir
+1087,sich beeilen::V,عجله کول,se hâter
+1088,sich beeilen::V,عجله کول,se dépêcher
+1089,sausen::V,ځغستل,filer
+1090,rennen::V,زغلېدل,courir
+1091,springen::V,ټوپ وهل,sauter
+1092,klettern::V,ختل,grimper
+1093,schaukeln::V,زنګېدل,se balancer
+1094,kriechen::V,خاپوړی وهل,ramper
+1095,schwimmen::V,لامبو وهل,nager
+1096,tauchen::V,غوټه وهل,plonger
+1097,rudern::V,پارو وهل,ramer
+1098,fahren::V,تلل,aller
+1099,fahren::V,تلل,rouler
+1100,fliegen::V,الوتل,voler
+1101,gehen::V,تلل,aller
+1102,weggehen::V,بهر وتل,s'en aller
+1103,abfahren::V,تلل,partir
+1104,anhalten::V,ودرېدل,s'arrêter
+1105,hineingehen::V,داخلېدل,entrer
+1106,eintreten::V,ننوتل,entrer
+1107,kommen::V,راتلل,venir
+1108,ankommen::V,رسېدل,arriver
+1109,zurückkommen::V,بېرته راتلل,revenir
+1110,bleiben::V,پاتې کېدل,rester
+1111,bleiben::V,پاتې کېدل,demeurer
+1112,warten::V,انتظار وېستل,attendre
+1113,erwarten::V,انتظار کول,attendre
+1114,suchen::V,لټول,chercher
+1115,finden::V,میندل,trouver
+1116,finden::V,پیدا کول,trouver
+1117,versuchen::V,هڅه کول,essayer
+1118,vorbereiten::V,چمتوکول,préparer
+1119,lieben::V,مینه لرل,aimer
+1120,mögen::V,خوښول,aimer
+1121,mögen::V,خوښول,vouloir
+1122,mögen::V,علاقه لرل,aimer
+1123,mögen::V,علاقه لرل,vouloir
+1124,lachen::V,خندېدل,rire
+1125,rühren::V,اغېزه کول,toucher
+1126,rühren::V,اغېزه کول,attendrir
+1127,weinen::V,ژړل,pleurer
+1128,schimpfen::V,ښکنځا کول,gronder
+1129,sich ärgern::V,قهر راتلل,se fâcher
+1130,sich fürchten::V,ډارېدل,avoir peur
+1131,fürchten::V,ډارېدل,craindre
+1132,fürchten::V,ډارېدل,avoir peur de
+1133,fliehen::V,تښتېدل,fuir
+1134,flüchten::V,تښتېدل,s'enfuir
+1135,sehen::V,لیدل,voir
+1136,anschauen::V,کتل,regarder
+1137,ansehen::V,ننداره کول,regarder
+1138,hören::V,اورېدل,entendre
+1139,zuhören::V,غوږ نیول,écouter
+1140,probieren::V,څکه کول,goûter
+1141,probieren::V,چاشنی کول,goûter
+1142,riechen::V,بويول,sentir
+1143,fühlen::V,حسول,sentir
+1144,scheinen::V,ښکارېدل,sembler
+1145,scheinen::V,ښکارېدل,paraître
+1146,zu sehen sein::V,ښکارېدل,se voir
+1147,zu sehen sein::V,ښکارېدل,être visible
+1148,vernehmen::V,خبرېدل,entendre
+1149,vernehmen::V,خبرېدل,percevoir
+1150,frieren::V,ساړه کېتل,avoir froid
+1151,tun::V,کول,faire
+1152,können::V,کولای شول,savoir
+1153,können::V,کولای شول,pouvoir
+1154,können::V,د لاسه کېدل,savoir
+1155,können::V,د لاسه کېدل,pouvoir
+1156,wollen::V,غوښتل,vouloir
+1157,anfangen::V,شروع کول,commencer
+1158,beenden::V,ختمول,finir
+1159,beenden::V,ختمول,terminer
+1160,beenden::V,پای ته رسول,finir
+1161,beenden::V,پای ته رسول,terminer
+1162,aufhören::V,بس کول,cesser
+1163,aufhören::V,بس کول,arrêter
+1164,gelingen::V,موفق کېدل,réussir
+1165,gelingen::V,بریالی کېدل,réussir
+1166,geraten::V,کېدل,réussir
+1167,öffnen::V,خلاصول,ouvrir
+1168,öffnen::V,پرانیستل,ouvrir
+1169,schließen::V,تړل,fermer
+1170,stellen::V,ایښودل,poser
+1171,stellen::V,ایښودل,mettre
+1172,setzen::V,کښېنول,placer
+1173,legen::V,ایښودل,placer
+1174,berühren::V,لاس وهل,toucher
+1175,verbinden::V,تړل,lier
+1176,bedecken::V,پوښول,couvrir
+1177,aufhängen::V,ځوړندول,accrocher
+1178,anzünden::V,بلول,allumer
+1179,aufheben::V,پورته کول,ramasser
+1180,zurücklassen::V,پرېښودل,laisser
+1181,verlieren::V,ورکول,perdre
+1182,fallen lassen::V,له لاسه لوېدل,lâcher
+1183,fallen lassen::V,له لاسه لوېدل,laisser tomber
+1184,machen::V,کول,faire
+1185,herstellen::V,جوړول,produire
+1186,herstellen::V,جوړول,fabriquer
+1187,herstellen::V,توليدول,produire
+1188,herstellen::V,توليدول,fabriquer
+1189,bauen::V,جوړول,bâtir
+1190,bauen::V,جوړول,construire
+1191,reparieren::V,ترمیمول,réparer
+1192,verbessern::V,اصلاح کول,améliorer
+1193,ändern::V,تغیر ورکول,changer
+1194,ändern::V,تغیر ورکول,modifier
+1195,graben::V,کيندل,creuser
+1196,beugen::V,ټیټول,plier
+1197,beugen::V,ټیټول,ployer
+1198,biegen::V,کږول,courber
+1199,drehen::V,ګرځول,tordre
+1200,drehen::V,ګرځول,tourner
+1201,wenden::V,اړول,retourner
+1202,umdrehen::V,اړول,tourner
+1203,heben::V,جګول,soulever
+1204,heben::V,پورته کول,soulever
+1205,hochheben::V,جګول,lever
+1206,ergreifen::V,نیول,saisir
+1207,ergreifen::V,نیول,prendre
+1208,halten::V,نیول,tenir
+1209,drücken::V,کښېکښل,presser
+1210,schieben::V,پوری وهل,pousser
+1211,kratzen::V,ګرول,gratter
+1212,kratzen::V,ګرول,égratigner
+1213,lecken::V,څټل,lécher
+1214,beißen::V,چیچل,mordre
+1215,abreißen::V,شکول,arracher
+1216,abschneiden::V,پرېکول,couper
+1217,binden::V,تړل,lier
+1218,binden::V,تړل,attacher
+1219,stecken::V,ټومبل,enfoncer
+1220,brechen::V,ماتول,rompre
+1221,klopfen::V,ټکول,frapper
+1222,hauen::V,ټکول,frapper
+1223,kleben::V,نښلول,coller
+1224,kleben::V,سرېښول,coller
+1225,reiben::V,مږل,frotter
+1226,streichen::V,مښل,empâter
+1227,schleifen::V,تېره کول,affiler
+1228,schleifen::V,تېره کول,aiguiser
+1229,schneiden::V,غوڅول,couper
+1230,schneiden::V,غوڅول,trancher
+1231,schneiden::V,پرېکول,couper
+1232,schneiden::V,پرېکول,trancher
+1233,rütteln::V,خوڅول,cahoter
+1234,schütteln::V,ښورول,secouer
+1235,schwenken::V,خوڅول,agiter
+1236,schütten::V,اچول,verser
+1237,schütten::V,تویول,verser
+1238,füllen::V,ډکول,remplir
+1239,einwickeln::V,پېچل,envelopper
+1240,einwickeln::V,نغښتل,envelopper
+1241,tragen::V,وړل,porter
+1242,schleppen::V,وړل,traîner
+1243,ziehen::V,کښل,tirer
+1244,aufbewahren::V,ساتل,garder
+1245,aufbewahren::V,ساتل,conserver
+1246,werfen::V,اچول,jeter
+1247,werfen::V,اچول,lancer
+1248,werfen::V,غورځول,jeter
+1249,werfen::V,غورځول,lancer
+1250,fangen::V,نیول,attraper
+1251,fangen::V,ګیرول,attraper
+1252,packen::V,نیول,agripper
+1253,verstecken::V,پټول,cacher
+1254,teilen::V,وېشل,diviser
+1255,teilen::V,تقسیمول,diviser
+1256,schicken::V,لېږل,envoyer
+1257,schicken::V,استول,envoyer
+1258,bringen::V,راوړل,apporter
+1259,hinzufügen::V,زیاتول,ajouter
+1260,bekommen::V,حاصلول,obtenir
+1261,erhalten::V,اخیستل,recevoir
+1262,nehmen::V,نیول,prendre
+1263,nehmen::V,اخيستل,prendre
+1264,wählen::V,خوښول,choisir
+1265,auswählen::V,چنده کول,choisir
+1266,auswählen::V,چنده کول,sélectionner
+1267,bewahren::V,ساتل,préserver
+1268,behindern::V,مانع کېدل,gêner
+1269,behindern::V,ممانعت کول,gêner
+1270,verderben::V,خرابېدل,gâter
+1271,verderben::V,خرابېدل,corrompre
+1272,beschädigen::V,ورانول,endommager
+1273,zerbrechen::V,ماتول,casser
+1274,zerreißen::V,څیرې کول,déchirer
+1275,zerstören::V,ړنګول,détruire
+1276,zerstören::V,ورانول,détruire
+1277,verbrennen::V,سوځول,brûler
+1278,geben::V,ورکول,donner
+1279,reichen::V,ورکول,tendre
+1280,schenken::V,بښل,offrir
+1281,versprechen::V,لوز کول,promettre
+1282,wünschen::V,غوښتل,souhaiter
+1283,loben::V,ستایل,louer
+1284,loben::V,تمجید کول,louer
+1285,küssen::V,ښکلول,embrasser
+1286,wiegen::V,زنګول,bercer
+1287,zudecken::V,پوښول,couvrir
+1288,wecken::V,ويښول,éveiller
+1289,wecken::V,ويښول,réveiller
+1290,zeigen::V,ښودل,montrer
+1291,zeigen::V,ښودل,faire voir
+1292,führen::V,بیول,guider
+1293,lehren::V,درس ورکول,apprendre
+1294,lehren::V,تعلیم ورکول,apprendre
+1295,unterrichten::V,درس ورکول,instruire
+1296,aufziehen::V,روزل,élever
+1297,leiten::V,رهبری کول,diriger
+1298,leiten::V,رهبری کول,conduire
+1299,leiten::V,لارښوونه کول,diriger
+1300,leiten::V,لارښوونه کول,conduire
+1301,antreiben::V,چټک کول,pousser
+1302,lassen::V,اړکول,faire
+1303,einladen::V,بلل,inviter
+1304,vereinigen::V,متحد کول,unir
+1305,vereinigen::V,متحد کول,réunir
+1306,vereinigen::V,یوځای کول,unir
+1307,vereinigen::V,یوځای کول,réunir
+1308,besuchen::V,کتنه کول,visiter
+1309,besuchen::V,کتنه کول,aller voir
+1310,treffen::V,ليدل,rencontrer
+1311,treffen::V,تلقی کول,rencontrer
+1312,sich versammeln::V,راغونډېدل,s'assembler
+1313,spielen::V,لوبه کول,jouer
+1314,singen::V,سندرې وېل,chanter
+1315,tanzen::V,ګډېدل,danser
+1316,sich trennen::V,بېلېدل,se séparer
+1317,verlassen::V,ترک کول,quitter
+1318,retten::V,نجات ورکول,sauver
+1319,bewachen::V,ساتل,garder
+1320,bewachen::V,حفاظت کول,garder
+1321,schützen::V,ژغورل,protéger
+1322,verteidigen::V,دفاع کول,défendre
+1323,sich schlagen::V,جنګېدل,se taper
+1324,schießen::V,ویشتل,tirer
+1325,siegen::V,غالبېدل,vaincre
+1326,ärgern::V,خپه کول,agacer
+1327,schlagen::V,وهل,battre
+1328,schlagen::V,وهل,frapper
+1329,treten::V,په لغته وهل,botter
+1330,treten::V,په لغته وهل,donner un coup de pied à
+1331,stechen::V,ټومبل,piquer
+1332,stoßen::V,ټېل وهل,heurter
+1333,stoßen::V,پوری وهل,heurter
+1334,stehlen::V,تښتول,voler
+1335,stehlen::V,غلا کول,voler
+1336,stören::V,ماتول,gêner
+1337,stören::V,ماتول,déranger
+1338,belästigen::V,ځورول,molester
+1339,belästigen::V,ځورول,importuner
+1340,belästigen::V,تکلیف ورکول,molester
+1341,belästigen::V,تکلیف ورکول,importuner
+1342,verbergen::V,پټول,cacher
+1343,verbergen::V,پټول,dissimuler
+1344,täuschen::V,تېرایستل,abuser
+1345,täuschen::V,تېرایستل,tromper
+1346,täuschen::V,خطا ایستل,abuser
+1347,täuschen::V,خطا ایستل,tromper
+1348,betrügen::V,غولول,duper
+1349,betrügen::V,غولول,frauder
+1350,töten::V,وژل,tuer
+1351,töten::V,مړ کول,tuer
+1352,wohnen::V,اوسېدل,habiter
+1353,wohnen::V,اوسېدل,demeurer
+1354,arbeiten::V,کار کول,travailler
+1355,sammeln::V,راټولول,collectionner
+1356,sammeln::V,راغونډول,collectionner
+1357,pflücken::V,شکول,cueillir
+1358,jagen::V,ښکار کول,chasser
+1359,fischen::V,کب نيول,pêcher
+1360,fassen::V,نیول,capturer
+1361,fassen::V,ګیرول,capturer
+1362,hüten::V,پوول,garder
+1363,treiben::V,بیول,mener
+1364,anbinden::V,تړل,attacher
+1365,füttern::V,خوراک ورکول,faire manger
+1366,melken::V,لوشل,traire
+1367,hacken::V,پی کول,fendre
+1368,gießen::V,اوبه کول,arroser
+1369,reifen::V,رسېدل,mûrir
+1370,zubereiten::V,تیارول,préparer
+1371,kochen::V,پخول,cuire
+1372,backen::V,پخول,cuire
+1373,braten::V,وريتول,rôtir
+1374,umrühren::V,لړل,remuer
+1375,stricken::V,اوبدل,tricoter
+1376,nähen::V,ګنډل,coudre
+1377,färben::V,رنګول,teindre
+1378,reinigen::V,صافول,nettoyer
+1379,waschen::V,مینځل,laver
+1380,abwischen::V,وچول,essuyer
+1381,spülen::V,کنګالول,rincer
+1382,fegen::V,جارو کول,balayer
+1383,kehren::V,جارو کول,balayer
+1384,baden::V,لمبېدل,se baigner
+1385,sich waschen::V,ځان مينځل,se laver
+1386,ausziehen::V,کښل,ôter
+1387,ausziehen::V,کښل,enlever
+1388,ausziehen::V,ایستل,ôter
+1389,ausziehen::V,ایستل,enlever
+1390,anziehen::V,اغوستل,mettre
+1391,sich anziehen::V,کالی اغوستل,s'habiller
+1392,kämmen::V,ګمنځول,peigner
+1393,schmücken::V,ښکلی کول,orner
+1394,schmücken::V,ښکلی کول,décorer
+1395,sagen::V,وېل,dire
+1396,sprechen::V,وېل,parler
+1397,sprechen::V,غږېدل,parler
+1398,reden::V,ګړېدل,parler
+1399,reden::V,خبرې کول,parler
+1400,sich unterhalten::V,خبری کول,bavarder
+1401,sich unterhalten::V,خبری کول,s'entretenir
+1402,fragen::V,پوښتنه کول,demander
+1403,bitten::V,غوښتل,prier
+1404,erzählen::V,کيسه کول,raconter
+1405,erzählen::V,حکايت کول,raconter
+1406,mitteilen::V,خبرول,communiquer
+1407,mitteilen::V,خبر ورکول,communiquer
+1408,nennen::V,نوم ايښودل,nommer
+1409,nennen::V,نوم ايښودل,appeler
+1410,rufen::V,بلل,appeler
+1411,prahlen::V,لاپې وهل,se vanter
+1412,übersetzen::V,ژباړل,traduire
+1413,übersetzen::V,ترجمه کول,traduire
+1414,denken::V,فکر کول,penser
+1415,glauben::V,باور کول,croire
+1416,bemerken::V,لیدل,remarquer
+1417,bemerken::V,لیدل,apercevoir
+1418,erkennen::V,پېژندل,reconnaître
+1419,begreifen::V,رسېدل,concevoir
+1420,begreifen::V,پوهېدل,concevoir
+1421,verstehen::V,پوهېدل,entendre
+1422,verstehen::V,پوهېدل,comprendre
+1423,lernen::V,زده کول,apprendre
+1424,lernen::V,درس لوستل,apprendre
+1425,wissen::V,پوهېدل,savoir
+1426,sich erinnern an::V,یادول,se souvenir de
+1427,sich erinnern an::V,په یاد راوړل,se souvenir de
+1428,vergessen::V,هېرول,oublier
+1429,messen::V,اندازه کول,mesurer
+1430,zählen::V,شمارل,compter
+1431,rechnen::V,حسابول,calculer
+1432,lesen::V,لوستل,lire
+1433,malen::V,رسمول,peindre
+1434,zeichnen::V,رسمول,dessiner
+1435,schreiben::V,لیکل,écrire
+1436,besitzen::V,لرل,posséder
+1437,kaufen::V,رانیول,acheter
+1438,verkaufen::V,خرڅول,vendre
+1439,bezahlen::V,تأدیه کول,payer
+1440,zahlen::V,کسات اخيستل,payer
+1441,beherrschen::V,تسلط لرل,dominer
+1442,beherrschen::V,تسلط لرل,maîtriser
+1443,ertragen::V,زغمل,tolérer
+1444,ertragen::V,زغمل,supporter
+1445,Barsch::N,,perche
+1446,Hecht::N,,brochet

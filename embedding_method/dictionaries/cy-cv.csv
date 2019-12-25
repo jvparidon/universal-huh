@@ -1,0 +1,1406 @@
+,Concept_ID,cy,cv
+0,Auge::N,llygad,куҫ
+1,Ohr::N,clust,хӑлха
+2,Nase::N,trwyn,сӑмса
+3,Mund::N,ceg,ҫӑвар
+4,Zahn::N,dant,шӑл
+5,Zunge::N,tafod,чӗлхе
+6,Lippe::N,gwefus,тута
+7,Wange::N,boch,пит ҫӑмарти
+8,Gesicht::N,wyneb,пит
+9,Gesicht::N,wyneb,пит-куҫ
+10,Stirn::N,talcen,ҫамка
+11,Haar::N,blew,ҫӳҫ
+12,Schnurrbart::N,mwstas,усси
+13,Bart::N,barf,сухал
+14,Kinn::N,gên,янах
+15,Kiefer[Anatomie]::N,gên,янах
+16,Kehle::N,gwddf,пыр
+17,Kehle::N,gwddf,карланкӑ
+18,Hals::N,gwddf,пыр
+19,Genick::N,gwar,ӗнсе
+20,Genick::N,gwegil,ӗнсе
+21,Kopf::N,pen,пуҫ
+22,Rücken::N,cefn,ҫурӑм
+23,Bauch::N,bol,
+24,Nabel::N,bogail,кӑвапа
+25,Busen::N,bron,кӑкӑр
+26,Brust::N,brest,умӗ
+27,Schulter::N,ysgwydd,хул пуҫҫи
+28,Arm::N,braich,алӑ
+29,Ellenbogen::N,penelin,чавса
+30,Hand::N,llaw,алӑ сыппи
+31,Handfläche::N,palf,ал лаппи
+32,Finger::N,bys,пӳрне
+33,Fingernagel::N,ewin,чӗрне
+34,Nagel[Anatomie]::N,ewin,чӗрне
+35,Zeh::N,bys troed,пӳрне
+36,Fuß::N,troed,ура лаппи
+37,Ferse::N,sawdl,кӗле
+38,Knie::N,glin,чӗркуҫҫи
+39,Oberschenkel::N,clun,пӗҫӗ
+40,Bein::N,coes,ура
+41,Körper::N,corff,ӳт
+42,Körper::N,corff,ӳт-пӳ
+43,Haut::N,croen,тир
+44,Blut::N,gwaed,юн
+45,Ader::N,gwythïen,вена
+46,Sehne::N,gewyn,шӑнӑр
+47,Knochen::N,asgwrn,шӑмӑ
+48,Gehirn::N,ymennydd,миме
+49,Herz::N,calon,чӗре
+50,Magen::N,cylla,хырӑмлӑх
+51,Magen::N,stumog,хырӑмлӑх
+52,Leber::N,iau,пӗвер
+53,Atem::N,anadl,сывлав
+54,Hunger::N,newyn,выҫлӑх
+55,Träne::N,deigryn,куҫҫуль
+56,Geschmack::N,cyflas,техӗм
+57,Geruch::N,aroglau,шӑршӑ
+58,Schlaf::N,cwsg,ыйхӑ
+59,Traum::N,breuddwyd,тӗлӗк
+60,Himmel::N,awyr,пӗлӗт
+61,Sonne::N,haul,хӗвел
+62,Mond::N,lleuad,уйӑх
+63,Stern::N,seren,ҫӑлтӑр
+64,Luft::N,awyr,сывлӑш
+65,Wind::N,gwynt,ҫил
+66,Welle::N,ton,хум
+67,Wasser::N,dŵr,шыв
+68,Wasser::N,dŵr,шыв-шур
+69,Stein::N,carreg,чул
+70,Boden::N,llawr,тӑпра
+71,Erde::N,pridd,ҫӗр
+72,Staub::N,llwch,тусан
+73,Rauch::N,mwg,тӗтӗм
+74,Funke::N,gwreichioni,хӗм
+75,Feuer::N,tân,вут
+76,Feuer::N,tân,ҫулӑм
+77,Licht::N,golau,ҫутӑ
+78,Schatten::N,cysgod,сулхӑн
+79,Wetter::N,tywydd,ҫанталӑк
+80,Nebel::N,niwl,тӗтре
+81,Wolke::N,cwmwl,пӗлӗт
+82,Regen::N,glaw,ҫумӑр
+83,Schnee::N,ôd,юр
+84,Schnee::N,eira,юр
+85,Eis::N,iâ,пӑр
+86,Frost::N,rhew,сивӗ
+87,Kälte::N,oerni,сивӗ
+88,Kälte::N,annwyd,сивӗ
+89,Hitze::N,gwres,вӗри
+90,Hitze::N,gwres,шӑрӑх
+91,Raureif::N,barrug,пас
+92,Regenbogen::N,enfys,асамат кӗперӗ
+93,Donner::N,tyrfau,аслати
+94,Strömung::N,cerrynt,юхӑ
+95,Tropfen::N,dafn,тумлам
+96,Tropfen::N,diferyn,тумлам
+97,Schaum::N,ewyn,кӑпӑк
+98,Schmutz::N,baw,пылчӑк
+99,Schmutz::N,budreddi,пылчӑк
+100,See::N,llyn,кӳлӗ
+101,Sumpf::N,cors,шур
+102,Sumpf::N,cors,шурлӑх
+103,Moor::N,rhos,торфлӑ шурлӑх
+104,Wiese::N,dôl,улӑх
+105,Wiese::N,dôl,ҫаран
+106,Wald::N,coedwig,вӑрман
+107,Hügel::N,bryn,сӑрт
+108,Hügel::N,bryn,тӗмеске
+109,Anhöhe::N,bryn,сӑрт
+110,Berg::N,mynydd,ту
+111,Gipfel::N,copa,тӳпе
+112,Höhle::N,ogof,ҫӗр хӑвӑлӗ
+113,Abhang::N,llethr,тӑвайкки
+114,Quelle::N,tarddiad,ҫӑл куҫ
+115,Quelle::N,ffynhonnell,ҫӑл куҫ
+116,Bach::N,nant,пӗчӗк шыв
+117,Bach::N,afonig,пӗчӗк шыв
+118,Bach::N,cornant,пӗчӗк шыв
+119,Fluss::N,afon,юхан шыв
+120,Ufer::N,glan,ҫыран
+121,Küste::N,traeth,тинӗс ҫыранӗ
+122,Küste::N,arfordir,тинӗс ҫыранӗ
+123,Festland::N,tir,тип ҫӗр
+124,Meer::N,môr,тинӗс
+125,Bucht::N,bae,тинӗс кукӑрӗ
+126,Insel::N,ynys,утрав
+127,Blume::N,blodyn,чечек
+128,Gras::N,glaswellt,курӑк
+129,Wurzel::N,gwreiddyn,тымар
+130,Baum::N,coeden,йывӑҫ
+131,Stamm::N,colfen,вулӑ
+132,Stamm::N,boncyff,вулӑ
+133,Rinde::N,rhisgl,хуйӑр
+134,Ast::N,cangen,турат
+135,Zweig::N,cainc,турат
+136,Zweig::N,cangen,турат
+137,Blatt::N,deilen,ҫулҫӑ
+138,Birke::N,bedwen,хурӑн
+139,Kiefer[Baum]::N,pinwydden,хыр
+140,Weide[Baum]::N,helygen,хӑва
+141,Tanne::N,ffynidwydden,чӑрӑш
+142,Horn::N,corn,мӑйрака
+143,Feder::N,plufyn,тӗк
+144,Fell::N,ffwr,ҫӑм
+145,Flügel::N,adain,ҫунат
+146,Klaue::N,crafanc,чӗрне
+147,Kralle::N,ewin,ура
+148,Schwanz::N,cwt,хӳре
+149,Schwanz::N,cynffon,хӳре
+150,Ei::N,wy,ҫӑмарта
+151,Nest::N,nyth,йӑва
+152,Bau::N,ffau,йӗнӗ
+153,Tier::N,anifail,выльӑх
+154,Herde::N,praidd,кӗтӳ
+155,Herde::N,diadell,кӗтӳ
+156,Kuh::N,buwch,ӗне
+157,Bulle::N,tarw,вӑкӑр
+158,Pferd::N,ceffyl,лаша
+159,Schaf::N,dafad,сурӑх
+160,Schwein::N,mochyn,сысна
+161,Hund::N,ci,йытӑ
+162,Katze::N,cath,кушак
+163,Bär::N,arth,упа
+164,Eichhörnchen::N,gwiwer,пакша
+165,Elch::N,elc,пӑши
+166,Fuchs::N,cadno,тилӗ
+167,Hase::N,ysgyfarnog,куян
+168,Hase::N,ysgyfarnog,мулкач
+169,Maus::N,llygoden,шӑши
+170,Wolf::N,blaidd,кашкӑр
+171,Vogel::N,aderyn,кайӑк
+172,Vogel::N,aderyn,вӗҫен кайӑк
+173,Schwarm::N,haid,ушкӑн
+174,Huhn::N,cyw,чӑх
+175,Huhn::N,cyw,чӑхӑ
+176,Hahn::N,ceiliog,автан
+177,Gans::N,gŵydd,хур
+178,Adler::N,eryr,ӑмӑрт кайӑк
+179,Ente::N,hwyad,кӑвакал
+180,Eule::N,tylluan,тӑмана
+181,Kranich::N,garan,тӑрна
+182,Kranich::N,crychydd,тӑрна
+183,Krähe::N,brân,ула курак
+184,Kuckuck::N,cog,куккук
+185,Kuckuck::N,cwcw,куккук
+186,Schwan::N,alarch,акӑш
+187,Fisch::N,pysgod,пулӑ
+188,Barsch::N,draenog,уланкӑ
+189,Hecht::N,penhwyad,ҫӑрттан
+190,Schlange[Tier]::N,neidr,ҫӗлен
+191,Wurm::N,abwydyn,ӑман
+192,Wurm::N,pryf genwair,ӑман
+193,Spinne::N,cor,эрешмен
+194,Spinne::N,pryf copyn,эрешмен
+195,Ameise::N,morgrugyn,кӑткӑ
+196,Laus::N,lleuen,пыйтӑ
+197,Mücke::N,gwybedyn,вӑрӑм туна
+198,Fliege::N,cleren,шӑна
+199,Schmetterling::N,glöyn byw,лӗпӗш
+200,Schmetterling::N,iâr fach yr haf,лӗпӗш
+201,Beere::N,aeronen,ҫырла
+202,Apfel::N,afal,улма
+203,Apfel::N,afal,пан улми
+204,Pilz::N,madarch,кӑмпа
+205,Zwiebel::N,nionyn,сухан
+206,Zwiebel::N,winwnsyn,сухан
+207,Saat::N,had,вӑрӑ
+208,Korn::N,grawn,тӗшӗ
+209,Korn::N,grawn,пӗрчӗ
+210,Heu::N,gwair,утӑ
+211,Schale::N,croen,хупӑ
+212,Schale::N,plisgyn,хупӑ
+213,Grube::N,pwll,шӑтӑк
+214,Grube::N,pydew,шӑтӑк
+215,Falle::N,magl,тапӑ
+216,Falle::N,magl,капкӑн
+217,Schlinge::N,cwlwm rhedeg,йӑлӑ
+218,Spur::N,ôl,йӗр
+219,Asche::N,lludw,кӗл
+220,Dreck::N,baw,пылчӑк
+221,Dreck::N,budreddi,пылчӑк
+222,Eisen::N,haearn,тимӗр
+223,Gold::N,aur,ылтӑн
+224,Silber::N,arian,кӗмӗл
+225,Kohle::N,glo,кӑмрӑк
+226,Glas::N,gwydr,кӗленче
+227,Lehm::N,clai,тӑм
+228,Sand::N,tywod,хӑйӑр
+229,Mensch::N,dyn,ҫын
+230,Mensch::N,dyn,этем
+231,Mann::N,dyn,ар
+232,Frau::N,merch,хӗрарӑм
+233,Frau::N,gwraig,хӗрарӑм
+234,Kind::N,plentyn,ача
+235,Junge::N,hogyn,ача
+236,Junge::N,hogyn,ар ҫын ача
+237,Junge::N,bachgen,ача
+238,Junge::N,bachgen,ар ҫын ача
+239,Mädchen::N,merch,хӗр ача
+240,Mädchen::N,geneth,хӗр ача
+241,Familie::N,teulu,ҫемье
+242,Familie::N,teulu,кил-йыш
+243,Familie::N,tylwyth,ҫемье
+244,Familie::N,tylwyth,кил-йыш
+245,Großvater::N,taid,кукаҫи
+246,Großvater::N,tad-cu,кукаҫи
+247,Großmutter::N,nain,кукамай
+248,Großmutter::N,mam-gu,кукамай
+249,Eltern::N,rhieni,аҫа-ама
+250,Vater::N,tad,атте
+251,Mutter::N,mam,анне
+252,Sohn::N,mab,ывӑл
+253,Tochter::N,merch,хӗр
+254,Bruder::N,brawd,ар тӑван
+255,Schwester::N,chwaer,аппа
+256,Schwester::N,chwaer,йӑмӑк
+257,Onkel::N,ewythr,мучи
+258,Onkel::N,ewythr,пичче
+259,Tante::N,modryb,аппа
+260,Ehemann::N,gŵr,упӑшка
+261,Ehefrau::N,gwraig,арӑм
+262,Freude::N,gorfoledd,савӑнӑҫ
+263,Freude::N,gorfoledd,хаваслӑх
+264,Gelächter::N,chwerthin,кулӑ
+265,Glück::N,hapusrwydd,телей
+266,Glück::N,hapusrwydd,ӑраскал
+267,Kummer::N,galar,хурлӑх
+268,Wunsch::N,dymuniad,ӗмӗт
+269,Wunsch::N,dymuniad,кӑмӑл
+270,Lust::N,chwant,кӑмӑл
+271,Geist::N,ysbryd,чун-чӗм
+272,Geist::N,ysbryd,ыр-усал
+273,Geist::N,ysbryd,чун хавалӗ
+274,Gedanke::N,meddwl,шухӑш
+275,Gedächtnis::N,cof,ас
+276,Verstand::N,meddwl,ӑс
+277,Verstand::N,meddwl,ӑс-тӑн
+278,Verstand::N,meddwl,ӑс-хакӑл
+279,Sinn::N,ystyr,тупсӑм
+280,Sinn::N,ystyr,пӗлтерӗш
+281,Grund::N,achos,сӑлтав
+282,Grund::N,rheswm,сӑлтав
+283,Wahrheit::N,gwir,чӑнлӑх
+284,Wahrheit::N,gwirionedd,чӑнлӑх
+285,Gespräch::N,sgwrs,калаҫу
+286,Märchen::N,chwedl werin,юмах
+287,Erzählung::N,stori,акалав
+288,Erzählung::N,stori,каласа пани
+289,Nachricht::N,neges,хыпар
+290,Neuigkeit::N,newydd,ҫӗнӗ хыпар
+291,Name::N,enw,ят
+292,Rätsel::N,pos,сутмалли юмах
+293,Rede::N,araith,сӑмах
+294,Sprache::N,iaith,чӗлхе
+295,Stimme::N,llais,сасӑ
+296,Wort::N,gair,сӑмах
+297,Zeichen::N,arwydd,паллӑ
+298,Ruf::N,galwad,йыхрав
+299,Ruf::N,galwad,чӗнӳ
+300,Lärm::N,trwst,шав
+301,Laut::N,sain,сасӑ
+302,Ton::N,tôn,сасӑ
+303,Lied::N,cân,юрӑ
+304,Ruhe::N,tawelwch,канӑҫлӑх
+305,Ruhe::N,tawelwch,лӑпкӑлӑх
+306,Leute::N,pobl,ҫамрӑксем
+307,Leute::N,pobl,ҫамрӑк ҫынсем
+308,Volk::N,pobl,халӑх
+309,Arbeit::N,gwaith,ӗҫхӗл
+310,Arbeit::N,gwaith,ӗҫлев
+311,Gast::N,gwestai,хӑна
+312,Geschenk::N,rhodd,парне
+313,Geschenk::N,rhodd,кучченеҫ
+314,Geschenk::N,anrheg,парне
+315,Geschenk::N,anrheg,кучченеҫ
+316,Spiel::N,chwarae,вӑйӑ
+317,Gesellschaft::N,cwmni,общество
+318,Hilfe::N,cymorth,пулӑшу
+319,Freund::N,cyfaill,тус
+320,Kamerad::N,cydymaith,юлташ
+321,Kamerad::N,cydymaith,тус
+322,Angelegenheit::N,pwnc,ӗҫ
+323,Anzahl::N,cyfrif,йыш
+324,Anzahl::N,cyfrif,хисеп
+325,Art::N,bath,тӗс
+326,Stück::N,darn,татӑк
+327,Teil::N,rhan,пай
+328,Hälfte::N,hanner,ҫурӑ
+329,Kreis::N,cylch,ункӑ
+330,Kreis::N,cylch,ҫавракӑш
+331,Kreuz::N,croes,хӗрес
+332,Linie::N,llinell,йӗр
+333,Strich::N,strôc,йӗр
+334,Strich::N,trawiad,йӗр
+335,Abstand::N,bwlch,хушӑ
+336,Abstand::N,pellter,хушӑ
+337,Entfernung::N,pellter,хушӑ
+338,Gegend::N,cylch,вырӑн
+339,Platz::N,lle,хутлӑх
+340,Ort::N,lle,вырӑн
+341,Seite::N,ochr,ен
+342,Seite::N,ochr,аяк
+343,Seite::N,ochr,айӑк
+344,Mitte::N,canol,варӑ
+345,Gegenstand::N,eitem,япала
+346,Sache::N,peth,япала
+347,Rand::N,cwr,вӗҫ
+348,Rand::N,cwr,хӗрӗ
+349,Rand::N,cwr,хӗрри
+350,Rand::N,ymyl,вӗҫ
+351,Rand::N,ymyl,хӗрӗ
+352,Rand::N,ymyl,хӗрри
+353,Kante::N,min,хайкача
+354,Kante::N,min,хысак
+355,Kante::N,ymyl,хайкача
+356,Kante::N,ymyl,хысак
+357,Ecke::N,cornel,кӗтес
+358,Spitze::N,blaen,вӗҫ
+359,Ende::N,pen,вӗҫ
+360,Loch::N,twll,шӑтӑк
+361,Winkel::N,congl,кӗтес
+362,Muster::N,patrwm,эреш
+363,Größe::N,maint,пысӑкӑш
+364,Größe::N,maintioli,пысӑкӑш
+365,Länge::N,hyd,вӑрӑмӑш
+366,Höhe::N,uchder,ҫӳллӗш
+367,Gewicht::N,pwysau,виҫе
+368,Gewicht::N,pwysau,йывӑрӑш
+369,Menge::N,swm,йыш
+370,Menge::N,maint,йыш
+371,Haufen::N,pentwr,купа
+372,Reihe::N,rhes,рет
+373,Boot::N,cwch,кимӗ
+374,Ruder::N,rhwyf,кӗсмен
+375,Schlitten::N,sled,ҫуна
+376,Schlitten::N,car llusg,ҫуна
+377,Ski::N,sgi,йӗлтӗр
+378,Lagerfeuer::N,coelcerth,вут
+379,Lagerfeuer::N,coelcerth,кӑвайт
+380,Last::N,llwyth,сулмаклӑх
+381,Last::N,llwyth,йывӑр япала
+382,Gang::N,tro,куҫӑм
+383,Schritt::N,cam,утӑм
+384,Schritt::N,cam,пусӑм
+385,Norden::N,gogledd,ҫурҫӗр
+386,Süden::N,de,кӑнтӑр
+387,Westen::N,gorllewin,анӑҫ
+388,Westen::N,gorllewin,хӗвел анӑҫ
+389,Osten::N,dwyrain,хӗвел тухӑҫ
+390,Holz::N,pren,йывӑҫ
+391,Brett::N,bwrdd,хӑма
+392,Brett::N,astell,хӑма
+393,Platte::N,llech,плита
+394,Stütze::N,ateg,ура
+395,Stütze::N,cynhalydd,ура
+396,Stange::N,polyn,шерте
+397,Stock::N,ffon,патак
+398,Stock::N,brigyn,патак
+399,Stab::N,ffon,шӑчӑ
+400,Rohr::N,pibell,пӑрӑх
+401,Haus::N,tŷ,ҫурт
+402,Heim::N,cartref,кил
+403,Ofen::N,stof,кӑмака
+404,Fußboden::N,llawr,урай
+405,Tisch::N,bwrdd,сӗтел
+406,Stuhl::N,cadair,пукан
+407,Wiege::N,crud,сӑпка
+408,Bett::N,gwely,кравать
+409,Regal::N,silff,ҫӳлӗк
+410,Regal::N,silff,сентре
+411,Kiste::N,bocs,ещӗк
+412,Kiste::N,bocs,сунтӑх
+413,Kiste::N,blwch,ещӗк
+414,Kiste::N,blwch,сунтӑх
+415,Fenster::N,ffenestr,чӳрече
+416,Tür::N,drws,алӑк
+417,Tor::N,porth,хапха
+418,Zaun::N,ffens,хӳме
+419,Dach::N,to,тӑрӑ
+420,Leiter::N,ysgol,пусма
+421,Besen::N,ysgub,шӑпӑр
+422,Spaten::N,rhaw,кӗреҫе
+423,Schaufel::N,rhaw,кӗреҫе
+424,Gabel::N,fforc,вилка
+425,Löffel::N,llwy,кашӑк
+426,Messer::N,cyllell,ҫӗҫӗ
+427,Nagel::N,hoel,пӑта
+428,Netz::N,gwe,тетел
+429,Netz::N,rhwyd,тетел
+430,Haken::N,bach,йӑрхах
+431,Haken::N,bach,ҫекӗл
+432,Griff::N,carn,хӑлӑп
+433,Schloss::N,clo,ҫӑра
+434,Bild::N,llun,сӑн
+435,Bild::N,llun,сӑнлӑх
+436,Bild::N,llun,картина
+437,Bild::N,pictiwr,сӑн
+438,Bild::N,pictiwr,сӑнлӑх
+439,Bild::N,pictiwr,картина
+440,Figur::N,ffigur,кӗлетке
+441,Puppe::N,dol,пукане
+442,Beutel::N,cwd,михӗ
+443,Bündel::N,bwndel,ҫыхӑ
+444,Bündel::N,bwndel,тӗрке
+445,Bündel::N,coflaid,ҫыхӑ
+446,Bündel::N,coflaid,тӗрке
+447,Tasche::N,cod,сумка
+448,Eimer::N,bwced,витре
+449,Eimer::N,cunnog,витре
+450,Deckel::N,caead,хупӑ
+451,Geschirr::N,llestri,савӑт-сапа
+452,Sack::N,sach,михӗ
+453,Tasse::N,cwpan,курка
+454,Topf::N,pot,кастрюль
+455,Topf::N,crochan,кастрюль
+456,Kessel::N,tegell,хуран
+457,Essen::N,pryd o fwyd,апат
+458,Nahrung::N,bwyd,апат-ҫимӗс
+459,Speise::N,saig,апат
+460,Speise::N,saig,ҫимӗҫ
+461,Fleisch::N,cig,аш
+462,Fleisch::N,cig,какай
+463,Getreide::N,ŷd,тырӑ
+464,Getreide::N,llafur,тырӑ
+465,Brei::N,uwd,пӑтӑ
+466,Brot::N,bara,ҫӑкӑр
+467,Scheibe::N,tafell,чӗлӗ
+468,Scheibe::N,tafell,касӑк
+469,Fett::N,saim,ҫу
+470,Fett::N,braster,ҫу
+471,Butter::N,ymenyn,ҫу
+472,Öl::N,olew,ҫу
+473,Salz::N,halen,тӑвар
+474,Suppe::N,cawl,яшка
+475,Honig::N,mêl,пыл
+476,Milch::N,llaeth,сӗт
+477,Milch::N,llefrith,сӗт
+478,Tee::N,te,чей
+479,Leder::N,lledr,сӑран
+480,Wolle::N,gwlân,ҫӑм
+481,Stoff::N,lliain,тӗртӗм
+482,Stoff::N,brethyn,тӗртӗм
+483,Nadel::N,nodwydd,йӗп
+484,Faden::N,edau,ҫип
+485,Faden::N,edefyn,ҫип
+486,Knopf::N,botwm,тӳме
+487,Knoten::N,cwlwm,йӑлӑ
+488,Farbe::N,paent,сӑрӑ
+489,Kleidung::N,dillad,тум
+490,Kleidung::N,dillad,ҫипуҫ
+491,Kleidung::N,dillad,тум-тир
+492,Kleidung::N,gwisgoedd,тум
+493,Kleidung::N,gwisgoedd,ҫипуҫ
+494,Kleidung::N,gwisgoedd,тум-тир
+495,Hemd::N,crys,кӗпе
+496,Kragen::N,coler,ҫуха
+497,Ärmel::N,llawes,ҫанӑ
+498,Hose::N,trowsus,шӑлавар
+499,Gürtel::N,gwregys,пиҫиххи
+500,Mütze::N,cap,ҫӗлӗк
+501,Schuh::N,esgid,пушмак
+502,Schuh::N,esgid,ботинок
+503,Stiefel::N,botasen,атӑ
+504,Ring::N,modrwy,ҫӗрӗ
+505,Band::N,rhuban,хаю
+506,Band::N,rhuban,йӗсме
+507,Kamm::N,crib,тура
+508,Spiegel::N,drych,тӗкӗр
+509,Spiegel::N,drych,куҫ кӗски
+510,Riemen::N,strap,чӗн
+511,Schnur::N,llinyn,кантра
+512,Leine::N,tennyn,касмӑк
+513,Decke::N,blanced,утиял
+514,Decke::N,gwrthban,утиял
+515,Kissen::N,clustog,ҫытар
+516,Kissen::N,clustog,минтер
+517,Kissen::N,gobennydd,ҫытар
+518,Kissen::N,gobennydd,минтер
+519,Tuch::N,sgarff,тутӑр
+520,Handtuch::N,tywel,ал шӑлли
+521,Handtuch::N,lliain sychu,ал шӑлли
+522,Kraft::N,grym,вӑй
+523,Kraft::N,grym,хӑват
+524,Stärke::N,nerth,хал
+525,Stärke::N,nerth,хӑват
+526,Stärke::N,cryfder,хал
+527,Stärke::N,cryfder,хӑват
+528,Gesundheit::N,iechyd,хал
+529,Gesundheit::N,iechyd,сывлӑх
+530,Krankheit::N,afiechyd,чир
+531,Krankheit::N,anhwylder,чир
+532,Schmerz::N,poen,ырату
+533,Schmerz::N,gwayw,ырату
+534,Wunde::N,clwyf,суран
+535,Fieber::N,twymyn,сив чир
+536,Arznei::N,meddyginiaeth,эмел
+537,Brücke::N,pont,кӗпер
+538,Brunnen::N,ffynnon,ҫӑл
+539,Brunnen::N,ffynnon,пусӑ
+540,Weide::N,porfa,ҫаран
+541,Pfad::N,llwybr,йӗр
+542,Pfad::N,llwybr,сукмак
+543,Weg::N,ffordd,ҫул
+544,Weg::N,ffordd,ҫул-йӗр
+545,Straße::N,heol,ҫӳрев
+546,Straße::N,heol,ҫул ҫӳрени
+547,Straße::N,ffordd,ҫӳрев
+548,Straße::N,ffordd,ҫул ҫӳрени
+549,Dorf::N,pentref,ял
+550,Stadt::N,tref,хула
+551,Brief::N,llythyr,ҫыру
+552,Buch::N,llyfr,кӗнеке
+553,Buchstabe::N,llythyren,сас палли
+554,Zeitung::N,papur newydd,хаҫат
+555,Leben::N,bywyd,пурнӑҫ
+556,Tod::N,marwolaeth,вилӗм
+557,Grab::N,bedd,масар шӑтӑкӗ
+558,Kirche::N,eglwys,чиркӳ
+559,Sünde::N,pechod,ҫылӑх
+560,Gott::N,duw,турӑ
+561,Arbeiter::N,gweithiwr,рабочи
+562,Chef::N,pennaeth,пуҫлӑх
+563,Meister::N,meistr,ӑста
+564,Meister::N,meistr,мастер
+565,Arzt::N,meddyg,врач
+566,Arzt::N,meddyg,тухтӑр
+567,Lehrer::N,athro,учитель
+568,Lehrer::N,athro,вӗрентекен
+569,Geld::N,pres,укҫа
+570,Geld::N,arian,укҫа
+571,Geschäft::N,busnes,бизнес
+572,Laden::N,siop,магазин
+573,Preis::N,pris,хак
+574,Ware::N,nwydd,тавар
+575,Nutzen::N,elw,пайта
+576,Nutzen::N,budd,пайта
+577,Reichtum::N,cyfoeth,мул
+578,Welt::N,byd,тӗнче
+579,Land::N,gwlad,ҫӗр-шыв
+580,Staat::N,gwladwriaeth,патшàлӑх
+581,König::N,brenin,король
+582,Macht::N,grym,власть
+583,Macht::N,awdurdod,власть
+584,Grenze::N,ffin,чикӗ
+585,Grenze::N,goror,чикӗ
+586,Krieg::N,rhyfel,вӑрҫӑ
+587,Feind::N,gelyn,тӑшман
+588,Gewalt::N,ffyrnigrwydd,ирӗксӗрлӳ
+589,Kampf::N,brwydr,кӗрешӳ
+590,Bogen[Waffe]::N,bwa,ухӑ
+591,Pfeil::N,saeth,ҫӗмрен
+592,Pfeil::N,saeth,ухӑ йӗппи
+593,Gewehr::N,dryll,пӑшал
+594,Fehler::N,gwall,йӑнӑш
+595,Fehler::N,camgymeriad,йӑнӑш
+596,Lüge::N,celwydd,суя
+597,Lüge::N,celwydd,ултав
+598,Lüge::N,anwiredd,суя
+599,Lüge::N,anwiredd,ултав
+600,Schaden::N,niwed,сиен
+601,Schaden::N,difrod,сиен
+602,Unglück::N,anffawd,шар
+603,Unglück::N,anffawd,инкек
+604,Schuld::N,bai,айӑп
+605,Alter::N,oed,ҫул шучӗ
+606,Schluss::N,diwedd,пӗтни
+607,Schluss::N,diwedd,пӗтмӗш
+608,Zeit::N,amser,вӑхӑт
+609,Tag::N,dydd,кун
+610,Tag::N,diwrnod,кун
+611,Morgen::N,bore,ир
+612,Mittag::N,nawn,кӑнтӑрла
+613,Abend::N,noswaith,каҫ
+614,Nacht::N,nos,каҫ
+615,Woche::N,wythnos,эрне
+616,Monat::N,mis,уйӑх
+617,Jahr::N,blwyddyn,ҫулталӑк
+618,Frühling::N,gwanwyn,ҫур
+619,Frühling::N,gwanwyn,ҫуркунне
+620,Sommer::N,haf,ҫу
+621,Sommer::N,haf,ҫулла
+622,Herbst::N,hydref,кӗр
+623,Herbst::N,hydref,кӗркунне
+624,Winter::N,gaeaf,хӗл
+625,Winter::N,gaeaf,хӗлле
+626,Januar::N,Ionawr,январь
+627,Februar::N,Chwefror,февраль
+628,Februar::N,Chwefror,кӗҫӗн кӑрлач
+629,März::N,Mawrth,март
+630,März::N,Mawrth,пуш уйӑхӗ
+631,April::N,Ebrill,апрель
+632,Mai::N,Mai,май
+633,Juni::N,Mehefin,июнь
+634,Juli::N,Gorffennaf,июль
+635,August::N,Awst,август
+636,September::N,Medi,сентябрь
+637,September::N,Medi,авӑн уйӑхӗ
+638,Oktober::N,Hydref,октябрь
+639,November::N,Tachwedd,ноябрь
+640,Dezember::N,Rhagfyr,раштав
+641,Dezember::N,Rhagfyr,декабрь
+642,Montag::N,dydd Llun,тунти кун
+643,Dienstag::N,dydd Mawrth,ытлари кун
+644,Mittwoch::N,dydd Mercher,юн кун
+645,Donnerstag::N,dydd Iau,кӗҫнерни кун
+646,Freitag::N,dydd Gwener,эрне кун
+647,Samstag::N,dydd Sadwrn,шӑмат кун
+648,Sonntag::N,dydd Sul,вырсарни кун
+649,groß::A,mawr,пысӑк
+650,klein::A,bach,пӗчӗк
+651,lang::A,hir,вӑрӑм
+652,kurz::A,byr,кӗске
+653,kurz::A,cwta,кӗске
+654,breit::A,llydan,сарлака
+655,schmal::A,cul,ансӑр
+656,dicht::A,dwys,йӑвӑ
+657,dick[Gegenstand]::A,trwchus,хулӑн
+658,dünn::A,tenau,ҫинҫе
+659,dünn::A,tenau,ҫӳхе
+660,fein::A,main,тарай
+661,fein::A,main,вӗлтӗрти
+662,fest::A,cadarn,тӗреклӗ
+663,flach::A,gwastad,лаптак
+664,glatt::A,llyfn,такӑр
+665,hart::A,caled,хытӑ
+666,weich::A,meddal,ҫемҫе
+667,rund::A,crwn,ҫавра
+668,spitz::A,pigfain,шӗвӗр
+669,scharf::A,miniog,ҫивӗч
+670,stumpf::A,pŵl,мӑка
+671,stumpf::A,pŵl,пуклак
+672,stumpf::A,pŵl,тӗрӗнчӗк
+673,stumpf::A,pŵl,ӑнкарусӑр
+674,schwer::A,trwm,йывӑр
+675,schön::A,teg,илемлӗ
+676,schön::A,hardd,илемлӗ
+677,schön::A,prydferth,илемлӗ
+678,heiß::A,poeth,вӗри
+679,warm::A,twym,ӑшӑ
+680,warm::A,cynnes,ӑшӑ
+681,kalt::A,oer,сивӗ
+682,kühl::A,oeraidd,уҫӑ
+683,frisch::A,iach,уҫӑ
+684,feucht::A,llaith,йӗпе
+685,nass::A,gwlyb,нӳрӗ
+686,trocken::A,sych,типӗ
+687,voll::A,llawn,тулли
+688,leer::A,gwag,пушӑ
+689,offen::A,agored,уҫӑ
+690,geschlossen::A,caead,хупӑ
+691,geschlossen::A,caeëdig,хупӑ
+692,sauber::A,glân,таса
+693,schmutzig::A,budr,пылчӑклӑ
+694,schmutzig::A,budr,вараланчӑк
+695,schmutzig::A,brwnt,пылчӑклӑ
+696,schmutzig::A,brwnt,вараланчӑк
+697,roh::A,amrwd,чӗрӗ
+698,reif::A,aeddfed,пулнӑ
+699,reif::A,aeddfed,пиҫӗхнӗ
+700,reif::A,aeddfed,аталаннӑ
+701,reif::A,aeddfed,пиҫсе ҫитнӗ
+702,lecker::A,blasus,тутлӑ
+703,lecker::A,blasus,техӗмлӗ
+704,lecker::A,danteithiol,тутлӑ
+705,lecker::A,danteithiol,техӗмлӗ
+706,süß::A,melys,пылак
+707,bitter::A,chwerw,йӳҫӗ
+708,sauer::A,sur,йӳҫӗ
+709,sauer::A,sur,йӳҫек
+710,sauer::A,sur,кӑвасак
+711,hell::A,disglair,ҫутӑ
+712,dunkel::A,tywyll,тӗттӗм
+713,schwarz::A,du,хура
+714,weiß::A,gwyn,шурӑ
+715,rot::A,coch,хӗрлӗ
+716,gelb::A,melyn,сарӑ
+717,blau::A,glas,кӑвак
+718,grün::A,gwyrdd,симӗс
+719,grün::A,gwyrdd,пиҫмен
+720,grün::A,gwyrdd,ӑс пухман
+721,grau::A,llwyd,кӑвак
+722,bunt::A,lliwgar,чӑпар
+723,billig::A,rhad,йӳнӗ
+724,teuer::A,drud,хаклӑ
+725,wertvoll::A,gwerthfawr,паха
+726,blind::A,dall,суккӑр
+727,taub::A,byddar,хӑлхасӑр
+728,kräftig::A,nerthol,хӑватлӑ
+729,kräftig::A,grymus,хӑватлӑ
+730,stark::A,cryf,вирлӗ
+731,stark::A,cadarn,вирлӗ
+732,schwach::A,gwan,халсӑр
+733,fett::A,tew,самӑр
+734,fett::A,tew,мӑнтӑр
+735,schlank::A,main,йӑрӑс
+736,schlank::A,main,яштака
+737,hübsch::A,tlws,хитре
+738,böse::A,drwg,усал
+739,dumm::A,twp,ухмах
+740,faul::A,diog,наян
+741,faul::A,diog,юлхав
+742,faul::A,diog,ӳркенчӗк
+743,fleißig::A,dyfal,хастар
+744,geizig::A,crintach,хытӑ
+745,geizig::A,cybyddlyd,хытӑ
+746,klug::A,deallus,ӑслӑ
+747,geschickt::A,medrus,ӑста
+748,geschickt::A,deheuig,ӑста
+749,lieb::A,hoff,савнӑ
+750,lieb::A,annwyl,савнӑ
+751,lustig::A,llon,хаваслӑ
+752,sanft::A,mwyn,ачаш
+753,hungrig::A,newynog,выҫӑ
+754,krank::A,sâl,чирлӗ
+755,krank::A,gwael,чирлӗ
+756,nackt::A,noeth,ҫара
+757,traurig::A,trist,салхуллӑ
+758,lebendig::A,yn fyw,чӗрӗ
+759,gut::A,da,аван
+760,gut::A,da,лайӑх
+761,schlecht::A,drwg,япӑх
+762,schlecht::A,drwg,начар
+763,schlecht::A,gwael,япӑх
+764,schlecht::A,gwael,начар
+765,richtig::A,cywir,тӗрӗс
+766,schlimm::A,enbyd,йӗрӗнчӗк
+767,wahr::A,gwir,чӑн
+768,alt::A,hen,кивӗ
+769,neu::A,newydd,ҫӗнӗ
+770,ehemalig::A,blaenorol,пулнӑ
+771,alt[Lebewesen]::A,oedrannus,ватӑ
+772,jung::A,ifanc,яш
+773,jung::A,ifanc,ҫамрӑк
+774,arm::A,tlawd,чухӑн
+775,reich::A,cyfoethog,пуян
+776,bekannt::A,cynefin,пӗлӗш
+777,bekannt::A,cyfarwydd,пӗлӗш
+778,berühmt::A,enwog,чаплӑ
+779,fremd::A,estron,ют
+780,verschieden::A,gwahanol,расна
+781,nah::A,agos,ҫывӑх
+782,nah::A,agos,ҫывӑхри
+783,fern::A,pell,инҫе
+784,fern::A,pell,аякри
+785,linker::A,aswy,сулахай
+786,linker::A,chwith,сулахай
+787,rechter::A,de,сылтӑм
+788,rechter::A,deau,сылтӑм
+789,anderer::A,arall,урӑх
+790,erster::A,cyntaf,пӗрремӗш
+791,zweiter::A,ail,иккӗмӗш
+792,dritter::A,trydydd,виҫҫӗмӗш
+793,letzter::A,olaf,юлашки
+794,allein::ADV,unig,пӗччен
+795,allein::ADV,ar ei ben ei hun,пӗччен
+796,auf einmal::ADV,ar yr un pryd,кӗмӗрккен
+797,zusammen::ADV,ynghyd,пӗрле
+798,zusammen::ADV,gyda'i gilydd,пӗрле
+799,lange::ADV,amser hir,вӑрах
+800,plötzlich::ADV,yn sydyn,сасартӑк
+801,sofort::ADV,ar unwaith,тӳрех
+802,später::ADV,yn ddiweddarach,кайран
+803,jetzt::ADV,yn awr,халь
+804,jetzt::ADV,yn awr,халӗ
+805,heute::ADV,heddiw,паян
+806,morgen::ADV,yfory,ыран
+807,bald::ADV,yn fuan,халех
+808,bald::ADV,yn fuan,кӗҫех
+809,bald::ADV,gyda hyn,халех
+810,bald::ADV,gyda hyn,кӗҫех
+811,dann::ADV,yna,унтан
+812,dann::ADV,y pryd hwnnw,унтан
+813,gestern::ADV,ddoe,ӗнер
+814,einst::ADV,gynt,пӗррехинче
+815,damals::ADV,ar y pryd,ун чухне
+816,damals::ADV,ar y pryd,апла пулсан
+817,damals::ADV,bryd hynny,ун чухне
+818,damals::ADV,bryd hynny,апла пулсан
+819,danach::ADV,wedyn,унтан
+820,vorher::ADV,o'r blaen,малтан
+821,zuerst::ADV,yn gyntaf,пирвай
+822,einmal::ADV,unwaith,пӗррехинче
+823,manchmal::ADV,weithiau,хӑш чухне
+824,manchmal::ADV,ar brydiau,хӑш чухне
+825,oft::ADV,yn aml,тӑтӑш
+826,oft::ADV,yn fynych,тӑтӑш
+827,immer::ADV,bob amser,ялан
+828,niemals::ADV,ni ... byth,нихӑҫан та
+829,niemals::ADV,ni ... erioed,нихӑҫан та
+830,hier::ADV,yma,кунта
+831,hierhin::ADV,hyd yma,кунта
+832,von hier::ADV,oddi yma,кунтан
+833,dort::ADV,acw,унта
+834,dort::ADV,acw,ҫавӑнта
+835,dorthin::ADV,tuag yno,унта
+836,dorthin::ADV,tuag yno,ҫавӑнта
+837,geradeaus::ADV,syth ymlaen,тикӗс
+838,vorwärts::ADV,ymlaen,малалла
+839,rückwärts::ADV,yn ôl,хыҫала
+840,zurück::ADV,yn ôl,каялла
+841,unten::ADV,isod,аялта
+842,unten::ADV,oddi tanodd,аялта
+843,hinab::ADV,i lawr,аялта
+844,hinab::ADV,i waered,аялта
+845,oben::ADV,fry,ҫӳлте
+846,hinauf::ADV,i fyny,ҫӳле
+847,hinauf::ADV,i'r lan,ҫӳле
+848,überall::ADV,ym mhobman,таҫта та
+849,überall::ADV,ym mhobman,пур ҫӗрте те
+850,überall::ADV,ym mhobman,кирек ӑҫта та
+851,nicht::ADV,ni,мар
+852,nicht::ADV,nid,мар
+853,ein wenig::ADV,tipyn,пӑртак
+854,ein wenig::ADV,ychydig,пӑртак
+855,kaum::ADV,prin,аран
+856,sehr::ADV,iawn,питӗ
+857,so::ADV,fel,апла
+858,so::ADV,felly,апла
+859,noch::ADV,eto,татах
+860,nur::ADV,yn unig,ҫех
+861,schon::ADV,eisoes,ӗнтӗ
+862,schon::ADV,yn barod,ӗнтӗ
+863,wieder::ADV,drachefn,каллех
+864,vergebens::ADV,yn ofer,харам
+865,vor::PRP,o flaen,умӗнче
+866,hinter::PRP,ar ôl,кайра
+867,unter::PRP,islaw,айне
+868,unter::PRP,islaw,айӗпе
+869,unter::PRP,islaw,айӗнче
+870,unter::PRP,islaw,ҫитеспе
+871,durch::PRP,trwy,витӗр
+872,neben::PRP,ar bwys,патӗнче
+873,zwischen::PRP,rhwng,хушшинче
+874,zwischen::PRP,cydrhwng,хушшинче
+875,wegen::PRP,o achos,пула
+876,wegen::PRP,o achos,пирки
+877,wegen::PRP,oherwydd,пула
+878,wegen::PRP,oherwydd,пирки
+879,dies::PRN,hyn,ку
+880,dies::PRN,hyn,ҫак
+881,das::PRN,hynny,ҫав
+882,alles::PRN,popeth,пурте
+883,alles::PRN,popeth,йӑлт
+884,ich::PRN,fi,эп
+885,du::PRN,ti,эс
+886,er::PRN,fe,вӑл
+887,wir::PRN,ni,эпир
+888,ihr::PRN,chi,эсир
+889,sie::PRN,hwy,вӗсем
+890,was::FPRN,pa beth,мӗн
+891,was::FPRN,pa beth,мӗскер
+892,was::FPRN,pa beth,мӗн те пулин
+893,wer::FPRN,pwy,кам
+894,wo::FADV,ble,ӑҫта
+895,wo::FADV,ym mha le,ӑҫта
+896,wohin::FADV,i ble,ӑҫта
+897,wohin::FADV,i ba le,ӑҫта
+898,wie::FADV,sut,епле
+899,wie::FADV,sut,мӗнле
+900,warum::FADV,pam,ма
+901,warum::FADV,pam,мӗншӗн
+902,wieviel::FNUM,faint,миҫе
+903,eins::NUM,un,пӗр
+904,eins::NUM,un,пӗрре
+905,zwei::NUM,dau,ик
+906,zwei::NUM,dau,икӗ
+907,zwei::NUM,dau,иккӗ
+908,drei::NUM,tri,виҫ
+909,drei::NUM,tri,виҫӗ
+910,drei::NUM,tri,виҫҫӗ
+911,vier::NUM,pedwar,тӑват
+912,fünf::NUM,pump,пилӗк
+913,fünf::NUM,pump,пиллӗк
+914,sechs::NUM,chwech,улт
+915,sechs::NUM,chwech,ултӑ
+916,sechs::NUM,chwech,улттӑ
+917,sieben::NUM,saith,ҫич
+918,sieben::NUM,saith,ҫичӗ
+919,sieben::NUM,saith,ҫиччӗ
+920,acht::NUM,wyth,сакӑр
+921,acht::NUM,wyth,саккӑр
+922,neun::NUM,naw,тӑхӑр
+923,neun::NUM,naw,тӑххӑр
+924,zehn::NUM,deg,вунӑ
+925,zehn::NUM,deg,вуннӑ
+926,elf::NUM,un ar ddeg,вун пӗр
+927,zwölf::NUM,deuddeg,вун ик
+928,zwölf::NUM,deuddeg,вун икӗ
+929,zwölf::NUM,deuddeg,вун иккӗ
+930,zwölf::NUM,un deg dau,вун ик
+931,zwölf::NUM,un deg dau,вун икӗ
+932,zwölf::NUM,un deg dau,вун иккӗ
+933,zwanzig::NUM,ugain,ҫирӗм
+934,dreißig::NUM,tri deg,вӑтӑр
+935,dreißig::NUM,deg ar hugain,вӑтӑр
+936,vierzig::NUM,deugain,хӗрӗх
+937,fünfzig::NUM,hanner cant,аллӑ
+938,sechzig::NUM,chwe deg,утмӑл
+939,siebzig::NUM,saith deg,ҫитмӗл
+940,siebzig::NUM,deg a thrigain,ҫитмӗл
+941,achtzig::NUM,wyth deg,сакӑр вунӑ
+942,achtzig::NUM,wyth deg,сакӑр вуннӑ
+943,achtzig::NUM,pedar ugain,сакӑр вунӑ
+944,achtzig::NUM,pedar ugain,сакӑр вуннӑ
+945,neunzig::NUM,naw deg,тӑхӑр вун
+946,neunzig::NUM,naw deg,тӑхӑр вунӑ
+947,neunzig::NUM,naw deg,тӑхӑр вуннӑ
+948,neunzig::NUM,deg a phedwar ugain,тӑхӑр вун
+949,neunzig::NUM,deg a phedwar ugain,тӑхӑр вунӑ
+950,neunzig::NUM,deg a phedwar ugain,тӑхӑр вуннӑ
+951,hundert::NUM,cant,ҫӗр
+952,tausend::NUM,mil,пин
+953,und::CNJ,a,та
+954,oder::CNJ,neu,е
+955,stehen::V,sefyll,тӑр
+956,sitzen::V,eistedd,лар
+957,liegen::V,gorwedd,вырт
+958,hängen::V,hongian,усӑнса тӑр
+959,hängen::V,hongian,ҫакӑнса тӑр
+960,werden::V,dod yn,пул
+961,werden::V,mynd yn,пул
+962,passieren::V,digwydd,пул
+963,beginnen::V,cychwyn,пуҫлан
+964,enden::V,gorffen,пӗт
+965,enden::V,gorffen,вӗҫлен
+966,wechseln::V,newid,улшӑн
+967,aufgehen[Sonne]::V,codi,тух
+968,untergehen[Sonne]::V,machlud,анса лар
+969,scheinen[Sonne]::V,tywynnu,пӑх
+970,donnern::V,taranu,кӗмсӗртет
+971,donnern::V,taranu,авӑт
+972,wehen::V,chwythu,варкӑш
+973,strömen::V,ffrydio,тӑкӑн
+974,fließen::V,llifo,юх
+975,sich drehen::V,troi,ҫаврӑн
+976,sich drehen::V,cylchdroi,ҫаврӑн
+977,schwanken::V,siglo,чӳхен
+978,schwingen::V,siglo,суллан
+979,fallen::V,cwympo,кип
+980,fallen::V,cwympo,тӳр кип
+981,fallen::V,cwympo,татӑлса ан
+982,brennen::V,llosgi,ҫун
+983,rauchen::V,mygu,мӑкӑрлан
+984,rauchen::V,mygu,тӗтӗм кӑлар
+985,regnen::V,glawio,ҫумӑр ҫӑвать
+986,gefrieren::V,rhewi,шӑн
+987,tauen::V,toddi,ирӗл
+988,tauen::V,meirioli,ирӗл
+989,schmelzen::V,toddi,ирӗл
+990,trocknen::V,sychu,тип
+991,sieden::V,berwi,вӗре
+992,faulen::V,pydru,ҫӗр
+993,faulen::V,braenu,ҫӗр
+994,verfaulen::V,pydru,ҫӗр
+995,verfaulen::V,dadfeilio,ҫӗр
+996,reißen::V,clecian,ҫурӑл
+997,reißen::V,torri'n glats,ҫурӑл
+998,versinken::V,suddo,пут
+999,vergehen::V,myned heibio,ирт
+1000,vergehen::V,pasio,ирт
+1001,erscheinen::V,ymddangos,курӑн
+1002,erscheinen::V,ymddangos,курӑнса кай
+1003,verschwinden::V,diflannu,ҫухал
+1004,sinken::V,syrthio,чак
+1005,abnehmen::V,lleihau,чак
+1006,zunehmen::V,cynyddu,пысӑклан
+1007,steigen::V,codi,ҫӗклен
+1008,wachsen::V,tyfu,ӳс
+1009,glänzen::V,disgleirio,ҫиҫ
+1010,funkeln::V,pefrio,ялкӑш
+1011,funkeln::V,pefrio,йӑлтӑртат
+1012,lärmen::V,cadw sŵn,шавла
+1013,lärmen::V,gwneud twrw,шавла
+1014,läuten::V,canu,шӑнкӑравла
+1015,klingeln::V,canu,шӑнкӑравла
+1016,klingeln::V,seinio,шӑнкӑравла
+1017,klirren::V,tincian,калтлат
+1018,klirren::V,tincian,шӑнкӑлтат
+1019,brausen::V,rhuo,ахӑр
+1020,rauschen::V,siffrwd,вашӑлтат
+1021,rauschen::V,siffrwd,чашӑлтат
+1022,rauschen::V,chwithrwd,вашӑлтат
+1023,rauschen::V,chwithrwd,чашӑлтат
+1024,klingen::V,seinio,янӑра
+1025,bellen::V,cyfarth,вӗр
+1026,heulen::V,udo,ула
+1027,heulen::V,oernadu,ула
+1028,blasen::V,chwythu,вӗр
+1029,pfeifen::V,chwibanu,шӑхӑр
+1030,schreien::V,gweiddi,кӑшкӑр
+1031,schreien::V,bloeddio,кӑшкӑр
+1032,stöhnen::V,griddfan,йынӑш
+1033,zittern::V,crynu,чӗтре
+1034,leben::V,byw,пурӑн
+1035,geboren werden::V,cael eich geni,ҫурал
+1036,atmen::V,anadlu,сывла
+1037,trinken::V,yfed,ӗҫ
+1038,essen::V,bwyta,ҫи
+1039,schlucken::V,llyncu,ҫӑт
+1040,müde werden::V,blino,ӗшен
+1041,einschlafen::V,mynd i gysgu,ыйха пут
+1042,einschlafen::V,mynd i gysgu,ҫывӑрса кай
+1043,einschlafen::V,syrthio i gysgu,ыйха пут
+1044,einschlafen::V,syrthio i gysgu,ҫывӑрса кай
+1045,schlafen::V,huno,ҫывӑр
+1046,schlafen::V,cysgu,ҫывӑр
+1047,aufwachen::V,dihuno,вӑран
+1048,aufstehen::V,codi,тӑр
+1049,sich erholen::V,ymlacio,кан
+1050,sich erholen::V,dadflino,кан
+1051,krank werden::V,mynd yn sâl,чирле
+1052,krank werden::V,mynd yn wael,чирле
+1053,krank sein::V,gwaelu,чирле
+1054,schmerzen::V,brifo,сур
+1055,schmerzen::V,brifo,ырат
+1056,husten::V,pesychu,ӳсӗр
+1057,genesen::V,gwella,сывал
+1058,genesen::V,gwella,тӳрлен
+1059,genesen::V,cael yn ôl,сывал
+1060,genesen::V,cael yn ôl,тӳрлен
+1061,sterben::V,marw,вил
+1062,umkommen::V,trengi,вил
+1063,sich bewegen::V,symud,куҫ
+1064,sich rühren::V,syflyd,хускал
+1065,sich erheben::V,codi,тӑр
+1066,sich setzen::V,eistedd,лар
+1067,hinfallen::V,cwympo,ӳк
+1068,laufen::V,cerdded,ут
+1069,schreiten::V,camu,ут
+1070,spazierengehen::V,mynd am dro,уҫӑлса ҫӳре
+1071,spazierengehen::V,mynd am dro,уткаласа ҫӳре
+1072,eilen::V,rhuthro,васка
+1073,eilen::V,rhuthro,хыпалан
+1074,sich beeilen::V,brysio,васка
+1075,sich beeilen::V,brysio,хыпалан
+1076,sausen::V,rhuthro,ыткӑн
+1077,sausen::V,rhuthro,вӗҫтер
+1078,rennen::V,rhedeg,чуп
+1079,springen::V,llamu,сик
+1080,springen::V,neidio,сик
+1081,klettern::V,dringo,улӑх
+1082,schaukeln::V,siglo,йӳрӗн
+1083,kriechen::V,cropian,шу
+1084,kriechen::V,cropian,упален
+1085,schwimmen::V,nofio,иш
+1086,tauchen::V,plymio,чӑм
+1087,tauchen::V,ymsuddo,чӑм
+1088,rudern::V,rhwyfo,авӑс
+1089,fahren::V,gyrru,пыр
+1090,fahren::V,dreifio,пыр
+1091,fliegen::V,hedfan,вӗҫ
+1092,gehen::V,mynd,кай
+1093,weggehen::V,mynd,кай
+1094,weggehen::V,ymadael,кай
+1095,abfahren::V,ymadael,тапран
+1096,anhalten::V,stopio,чарӑн
+1097,hineingehen::V,mynd i mewn,кӗр
+1098,eintreten::V,mynd i,кӗр
+1099,kommen::V,dod,кил
+1100,ankommen::V,cyrraedd,ҫит
+1101,zurückkommen::V,dychwelyd,таврӑн
+1102,zurückkommen::V,dychwelyd,каялла кил
+1103,bleiben::V,aros,юл
+1104,bleiben::V,sefyll,юл
+1105,warten::V,aros,кӗт
+1106,warten::V,disgwyl,кӗт
+1107,erwarten::V,disgwyl,кӗт
+1108,suchen::V,chwilio am,шыра
+1109,finden::V,darganfod,туп
+1110,versuchen::V,profi,пикен
+1111,versuchen::V,ceisio,пикен
+1112,vorbereiten::V,paratoi,хатӗрле
+1113,lieben::V,caru,юрат
+1114,mögen::V,hoffi,кӑмӑлла
+1115,mögen::V,hoffi,килӗштер
+1116,lachen::V,chwerthin,кул
+1117,lachen::V,chwerthin,ахӑлтат
+1118,rühren::V,cynhyrfu,ҫулӑх
+1119,weinen::V,wylo,йӗр
+1120,weinen::V,wylo,макӑр
+1121,weinen::V,llefain,йӗр
+1122,weinen::V,llefain,макӑр
+1123,schimpfen::V,grwgnach,вӑрҫ
+1124,schimpfen::V,grwgnach,ятлаҫ
+1125,sich ärgern::V,gofidio,ҫиллен
+1126,sich fürchten::V,ofni,шиклен
+1127,fürchten::V,arswydo,хӑра
+1128,fliehen::V,ffoi,тар
+1129,flüchten::V,dianc,чупса тар
+1130,sehen::V,gweld,кур
+1131,anschauen::V,syllu,пӑхса ил
+1132,anschauen::V,edrych,пӑхса ил
+1133,ansehen::V,gwylio,пӑх
+1134,hören::V,clywed,илт
+1135,zuhören::V,gwrando,итле
+1136,zuhören::V,gwrando,тӑнла
+1137,probieren::V,profi,астив
+1138,riechen::V,arogli,шӑршла
+1139,fühlen::V,teimlo,туй
+1140,fühlen::V,teimlo,сис
+1141,fühlen::V,clywed,туй
+1142,fühlen::V,clywed,сис
+1143,scheinen::V,ymddangos,туйӑн
+1144,zu sehen sein::V,dod i'r golwg,курӑн
+1145,vernehmen::V,clywed sôn am,пӑл
+1146,frieren::V,bod yn oer,йӳтен
+1147,tun::V,gwneud,ту
+1148,können::V,gallu,пултар
+1149,wollen::V,bod mewn angen,те
+1150,anfangen::V,dechrau,пуҫла
+1151,beenden::V,darfod,пӗтер
+1152,beenden::V,gorffen,пӗтер
+1153,aufhören::V,peidio,пӑрах
+1154,gelingen::V,llwyddo,ӑн
+1155,geraten::V,diweddu,пул
+1156,öffnen::V,agor,уҫ
+1157,schließen::V,cau,хуп
+1158,stellen::V,gosod,ларт
+1159,stellen::V,gosod,тӑрат
+1160,setzen::V,gosod,ларт
+1161,legen::V,gosod,хур
+1162,berühren::V,cyffwrdd,перӗн
+1163,verbinden::V,cysylltu,сып
+1164,bedecken::V,gorchuddio,вит
+1165,aufhängen::V,crogi,ҫак
+1166,aufhängen::V,hongian,ҫак
+1167,anzünden::V,cynnau,ҫут
+1168,aufheben::V,codi,ҫӗкле
+1169,zurücklassen::V,gadael,манса хӑвар
+1170,verlieren::V,colli,ҫӗтер
+1171,fallen lassen::V,gollwng,ӳкер
+1172,machen::V,gwneud,ту
+1173,herstellen::V,cynhyrchu,ӑстала
+1174,bauen::V,adeiladu,ту
+1175,reparieren::V,trwsio,юса
+1176,reparieren::V,atgyweirio,юса
+1177,verbessern::V,diwygio,лайӑхлат
+1178,ändern::V,altro,улӑштар
+1179,graben::V,palu,чав
+1180,graben::V,palu,чакала
+1181,graben::V,cloddio,чав
+1182,graben::V,cloddio,чакала
+1183,beugen::V,plygu,кукӑрт
+1184,biegen::V,plygu,ав
+1185,biegen::V,plygu,кукӑрт
+1186,drehen::V,troelli,ҫавӑр
+1187,wenden::V,troi,ӳпӗнтер
+1188,umdrehen::V,troi,ҫавӑр
+1189,heben::V,codi,хӑпарт
+1190,hochheben::V,dyrchafu,йӑт
+1191,ergreifen::V,gafael,тыт
+1192,halten::V,dal,тыт
+1193,drücken::V,pwyso,пус
+1194,drücken::V,gwasgu,пус
+1195,schieben::V,gwthio,тӗк
+1196,schieben::V,gwthio,тӗрт
+1197,kratzen::V,crafu,хыр
+1198,lecken::V,llyfu,ҫула
+1199,beißen::V,cnoi,ҫырт
+1200,beißen::V,cnoi,хып
+1201,beißen::V,brathu,ҫырт
+1202,beißen::V,brathu,хып
+1203,abreißen::V,tynnu ymaith,тат
+1204,abschneiden::V,torri,кас
+1205,binden::V,clymu,ҫых
+1206,stecken::V,plannu,чик
+1207,brechen::V,torri,хуҫ
+1208,klopfen::V,taro,такка
+1209,hauen::V,taro,шакка
+1210,kleben::V,gludio,ҫыпӑҫтар
+1211,reiben::V,rhwbio,сӑтӑр
+1212,streichen::V,taenu,сӗр
+1213,schleifen::V,hogi,хӑйра
+1214,schneiden::V,torri,кас
+1215,rütteln::V,ysgytio,лӑка
+1216,rütteln::V,ysgytio,силлентер
+1217,schütteln::V,siglo,лӑка
+1218,schütteln::V,siglo,силлентер
+1219,schütteln::V,ysgwyd,лӑка
+1220,schütteln::V,ysgwyd,силлентер
+1221,schwenken::V,siglo,сулла
+1222,schütten::V,tywallt,тултар
+1223,füllen::V,llenwi,тултар
+1224,einwickeln::V,lapio,чӗрке
+1225,tragen::V,cludo,ҫӗкле
+1226,schleppen::V,llusgo,сӗтӗр
+1227,ziehen::V,tynnu,тӑс
+1228,aufbewahren::V,cadw,усра
+1229,werfen::V,taflu,пӑрах
+1230,fangen::V,dal,тыт
+1231,packen::V,cipio,тыт
+1232,packen::V,crafangu,тыт
+1233,verstecken::V,celu,пытарса хур
+1234,verstecken::V,cuddio,пытарса хур
+1235,teilen::V,rhannu,уйӑр
+1236,teilen::V,rhannu,пайла
+1237,schicken::V,anfon,яр
+1238,bringen::V,dod â,кӳр
+1239,hinzufügen::V,chwanegu,хуш
+1240,bekommen::V,cael,ил
+1241,bekommen::V,cael,туян
+1242,erhalten::V,derbyn,ил
+1243,erhalten::V,derbyn,туян
+1244,nehmen::V,cymryd,ил
+1245,wählen::V,dewis,суйла
+1246,auswählen::V,dethol,суйла
+1247,bewahren::V,cadw,упра
+1248,behindern::V,atal,кансӗрле
+1249,behindern::V,atal,чӑрмантар
+1250,behindern::V,rhwystro,кансӗрле
+1251,behindern::V,rhwystro,чӑрмантар
+1252,verderben::V,difetha,пӑс
+1253,beschädigen::V,niweidio,пӑс
+1254,zerbrechen::V,torri,ват
+1255,zerbrechen::V,torri,ҫӗмӗр
+1256,zerreißen::V,rhwygo,ҫур
+1257,zerstören::V,dinistrio,иш
+1258,verbrennen::V,llosgi,ҫунтар
+1259,geben::V,rhoi,пар
+1260,reichen::V,estyn,пар
+1261,schenken::V,rhoddi,парнеле
+1262,versprechen::V,addo,тума пул
+1263,versprechen::V,addo,сӑмах пар
+1264,wünschen::V,dymuno,сун
+1265,loben::V,canmol,ырла
+1266,küssen::V,cusanu,чуп ту
+1267,wiegen::V,siglo,сиктер
+1268,wiegen::V,siglo,силле
+1269,zudecken::V,gorchuddio,вит
+1270,wecken::V,deffro,вӑрат
+1271,zeigen::V,dangos,кӑтарт
+1272,führen::V,arwain,илсе пыр
+1273,führen::V,arwain,ҫавӑтса пыр
+1274,lehren::V,dysgu,вёрент
+1275,unterrichten::V,hyfforddi,вёрент
+1276,aufziehen::V,dod i fyny,вӗрент
+1277,leiten::V,arwain,тытса пыр
+1278,antreiben::V,annog,васкат
+1279,lassen::V,gadael,пусахла
+1280,lassen::V,gadael,хуш
+1281,einladen::V,gwahodd,чӗн
+1282,vereinigen::V,uno,пӗрлештер
+1283,vereinigen::V,cyfuno,пӗрлештер
+1284,besuchen::V,ymweld â,ҫит
+1285,besuchen::V,ymweld â,кӗрсе кур
+1286,treffen::V,cwrdd,тӗл пул
+1287,treffen::V,cyfarfod,тӗл пул
+1288,sich versammeln::V,casglu,пуҫтарӑн
+1289,sich versammeln::V,cynnull,пуҫтарӑн
+1290,spielen::V,chwarae,выля
+1291,singen::V,canu,юрла
+1292,tanzen::V,dawnsio,ташла
+1293,sich trennen::V,ymwahanu,уйрӑл
+1294,verlassen::V,gadael,хӑвар
+1295,retten::V,achub,ҫӑл
+1296,bewachen::V,gwarchod,хуралла
+1297,schützen::V,noddi,сыхла
+1298,verteidigen::V,amddiffyn,хӳтӗле
+1299,sich schlagen::V,ffraeo,ҫапӑҫ
+1300,sich schlagen::V,terfysgu,ҫапӑҫ
+1301,schießen::V,saethu,пер
+1302,siegen::V,ennill,ҫӗн
+1303,siegen::V,ennill,ҫӗнтер
+1304,ärgern::V,cythruddo,тарӑхтар
+1305,ärgern::V,cythruddo,ҫиллентер
+1306,schlagen::V,curo,ҫап
+1307,treten::V,cicio,тап
+1308,stechen::V,pigo,чик
+1309,stoßen::V,gwthio,чыш
+1310,stehlen::V,dwyn,вӑрла
+1311,stehlen::V,lladrata,вӑрла
+1312,stören::V,aflonyddu,кансӗрле
+1313,belästigen::V,trafferthu,аптӑрат
+1314,belästigen::V,trafferthu,хупла
+1315,verbergen::V,cuddio,пытар
+1316,täuschen::V,twyllo,суй
+1317,betrügen::V,hocedu,ултала
+1318,töten::V,lladd,вӗлер
+1319,wohnen::V,byw,чуна пар
+1320,wohnen::V,byw,парӑнса тӑр
+1321,arbeiten::V,gweithio,ӗҫле
+1322,sammeln::V,casglu,пух
+1323,pflücken::V,casglu,тат
+1324,jagen::V,hela,сунара ҫӳре
+1325,fischen::V,pysgota,пулӑ тыт
+1326,fassen::V,dal,тыт
+1327,hüten::V,bugeilio,кӗт
+1328,treiben::V,gyrru,хӑвала
+1329,anbinden::V,clymu,кӑкар
+1330,füttern::V,porthi,ҫитер
+1331,melken::V,godro,су
+1332,hacken::V,torri,вакла
+1333,gießen::V,dyfrhau,шӑвар
+1334,reifen::V,aeddfedu,пиҫ
+1335,zubereiten::V,coginio,пӗҫер
+1336,kochen::V,berwi,пӗҫер
+1337,backen::V,pobi,пӗҫер
+1338,backen::V,crasu,пӗҫер
+1339,braten::V,ffrio,ӑшала
+1340,umrühren::V,cyffroi,хутӑштар
+1341,stricken::V,gwau,ҫых
+1342,nähen::V,gwnïo,ҫӗле
+1343,färben::V,lliwio,пӗвет
+1344,reinigen::V,glanhau,тасат
+1345,waschen::V,golchi,ҫу
+1346,abwischen::V,sychu,шӑл
+1347,spülen::V,streulio,чӳхе
+1348,fegen::V,ysgubo,шӑл
+1349,kehren::V,ysgubo,шӑл
+1350,baden::V,cael bath,шыва кӗр
+1351,sich waschen::V,ymolchi,ҫӑвӑн
+1352,ausziehen::V,tynnu,салан
+1353,anziehen::V,gwisgo,тӑхӑн
+1354,sich anziehen::V,ymwisgo,тӑхӑн
+1355,kämmen::V,cribo,тура
+1356,schmücken::V,harddu,илемлет
+1357,schmücken::V,addurno,илемлет
+1358,sagen::V,dweud,те
+1359,sprechen::V,llefaru,кала
+1360,reden::V,siarad,сӑмахла
+1361,reden::V,siarad,калаҫ
+1362,sich unterhalten::V,sgwrsio,пупле
+1363,fragen::V,gofyn,ыйт
+1364,bitten::V,gofyn am,ыйт
+1365,erzählen::V,dweud,каласа пар
+1366,mitteilen::V,cyfleu,пӗлтер
+1367,mitteilen::V,cyfleu,хыпарла
+1368,nennen::V,enwi,те
+1369,nennen::V,enwi,чӗн
+1370,rufen::V,galw,чӗн
+1371,prahlen::V,brolio,мухтан
+1372,prahlen::V,brolio,вӗҫкӗнлен
+1373,prahlen::V,ymffrostio,мухтан
+1374,prahlen::V,ymffrostio,вӗҫкӗнлен
+1375,übersetzen::V,cyfieithu,куҫар
+1376,denken::V,meddwl,шухӑшла
+1377,glauben::V,credu,ӗнен
+1378,glauben::V,coelio,ӗнен
+1379,bemerken::V,sylwi,асӑрха
+1380,erkennen::V,adnabod,палла
+1381,begreifen::V,amgyffred,ӑнлан
+1382,verstehen::V,deall,пӗл
+1383,lernen::V,dysgu,вӗрен
+1384,wissen::V,gwybod,пӗл
+1385,wissen::V,gwybod,ӑнкар
+1386,sich erinnern an::V,cofio,аса ил
+1387,vergessen::V,anghofio,ман
+1388,vergessen::V,anghofio,манса кай
+1389,messen::V,mesur,виҫ
+1390,zählen::V,cyfrif,шутла
+1391,rechnen::V,cyfrifo,шутла
+1392,lesen::V,darllen,вула
+1393,malen::V,peintio,ӳкер
+1394,zeichnen::V,tynnu,ӳкер
+1395,schreiben::V,ysgrifennu,ҫыр
+1396,besitzen::V,meddu,тыт
+1397,kaufen::V,prynu,ил
+1398,kaufen::V,prynu,туян
+1399,verkaufen::V,gwerthu,сут
+1400,bezahlen::V,talu am,тӳле
+1401,zahlen::V,talu,тӳле
+1402,beherrschen::V,rheoli,тыт
+1403,beherrschen::V,llywodraethu,тыт
+1404,ertragen::V,dioddef,тӳс

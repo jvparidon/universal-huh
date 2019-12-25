@@ -1,0 +1,1373 @@
+,Concept_ID,cs,fr
+0,Auge::N,oko,œil
+1,Ohr::N,ucho,oreille
+2,Nase::N,nos,nez
+3,Mund::N,pusa,bouche
+4,Zahn::N,zub,dent
+5,Zunge::N,jazyk,langue
+6,Lippe::N,ret,lèvre
+7,Wange::N,tvář,joue
+8,Gesicht::N,obličej,face
+9,Gesicht::N,obličej,visage
+10,Stirn::N,čelo,front
+11,Haar::N,vlas,cheveu
+12,Haar::N,vlasy,cheveu
+13,Schnurrbart::N,kníry,moustache
+14,Bart::N,vousy,barbe
+15,Kinn::N,brada,menton
+16,Kiefer[Anatomie]::N,čelist,mâchoire
+17,Kehle::N,hrdlo,gorge
+18,Hals::N,krk,cou
+19,Genick::N,týl,nuque
+20,Kopf::N,hlava,tête
+21,Rücken::N,záda,dos
+22,Rücken::N,hřbet,dos
+23,Bauch::N,břicho,ventre
+24,Nabel::N,pupek,nombril
+25,Busen::N,ňadra,sein
+26,Brust::N,prsa,poitrine
+27,Schulter::N,plece,épaule
+28,Schulter::N,rameno,épaule
+29,Arm::N,ruka,bras
+30,Ellenbogen::N,loket,coude
+31,Hand::N,ruka,main
+32,Handfläche::N,dlaň,paume
+33,Finger::N,prst,doigt
+34,Fingernagel::N,nehet,ongle
+35,Nagel[Anatomie]::N,nehet,ongle
+36,Zeh::N,prst u nohy,orteil
+37,Zeh::N,prst u nohy,doigt de pied
+38,Fuß::N,noha,pied
+39,Ferse::N,pata,talon
+40,Knie::N,koleno,genou
+41,Oberschenkel::N,stehno,cuisse
+42,Bein::N,noha,jambe
+43,Körper::N,tělo,corps
+44,Haut::N,kůže,peau
+45,Blut::N,krev,sang
+46,Ader::N,céva,veine
+47,Sehne::N,šlacha,tendon
+48,Knochen::N,kost,os
+49,Gehirn::N,mozek,cerveau
+50,Herz::N,srdce,cœur
+51,Magen::N,žaludek,estomac
+52,Leber::N,játra,foie
+53,Atem::N,dech,haleine
+54,Hunger::N,hlad,faim
+55,Träne::N,slza,larme
+56,Geschmack::N,vkus,goût
+57,Geschmack::N,vkus,saveur
+58,Geruch::N,vůně,odeur
+59,Geruch::N,zápach,odeur
+60,Schlaf::N,spánek,sommeil
+61,Traum::N,sen,songe
+62,Himmel::N,nebe,ciel
+63,Sonne::N,slunce,soleil
+64,Mond::N,měsíc,lune
+65,Stern::N,hvězda,étoile
+66,Luft::N,vzduch,air
+67,Wind::N,vítr,vent
+68,Welle::N,vlna,vague
+69,Wasser::N,voda,eau
+70,Stein::N,kámen,pierre
+71,Boden::N,půda,sol
+72,Boden::N,půda,terrain
+73,Erde::N,země,terre
+74,Staub::N,prach,poussière
+75,Rauch::N,dým,fumée
+76,Rauch::N,kouř,fumée
+77,Funke::N,jiskra,étincelle
+78,Feuer::N,oheň,feu
+79,Licht::N,světlo,lumière
+80,Schatten::N,stín,ombre
+81,Wetter::N,počasí,temps
+82,Nebel::N,mlha,brume
+83,Nebel::N,mlha,brouillard
+84,Wolke::N,mrak,nuage
+85,Wolke::N,oblak,nuage
+86,Regen::N,déšť,pluie
+87,Schnee::N,sníh,neige
+88,Eis::N,led,glace
+89,Frost::N,mráz,gel
+90,Frost::N,mráz,gelée
+91,Kälte::N,chlad,froid
+92,Hitze::N,horko,chaleur
+93,Raureif::N,jinovatka,givre
+94,Regenbogen::N,duha,arc-en-ciel
+95,Donner::N,hrom,tonnerre
+96,Strömung::N,proudění,courant
+97,Tropfen::N,kapka,goutte
+98,Schaum::N,pěna,écume
+99,Schaum::N,pěna,mousse
+100,Schmutz::N,špína,boue
+101,Schmutz::N,špína,saleté
+102,See::N,jezero,lac
+103,Sumpf::N,močál,marais
+104,Sumpf::N,močál,marécage
+105,Sumpf::N,bažina,marais
+106,Sumpf::N,bažina,marécage
+107,Moor::N,bažina,tourbière
+108,Moor::N,slatina,tourbière
+109,Wiese::N,louka,pré
+110,Wald::N,les,bois
+111,Wald::N,les,forêt
+112,Hügel::N,kopec,coteau
+113,Hügel::N,kopec,colline
+114,Anhöhe::N,pahorek,éminence
+115,Anhöhe::N,pahorek,élévation
+116,Berg::N,hora,mont
+117,Berg::N,hora,montagne
+118,Gipfel::N,vrchol,cime
+119,Gipfel::N,vrchol,sommet
+120,Höhle::N,jeskyně,caverne
+121,Abhang::N,svah,pente
+122,Abhang::N,svah,versant
+123,Abhang::N,stráň,pente
+124,Abhang::N,stráň,versant
+125,Quelle::N,pramen,source
+126,Quelle::N,pramen,fontaine
+127,Bach::N,potok,ruisseau
+128,Fluss::N,řeka,fleuve
+129,Fluss::N,řeka,rivière
+130,Ufer::N,břeh,bord
+131,Ufer::N,břeh,rivage
+132,Küste::N,pobřeží,côte
+133,Festland::N,souš,terre ferme
+134,Festland::N,pevnina,terre ferme
+135,Meer::N,moře,mer
+136,Bucht::N,záliv,baie
+137,Bucht::N,zátoka,baie
+138,Insel::N,ostrov,île
+139,Blume::N,květina,fleur
+140,Gras::N,tráva,herbe
+141,Wurzel::N,kořen,racine
+142,Baum::N,strom,arbre
+143,Stamm::N,kmen,tronc
+144,Rinde::N,kůra,écorce
+145,Ast::N,větev,branche
+146,Zweig::N,větev,rameau
+147,Blatt::N,lupen,feuille
+148,Birke::N,bříza,bouleau
+149,Kiefer[Baum]::N,sosna,pin
+150,Kiefer[Baum]::N,borovice,pin
+151,Weide[Baum]::N,vrba,saule
+152,Tanne::N,jedle,sapin
+153,Horn::N,roh,corne
+154,Feder::N,pero,plume
+155,Fell::N,srst,peau
+156,Flügel::N,křídlo,aile
+157,Klaue::N,dráp,serre
+158,Klaue::N,pazneht,serre
+159,Kralle::N,dráp,ongle
+160,Kralle::N,dráp,griffe
+161,Schwanz::N,ocas,queue
+162,Ei::N,vejce,œuf
+163,Nest::N,hnízdo,nid
+164,Bau::N,nora,terrier
+165,Tier::N,zvíře,animal
+166,Herde::N,stádo,troupeau
+167,Kuh::N,kráva,vache
+168,Bulle::N,býk,taureau
+169,Pferd::N,kůň,cheval
+170,Schaf::N,ovce,mouton
+171,Schwein::N,vepř,porc
+172,Schwein::N,vepř,cochon
+173,Schwein::N,prase,porc
+174,Schwein::N,prase,cochon
+175,Hund::N,pes,chien
+176,Katze::N,kočka,chat
+177,Bär::N,medvěd,ours
+178,Eichhörnchen::N,veverka,écureuil
+179,Elch::N,los,élan
+180,Fuchs::N,liška,renard
+181,Hase::N,zajíc,lièvre
+182,Maus::N,myš,souris
+183,Wolf::N,vlk,loup
+184,Vogel::N,pták,oiseau
+185,Schwarm::N,roj,nuée
+186,Schwarm::N,roj,volée
+187,Schwarm::N,hejno,nuée
+188,Schwarm::N,hejno,volée
+189,Huhn::N,kuře,poule
+190,Huhn::N,slepice,poule
+191,Hahn::N,kohout,coq
+192,Gans::N,husa,oie
+193,Adler::N,orel,aigle
+194,Ente::N,kachna,canard
+195,Eule::N,sova,hibou
+196,Kranich::N,jeřáb,grue
+197,Krähe::N,vrána,corneille
+198,Kuckuck::N,kukačka,coucou
+199,Schwan::N,labuť,cygne
+200,Fisch::N,ryba,poisson
+201,Barsch::N,okoun,perche
+202,Hecht::N,štika,brochet
+203,Schlange[Tier]::N,had,serpent
+204,Wurm::N,červ,ver
+205,Spinne::N,pavouk,araignée
+206,Ameise::N,mravenec,fourmi
+207,Laus::N,veš,pou
+208,Mücke::N,komár,moucheron
+209,Fliege::N,moucha,mouche
+210,Schmetterling::N,motýl,papillon
+211,Beere::N,bobule,baie
+212,Apfel::N,jablko,pomme
+213,Pilz::N,houba,champignon
+214,Zwiebel::N,cibule,oignon
+215,Saat::N,osivo,semence
+216,Korn::N,zrno,grain
+217,Heu::N,seno,foin
+218,Schale::N,slupka,pelure
+219,Schale::N,skořápka,pelure
+220,Grube::N,jáma,fosse
+221,Falle::N,past,piège
+222,Falle::N,léčka,piège
+223,Schlinge::N,smyčka,lacs
+224,Spur::N,stopa,trace
+225,Asche::N,popel,cendre
+226,Dreck::N,špína,crotte
+227,Eisen::N,železo,fer
+228,Gold::N,zlato,or
+229,Silber::N,stříbro,argent
+230,Kohle::N,uhlí,charbon
+231,Glas::N,sklo,verre
+232,Lehm::N,jíl,glaise
+233,Lehm::N,hlína,glaise
+234,Sand::N,písek,sable
+235,Mensch::N,člověk,homme
+236,Mann::N,muž,homme
+237,Frau::N,žena,femme
+238,Kind::N,dítě,enfant
+239,Junge::N,hoch,garçon
+240,Junge::N,chlapec,garçon
+241,Mädchen::N,děvče,fille
+242,Mädchen::N,děvče,jeune fille
+243,Familie::N,rodina,famille
+244,Großvater::N,děd,grand-père
+245,Großvater::N,dědeček,grand-père
+246,Großmutter::N,babička,grand-mère
+247,Eltern::N,rodiče,parents
+248,Vater::N,otec,père
+249,Mutter::N,matka,mère
+250,Sohn::N,syn,fils
+251,Tochter::N,dcera,fille
+252,Bruder::N,bratr,frère
+253,Schwester::N,sestra,sœur
+254,Onkel::N,strýc,oncle
+255,Tante::N,teta,tante
+256,Ehemann::N,choť,mari
+257,Ehemann::N,choť,époux
+258,Ehemann::N,manžel,mari
+259,Ehemann::N,manžel,époux
+260,Ehefrau::N,choť,femme
+261,Ehefrau::N,choť,épouse
+262,Ehefrau::N,manželka,femme
+263,Ehefrau::N,manželka,épouse
+264,Freude::N,radost,joie
+265,Freude::N,radost,plaisir
+266,Gelächter::N,smích,rires
+267,Glück::N,štěstí,bonheur
+268,Kummer::N,žal,peine
+269,Kummer::N,žal,chagrin
+270,Kummer::N,trápení,peine
+271,Kummer::N,trápení,chagrin
+272,Wunsch::N,přání,désir
+273,Lust::N,chuť,envie
+274,Geist::N,duch,esprit
+275,Gedanke::N,myšlenka,idée
+276,Gedanke::N,myšlenka,pensée
+277,Gedächtnis::N,paměť,mémoire
+278,Verstand::N,rozum,raison
+279,Sinn::N,smysl,sens
+280,Grund::N,důvod,cause
+281,Grund::N,důvod,raison
+282,Wahrheit::N,pravda,vérité
+283,Gespräch::N,rozhovor,conversation
+284,Märchen::N,pohádka,conte
+285,Märchen::N,pohádka,conte de fées
+286,Erzählung::N,povídka,conte
+287,Erzählung::N,povídka,narration
+288,Nachricht::N,zpráva,message
+289,Neuigkeit::N,novina,nouvelle
+290,Neuigkeit::N,novinka,nouvelle
+291,Name::N,jméno,nom
+292,Rätsel::N,hádanka,énigme
+293,Rätsel::N,hádanka,devinette
+294,Rede::N,řeč,parole
+295,Rede::N,řeč,discours
+296,Rede::N,proslov,parole
+297,Rede::N,proslov,discours
+298,Sprache::N,řeč,langue
+299,Sprache::N,řeč,langage
+300,Sprache::N,jazyk,langue
+301,Sprache::N,jazyk,langage
+302,Stimme::N,hlas,voix
+303,Wort::N,slovo,mot
+304,Zeichen::N,znamení,signe
+305,Ruf::N,zavolání,cri
+306,Ruf::N,zavolání,appel
+307,Lärm::N,hluk,bruit
+308,Laut::N,zvuk,son
+309,Ton::N,tón,ton
+310,Lied::N,píseň,chant
+311,Lied::N,píseň,chanson
+312,Ruhe::N,klid,calme
+313,Ruhe::N,klid,tranquillité
+314,Ruhe::N,pokoj,calme
+315,Ruhe::N,pokoj,tranquillité
+316,Leute::N,lidé,gens
+317,Volk::N,národ,peuple
+318,Arbeit::N,práce,travail
+319,Gast::N,host,hôte
+320,Gast::N,host,invité
+321,Geschenk::N,dar,cadeau
+322,Geschenk::N,dar,présent
+323,Spiel::N,hra,jeu
+324,Gesellschaft::N,společnost,compagnie
+325,Hilfe::N,pomoc,aide
+326,Hilfe::N,pomoc,secours
+327,Freund::N,přítel,ami
+328,Kamerad::N,kamarád,copain
+329,Kamerad::N,kamarád,camarade
+330,Angelegenheit::N,záležitost,affaire
+331,Anzahl::N,počet,nombre
+332,Art::N,druh,sorte
+333,Art::N,druh,espèce
+334,Stück::N,kus,morceau
+335,Stück::N,kousek,morceau
+336,Teil::N,díl,part
+337,Teil::N,díl,partie
+338,Teil::N,část,part
+339,Teil::N,část,partie
+340,Hälfte::N,půl,moitié
+341,Kreis::N,kruh,cercle
+342,Kreuz::N,kříž,croix
+343,Linie::N,linka,ligne
+344,Strich::N,čára,trait
+345,Strich::N,čárka,trait
+346,Abstand::N,vzdálenost,écart
+347,Entfernung::N,vzdálenost,distance
+348,Gegend::N,krajina,région
+349,Gegend::N,krajina,contrée
+350,Platz::N,prostor,place
+351,Ort::N,místo,lieu
+352,Ort::N,místo,endroit
+353,Seite::N,strana,côté
+354,Mitte::N,střed,milieu
+355,Mitte::N,prostředek,milieu
+356,Gegenstand::N,předmět,objet
+357,Sache::N,věc,chose
+358,Rand::N,kraj,bord
+359,Rand::N,okraj,bord
+360,Kante::N,hrana,arête
+361,Ecke::N,roh,coin
+362,Ecke::N,roh,tournant
+363,Spitze::N,hrot,cime
+364,Spitze::N,hrot,pointe
+365,Spitze::N,špička,cime
+366,Spitze::N,špička,pointe
+367,Ende::N,konec,bout
+368,Loch::N,díra,trou
+369,Winkel::N,kout,coin
+370,Winkel::N,kout,réduit
+371,Muster::N,vzor,dessin
+372,Größe::N,velikost,grandeur
+373,Länge::N,délka,longueur
+374,Höhe::N,výška,hauteur
+375,Höhe::N,výška,altitude
+376,Gewicht::N,váha,poids
+377,Menge::N,množství,quantité
+378,Haufen::N,kupa,tas
+379,Haufen::N,hromada,tas
+380,Reihe::N,řada,file
+381,Reihe::N,řada,rangée
+382,Reihe::N,řádek,file
+383,Reihe::N,řádek,rangée
+384,Boot::N,člun,canot
+385,Boot::N,člun,bateau
+386,Ruder::N,veslo,rame
+387,Ruder::N,veslo,aviron
+388,Schlitten::N,sáně,traîneau
+389,Ski::N,lyže,ski
+390,Lagerfeuer::N,táborák,feu de camp
+391,Last::N,náklad,charge
+392,Last::N,náklad,fardeau
+393,Last::N,břemeno,charge
+394,Last::N,břemeno,fardeau
+395,Gang::N,chůze,tour
+396,Gang::N,chůze,marche
+397,Gang::N,chodba,tour
+398,Gang::N,chodba,marche
+399,Schritt::N,krok,pas
+400,Norden::N,sever,nord
+401,Süden::N,jih,sud
+402,Westen::N,západ,ouest
+403,Westen::N,západ,occident
+404,Osten::N,východ,est
+405,Osten::N,východ,orient
+406,Holz::N,dřevo,bois
+407,Brett::N,prkno,planche
+408,Platte::N,deska,plaque
+409,Stütze::N,opěra,appui
+410,Stütze::N,opěra,soutien
+411,Stange::N,tyč,barre
+412,Stange::N,tyč,perche
+413,Stange::N,tyčka,barre
+414,Stange::N,tyčka,perche
+415,Stock::N,hůlka,canne
+416,Stab::N,hůl,bâton
+417,Rohr::N,trubka,tube
+418,Rohr::N,trubka,tuyau
+419,Haus::N,dům,maison
+420,Heim::N,domov,maison
+421,Ofen::N,kamna,poêle
+422,Fußboden::N,podlaha,plancher
+423,Tisch::N,stůl,table
+424,Stuhl::N,židle,chaise
+425,Wiege::N,kolébka,berceau
+426,Bett::N,postel,lit
+427,Regal::N,regál,étagère
+428,Regal::N,police,étagère
+429,Kiste::N,bedna,caisse
+430,Fenster::N,okno,fenêtre
+431,Tür::N,dveře,porte
+432,Tor::N,vrata,porte
+433,Tor::N,vrata,portail
+434,Zaun::N,plot,clôture
+435,Dach::N,střecha,toit
+436,Leiter::N,žebřík,échelle
+437,Besen::N,koště,balai
+438,Besen::N,smeták,balai
+439,Spaten::N,rýč,bêche
+440,Schaufel::N,lopata,pelle
+441,Gabel::N,vidlička,fourchette
+442,Löffel::N,lžíce,cuiller
+443,Messer::N,nůž,couteau
+444,Nagel::N,hřebík,clou
+445,Netz::N,síť,filet
+446,Haken::N,hák,croc
+447,Haken::N,hák,crochet
+448,Griff::N,držadlo,prise
+449,Griff::N,držadlo,manche
+450,Schloss::N,zámek,serrure
+451,Bild::N,obraz,image
+452,Bild::N,obraz,tableau
+453,Figur::N,figura,figure
+454,Puppe::N,panenka,poupée
+455,Beutel::N,pytlík,sac
+456,Beutel::N,pytlík,petit sac
+457,Bündel::N,svazek,paquet
+458,Bündel::N,svazek,faisceau
+459,Tasche::N,taška,sac
+460,Tasche::N,brašna,sac
+461,Eimer::N,kýbl,seau
+462,Eimer::N,vědro,seau
+463,Deckel::N,víko,couvercle
+464,Deckel::N,příklop,couvercle
+465,Geschirr::N,nádobí,vaisselle
+466,Sack::N,pytel,sac
+467,Tasse::N,šálek,tasse
+468,Topf::N,hrnec,pot
+469,Topf::N,hrnec,marmite
+470,Kessel::N,kotel,chaudron
+471,Essen::N,jídlo,repas
+472,Essen::N,jídlo,manger
+473,Nahrung::N,strava,nourriture
+474,Nahrung::N,potrava,nourriture
+475,Speise::N,jídlo,plat
+476,Fleisch::N,maso,viande
+477,Getreide::N,obilí,blé
+478,Getreide::N,obilí,céréales
+479,Brei::N,kaše,purée
+480,Brei::N,kaše,bouillie
+481,Brot::N,chléb,pain
+482,Scheibe::N,krajíc,tranche
+483,Fett::N,tuk,graisse
+484,Fett::N,omastek,graisse
+485,Butter::N,máslo,beurre
+486,Öl::N,olej,huile
+487,Salz::N,sůl,sel
+488,Suppe::N,polévka,soupe
+489,Suppe::N,polévka,potage
+490,Honig::N,med,miel
+491,Milch::N,mléko,lait
+492,Tee::N,čaj,thé
+493,Leder::N,kůže,cuir
+494,Wolle::N,vlna,laine
+495,Stoff::N,látka,tissu
+496,Stoff::N,látka,étoffe
+497,Nadel::N,jehla,aiguille
+498,Faden::N,nit,fil
+499,Knopf::N,knoflík,bouton
+500,Knoten::N,uzel,nœud
+501,Farbe::N,barva,peinture
+502,Kleidung::N,šaty,vêtements
+503,Kleidung::N,šaty,habillement
+504,Kleidung::N,šatstvo,vêtements
+505,Kleidung::N,šatstvo,habillement
+506,Hemd::N,košile,chemise
+507,Kragen::N,límec,col
+508,Ärmel::N,rukáv,manche
+509,Hose::N,kalhoty,pantalon
+510,Gürtel::N,pás,ceinture
+511,Gürtel::N,opasek,ceinture
+512,Mütze::N,čepice,bonnet
+513,Mütze::N,čepice,casquette
+514,Schuh::N,bota,soulier
+515,Schuh::N,bota,chaussure
+516,Stiefel::N,holínka,botte
+517,Ring::N,prsten,bague
+518,Band::N,pásek,ruban
+519,Kamm::N,hřeben,peigne
+520,Spiegel::N,zrcadlo,glace
+521,Spiegel::N,zrcadlo,miroir
+522,Riemen::N,řemen,lanière
+523,Riemen::N,řemen,courroie
+524,Schnur::N,šňůra,corde
+525,Schnur::N,šňůra,ficelle
+526,Leine::N,vodítko,laisse
+527,Decke::N,pokrývka,couverture
+528,Decke::N,přikrývka,couverture
+529,Kissen::N,polštář,oreiller
+530,Tuch::N,šátek,drap
+531,Tuch::N,šátek,fichu
+532,Handtuch::N,ručník,serviette
+533,Handtuch::N,ručník,essuie-mains
+534,Kraft::N,síla,force
+535,Stärke::N,síla,vigueur
+536,Gesundheit::N,zdraví,santé
+537,Krankheit::N,nemoc,maladie
+538,Krankheit::N,choroba,maladie
+539,Schmerz::N,bolest,douleur
+540,Wunde::N,rána,plaie
+541,Wunde::N,rána,blessure
+542,Fieber::N,horečka,fièvre
+543,Arznei::N,lék,remède
+544,Arznei::N,lék,médecine
+545,Brücke::N,most,pont
+546,Brunnen::N,studna,puits
+547,Weide::N,pastva,pâturage
+548,Weide::N,pastvina,pâturage
+549,Pfad::N,pěšina,sentier
+550,Weg::N,cesta,voie
+551,Weg::N,cesta,chemin
+552,Straße::N,silnice,route
+553,Dorf::N,vesnice,village
+554,Stadt::N,město,cité
+555,Stadt::N,město,ville
+556,Brief::N,dopis,lettre
+557,Buch::N,kniha,livre
+558,Buchstabe::N,písmeno,lettre
+559,Buchstabe::N,písmeno,caractère
+560,Zeitung::N,noviny,journal
+561,Leben::N,život,vie
+562,Tod::N,smrt,mort
+563,Grab::N,hrob,tombe
+564,Kirche::N,kostel,église
+565,Sünde::N,hřích,péché
+566,Gott::N,bůh,dieu
+567,Arbeiter::N,dělník,ouvrier
+568,Arbeiter::N,dělník,travailleur
+569,Arbeiter::N,pracovník,ouvrier
+570,Arbeiter::N,pracovník,travailleur
+571,Chef::N,šéf,chef
+572,Chef::N,šéf,patron
+573,Chef::N,vedoucí,chef
+574,Chef::N,vedoucí,patron
+575,Meister::N,mistr,maître
+576,Arzt::N,lékař,médecin
+577,Lehrer::N,učitel,professeur
+578,Lehrer::N,učitel,instituteur
+579,Geld::N,peníze,argent
+580,Geschäft::N,obchod,affaire
+581,Geschäft::N,obchod,commerce
+582,Laden::N,krám,magasin
+583,Laden::N,krám,boutique
+584,Preis::N,cena,prix
+585,Ware::N,zboží,marchandise
+586,Nutzen::N,užitek,profit
+587,Reichtum::N,bohatství,richesse
+588,Welt::N,svět,monde
+589,Land::N,země,pays
+590,Staat::N,stát,État
+591,König::N,král,roi
+592,Macht::N,moc,pouvoir
+593,Macht::N,moc,puissance
+594,Macht::N,mocnost,pouvoir
+595,Macht::N,mocnost,puissance
+596,Grenze::N,hranice,frontière
+597,Krieg::N,válka,guerre
+598,Feind::N,nepřítel,ennemi
+599,Gewalt::N,násilí,violence
+600,Kampf::N,boj,lutte
+601,Kampf::N,boj,combat
+602,Bogen[Waffe]::N,luk,arc
+603,Pfeil::N,šíp,flèche
+604,Gewehr::N,puška,fusil
+605,Gewehr::N,ručnice,fusil
+606,Fehler::N,chyba,faute
+607,Fehler::N,chyba,erreur
+608,Lüge::N,lež,mensonge
+609,Schaden::N,škoda,dégât
+610,Schaden::N,škoda,dommage
+611,Unglück::N,neštěstí,malheur
+612,Schuld::N,vina,faute
+613,Schuld::N,vina,culpabilité
+614,Alter::N,věk,âge
+615,Schluss::N,konec,fin
+616,Zeit::N,čas,temps
+617,Tag::N,den,jour
+618,Tag::N,den,journée
+619,Morgen::N,ráno,matin
+620,Morgen::N,ráno,matinée
+621,Morgen::N,jitro,matin
+622,Morgen::N,jitro,matinée
+623,Mittag::N,poledne,midi
+624,Abend::N,večer,soir
+625,Abend::N,večer,soirée
+626,Nacht::N,noc,nuit
+627,Woche::N,týden,semaine
+628,Monat::N,měsíc,mois
+629,Jahr::N,rok,an
+630,Jahr::N,rok,année
+631,Frühling::N,jaro,printemps
+632,Sommer::N,léto,été
+633,Herbst::N,podzim,automne
+634,Winter::N,zima,hiver
+635,Januar::N,leden,janvier
+636,Februar::N,únor,février
+637,März::N,březen,mars
+638,April::N,duben,avril
+639,Mai::N,květen,mai
+640,Juni::N,červen,juin
+641,Juli::N,červenec,juillet
+642,August::N,srpen,août
+643,September::N,září,septembre
+644,Oktober::N,říjen,octobre
+645,November::N,listopad,novembre
+646,Dezember::N,prosinec,décembre
+647,Montag::N,pondělí,lundi
+648,Montag::N,pondělek,lundi
+649,Dienstag::N,úterý,mardi
+650,Mittwoch::N,středa,mercredi
+651,Donnerstag::N,čtvrtek,jeudi
+652,Freitag::N,pátek,vendredi
+653,Samstag::N,sobota,samedi
+654,Sonntag::N,neděle,dimanche
+655,groß::A,velký,grand
+656,klein::A,malý,petit
+657,lang::A,dlouhý,long
+658,kurz::A,krátký,court
+659,breit::A,široký,large
+660,schmal::A,úzký,étroit
+661,dicht::A,hustý,dense
+662,dick[Gegenstand]::A,tlustý,épais
+663,dünn::A,tenký,mince
+664,fein::A,jemný,fin
+665,fein::A,jemný,menu
+666,fest::A,pevný,ferme
+667,fest::A,pevný,solide
+668,flach::A,plochý,plat
+669,flach::A,placatý,plat
+670,glatt::A,hladký,poli
+671,glatt::A,hladký,lisse
+672,hart::A,tvrdý,dur
+673,weich::A,měkký,mou
+674,rund::A,kulatý,rond
+675,rund::A,okrouhlý,rond
+676,spitz::A,špičatý,aigu
+677,spitz::A,špičatý,pointu
+678,scharf::A,ostrý,tranchant
+679,stumpf::A,tupý,mousse
+680,stumpf::A,tupý,émoussé
+681,schwer::A,těžký,lourd
+682,schwer::A,těžký,pesant
+683,schön::A,pěkný,beau
+684,schön::A,krásný,beau
+685,heiß::A,horký,chaud
+686,heiß::A,horký,très chaud
+687,warm::A,teplý,chaud
+688,kalt::A,studený,froid
+689,kühl::A,chladný,frais
+690,frisch::A,svěží,frais
+691,feucht::A,vlhký,humide
+692,nass::A,mokrý,mouillé
+693,trocken::A,suchý,sec
+694,voll::A,plný,plein
+695,voll::A,plný,rempli
+696,leer::A,prázdný,vide
+697,offen::A,otevřený,ouvert
+698,geschlossen::A,zavřený,clos
+699,geschlossen::A,zavřený,fermé
+700,sauber::A,čistý,net
+701,sauber::A,čistý,propre
+702,schmutzig::A,špinavý,sale
+703,schmutzig::A,špinavý,crasseux
+704,roh::A,syrový,cru
+705,roh::A,syrový,brut
+706,reif::A,zralý,mûr
+707,lecker::A,chutný,délicieux
+708,lecker::A,chutný,appétissant
+709,süß::A,sladký,doux
+710,bitter::A,hořký,amer
+711,sauer::A,kyselý,aigre
+712,hell::A,světlý,clair
+713,dunkel::A,temný,sombre
+714,schwarz::A,černý,noir
+715,weiß::A,bílý,blanc
+716,rot::A,rudý,rouge
+717,rot::A,červený,rouge
+718,gelb::A,žlutý,jaune
+719,blau::A,modrý,bleu
+720,grün::A,zelený,vert
+721,grau::A,šedý,gris
+722,grau::A,šedivý,gris
+723,bunt::A,pestrý,multicolore
+724,billig::A,levný,bon marché
+725,billig::A,laciný,bon marché
+726,teuer::A,drahý,cher
+727,wertvoll::A,cenný,précieux
+728,blind::A,slepý,aveugle
+729,taub::A,hluchý,sourd
+730,kräftig::A,silný,fort
+731,kräftig::A,silný,vigoureux
+732,stark::A,silný,fort
+733,stark::A,silný,puissant
+734,schwach::A,slabý,faible
+735,fett::A,tučný,gras
+736,fett::A,tlustý,gras
+737,schlank::A,štíhlý,svelte
+738,hübsch::A,hezký,joli
+739,böse::A,zlý,mauvais
+740,dumm::A,hloupý,sot
+741,dumm::A,hloupý,bête
+742,faul::A,líný,fainéant
+743,faul::A,líný,paresseux
+744,fleißig::A,pilný,appliqué
+745,geizig::A,lakomý,avare
+746,klug::A,chytrý,intelligent
+747,geschickt::A,šikovný,habile
+748,lieb::A,milý,cher
+749,lieb::A,milý,gentil
+750,lustig::A,veselý,gai
+751,lustig::A,veselý,joyeux
+752,sanft::A,mírný,doux
+753,hungrig::A,hladový,affamé
+754,krank::A,nemocný,malade
+755,nackt::A,nahý,nu
+756,traurig::A,smutný,triste
+757,traurig::A,truchlivý,triste
+758,lebendig::A,živý,vivant
+759,gut::A,dobrý,bon
+760,schlecht::A,špatný,mauvais
+761,richtig::A,pravý,juste
+762,richtig::A,pravý,correct
+763,richtig::A,správný,juste
+764,richtig::A,správný,correct
+765,schlimm::A,zlý,grave
+766,schlimm::A,zlý,mauvais
+767,wahr::A,pravdivý,vrai
+768,wahr::A,pravdivý,véritable
+769,alt::A,starý,vieux
+770,neu::A,nový,neuf
+771,neu::A,nový,nouveau
+772,ehemalig::A,bývalý,ancien
+773,alt[Lebewesen]::A,starý,âgé
+774,alt[Lebewesen]::A,starý,vieux
+775,jung::A,mladý,jeune
+776,arm::A,chudý,pauvre
+777,reich::A,bohatý,riche
+778,bekannt::A,známý,connu
+779,berühmt::A,slavný,fameux
+780,berühmt::A,slavný,célèbre
+781,fremd::A,cizí,étranger
+782,verschieden::A,různý,différent
+783,verschieden::A,rozličný,différent
+784,nah::A,blízký,lié
+785,nah::A,blízký,proche
+786,fern::A,daleký,éloigné
+787,fern::A,daleký,lointain
+788,linker::A,levý,gauche
+789,rechter::A,pravý,droit
+790,anderer::A,jiný,autre
+791,erster::A,první,premier
+792,zweiter::A,druhý,second
+793,zweiter::A,druhý,deuxième
+794,dritter::A,třetí,troisième
+795,letzter::A,poslední,dernier
+796,allein::ADV,sám,seul
+797,auf einmal::ADV,najednou,à la fois
+798,zusammen::ADV,spolu,ensemble
+799,zusammen::ADV,dohromady,ensemble
+800,lange::ADV,dlouho,longtemps
+801,plötzlich::ADV,vtom,tout à coup
+802,plötzlich::ADV,náhle,tout à coup
+803,sofort::ADV,hned,immédiatement
+804,sofort::ADV,ihned,immédiatement
+805,später::ADV,později,plus tard
+806,jetzt::ADV,teď,maintenant
+807,jetzt::ADV,nyní,maintenant
+808,heute::ADV,dnes,aujourd'hui
+809,heute::ADV,dneska,aujourd'hui
+810,morgen::ADV,zítra,demain
+811,bald::ADV,brzo,bientôt
+812,dann::ADV,pak,puis
+813,dann::ADV,pak,ensuite
+814,dann::ADV,potom,puis
+815,dann::ADV,potom,ensuite
+816,gestern::ADV,včera,hier
+817,einst::ADV,kdysi,jadis
+818,einst::ADV,kdysi,autrefois
+819,damals::ADV,tehdy,alors
+820,damals::ADV,tehdy,à l'époque
+821,damals::ADV,tenkrát,alors
+822,damals::ADV,tenkrát,à l'époque
+823,danach::ADV,podle toho,après
+824,danach::ADV,podle toho,ensuite
+825,vorher::ADV,dříve,auparavant
+826,vorher::ADV,napřed,auparavant
+827,zuerst::ADV,nejprve,d'abord
+828,zuerst::ADV,nejprve,premièrement
+829,zuerst::ADV,nejdříve,d'abord
+830,zuerst::ADV,nejdříve,premièrement
+831,einmal::ADV,jednou,une fois
+832,manchmal::ADV,někdy,parfois
+833,manchmal::ADV,někdy,quelquefois
+834,oft::ADV,často,souvent
+835,immer::ADV,vždy,toujours
+836,immer::ADV,stále,toujours
+837,niemals::ADV,nikdy,ne ... jamais
+838,hier::ADV,zde,ici
+839,hier::ADV,tady,ici
+840,hierhin::ADV,sem,par ici
+841,von hier::ADV,odtud,d'ici
+842,dort::ADV,tam,là
+843,dort::ADV,tam,là-bas
+844,dorthin::ADV,tam,y
+845,dorthin::ADV,tam,par là
+846,geradeaus::ADV,rovně,tout droit
+847,vorwärts::ADV,kupředu,en avant
+848,rückwärts::ADV,zpět,en arrière
+849,zurück::ADV,zpět,de retour
+850,zurück::ADV,nazpět,de retour
+851,unten::ADV,dole,en bas
+852,unten::ADV,dole,au-dessous
+853,hinab::ADV,dolů,en bas
+854,hinab::ADV,dolů,vers le bas
+855,oben::ADV,nahoře,dessus
+856,oben::ADV,nahoře,en haut
+857,oben::ADV,navrchu,dessus
+858,oben::ADV,navrchu,en haut
+859,hinauf::ADV,nahoru,en haut
+860,hinauf::ADV,nahoru,vers le haut
+861,überall::ADV,všude,partout
+862,nicht::ADV,ne,ne ... pas
+863,ein wenig::ADV,trochu,un peu
+864,kaum::ADV,sotva,à peine
+865,sehr::ADV,velmi,très
+866,sehr::ADV,velice,très
+867,so::ADV,tak,si
+868,so::ADV,tak,ainsi
+869,so::ADV,takto,si
+870,so::ADV,takto,ainsi
+871,noch::ADV,ještě,encore
+872,nur::ADV,jen,seulement
+873,nur::ADV,jen,ne ... que
+874,nur::ADV,jenom,seulement
+875,nur::ADV,jenom,ne ... que
+876,schon::ADV,už,déjà
+877,schon::ADV,již,déjà
+878,wieder::ADV,zase,de nouveau
+879,vergebens::ADV,marně,en vain
+880,vor::PRP,před,devant
+881,hinter::PRP,za,derrière
+882,unter::PRP,pod,sous
+883,unter::PRP,pod,au-dessous de
+884,durch::PRP,skrz,par
+885,durch::PRP,skrz,à travers
+886,neben::PRP,vedle,à côté de
+887,zwischen::PRP,mezi,entre
+888,wegen::PRP,pro,à cause de
+889,dies::PRN,toto,ceci
+890,dies::PRN,tohle,ceci
+891,das::PRN,to,ce
+892,das::PRN,to,cela
+893,alles::PRN,všechno,tout
+894,ich::PRN,já,je
+895,ich::PRN,já,moi
+896,du::PRN,ty,tu
+897,du::PRN,ty,toi
+898,er::PRN,on,il
+899,er::PRN,on,lui
+900,wir::PRN,my,nous
+901,ihr::PRN,vy,vous
+902,sie::PRN,oni,ils
+903,sie::PRN,oni,elles
+904,was::FPRN,co,que
+905,was::FPRN,co,quoi
+906,wer::FPRN,kdo,qui
+907,wo::FADV,kde,où
+908,wohin::FADV,kam,où
+909,wie::FADV,jak,comment
+910,warum::FADV,proč,pourquoi
+911,wieviel::FNUM,kolik,combien
+912,eins::NUM,jeden,un
+913,zwei::NUM,dva,deux
+914,drei::NUM,tři,trois
+915,vier::NUM,čtyři,quatre
+916,fünf::NUM,pět,cinq
+917,sechs::NUM,šest,six
+918,sieben::NUM,sedm,sept
+919,acht::NUM,osm,huit
+920,neun::NUM,devět,neuf
+921,zehn::NUM,deset,dix
+922,elf::NUM,jedenáct,onze
+923,zwölf::NUM,dvanáct,douze
+924,zwanzig::NUM,dvacet,vingt
+925,dreißig::NUM,třicet,trente
+926,vierzig::NUM,čtyřicet,quarante
+927,fünfzig::NUM,padesát,cinquante
+928,sechzig::NUM,šedesát,soixante
+929,siebzig::NUM,sedmdesát,soixante-dix
+930,achtzig::NUM,osmdesát,quatre-vingt
+931,neunzig::NUM,devadesát,quatre-vingt-dix
+932,hundert::NUM,sto,cent
+933,tausend::NUM,tisíc,mille
+934,und::CNJ,a,et
+935,oder::CNJ,nebo,ou
+936,stehen::V,stát,être debout
+937,sitzen::V,sedět,être assis
+938,liegen::V,ležet,être couché
+939,hängen::V,viset,pendre
+940,werden::V,stát se,devenir
+941,passieren::V,stát se,se passer
+942,beginnen::V,počít,commencer
+943,enden::V,končit,finir
+944,enden::V,končit,se terminer
+945,enden::V,skončit,finir
+946,enden::V,skončit,se terminer
+947,wechseln::V,měnit se,changer
+948,wechseln::V,měnit se,alterner
+949,aufgehen[Sonne]::V,vyjít,se lever
+950,untergehen[Sonne]::V,zapadnout,se coucher
+951,scheinen[Sonne]::V,svítit,briller
+952,donnern::V,hřmět,tonner
+953,wehen::V,vát,souffler
+954,wehen::V,vanout,souffler
+955,strömen::V,proudit,affluer
+956,fließen::V,téct,couler
+957,sich drehen::V,točit se,tourner
+958,schwanken::V,kolísat,osciller
+959,schwanken::V,kolísat,chanceler
+960,schwanken::V,houpat se,osciller
+961,schwanken::V,houpat se,chanceler
+962,schwingen::V,kývat se,vibrer
+963,schwingen::V,kývat se,osciller
+964,fallen::V,padat,tomber
+965,brennen::V,hořet,brûler
+966,brennen::V,hořet,flamber
+967,rauchen::V,kouřit,fumer
+968,regnen::V,pršet,pleuvoir
+969,gefrieren::V,zamrznout,geler
+970,tauen::V,tát,dégeler
+971,schmelzen::V,tavit,fondre
+972,trocknen::V,schnout,sécher
+973,sieden::V,vřít,bouillir
+974,faulen::V,hnít,pourrir
+975,faulen::V,hnít,se putréfier
+976,verfaulen::V,shnít,pourrir
+977,reißen::V,roztrhat se,rompre
+978,reißen::V,roztrhat se,se déchirer
+979,versinken::V,topit se,s'enfoncer
+980,versinken::V,ponořit se,s'enfoncer
+981,vergehen::V,plynout,passer
+982,erscheinen::V,objevit se,apparaître
+983,verschwinden::V,zmizet,disparaître
+984,sinken::V,klesat,descendre
+985,sinken::V,klesat,s'abaisser
+986,abnehmen::V,ubýt,diminuer
+987,zunehmen::V,přibýt,augmenter
+988,steigen::V,stoupat,monter
+989,wachsen::V,růst,croître
+990,glänzen::V,lesknout se,briller
+991,funkeln::V,jiskřit se,étinceler
+992,lärmen::V,dělat hluk,faire du bruit
+993,läuten::V,zvonit,sonner
+994,klingeln::V,zvonit,sonner
+995,klirren::V,řinčet,cliqueter
+996,brausen::V,hučet,mugir
+997,rauschen::V,šumět,bruire
+998,klingen::V,znít,sonner
+999,bellen::V,štěkat,aboyer
+1000,heulen::V,výt,hurler
+1001,blasen::V,foukat,souffler
+1002,pfeifen::V,pískat,siffler
+1003,schreien::V,křičet,crier
+1004,stöhnen::V,sténat,gémir
+1005,zittern::V,třást se,trembler
+1006,leben::V,žít,vivre
+1007,geboren werden::V,rodit se,naître
+1008,atmen::V,dýchat,respirer
+1009,trinken::V,pít,boire
+1010,essen::V,jíst,manger
+1011,schlucken::V,polykat,avaler
+1012,müde werden::V,unavit se,se lasser
+1013,müde werden::V,unavit se,se fatiguer
+1014,einschlafen::V,usnout,s'endormir
+1015,schlafen::V,spát,dormir
+1016,aufwachen::V,probudit se,se réveiller
+1017,aufstehen::V,vstát,se lever
+1018,sich erholen::V,zotavovat se,se reposer
+1019,sich erholen::V,zotavovat se,se détendre
+1020,krank werden::V,onemocnět,tomber malade
+1021,krank sein::V,být nemocný,être malade
+1022,schmerzen::V,bolet,faire mal
+1023,husten::V,kašlat,tousser
+1024,genesen::V,uzdravit se,guérir
+1025,genesen::V,uzdravit se,se remettre
+1026,sterben::V,umřít,mourir
+1027,umkommen::V,zahynout,périr
+1028,sich bewegen::V,pohnout se,bouger
+1029,sich rühren::V,hnout se,broncher
+1030,sich erheben::V,zdvihnout se,se lever
+1031,sich setzen::V,posadit se,s'asseoir
+1032,hinfallen::V,upadnout,tomber
+1033,laufen::V,běžet,marcher
+1034,laufen::V,běžet,aller à pied
+1035,schreiten::V,kráčet,marcher
+1036,spazierengehen::V,procházet se,se promener
+1037,eilen::V,spěchat,courir
+1038,sich beeilen::V,pospíšit si,se hâter
+1039,sich beeilen::V,pospíšit si,se dépêcher
+1040,sausen::V,fičet,filer
+1041,rennen::V,pádit,courir
+1042,springen::V,skákat,sauter
+1043,klettern::V,lézt,grimper
+1044,klettern::V,šplhat,grimper
+1045,schaukeln::V,houpat,se balancer
+1046,kriechen::V,lézt,ramper
+1047,kriechen::V,plazit se,ramper
+1048,schwimmen::V,plavat,nager
+1049,tauchen::V,nořit se,plonger
+1050,rudern::V,veslovat,ramer
+1051,fahren::V,jet,aller
+1052,fahren::V,jet,rouler
+1053,fahren::V,jezdit,aller
+1054,fahren::V,jezdit,rouler
+1055,fliegen::V,létat,voler
+1056,gehen::V,jít,aller
+1057,weggehen::V,odejít,s'en aller
+1058,abfahren::V,odjet,partir
+1059,anhalten::V,zastavit se,s'arrêter
+1060,hineingehen::V,vcházet se,entrer
+1061,eintreten::V,vstoupit,entrer
+1062,kommen::V,přijít,venir
+1063,ankommen::V,dojít,arriver
+1064,zurückkommen::V,vrátit se,revenir
+1065,bleiben::V,zůstat,rester
+1066,bleiben::V,zůstat,demeurer
+1067,warten::V,čekat,attendre
+1068,erwarten::V,čekat na,attendre
+1069,suchen::V,hledat,chercher
+1070,finden::V,najít,trouver
+1071,versuchen::V,zkoušet,essayer
+1072,vorbereiten::V,připravit,préparer
+1073,lieben::V,milovat,aimer
+1074,mögen::V,mít rád,aimer
+1075,mögen::V,mít rád,vouloir
+1076,lachen::V,smát se,rire
+1077,rühren::V,dojmout,toucher
+1078,rühren::V,dojmout,attendrir
+1079,weinen::V,plakat,pleurer
+1080,schimpfen::V,nadávat,gronder
+1081,sich ärgern::V,pohoršit se,se fâcher
+1082,sich fürchten::V,bát se,avoir peur
+1083,fürchten::V,bát se,craindre
+1084,fürchten::V,bát se,avoir peur de
+1085,fliehen::V,utéct,fuir
+1086,flüchten::V,prchnout,s'enfuir
+1087,sehen::V,vidět,voir
+1088,anschauen::V,podívat se na,regarder
+1089,ansehen::V,sledovat,regarder
+1090,hören::V,slyšet,entendre
+1091,zuhören::V,poslouchat,écouter
+1092,probieren::V,ochutnávat,goûter
+1093,riechen::V,cítit,sentir
+1094,fühlen::V,cítit,sentir
+1095,scheinen::V,zdát se,sembler
+1096,scheinen::V,zdát se,paraître
+1097,zu sehen sein::V,moci být viděn,se voir
+1098,zu sehen sein::V,moci být viděn,être visible
+1099,vernehmen::V,uslyšet,entendre
+1100,vernehmen::V,uslyšet,percevoir
+1101,frieren::V,mrznout,avoir froid
+1102,tun::V,dělat,faire
+1103,können::V,moct,savoir
+1104,können::V,moct,pouvoir
+1105,wollen::V,chtít,vouloir
+1106,anfangen::V,začít,commencer
+1107,beenden::V,ukončit,finir
+1108,beenden::V,ukončit,terminer
+1109,aufhören::V,přestat,cesser
+1110,aufhören::V,přestat,arrêter
+1111,gelingen::V,podařit se,réussir
+1112,geraten::V,dařit se,réussir
+1113,öffnen::V,otevřít,ouvrir
+1114,schließen::V,zavřít,fermer
+1115,stellen::V,postavit,poser
+1116,stellen::V,postavit,mettre
+1117,setzen::V,posadit,placer
+1118,legen::V,klást,placer
+1119,legen::V,položit,placer
+1120,berühren::V,dotýkat se,toucher
+1121,verbinden::V,spojit,lier
+1122,bedecken::V,pokrýt,couvrir
+1123,aufhängen::V,oběsit,accrocher
+1124,aufhängen::V,pověsit,accrocher
+1125,anzünden::V,zapálit,allumer
+1126,anzünden::V,podpálit,allumer
+1127,aufheben::V,zvednout,ramasser
+1128,aufheben::V,zdvihnout,ramasser
+1129,zurücklassen::V,zanechat,laisser
+1130,verlieren::V,ztratit,perdre
+1131,fallen lassen::V,upustit,lâcher
+1132,fallen lassen::V,upustit,laisser tomber
+1133,machen::V,udělat,faire
+1134,herstellen::V,vyrobit,produire
+1135,herstellen::V,vyrobit,fabriquer
+1136,bauen::V,stavět,bâtir
+1137,bauen::V,stavět,construire
+1138,bauen::V,budovat,bâtir
+1139,bauen::V,budovat,construire
+1140,reparieren::V,opravit,réparer
+1141,verbessern::V,zlepšit,améliorer
+1142,ändern::V,změnit,changer
+1143,ändern::V,změnit,modifier
+1144,graben::V,rýt,creuser
+1145,graben::V,kopat,creuser
+1146,beugen::V,ohnout,plier
+1147,beugen::V,ohnout,ployer
+1148,biegen::V,ohnout,courber
+1149,drehen::V,točit,tordre
+1150,drehen::V,točit,tourner
+1151,wenden::V,obrátit,retourner
+1152,umdrehen::V,obrátit,tourner
+1153,heben::V,zdvihnout,soulever
+1154,hochheben::V,zvednout,lever
+1155,ergreifen::V,chopit se,saisir
+1156,ergreifen::V,chopit se,prendre
+1157,halten::V,držet,tenir
+1158,drücken::V,stisknout,presser
+1159,schieben::V,posouvat,pousser
+1160,kratzen::V,škrábat,gratter
+1161,kratzen::V,škrábat,égratigner
+1162,lecken::V,lízat,lécher
+1163,beißen::V,kousat,mordre
+1164,abreißen::V,utrhat,arracher
+1165,abreißen::V,odtrhat,arracher
+1166,abschneiden::V,uřezat,couper
+1167,abschneiden::V,ukrojit,couper
+1168,binden::V,přivázat,lier
+1169,binden::V,přivázat,attacher
+1170,stecken::V,strčit,enfoncer
+1171,brechen::V,lomit,rompre
+1172,klopfen::V,ťukat,frapper
+1173,klopfen::V,klepat,frapper
+1174,hauen::V,bít,frapper
+1175,kleben::V,lepit,coller
+1176,reiben::V,třít,frotter
+1177,streichen::V,mazat,empâter
+1178,schleifen::V,brousit,affiler
+1179,schleifen::V,brousit,aiguiser
+1180,schneiden::V,řezat,couper
+1181,schneiden::V,řezat,trancher
+1182,schneiden::V,střihat,couper
+1183,schneiden::V,střihat,trancher
+1184,rütteln::V,třást,cahoter
+1185,rütteln::V,otřást,cahoter
+1186,schütteln::V,třást,secouer
+1187,schütteln::V,zatřást,secouer
+1188,schwenken::V,mávat,agiter
+1189,schütten::V,nasypat,verser
+1190,füllen::V,naplnit,remplir
+1191,einwickeln::V,zavinout,envelopper
+1192,tragen::V,nést,porter
+1193,schleppen::V,vléct,traîner
+1194,ziehen::V,tahat,tirer
+1195,ziehen::V,táhnout,tirer
+1196,aufbewahren::V,schovat,garder
+1197,aufbewahren::V,schovat,conserver
+1198,werfen::V,házet,jeter
+1199,werfen::V,házet,lancer
+1200,fangen::V,chytat,attraper
+1201,packen::V,uchvátit,agripper
+1202,verstecken::V,schovat,cacher
+1203,teilen::V,rozdělit,diviser
+1204,schicken::V,posílat,envoyer
+1205,bringen::V,přinést,apporter
+1206,hinzufügen::V,připojit,ajouter
+1207,bekommen::V,dostat,obtenir
+1208,erhalten::V,uchovat,recevoir
+1209,nehmen::V,vzít,prendre
+1210,wählen::V,zvolit,choisir
+1211,auswählen::V,vybrat,choisir
+1212,auswählen::V,vybrat,sélectionner
+1213,bewahren::V,uchránit,préserver
+1214,behindern::V,překážet,gêner
+1215,verderben::V,zkazit,gâter
+1216,verderben::V,zkazit,corrompre
+1217,beschädigen::V,porušit,endommager
+1218,beschädigen::V,poškodit,endommager
+1219,zerbrechen::V,rozlámat,casser
+1220,zerreißen::V,roztrhnout,déchirer
+1221,zerstören::V,zničit,détruire
+1222,verbrennen::V,spálit,brûler
+1223,geben::V,dát,donner
+1224,reichen::V,podat,tendre
+1225,schenken::V,darovat,offrir
+1226,versprechen::V,slíbit,promettre
+1227,wünschen::V,přát,souhaiter
+1228,loben::V,chválit,louer
+1229,küssen::V,líbat,embrasser
+1230,wiegen::V,chovat,bercer
+1231,wiegen::V,kolébat,bercer
+1232,zudecken::V,přikrýt,couvrir
+1233,zudecken::V,přiklopit,couvrir
+1234,wecken::V,vzbudit,éveiller
+1235,wecken::V,vzbudit,réveiller
+1236,zeigen::V,ukázat,montrer
+1237,zeigen::V,ukázat,faire voir
+1238,führen::V,vést,guider
+1239,lehren::V,učit,apprendre
+1240,unterrichten::V,vyučovat,instruire
+1241,aufziehen::V,vychovat,élever
+1242,leiten::V,vodit,diriger
+1243,leiten::V,vodit,conduire
+1244,antreiben::V,nutit,pousser
+1245,lassen::V,dát,faire
+1246,einladen::V,pozvat,inviter
+1247,vereinigen::V,spojit,unir
+1248,vereinigen::V,spojit,réunir
+1249,besuchen::V,návštívit,visiter
+1250,besuchen::V,návštívit,aller voir
+1251,treffen::V,potkat,rencontrer
+1252,sich versammeln::V,shromáždit se,s'assembler
+1253,spielen::V,hrát,jouer
+1254,singen::V,zpívat,chanter
+1255,tanzen::V,tančit,danser
+1256,sich trennen::V,rozejít se,se séparer
+1257,verlassen::V,opustit,quitter
+1258,retten::V,zachránit,sauver
+1259,bewachen::V,hlídat,garder
+1260,schützen::V,chránit,protéger
+1261,verteidigen::V,obhájit,défendre
+1262,sich schlagen::V,bít se,se taper
+1263,schießen::V,střílet,tirer
+1264,siegen::V,zvítězit,vaincre
+1265,ärgern::V,zlobit,agacer
+1266,ärgern::V,pohoršit,agacer
+1267,schlagen::V,udeřit,battre
+1268,schlagen::V,udeřit,frapper
+1269,schlagen::V,praštit,battre
+1270,schlagen::V,praštit,frapper
+1271,treten::V,kopnout,botter
+1272,treten::V,kopnout,donner un coup de pied à
+1273,stechen::V,bodnout,piquer
+1274,stechen::V,píchnout,piquer
+1275,stoßen::V,strčit,heurter
+1276,stehlen::V,ukrást,voler
+1277,stören::V,vyrušit,gêner
+1278,stören::V,vyrušit,déranger
+1279,belästigen::V,obtěžovat,molester
+1280,belästigen::V,obtěžovat,importuner
+1281,verbergen::V,skrýt,cacher
+1282,verbergen::V,skrýt,dissimuler
+1283,täuschen::V,klamat,abuser
+1284,täuschen::V,klamat,tromper
+1285,betrügen::V,podvést,duper
+1286,betrügen::V,podvést,frauder
+1287,töten::V,zabít,tuer
+1288,wohnen::V,bydlit,habiter
+1289,wohnen::V,bydlit,demeurer
+1290,arbeiten::V,pracovat,travailler
+1291,sammeln::V,sebrat,collectionner
+1292,pflücken::V,česat,cueillir
+1293,jagen::V,uhonit,chasser
+1294,fischen::V,chytat ryby,pêcher
+1295,fassen::V,ulovit,capturer
+1296,hüten::V,pást,garder
+1297,treiben::V,hnát,mener
+1298,anbinden::V,přivázat,attacher
+1299,füttern::V,krmit,faire manger
+1300,melken::V,dojit,traire
+1301,hacken::V,seknout,fendre
+1302,gießen::V,zalít,arroser
+1303,reifen::V,uzrát,mûrir
+1304,zubereiten::V,připravit,préparer
+1305,kochen::V,vařit,cuire
+1306,backen::V,péct,cuire
+1307,braten::V,smažit,rôtir
+1308,umrühren::V,zamíchat,remuer
+1309,stricken::V,plést,tricoter
+1310,nähen::V,šít,coudre
+1311,färben::V,nabarvit,teindre
+1312,reinigen::V,očistit,nettoyer
+1313,waschen::V,mýt,laver
+1314,abwischen::V,utřít,essuyer
+1315,spülen::V,spláchnout,rincer
+1316,fegen::V,zamést,balayer
+1317,kehren::V,mést,balayer
+1318,baden::V,koupat se,se baigner
+1319,sich waschen::V,mýt se,se laver
+1320,ausziehen::V,svléct,ôter
+1321,ausziehen::V,svléct,enlever
+1322,anziehen::V,obléct,mettre
+1323,sich anziehen::V,oblékat se,s'habiller
+1324,kämmen::V,učesat,peigner
+1325,schmücken::V,ozdobit,orner
+1326,schmücken::V,ozdobit,décorer
+1327,sagen::V,říct,dire
+1328,sprechen::V,mluvit,parler
+1329,reden::V,hovořit,parler
+1330,sich unterhalten::V,povídat se,bavarder
+1331,sich unterhalten::V,povídat se,s'entretenir
+1332,fragen::V,zeptat se,demander
+1333,bitten::V,prosit,prier
+1334,erzählen::V,povídat,raconter
+1335,mitteilen::V,sdělit,communiquer
+1336,mitteilen::V,oznámit,communiquer
+1337,nennen::V,nazvat,nommer
+1338,nennen::V,nazvat,appeler
+1339,rufen::V,volat,appeler
+1340,rufen::V,zavolat,appeler
+1341,prahlen::V,chlubit se,se vanter
+1342,übersetzen::V,přeložit,traduire
+1343,denken::V,myslit,penser
+1344,glauben::V,věřit,croire
+1345,bemerken::V,zpozorovat,remarquer
+1346,bemerken::V,zpozorovat,apercevoir
+1347,erkennen::V,poznat,reconnaître
+1348,begreifen::V,pochopit,concevoir
+1349,verstehen::V,porozumět,entendre
+1350,verstehen::V,porozumět,comprendre
+1351,lernen::V,učit se,apprendre
+1352,wissen::V,vědět,savoir
+1353,sich erinnern an::V,vzpomínat si na,se souvenir de
+1354,vergessen::V,zapomínat,oublier
+1355,messen::V,měřit,mesurer
+1356,zählen::V,spočítat,compter
+1357,rechnen::V,počítat,calculer
+1358,lesen::V,číst,lire
+1359,malen::V,malovat,peindre
+1360,zeichnen::V,rýsovat,dessiner
+1361,schreiben::V,psát,écrire
+1362,besitzen::V,mít,posséder
+1363,besitzen::V,vlastnit,posséder
+1364,kaufen::V,koupit,acheter
+1365,verkaufen::V,prodat,vendre
+1366,bezahlen::V,zaplatit,payer
+1367,zahlen::V,platit,payer
+1368,beherrschen::V,ovládat,dominer
+1369,beherrschen::V,ovládat,maîtriser
+1370,ertragen::V,snést,tolérer
+1371,ertragen::V,snést,supporter

@@ -1,0 +1,1543 @@
+,Concept_ID,ro,sk
+0,Auge::N,ochi,oko
+1,Ohr::N,ureche,ucho
+2,Nase::N,nas,nos
+3,Mund::N,gură,ústa
+4,Zahn::N,dinte,zub
+5,Zunge::N,limbă,jazyk
+6,Lippe::N,buză,pera
+7,Wange::N,bucă,líce
+8,Wange::N,obraz,líce
+9,Gesicht::N,față,tvár
+10,Gesicht::N,față,obličaj
+11,Gesicht::N,figură,tvár
+12,Gesicht::N,figură,obličaj
+13,Stirn::N,frunte,čelo
+14,Haar::N,păr,vlas
+15,Schnurrbart::N,mustață,fúzy
+16,Bart::N,barbă,brada
+17,Kinn::N,bărbie,brada
+18,Kiefer[Anatomie]::N,falcă,čeľusť
+19,Kehle::N,beregată,hrdlo
+20,Hals::N,gât,krk
+21,Genick::N,ceafă,väzy
+22,Kopf::N,cap,hlava
+23,Rücken::N,dos,chrbát
+24,Rücken::N,spate,chrbát
+25,Rücken::N,spinare,chrbát
+26,Bauch::N,burtă,brucho
+27,Bauch::N,pântece,brucho
+28,Nabel::N,buric,pupok
+29,Busen::N,sân,prsia
+30,Brust::N,piept,hruď
+31,Schulter::N,umăr,plece
+32,Schulter::N,spate,plece
+33,Arm::N,braț,rameno
+34,Ellenbogen::N,cot,lakeť
+35,Hand::N,mână,ruka
+36,Handfläche::N,palmă,dlaň
+37,Finger::N,deget,prst
+38,Fingernagel::N,unghie,necht
+39,Nagel[Anatomie]::N,unghie,necht
+40,Zeh::N,deget de la picior,prst na nohe
+41,Fuß::N,picior,noha
+42,Ferse::N,călcâi,päta
+43,Knie::N,genunchi,koleno
+44,Oberschenkel::N,coapsă,stehno
+45,Bein::N,picior,noha
+46,Körper::N,corp,telo
+47,Haut::N,piele,koža
+48,Blut::N,sânge,krv
+49,Ader::N,vână,žila
+50,Ader::N,arteră,žila
+51,Sehne::N,tendon,šľacha
+52,Knochen::N,os,kosť
+53,Gehirn::N,creier,mozog
+54,Herz::N,inimă,srdce
+55,Magen::N,stomac,žalúdok
+56,Leber::N,ficat,pečeň
+57,Atem::N,răsuflare,dych
+58,Atem::N,respirație,dych
+59,Hunger::N,foame,hlad
+60,Träne::N,lacrimă,slza
+61,Geschmack::N,gust,chuť
+62,Geruch::N,miros,pach
+63,Schlaf::N,somn,spánok
+64,Traum::N,vis,sen
+65,Himmel::N,cer,nebo
+66,Sonne::N,soare,slnko
+67,Mond::N,lună,mesiac
+68,Stern::N,stea,hviezda
+69,Luft::N,aer,vzduch
+70,Wind::N,vânt,vietor
+71,Welle::N,val,vlna
+72,Welle::N,undă,vlna
+73,Wasser::N,apă,voda
+74,Stein::N,piatră,kameň
+75,Boden::N,sol,zem
+76,Boden::N,sol,pôda
+77,Boden::N,pământ,zem
+78,Boden::N,pământ,pôda
+79,Erde::N,pământ,zem
+80,Staub::N,praf,prach
+81,Rauch::N,fum,dym
+82,Funke::N,scânteie,iskra
+83,Feuer::N,foc,oheň
+84,Licht::N,lumină,svetlo
+85,Schatten::N,umbră,tieň
+86,Wetter::N,timp,počasie
+87,Wetter::N,vreme,počasie
+88,Nebel::N,ceață,hmla
+89,Nebel::N,negură,hmla
+90,Wolke::N,nor,oblak
+91,Wolke::N,nor,mračno
+92,Regen::N,ploaie,dážď
+93,Schnee::N,zăpadă,sneh
+94,Eis::N,gheață,ľad
+95,Frost::N,ger,mráz
+96,Kälte::N,frig,zima
+97,Kälte::N,frig,chlad
+98,Hitze::N,arșiță,horúčava
+99,Hitze::N,căldură,horúčava
+100,Raureif::N,chiciură,srieň
+101,Raureif::N,chiciură,inovať
+102,Regenbogen::N,curcubeu,dúha
+103,Donner::N,tunet,hrom
+104,Strömung::N,curent,prúdenie
+105,Tropfen::N,picătură,kvapka
+106,Schaum::N,spumă,pena
+107,Schmutz::N,murdărie,špina
+108,Schmutz::N,murdărie,nečistota
+109,See::N,lac,jazero
+110,Sumpf::N,mlaștină,bahno
+111,Moor::N,bărăgan,močiar
+112,Wiese::N,fânaț,lúka
+113,Wiese::N,livadă,lúka
+114,Wald::N,codru,les
+115,Wald::N,codru,hora
+116,Wald::N,pădure,les
+117,Wald::N,pădure,hora
+118,Hügel::N,deal,vŕšok
+119,Hügel::N,movilă,vŕšok
+120,Anhöhe::N,deal,výšina
+121,Anhöhe::N,deal,vyvýšenina
+122,Anhöhe::N,ridicătură,výšina
+123,Anhöhe::N,ridicătură,vyvýšenina
+124,Berg::N,munte,hora
+125,Gipfel::N,pisc,vrchol
+126,Höhle::N,peșteră,jaskyňa
+127,Abhang::N,pantă,úbočie
+128,Abhang::N,versant,úbočie
+129,Quelle::N,izvor,prameň
+130,Bach::N,gârlă,potok
+131,Fluss::N,râu,rieka
+132,Fluss::N,fluviu,rieka
+133,Ufer::N,mal,breh
+134,Ufer::N,țărm,breh
+135,Küste::N,coastă,pobrežie
+136,Festland::N,uscat,pevnina
+137,Meer::N,mare,more
+138,Bucht::N,golf,záliv
+139,Bucht::N,golf,zátoka
+140,Insel::N,insulă,ostrov
+141,Blume::N,floare,kvet
+142,Blume::N,floare,kvetina
+143,Gras::N,iarbă,tráva
+144,Wurzel::N,rădăcină,koreň
+145,Baum::N,copac,strom
+146,Baum::N,arbore,strom
+147,Stamm::N,tulpină,kmeň
+148,Rinde::N,scoarță,kôra
+149,Ast::N,cracă,konár
+150,Ast::N,creangă,konár
+151,Zweig::N,ramură,vetva
+152,Zweig::N,creangă,vetva
+153,Blatt::N,frunză,list
+154,Birke::N,mesteacăn,breza
+155,Kiefer[Baum]::N,pin,sosna
+156,Kiefer[Baum]::N,pin,borovica
+157,Weide[Baum]::N,salcie,vŕba
+158,Weide[Baum]::N,răchită,vŕba
+159,Tanne::N,brad,jedľa
+160,Horn::N,corn,roh
+161,Feder::N,pană,pero
+162,Fell::N,piele,koža
+163,Fell::N,piele,kožušina
+164,Flügel::N,aripă,krídlo
+165,Klaue::N,gheară,paznecht
+166,Kralle::N,labă,pazúr
+167,Kralle::N,gheară,pazúr
+168,Schwanz::N,coadă,chvost
+169,Ei::N,ou,vajce
+170,Ei::N,ou,vajíčko
+171,Nest::N,cuib,hniezdo
+172,Bau::N,bârlog,nora
+173,Bau::N,vizuină,nora
+174,Tier::N,animal,zviera
+175,Herde::N,turmă,stádo
+176,Herde::N,cireadă,stádo
+177,Kuh::N,vacă,krava
+178,Bulle::N,taur,býk
+179,Pferd::N,cal,kôň
+180,Schaf::N,oaie,ovca
+181,Schwein::N,porc,sviňa
+182,Hund::N,câine,pes
+183,Katze::N,pisică,mačka
+184,Bär::N,urs,medveď
+185,Eichhörnchen::N,veveriță,veverička
+186,Elch::N,elan,los
+187,Fuchs::N,vulpe,líška
+188,Hase::N,iepure,zajac
+189,Maus::N,șoarece,myš
+190,Wolf::N,lup,vlk
+191,Vogel::N,pasăre,vták
+192,Schwarm::N,cârd,roj
+193,Huhn::N,găină,kurča
+194,Huhn::N,găină,sliepka
+195,Hahn::N,cocoș,kohút
+196,Gans::N,gâscă,hus
+197,Adler::N,vultur,orol
+198,Ente::N,rață,kačka
+199,Ente::N,rață,kačica
+200,Eule::N,bufniță,sova
+201,Kranich::N,cocor,žeriav
+202,Krähe::N,cioară,vrana
+203,Kuckuck::N,cuc,kukučka
+204,Schwan::N,lebădă,labuť
+205,Fisch::N,pește,ryba
+206,Barsch::N,biban,ostriež
+207,Hecht::N,știucă,šťuka
+208,Schlange[Tier]::N,șarpe,had
+209,Wurm::N,vierme,červ
+210,Spinne::N,păianjen,pavúk
+211,Ameise::N,furnică,mravec
+212,Laus::N,păduche,voš
+213,Mücke::N,țânțar,komár
+214,Fliege::N,muscă,mucha
+215,Schmetterling::N,fluture,motýľ
+216,Beere::N,boabă,bobuľa
+217,Apfel::N,măr,jablko
+218,Pilz::N,burete,hríb
+219,Pilz::N,ciupercă,hríb
+220,Zwiebel::N,ceapă,cibuľa
+221,Saat::N,semănătură,osivo
+222,Korn::N,grâu,zrno
+223,Heu::N,fân,seno
+224,Schale::N,coajă,šupa
+225,Schale::N,coajă,škrupina
+226,Grube::N,groapă,jama
+227,Falle::N,cursă,pasca
+228,Falle::N,cursă,klepec
+229,Falle::N,capcană,pasca
+230,Falle::N,capcană,klepec
+231,Schlinge::N,laț,slučka
+232,Spur::N,dâră,stopa
+233,Asche::N,cenușă,popol
+234,Dreck::N,noroi,kal
+235,Dreck::N,noroi,blato
+236,Dreck::N,murdărie,kal
+237,Dreck::N,murdărie,blato
+238,Eisen::N,fier,železo
+239,Gold::N,aur,zlato
+240,Silber::N,argint,striebro
+241,Kohle::N,cărbune,uhlie
+242,Glas::N,sticlă,sklo
+243,Lehm::N,lut,íl
+244,Lehm::N,lut,hlina
+245,Lehm::N,humă,íl
+246,Lehm::N,humă,hlina
+247,Sand::N,nisip,piesok
+248,Mensch::N,om,človek
+249,Mensch::N,persoană,človek
+250,Mann::N,om,muž
+251,Mann::N,om,chlap
+252,Mann::N,bărbat,muž
+253,Mann::N,bărbat,chlap
+254,Frau::N,femeie,žena
+255,Kind::N,copil,dieťa
+256,Junge::N,băiat,chlapec
+257,Junge::N,flăcău,chlapec
+258,Mädchen::N,fată,dievka
+259,Familie::N,familie,rodina
+260,Großvater::N,bunic,dedo
+261,Großvater::N,bunic,starý otec
+262,Großvater::N,tată mare,dedo
+263,Großvater::N,tată mare,starý otec
+264,Großmutter::N,bunică,babička
+265,Großmutter::N,bunică,stará mať
+266,Großmutter::N,mamă mare,babička
+267,Großmutter::N,mamă mare,stará mať
+268,Eltern::N,părinți,rodičia
+269,Vater::N,tată,otec
+270,Vater::N,părinte,otec
+271,Mutter::N,mamă,mať
+272,Mutter::N,mamă,matka
+273,Sohn::N,fiu,syn
+274,Sohn::N,fecior,syn
+275,Tochter::N,fiică,dcéra
+276,Bruder::N,frate,brat
+277,Schwester::N,soră,sestra
+278,Onkel::N,unchi,ujo
+279,Onkel::N,unchi,strýko
+280,Tante::N,mătușă,teta
+281,Tante::N,mătușă,tetka
+282,Ehemann::N,soț,muž
+283,Ehemann::N,soț,manžel
+284,Ehemann::N,bărbat,muž
+285,Ehemann::N,bărbat,manžel
+286,Ehefrau::N,soție,žena
+287,Ehefrau::N,soție,manželka
+288,Freude::N,bucurie,radosť
+289,Gelächter::N,râset,smiech
+290,Glück::N,fericire,šťastie
+291,Kummer::N,mâhnire,žiaľ
+292,Kummer::N,mâhnire,zármutok
+293,Wunsch::N,dorință,prianie
+294,Wunsch::N,deziderat,prianie
+295,Lust::N,poftă,chuť
+296,Lust::N,înclinare,chuť
+297,Geist::N,duh,duch
+298,Geist::N,minte,duch
+299,Geist::N,suflet,duch
+300,Gedanke::N,gând,myšlienka
+301,Gedanke::N,cuget,myšlienka
+302,Gedächtnis::N,memorie,pamäť
+303,Verstand::N,minte,rozum
+304,Verstand::N,intelect,rozum
+305,Sinn::N,sens,zmysel
+306,Sinn::N,înțeles,zmysel
+307,Grund::N,cauză,dôvod
+308,Grund::N,cauză,príčina
+309,Grund::N,pricină,dôvod
+310,Grund::N,pricină,príčina
+311,Wahrheit::N,adevăr,pravda
+312,Gespräch::N,convorbire,reč
+313,Gespräch::N,convorbire,rozhovor
+314,Gespräch::N,conversație,reč
+315,Gespräch::N,conversație,rozhovor
+316,Märchen::N,basm,rozprávka
+317,Märchen::N,poveste,rozprávka
+318,Erzählung::N,poveste,poviedka
+319,Nachricht::N,veste,správa
+320,Neuigkeit::N,noutate,novinka
+321,Neuigkeit::N,actualitate,novinka
+322,Name::N,nume,meno
+323,Rätsel::N,ghicitoare,záhada
+324,Rätsel::N,ghicitoare,hádanka
+325,Rede::N,discurs,reč
+326,Sprache::N,limbă,reč
+327,Sprache::N,limbă,jazyk
+328,Sprache::N,limbaj,reč
+329,Sprache::N,limbaj,jazyk
+330,Stimme::N,glas,hlas
+331,Wort::N,cuvânt,slovo
+332,Zeichen::N,semn,znak
+333,Zeichen::N,semnal,znak
+334,Ruf::N,chemare,volanie
+335,Ruf::N,chemare,zavolanie
+336,Lärm::N,zgomot,hluk
+337,Lärm::N,zgomot,hurhaj
+338,Lärm::N,tărăboi,hluk
+339,Lärm::N,tărăboi,hurhaj
+340,Laut::N,sunet,zvuk
+341,Ton::N,ton,tón
+342,Ton::N,ton,zvuk
+343,Lied::N,cântec,pieseň
+344,Ruhe::N,odihnă,pokoj
+345,Ruhe::N,liniște,pokoj
+346,Leute::N,lume,ľudia
+347,Leute::N,oameni,ľudia
+348,Volk::N,popor,ľud
+349,Volk::N,popor,národ
+350,Volk::N,națiune,ľud
+351,Volk::N,națiune,národ
+352,Arbeit::N,lucru,práca
+353,Arbeit::N,lucru,robota
+354,Gast::N,musafir,hosť
+355,Geschenk::N,dar,dar
+356,Geschenk::N,cadou,dar
+357,Spiel::N,joc,hra
+358,Gesellschaft::N,societate,spoločnosť
+359,Hilfe::N,ajutor,pomoc
+360,Freund::N,amic,priateľ
+361,Freund::N,prieten,priateľ
+362,Kamerad::N,tovarăș,kamarát
+363,Angelegenheit::N,afacere,vec
+364,Angelegenheit::N,afacere,záležitosť
+365,Anzahl::N,număr,počet
+366,Anzahl::N,număr,množstvo
+367,Anzahl::N,cantitate,počet
+368,Anzahl::N,cantitate,množstvo
+369,Art::N,fel,druh
+370,Art::N,specie,druh
+371,Stück::N,bucată,kus
+372,Stück::N,bucată,kúsok
+373,Teil::N,parte,časť
+374,Teil::N,porție,časť
+375,Hälfte::N,jumătate,polka
+376,Hälfte::N,jumătate,polovica
+377,Kreis::N,cerc,kruh
+378,Kreuz::N,cruce,kríž
+379,Linie::N,linie,línia
+380,Strich::N,linie,čiara
+381,Strich::N,trăsătură,čiara
+382,Abstand::N,distanță,vzdialenosť
+383,Abstand::N,depărtare,vzdialenosť
+384,Entfernung::N,distanță,vzdialenosť
+385,Entfernung::N,depărtare,vzdialenosť
+386,Gegend::N,regiune,kraj
+387,Gegend::N,regiune,krajina
+388,Platz::N,loc,miesto
+389,Ort::N,loc,miesto
+390,Seite::N,latură,bok
+391,Seite::N,latură,strana
+392,Mitte::N,centru,stred
+393,Gegenstand::N,obiect,predmet
+394,Sache::N,lucru,vec
+395,Sache::N,chestie,vec
+396,Rand::N,bordură,kraj
+397,Rand::N,bordură,okraj
+398,Kante::N,muchie,hrana
+399,Kante::N,bordură,hrana
+400,Ecke::N,colț,roh
+401,Spitze::N,vârf,hrot
+402,Spitze::N,vârf,špička
+403,Spitze::N,creștet,hrot
+404,Spitze::N,creștet,špička
+405,Ende::N,capăt,koniec
+406,Loch::N,gaură,diera
+407,Winkel::N,colț,kút
+408,Muster::N,desen,vzor
+409,Muster::N,desen,vzorka
+410,Größe::N,mărime,veľkosť
+411,Länge::N,lungime,dĺžka
+412,Höhe::N,înălțime,výška
+413,Gewicht::N,greutate,váha
+414,Menge::N,cantitate,množstvo
+415,Haufen::N,grămadă,hŕba
+416,Reihe::N,șir,rad
+417,Reihe::N,rând,rad
+418,Boot::N,barcă,čln
+419,Boot::N,luntre,čln
+420,Ruder::N,vâslă,veslo
+421,Ruder::N,lopată,veslo
+422,Schlitten::N,sanie,sane
+423,Ski::N,schi,lyža
+424,Lagerfeuer::N,foc de tabără,táborák
+425,Last::N,povară,ťarcha
+426,Last::N,povară,bremeno
+427,Last::N,sarcină,ťarcha
+428,Last::N,sarcină,bremeno
+429,Gang::N,mers,chôdza
+430,Gang::N,umblet,chôdza
+431,Schritt::N,pas,krok
+432,Norden::N,nord,sever
+433,Norden::N,miazănoapte,sever
+434,Süden::N,sud,juh
+435,Süden::N,miazăzi,juh
+436,Westen::N,apus,západ
+437,Osten::N,est,východ
+438,Osten::N,răsărit,východ
+439,Holz::N,lemn,drevo
+440,Brett::N,scândură,doska
+441,Platte::N,placă,doska
+442,Platte::N,placă,platňa
+443,Stütze::N,proptea,opora
+444,Stange::N,bară,tyč
+445,Stange::N,prăjină,tyč
+446,Stock::N,băț,palica
+447,Stock::N,baston,palica
+448,Stab::N,baston,palica
+449,Stab::N,prăjină,palica
+450,Rohr::N,tub,rúra
+451,Rohr::N,țeavă,rúra
+452,Haus::N,casă,dom
+453,Heim::N,casă,domov
+454,Heim::N,cămin,domov
+455,Ofen::N,sobă,pec
+456,Ofen::N,sobă,kachle
+457,Fußboden::N,podea,dlážka
+458,Fußboden::N,podea,podlaha
+459,Fußboden::N,dușumea,dlážka
+460,Fußboden::N,dușumea,podlaha
+461,Tisch::N,masă,stôl
+462,Stuhl::N,scaun,stolička
+463,Wiege::N,leagăn,kolíska
+464,Bett::N,pat,lôžko
+465,Bett::N,pat,posteľ
+466,Regal::N,rafturi,regál
+467,Regal::N,rafturi,polica
+468,Kiste::N,ladă,debna
+469,Kiste::N,cutie,debna
+470,Fenster::N,fereastră,okno
+471,Fenster::N,fereastră,oblok
+472,Tür::N,ușă,dvere
+473,Tor::N,poartă,vráta
+474,Zaun::N,gard,plot
+475,Zaun::N,gard,ohrada
+476,Dach::N,acoperiș,krov
+477,Dach::N,acoperiș,strecha
+478,Leiter::N,scară,rebrík
+479,Leiter::N,scară,rebrina
+480,Besen::N,mătură,metla
+481,Spaten::N,cazma,rýľ
+482,Spaten::N,hârleț,rýľ
+483,Schaufel::N,lopată,lopata
+484,Gabel::N,furculiță,vidlička
+485,Löffel::N,lingură,lyžica
+486,Messer::N,cuțit,nôž
+487,Nagel::N,cui,klinec
+488,Netz::N,plasă,sieť
+489,Haken::N,cârlig,hák
+490,Haken::N,cârlig,háčik
+491,Griff::N,mâner,rukoväť
+492,Schloss::N,lacăt,zámka
+493,Bild::N,tablou,obraz
+494,Bild::N,imagine,obraz
+495,Figur::N,chip,figúra
+496,Figur::N,figură,figúra
+497,Puppe::N,păpușă,bábka
+498,Puppe::N,păpușă,bábika
+499,Beutel::N,pungă,vrece
+500,Beutel::N,pungă,vrecko
+501,Beutel::N,săculeț,vrece
+502,Beutel::N,săculeț,vrecko
+503,Bündel::N,mănunchi,uzlík
+504,Bündel::N,mănunchi,zväzok
+505,Tasche::N,geantă,taška
+506,Tasche::N,geantă,kabelka
+507,Eimer::N,găleată,vedro
+508,Deckel::N,capac,vrchnák
+509,Deckel::N,capac,pokrývka
+510,Geschirr::N,vase,nádoba
+511,Geschirr::N,tacâmuri,nádoba
+512,Sack::N,sac,mech
+513,Sack::N,sac,vrece
+514,Tasse::N,ceașcă,šálka
+515,Topf::N,oală,hrniec
+516,Kessel::N,cazan,kotol
+517,Kessel::N,căldare,kotol
+518,Essen::N,mâncare,jedlo
+519,Nahrung::N,hrană,strava
+520,Nahrung::N,hrană,potrava
+521,Nahrung::N,aliment,strava
+522,Nahrung::N,aliment,potrava
+523,Speise::N,bucate,jedlo
+524,Speise::N,fel de bucate,jedlo
+525,Fleisch::N,carne,mäso
+526,Getreide::N,cereale,obilie
+527,Brei::N,pireu,kaša
+528,Brot::N,pâine,chlieb
+529,Scheibe::N,felie,kotúč
+530,Scheibe::N,felie,krajec
+531,Scheibe::N,bucată,kotúč
+532,Scheibe::N,bucată,krajec
+533,Fett::N,untură,tuk
+534,Fett::N,untură,masť
+535,Fett::N,grăsime,tuk
+536,Fett::N,grăsime,masť
+537,Butter::N,unt,maslo
+538,Öl::N,ulei,olej
+539,Salz::N,sare,soľ
+540,Suppe::N,supă,polievka
+541,Suppe::N,ciorbă,polievka
+542,Honig::N,miere,med
+543,Milch::N,lapte,mlieko
+544,Tee::N,ceai,čaj
+545,Leder::N,piele,koža
+546,Wolle::N,lână,vlna
+547,Stoff::N,stofă,súkno
+548,Nadel::N,ac,ihla
+549,Faden::N,ață,niť
+550,Faden::N,ață,vlákno
+551,Knopf::N,buton,gombík
+552,Knoten::N,nod,uzol
+553,Farbe::N,vopsea,farba
+554,Kleidung::N,haine,šaty
+555,Kleidung::N,haine,šatstvo
+556,Kleidung::N,îmbrăcăminte,šaty
+557,Kleidung::N,îmbrăcăminte,šatstvo
+558,Hemd::N,cămașă,košeľa
+559,Kragen::N,guler,golier
+560,Ärmel::N,mânecă,rukáv
+561,Hose::N,pantaloni,nohavice
+562,Gürtel::N,cordon,pás
+563,Gürtel::N,cordon,opasok
+564,Mütze::N,șapcă,čiapka
+565,Schuh::N,gheată,obuv
+566,Schuh::N,gheată,topánka
+567,Stiefel::N,cizmă,čižma
+568,Ring::N,inel,prsteň
+569,Ring::N,verigă,prsteň
+570,Band::N,panglică,stuha
+571,Band::N,șiret,stuha
+572,Kamm::N,pieptene,hrebeň
+573,Spiegel::N,oglindă,zrkadlo
+574,Riemen::N,curea,remeň
+575,Schnur::N,funie,šnúra
+576,Schnur::N,sfoară,šnúra
+577,Leine::N,lesă,vodidlo
+578,Leine::N,curea,vodidlo
+579,Decke::N,pătură,deka
+580,Decke::N,pătură,prikrývka
+581,Kissen::N,pernă,poduška
+582,Tuch::N,batic,šatka
+583,Handtuch::N,prosop,uterák
+584,Handtuch::N,ștergar,uterák
+585,Kraft::N,forță,moc
+586,Kraft::N,putere,moc
+587,Stärke::N,tărie,sila
+588,Stärke::N,vigoare,sila
+589,Gesundheit::N,sănătate,zdravie
+590,Krankheit::N,boală,nemoc
+591,Krankheit::N,boală,choroba
+592,Krankheit::N,maladie,nemoc
+593,Krankheit::N,maladie,choroba
+594,Schmerz::N,durere,bolesť
+595,Wunde::N,rană,rana
+596,Fieber::N,febră,horúčka
+597,Arznei::N,leac,liek
+598,Arznei::N,medicament,liek
+599,Brücke::N,pod,most
+600,Brücke::N,punte,most
+601,Brunnen::N,puț,studňa
+602,Weide::N,izlaz,pastva
+603,Weide::N,pășune,pastva
+604,Pfad::N,cărare,chodník
+605,Weg::N,drum,cesta
+606,Straße::N,cale,hradská
+607,Straße::N,stradă,hradská
+608,Dorf::N,sat,dedina
+609,Stadt::N,oraș,mesto
+610,Brief::N,scrisoare,list
+611,Buch::N,carte,kniha
+612,Buchstabe::N,literă,litera
+613,Buchstabe::N,literă,písmeno
+614,Buchstabe::N,caracter,litera
+615,Buchstabe::N,caracter,písmeno
+616,Zeitung::N,ziar,noviny
+617,Zeitung::N,gazetă,noviny
+618,Leben::N,viață,život
+619,Tod::N,moarte,smrť
+620,Grab::N,groapă,hrob
+621,Grab::N,mormânt,hrob
+622,Kirche::N,biserică,kostol
+623,Sünde::N,păcat,hriech
+624,Gott::N,zeu,boh
+625,Arbeiter::N,muncitor,robotník
+626,Arbeiter::N,muncitor,pracnovík
+627,Chef::N,șef,šéf
+628,Chef::N,șef,riaditeľ
+629,Meister::N,meșter,majster
+630,Meister::N,maestru,majster
+631,Arzt::N,medic,lekár
+632,Arzt::N,doctor,lekár
+633,Lehrer::N,profesor,učiteľ
+634,Lehrer::N,învățător,učiteľ
+635,Geld::N,bani,peniaze
+636,Geld::N,parale,peniaze
+637,Geschäft::N,treabă,obchod
+638,Geschäft::N,afacere,obchod
+639,Laden::N,magazin,obchod
+640,Laden::N,prăvălie,obchod
+641,Preis::N,preț,cena
+642,Ware::N,marfă,tovar
+643,Nutzen::N,folos,osoh
+644,Nutzen::N,folos,úžitok
+645,Nutzen::N,profit,osoh
+646,Nutzen::N,profit,úžitok
+647,Reichtum::N,avuție,bohatstvo
+648,Reichtum::N,bogăție,bohatstvo
+649,Welt::N,lume,svet
+650,Land::N,țară,územie
+651,Land::N,țară,krajina
+652,Staat::N,stat,štát
+653,König::N,rege,kráľ
+654,Macht::N,putere,moc
+655,Macht::N,putere,mocnosť
+656,Macht::N,putință,moc
+657,Macht::N,putință,mocnosť
+658,Grenze::N,hotar,hranica
+659,Grenze::N,graniță,hranica
+660,Grenze::N,frontieră,hranica
+661,Krieg::N,război,vojna
+662,Feind::N,dușman,nepriateľ
+663,Gewalt::N,violență,násilie
+664,Kampf::N,luptă,boj
+665,Bogen[Waffe]::N,arc,luk
+666,Pfeil::N,săgeată,šíp
+667,Pfeil::N,săgeată,strela
+668,Gewehr::N,armă,puška
+669,Gewehr::N,pușcă,puška
+670,Fehler::N,eroare,omyl
+671,Fehler::N,eroare,chyba
+672,Fehler::N,greșeală,omyl
+673,Fehler::N,greșeală,chyba
+674,Lüge::N,minciună,lož
+675,Schaden::N,daună,ujma
+676,Schaden::N,daună,škoda
+677,Schaden::N,pagubă,ujma
+678,Schaden::N,pagubă,škoda
+679,Unglück::N,nenorocire,nešťastie
+680,Schuld::N,vină,vina
+681,Schuld::N,vină,previnenie
+682,Alter::N,etate,vek
+683,Alter::N,vârstă,vek
+684,Schluss::N,sfârșit,záver
+685,Schluss::N,sfârșit,koniec
+686,Zeit::N,timp,čas
+687,Zeit::N,vreme,čas
+688,Tag::N,zi,deň
+689,Morgen::N,dimineață,ráno
+690,Mittag::N,prânz,poludnie
+691,Mittag::N,amiază,poludnie
+692,Abend::N,seară,večer
+693,Nacht::N,noapte,noc
+694,Woche::N,săptămână,týždeň
+695,Monat::N,lună,mesiac
+696,Jahr::N,an,rok
+697,Frühling::N,primăvară,jar
+698,Sommer::N,vară,leto
+699,Herbst::N,toamnă,jeseň
+700,Winter::N,iarnă,zima
+701,Januar::N,ianuarie,január
+702,Februar::N,februarie,február
+703,März::N,martie,marec
+704,April::N,aprilie,apríl
+705,Mai::N,mai,máj
+706,Juni::N,iunie,jún
+707,Juli::N,iulie,júl
+708,August::N,august,august
+709,September::N,septembrie,september
+710,Oktober::N,octombrie,október
+711,November::N,noiembrie,november
+712,Dezember::N,decembrie,december
+713,Montag::N,luni,pondelok
+714,Dienstag::N,marți,utorok
+715,Mittwoch::N,miercuri,streda
+716,Donnerstag::N,joi,štvrtok
+717,Freitag::N,vineri,piatok
+718,Samstag::N,sâmbătă,sobota
+719,Sonntag::N,duminică,nedeľa
+720,groß::A,mare,veľký
+721,klein::A,mic,malý
+722,lang::A,lung,dlhý
+723,kurz::A,scurt,krátky
+724,breit::A,lat,široký
+725,breit::A,larg,široký
+726,schmal::A,strâmt,úzky
+727,dicht::A,des,hustý
+728,dick[Gegenstand]::A,gros,tlstý
+729,dünn::A,subțire,tenký
+730,fein::A,fin,jemný
+731,fein::A,subțire,jemný
+732,fest::A,tare,pevný
+733,fest::A,solid,pevný
+734,flach::A,șes,rovný
+735,flach::A,șes,plochý
+736,flach::A,plan,rovný
+737,flach::A,plan,plochý
+738,glatt::A,lins,hladký
+739,hart::A,dur,tvrdý
+740,weich::A,moale,mäkký
+741,rund::A,rotund,guľatý
+742,rund::A,rotund,okrúhly
+743,rund::A,circular,guľatý
+744,rund::A,circular,okrúhly
+745,spitz::A,ascuțit,končitý
+746,scharf::A,tăios,ostrý
+747,scharf::A,ascuțit,ostrý
+748,stumpf::A,tocit,tupý
+749,schwer::A,greu,ťažký
+750,schön::A,frumos,pekný
+751,schön::A,frumos,krásny
+752,heiß::A,cald,horúci
+753,heiß::A,fierbinte,horúci
+754,warm::A,cald,teplý
+755,warm::A,fierbinte,teplý
+756,kalt::A,rece,studený
+757,kühl::A,rece,chladný
+758,kühl::A,răcoros,chladný
+759,frisch::A,răcoros,svieži
+760,frisch::A,proaspăt,svieži
+761,feucht::A,umed,vlhký
+762,feucht::A,umed,zvlhnutý
+763,feucht::A,jilav,vlhký
+764,feucht::A,jilav,zvlhnutý
+765,nass::A,ud,mokrý
+766,trocken::A,sec,suchý
+767,trocken::A,uscat,suchý
+768,voll::A,plin,plný
+769,leer::A,gol,prázdny
+770,offen::A,deschis,otvorený
+771,geschlossen::A,închis,zavretý
+772,sauber::A,curat,čistý
+773,schmutzig::A,murdar,špinavý
+774,roh::A,crud,surový
+775,reif::A,copt,zrelý
+776,lecker::A,gustos,chutný
+777,süß::A,dulce,sladký
+778,bitter::A,amar,horký
+779,sauer::A,acru,kyslý
+780,hell::A,clar,jasný
+781,hell::A,clar,svetlý
+782,hell::A,luminos,jasný
+783,hell::A,luminos,svetlý
+784,dunkel::A,obscur,temný
+785,dunkel::A,întunecos,temný
+786,schwarz::A,negru,čierny
+787,weiß::A,alb,biely
+788,rot::A,roșu,červený
+789,gelb::A,galben,žltý
+790,blau::A,albastru,modrý
+791,blau::A,albastru,belasý
+792,grün::A,verde,zelený
+793,grau::A,gri,šedý
+794,grau::A,cenușiu,šedý
+795,bunt::A,colorat,pestrý
+796,billig::A,ieftin,lacný
+797,teuer::A,scump,drahý
+798,wertvoll::A,prețios,cenný
+799,blind::A,orb,slepý
+800,taub::A,surd,hluchý
+801,kräftig::A,tare,silný
+802,kräftig::A,forte,silný
+803,kräftig::A,robust,silný
+804,stark::A,viguros,silný
+805,stark::A,puternic,silný
+806,schwach::A,slab,slabý
+807,schwach::A,slab,bezvládny
+808,schwach::A,debil,slabý
+809,schwach::A,debil,bezvládny
+810,fett::A,gras,tučný
+811,schlank::A,zvelt,štíhly
+812,hübsch::A,drăguț,šumný
+813,hübsch::A,drăguț,švárny
+814,böse::A,rău,zlý
+815,böse::A,răutăcios,zlý
+816,dumm::A,nerod,hlúpy
+817,dumm::A,tâmpit,hlúpy
+818,faul::A,leneș,lenivý
+819,fleißig::A,harnic,snaživý
+820,fleißig::A,harnic,usilovný
+821,fleißig::A,sârguincios,snaživý
+822,fleißig::A,sârguincios,usilovný
+823,geizig::A,calic,skupý
+824,geizig::A,calic,lakomý
+825,geizig::A,zgârcit,skupý
+826,geizig::A,zgârcit,lakomý
+827,klug::A,isteț,múdry
+828,klug::A,isteț,bystrý
+829,klug::A,deștept,múdry
+830,klug::A,deștept,bystrý
+831,geschickt::A,dibaci,zručný
+832,geschickt::A,dibaci,šikovný
+833,lieb::A,drag,milý
+834,lieb::A,iubit,milý
+835,lustig::A,vesel,veselý
+836,sanft::A,blând,nežný
+837,sanft::A,blajin,nežný
+838,hungrig::A,flămând,lačný
+839,hungrig::A,flămând,hladný
+840,krank::A,bolnav,chorý
+841,krank::A,bolnav,nemocný
+842,nackt::A,gol,nahý
+843,traurig::A,trist,smutný
+844,traurig::A,mâhnit,smutný
+845,lebendig::A,viu,živý
+846,gut::A,bun,dobrý
+847,schlecht::A,rău,zlý
+848,schlecht::A,prost,zlý
+849,richtig::A,drept,správny
+850,richtig::A,corect,správny
+851,schlimm::A,rău,zlý
+852,schlimm::A,rău,nepríjemný
+853,wahr::A,adevărat,pravý
+854,wahr::A,adevărat,pravdivý
+855,alt::A,uzat,starý
+856,alt::A,vechi,starý
+857,neu::A,nou,nový
+858,ehemalig::A,fost,bývalý
+859,ehemalig::A,anterior,bývalý
+860,alt[Lebewesen]::A,bătrîn,starý
+861,jung::A,tânăr,mladý
+862,arm::A,sărac,chudobný
+863,arm::A,sărman,chudobný
+864,reich::A,avut,bohatý
+865,reich::A,bogat,bohatý
+866,bekannt::A,cunoscut,známy
+867,berühmt::A,renumit,slávny
+868,berühmt::A,renumit,povestný
+869,fremd::A,străin,cudzí
+870,verschieden::A,diferit,rôzny
+871,verschieden::A,diferit,rozličný
+872,verschieden::A,deosebit,rôzny
+873,verschieden::A,deosebit,rozličný
+874,nah::A,apropiat,blízky
+875,fern::A,departe,ďaleký
+876,linker::A,stâng,ľavý
+877,rechter::A,drept,pravý
+878,anderer::A,alt,iný
+879,anderer::A,alt,druhý
+880,erster::A,prim,prvý
+881,zweiter::A,al doilea,druhý
+882,dritter::A,treilea,tretí
+883,letzter::A,final,ostatný
+884,letzter::A,final,posledný
+885,allein::ADV,singur,sám
+886,auf einmal::ADV,dintrodată,zároveň
+887,zusammen::ADV,împreună,spolu
+888,zusammen::ADV,împreună,spoločne
+889,lange::ADV,îndelung,dlho
+890,lange::ADV,mult timp,dlho
+891,plötzlich::ADV,deodată,náhle
+892,plötzlich::ADV,pe neașteptate,náhle
+893,sofort::ADV,imediat,hneď
+894,sofort::ADV,imediat,ihneď
+895,sofort::ADV,numaidecît,hneď
+896,sofort::ADV,numaidecît,ihneď
+897,später::ADV,mai apoi,neskoršie
+898,später::ADV,mai târziu,neskoršie
+899,jetzt::ADV,acum,teraz
+900,heute::ADV,azi,dnes
+901,heute::ADV,astăzi,dnes
+902,morgen::ADV,mâine,zajtra
+903,bald::ADV,curând,skoro
+904,dann::ADV,apoi,nato
+905,dann::ADV,apoi,potom
+906,gestern::ADV,ieri,včera
+907,einst::ADV,odată,kedysi
+908,einst::ADV,odată,niekedy
+909,einst::ADV,odinioară,kedysi
+910,einst::ADV,odinioară,niekedy
+911,damals::ADV,atunci,vtedy
+912,damals::ADV,pe atunci,vtedy
+913,danach::ADV,după aceasta,potom
+914,danach::ADV,după aceasta,podľa toho
+915,vorher::ADV,mai întâi,napred
+916,vorher::ADV,mai întâi,predtým
+917,vorher::ADV,în prealabil,napred
+918,vorher::ADV,în prealabil,predtým
+919,zuerst::ADV,întâi,najprv
+920,zuerst::ADV,în primul rând,najprv
+921,einmal::ADV,odată,raz
+922,einmal::ADV,odată,jedenkrát
+923,manchmal::ADV,uneori,občas
+924,manchmal::ADV,uneori,niekedy
+925,manchmal::ADV,câteodată,občas
+926,manchmal::ADV,câteodată,niekedy
+927,oft::ADV,des,často
+928,oft::ADV,deseori,často
+929,immer::ADV,mereu,vždy
+930,immer::ADV,mereu,ustavične
+931,immer::ADV,întotdeauna,vždy
+932,immer::ADV,întotdeauna,ustavične
+933,niemals::ADV,niciodată,nikdy
+934,hier::ADV,aci,tu
+935,hier::ADV,aici,tu
+936,hierhin::ADV,încoace,sem
+937,hierhin::ADV,încoace,tade
+938,von hier::ADV,de aici,odtiaľto
+939,dort::ADV,acolo,tam
+940,dorthin::ADV,dincolo,ta
+941,dorthin::ADV,dincolo,tam
+942,geradeaus::ADV,drept înainte,rovno
+943,geradeaus::ADV,drept înainte,priamo
+944,vorwärts::ADV,înainte,napred
+945,rückwärts::ADV,îndărăt,nazad
+946,zurück::ADV,înapoi,späť
+947,zurück::ADV,înapoi,naspäť
+948,unten::ADV,jos,dolu
+949,unten::ADV,jos,naspodku
+950,unten::ADV,dedesubt,dolu
+951,unten::ADV,dedesubt,naspodku
+952,hinab::ADV,în jos,dolu
+953,hinab::ADV,de vale,dolu
+954,oben::ADV,sus,hore
+955,oben::ADV,sus,navrchu
+956,oben::ADV,deasupra,hore
+957,oben::ADV,deasupra,navrchu
+958,hinauf::ADV,în sus,hore
+959,hinauf::ADV,în sus,navrch
+960,überall::ADV,peste tot,všade
+961,überall::ADV,pretutindeni,všade
+962,nicht::ADV,nu,nie
+963,ein wenig::ADV,puțin,trocha
+964,kaum::ADV,cu greu,ledva
+965,kaum::ADV,cu anevoie,ledva
+966,sehr::ADV,mult,veľmi
+967,sehr::ADV,foarte,veľmi
+968,so::ADV,așa,tak
+969,so::ADV,așa,takto
+970,so::ADV,atât,tak
+971,so::ADV,atât,takto
+972,noch::ADV,încă,ešte
+973,nur::ADV,doar,len
+974,schon::ADV,și,už
+975,schon::ADV,deja,už
+976,wieder::ADV,iar,zasa
+977,wieder::ADV,iarăși,zasa
+978,vergebens::ADV,în zadar,márne
+979,vergebens::ADV,în zadar,nadarmo
+980,vor::PRP,înainte de,pred
+981,hinter::PRP,după,za
+982,hinter::PRP,în spatele,za
+983,unter::PRP,sub,pod
+984,durch::PRP,prin,cez
+985,neben::PRP,lângă,pri
+986,neben::PRP,lângă,vedľa
+987,neben::PRP,alături de,pri
+988,neben::PRP,alături de,vedľa
+989,zwischen::PRP,între,medzi
+990,zwischen::PRP,dintre,medzi
+991,wegen::PRP,pentru,pre
+992,wegen::PRP,pentru,kvôli
+993,dies::PRN,acesta,to
+994,dies::PRN,acesta,táto
+995,das::PRN,asta,to
+996,alles::PRN,tot,všetko
+997,ich::PRN,eu,ja
+998,du::PRN,tu,ty
+999,er::PRN,el,on
+1000,er::PRN,dânsul,on
+1001,wir::PRN,noi,my
+1002,ihr::PRN,voi,vy
+1003,sie::PRN,ei,oni
+1004,sie::PRN,dânșii,oni
+1005,was::FPRN,ce,čo
+1006,wer::FPRN,cine,kto
+1007,wo::FADV,unde,kde
+1008,wohin::FADV,încotro,kam
+1009,wie::FADV,cum,ako
+1010,warum::FADV,de ce,prečo
+1011,warum::FADV,pentru ce,prečo
+1012,wieviel::FNUM,cât,koľko
+1013,eins::NUM,unu,jeden
+1014,zwei::NUM,doi,dva
+1015,drei::NUM,trei,tri
+1016,vier::NUM,patru,štyri
+1017,fünf::NUM,cinci,päť
+1018,sechs::NUM,șase,šesť
+1019,sieben::NUM,șapte,sedem
+1020,acht::NUM,opt,osem
+1021,neun::NUM,nouă,deväť
+1022,zehn::NUM,zece,desať
+1023,elf::NUM,unsprezece,jedenásť
+1024,zwölf::NUM,douăsprezece,dvanásť
+1025,zwanzig::NUM,douăzeci,dvadsať
+1026,dreißig::NUM,treizeci,tridsať
+1027,vierzig::NUM,patruzeci,štyridsať
+1028,fünfzig::NUM,cincizeci,päťdesiat
+1029,sechzig::NUM,șaizeci,šesťdesiat
+1030,siebzig::NUM,șaptezeci,sedemdesiat
+1031,achtzig::NUM,optzeci,osemdesiat
+1032,neunzig::NUM,nouăzeci,deväťdesiat
+1033,hundert::NUM,sută,sto
+1034,tausend::NUM,mie,tisíc
+1035,und::CNJ,și,i
+1036,oder::CNJ,ori,alebo
+1037,stehen::V,sta,stáť
+1038,sitzen::V,ședea,sedieť
+1039,liegen::V,zăcea,ležať
+1040,liegen::V,fi culcat,ležať
+1041,hängen::V,atârna,visieť
+1042,werden::V,deveni,stať sa
+1043,werden::V,se face,stať sa
+1044,passieren::V,se întâmpla,stať sa
+1045,beginnen::V,începe,začať sa
+1046,enden::V,se sfârși,končiť sa
+1047,enden::V,se termina,končiť sa
+1048,wechseln::V,se schimba,meniť sa
+1049,aufgehen[Sonne]::V,răsări,vychádzať
+1050,untergehen[Sonne]::V,apune,zapadnúť
+1051,scheinen[Sonne]::V,străluci,svietiť
+1052,donnern::V,tuna,hrmieť
+1053,wehen::V,bate,viať
+1054,strömen::V,curge în șiroaie,prúdiť
+1055,fließen::V,curge,tiecť
+1056,sich drehen::V,se învârti,točiť sa
+1057,sich drehen::V,se învârti,krútiť sa
+1058,schwanken::V,se clătina,kolísať
+1059,schwanken::V,se clătina,klátiť sa
+1060,schwingen::V,vibra,kývať sa
+1061,schwingen::V,vibra,chvieť sa
+1062,schwingen::V,flutura,kývať sa
+1063,schwingen::V,flutura,chvieť sa
+1064,fallen::V,cădea,padať
+1065,brennen::V,arde,páliť
+1066,brennen::V,arde,horieť
+1067,rauchen::V,fuma,dymiť sa
+1068,regnen::V,ploua,pršať
+1069,gefrieren::V,îngheța,zamrznút
+1070,tauen::V,se dezgheța,taviť sa
+1071,schmelzen::V,se topi,taviť sa
+1072,trocknen::V,se usca,schnúť
+1073,sieden::V,fierbe,vrieť
+1074,sieden::V,clocoti,vrieť
+1075,faulen::V,se împuți,hniť
+1076,verfaulen::V,putrezi,zhniť
+1077,reißen::V,se rupe,pretrhnúť sa
+1078,reißen::V,se sfâșia,pretrhnúť sa
+1079,versinken::V,se scufunda,zapadnúť
+1080,versinken::V,se scufunda,potopiť sa
+1081,vergehen::V,trece,plynúť
+1082,vergehen::V,se scurge,plynúť
+1083,erscheinen::V,apărea,objaviť sa
+1084,verschwinden::V,dispărea,zmiznúť
+1085,sinken::V,cădea,klesať
+1086,sinken::V,coborî,klesať
+1087,abnehmen::V,scădea,ubúdať
+1088,abnehmen::V,descrește,ubúdať
+1089,zunehmen::V,spori,pribúdať
+1090,zunehmen::V,crește,pribúdať
+1091,zunehmen::V,augmenta,pribúdať
+1092,steigen::V,urca,stúpať
+1093,wachsen::V,crește,rásť
+1094,glänzen::V,luci,jagať sa
+1095,glänzen::V,luci,lesknúť sa
+1096,glänzen::V,străluci,jagať sa
+1097,glänzen::V,străluci,lesknúť sa
+1098,funkeln::V,scânteia,iskriť sa
+1099,lärmen::V,face larmă,lomoziť
+1100,läuten::V,suna,cengať
+1101,klingeln::V,suna,zvoniť
+1102,klirren::V,zăngăni,rinčať
+1103,brausen::V,vui,hučať
+1104,rauschen::V,vâjâi,šumieť
+1105,klingen::V,suna,znieť
+1106,klingen::V,suna,zvoniť
+1107,bellen::V,lătra,štekať
+1108,bellen::V,lătra,brechať
+1109,heulen::V,urla,vyť
+1110,blasen::V,sufla,duť
+1111,blasen::V,sufla,fúkať
+1112,pfeifen::V,fluiera,pískať
+1113,pfeifen::V,fluiera,hvízdať
+1114,schreien::V,țipa,kričať
+1115,stöhnen::V,geme,stenať
+1116,zittern::V,tremura,triasť sa
+1117,leben::V,trăi,žiť
+1118,geboren werden::V,se naște,narodiť sa
+1119,atmen::V,respira,dýchať
+1120,trinken::V,bea,piť
+1121,essen::V,mânca,jesť
+1122,schlucken::V,înghiți,zhltnuť
+1123,müde werden::V,se obosi,unaviť sa
+1124,einschlafen::V,adormi,usnúť
+1125,einschlafen::V,adormi,zaspať
+1126,schlafen::V,dormi,spať
+1127,aufwachen::V,se deștepta,zobudiť sa
+1128,aufstehen::V,fi se scula,vstať
+1129,sich erholen::V,se relaxa,zotavovať sa
+1130,sich erholen::V,se relaxa,oddýchovať si
+1131,sich erholen::V,se destinde,zotavovať sa
+1132,sich erholen::V,se destinde,oddýchovať si
+1133,krank werden::V,se îmbolnăvi,ochorieť
+1134,krank sein::V,zăcea,chorieť
+1135,krank sein::V,zăcea,byť chorý
+1136,krank sein::V,fi bolnav,chorieť
+1137,krank sein::V,fi bolnav,byť chorý
+1138,schmerzen::V,durea,bolieť
+1139,husten::V,tuși,kašľať
+1140,genesen::V,se însănătoși,uzdraviť sa
+1141,sterben::V,muri,umrieť
+1142,sterben::V,muri,zomrieť
+1143,umkommen::V,pieri,zahynúť
+1144,sich bewegen::V,se mișca,pohybovať sa
+1145,sich rühren::V,se mișca,hnúť sa
+1146,sich erheben::V,se ridica,zdvihnúť sa
+1147,sich setzen::V,lua loc,sadnúť si
+1148,sich setzen::V,se așeza,sadnúť si
+1149,hinfallen::V,cădea jos,spadnúť
+1150,laufen::V,merge,bežať
+1151,laufen::V,merge pe jos,bežať
+1152,schreiten::V,păși,kráčať
+1153,spazierengehen::V,se plimba,prechádzať sa
+1154,eilen::V,fi se grăbi,súriť
+1155,sich beeilen::V,se grăbi,ponáhľať sa
+1156,sausen::V,țâșni,hučať
+1157,rennen::V,fugi,bežať
+1158,rennen::V,alerga,bežať
+1159,springen::V,sări,skákať
+1160,klettern::V,urca,liezť
+1161,klettern::V,se cățăra,liezť
+1162,schaukeln::V,legăna,húpať
+1163,schaukeln::V,legăna,hojdať
+1164,kriechen::V,se târî,liezť
+1165,kriechen::V,se târî,plaziť sa
+1166,schwimmen::V,înota,plávať
+1167,tauchen::V,se scufunda,ponoriť sa
+1168,rudern::V,vâsli,veslovať
+1169,rudern::V,lopăta,veslovať
+1170,fahren::V,merge,ísť
+1171,fahren::V,merge,jazdiť
+1172,fliegen::V,zbura,letieť
+1173,gehen::V,merge,ísť
+1174,weggehen::V,se duce,odísť
+1175,weggehen::V,se duce,odchádzať
+1176,abfahren::V,pleca,odcestovať
+1177,anhalten::V,se opri,zadržať sa
+1178,anhalten::V,se opri,zastaviť sa
+1179,hineingehen::V,intra,vchádzať
+1180,eintreten::V,intra,vojsť
+1181,eintreten::V,intra,vstúpiť
+1182,kommen::V,veni,prísť
+1183,ankommen::V,sosi,prísť
+1184,ankommen::V,sosi,doraziť
+1185,ankommen::V,ajunge,prísť
+1186,ankommen::V,ajunge,doraziť
+1187,zurückkommen::V,se întoarce,vrátiť sa
+1188,bleiben::V,rămâne,ostať
+1189,bleiben::V,rămâne,zostať
+1190,warten::V,aștepta,čakať
+1191,erwarten::V,aștepta,očakávať
+1192,suchen::V,căuta,hľadať
+1193,finden::V,găsi,nájsť
+1194,versuchen::V,încerca,skúsiť
+1195,versuchen::V,încerca,pokúsiť sa
+1196,vorbereiten::V,pregăti,pripraviť
+1197,lieben::V,iubi,ľúbiť
+1198,lieben::V,iubi,milovať
+1199,mögen::V,plăcea a,mať rád
+1200,lachen::V,râde,smiať sa
+1201,rühren::V,mișca,dojať
+1202,rühren::V,înduioșa,dojať
+1203,weinen::V,plânge,plakať
+1204,schimpfen::V,înjura,nadávať
+1205,sich ärgern::V,se supăra,hnevať sa
+1206,sich ärgern::V,se supăra,zlostiť sa
+1207,sich fürchten::V,se teme,báť sa
+1208,sich fürchten::V,fi teamă a,báť sa
+1209,fürchten::V,se teme de,báť sa
+1210,fliehen::V,fugi,utekať
+1211,flüchten::V,evada,utiecť
+1212,sehen::V,vedea,vidieť
+1213,anschauen::V,privi,pozrieť sa na
+1214,ansehen::V,privi,pozrieť
+1215,hören::V,auzi,počúvať
+1216,zuhören::V,asculta,počúvať
+1217,probieren::V,gusta,ochutnať
+1218,riechen::V,mirosi,ňuchať
+1219,fühlen::V,simți,cítiť
+1220,fühlen::V,simți,pociťovať
+1221,fühlen::V,resimți,cítiť
+1222,fühlen::V,resimți,pociťovať
+1223,scheinen::V,părea,zdať sa
+1224,zu sehen sein::V,se vedea,byť vidieť
+1225,vernehmen::V,auzi,počuť
+1226,frieren::V,fi frig,mrznúť
+1227,frieren::V,fi frig,oziabať
+1228,tun::V,face,robiť
+1229,können::V,ști,môcť
+1230,können::V,putea,môcť
+1231,wollen::V,dori,chcieť
+1232,anfangen::V,începe,začať
+1233,beenden::V,sfârși,skončiť
+1234,beenden::V,termina,skončiť
+1235,aufhören::V,înceta,prestať
+1236,gelingen::V,reuși,podariť sa
+1237,gelingen::V,izbuti,podariť sa
+1238,geraten::V,reuși,dariť sa
+1239,öffnen::V,deschide,otvoriť
+1240,schließen::V,închide,zavrieť
+1241,stellen::V,pune,postaviť
+1242,stellen::V,așeza,postaviť
+1243,setzen::V,pune,posadiť
+1244,setzen::V,așeza,posadiť
+1245,legen::V,pune,klásť
+1246,legen::V,pune,položiť
+1247,berühren::V,atinge,dotykať sa
+1248,verbinden::V,lega,spojiť
+1249,bedecken::V,acoperi,pokryť
+1250,aufhängen::V,atârna,zavesiť
+1251,aufhängen::V,spânzura,zavesiť
+1252,anzünden::V,aprinde,zapáliť
+1253,aufheben::V,ridica,zdvihnúť
+1254,aufheben::V,lua de jos,zdvihnúť
+1255,zurücklassen::V,lăsa,zanechať
+1256,zurücklassen::V,lăsa în urmă,zanechať
+1257,verlieren::V,pierde,stratiť
+1258,fallen lassen::V,scăpa,pustiť
+1259,fallen lassen::V,arunca,pustiť
+1260,machen::V,face,robiť
+1261,herstellen::V,fabrica,vyrobiť
+1262,herstellen::V,confecționa,vyrobiť
+1263,bauen::V,clădi,stavať
+1264,bauen::V,clădi,budovať
+1265,bauen::V,construi,stavať
+1266,bauen::V,construi,budovať
+1267,reparieren::V,repara,opraviť
+1268,verbessern::V,ameliora,zlepšiť
+1269,verbessern::V,îmbunătăți,zlepšiť
+1270,ändern::V,schimba,zmeniť
+1271,ändern::V,schimba,preinačiť
+1272,ändern::V,modifica,zmeniť
+1273,ändern::V,modifica,preinačiť
+1274,graben::V,săpa,ryť
+1275,graben::V,săpa,kopať
+1276,beugen::V,curba,ohnúť
+1277,biegen::V,îndoi,ohnúť
+1278,biegen::V,încovoia,ohnúť
+1279,drehen::V,învârti,točiť
+1280,drehen::V,învârti,krútiť
+1281,wenden::V,întoarce,obrátiť
+1282,wenden::V,întoarce,prevrátiť
+1283,umdrehen::V,învârti,otočiť
+1284,umdrehen::V,învârti,obrátiť
+1285,umdrehen::V,întoarce,otočiť
+1286,umdrehen::V,întoarce,obrátiť
+1287,heben::V,ridica,dvíhať
+1288,heben::V,ridica,povzniesť
+1289,hochheben::V,ridica,zdvihnúť
+1290,ergreifen::V,lua,uchopiť sa
+1291,ergreifen::V,apuca,uchopiť sa
+1292,halten::V,ține,držať
+1293,drücken::V,apăsa,tisnúť
+1294,drücken::V,strânge,tisnúť
+1295,schieben::V,împinge,posunovať
+1296,kratzen::V,zgâria,škrabať
+1297,lecken::V,linge,lízať
+1298,beißen::V,mușca,kúsať
+1299,abreißen::V,rupe,odtrhnúť
+1300,abreißen::V,smulge,odtrhnúť
+1301,abschneiden::V,scurta,odrezať
+1302,abschneiden::V,scurta,odkrojiť
+1303,binden::V,lega,zaviazať
+1304,binden::V,lega,priviazať
+1305,stecken::V,pune,strčiť
+1306,brechen::V,rupe,zlomiť
+1307,brechen::V,frânge,zlomiť
+1308,klopfen::V,ciocăni,tĺcť
+1309,klopfen::V,ciocăni,klopať
+1310,hauen::V,lovi,nabiť
+1311,kleben::V,lipi,lepiť
+1312,kleben::V,lipi,nalepiť
+1313,reiben::V,freca,trieť
+1314,reiben::V,fricționa,trieť
+1315,streichen::V,unge,namazať
+1316,schleifen::V,ascuți,ostríť
+1317,schneiden::V,tăia,rezať
+1318,schneiden::V,tăia,strihať
+1319,rütteln::V,zgâlțâi,triasť
+1320,rütteln::V,zgâlțâi,lomcovať
+1321,schütteln::V,scutura,triasť
+1322,schütteln::V,scutura,potriasť
+1323,schwenken::V,agita,mávať
+1324,schütten::V,vărsa,sypať
+1325,füllen::V,umple,plniť
+1326,einwickeln::V,înveli,zabaliť
+1327,einwickeln::V,înfășura,zabaliť
+1328,tragen::V,căra,niesť
+1329,schleppen::V,târî,vliecť
+1330,ziehen::V,trage,ťahať
+1331,aufbewahren::V,păstra,uložiť
+1332,aufbewahren::V,păstra,uschovať
+1333,aufbewahren::V,conserva,uložiť
+1334,aufbewahren::V,conserva,uschovať
+1335,werfen::V,arunca,hodiť
+1336,werfen::V,arunca,vrhnúť
+1337,fangen::V,prinde,chytať
+1338,packen::V,apuca,baliť
+1339,packen::V,apuca,chytiť
+1340,verstecken::V,ascunde,skryť
+1341,verstecken::V,ascunde,schovať
+1342,teilen::V,împărți,podeliť
+1343,teilen::V,împărți,rozdeliť
+1344,schicken::V,trimite,posielať
+1345,bringen::V,aduce,priniesť
+1346,hinzufügen::V,adăuga,pripojiť
+1347,bekommen::V,obține,dostať
+1348,bekommen::V,dobândi,dostať
+1349,erhalten::V,primi,prijať
+1350,erhalten::V,căpăta,prijať
+1351,nehmen::V,lua,vziať
+1352,wählen::V,opta,voliť
+1353,wählen::V,alege,voliť
+1354,auswählen::V,selecta,vybrať
+1355,auswählen::V,selecta,vyvoliť
+1356,bewahren::V,păstra,zachovať
+1357,behindern::V,stingheri,zavadzať
+1358,behindern::V,stingheri,byť v ceste
+1359,verderben::V,strica,skaziť
+1360,beschädigen::V,strica,ublížiť
+1361,beschädigen::V,strica,poškodiť
+1362,zerbrechen::V,rupe,rozbiť
+1363,zerbrechen::V,rupe,prelomiť
+1364,zerbrechen::V,frânge,rozbiť
+1365,zerbrechen::V,frânge,prelomiť
+1366,zerreißen::V,rupe,pretrhnúť
+1367,zerreißen::V,sfâșia,pretrhnúť
+1368,zerstören::V,distruge,zničiť
+1369,verbrennen::V,arde,spáliť
+1370,verbrennen::V,incendia,spáliť
+1371,geben::V,da,dať
+1372,reichen::V,întinde,podať
+1373,schenken::V,dărui,darovať
+1374,versprechen::V,făgădui,sľúbiť
+1375,wünschen::V,ura,želať
+1376,loben::V,lăuda,chváliť
+1377,küssen::V,săruta,bozkať
+1378,wiegen::V,legăna,kolísať
+1379,zudecken::V,acoperi,prikryť
+1380,wecken::V,trezi,zobudiť
+1381,wecken::V,deștepta,zobudiť
+1382,zeigen::V,arăta,ukázať
+1383,führen::V,călăuzi,viesť
+1384,lehren::V,preda,učiť
+1385,lehren::V,învăța,učiť
+1386,unterrichten::V,învăța,vyučovať
+1387,unterrichten::V,instrui,vyučovať
+1388,aufziehen::V,crește,vychovať
+1389,leiten::V,duce,viesť
+1390,leiten::V,conduce,viesť
+1391,antreiben::V,împinge,popudiť
+1392,antreiben::V,încuraja,popudiť
+1393,lassen::V,pune pe să,dať
+1394,einladen::V,invita,pozvať
+1395,einladen::V,invita,povolať
+1396,vereinigen::V,uni,spojiť
+1397,vereinigen::V,uni,zjednotiť
+1398,vereinigen::V,întruni,spojiť
+1399,vereinigen::V,întruni,zjednotiť
+1400,besuchen::V,vizita,navštíviť
+1401,besuchen::V,face o vizită,navštíviť
+1402,treffen::V,întâlni,stretnúť
+1403,sich versammeln::V,se aduna,zhromaždiť sa
+1404,spielen::V,se juca,hrať
+1405,singen::V,cânta,spievať
+1406,tanzen::V,dansa,tancovať
+1407,sich trennen::V,se separa,rozísť sa
+1408,sich trennen::V,se despărți,rozísť sa
+1409,verlassen::V,părăsi,opustiť
+1410,verlassen::V,abandona,opustiť
+1411,retten::V,salva,zachrániť
+1412,bewachen::V,păzi,strážiť
+1413,schützen::V,ocroti,chrániť
+1414,schützen::V,proteja,chrániť
+1415,verteidigen::V,apăra,brániť
+1416,sich schlagen::V,se bate,biť sa
+1417,schießen::V,trage,streliť
+1418,schießen::V,trage,strieľať
+1419,siegen::V,birui,zvíťaziť
+1420,siegen::V,învinge,zvíťaziť
+1421,ärgern::V,supăra,hnevať
+1422,ärgern::V,supăra,zlostiť
+1423,schlagen::V,lovi,biť
+1424,schlagen::V,lovi,udrieť
+1425,treten::V,călca,kopnúť
+1426,stechen::V,înțepa,bodnúť
+1427,stechen::V,înțepa,pichnúť
+1428,stechen::V,împunge,bodnúť
+1429,stechen::V,împunge,pichnúť
+1430,stoßen::V,împinge,udrieť
+1431,stehlen::V,fura,kradnúť
+1432,stören::V,deranja,vyrušiť
+1433,belästigen::V,importuna,obťažovať
+1434,verbergen::V,ascunde,skryť
+1435,täuschen::V,amăgi,sklamať
+1436,betrügen::V,înșela,klamať
+1437,betrügen::V,înșela,podvádzať
+1438,töten::V,omorî,zabiť
+1439,töten::V,omorî,usmrtiť
+1440,wohnen::V,sta,bývať
+1441,wohnen::V,locui,bývať
+1442,arbeiten::V,lucra,pracovať
+1443,sammeln::V,aduna,zbierať
+1444,sammeln::V,colecționa,zbierať
+1445,pflücken::V,culege,trhať
+1446,pflücken::V,culege,oberať
+1447,jagen::V,vâna,poľovať
+1448,fischen::V,pescui,loviť ryby
+1449,fischen::V,pescui,chytať ryby
+1450,fassen::V,prinde,uloviť
+1451,hüten::V,paște,pásť
+1452,treiben::V,mână,hnať
+1453,anbinden::V,lega,priviazať
+1454,füttern::V,da de mâncare,kŕmiť
+1455,melken::V,mulge,dojiť
+1456,hacken::V,toca,seknúť
+1457,hacken::V,sparge,seknúť
+1458,gießen::V,uda,polievať
+1459,reifen::V,pârgui,dozrieť
+1460,zubereiten::V,găti,pripraviť
+1461,kochen::V,găti,variť
+1462,backen::V,coace,piecť
+1463,backen::V,coace,smažiť
+1464,braten::V,coace,piecť
+1465,braten::V,coace,pražiť
+1466,umrühren::V,mesteca,pomiešať
+1467,stricken::V,împleti,pliesť
+1468,nähen::V,coase,šiť
+1469,färben::V,vopsi,zafarbiť
+1470,färben::V,colora,zafarbiť
+1471,reinigen::V,curăți,čistiť
+1472,waschen::V,spăla,myť
+1473,abwischen::V,șterge,utrieť
+1474,spülen::V,clăti,vyplachovať
+1475,fegen::V,mătura,zametať
+1476,kehren::V,mătura,zametať
+1477,baden::V,se scălda,kúpať sa
+1478,sich waschen::V,se spăla,umývať sa
+1479,ausziehen::V,și scoate,zobliecť
+1480,anziehen::V,îmbrăca,obliecť
+1481,sich anziehen::V,se îmbrăca,obliecť sa
+1482,kämmen::V,pieptăna,česať
+1483,schmücken::V,împodobi,ozdobiť
+1484,sagen::V,zice,povedať
+1485,sagen::V,spune,povedať
+1486,sprechen::V,vorbi,hovoriť
+1487,reden::V,vorbi,rozprávať
+1488,reden::V,discuta,rozprávať
+1489,sich unterhalten::V,conversa,rozprávať sa
+1490,sich unterhalten::V,sta de vorbă,rozprávať sa
+1491,fragen::V,întreba,spýtať sa
+1492,bitten::V,ruga,prosiť
+1493,erzählen::V,spune,rozprávať
+1494,erzählen::V,povesti,rozprávať
+1495,mitteilen::V,comunica,oznámiť
+1496,mitteilen::V,înștiința,oznámiť
+1497,nennen::V,numi,nazvať
+1498,nennen::V,numi,menovať
+1499,nennen::V,chema,nazvať
+1500,nennen::V,chema,menovať
+1501,rufen::V,chema,volať
+1502,rufen::V,chema,zavolať
+1503,prahlen::V,se făli,vystatovať sa
+1504,übersetzen::V,traduce,preložiť
+1505,denken::V,gândi,myslieť
+1506,glauben::V,crede,veriť
+1507,bemerken::V,observa,podotknuť
+1508,bemerken::V,observa,spozorovať
+1509,erkennen::V,cunoaște,poznať
+1510,erkennen::V,recunoaște,poznať
+1511,begreifen::V,pricepe,pochopiť
+1512,begreifen::V,pricepe,porozumieť
+1513,begreifen::V,înțelege,pochopiť
+1514,begreifen::V,înțelege,porozumieť
+1515,verstehen::V,înțelege,rozumieť
+1516,lernen::V,învăța,učiť sa
+1517,wissen::V,ști,vedieť
+1518,sich erinnern an::V,a-și aminti de,pamätať si na
+1519,vergessen::V,uita,zabudnuť
+1520,messen::V,măsura,merať
+1521,zählen::V,număra,počítať
+1522,rechnen::V,calcula,rátať
+1523,rechnen::V,calcula,počítať
+1524,lesen::V,citi,čítať
+1525,malen::V,picta,maľovať
+1526,zeichnen::V,desena,kresliť
+1527,schreiben::V,scrie,písať
+1528,besitzen::V,avea,mať
+1529,besitzen::V,avea,vlastniť
+1530,besitzen::V,poseda,mať
+1531,besitzen::V,poseda,vlastniť
+1532,kaufen::V,cumpăra,kúpiť
+1533,verkaufen::V,vinde,predať
+1534,bezahlen::V,plăti,zaplatiť
+1535,bezahlen::V,achita,zaplatiť
+1536,zahlen::V,plăti,platiť
+1537,beherrschen::V,stăpâni,ovládať
+1538,ertragen::V,răbda,znášať
+1539,ertragen::V,răbda,vydržať
+1540,ertragen::V,suporta,znášať
+1541,ertragen::V,suporta,vydržať

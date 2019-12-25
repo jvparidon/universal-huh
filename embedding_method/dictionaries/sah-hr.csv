@@ -1,0 +1,1430 @@
+,Concept_ID,sah,hr
+0,Auge::N,харах,oko
+1,Ohr::N,кулгаах,uho
+2,Nase::N,мурун,nos
+3,Mund::N,айах,usta
+4,Zahn::N,тиис,zub
+5,Zunge::N,тыл,jezik
+6,Lippe::N,уос,usna
+7,Wange::N,иэдэс,obraz
+8,Gesicht::N,сирэй,lice
+9,Stirn::N,сүүс,čelo
+10,Haar::N,баттах,kosa
+11,Schnurrbart::N,уос бытыга,brkovi
+12,Bart::N,сэҥийэ бытыга,brada
+13,Kinn::N,сэҥийэ,brada
+14,Kinn::N,сэҥийэ,podbradak
+15,Kiefer[Anatomie]::N,сыҥаах,čeljust
+16,Kehle::N,тамах,grlo
+17,Kehle::N,күөмэй,grlo
+18,Hals::N,моой,vrat
+19,Genick::N,кэтэх,zatiljak
+20,Kopf::N,бас,glava
+21,Rücken::N,көҕүс,leđa
+22,Rücken::N,көҕүс,hrbat
+23,Bauch::N,ис,trbuh
+24,Nabel::N,киин,pupak
+25,Busen::N,эмиий,sisa
+26,Busen::N,эмиий,njedra
+27,Brust::N,түөс,prsa
+28,Schulter::N,сарын,rame
+29,Schulter::N,сарын,pleći
+30,Arm::N,илии,ruka
+31,Ellenbogen::N,тоҕонох,lakat
+32,Hand::N,илии,ruka
+33,Handfläche::N,ытыс,dlan
+34,Finger::N,тарбах,prst
+35,Fingernagel::N,тыҥырах,nokat
+36,Nagel[Anatomie]::N,тыҥырах,nokat
+37,Zeh::N,тарбах,nozni prst
+38,Fuß::N,уллуҥах,noga
+39,Fuß::N,уллуҥах,stopalo
+40,Ferse::N,тилэх,peta
+41,Knie::N,тобук,koljeno
+42,Knie::N,дьилбэк,koljeno
+43,Oberschenkel::N,уллук,bedro
+44,Oberschenkel::N,өттүк,bedro
+45,Bein::N,атах,noga
+46,Körper::N,бэйэ,tijelo
+47,Haut::N,тирии,put
+48,Haut::N,тирии,koža
+49,Blut::N,хаан,krv
+50,Ader::N,вена,žila
+51,Ader::N,күөх_тымыр,žila
+52,Sehne::N,иҥиир,tetiva
+53,Knochen::N,уҥуох,kost
+54,Knochen::N,уҥгуох,kost
+55,Gehirn::N,мэйии,
+56,Herz::N,сүрэх,srce
+57,Magen::N,куртах,stomak
+58,Magen::N,куртах,želudac
+59,Leber::N,быар,jetra
+60,Atem::N,тыын,dah
+61,Hunger::N,аас,glad
+62,Träne::N,харах уута,suza
+63,Geschmack::N,амтан,ukus
+64,Geruch::N,сыт,njuh
+65,Geruch::N,сыт,miris
+66,Schlaf::N,утуйуу,san
+67,Traum::N,түүл,san
+68,Himmel::N,халлаан,nebo
+69,Sonne::N,күн,sunce
+70,Mond::N,ый,mjesec
+71,Stern::N,сулус,zvijezda
+72,Luft::N,салгын,zrak
+73,Wind::N,тыал,vjetar
+74,Welle::N,долгун,val
+75,Welle::N,долгун,talas
+76,Welle::N,балхаан,val
+77,Welle::N,балхаан,talas
+78,Wasser::N,уу,voda
+79,Stein::N,таас,kamen
+80,Boden::N,сир,tlo
+81,Boden::N,сир,zemlja
+82,Erde::N,буор,zemlja
+83,Staub::N,быыл,prah
+84,Staub::N,быыл,prašina
+85,Rauch::N,буруо,dim
+86,Funke::N,кыым,iskra
+87,Funke::N,кыым,varnica
+88,Feuer::N,уот,vatra
+89,Licht::N,уот,svjetlo
+90,Schatten::N,күлүк,hlad
+91,Schatten::N,күлүк,sjena
+92,Wetter::N,күн-дьыл,vrijeme
+93,Nebel::N,туман,magla
+94,Wolke::N,былыт,oblak
+95,Regen::N,самыыр,kiša
+96,Schnee::N,хаар,snijeg
+97,Eis::N,муус,led
+98,Frost::N,тымныы,mraz
+99,Kälte::N,тымныы,studen
+100,Kälte::N,тымныы,hladnoća
+101,Hitze::N,куйаас,vrućina
+102,Raureif::N,кырыа,inje
+103,Regenbogen::N,кустук,duga
+104,Donner::N,этиҥ,grom
+105,Donner::N,этиҥ,grmljavina
+106,Strömung::N,сүүрүк,struja
+107,Strömung::N,сүүрүк,strujanje
+108,Tropfen::N,таммах,kap
+109,Tropfen::N,таммах,kaplja
+110,Tropfen::N,хааппыла,kap
+111,Tropfen::N,хааппыла,kaplja
+112,Schaum::N,күүгэн,pjena
+113,Schmutz::N,кир,nečistoća
+114,Schmutz::N,кир,prljavština
+115,See::N,күөл,jezero
+116,Sumpf::N,бадараан,bara
+117,Moor::N,дьэбэрэ,močvara
+118,Wiese::N,ходуһа,livada
+119,Wald::N,ойуур,šuma
+120,Hügel::N,булгунньах,brijeg
+121,Hügel::N,булгунньах,brežuljak
+122,Anhöhe::N,үрдэл,uzvišica
+123,Berg::N,хайа,brdo
+124,Gipfel::N,чыпчаал,vrh
+125,Höhle::N,хайа_хаспаҕа,pećina
+126,Höhle::N,хайа_хаспаҕа,spilja
+127,Höhle::N,көҥүс,pećina
+128,Höhle::N,көҥүс,spilja
+129,Abhang::N,эниэ,obronak
+130,Abhang::N,эниэ,nizbrdica
+131,Quelle::N,дьүүктэ,izvor
+132,Quelle::N,дьүүктэ,vrelo
+133,Bach::N,үрүйэ,potok
+134,Fluss::N,өрүс,rijeka
+135,Ufer::N,биэрэк,obala
+136,Küste::N,кытыл,obala
+137,Küste::N,кытыл,morska obala
+138,Festland::N,кураанах сир,kopno
+139,Meer::N,муора,more
+140,Bucht::N,хомо,zaliv
+141,Bucht::N,бухта,zaliv
+142,Insel::N,арыы,ada
+143,Insel::N,арыы,otok
+144,Blume::N,сибэкки,cvijet
+145,Gras::N,от,trava
+146,Wurzel::N,силис,korijen
+147,Baum::N,мас,drvo
+148,Baum::N,мас,stablo
+149,Stamm::N,умнас,deblo
+150,Stamm::N,умнас,stablo
+151,Rinde::N,хатырык,kora
+152,Ast::N,мутук,grana
+153,Zweig::N,лабаа,grana
+154,Blatt::N,сэбирдэх,list
+155,Birke::N,хатыҥ,breza
+156,Kiefer[Baum]::N,бэс,bor
+157,Weide[Baum]::N,үөт,iva
+158,Weide[Baum]::N,үөт,vŕba
+159,Weide[Baum]::N,талах,iva
+160,Weide[Baum]::N,талах,vŕba
+161,Tanne::N,харыйа,jela
+162,Horn::N,муос,rog
+163,Feder::N,куорсун,pero
+164,Fell::N,тирии,koža
+165,Flügel::N,кынат,krilo
+166,Klaue::N,тыҥырах,papak
+167,Kralle::N,баппаҕай,pandža
+168,Schwanz::N,кутурук,rep
+169,Ei::N,сымыыт,jaje
+170,Nest::N,уйа,gnijezdo
+171,Bau::N,хороон,jazbina
+172,Tier::N,кыыл,životinja
+173,Tier::N,харамай,životinja
+174,Herde::N,үөр,krdo
+175,Herde::N,үөр,stado
+176,Kuh::N,ынах,krava
+177,Bulle::N,оҕус,bik
+178,Pferd::N,сылгы,konj
+179,Schaf::N,овца,ovca
+180,Schwein::N,сибиинньэ,svinja
+181,Hund::N,ыт,pas
+182,Hund::N,ыт,pseto
+183,Katze::N,куоска,mačka
+184,Bär::N,эһэ,medvjed
+185,Eichhörnchen::N,тииҥ,vjeverica
+186,Elch::N,тайах,los
+187,Fuchs::N,саһыл,lisica
+188,Hase::N,куобах,zec
+189,Maus::N,кутуйах,miš
+190,Wolf::N,бөрө,vuk
+191,Wolf::N,бөрө,kurjak
+192,Vogel::N,көтөр,ptica
+193,Schwarm::N,бөлөх,roj
+194,Schwarm::N,бөлөх,jato
+195,Huhn::N,куурусса,kokoš
+196,Hahn::N,бөтүүк,kokot
+197,Hahn::N,бөтүүк,pijevac
+198,Gans::N,хаас,guska
+199,Adler::N,хотой,orao
+200,Ente::N,кус,patka
+201,Eule::N,мэкчиргэ,sova
+202,Kranich::N,туруйа,ždral
+203,Krähe::N,тураах,vrana
+204,Kuckuck::N,кэҕэ,kukavica
+205,Schwan::N,куба,labud
+206,Fisch::N,балык,riba
+207,Barsch::N,алыһар,grgeč
+208,Hecht::N,сордон,štuka
+209,Schlange[Tier]::N,моҕой,guja
+210,Schlange[Tier]::N,моҕой,zmija
+211,Schlange[Tier]::N,эриэн үөн,guja
+212,Schlange[Tier]::N,эриэн үөн,zmija
+213,Wurm::N,үөн,crv
+214,Spinne::N,ооҕуй,pauk
+215,Ameise::N,кымырдаҕас,mrav
+216,Laus::N,быт,uš
+217,Mücke::N,кумаар,komarac
+218,Fliege::N,сахсырҕа,muha
+219,Schmetterling::N,лыах,leptir
+220,Schmetterling::N,үрүмэччи,leptir
+221,Beere::N,отон,boba
+222,Beere::N,отон,bobica
+223,Apfel::N,яблоко,jabuka
+224,Pilz::N,тэллэй,pečurka
+225,Zwiebel::N,луук,luk
+226,Zwiebel::N,луук,kapula
+227,Saat::N,сиэмэ,sjemenje
+228,Korn::N,сиэмэ,zrno
+229,Heu::N,от,sijeno
+230,Schale::N,хах,kora
+231,Schale::N,хах,ljuska
+232,Grube::N,дьаама,jama
+233,Falle::N,сохсо,zamka
+234,Falle::N,сохсо,klopka
+235,Schlinge::N,уктаа,uzao
+236,Schlinge::N,уктаа,petlja
+237,Spur::N,суол,trag
+238,Spur::N,суол,slijed
+239,Asche::N,күл,pepeo
+240,Dreck::N,бадараан,blato
+241,Eisen::N,тимир,željezo
+242,Gold::N,көмүс,zlato
+243,Gold::N,кыһыл көмүс,zlato
+244,Silber::N,көмүс,srebro
+245,Silber::N,үрүҥ көмүс,srebro
+246,Kohle::N,чох,ugalj
+247,Kohle::N,чох,ugljen
+248,Glas::N,өстүөкүлэ,staklo
+249,Lehm::N,туой,glina
+250,Lehm::N,туой,ilovača
+251,Sand::N,кумах,pijesak
+252,Mensch::N,киһи,čovjek
+253,Mann::N,эр,muškarac
+254,Frau::N,дьахтар,žena
+255,Kind::N,оҕо,čedo
+256,Kind::N,оҕо,dijete
+257,Junge::N,уол,momče
+258,Junge::N,уол,dječak
+259,Mädchen::N,кыыс оҕо,djevojka
+260,Mädchen::N,кыыс оҕо,djevojčica
+261,Familie::N,кэргэн,obitelj
+262,Familie::N,кэргэн,porodica
+263,Großvater::N,эһэ,djed
+264,Großmutter::N,эбэ,baka
+265,Eltern::N,аҕа-ийэ,roditelji
+266,Vater::N,аҕа,otac
+267,Mutter::N,ийэ,majka
+268,Sohn::N,уол,sin
+269,Tochter::N,кыыс,kći
+270,Tochter::N,кыыс,kćerka
+271,Bruder::N,убай,brat
+272,Bruder::N,быраат,brat
+273,Schwester::N,аҕас,sestra
+274,Schwester::N,балыс,sestra
+275,Onkel::N,таай,čika
+276,Onkel::N,таай,ujak
+277,Onkel::N,абаҕа,čika
+278,Onkel::N,абаҕа,ujak
+279,Tante::N,эдьиий,ujna
+280,Tante::N,эдьиий,tetka
+281,Ehemann::N,эр,muž
+282,Ehemann::N,эр,suprug
+283,Ehefrau::N,ойох,žena
+284,Ehefrau::N,ойох,supruga
+285,Freude::N,үөрүү,radost
+286,Gelächter::N,күлүү,grohot
+287,Glück::N,дьол,sreća
+288,Glück::N,соргу,sreća
+289,Kummer::N,кутурҕан,jad
+290,Kummer::N,кутурҕан,briga
+291,Wunsch::N,баҕарыы,želja
+292,Lust::N,баҕа,volja
+293,Geist::N,тыын,duh
+294,Gedanke::N,санаа,misao
+295,Gedächtnis::N,өй,pamćenje
+296,Verstand::N,өй,um
+297,Verstand::N,өй,razum
+298,Sinn::N,суолта,smisao
+299,Sinn::N,суолта,značenje
+300,Grund::N,төрүөт,razlog
+301,Wahrheit::N,кырдьык,istina
+302,Gespräch::N,бэсиэдэ,razgovor
+303,Gespräch::N,кэпсэтии,razgovor
+304,Märchen::N,остуоруйа,bajka
+305,Erzählung::N,кэпсээн,priča
+306,Erzählung::N,кэпсээн,pripovijest
+307,Nachricht::N,биллэриллии,vijest
+308,Neuigkeit::N,сонун,novost
+309,Name::N,аат,ime
+310,Rätsel::N,таабырын,zagonetka
+311,Rede::N,этии,govor
+312,Rede::N,этии,besjeda
+313,Sprache::N,тыл,jezik
+314,Stimme::N,куолас,glas
+315,Wort::N,тыл,riječ
+316,Zeichen::N,бэлиэ,znak
+317,Ruf::N,ыҥырыы,povik
+318,Ruf::N,ыҥырыы,poklik
+319,Lärm::N,айдаан,buka
+320,Lärm::N,айдаан,galama
+321,Laut::N,тыас,zvuk
+322,Ton::N,дорҕоон,ton
+323,Lied::N,ырыа,pjesma
+324,Ruhe::N,уу чуумпу,tišina
+325,Ruhe::N,уу чуумпу,počinak
+326,Leute::N,дьон,ljudi
+327,Volk::N,дьон,puk
+328,Volk::N,дьон,narod
+329,Volk::N,норуот,puk
+330,Volk::N,норуот,narod
+331,Arbeit::N,үлэ,rad
+332,Arbeit::N,үлэ,posao
+333,Gast::N,ыалдьыт,gost
+334,Geschenk::N,бэлэх,dar
+335,Geschenk::N,бэлэх,poklon
+336,Spiel::N,оонньуу,igra
+337,Gesellschaft::N,общество,društvo
+338,Gesellschaft::N,общество,kompanija
+339,Hilfe::N,көмө,pomoć
+340,Freund::N,доҕор,prijatelj
+341,Kamerad::N,атас,drug
+342,Kamerad::N,атас,drugar
+343,Angelegenheit::N,дьыала,posao
+344,Anzahl::N,ахсаан,broj
+345,Anzahl::N,ахсаан,brojnost
+346,Art::N,биис,vid
+347,Art::N,биис,vrst
+348,Stück::N,кырбас,komad
+349,Teil::N,ирээт,dio
+350,Hälfte::N,аҥар,polovina
+351,Kreis::N,төгүрүк,krug
+352,Kreis::N,төгүрүмтэ,krug
+353,Kreuz::N,кириэс,križ
+354,Linie::N,сурааһын,crta
+355,Strich::N,сурааһын,crta
+356,Abstand::N,арыт,razmak
+357,Abstand::N,арыт,odstojanje
+358,Entfernung::N,ыраах,udaljenost
+359,Gegend::N,сир,kraj
+360,Gegend::N,сир,predeo
+361,Platz::N,арыт,mjesto
+362,Ort::N,сир,mjesto
+363,Seite::N,өрүт,bok
+364,Seite::N,өрүт,strana
+365,Seite::N,сирэй,bok
+366,Seite::N,сирэй,strana
+367,Mitte::N,орто,sredina
+368,Gegenstand::N,предмет,predmet
+369,Sache::N,мал,posao
+370,Rand::N,кытыы,rub
+371,Rand::N,кытыы,kraj
+372,Rand::N,ойоҕос,rub
+373,Rand::N,ойоҕос,kraj
+374,Kante::N,кырыы,brid
+375,Kante::N,кырыы,ivica
+376,Ecke::N,муннук,ugao
+377,Spitze::N,чыпчаал,vrh
+378,Spitze::N,чыпчаал,šiljak
+379,Ende::N,төбө,konac
+380,Loch::N,тэһэҕэс,rupa
+381,Loch::N,дьөлөҕөс,rupa
+382,Winkel::N,муннук,kut
+383,Winkel::N,муннук,ugao
+384,Muster::N,оһуор,uzor
+385,Größe::N,кээмэй,veličina
+386,Länge::N,уста,duljina
+387,Höhe::N,үрдүк,visina
+388,Gewicht::N,ыйааһын,težina
+389,Menge::N,ахсаан,mnoštvo
+390,Menge::N,ахсаан,količina
+391,Haufen::N,чөмчөх,hrpa
+392,Haufen::N,чөмчөх,gomila
+393,Reihe::N,кэккэ,red
+394,Boot::N,оҥочо,čun
+395,Boot::N,оҥочо,čamac
+396,Ruder::N,эрдии,veslo
+397,Schlitten::N,сыарҕа,saone
+398,Ski::N,хайыһар,ski
+399,Ski::N,хайыһар,smučka
+400,Lagerfeuer::N,кутаа,logorska vatra
+401,Last::N,ыарахан,tovar
+402,Gang::N,хаамыы,hod
+403,Schritt::N,хардыы,korak
+404,Norden::N,хоту,sjever
+405,Süden::N,соҕуруу,jug
+406,Westen::N,арҕаа,zapad
+407,Osten::N,илин,istok
+408,Holz::N,мас,drvo
+409,Brett::N,дуоска,daska
+410,Brett::N,хаптаһын,daska
+411,Platte::N,билиитэ,ploča
+412,Stütze::N,тулааһын,potpora
+413,Stange::N,ураҕас,motka
+414,Stock::N,мас,štap
+415,Stock::N,мас,palica
+416,Stock::N,баалкы,štap
+417,Stock::N,баалкы,palica
+418,Stab::N,ураҕас,štap
+419,Stab::N,ураҕас,šipka
+420,Rohr::N,турба,cijev
+421,Haus::N,дьиэ,kuća
+422,Heim::N,дьиэ,dom
+423,Ofen::N,оһох,peć
+424,Fußboden::N,муоста,pod
+425,Tisch::N,остуол,stol
+426,Tisch::N,остуол,trpeza
+427,Stuhl::N,устуул,stolac
+428,Stuhl::N,устуул,stolica
+429,Wiege::N,биһик,kolijevka
+430,Bett::N,кырабаат,krevet
+431,Bett::N,кырабаат,postelja
+432,Regal::N,долбуур,polica
+433,Kiste::N,дьааһык,sanduk
+434,Fenster::N,түннүк,prozor
+435,Tür::N,аан,vrata
+436,Tor::N,аан,vrata
+437,Tor::N,аан,kapija
+438,Zaun::N,соппулуот,plot
+439,Zaun::N,соппулуот,ograda
+440,Dach::N,кырыыса,krov
+441,Leiter::N,кирилиэс,ljestve
+442,Leiter::N,кирилиэс,ljestvice
+443,Besen::N,миинньик,metla
+444,Spaten::N,күрдьэх,ašov
+445,Schaufel::N,күрдьэх,lopata
+446,Gabel::N,биилкэ,viljuška
+447,Löffel::N,луоска,žlica
+448,Messer::N,быһах,nož
+449,Nagel::N,тоһоҕо,čavao
+450,Netz::N,илим,mreža
+451,Haken::N,көхө,kuka
+452,Griff::N,ук,držak
+453,Griff::N,ук,ručica
+454,Griff::N,тутаах,držak
+455,Griff::N,тутаах,ručica
+456,Schloss::N,күлүүс,brava
+457,Bild::N,хартыына,slika
+458,Figur::N,фигура,figura
+459,Puppe::N,куукула,lutka
+460,Beutel::N,мөһөөччук,kesa
+461,Bündel::N,баайыы,snop
+462,Bündel::N,баайыы,svežanj
+463,Tasche::N,суумка,torba
+464,Tasche::N,суумка,taška
+465,Eimer::N,биэдэрэ,kabao
+466,Deckel::N,хаппах,poklopac
+467,Geschirr::N,иһит,suđe
+468,Geschirr::N,иһит,posuđe
+469,Sack::N,куул,džak
+470,Sack::N,куул,vreća
+471,Tasse::N,сэлиэнэй,šalica
+472,Topf::N,көстүрүүҥкэ,lonac
+473,Kessel::N,хочуол,kazan
+474,Essen::N,аһылык,obrok
+475,Nahrung::N,ас,hrana
+476,Speise::N,аһылык,jelo
+477,Fleisch::N,эт,meso
+478,Getreide::N,злактар,žito
+479,Getreide::N,злактар,žitarice
+480,Brei::N,хааһы,kaša
+481,Brot::N,килиэп,kruh
+482,Scheibe::N,куһуок,kriška
+483,Fett::N,сыа,mast
+484,Fett::N,сыа,salo
+485,Butter::N,арыы,buter
+486,Butter::N,арыы,maslac
+487,Öl::N,арыы,ulje
+488,Salz::N,туус,sol
+489,Suppe::N,мин,supa
+490,Honig::N,мүөт,med
+491,Milch::N,үүт,mlijeko
+492,Tee::N,чэй,čaj
+493,Leder::N,тирии,koža
+494,Wolle::N,түү,vuna
+495,Stoff::N,таҥас,štof
+496,Stoff::N,таҥас,tkanina
+497,Nadel::N,иннэ,igla
+498,Faden::N,сап,nit
+499,Faden::N,сап,konac
+500,Knopf::N,тимэх,dugme
+501,Knoten::N,түмүк,čvor
+502,Knoten::N,түмүк,uzao
+503,Farbe::N,кырааска,farba
+504,Kleidung::N,таҥас,odjeća
+505,Hemd::N,ырбаахы,košulja
+506,Kragen::N,саҕа,ovratnik
+507,Ärmel::N,сиэх,rukav
+508,Hose::N,ыстаан,hlače
+509,Hose::N,бүрүүкэ,hlače
+510,Gürtel::N,кур,pas
+511,Gürtel::N,кур,pojas
+512,Mütze::N,бэргэһэ,kapa
+513,Schuh::N,бачыыҥка,cipela
+514,Stiefel::N,саппыкы,čizma
+515,Ring::N,биһилэх,prsten
+516,Band::N,лиэнтэ,vrpca
+517,Kamm::N,тараах,češalj
+518,Spiegel::N,сиэркилэ,zrcalo
+519,Spiegel::N,сиэркилэ,ogledalo
+520,Riemen::N,кур,kaiš
+521,Riemen::N,кур,remen
+522,Schnur::N,быа,vrpca
+523,Leine::N,тэһиин,uzica
+524,Decke::N,суорҕан,ćebe
+525,Decke::N,суорҕан,pokrivač
+526,Kissen::N,сыттык,jastuk
+527,Tuch::N,былаат,rubac
+528,Tuch::N,былаат,marama
+529,Handtuch::N,соттор,ručnik
+530,Kraft::N,сыра,snaga
+531,Stärke::N,күүс,jakost
+532,Gesundheit::N,доруобуйа,zdravlje
+533,Krankheit::N,ыарыы,bolest
+534,Schmerz::N,ыарыы,bol
+535,Wunde::N,баас,rana
+536,Fieber::N,түрүлгэн,groznica
+537,Fieber::N,лихорадка,groznica
+538,Fieber::N,температура,groznica
+539,Arznei::N,эмп,lijek
+540,Brücke::N,күргэ,most
+541,Brücke::N,күргэ,ćuprija
+542,Brunnen::N,холуодьас,bunar
+543,Brunnen::N,холуодьас,zdenac
+544,Weide::N,мэччирэҥ,paša
+545,Weide::N,мэччирэҥ,pašnjak
+546,Pfad::N,ыллык,staza
+547,Weg::N,суол,put
+548,Straße::N,суол,drum
+549,Straße::N,суол,cesta
+550,Dorf::N,дэриэбинэ,selo
+551,Stadt::N,куорат,grad
+552,Stadt::N,куорат,varoš
+553,Brief::N,сурук,list
+554,Brief::N,сурук,pismo
+555,Buch::N,кинигэ,knjiga
+556,Buchstabe::N,буква,slovo
+557,Zeitung::N,хаһыат,novine
+558,Leben::N,тыын,život
+559,Tod::N,өлүү,smrt
+560,Grab::N,иин,raka
+561,Kirche::N,таҥара дьиэтэ,crkva
+562,Sünde::N,айыы,grijeh
+563,Gott::N,тангара,bog
+564,Arbeiter::N,үлэһит,radnik
+565,Chef::N,баһылык,šef
+566,Chef::N,начальник,šef
+567,Meister::N,уус,majstor
+568,Meister::N,маастар,majstor
+569,Arzt::N,врач,liječnik
+570,Lehrer::N,учуутал,učitelj
+571,Geld::N,харчы,novac
+572,Geschäft::N,идэ,posao
+573,Geschäft::N,идэ,trgovina
+574,Laden::N,маҕаһыын,dućan
+575,Preis::N,сыана,cijena
+576,Ware::N,табаар,roba
+577,Nutzen::N,туһа,korist
+578,Reichtum::N,баай,bogatstvo
+579,Welt::N,аан дойду,svijet
+580,Land::N,дойду,zemlja
+581,Staat::N,государство,država
+582,König::N,король,kralj
+583,Macht::N,былаас,moć
+584,Macht::N,былаас,vlast
+585,Grenze::N,кыраныысса,granica
+586,Krieg::N,сэрии,rat
+587,Feind::N,өстөөх,neprijatelj
+588,Gewalt::N,күүһүлээһин,sila
+589,Gewalt::N,күүһүлээһин,nasilje
+590,Kampf::N,охсуһуу,boj
+591,Kampf::N,охсуһуу,borba
+592,Bogen[Waffe]::N,ох,luk
+593,Pfeil::N,ох,strijela
+594,Gewehr::N,саа,puška
+595,Fehler::N,сыыһа,pogreška
+596,Fehler::N,сыыһа,griješka
+597,Lüge::N,сымыйа,laž
+598,Schaden::N,хоромньу,šteta
+599,Unglück::N,алдьархай,nesreća
+600,Schuld::N,буруй,krivnja
+601,Alter::N,саас,dob
+602,Schluss::N,тиһэх,kraj
+603,Schluss::N,тиһэх,konac
+604,Zeit::N,бириэмэ,doba
+605,Zeit::N,бириэмэ,vrijeme
+606,Tag::N,күн,dan
+607,Morgen::N,сарсыарда,jutro
+608,Mittag::N,күн ортото,podne
+609,Abend::N,киэһэ,veče
+610,Abend::N,киэһэ,večer
+611,Nacht::N,түүн,noć
+612,Woche::N,нэдиэлэ,sedmica
+613,Monat::N,ый,mjesec
+614,Jahr::N,сыл,godina
+615,Jahr::N,дьыл,godina
+616,Frühling::N,саас,proljeće
+617,Sommer::N,сайын,ljeto
+618,Herbst::N,күһүн,jesen
+619,Winter::N,кыһын,zima
+620,Januar::N,тохсунньу,januar
+621,Januar::N,тохсунньу,siječanj
+622,Februar::N,олунньу,veljača
+623,Februar::N,олунньу,februar
+624,März::N,кулун тутар,mart
+625,März::N,кулун тутар,ožujak
+626,April::N,муус устар ый,april
+627,April::N,муус устар ый,travanj
+628,Mai::N,ыам ыйа,maj
+629,Mai::N,ыам ыйа,svibanj
+630,Juni::N,бэс ыйа,juni
+631,Juni::N,бэс ыйа,lipanj
+632,Juli::N,от ыйа,juli
+633,Juli::N,от ыйа,srpanj
+634,August::N,атырдьах ыйа,august
+635,August::N,атырдьах ыйа,kolovoz
+636,September::N,балаҕан ыйа,rujan
+637,September::N,балаҕан ыйа,septembar
+638,Oktober::N,алтынньы,oktobar
+639,Oktober::N,алтынньы,listopad
+640,November::N,сэтинньи,studeni
+641,November::N,сэтинньи,novembar
+642,Dezember::N,ахсынньы,prosinac
+643,Montag::N,бэнидиэнньик,ponedjeljak
+644,Montag::N,бэнидиэнньик,ponedjeljnik
+645,Dienstag::N,оптуорунньук,utorak
+646,Dienstag::N,оптуорунньук,utornik
+647,Mittwoch::N,сэрэдэ,srijeda
+648,Donnerstag::N,чэппиэр,četvrtak
+649,Freitag::N,бээтинсэ,petak
+650,Samstag::N,субуота,subota
+651,Sonntag::N,баскыһыанньа,nedjelja
+652,groß::A,бөдөҥ,velik
+653,groß::A,улахан,velik
+654,klein::A,кыр,mali
+655,klein::A,кыр,malen
+656,lang::A,уһун,dug
+657,lang::A,уһун,dugačak
+658,kurz::A,кылгас,kratak
+659,breit::A,кэтит,širok
+660,schmal::A,кыараҕас,uski
+661,schmal::A,кыараҕас,uzak
+662,dicht::A,хойуу,gust
+663,dick[Gegenstand]::A,суон,debeo
+664,dick[Gegenstand]::A,хойуу,debeo
+665,dünn::A,чараас,tanak
+666,fein::A,бытархай,fin
+667,fein::A,бытархай,tanak
+668,fein::A,синньигес,fin
+669,fein::A,синньигес,tanak
+670,fest::A,бөҕө,čvrst
+671,fest::A,кытаанах,čvrst
+672,flach::A,хаптаҕай,ravan
+673,flach::A,хаптаҕай,plosnat
+674,glatt::A,кылааккай,gladak
+675,hart::A,хатан,tvrd
+676,hart::A,кытаанах,tvrd
+677,weich::A,сымнаҕас,mek
+678,weich::A,сымнаҕас,mekan
+679,rund::A,төгүрүк,okrugao
+680,spitz::A,сытыы,oštar
+681,spitz::A,сытыы,šiljast
+682,spitz::A,уһуктаах,oštar
+683,spitz::A,уһуктаах,šiljast
+684,scharf::A,сытыы,oštar
+685,scharf::A,сытыы,bridak
+686,stumpf::A,сыппах,tup
+687,schwer::A,ыарахан,težak
+688,schön::A,кыраһыабай,krasan
+689,heiß::A,итии,vruć
+690,warm::A,ичигэс,topao
+691,kalt::A,тымныы,hladan
+692,kühl::A,сөрүүн,hladan
+693,frisch::A,ыраас,svjež
+694,frisch::A,сөрүүн,svjež
+695,frisch::A,тымныы,svjež
+696,feucht::A,сииктээх,vlažan
+697,nass::A,инчэҕэй,mokar
+698,trocken::A,кураан,suh
+699,voll::A,толору,pun
+700,leer::A,иччитэх,prazan
+701,offen::A,аһаҕас,otvoren
+702,geschlossen::A,бүтэй,zatvoren
+703,sauber::A,сэбэр,čist
+704,schmutzig::A,кирдээх,nečist
+705,schmutzig::A,кирдээх,blatan
+706,roh::A,сиикэй,sirov
+707,reif::A,буспут,zreo
+708,reif::A,сиппит-хоппут,zreo
+709,lecker::A,минньигэс,tečan
+710,lecker::A,минньигэс,ukusan
+711,süß::A,минньигэс,sladak
+712,bitter::A,аһыы,gorak
+713,sauer::A,аһыы,kiseo
+714,hell::A,сырдык,vedar
+715,hell::A,сырдык,svijetao
+716,dunkel::A,хараҥа,taman
+717,schwarz::A,хара,crn
+718,weiß::A,үрүҥ,bio
+719,weiß::A,үрүҥ,bijel
+720,weiß::A,маҥан,bio
+721,weiß::A,маҥан,bijel
+722,rot::A,кыһыл,crven
+723,gelb::A,саһархай,žut
+724,blau::A,күөх,plav
+725,blau::A,күөх,modar
+726,grün::A,күөх,zelen
+727,grün::A,от күөҕэ,zelen
+728,grau::A,сиэрэй,siv
+729,bunt::A,эриэн,šaren
+730,billig::A,чэпчэки,jeftin
+731,teuer::A,сыаналаах,skup
+732,wertvoll::A,сыаналаах,vrijedan
+733,wertvoll::A,сыаналаах,dragocjen
+734,blind::A,хараҕа суох,slijep
+735,taub::A,дьүлэй,gluh
+736,kräftig::A,модун,snažan
+737,stark::A,күүстээх,jak
+738,stark::A,күүстээх,snažan
+739,schwach::A,мөлтөх,slab
+740,fett::A,эмис,pretio
+741,schlank::A,дьылҕан,vitak
+742,schlank::A,дьыпсаҕай,vitak
+743,hübsch::A,олус кэрэ,zgodan
+744,hübsch::A,көрүөхтэн үчүгэй,zgodan
+745,böse::A,өһүөннээх,zao
+746,böse::A,өһүөннээх,opak
+747,dumm::A,акаары,glup
+748,faul::A,нэс,lijen
+749,fleißig::A,кыһамньылаах,radin
+750,fleißig::A,кыһамньылаах,marljiv
+751,geizig::A,иҥсэлээх,škrt
+752,klug::A,өйдөөх,razborit
+753,geschickt::A,наһаа дьоҕурдаах,vješt
+754,lieb::A,тапталлаах,drag
+755,lustig::A,көрдөөх,veseo
+756,sanft::A,намчы,blag
+757,sanft::A,сымнаҕас,blag
+758,hungrig::A,аччык,gladan
+759,krank::A,ыалдьар,bolestan
+760,nackt::A,сыгынньах,nag
+761,traurig::A,санаарҕабыллаах,tužan
+762,traurig::A,санаарҕабыллаах,žalostan
+763,lebendig::A,тыыннаах,živ
+764,gut::A,үтүө,dobar
+765,gut::A,үчүгэй,dobar
+766,schlecht::A,куһаҕан,loš
+767,schlecht::A,куһаҕан,rđav
+768,richtig::A,сөп,tačan
+769,richtig::A,сөп,ispravan
+770,schlimm::A,сидьиҥ,zao
+771,schlimm::A,сидьиҥ,zločest
+772,schlimm::A,быдьар,zao
+773,schlimm::A,быдьар,zločest
+774,wahr::A,кырдьык,istinit
+775,alt::A,былыргы,star
+776,neu::A,саҥа,nov
+777,ehemalig::A,урукку,bivši
+778,alt[Lebewesen]::A,кырдьаҕас,star
+779,jung::A,эдэр,mlad
+780,arm::A,дьадаҥы,ubog
+781,arm::A,дьадаҥы,siromašan
+782,reich::A,баай,bogat
+783,bekannt::A,билэр,poznat
+784,berühmt::A,аатырбыт,čuven
+785,berühmt::A,аатырбыт,slavan
+786,fremd::A,атын,tuđ
+787,fremd::A,атын,stran
+788,verschieden::A,араас,razan
+789,verschieden::A,араас,različan
+790,nah::A,чугас,blizak
+791,fern::A,ыраах,dalek
+792,fern::A,ыраах,daljnji
+793,linker::A,хаҥас,lijevi
+794,rechter::A,уҥа,desni
+795,anderer::A,атын,drugi
+796,anderer::A,атын,drugačiji
+797,erster::A,маҥнайгы,prvi
+798,zweiter::A,иккис,drugi
+799,dritter::A,үһүс,treći
+800,letzter::A,тиһэх,zadnji
+801,allein::ADV,соҕотох,sam
+802,auf einmal::ADV,биирдэ,istodobno
+803,zusammen::ADV,холбуу,skupa
+804,zusammen::ADV,холбуу,zajedno
+805,lange::ADV,уһуннук,dugo
+806,plötzlich::ADV,эмискэ,naglo
+807,plötzlich::ADV,эмискэ,iznenada
+808,sofort::ADV,тута,odmah
+809,später::ADV,хойут,kasnije
+810,jetzt::ADV,билигин,sad
+811,jetzt::ADV,билигин,sada
+812,heute::ADV,бүгүн,danas
+813,morgen::ADV,сарсын,sutra
+814,bald::ADV,өтөр,skoro
+815,bald::ADV,өтөр,doskora
+816,dann::ADV,кэнна,zatim
+817,gestern::ADV,бэҕэһээ,juče
+818,gestern::ADV,бэҕэһээ,jučer
+819,einst::ADV,биир төгүл,negda
+820,einst::ADV,биир төгүл,nekada
+821,einst::ADV,арай биирдэ,negda
+822,einst::ADV,арай биирдэ,nekada
+823,damals::ADV,оччоҕо,tada
+824,damals::ADV,оччоҕо,onda
+825,danach::ADV,аары,poslije
+826,danach::ADV,аары,nakon toga
+827,danach::ADV,ол кэнниттэн,poslije
+828,danach::ADV,ол кэнниттэн,nakon toga
+829,vorher::ADV,урут,prije
+830,vorher::ADV,урут,prije toga
+831,zuerst::ADV,маҥнай,prvo
+832,zuerst::ADV,маҥнай,najprije
+833,einmal::ADV,биирдэ,jednom
+834,einmal::ADV,биирдэ,jedanput
+835,manchmal::ADV,арыт,katkad
+836,manchmal::ADV,арыт,katkada
+837,oft::ADV,чаастатык,često
+838,immer::ADV,мэлдьи,vazda
+839,immer::ADV,мэлдьи,uvijek
+840,niemals::ADV,хаһан да,nikad
+841,niemals::ADV,хаһан да,nikada
+842,hier::ADV,маныаха,tu
+843,hier::ADV,маныаха,ovdje
+844,hierhin::ADV,бэттэх,amo
+845,hierhin::ADV,бэттэх,ovamo
+846,von hier::ADV,мантан,odavde
+847,dort::ADV,онно,ondje
+848,dorthin::ADV,онно,onamo
+849,geradeaus::ADV,быһа,ravno
+850,geradeaus::ADV,быһаччы,ravno
+851,vorwärts::ADV,инники,naprijed
+852,rückwärts::ADV,төттөру,natrag
+853,zurück::ADV,төттөрү,nazad
+854,zurück::ADV,төттөрү,natrag
+855,unten::ADV,аллара,dolje
+856,hinab::ADV,аллара,nizbrdo
+857,oben::ADV,үөһэ,gore
+858,hinauf::ADV,өрө,uzbrdo
+859,hinauf::ADV,үөһэ,uzbrdo
+860,überall::ADV,бэйдиэ,svuda
+861,überall::ADV,бэйдиэ,svagdje
+862,nicht::ADV,буолбатах,ne
+863,ein wenig::ADV,кыратык,malo
+864,kaum::ADV,нэһиилэ,tek
+865,kaum::ADV,нэһиилэ,jedva
+866,sehr::ADV,бэрт,jako
+867,sehr::ADV,бэрт,veoma
+868,sehr::ADV,наһаа,jako
+869,sehr::ADV,наһаа,veoma
+870,so::ADV,оччо,tako
+871,so::ADV,оччо,ovako
+872,so::ADV,оннук,tako
+873,so::ADV,оннук,ovako
+874,noch::ADV,өссө,još
+875,nur::ADV,эрэ,samo
+876,nur::ADV,сыччах,samo
+877,schon::ADV,бэлиэр,već
+878,wieder::ADV,эмиэ,opet
+879,wieder::ADV,эмиэ,ponovo
+880,vergebens::ADV,таак,uzalud
+881,vergebens::ADV,таак,zabadava
+882,vor::PRP,иннигэр,pred
+883,vor::PRP,иннигэр,ispred
+884,hinter::PRP,кэлин,za
+885,hinter::PRP,кэлин,iza
+886,unter::PRP,-ҕа,pod
+887,unter::PRP,-ҕа,ispod
+888,unter::PRP,оһох түгэҕэ,pod
+889,unter::PRP,оһох түгэҕэ,ispod
+890,durch::PRP,курдары,po
+891,durch::PRP,курдары,kroz
+892,neben::PRP,аттыгар,kraj
+893,neben::PRP,аттыгар,pored
+894,neben::PRP,аттыгар,pokraj
+895,zwischen::PRP,ыккардынан,među
+896,zwischen::PRP,ыккардынан,između
+897,wegen::PRP,уҥуортан,radi
+898,wegen::PRP,уҥуортан,zbog
+899,dies::PRN,ити,ovo
+900,dies::PRN,бу,ovo
+901,das::PRN,били,to
+902,das::PRN,били,ono
+903,alles::PRN,барыта,sve
+904,ich::PRN,мин,ja
+905,du::PRN,эн,ti
+906,er::PRN,кнни,on
+907,wir::PRN,биһиги,mi
+908,ihr::PRN,эһиги,vi
+909,sie::PRN,кинилэр,oni
+910,was::FPRN,туох,što
+911,wer::FPRN,ким,tko
+912,wo::FADV,ханна,gdje
+913,wohin::FADV,ханна,kuda
+914,wohin::FADV,ханна,kamo
+915,wie::FADV,хайдах,kako
+916,warum::FADV,тоҕо,zašto
+917,wieviel::FNUM,төһө,koliko
+918,eins::NUM,биир,jedan
+919,zwei::NUM,икки,dva
+920,drei::NUM,үс,tri
+921,vier::NUM,түөрт,četiri
+922,fünf::NUM,биэс,pet
+923,sechs::NUM,алта,šest
+924,sieben::NUM,сэттэ,sedam
+925,acht::NUM,аҕыс,osam
+926,neun::NUM,тоҕус,devet
+927,zehn::NUM,уон,deset
+928,elf::NUM,уон биир,jedanaest
+929,zwölf::NUM,уон икки,dvanaest
+930,zwanzig::NUM,сүүрбэ,dvadeset
+931,dreißig::NUM,отут,trideset
+932,vierzig::NUM,түөрт уон,četrdeset
+933,fünfzig::NUM,биэс уон,pedeset
+934,sechzig::NUM,алта уон,šezdeset
+935,siebzig::NUM,сэттэ уон,sedamdeset
+936,achtzig::NUM,аҕыс уон,osamdeset
+937,neunzig::NUM,тоҕус уонус,devetdeset
+938,hundert::NUM,сүүс,sto
+939,tausend::NUM,тыһыынча,tisuća
+940,und::CNJ,да,i
+941,und::CNJ,да,te
+942,und::CNJ,уонна,i
+943,und::CNJ,уонна,te
+944,und::CNJ,итиэннэ,i
+945,und::CNJ,итиэннэ,te
+946,oder::CNJ,эбэтэр,ili
+947,stehen::V,тур,stajati
+948,sitzen::V,олор,sjediti
+949,liegen::V,сыт,ležati
+950,hängen::V,санньылый,visiti
+951,werden::V,буол,postati
+952,werden::V,буол,činiti se
+953,passieren::V,буол,desiti se
+954,passieren::V,буол,dogoditi se
+955,beginnen::V,саҕалан,početi
+956,enden::V,бүт,prestati
+957,enden::V,бүт,svršiti se
+958,wechseln::V,уларый,mijenjati se
+959,aufgehen[Sonne]::V,ой,izići
+960,untergehen[Sonne]::V,киир,zaći
+961,scheinen[Sonne]::V,сырдат,sijati
+962,donnern::V,эт,grmjeti
+963,wehen::V,үр,duhati
+964,strömen::V,кутулун,strujati
+965,fließen::V,сүүр,teći
+966,sich drehen::V,эргий,obrtati se
+967,sich drehen::V,эргий,vrtjeti se
+968,schwanken::V,биэтэҥнээ,teturati
+969,schwanken::V,биэтэҥнээ,kolebati se
+970,schwingen::V,эйэҥнээ,njihati
+971,schwingen::V,эйэҥнээ,titrati
+972,fallen::V,оҕут,padati
+973,brennen::V,умай,gorjeti
+974,rauchen::V,буруолаа,dimiti se
+975,regnen::V,самыырдаа,kišiti
+976,regnen::V,самыырдаа,daždjeti
+977,gefrieren::V,тоҥ,smrznuti se
+978,tauen::V,ир,kopnjeti
+979,tauen::V,ир,kraviti se
+980,schmelzen::V,уулун,topiti se
+981,trocknen::V,куур,sušiti se
+982,sieden::V,оргуй,kipjeti
+983,sieden::V,оргуй,ključati
+984,faulen::V,сытый,gnjiti
+985,verfaulen::V,сытыйан_хаал,sagnjiti
+986,reißen::V,хайыт,otrgnuti se
+987,reißen::V,быһытталан,otrgnuti se
+988,versinken::V,тимир,tonuti
+989,versinken::V,тимир,propasti
+990,versinken::V,батылын,tonuti
+991,versinken::V,батылын,propasti
+992,vergehen::V,дьай,prolaziti
+993,erscheinen::V,көһүн,pojaviti se
+994,verschwinden::V,сүт,nestati
+995,verschwinden::V,сүт,izgubiti se
+996,sinken::V,намтаа,trgnuti
+997,sinken::V,намтаа,spustiti se
+998,abnehmen::V,аччаа,opasti
+999,zunehmen::V,элбээ,povećati se
+1000,steigen::V,үрдээ,uzići
+1001,steigen::V,үрдээ,nadoći
+1002,wachsen::V,үүн,rasti
+1003,glänzen::V,кылбай,blistati
+1004,glänzen::V,кылбай,sjati se
+1005,funkeln::V,күлүмнээ,svjetlucati
+1006,funkeln::V,күлүмүрдээ,svjetlucati
+1007,lärmen::V,тыаһаа,bučati
+1008,lärmen::V,тыаһаа,galamiti
+1009,läuten::V,собуоннаа,zvoniti
+1010,klingeln::V,линкинээ,zvoniti
+1011,klirren::V,айгырат,zvečati
+1012,brausen::V,сирилээ,hujati
+1013,rauschen::V,суугунаа,šumiti
+1014,rauschen::V,суугунаа,šuškati
+1015,klingen::V,доргуй,zvučati
+1016,bellen::V,үр,lajati
+1017,heulen::V,улуй,zavijati
+1018,blasen::V,үр,puhati
+1019,pfeifen::V,иһиир,fućkati
+1020,schreien::V,кылан,vikati
+1021,schreien::V,кылан,kričati
+1022,schreien::V,хаһыытаа,vikati
+1023,schreien::V,хаһыытаа,kričati
+1024,stöhnen::V,ынчыктаа,stenjati
+1025,zittern::V,титирээ,drhtati
+1026,zittern::V,титирээ,trepetati
+1027,zittern::V,дьигиһий,drhtati
+1028,zittern::V,дьигиһий,trepetati
+1029,leben::V,олор,živjeti
+1030,geboren werden::V,төрөө,roditi se
+1031,atmen::V,тыын,disati
+1032,trinken::V,ис,piti
+1033,essen::V,аһаа,jesti
+1034,schlucken::V,ыйыһын,gutati
+1035,müde werden::V,сылай,umoriti se
+1036,einschlafen::V,утуйан хаал,usnuti
+1037,einschlafen::V,утуйан хаал,zaspati
+1038,schlafen::V,утуй,spati
+1039,schlafen::V,утуйа сыт,spati
+1040,aufwachen::V,уһугун,probuditi se
+1041,aufstehen::V,тур,ustati
+1042,sich erholen::V,сынньан,odmoriti se
+1043,krank werden::V,ыарый,oboljeti se
+1044,krank werden::V,ыарый,razboljeti se
+1045,krank sein::V,ыарый,bolovati
+1046,krank sein::V,ыарыт,bolovati
+1047,schmerzen::V,ыарыт,boljeti
+1048,husten::V,сөтөлүн,kašljati
+1049,genesen::V,көн,ozdraviti
+1050,genesen::V,көн,oporaviti se
+1051,sterben::V,өл,umrijeti
+1052,umkommen::V,өл,skapati
+1053,umkommen::V,оҕут,skapati
+1054,sich bewegen::V,хамсаа,gibati se
+1055,sich bewegen::V,хамсаа,kretati se
+1056,sich rühren::V,хамсаа,maknuti se
+1057,sich erheben::V,тур,dići se
+1058,sich setzen::V,олор,sjesti
+1059,hinfallen::V,оҕут,pasti
+1060,laufen::V,хаам,hodati
+1061,schreiten::V,атыллаа,stupati
+1062,spazierengehen::V,дьаарбай,šetati se
+1063,eilen::V,тиэтэй,hitati
+1064,sich beeilen::V,ыксаа,požuriti se
+1065,sausen::V,элээр,juriti
+1066,rennen::V,сүүрэкэлээ,trčati
+1067,springen::V,ой,skakati
+1068,springen::V,ыстан,skakati
+1069,klettern::V,ытын,popeti se
+1070,klettern::V,ытын,penjati se
+1071,schaukeln::V,эйэҥнээ,ljuljati se
+1072,schaukeln::V,биэрэҥнээ,ljuljati se
+1073,kriechen::V,сыыл,puzati
+1074,kriechen::V,сыыл,gmizati
+1075,schwimmen::V,уһун,plivati
+1076,schwimmen::V,харбаа,plivati
+1077,tauchen::V,умус,roniti
+1078,tauchen::V,умус,gnjuriti
+1079,rudern::V,эрт,veslati
+1080,fahren::V,айаннаа,voziti se
+1081,fliegen::V,көт,letjeti
+1082,fliegen::V,көт,lijetati
+1083,gehen::V,бар,ići
+1084,weggehen::V,бар,otići
+1085,abfahren::V,бар,krenuti
+1086,abfahren::V,бар,otputovati
+1087,anhalten::V,тохтоо,stati
+1088,anhalten::V,тохтоо,zaustaviti
+1089,hineingehen::V,киир,ulaziti
+1090,eintreten::V,киир,ući
+1091,kommen::V,кэл,doći
+1092,ankommen::V,кэл,stići
+1093,ankommen::V,тиий,stići
+1094,zurückkommen::V,төнүн,vratiti se
+1095,zurückkommen::V,төнүн,povratiti se
+1096,bleiben::V,хаал,ostati
+1097,warten::V,көһүт,čekati
+1098,erwarten::V,күүт,očekivati
+1099,erwarten::V,көһүт,očekivati
+1100,suchen::V,ирдээ,tražiti
+1101,suchen::V,көрдөө,tražiti
+1102,finden::V,бул,naći
+1103,versuchen::V,сорун,pokušati
+1104,vorbereiten::V,бэлэмнээ,spremiti
+1105,vorbereiten::V,бэлэмнээ,pripremiti
+1106,lieben::V,таптаа,voljeti
+1107,mögen::V,сөбүл,voljeti
+1108,lachen::V,күл,smijati se
+1109,rühren::V,долгут,taknuti
+1110,weinen::V,ытаа,plakati
+1111,schimpfen::V,үөҕүс,psovati
+1112,sich ärgern::V,кыыһыр,ljutiti se
+1113,sich ärgern::V,кыйахан,ljutiti se
+1114,sich fürchten::V,куттан,bojati se
+1115,sich fürchten::V,дьиксин,bojati se
+1116,fürchten::V,дьиксин,bojati se
+1117,fürchten::V,куттан,bojati se
+1118,fliehen::V,күрээ,pobjeći
+1119,flüchten::V,күрээ,utjeći
+1120,sehen::V,көр,vidjeti
+1121,anschauen::V,көр,ogledati
+1122,ansehen::V,көр,gledati
+1123,hören::V,бил,čuti
+1124,hören::V,иһит,čuti
+1125,zuhören::V,иһит,slušati
+1126,probieren::V,боруобалаан көр,probati
+1127,probieren::V,амсайан көр,probati
+1128,riechen::V,сытырҕаа,osjećati miris
+1129,fühlen::V,бил,osjećati
+1130,scheinen::V,көһүн,činiti se
+1131,zu sehen sein::V,көһүн,biti vidljiv
+1132,vernehmen::V,иһит,saznati
+1133,frieren::V,тоҥ,zima je
+1134,frieren::V,үлүй,zima je
+1135,tun::V,гын,raditi
+1136,können::V,кыай,moći
+1137,wollen::V,баҕар,htjeti
+1138,anfangen::V,саҕалаа,početi
+1139,beenden::V,бүтэр,svršiti
+1140,beenden::V,бүтэр,dovršiti
+1141,aufhören::V,уурай,prestati
+1142,gelingen::V,сатан,uspjeti
+1143,geraten::V,баар буолан биэр,desiti se
+1144,geraten::V,баар буола тус,desiti se
+1145,geraten::V,буолан таҕыс,desiti se
+1146,öffnen::V,ас,otvoriti
+1147,schließen::V,сап,zatvoriti
+1148,schließen::V,хатаа,zatvoriti
+1149,stellen::V,уур,metnuti
+1150,stellen::V,уур,postaviti
+1151,stellen::V,туруор,metnuti
+1152,stellen::V,туруор,postaviti
+1153,setzen::V,туруор,posaditi
+1154,setzen::V,уур,posaditi
+1155,legen::V,уур,polagati
+1156,berühren::V,тыыт,doticati
+1157,berühren::V,тыыт,dodirivati
+1158,berühren::V,таарый,doticati
+1159,berühren::V,таарый,dodirivati
+1160,verbinden::V,кэлгий,spojiti
+1161,verbinden::V,кэлгий,zavezati
+1162,bedecken::V,бүрүй,pokriti
+1163,aufhängen::V,ыйаа,objesiti
+1164,anzünden::V,умат,upaliti
+1165,anzünden::V,умат,zapaliti
+1166,aufheben::V,өрө тарт,podići
+1167,aufheben::V,өрө тарт,podignuti
+1168,zurücklassen::V,бырах,ostaviti
+1169,zurücklassen::V,бырах,pustiti natrag
+1170,verlieren::V,сүтэр,izgubiti
+1171,fallen lassen::V,түһэр,ispustiti
+1172,fallen lassen::V,мүлчү тут,ispustiti
+1173,machen::V,оҥор,uraditi
+1174,machen::V,оҥор,načiniti
+1175,machen::V,оҥор,napraviti
+1176,machen::V,оҥоһун,uraditi
+1177,machen::V,оҥоһун,načiniti
+1178,machen::V,оҥоһун,napraviti
+1179,herstellen::V,оҥор,proizvesti
+1180,bauen::V,тут,graditi
+1181,reparieren::V,абырахтаа,popraviti
+1182,verbessern::V,тупсар,poboljšati
+1183,ändern::V,уларыт,promijeniti
+1184,graben::V,хас,kopati
+1185,graben::V,хас,kopkati
+1186,beugen::V,бокут,saviti
+1187,beugen::V,токурут,saviti
+1188,beugen::V,бүк баттаа,saviti
+1189,biegen::V,иэх,saviti
+1190,biegen::V,иэх,sagnuti
+1191,biegen::V,өҕүлүннэр,saviti
+1192,biegen::V,өҕүлүннэр,sagnuti
+1193,drehen::V,эргит,vrtjeti
+1194,drehen::V,эргичит,vrtjeti
+1195,wenden::V,эргилин,obrnuti
+1196,umdrehen::V,түҥнэр,okrenuti
+1197,umdrehen::V,түҥнэр,prevŕnuti
+1198,heben::V,көтөх,dizati
+1199,hochheben::V,таһаар,dignuti
+1200,ergreifen::V,тут,uhvatiti
+1201,ergreifen::V,тут,prihvatiti
+1202,halten::V,тут,držati
+1203,drücken::V,ык,pritiskivati
+1204,schieben::V,ас,gurati
+1205,kratzen::V,кыһыы,česati
+1206,kratzen::V,кыһыы,grepsti
+1207,lecken::V,салаа,lizati
+1208,beißen::V,ытыр,ujesti
+1209,beißen::V,ытыр,gristi
+1210,abreißen::V,быһа тарт,otkinuti
+1211,abreißen::V,туура тарт,otkinuti
+1212,abschneiden::V,быс,odrezati
+1213,abschneiden::V,быһан ыл,odrezati
+1214,abschneiden::V,быһа баттаа,odrezati
+1215,binden::V,кэлгий,vezati
+1216,stecken::V,батары ас,turiti
+1217,brechen::V,тоһут,slomiti
+1218,klopfen::V,тоҥсуй,lupati
+1219,klopfen::V,тоҥсуй,kucati
+1220,hauen::V,оҕус,tući
+1221,hauen::V,оҕус,udarati
+1222,kleben::V,силимнээ,lijepiti
+1223,reiben::V,аал,trti
+1224,streichen::V,сыбаа,namazati
+1225,schleifen::V,чочуй,brusiti
+1226,schneiden::V,быс,rezati
+1227,rütteln::V,иэҕэҥнэт,drmati
+1228,schütteln::V,сахсый,tresti
+1229,schwenken::V,дайбаа,mahati
+1230,schütten::V,кут,sipati
+1231,schütten::V,кут,lijevati
+1232,füllen::V,толор,napuniti
+1233,einwickeln::V,суулаа,umotati
+1234,einwickeln::V,суулаа,zamotati
+1235,tragen::V,ит,nositi
+1236,schleppen::V,сос,tegliti
+1237,ziehen::V,тарт,vući
+1238,aufbewahren::V,уур,čuvati
+1239,aufbewahren::V,харай,čuvati
+1240,werfen::V,бырах,bacati
+1241,fangen::V,хап,loviti
+1242,fangen::V,хап,hvatati
+1243,packen::V,тут,ščepati
+1244,packen::V,тут,zgrabiti
+1245,verstecken::V,саһыар,sakriti
+1246,teilen::V,үллэр,podijeliti
+1247,schicken::V,ыыт,slati
+1248,bringen::V,аҕал,donijeti
+1249,hinzufügen::V,эп,dodati
+1250,hinzufügen::V,эп,pridati
+1251,bekommen::V,ыл,dobiti
+1252,bekommen::V,булун,dobiti
+1253,erhalten::V,ыл,primiti
+1254,nehmen::V,ыл,uzeti
+1255,wählen::V,быыбардаа,izabrati
+1256,auswählen::V,тал,odabrati
+1257,bewahren::V,харай,sačuvati
+1258,behindern::V,мэһэйдээ,smetati
+1259,verderben::V,буорту гын,pokvariti
+1260,beschädigen::V,алдьат,oštetiti
+1261,zerbrechen::V,үлтүрүт,razbiti
+1262,zerbrechen::V,үлтүрүт,prelomiti
+1263,zerreißen::V,хайыта тарт,poderati
+1264,zerreißen::V,хайыта тарт,rastrgnuti
+1265,zerstören::V,алдьат,razoriti
+1266,zerstören::V,алдьат,razrušiti
+1267,verbrennen::V,уоттаа,spaliti
+1268,verbrennen::V,уоттаа,sagorjeti
+1269,geben::V,биэр,dati
+1270,reichen::V,аҕал,pružiti
+1271,schenken::V,бэлэхтээ,darivati
+1272,versprechen::V,эрэннэр,obećati
+1273,wünschen::V,баҕар,željeti
+1274,loben::V,хайҕаа,hvaliti
+1275,küssen::V,уураа,ljubiti
+1276,wiegen::V,бигээ,njihati
+1277,wiegen::V,бигээ,ljuljati
+1278,zudecken::V,сап,pokriti
+1279,zudecken::V,бүрүй,pokriti
+1280,wecken::V,уһугуннар,probuditi
+1281,zeigen::V,көрдөр,pokazati
+1282,führen::V,салай,voditi
+1283,lehren::V,үөрэт,učiti
+1284,unterrichten::V,үөрэт,poučiti
+1285,aufziehen::V,иит,uzgajati
+1286,leiten::V,салай,upravljati
+1287,antreiben::V,кыһай,natjeravati
+1288,lassen::V,күһэй,dati
+1289,einladen::V,ыҥыр,pozvati
+1290,vereinigen::V,холбоо,ujediniti
+1291,vereinigen::V,түм,ujediniti
+1292,besuchen::V,сырыт,posjetiti
+1293,besuchen::V,билсэ сырыт,posjetiti
+1294,treffen::V,көрүс,sresti
+1295,sich versammeln::V,мүһүн,okupiti se
+1296,sich versammeln::V,түмүс,okupiti se
+1297,spielen::V,оонньоо,igrati se
+1298,singen::V,ыллаа,pjevati
+1299,tanzen::V,үҥкүүлээ,plesati
+1300,sich trennen::V,араҕыс,razići se
+1301,verlassen::V,хааллар,ostaviti
+1302,verlassen::V,хааллар,napustiti
+1303,retten::V,өрүһүй,spasiti
+1304,bewachen::V,араҥаччылаа,čuvati
+1305,bewachen::V,араҥаччылаа,stražariti
+1306,schützen::V,көмүскээ,čuvati
+1307,verteidigen::V,көмүскээ,obraniti
+1308,sich schlagen::V,охсус,biti se
+1309,sich schlagen::V,охсус,udariti se
+1310,schießen::V,ытыалаа,pucati
+1311,schießen::V,ытыалаа,strijeljati
+1312,siegen::V,хот,pobijediti
+1313,siegen::V,кыай,pobijediti
+1314,ärgern::V,кыыһырт,ljutiti
+1315,schlagen::V,оҕус,biti
+1316,schlagen::V,оҕус,udariti
+1317,treten::V,тэп,šutnuti
+1318,stechen::V,кэй,ubosti
+1319,stoßen::V,кэп,gurnuti
+1320,stoßen::V,үтүрүй,gurnuti
+1321,stehlen::V,уор,ukrasti
+1322,stören::V,мэһэйдээ,smetati
+1323,belästigen::V,батар,smetati
+1324,belästigen::V,батар,dosaditi
+1325,verbergen::V,кистээ,skriti
+1326,täuschen::V,албыннаа,obmanuti
+1327,betrügen::V,албыннаа,prevarati
+1328,töten::V,өлөр,ubiti
+1329,wohnen::V,олор,stanovati
+1330,arbeiten::V,үлэлээ,raditi
+1331,sammeln::V,мус,sabrati
+1332,sammeln::V,хомуй,sabrati
+1333,pflücken::V,үргээ,ubrati
+1334,jagen::V,бултаа,loviti
+1335,fischen::V,балыктаа,ribati
+1336,fischen::V,балыктаа,loviti ribu
+1337,fassen::V,тут,uloviti
+1338,hüten::V,манаа,pasti
+1339,treiben::V,үүр,goniti
+1340,anbinden::V,баай,privezati
+1341,füttern::V,аһат,hraniti
+1342,melken::V,ыа,musti
+1343,hacken::V,кэрт,sjeckati
+1344,gießen::V,сиигирт,politi
+1345,reifen::V,бус,sazreti
+1346,zubereiten::V,бэлэмнээ,prigotoviti
+1347,kochen::V,буһар,kuhati
+1348,backen::V,буһар,peći
+1349,braten::V,хооруй,peći
+1350,braten::V,хооруй,pržiti
+1351,braten::V,ыһаарылаа,peći
+1352,braten::V,ыһаарылаа,pržiti
+1353,braten::V,соркуойдаа,peći
+1354,braten::V,соркуойдаа,pržiti
+1355,umrühren::V,былаа,promiješati
+1356,stricken::V,өр,plesti
+1357,nähen::V,иистэн,šiti
+1358,färben::V,кырааскалаа,obojiti
+1359,reinigen::V,ыраастаа,očistiti
+1360,reinigen::V,ыраастаа,počistiti
+1361,waschen::V,сууй,prati
+1362,abwischen::V,сот,otrti
+1363,spülen::V,сайҕаа,isprati
+1364,spülen::V,сайҕаа,oplakati
+1365,fegen::V,сиппий,mesti
+1366,fegen::V,сиппий,pomesti
+1367,kehren::V,харбаа,mesti
+1368,baden::V,сөтүөлээ,kupati se
+1369,sich waschen::V,суун,umiti se
+1370,sich waschen::V,суун,prati se
+1371,ausziehen::V,уһул,svući
+1372,anziehen::V,кэтэрт,obući
+1373,sich anziehen::V,таҥын,obući se
+1374,kämmen::V,тараа,češljati
+1375,schmücken::V,симээ,uresiti
+1376,schmücken::V,симээ,nakititi
+1377,sagen::V,диэ,reći
+1378,sagen::V,диэ,kazati
+1379,sprechen::V,эт,govoriti
+1380,sprechen::V,саҥар,govoriti
+1381,reden::V,кэпсэт,govoriti
+1382,reden::V,кэпсэт,besjediti
+1383,sich unterhalten::V,кэпсэт,razgovarati se
+1384,fragen::V,ыйыт,pitati
+1385,bitten::V,көрдөс,moliti
+1386,erzählen::V,кэпсээ,ispričati
+1387,erzählen::V,кэпсээ,pripovjediti
+1388,erzählen::V,сэһэргээ,ispričati
+1389,erzählen::V,сэһэргээ,pripovjediti
+1390,mitteilen::V,биллэр,saopćiti
+1391,nennen::V,ааттаа,nazvati
+1392,rufen::V,ыҥыр,zvati
+1393,rufen::V,ыҥыр,dozvati
+1394,prahlen::V,чабылан,hvalisati se
+1395,prahlen::V,киһиргээ,hvalisati se
+1396,übersetzen::V,тылбаастаа,prevesti
+1397,denken::V,санаа,misliti
+1398,denken::V,толкуйдаа,misliti
+1399,glauben::V,итэҕэй,vjerovati
+1400,bemerken::V,бэлиэтээ,zapaziti
+1401,bemerken::V,бэлиэтээ,primijetiti
+1402,erkennen::V,бил,prepoznati
+1403,begreifen::V,өйдөө,pojmiti
+1404,begreifen::V,өйдөө,shvatiti
+1405,verstehen::V,өйдөө,razabrati
+1406,lernen::V,үөрэн,učiti se
+1407,wissen::V,бил,znati
+1408,sich erinnern an::V,аҕын,sjetiti se
+1409,vergessen::V,умун,zaboraviti
+1410,messen::V,кэмнээ,mjeriti
+1411,messen::V,кээмэйдээ,mjeriti
+1412,zählen::V,аах,brojiti
+1413,rechnen::V,аах,računati
+1414,lesen::V,аах,čitati
+1415,malen::V,уруһуйдаа,slikati
+1416,zeichnen::V,уруһуйдаа,crtati
+1417,schreiben::V,суруй,pisati
+1418,besitzen::V,баһылаа,imati
+1419,besitzen::V,баһылаа,posjedovati
+1420,kaufen::V,атыылас,kupiti
+1421,verkaufen::V,атыылаа,prodati
+1422,verkaufen::V,атыылаа,raspačati
+1423,bezahlen::V,төлөө,platiti
+1424,zahlen::V,төлөө,plaćati
+1425,beherrschen::V,баһылаа,vladati
+1426,beherrschen::V,баһылаа,gospodariti
+1427,ertragen::V,тулуй,trpjeti
+1428,ertragen::V,тулуй,podnijeti

@@ -1,0 +1,1743 @@
+,Concept_ID,hi,fi
+0,Auge::N,आँख,silmä
+1,Auge::N,चक्षु,silmä
+2,Ohr::N,कान,korva
+3,Ohr::N,कर्ण,korva
+4,Nase::N,नाक,nenä
+5,Nase::N,नासा,nenä
+6,Mund::N,मुख,suu
+7,Mund::N,मुँह,suu
+8,Zahn::N,दंत,hammas
+9,Zahn::N,दाँत,hammas
+10,Zunge::N,जीभ,kieli
+11,Zunge::N,ज़बान,kieli
+12,Zunge::N,जिह्वा,kieli
+13,Lippe::N,ओंठ,huuli
+14,Lippe::N,होंठ,huuli
+15,Wange::N,गाल,poski
+16,Wange::N,कपोल,poski
+17,Gesicht::N,मुँह,naama
+18,Gesicht::N,मुँह,kasvot
+19,Gesicht::N,चेहरा,naama
+20,Gesicht::N,चेहरा,kasvot
+21,Stirn::N,माथा,otsa
+22,Stirn::N,मस्तक,otsa
+23,Haar::N,बाल,hius
+24,Haar::N,बाल,tukka
+25,Schnurrbart::N,मूँछें,viikset
+26,Bart::N,दाढ़ी,parta
+27,Kinn::N,चिबुक,leuka
+28,Kiefer[Anatomie]::N,जबड़ा,leukaluu
+29,Kehle::N,गला,kurkku
+30,Hals::N,गला,kaula
+31,Hals::N,गरदन,kaula
+32,Genick::N,गरदन,niska
+33,Genick::N,ग्रीवा,niska
+34,Kopf::N,सिर,pää
+35,Kopf::N,शीर्ष,pää
+36,Rücken::N,पीठ,selkä
+37,Bauch::N,उदर,maha
+38,Bauch::N,उदर,vatsa
+39,Nabel::N,नाभि,napa
+40,Nabel::N,ढोंढी,napa
+41,Busen::N,कुच,rinta
+42,Busen::N,स्तन,rinta
+43,Brust::N,वक्ष,rinta
+44,Schulter::N,कंधा,olka
+45,Schulter::N,कंधा,hartia
+46,Schulter::N,कंधा,olkapää
+47,Schulter::N,स्कंध,olka
+48,Schulter::N,स्कंध,hartia
+49,Schulter::N,स्कंध,olkapää
+50,Arm::N,बाँह,käsivarsi
+51,Arm::N,बाज़ू,käsivarsi
+52,Ellenbogen::N,कुहनी,kyynärpää
+53,Hand::N,हाथ,käsi
+54,Hand::N,हस्त,käsi
+55,Handfläche::N,हथेली,kämmen
+56,Finger::N,उँगली,sormi
+57,Finger::N,अँगुली,sormi
+58,Fingernagel::N,नख,kynsi
+59,Fingernagel::N,नाख़ून,kynsi
+60,Nagel[Anatomie]::N,नख,kynsi
+61,Nagel[Anatomie]::N,नाख़ून,kynsi
+62,Zeh::N,उँगली,varvas
+63,Zeh::N,पाँव की उँगली,varvas
+64,Fuß::N,चरण,jalka
+65,Fuß::N,पाँव,jalka
+66,Ferse::N,एड़ी,kantapää
+67,Knie::N,जानु,polvi
+68,Knie::N,घुटना,polvi
+69,Oberschenkel::N,उरु,reisi
+70,Bein::N,टाँग,jalka
+71,Körper::N,तन,keho
+72,Körper::N,तन,ruumis
+73,Körper::N,देह,keho
+74,Körper::N,देह,ruumis
+75,Körper::N,शरीर,keho
+76,Körper::N,शरीर,ruumis
+77,Haut::N,चर्म,iho
+78,Haut::N,त्वचा,iho
+79,Blut::N,लहू,veri
+80,Blut::N,ख़ून,veri
+81,Ader::N,रग,suoni
+82,Ader::N,शिरा,suoni
+83,Sehne::N,कंडरा,jänne
+84,Sehne::N,स्नायु,jänne
+85,Knochen::N,अस्थि,luu
+86,Gehirn::N,दिमाग़,aivot
+87,Gehirn::N,मस्तिष्क,aivot
+88,Herz::N,दिल,sydän
+89,Herz::N,हृदय,sydän
+90,Magen::N,मेदा,maha
+91,Magen::N,मेदा,vatsa
+92,Magen::N,अमाशय,maha
+93,Magen::N,अमाशय,vatsa
+94,Leber::N,जिगर,maksa
+95,Leber::N,यकृत्,maksa
+96,Atem::N,दम,henki
+97,Atem::N,दम,hengitys
+98,Atem::N,साँस,henki
+99,Atem::N,साँस,hengitys
+100,Atem::N,श्वास,henki
+101,Atem::N,श्वास,hengitys
+102,Hunger::N,भूख,nälkä
+103,Hunger::N,क्षुधा,nälkä
+104,Träne::N,आँसू,kyynel
+105,Träne::N,अश्रु,kyynel
+106,Geschmack::N,स्वाद,maku
+107,Geschmack::N,ज़ायक़ा,maku
+108,Geruch::N,बू,haju
+109,Geruch::N,गंध,haju
+110,Schlaf::N,नींद,uni
+111,Schlaf::N,निद्रा,uni
+112,Traum::N,सपना,uni
+113,Traum::N,स्वप्न,uni
+114,Himmel::N,आकाश,taivas
+115,Himmel::N,आसमान,taivas
+116,Sonne::N,रवि,aurinko
+117,Sonne::N,सूरज,aurinko
+118,Sonne::N,सूर्य,aurinko
+119,Mond::N,चाँद,kuu
+120,Mond::N,चंद्र,kuu
+121,Stern::N,तारा,tähti
+122,Stern::N,सितारा,tähti
+123,Luft::N,हवा,ilma
+124,Luft::N,वायु,ilma
+125,Wind::N,पाद,tuuli
+126,Welle::N,लहर,aalto
+127,Welle::N,तरंग,aalto
+128,Wasser::N,जल,vesi
+129,Wasser::N,पानी,vesi
+130,Stein::N,पत्थर,kivi
+131,Boden::N,मिट्टी,maa
+132,Boden::N,मिट्टी,maaperä
+133,Erde::N,भूमि,maa
+134,Erde::N,ज़मीन,maa
+135,Staub::N,धूल,pöly
+136,Rauch::N,धूआँ,savu
+137,Rauch::N,धुम्र,savu
+138,Funke::N,चिनगारी,kipinä
+139,Funke::N,स्फुलिंग,kipinä
+140,Feuer::N,आग,tuli
+141,Feuer::N,आतिश,tuli
+142,Feuer::N,अग्नि,tuli
+143,Licht::N,रोशनी,valo
+144,Licht::N,प्रकाश,valo
+145,Schatten::N,छाया,varjo
+146,Schatten::N,परछाई,varjo
+147,Wetter::N,ऋतु,sää
+148,Wetter::N,मौसम,sää
+149,Nebel::N,धुँध,sumu
+150,Nebel::N,कुहरा,sumu
+151,Wolke::N,मेघ,pilvi
+152,Wolke::N,अभ्र,pilvi
+153,Regen::N,मेंह,sade
+154,Regen::N,बारिश,sade
+155,Schnee::N,हिम,lumi
+156,Schnee::N,बर्फ़,lumi
+157,Eis::N,हिम,jää
+158,Eis::N,बर्फ़,jää
+159,Frost::N,ठंड,halla
+160,Frost::N,ठंड,pakkanen
+161,Kälte::N,सर्दी,vilu
+162,Kälte::N,सर्दी,kylmyys
+163,Kälte::N,शीतलता,vilu
+164,Kälte::N,शीतलता,kylmyys
+165,Hitze::N,ताप,helle
+166,Hitze::N,ताप,kuumuus
+167,Hitze::N,गरमी,helle
+168,Hitze::N,गरमी,kuumuus
+169,Raureif::N,पाला,huurre
+170,Regenbogen::N,इंद्र-धनुष,sateenkaari
+171,Donner::N,गरज,jyrinä
+172,Donner::N,मेघ-गर्जन,jyrinä
+173,Strömung::N,बहाव,virtaus
+174,Strömung::N,प्रवाह,virtaus
+175,Tropfen::N,बूँद,tippa
+176,Tropfen::N,बूँद,pisara
+177,Schaum::N,झाग,vaahto
+178,Schmutz::N,गंद,loka
+179,Schmutz::N,कीचड़,loka
+180,See::N,झील,järvi
+181,See::N,सरोवर,järvi
+182,Sumpf::N,दलदल,suo
+183,Sumpf::N,धँसान,suo
+184,Moor::N,झाबर,räme
+185,Moor::N,धँसान,räme
+186,Wiese::N,घास-स्थल,niitty
+187,Wald::N,जंगल,metsä
+188,Hügel::N,टीला,mäki
+189,Hügel::N,टीला,kumpu
+190,Hügel::N,टीला,kukkula
+191,Hügel::N,पहाड़,mäki
+192,Hügel::N,पहाड़,kumpu
+193,Hügel::N,पहाड़,kukkula
+194,Anhöhe::N,टीला,mäki
+195,Anhöhe::N,टीला,kumpare
+196,Anhöhe::N,पहाड़ी,mäki
+197,Anhöhe::N,पहाड़ी,kumpare
+198,Berg::N,पहाड़,mäki
+199,Berg::N,पहाड़,vuori
+200,Gipfel::N,शिखर,laki
+201,Gipfel::N,शिखर,huippu
+202,Höhle::N,गुहा,luola
+203,Höhle::N,गुफ़ा,luola
+204,Abhang::N,ढाल,rinne
+205,Abhang::N,ढलान,rinne
+206,Quelle::N,चश्मा,lähde
+207,Bach::N,सोता,puro
+208,Bach::N,नदिका,puro
+209,Fluss::N,नदी,joki
+210,Fluss::N,सरिता,joki
+211,Ufer::N,तट,ranta
+212,Ufer::N,किनारा,ranta
+213,Küste::N,समुद्र-तट,rannikko
+214,Festland::N,महाद्वीप,manner
+215,Meer::N,सागर,meri
+216,Meer::N,समुद्र,meri
+217,Bucht::N,खाड़ी,lahti
+218,Insel::N,टापू,saari
+219,Insel::N,द्वीप,saari
+220,Blume::N,फूल,kukka
+221,Blume::N,पुष्प,kukka
+222,Gras::N,घास,ruoho
+223,Wurzel::N,मूल,juuri
+224,Baum::N,पेड़,puu
+225,Baum::N,वृक्ष,puu
+226,Stamm::N,धड़,runko
+227,Rinde::N,छाल,kuori
+228,Rinde::N,छाल,parkki
+229,Rinde::N,वल्कल,kuori
+230,Rinde::N,वल्कल,parkki
+231,Ast::N,डाल,oksa
+232,Ast::N,शाखा,oksa
+233,Zweig::N,टहनी,haara
+234,Blatt::N,पत्र,lehti
+235,Blatt::N,पत्ता,lehti
+236,Birke::N,भूर्ज,koivu
+237,Kiefer[Baum]::N,पाइन-वृक्ष,mänty
+238,Kiefer[Baum]::N,पाइन-वृक्ष,petäjä
+239,Weide[Baum]::N,बेंत,paju
+240,Tanne::N,फ़र,kuusi
+241,Horn::N,सींग,sarvi
+242,Horn::N,विषाण,sarvi
+243,Feder::N,पर,sulka
+244,Feder::N,पर,höyhen
+245,Feder::N,पंख,sulka
+246,Feder::N,पंख,höyhen
+247,Fell::N,खाल,talja
+248,Fell::N,पशु-चर्म,talja
+249,Flügel::N,पंख,siipi
+250,Flügel::N,डैना,siipi
+251,Klaue::N,पंजा,kynsi
+252,Kralle::N,पंजा,kynsi
+253,Kralle::N,नाख़ून,kynsi
+254,Schwanz::N,पूँछ,häntä
+255,Schwanz::N,पूँछ,pyrstö
+256,Ei::N,अंडा,muna
+257,Nest::N,नीड़,pesä
+258,Nest::N,घोंसला,pesä
+259,Bau::N,बिल,pesä
+260,Bau::N,माँद,pesä
+261,Tier::N,पशु,eläin
+262,Tier::N,जानवर,eläin
+263,Herde::N,गल्ला,lauma
+264,Kuh::N,गौ,lehmä
+265,Kuh::N,गाय,lehmä
+266,Bulle::N,साँड़,sonni
+267,Pferd::N,अश्व,hevonen
+268,Pferd::N,घोड़ा,hevonen
+269,Schaf::N,भेड़,lammas
+270,Schwein::N,शूकर,sika
+271,Hund::N,श्वान,koira
+272,Hund::N,कुत्ता,koira
+273,Katze::N,बिल्ली,kissa
+274,Bär::N,रीछ,karhu
+275,Bär::N,भालू,karhu
+276,Eichhörnchen::N,गिलहरी,orava
+277,Elch::N,एल्क,hirvi
+278,Fuchs::N,लोमड़ी,kettu
+279,Hase::N,खरहा,jänis
+280,Hase::N,ख़रगोश,jänis
+281,Maus::N,मूष,hiiri
+282,Maus::N,चूहा,hiiri
+283,Wolf::N,वृक,susi
+284,Wolf::N,भेड़िया,susi
+285,Vogel::N,पक्षी,lintu
+286,Vogel::N,चिड़िया,lintu
+287,Schwarm::N,झुंड,parvi
+288,Huhn::N,मुर्ग़ी,kana
+289,Hahn::N,मुर्ग़ा,kukko
+290,Gans::N,हंस,hanhi
+291,Gans::N,हंसिनी,hanhi
+292,Adler::N,उक़ाब,kotka
+293,Ente::N,बतख़,ankka
+294,Ente::N,बत्तक,ankka
+295,Eule::N,उल्लू,pöllö
+296,Kranich::N,सारस,kurki
+297,Kranich::N,क्रौंंच,kurki
+298,Krähe::N,काक,varis
+299,Kuckuck::N,कोयल,käki
+300,Kuckuck::N,कोकिल,käki
+301,Schwan::N,हंस,joutsen
+302,Schwan::N,मराल,joutsen
+303,Fisch::N,मछली,kala
+304,Fisch::N,मत्स्य,kala
+305,Barsch::N,पर्च,ahven
+306,Hecht::N,पाइक,hauki
+307,Schlange[Tier]::N,सर्प,käärme
+308,Wurm::N,कृमि,mato
+309,Wurm::N,कीड़ा,mato
+310,Spinne::N,लूता,hämähäkki
+311,Spinne::N,मकड़ी,hämähäkki
+312,Ameise::N,चींटी,muurahainen
+313,Laus::N,जूँ,täi
+314,Mücke::N,डाँस,sääski
+315,Mücke::N,डाँस,hyttynen
+316,Fliege::N,मक्खी,kärpänen
+317,Fliege::N,मक्षिका,kärpänen
+318,Schmetterling::N,तितली,perhonen
+319,Beere::N,बेरी,marja
+320,Apfel::N,सेब,omena
+321,Pilz::N,खुंबी,sieni
+322,Zwiebel::N,प्याज़,sipuli
+323,Saat::N,बीज,siemenet
+324,Korn::N,दाना,jyvä
+325,Korn::N,दाना,vilja
+326,Heu::N,मूखी घास,heinä
+327,Schale::N,बकला,kuori
+328,Schale::N,छिलका,kuori
+329,Grube::N,गड्ढा,kuoppa
+330,Falle::N,जाल,loukku
+331,Falle::N,फँदा,loukku
+332,Schlinge::N,फँदा,ansa
+333,Spur::N,सुराग़,jälki
+334,Spur::N,पद-चिह्न,jälki
+335,Asche::N,राख,tuhka
+336,Dreck::N,मैल,lika
+337,Dreck::N,गंदगी,lika
+338,Eisen::N,लोहा,rauta
+339,Gold::N,सोना,kulta
+340,Gold::N,स्वर्ण,kulta
+341,Silber::N,रजत,hopea
+342,Silber::N,चाँदी,hopea
+343,Kohle::N,कोयला,hiili
+344,Glas::N,काँच,lasi
+345,Lehm::N,चिकनी मिट्टी,savi
+346,Sand::N,रेत,hiekka
+347,Sand::N,बालू,hiekka
+348,Mensch::N,मानव,ihminen
+349,Mensch::N,इनसान,ihminen
+350,Mensch::N,मनुष्य,ihminen
+351,Mann::N,आदमी,mies
+352,Mann::N,पुरुष,mies
+353,Frau::N,औरत,nainen
+354,Frau::N,महिला,nainen
+355,Frau::N,स्त्री,nainen
+356,Kind::N,बाल,lapsi
+357,Kind::N,बच्चा,lapsi
+358,Junge::N,लड़का,poika
+359,Mädchen::N,लड़की,tyttö
+360,Mädchen::N,कुमारी,tyttö
+361,Familie::N,परिवार,perhe
+362,Großvater::N,दादा,isoisä
+363,Großmutter::N,नानी,isoäiti
+364,Eltern::N,माँ-बाप,vanhemmat
+365,Eltern::N,माता-पिता,vanhemmat
+366,Vater::N,बाप,isä
+367,Vater::N,पिता,isä
+368,Mutter::N,माँ,äiti
+369,Mutter::N,माता,äiti
+370,Sohn::N,बेटा,poika
+371,Sohn::N,पुत्र,poika
+372,Tochter::N,बेटी,tytär
+373,Tochter::N,पुत्री,tytär
+374,Bruder::N,भाई,veli
+375,Bruder::N,भ्राता,veli
+376,Schwester::N,बहन,sisko
+377,Schwester::N,भगिनी,sisko
+378,Onkel::N,ताऊ,eno
+379,Onkel::N,ताऊ,setä
+380,Onkel::N,काका,eno
+381,Onkel::N,काका,setä
+382,Tante::N,बूआ,täti
+383,Tante::N,फूफी,täti
+384,Tante::N,ख़ाला,täti
+385,Ehemann::N,पति,mies
+386,Ehemann::N,पति,aviomies
+387,Ehemann::N,शौहर,mies
+388,Ehemann::N,शौहर,aviomies
+389,Ehefrau::N,बीवी,vaimo
+390,Ehefrau::N,बीवी,aviovaimo
+391,Freude::N,आनंद,ilo
+392,Freude::N,आनंद,riemu
+393,Freude::N,प्रसन्नता,ilo
+394,Freude::N,प्रसन्नता,riemu
+395,Gelächter::N,हँसी,nauru
+396,Gelächter::N,क़हक़हा,nauru
+397,Glück::N,आनंद,onni
+398,Glück::N,ख़ुशी,onni
+399,Kummer::N,शोक,suru
+400,Kummer::N,शोक,murhe
+401,Kummer::N,दुःख,suru
+402,Kummer::N,दुःख,murhe
+403,Wunsch::N,इच्छा,toive
+404,Wunsch::N,इच्छा,toivomus
+405,Wunsch::N,अभिलाषा,toive
+406,Wunsch::N,अभिलाषा,toivomus
+407,Lust::N,चाह,himo
+408,Lust::N,कामना,himo
+409,Geist::N,जान,henki
+410,Geist::N,प्राण,henki
+411,Gedanke::N,विचार,aate
+412,Gedanke::N,विचार,ajatus
+413,Gedächtnis::N,याददाश्त,muisti
+414,Gedächtnis::N,स्मरण-शक्ति,muisti
+415,Verstand::N,समझ,äly
+416,Verstand::N,समझ,järki
+417,Verstand::N,समझ,ymmärrys
+418,Verstand::N,अक़्ल,äly
+419,Verstand::N,अक़्ल,järki
+420,Verstand::N,अक़्ल,ymmärrys
+421,Verstand::N,बुद्धि,äly
+422,Verstand::N,बुद्धि,järki
+423,Verstand::N,बुद्धि,ymmärrys
+424,Sinn::N,अर्थ,merkitys
+425,Grund::N,वजह,syy
+426,Grund::N,वजह,peruste
+427,Grund::N,कारण,syy
+428,Grund::N,कारण,peruste
+429,Wahrheit::N,सत्य,tosi
+430,Wahrheit::N,सत्य,totuus
+431,Wahrheit::N,सच्चाई,tosi
+432,Wahrheit::N,सच्चाई,totuus
+433,Gespräch::N,चर्चा,puhelu
+434,Gespräch::N,चर्चा,keskustelu
+435,Gespräch::N,वार्ता,puhelu
+436,Gespräch::N,वार्ता,keskustelu
+437,Gespräch::N,बात-चीत,puhelu
+438,Gespräch::N,बात-चीत,keskustelu
+439,Märchen::N,क़िस्सा,satu
+440,Erzählung::N,कथा,tarina
+441,Erzählung::N,कथा,kertomus
+442,Erzählung::N,कहानी,tarina
+443,Erzählung::N,कहानी,kertomus
+444,Nachricht::N,सूचना,tieto
+445,Nachricht::N,सूचना,ilmoitus
+446,Nachricht::N,समाचार,tieto
+447,Nachricht::N,समाचार,ilmoitus
+448,Neuigkeit::N,ख़बर,uutinen
+449,Neuigkeit::N,समाचार,uutinen
+450,Name::N,नाम,nimi
+451,Rätsel::N,पहेली,arvoitus
+452,Rede::N,वचन,puhe
+453,Rede::N,भाषण,puhe
+454,Sprache::N,भाषा,kieli
+455,Sprache::N,ज़बान,kieli
+456,Stimme::N,स्वर,ääni
+457,Stimme::N,आवाज़,ääni
+458,Wort::N,शब्द,sana
+459,Wort::N,लफ़्ज़,sana
+460,Zeichen::N,निशान,merkki
+461,Ruf::N,पुकार,kutsu
+462,Ruf::N,आह्वान,kutsu
+463,Lärm::N,शोर,melu
+464,Lärm::N,शोर,hälinä
+465,Lärm::N,हुल्लड़,melu
+466,Lärm::N,हुल्लड़,hälinä
+467,Laut::N,स्वर,ääni
+468,Laut::N,ध्वनि,ääni
+469,Ton::N,सुर,sävel
+470,Ton::N,स्वर,sävel
+471,Lied::N,गीत,laulu
+472,Ruhe::N,आराम,lepo
+473,Ruhe::N,आराम,rauha
+474,Ruhe::N,ख़ामोशी,lepo
+475,Ruhe::N,ख़ामोशी,rauha
+476,Leute::N,लोग,väki
+477,Leute::N,लोग,ihmiset
+478,Volk::N,क़ौम,kansa
+479,Volk::N,प्रजा,kansa
+480,Arbeit::N,काम,työ
+481,Gast::N,अतिथि,vieras
+482,Gast::N,मेहमान,vieras
+483,Geschenk::N,उपहार,lahja
+484,Geschenk::N,तोहफ़ा,lahja
+485,Spiel::N,खेल,peli
+486,Spiel::N,खेल,leikki
+487,Spiel::N,क्रीड़ा,peli
+488,Spiel::N,क्रीड़ा,leikki
+489,Gesellschaft::N,साथ,seura
+490,Hilfe::N,मदद,apu
+491,Hilfe::N,सहायता,apu
+492,Freund::N,मित्र,ystävä
+493,Kamerad::N,साथी,toveri
+494,Kamerad::N,कामरेड,toveri
+495,Angelegenheit::N,बात,asia
+496,Angelegenheit::N,मामला,asia
+497,Anzahl::N,तादाद,lukumäärä
+498,Anzahl::N,संख्या,lukumäärä
+499,Art::N,तरह,laji
+500,Art::N,क़िस्म,laji
+501,Stück::N,फाँक,pala
+502,Stück::N,फाँक,kappale
+503,Stück::N,टुकड़ा,pala
+504,Stück::N,टुकड़ा,kappale
+505,Teil::N,भाग,osa
+506,Teil::N,हिस्सा,osa
+507,Hälfte::N,अर्धभाग,puoli
+508,Kreis::N,चक्कर,ympyrä
+509,Kreuz::N,सलीब,risti
+510,Kreuz::N,क्रूस,risti
+511,Linie::N,लाइन,viiva
+512,Strich::N,लकीर,piirto
+513,Abstand::N,अंतर,väli
+514,Abstand::N,अंतर,väljyys
+515,Abstand::N,फ़ासला,väli
+516,Abstand::N,फ़ासला,väljyys
+517,Entfernung::N,दूरी,etäisyys
+518,Entfernung::N,फ़ासला,etäisyys
+519,Gegend::N,इलाक़ा,seutu
+520,Platz::N,जगह,tila
+521,Platz::N,स्थान,tila
+522,Ort::N,स्थल,kohta
+523,Ort::N,स्थल,paikka
+524,Ort::N,स्थान,kohta
+525,Ort::N,स्थान,paikka
+526,Seite::N,ओर,sivu
+527,Seite::N,ओर,kylki
+528,Seite::N,तरफ़,sivu
+529,Seite::N,तरफ़,kylki
+530,Mitte::N,बीच,keskus
+531,Mitte::N,बीच,puoliväli
+532,Mitte::N,मध्य,keskus
+533,Mitte::N,मध्य,puoliväli
+534,Gegenstand::N,चीज़,kalu
+535,Gegenstand::N,चीज़,esine
+536,Gegenstand::N,पदार्थ,kalu
+537,Gegenstand::N,पदार्थ,esine
+538,Sache::N,चीज़,asia
+539,Sache::N,वस्तु,asia
+540,Rand::N,छोर,ääri
+541,Rand::N,छोर,syrjä
+542,Rand::N,उपांत,ääri
+543,Rand::N,उपांत,syrjä
+544,Kante::N,कोर,särmä
+545,Kante::N,किनारा,särmä
+546,Ecke::N,कोना,nurkka
+547,Ecke::N,नुक्कड़,nurkka
+548,Spitze::N,नोक,terä
+549,Spitze::N,नोक,kärki
+550,Ende::N,छोर,pää
+551,Ende::N,छोर,perä
+552,Ende::N,सिरा,pää
+553,Ende::N,सिरा,perä
+554,Loch::N,छेद,kolo
+555,Loch::N,छेद,reikä
+556,Loch::N,सूराख़,kolo
+557,Loch::N,सूराख़,reikä
+558,Winkel::N,कोण,kulma
+559,Winkel::N,कोना,kulma
+560,Muster::N,नमूना,kuvio
+561,Muster::N,डिज़ाइन,kuvio
+562,Größe::N,परिमाण,koko
+563,Größe::N,परिमाण,suuruus
+564,Größe::N,विस्तार,koko
+565,Größe::N,विस्तार,suuruus
+566,Länge::N,लंबाई,pituus
+567,Höhe::N,ऊँचाई,korkeus
+568,Höhe::N,उच्चता,korkeus
+569,Gewicht::N,भार,paino
+570,Gewicht::N,वज़न,paino
+571,Menge::N,मात्रा,määrä
+572,Haufen::N,ढेर,kasa
+573,Haufen::N,अंबार,kasa
+574,Reihe::N,क़तार,rivi
+575,Reihe::N,पंक्ति,rivi
+576,Boot::N,नाव,vene
+577,Boot::N,नौका,vene
+578,Ruder::N,चप्पू,airo
+579,Schlitten::N,बर्फ़-गाड़ी,reki
+580,Schlitten::N,बर्फ़-गाड़ी,kelkka
+581,Ski::N,स्की,suksi
+582,Lagerfeuer::N,अलाव,nuotio
+583,Lagerfeuer::N,कैंप-फ़ायर,nuotio
+584,Last::N,भार,kuorma
+585,Gang::N,चाल,kulku
+586,Gang::N,चाल,käynti
+587,Schritt::N,डग,askel
+588,Schritt::N,क़दम,askel
+589,Norden::N,उत्तर,pohjoinen
+590,Süden::N,दक्खिन,etelä
+591,Westen::N,पश्चिम,länsi
+592,Osten::N,पूरब,itä
+593,Holz::N,काठ,puu
+594,Holz::N,काष्ठ,puu
+595,Brett::N,पटरा,lauta
+596,Brett::N,तख़्ता,lauta
+597,Platte::N,फलक,levy
+598,Platte::N,तख़्ता,levy
+599,Stütze::N,टेक,noja
+600,Stütze::N,थूनी,noja
+601,Stange::N,छड़,tanko
+602,Stange::N,बाँस,tanko
+603,Stock::N,लाठी,keppi
+604,Stab::N,लग्गा,sauva
+605,Stab::N,लग्गा,seiväs
+606,Rohr::N,नल,putki
+607,Haus::N,घर,talo
+608,Haus::N,मकान,talo
+609,Heim::N,घर,koti
+610,Heim::N,गृह,koti
+611,Ofen::N,चूल्हा,uuni
+612,Fußboden::N,फ़र्श,lattia
+613,Tisch::N,मेज़,pöytä
+614,Stuhl::N,कुरसी,tuoli
+615,Wiege::N,पालना,kehto
+616,Wiege::N,हिंडोला,kehto
+617,Bett::N,खाट,sänky
+618,Bett::N,पलंग,sänky
+619,Regal::N,शेल्फ़,hylly
+620,Kiste::N,पेटी,arkku
+621,Kiste::N,पेटी,kirstu
+622,Kiste::N,पेटी,laatikko
+623,Kiste::N,डिब्बा,arkku
+624,Kiste::N,डिब्बा,kirstu
+625,Kiste::N,डिब्बा,laatikko
+626,Fenster::N,खिड़की,ikkuna
+627,Tür::N,द्वार,ovi
+628,Tür::N,दरवाज़ा,ovi
+629,Tor::N,फाटक,portti
+630,Zaun::N,बाड़ा,aita
+631,Dach::N,छत,katto
+632,Dach::N,छप्पर,katto
+633,Leiter::N,सीढ़ी,tikkaat
+634,Leiter::N,सीढ़ी,tikapuut
+635,Besen::N,झाड़ू,luuta
+636,Besen::N,बुहारी,luuta
+637,Spaten::N,कुदाल,lapio
+638,Schaufel::N,बेलचा,lapio
+639,Schaufel::N,फावड़ा,lapio
+640,Gabel::N,काँटा,haarukka
+641,Löffel::N,चम्मच,lusikka
+642,Messer::N,छुरा,veitsi
+643,Messer::N,चाक़ू,veitsi
+644,Nagel::N,कील,naula
+645,Nagel::N,मेख़,naula
+646,Netz::N,जाल,verkko
+647,Haken::N,अंकुश,haka
+648,Haken::N,अंकुश,koukku
+649,Griff::N,मूठ,ripa
+650,Griff::N,मूठ,kahva
+651,Griff::N,हत्था,ripa
+652,Griff::N,हत्था,kahva
+653,Schloss::N,ताला,lukko
+654,Bild::N,चित्र,kuva
+655,Figur::N,मूर्ति,kuvio
+656,Puppe::N,पुतली,nukke
+657,Puppe::N,गुड़िया,nukke
+658,Beutel::N,झोला,pussi
+659,Bündel::N,पुलिंदा,nippu
+660,Bündel::N,पुलिंदा,kimppu
+661,Tasche::N,बेग,laukku
+662,Tasche::N,बस्ता,laukku
+663,Eimer::N,बाल्टी,sanko
+664,Eimer::N,बाल्टी,ämpäri
+665,Deckel::N,ढक्कन,kansi
+666,Geschirr::N,बरतन-भाँड़े,astia
+667,Sack::N,बोरा,säkki
+668,Tasse::N,प्याला,kuppi
+669,Topf::N,देग़चा,pata
+670,Kessel::N,देग़,kattila
+671,Kessel::N,बटलोई,kattila
+672,Essen::N,खाना,syönti
+673,Nahrung::N,भोजन,ruoka
+674,Nahrung::N,भोजन,ravinto
+675,Speise::N,खाना,ruoka
+676,Speise::N,व्यंजन,ruoka
+677,Fleisch::N,मांस,liha
+678,Fleisch::N,गोश्त,liha
+679,Getreide::N,अनाज,vilja
+680,Brei::N,भरता,puuro
+681,Brei::N,दलिया,puuro
+682,Brot::N,रोटी,leipä
+683,Scheibe::N,कतला,viipale
+684,Fett::N,वसा,rasva
+685,Fett::N,चरबी,rasva
+686,Butter::N,मक्खन,voi
+687,Öl::N,तेल,öljy
+688,Salz::N,नमक,suola
+689,Suppe::N,सूप,keitto
+690,Suppe::N,शोरबा,keitto
+691,Honig::N,शहद,hunaja
+692,Milch::N,दूध,maito
+693,Tee::N,चाय,tee
+694,Leder::N,चमड़ा,nahka
+695,Wolle::N,ऊन,villa
+696,Stoff::N,कपड़ा,kangas
+697,Nadel::N,सूई,neula
+698,Faden::N,डोरा,lanka
+699,Knopf::N,बटन,nappi
+700,Knopf::N,घुंडी,nappi
+701,Knoten::N,गाँठ,solmu
+702,Knoten::N,गुत्थी,solmu
+703,Farbe::N,रंग,maali
+704,Farbe::N,वर्ण,maali
+705,Kleidung::N,पहनावा,vaatteet
+706,Hemd::N,कुरता,paita
+707,Hemd::N,क़मीज़,paita
+708,Kragen::N,गरदनी,kaulus
+709,Kragen::N,गरेबान,kaulus
+710,Ärmel::N,आस्तीन,hiha
+711,Hose::N,पैंट,housut
+712,Hose::N,पतलून,housut
+713,Gürtel::N,पेटी,vyö
+714,Gürtel::N,मेखला,vyö
+715,Mütze::N,टोपी,lakki
+716,Schuh::N,जूता,kenkä
+717,Stiefel::N,बूट,saapas
+718,Ring::N,अँगूठी,sormus
+719,Band::N,पट्टी,nauha
+720,Kamm::N,कंघी,kampa
+721,Spiegel::N,आईना,peili
+722,Spiegel::N,दर्पण,peili
+723,Riemen::N,तसमा,hihna
+724,Riemen::N,पट्टा,hihna
+725,Schnur::N,डोरी,naru
+726,Schnur::N,डोरी,nuora
+727,Schnur::N,सुतली,naru
+728,Schnur::N,सुतली,nuora
+729,Leine::N,रस्सी,talutushihna
+730,Decke::N,रज़ाई,peite
+731,Kissen::N,तकिया,tyyny
+732,Kissen::N,तकिया,pielus
+733,Kissen::N,गाद्दा,tyyny
+734,Kissen::N,गाद्दा,pielus
+735,Tuch::N,रूमाल,huivi
+736,Tuch::N,वस्त्र,huivi
+737,Handtuch::N,अँगोछा,pyyheliina
+738,Kraft::N,ज़ोर,väki
+739,Kraft::N,ज़ोर,voima
+740,Kraft::N,शक्ति,väki
+741,Kraft::N,शक्ति,voima
+742,Stärke::N,बल,vahvuus
+743,Stärke::N,ताक़त,vahvuus
+744,Gesundheit::N,स्वास्थ्य,terveys
+745,Gesundheit::N,तंदुरुस्ती,terveys
+746,Krankheit::N,रोग,tauti
+747,Krankheit::N,रोग,sairaus
+748,Krankheit::N,बीमारी,tauti
+749,Krankheit::N,बीमारी,sairaus
+750,Schmerz::N,दर्द,kipu
+751,Schmerz::N,दर्द,särky
+752,Schmerz::N,पीड़ा,kipu
+753,Schmerz::N,पीड़ा,särky
+754,Wunde::N,घाव,haava
+755,Wunde::N,ज़ख़्म,haava
+756,Fieber::N,ज्वर,kuume
+757,Fieber::N,बुख़ार,kuume
+758,Arznei::N,दवा,lääke
+759,Arznei::N,औषाधि,lääke
+760,Brücke::N,पुल,silta
+761,Brücke::N,सेतु,silta
+762,Brunnen::N,कुआँ,kaivo
+763,Weide::N,चरागाह,laidun
+764,Pfad::N,पथ,polku
+765,Pfad::N,पगडंडी,polku
+766,Weg::N,मार्ग,tie
+767,Straße::N,राह,katu
+768,Straße::N,रास्ता,katu
+769,Dorf::N,गाँव,kylä
+770,Dorf::N,ग्राम,kylä
+771,Stadt::N,शहर,kaupunki
+772,Brief::N,ख़त,kirje
+773,Brief::N,पत्र,kirje
+774,Brief::N,चिट्ठी,kirje
+775,Buch::N,किताब,kirja
+776,Buch::N,पुस्तक,kirja
+777,Buchstabe::N,अक्षर,kirjain
+778,Zeitung::N,अख़बार,lehti
+779,Zeitung::N,अख़बार,sanomalehti
+780,Zeitung::N,समाचार-पत्र,lehti
+781,Zeitung::N,समाचार-पत्र,sanomalehti
+782,Leben::N,जीवन,elo
+783,Leben::N,जीवन,elämä
+784,Leben::N,ज़िंदगी,elo
+785,Leben::N,ज़िंदगी,elämä
+786,Tod::N,मौत,kuolema
+787,Tod::N,मृत्यु,kuolema
+788,Grab::N,क़ब्र,hauta
+789,Kirche::N,चर्च,kirkko
+790,Kirche::N,गिरजा,kirkko
+791,Sünde::N,पाप,synti
+792,Sünde::N,गुनाह,synti
+793,Gott::N,देव,jumala
+794,Gott::N,ईश्वर,jumala
+795,Arbeiter::N,मज़दूर,työläinen
+796,Chef::N,अध्यक्ष,päällikkö
+797,Meister::N,शिल्पज्ञ,mestari
+798,Arzt::N,वैद्य,lääkäri
+799,Arzt::N,डॉक्टर,lääkäri
+800,Arzt::N,चिकित्सक,lääkäri
+801,Lehrer::N,शिक्षक,opettaja
+802,Lehrer::N,अध्यापक,opettaja
+803,Geld::N,धन,raha
+804,Geld::N,पैसा,raha
+805,Geschäft::N,सौदा,liike
+806,Geschäft::N,व्यापार,liike
+807,Laden::N,दुकान,puoti
+808,Laden::N,दुकान,kauppa
+809,Preis::N,दाम,hinta
+810,Preis::N,मूल्य,hinta
+811,Ware::N,माल,tavara
+812,Ware::N,पण्य,tavara
+813,Nutzen::N,लाभ,hyöty
+814,Nutzen::N,फ़ायदा,hyöty
+815,Reichtum::N,धन,rikkaus
+816,Reichtum::N,दौलत,rikkaus
+817,Welt::N,विश्व,maailma
+818,Welt::N,दुनिया,maailma
+819,Land::N,देश,maa
+820,Land::N,मुल्क,maa
+821,Staat::N,राज्य,valtio
+822,Staat::N,राष्ट्र,valtio
+823,König::N,राजा,kuningas
+824,König::N,बादशाह,kuningas
+825,Macht::N,शासन,mahti
+826,Macht::N,सत्ता,mahti
+827,Grenze::N,सरहद,raja
+828,Krieg::N,जंग,sota
+829,Krieg::N,युद्ध,sota
+830,Feind::N,शत्रु,vihollinen
+831,Feind::N,दुश्मन,vihollinen
+832,Gewalt::N,हिंसा,väkivalta
+833,Kampf::N,लड़ाई,taistelu
+834,Kampf::N,संघर्ष,taistelu
+835,Bogen[Waffe]::N,कमान,jousi
+836,Pfeil::N,बान,nuoli
+837,Gewehr::N,बंदूक़,kivääri
+838,Fehler::N,भूल,vika
+839,Fehler::N,भूल,virhe
+840,Fehler::N,ग़लती,vika
+841,Fehler::N,ग़लती,virhe
+842,Lüge::N,झूठ,valhe
+843,Lüge::N,असत्य,valhe
+844,Schaden::N,हानि,vaurio
+845,Schaden::N,हानि,vahinko
+846,Schaden::N,नुक़सान,vaurio
+847,Schaden::N,नुक़सान,vahinko
+848,Unglück::N,मुसीबत,vahinko
+849,Unglück::N,मुसीबत,onnettomuus
+850,Unglück::N,विपात्ति,vahinko
+851,Unglück::N,विपात्ति,onnettomuus
+852,Schuld::N,दोष,syy
+853,Schuld::N,क़सूर,syy
+854,Alter::N,आयु,ikä
+855,Alter::N,उम्र,ikä
+856,Schluss::N,अंत,loppu
+857,Schluss::N,समाप्ति,loppu
+858,Zeit::N,काल,aika
+859,Zeit::N,वक़्त,aika
+860,Tag::N,दिन,päivä
+861,Tag::N,रोज़,päivä
+862,Morgen::N,सुबह,aamu
+863,Morgen::N,सुबह,huomen
+864,Mittag::N,दोपहर,keskipäivä
+865,Mittag::N,मध्याह्न,keskipäivä
+866,Abend::N,शाम,ilta
+867,Abend::N,संध्या,ilta
+868,Nacht::N,रात,yö
+869,Nacht::N,रात्रि,yö
+870,Woche::N,हफ़्ता,viikko
+871,Monat::N,मास,kuukausi
+872,Monat::N,महीना,kuukausi
+873,Jahr::N,बरस,vuosi
+874,Jahr::N,वर्ष,vuosi
+875,Frühling::N,वसंत,kevät
+876,Sommer::N,गरमी,kesä
+877,Sommer::N,ग्रीष्म,kesä
+878,Herbst::N,शरत्,syksy
+879,Herbst::N,पतझड़,syksy
+880,Winter::N,जाड़ा,talvi
+881,Winter::N,सर्दियाँ,talvi
+882,Januar::N,जनवरी,tammikuu
+883,Februar::N,फ़रवरी,helmikuu
+884,März::N,मार्च,maaliskuu
+885,April::N,अप्रैल,huhtikuu
+886,Mai::N,मई,toukokuu
+887,Juni::N,जून,kesäkuu
+888,Juli::N,जुलाई,heinäkuu
+889,August::N,अगस्त,elokuu
+890,September::N,सितंबर,syyskuu
+891,Oktober::N,अक्तूबर,lokakuu
+892,November::N,नवंबर,marraskuu
+893,Dezember::N,दिसंबर,joulukuu
+894,Montag::N,पीर,maanantai
+895,Montag::N,सोमवार,maanantai
+896,Dienstag::N,मंगलवार,tiistai
+897,Mittwoch::N,बुधवार,keskiviikko
+898,Donnerstag::N,गुरुवार,torstai
+899,Donnerstag::N,बृहस्पतिवार,torstai
+900,Freitag::N,शुक्रवार,perjantai
+901,Samstag::N,सनीचर,lauantai
+902,Samstag::N,शनिवार,lauantai
+903,Sonntag::N,इतवार,sunnuntai
+904,Sonntag::N,रविवार,sunnuntai
+905,groß::A,बड़ा,iso
+906,groß::A,बड़ा,suuri
+907,klein::A,कम,pieni
+908,klein::A,छोटा,pieni
+909,lang::A,लंबा,pitkä
+910,lang::A,दीर्घ,pitkä
+911,kurz::A,लधु,lyhyt
+912,kurz::A,छोटा,lyhyt
+913,breit::A,चौड़ा,leveä
+914,schmal::A,तंग,kapea
+915,schmal::A,सँकरा,kapea
+916,dicht::A,सघन,taaja
+917,dick[Gegenstand]::A,मोटा,paksu
+918,dünn::A,महीन,ohut
+919,dünn::A,बारीक,ohut
+920,fein::A,कोमल,hieno
+921,fein::A,सूक्ष्म,hieno
+922,fest::A,दृढ़,luja
+923,fest::A,मज़बूत,luja
+924,flach::A,चपटा,litteä
+925,flach::A,चपटा,tasainen
+926,glatt::A,चौरस,sileä
+927,glatt::A,चौरस,siloinen
+928,glatt::A,चिकना,sileä
+929,glatt::A,चिकना,siloinen
+930,hart::A,कठोर,kova
+931,hart::A,सख़्त,kova
+932,weich::A,नरम,pehmeä
+933,weich::A,मुलायम,pehmeä
+934,rund::A,गोल,pyöreä
+935,rund::A,वर्तुल,pyöreä
+936,spitz::A,नुकीला,terävä
+937,scharf::A,पैना,terävä
+938,stumpf::A,भोथरा,tylsä
+939,schwer::A,भारी,raskas
+940,schwer::A,भारी,painava
+941,schwer::A,वज़नी,raskas
+942,schwer::A,वज़नी,painava
+943,schön::A,सुंदर,kaunis
+944,heiß::A,उष्ण,kuuma
+945,warm::A,गरम,lämmin
+946,kalt::A,सर्द,kylmä
+947,kalt::A,सर्द,viluinen
+948,kühl::A,ठंडा,viileä
+949,frisch::A,तर,tuore
+950,frisch::A,ताज़ा,tuore
+951,feucht::A,नम,kostea
+952,feucht::A,भीगा,kostea
+953,nass::A,गीला,märkä
+954,trocken::A,सूखा,kuiva
+955,trocken::A,ख़ुश्क,kuiva
+956,voll::A,भरा,täysi
+957,voll::A,पूरा,täysi
+958,leer::A,ख़ाली,tyhjä
+959,offen::A,खुला,avonainen
+960,geschlossen::A,बंद,suljettu
+961,sauber::A,साफ़,puhdas
+962,sauber::A,सुथरा,puhdas
+963,schmutzig::A,गंदा,likainen
+964,roh::A,कच्चा,raaka
+965,reif::A,पक्व,kypsä
+966,reif::A,पक्का,kypsä
+967,lecker::A,मज़ेदार,herkullinen
+968,lecker::A,स्वादिष्ट,herkullinen
+969,süß::A,मीठा,makea
+970,bitter::A,कटु,karvas
+971,bitter::A,कटु,kitkerä
+972,bitter::A,कड़वा,karvas
+973,bitter::A,कड़वा,kitkerä
+974,sauer::A,खट्टा,hapan
+975,hell::A,रोशन,kirkas
+976,hell::A,रोशन,valoisa
+977,dunkel::A,अँधेरा,pimeä
+978,schwarz::A,काला,musta
+979,schwarz::A,स्याह,musta
+980,weiß::A,सफ़ेद,valkea
+981,rot::A,लाल,punainen
+982,rot::A,सुर्ख़,punainen
+983,gelb::A,पीला,keltainen
+984,gelb::A,ज़र्द,keltainen
+985,blau::A,नीला,sininen
+986,blau::A,आसमानी,sininen
+987,grün::A,हरा,vihreä
+988,grau::A,धूसर,harmaa
+989,bunt::A,रंगीन,kirjava
+990,bunt::A,बहुरंगा,kirjava
+991,billig::A,सस्ता,halpa
+992,billig::A,सस्ता,huokea
+993,teuer::A,महँगा,kallis
+994,wertvoll::A,क़ीमती,arvokas
+995,wertvoll::A,मूल्यवान्,arvokas
+996,blind::A,अंधा,sokea
+997,taub::A,बहरा,kuuro
+998,kräftig::A,ताक़तवर,väkevä
+999,kräftig::A,ताक़तवर,voimakas
+1000,kräftig::A,शक्तिशाली,väkevä
+1001,kräftig::A,शक्तिशाली,voimakas
+1002,stark::A,प्रबल,vahva
+1003,stark::A,बलवान्,vahva
+1004,schwach::A,कमज़ोर,heikko
+1005,fett::A,मोटा,lihava
+1006,fett::A,मांसल,lihava
+1007,schlank::A,पतला,hoikka
+1008,schlank::A,पतला,solakka
+1009,schlank::A,छरहरा,hoikka
+1010,schlank::A,छरहरा,solakka
+1011,hübsch::A,सुंदर,soma
+1012,hübsch::A,सुंदर,sievä
+1013,hübsch::A,ख़ूबसूरत,soma
+1014,hübsch::A,ख़ूबसूरत,sievä
+1015,böse::A,पापी,paha
+1016,böse::A,पापी,häijy
+1017,böse::A,दुष्ट,paha
+1018,böse::A,दुष्ट,häijy
+1019,dumm::A,मूर्ख,tyhmä
+1020,dumm::A,मूर्ख,typerä
+1021,dumm::A,बुद्धू,tyhmä
+1022,dumm::A,बुद्धू,typerä
+1023,faul::A,आलसी,laiska
+1024,faul::A,सुस्त,laiska
+1025,fleißig::A,मेहनती,ahkera
+1026,fleißig::A,परिश्रमी,ahkera
+1027,geizig::A,कृपण,saita
+1028,geizig::A,कंजूस,saita
+1029,klug::A,समझदार,älykäs
+1030,klug::A,होशियार,älykäs
+1031,klug::A,अक़्लमंद,älykäs
+1032,geschickt::A,किशल,taitava
+1033,lieb::A,प्रिय,rakas
+1034,lieb::A,प्यारा,rakas
+1035,lustig::A,हँसमुख,hauska
+1036,lustig::A,हँसमुख,iloinen
+1037,lustig::A,ख़ुशदिल,hauska
+1038,lustig::A,ख़ुशदिल,iloinen
+1039,sanft::A,नम्र,lauha
+1040,sanft::A,नम्र,lempeä
+1041,hungrig::A,भूखा,nälkäinen
+1042,krank::A,बीमार,sairas
+1043,krank::A,अस्वस्थ,sairas
+1044,nackt::A,नग्न,alaston
+1045,traurig::A,उदास,surullinen
+1046,traurig::A,उदास,murheellinen
+1047,traurig::A,रंजीदा,surullinen
+1048,traurig::A,रंजीदा,murheellinen
+1049,lebendig::A,जीता,elävä
+1050,lebendig::A,ज़िंदा,elävä
+1051,gut::A,अच्छा,hyvä
+1052,schlecht::A,बुरा,paha
+1053,schlecht::A,बुरा,huono
+1054,schlecht::A,ख़राब,paha
+1055,schlecht::A,ख़राब,huono
+1056,richtig::A,ठीक,oikea
+1057,schlimm::A,बुरा,paha
+1058,schlimm::A,अप्रिय,paha
+1059,wahr::A,सच,tosi
+1060,alt::A,पुराना,vanha
+1061,neu::A,नया,uusi
+1062,ehemalig::A,भूतपूर्व,entinen
+1063,ehemalig::A,भूतपूर्व,muinainen
+1064,alt[Lebewesen]::A,बूढ़ा,vanha
+1065,alt[Lebewesen]::A,वृद्ध,vanha
+1066,jung::A,जवान,nuori
+1067,arm::A,ग़रीब,köyhä
+1068,reich::A,धनी,rikas
+1069,reich::A,अमीर,rikas
+1070,bekannt::A,मालूम,tuttu
+1071,bekannt::A,मालूम,tunnettu
+1072,berühmt::A,मशहूर,kuuluisa
+1073,berühmt::A,प्रसिद्ध,kuuluisa
+1074,fremd::A,विदेशी,vieras
+1075,fremd::A,अपरिचित,vieras
+1076,verschieden::A,अलग,eri
+1077,verschieden::A,अलग,erilainen
+1078,verschieden::A,भिन्न,eri
+1079,verschieden::A,भिन्न,erilainen
+1080,nah::A,नज़दीकी,läheinen
+1081,fern::A,दूर,etäinen
+1082,fern::A,दूरस्थ,etäinen
+1083,linker::A,बायाँ,vasen
+1084,rechter::A,दायाँ,oikea
+1085,rechter::A,दाहिना,oikea
+1086,anderer::A,अन्य,muu
+1087,anderer::A,अन्य,toinen
+1088,anderer::A,दूसरा,muu
+1089,anderer::A,दूसरा,toinen
+1090,erster::A,पहला,ensimmäinen
+1091,erster::A,प्रथम,ensimmäinen
+1092,zweiter::A,दूसरा,toinen
+1093,zweiter::A,द्वितीय,toinen
+1094,dritter::A,तीसरा,kolmas
+1095,letzter::A,अंतिम,viimeinen
+1096,letzter::A,आख़िरी,viimeinen
+1097,allein::ADV,तनहा,yksin
+1098,allein::ADV,अकेले,yksin
+1099,auf einmal::ADV,वक़्त में,yhdellä kertaa
+1100,zusammen::ADV,एक साथ,yhdessä
+1101,zusammen::ADV,साथ साथ,yhdessä
+1102,lange::ADV,देर तक,kauan
+1103,lange::ADV,देर तक,pitkään
+1104,plötzlich::ADV,सहसा,äkkiä
+1105,plötzlich::ADV,अचानक,äkkiä
+1106,sofort::ADV,तुरंत,heti
+1107,später::ADV,बाद को,myöhemmin
+1108,später::ADV,बाद में,myöhemmin
+1109,jetzt::ADV,अब,nyt
+1110,jetzt::ADV,अभी,nyt
+1111,heute::ADV,आज,tänään
+1112,morgen::ADV,कल,huomenna
+1113,bald::ADV,जल्दी,pian
+1114,dann::ADV,तब,sitten
+1115,gestern::ADV,कल,eilen
+1116,einst::ADV,एक दिन,aikanaan
+1117,einst::ADV,पहले कभी,aikanaan
+1118,damals::ADV,उस समय,silloin
+1119,damals::ADV,उस समय,siihen aikaan
+1120,damals::ADV,उन दिनों,silloin
+1121,damals::ADV,उन दिनों,siihen aikaan
+1122,danach::ADV,इसके बाद,sen jälkeen
+1123,danach::ADV,इसके पश्चात्,sen jälkeen
+1124,vorher::ADV,पहले,ennen
+1125,vorher::ADV,पेशतर,ennen
+1126,zuerst::ADV,पहले,ensin
+1127,zuerst::ADV,पहले,ensiksi
+1128,einmal::ADV,एक बार,kerran
+1129,einmal::ADV,एक दफ़ा,kerran
+1130,manchmal::ADV,कभी कभी,joskus
+1131,oft::ADV,अक्सर,usein
+1132,immer::ADV,सदा,aina
+1133,immer::ADV,हमेशा,aina
+1134,niemals::ADV,कभी नहीं,ei koskaan
+1135,niemals::ADV,कदापि नहीं,ei koskaan
+1136,hier::ADV,इधर,tässä
+1137,hier::ADV,इधर,täällä
+1138,hier::ADV,यहाँ,tässä
+1139,hier::ADV,यहाँ,täällä
+1140,hierhin::ADV,इधर को,tähän
+1141,hierhin::ADV,यहाँ को,tähän
+1142,von hier::ADV,यहाँ से,tästä
+1143,von hier::ADV,यहाँ से,täältä
+1144,dort::ADV,उधर,siinä
+1145,dort::ADV,उधर,siellä
+1146,dort::ADV,वहाँ,siinä
+1147,dort::ADV,वहाँ,siellä
+1148,dorthin::ADV,उधर को,sinne
+1149,dorthin::ADV,उधर को,tuonne
+1150,dorthin::ADV,वहाँ को,sinne
+1151,dorthin::ADV,वहाँ को,tuonne
+1152,geradeaus::ADV,सीधे,suoraan
+1153,vorwärts::ADV,आगे,eteenpäin
+1154,vorwärts::ADV,आगे को,eteenpäin
+1155,rückwärts::ADV,पीछे को,taaksepäin
+1156,zurück::ADV,वापस,takaisin
+1157,unten::ADV,नीचे,alhaalla
+1158,hinab::ADV,नीचे को,alas
+1159,oben::ADV,ऊपर,ylhäällä
+1160,hinauf::ADV,ऊपर को,ylös
+1161,überall::ADV,हर जगह,kaikkialla
+1162,überall::ADV,हर स्थान,kaikkialla
+1163,nicht::ADV,न,ei
+1164,nicht::ADV,नहीं,ei
+1165,ein wenig::ADV,कुछ,vähän
+1166,ein wenig::ADV,ज़रा,vähän
+1167,ein wenig::ADV,थोड़ा,vähän
+1168,kaum::ADV,लगभग नहीं,tuskin
+1169,kaum::ADV,बराबर नहीं,tuskin
+1170,sehr::ADV,बहुत,kovin
+1171,sehr::ADV,बहुत,oikein
+1172,so::ADV,ऐसा,näin
+1173,noch::ADV,अभी तक,vielä
+1174,nur::ADV,केवल,vain
+1175,nur::ADV,केवल,ainoastaan
+1176,nur::ADV,सिर्फ़,vain
+1177,nur::ADV,सिर्फ़,ainoastaan
+1178,schon::ADV,चुकना,jo
+1179,wieder::ADV,फिर,taas
+1180,wieder::ADV,फिर,jälleen
+1181,wieder::ADV,दुबारा,taas
+1182,wieder::ADV,दुबारा,jälleen
+1183,vergebens::ADV,व्यर्थ,turhaan
+1184,vor::PRP,के आगे,edessä
+1185,vor::PRP,के सामने,edessä
+1186,hinter::PRP,के पीछे,takana
+1187,unter::PRP,के तले,alla
+1188,unter::PRP,के नीचे,alla
+1189,durch::PRP,के पार,läpi
+1190,durch::PRP,के पार,kautta
+1191,neben::PRP,के पास,vieressä
+1192,neben::PRP,की बग़ल में,vieressä
+1193,zwischen::PRP,के बीच,välillä
+1194,wegen::PRP,के कारण,takia
+1195,wegen::PRP,के कारण,vuoksi
+1196,wegen::PRP,की वजह से,takia
+1197,wegen::PRP,की वजह से,vuoksi
+1198,dies::PRN,यह,tämä
+1199,das::PRN,वह,se
+1200,alles::PRN,सब,kaikki
+1201,alles::PRN,सब कुछ,kaikki
+1202,ich::PRN,मैं,minä
+1203,du::PRN,तू,sinä
+1204,er::PRN,यह,hän
+1205,wir::PRN,हम,me
+1206,ihr::PRN,तुम,te
+1207,sie::PRN,ये,he
+1208,was::FPRN,क्या,mikä
+1209,wer::FPRN,कौन,ken
+1210,wer::FPRN,कौन,kuka
+1211,wo::FADV,किधर,missä
+1212,wohin::FADV,किधर,mihin
+1213,wie::FADV,कैसे,miten
+1214,wie::FADV,कैसे,kuinka
+1215,warum::FADV,क्यों,miksi
+1216,wieviel::FNUM,कितना,paljonko
+1217,wieviel::FNUM,कितना,kuinka paljon
+1218,eins::NUM,एक,yksi
+1219,zwei::NUM,दो,kaksi
+1220,drei::NUM,तीन,kolme
+1221,vier::NUM,चार,neljä
+1222,fünf::NUM,पाँच,viisi
+1223,sechs::NUM,छह,kuusi
+1224,sieben::NUM,सात,seitsemän
+1225,acht::NUM,आठ,kahdeksan
+1226,neun::NUM,नौ,yhdeksän
+1227,zehn::NUM,दस,kymmenen
+1228,elf::NUM,ग्यारह,yksitoista
+1229,zwölf::NUM,बारह,kaksitoista
+1230,zwanzig::NUM,बीस,kaksikymmentä
+1231,dreißig::NUM,तीस,kolmekymmentä
+1232,vierzig::NUM,चालीस,neljäkymmentä
+1233,fünfzig::NUM,पचास,viisikymmentä
+1234,sechzig::NUM,साठ,kuusikymmentä
+1235,siebzig::NUM,सत्तर,seitsemänkymmentä
+1236,achtzig::NUM,अस्सी,kahdeksankymmentä
+1237,neunzig::NUM,नव्वे,yhdeksänkymmentä
+1238,hundert::NUM,सौ,sata
+1239,tausend::NUM,हज़ार,tuhat
+1240,und::CNJ,और,ja
+1241,oder::CNJ,या,tai
+1242,stehen::V,खड़ा होना,seisoa
+1243,sitzen::V,बैठना,istua
+1244,liegen::V,लेटना,maata
+1245,hängen::V,लटकना,riippua
+1246,werden::V,बनना,tulla
+1247,werden::V,बनना,joutua
+1248,passieren::V,होना,sattua
+1249,passieren::V,होना,tapahtua
+1250,beginnen::V,आरंभ होना,alkaa
+1251,beginnen::V,प्रारंभ होना,alkaa
+1252,enden::V,अंत होना,loppua
+1253,enden::V,अंत होना,päättyä
+1254,enden::V,ख़तम होना,loppua
+1255,enden::V,ख़तम होना,päättyä
+1256,wechseln::V,बदलना,vaihtua
+1257,wechseln::V,बदलना,vaihdella
+1258,aufgehen[Sonne]::V,चढ़ना,nousta
+1259,aufgehen[Sonne]::V,उदित होना,nousta
+1260,untergehen[Sonne]::V,अस्त हो जाना,laskea
+1261,scheinen[Sonne]::V,रोशनी देना,paistaa
+1262,donnern::V,गरजना,jyristä
+1263,wehen::V,चलना,tuulla
+1264,wehen::V,चलना,puhaltaa
+1265,strömen::V,बहना,virrata
+1266,strömen::V,प्रवाहित होना,virrata
+1267,fließen::V,बहना,valua
+1268,fließen::V,बहना,juosta
+1269,fließen::V,प्रवाहित होना,valua
+1270,fließen::V,प्रवाहित होना,juosta
+1271,sich drehen::V,घूमना,pyöriä
+1272,schwanken::V,हिलना,horjua
+1273,schwingen::V,हिलना,heilua
+1274,schwingen::V,हिलना,värähdellä
+1275,fallen::V,गिरना,pudota
+1276,fallen::V,गिरना,langeta
+1277,brennen::V,जलना,palaa
+1278,rauchen::V,धुआँ उड़ाना,savuta
+1279,regnen::V,बरसना,sataa
+1280,gefrieren::V,जमना,jäätyä
+1281,tauen::V,गलना,sulaa
+1282,tauen::V,पिघलना,sulaa
+1283,schmelzen::V,गलना,sulaa
+1284,schmelzen::V,पिघलना,sulaa
+1285,trocknen::V,सूखना,kuivua
+1286,sieden::V,उबलना,kiehua
+1287,faulen::V,गलना,mädätä
+1288,faulen::V,सड़ना,mädätä
+1289,verfaulen::V,गलना,mädätä
+1290,verfaulen::V,गलना,mädäntyä
+1291,verfaulen::V,सड़ना,mädätä
+1292,verfaulen::V,सड़ना,mädäntyä
+1293,reißen::V,फटना,revetä
+1294,versinken::V,डूबना,upota
+1295,versinken::V,डूबना,vajota
+1296,vergehen::V,बीतना,kulua
+1297,vergehen::V,गुज़रना,kulua
+1298,erscheinen::V,दिखाई देना,ilmestyä
+1299,verschwinden::V,ग़ायब होना,kadota
+1300,sinken::V,घटना,vajota
+1301,sinken::V,उतरना,vajota
+1302,abnehmen::V,घटना,vähetä
+1303,zunehmen::V,बढ़ना,kasvaa
+1304,zunehmen::V,बढ़ना,lisääntyä
+1305,steigen::V,बढ़ना,nousta
+1306,wachsen::V,उगना,kasvaa
+1307,glänzen::V,चमकना,kiiltää
+1308,funkeln::V,जगमगाना,kipinöidä
+1309,funkeln::V,टिमटिमाना,kipinöidä
+1310,lärmen::V,शोर मचाना,meluta
+1311,läuten::V,बजना,soida
+1312,klingeln::V,बजना,soida
+1313,klirren::V,झनझनाना,kalista
+1314,brausen::V,साँय-साँय करना,kohista
+1315,rauschen::V,सरसराना,kohista
+1316,klingen::V,बजना,soida
+1317,bellen::V,भौंकना,haukkua
+1318,heulen::V,गुर्राना,ulvoa
+1319,blasen::V,फूँकना,puhaltaa
+1320,pfeifen::V,सीटी देना,viheltää
+1321,schreien::V,चिल्लाना,kirkua
+1322,stöhnen::V,कराहना,voihkia
+1323,stöhnen::V,आहें भरना,voihkia
+1324,zittern::V,काँपना,vapista
+1325,leben::V,जीना,elää
+1326,geboren werden::V,पैदा होना,syntyä
+1327,atmen::V,साँस लेना,hengittää
+1328,trinken::V,पीना,juoda
+1329,essen::V,खाना,syödä
+1330,schlucken::V,निगलना,niellä
+1331,müde werden::V,थकना,uupua
+1332,müde werden::V,उकताना,uupua
+1333,einschlafen::V,सो जाना,uinahtaa
+1334,schlafen::V,सोना,maata
+1335,schlafen::V,सोना,nukkua
+1336,aufwachen::V,जागना,herätä
+1337,aufstehen::V,उठना,nousta
+1338,aufstehen::V,उठना,nousta ylös
+1339,sich erholen::V,सुस्ताना,levätä
+1340,sich erholen::V,आराम करना,levätä
+1341,krank werden::V,बीमार पड़ना,sairastua
+1342,krank sein::V,बीमार होना,potea
+1343,krank sein::V,बीमार होना,sairastaa
+1344,schmerzen::V,दुखना,särkeä
+1345,schmerzen::V,दुखना,kivistää
+1346,schmerzen::V,दर्द करना,särkeä
+1347,schmerzen::V,दर्द करना,kivistää
+1348,husten::V,खाँसना,yskiä
+1349,genesen::V,ठीक हो जाना,toipua
+1350,genesen::V,स्वस्थ हो जाना,toipua
+1351,sterben::V,मरना,kuolla
+1352,umkommen::V,मरना,saada surmansa
+1353,umkommen::V,मरना,kuolla
+1354,sich bewegen::V,चलना,liikkua
+1355,sich bewegen::V,हिलना,liikkua
+1356,sich rühren::V,हिलना,liikahtaa
+1357,sich erheben::V,उठना,nousta
+1358,sich setzen::V,बैठना,istuutua
+1359,hinfallen::V,गिरना,kaatua
+1360,laufen::V,चलना,kävellä
+1361,schreiten::V,क़दम जाना,astua
+1362,schreiten::V,क़दम जाना,astella
+1363,spazierengehen::V,सैर करना,kävellä
+1364,eilen::V,तेज़ी से जाना,kiirehtiä
+1365,eilen::V,शीघ्रता से चलना,kiirehtiä
+1366,sich beeilen::V,जल्दी करना,kiirehtiä
+1367,sich beeilen::V,जल्दी करना,olla kiireissään
+1368,sich beeilen::V,शीघ्रता करना,kiirehtiä
+1369,sich beeilen::V,शीघ्रता करना,olla kiireissään
+1370,sausen::V,बड़ी तेज़ी से चलना,rynnätä
+1371,sausen::V,बड़ी तेज़ी से चलना,viilettää
+1372,rennen::V,भागना,juosta
+1373,rennen::V,दौड़ना,juosta
+1374,springen::V,उछलना,hypätä
+1375,klettern::V,चढ़ना,kiivetä
+1376,schaukeln::V,झूलना,kiikkua
+1377,kriechen::V,रेंगना,ryömiä
+1378,schwimmen::V,तैरना,uida
+1379,tauchen::V,डूबना,sukeltaa
+1380,rudern::V,खेना,soutaa
+1381,rudern::V,चप्पू चलाना,soutaa
+1382,fahren::V,चलना,ajaa
+1383,fahren::V,चलना,kulkea
+1384,fahren::V,यात्रा करना,ajaa
+1385,fahren::V,यात्रा करना,kulkea
+1386,fliegen::V,उड़ना,lentää
+1387,gehen::V,जाना,käydä
+1388,weggehen::V,चला जाना,lähteä
+1389,weggehen::V,चला जाना,poistua
+1390,weggehen::V,बाहर जाना,lähteä
+1391,weggehen::V,बाहर जाना,poistua
+1392,abfahren::V,छूटना,lähteä
+1393,abfahren::V,रवाना होना,lähteä
+1394,anhalten::V,रुकना,pysähtyä
+1395,anhalten::V,रुकना,seisahtua
+1396,anhalten::V,खड़ा होना,pysähtyä
+1397,anhalten::V,खड़ा होना,seisahtua
+1398,hineingehen::V,घुसना,mennä sisään
+1399,hineingehen::V,अंदर जाना,mennä sisään
+1400,eintreten::V,प्रवेश करना,astua sisään
+1401,kommen::V,आना,tulla
+1402,ankommen::V,पहुँचना,saapua
+1403,zurückkommen::V,लौटना,palata
+1404,zurückkommen::V,वापस आना,palata
+1405,bleiben::V,रहना,jäädä
+1406,bleiben::V,रहना,viipyä
+1407,bleiben::V,रुकना,jäädä
+1408,bleiben::V,रुकना,viipyä
+1409,warten::V,इंतज़ार करना,odottaa
+1410,erwarten::V,प्रतीक्षा करना,odottaa
+1411,suchen::V,ढूँढ़ना,etsiä
+1412,finden::V,पाना,löytää
+1413,finden::V,ढूँढ़ निकालना,löytää
+1414,versuchen::V,कोशिश करना,yrittää
+1415,vorbereiten::V,तैयार करना,valmistaa
+1416,lieben::V,प्यार करना,pitää
+1417,lieben::V,प्यार करना,rakastaa
+1418,mögen::V,पसंद होना,pitää
+1419,mögen::V,पसंद होना,tykätä
+1420,lachen::V,हँसना,nauraa
+1421,rühren::V,छूना,liikuttaa
+1422,weinen::V,रोना,itkeä
+1423,schimpfen::V,गाली देना,haukkua
+1424,sich ärgern::V,चिढ़ना,suuttua
+1425,sich ärgern::V,नाराज़ होना,suuttua
+1426,sich fürchten::V,डरना,pelätä
+1427,sich fürchten::V,भय खाना,pelätä
+1428,fürchten::V,डरना से,pelätä
+1429,fürchten::V,भय खाना से,pelätä
+1430,fliehen::V,भागना,paeta
+1431,flüchten::V,निकल भागना,paeta
+1432,sehen::V,देखना,nähdä
+1433,anschauen::V,देखना,katsoa
+1434,ansehen::V,दृष्टि डालना पर,katsoa
+1435,hören::V,सुनना,kuulla
+1436,zuhören::V,सुनना,kuunnella
+1437,probieren::V,चखना,maistaa
+1438,riechen::V,सूँघना,haistaa
+1439,fühlen::V,महसूस करना,tuntea
+1440,scheinen::V,लगना,tuntua
+1441,zu sehen sein::V,दिखाई देना,näkyä
+1442,vernehmen::V,सुनना,kuulla
+1443,frieren::V,ठंड लगना,palella
+1444,frieren::V,सर्दी लगना,palella
+1445,tun::V,करना,tehdä
+1446,können::V,सकना,osata
+1447,können::V,जानना,osata
+1448,wollen::V,चाहना,tahtoa
+1449,anfangen::V,शुरू करना,ruveta
+1450,anfangen::V,शुरू करना,aloittaa
+1451,beenden::V,ख़त्म करना,lopettaa
+1452,beenden::V,समाप्त करना,lopettaa
+1453,aufhören::V,बंद जाना,loppua
+1454,aufhören::V,समाप्त जाना,loppua
+1455,gelingen::V,बनना,onnistua
+1456,gelingen::V,अच्छा होना,onnistua
+1457,geraten::V,बन पड़ना,sujua
+1458,geraten::V,बन पड़ना,joutua
+1459,öffnen::V,खोलना,avata
+1460,öffnen::V,खोलना,aukaista
+1461,schließen::V,बंद करना,sulkea
+1462,stellen::V,रखना,panna
+1463,stellen::V,रखना,asettaa
+1464,setzen::V,रखना,panna
+1465,setzen::V,रखना,istuttaa
+1466,setzen::V,बिठाना,panna
+1467,setzen::V,बिठाना,istuttaa
+1468,legen::V,रखना,panna
+1469,legen::V,रखना,asettaa
+1470,legen::V,लिटाना,panna
+1471,legen::V,लिटाना,asettaa
+1472,berühren::V,छूना,koskea
+1473,berühren::V,छूना,koskettaa
+1474,berühren::V,स्पर्श करना,koskea
+1475,berühren::V,स्पर्श करना,koskettaa
+1476,verbinden::V,बाँधना,liittää
+1477,verbinden::V,बाँधना,yhdistää
+1478,bedecken::V,ढकना,kattaa
+1479,bedecken::V,ढकना,peittää
+1480,aufhängen::V,लटकाना,ripustaa
+1481,anzünden::V,जलाना,sytyttää
+1482,aufheben::V,उठाना,ylös nostaa
+1483,aufheben::V,उठाना,nostaa
+1484,zurücklassen::V,पीछे छोड़ना,jättää
+1485,verlieren::V,खोना,kadottaa
+1486,verlieren::V,गँवाना,kadottaa
+1487,fallen lassen::V,गिराना,pudottaa
+1488,machen::V,करना,tehdä
+1489,machen::V,बनाना,tehdä
+1490,herstellen::V,बनाना,tuottaa
+1491,herstellen::V,बनाना,valmistaa
+1492,herstellen::V,तैयार करना,tuottaa
+1493,herstellen::V,तैयार करना,valmistaa
+1494,bauen::V,बनाना,rakentaa
+1495,bauen::V,निर्माण करना,rakentaa
+1496,reparieren::V,मरम्मत करना,korjata
+1497,verbessern::V,सुधारना,parantaa
+1498,ändern::V,बदलना,muuttaa
+1499,ändern::V,परीवर्तन करना,muuttaa
+1500,graben::V,खोदना,kaivaa
+1501,beugen::V,झुकाना,taivuttaa
+1502,biegen::V,झुकाना,taivuttaa
+1503,drehen::V,फेरना,kääntää
+1504,drehen::V,घुमाना,kääntää
+1505,wenden::V,पलटना,kääntää
+1506,wenden::V,मोड़ना,kääntää
+1507,umdrehen::V,घुमाना,kääntää
+1508,heben::V,उठाना,nostaa
+1509,heben::V,उठाना,kohottaa
+1510,heben::V,ऊँचा करना,nostaa
+1511,heben::V,ऊँचा करना,kohottaa
+1512,hochheben::V,उठाना,nostaa
+1513,hochheben::V,ऊपर को उठाना,nostaa
+1514,ergreifen::V,पकड़ना,tarttua
+1515,ergreifen::V,हाथ में लेना,tarttua
+1516,halten::V,धरना,pitää
+1517,halten::V,पकड़ना,pitää
+1518,drücken::V,दबाना,painaa
+1519,drücken::V,दबाना,puristaa
+1520,schieben::V,सरकाना,työntää
+1521,schieben::V,खिसकाना,työntää
+1522,kratzen::V,खुरचना,raapia
+1523,kratzen::V,खुजलाना,raapia
+1524,lecken::V,चाटना,nuolla
+1525,beißen::V,काटना,purra
+1526,abreißen::V,तोड़ना,repiä
+1527,abschneiden::V,काट करना,leikata poikki
+1528,abschneiden::V,काट करना,leikata
+1529,binden::V,बाँधना,sitoa
+1530,stecken::V,खोंसना,pistää
+1531,brechen::V,तोड़ना,murtaa
+1532,klopfen::V,खटखटाना,koputtaa
+1533,klopfen::V,खटखटाना,kolkuttaa
+1534,hauen::V,ठोकना,lyödä
+1535,kleben::V,चिपकाना,liimata
+1536,reiben::V,घिसना,hieroa
+1537,reiben::V,घिसना,hangata
+1538,reiben::V,रगड़ना,hieroa
+1539,reiben::V,रगड़ना,hangata
+1540,streichen::V,लगाना,sivellä
+1541,schleifen::V,तेज़ करना,hioa
+1542,schneiden::V,कतरना,leikata
+1543,rütteln::V,झकझोरना,ravistaa
+1544,schütteln::V,हिलाना,pudistaa
+1545,schwenken::V,घुमाना,heiluttaa
+1546,schütten::V,उँडेलना,kaataa
+1547,füllen::V,भरना,täyttää
+1548,füllen::V,ठूसना,täyttää
+1549,einwickeln::V,लपेटना,kääriä
+1550,tragen::V,ढोना,kantaa
+1551,schleppen::V,घसीटना,raahata
+1552,ziehen::V,खींचना,vetää
+1553,aufbewahren::V,रखना,säilyttää
+1554,werfen::V,फेंकना,viskata
+1555,fangen::V,पकड़ना,napata
+1556,fangen::V,पकड़ना,ottaa kiinni
+1557,packen::V,पकड़ना,tarttua
+1558,verstecken::V,छिपाना,kätkeä
+1559,verstecken::V,छिपाना,piilottaa
+1560,teilen::V,बाँटना,jakaa
+1561,schicken::V,भेजना,lähettää
+1562,bringen::V,लाना,viedä
+1563,hinzufügen::V,जोड़ना,lisätä
+1564,bekommen::V,पाना,saada
+1565,erhalten::V,पाना,saada
+1566,erhalten::V,मिलना,saada
+1567,nehmen::V,लेना,ottaa
+1568,wählen::V,चुनना,valita
+1569,auswählen::V,चुनना,valikoida
+1570,bewahren::V,बनाए रखना,säilyttää
+1571,behindern::V,रोकना,estää
+1572,verderben::V,ख़राब करना,pilata
+1573,verderben::V,ख़राब करना,turmella
+1574,beschädigen::V,नुक़सान पहुँचाना,vioittaa
+1575,beschädigen::V,नुक़सान पहुँचाना,vahingoittaa
+1576,zerbrechen::V,तोड़ना,rikkoa
+1577,zerreißen::V,तोड़ना,repiä rikki
+1578,zerreißen::V,तोड़ना,repiä palasiksi
+1579,zerstören::V,नष्ट करना,hävittää
+1580,zerstören::V,बरबाद करना,hävittää
+1581,verbrennen::V,जलाना,polttaa
+1582,geben::V,देना,antaa
+1583,reichen::V,थमाना,ojentaa
+1584,schenken::V,भेंट देना,lahjoittaa
+1585,versprechen::V,वादा करना,luvata
+1586,wünschen::V,कामना करना,toivottaa
+1587,loben::V,तारीफ़ करना,ylistää
+1588,küssen::V,चूमना,suudella
+1589,wiegen::V,झुलाना,tuudittaa
+1590,wiegen::V,झुलाना,keinuttaa
+1591,zudecken::V,ढकना,peittää
+1592,wecken::V,जगाना,herättää
+1593,zeigen::V,दिखाना,näyttää
+1594,zeigen::V,दिखाना,osoittaa
+1595,führen::V,रास्ता दिखाना,johdattaa
+1596,lehren::V,पढ़ाना,opettaa
+1597,unterrichten::V,सिखाना,opettaa
+1598,aufziehen::V,पालना,kasvattaa
+1599,leiten::V,संचालन करना,johtaa
+1600,antreiben::V,हड़बड़ाना,hoputtaa
+1601,lassen::V,-आना,antaa
+1602,lassen::V,कराना,antaa
+1603,einladen::V,बुलाना,kutsua
+1604,vereinigen::V,मिलाना,yhdistää
+1605,vereinigen::V,संयुक्त करना,yhdistää
+1606,besuchen::V,मिलना से,vierailla
+1607,besuchen::V,मिलने जाना से,vierailla
+1608,treffen::V,मिलना,tavata
+1609,sich versammeln::V,इकट्ठा होना,kokoontua
+1610,spielen::V,खेलना,pelata
+1611,spielen::V,खेलना,leikkiä
+1612,singen::V,गाना,laulaa
+1613,tanzen::V,नाचना,tanssia
+1614,sich trennen::V,अलग होना,erota
+1615,verlassen::V,छोड़ना,jättää
+1616,retten::V,बचाना,pelastaa
+1617,bewachen::V,आँख रखना पर,vartioida
+1618,schützen::V,रक्षा करना,suojella
+1619,verteidigen::V,रक्षा करना,puolustaa
+1620,sich schlagen::V,हाथापाई करना,tapella
+1621,schießen::V,गोली मारना,ampua
+1622,siegen::V,जीतना,voittaa
+1623,siegen::V,विजय पाना,voittaa
+1624,ärgern::V,चिढ़ाना,ärsyttää
+1625,schlagen::V,मारना,lyödä
+1626,treten::V,ठोकर मारना,potkaista
+1627,stechen::V,भेदना,pistää
+1628,stechen::V,भोंकना,pistää
+1629,stoßen::V,धक्का देना,sysätä
+1630,stoßen::V,धक्का देना,työntää
+1631,stoßen::V,झटका देना,sysätä
+1632,stoßen::V,झटका देना,työntää
+1633,stehlen::V,चोरी करना,varastaa
+1634,stören::V,बुरा लगना,häiritä
+1635,belästigen::V,तंग करना,häiritä
+1636,verbergen::V,लुकाना,kätkeä
+1637,täuschen::V,धोखा देना,harhauttaa
+1638,betrügen::V,धोखा देना,pettää
+1639,betrügen::V,धोखा देना,petkuttaa
+1640,töten::V,मारना,tappaa
+1641,töten::V,मार डालना,tappaa
+1642,wohnen::V,रहना,asua
+1643,arbeiten::V,काम करना,tehdä työtä
+1644,arbeiten::V,काम करना,työskennellä
+1645,sammeln::V,जमा करना,koota
+1646,sammeln::V,जमा करना,kerätä
+1647,pflücken::V,चुनना,poimia
+1648,pflücken::V,तोड़ना,poimia
+1649,jagen::V,आखेट करना,metsästää
+1650,jagen::V,शिकार करना,metsästää
+1651,fischen::V,मछली पकड़ना,kalastaa
+1652,fassen::V,पकड़ना,pyydystää
+1653,fassen::V,पकड़ना,saalistaa
+1654,hüten::V,चराना,paimentaa
+1655,treiben::V,हाँकना,ajaa
+1656,anbinden::V,बाँधना,kytkeä
+1657,füttern::V,खिलाना,ruokkia
+1658,melken::V,दुहना,lypsää
+1659,hacken::V,काटना,hakata
+1660,gießen::V,सींचना,kastella
+1661,reifen::V,पकना,kypsyä
+1662,zubereiten::V,पकाना,valmistaa
+1663,kochen::V,पकाना,keittää
+1664,kochen::V,राँधना,keittää
+1665,backen::V,पकाना,leipoa
+1666,braten::V,तलना,paistaa
+1667,braten::V,भूनना,paistaa
+1668,umrühren::V,फेंटना,hämmentää
+1669,stricken::V,बुनना,kutoa
+1670,stricken::V,बुनना,neuloa
+1671,nähen::V,सीना,ommella
+1672,färben::V,रँगना,värjätä
+1673,färben::V,रँगना,värittää
+1674,reinigen::V,साफ़ करना,puhdistaa
+1675,reinigen::V,शुद्ध करना,puhdistaa
+1676,waschen::V,धोना,pestä
+1677,abwischen::V,पोंछ्ना,pyyhkiä
+1678,spülen::V,माँजना,huuhtoa
+1679,spülen::V,खँगालना,huuhtoa
+1680,fegen::V,बुहारना,pyyhkäistä
+1681,kehren::V,झाड़ना,lakaista
+1682,baden::V,स्नान करना,kylpeä
+1683,sich waschen::V,नहाना,peseytyä
+1684,sich waschen::V,हाथ-मुँह धोना,peseytyä
+1685,ausziehen::V,उतारना,riisua
+1686,anziehen::V,पहनना,pukea ylleen
+1687,sich anziehen::V,कपड़े पहनना,pukeutua
+1688,kämmen::V,कंघी करना,kammata
+1689,schmücken::V,सजाना,koristaa
+1690,schmücken::V,सजाना,kaunistaa
+1691,schmücken::V,सँवारना,koristaa
+1692,schmücken::V,सँवारना,kaunistaa
+1693,sagen::V,कहना,sanoa
+1694,sagen::V,बताना,sanoa
+1695,sprechen::V,बोलना,puhua
+1696,reden::V,बोलना,keskustella
+1697,reden::V,बात करना,keskustella
+1698,sich unterhalten::V,बात करना,jutella
+1699,sich unterhalten::V,बातचीत करना,jutella
+1700,fragen::V,पूछ्ना,kysyä
+1701,fragen::V,प्रश्न करना,kysyä
+1702,bitten::V,माँगना से,pyytää
+1703,erzählen::V,बताना,kertoa
+1704,mitteilen::V,ख़बर देना,ilmoittaa
+1705,mitteilen::V,सूचना देना,ilmoittaa
+1706,nennen::V,नाम देना,kutsua
+1707,nennen::V,नाम देना,nimittää
+1708,rufen::V,बुलाना,kutsua
+1709,prahlen::V,शेख़ी बघारना,kerskailla
+1710,übersetzen::V,अनुवाद करना,kääntää
+1711,denken::V,सोचना,miettiä
+1712,denken::V,सोचना,ajatella
+1713,glauben::V,विश्वास करना,uskoa
+1714,bemerken::V,ध्यान देना पर,huomata
+1715,erkennen::V,पहचानना,tunnistaa
+1716,begreifen::V,समझना,ymmärtää
+1717,verstehen::V,सुनना,ymmärtää
+1718,lernen::V,पढ़ना,oppia
+1719,wissen::V,जानना,tietää
+1720,wissen::V,मालूम होना,tietää
+1721,sich erinnern an::V,याद करना,muistaa
+1722,vergessen::V,भूलना,unohtaa
+1723,vergessen::V,बिसारना,unohtaa
+1724,messen::V,नापना,mitata
+1725,zählen::V,गिनना,laskea
+1726,rechnen::V,गणना करना,laskea
+1727,rechnen::V,हिसाब करना,laskea
+1728,lesen::V,पढ़ना,lukea
+1729,malen::V,कींचना,maalata
+1730,zeichnen::V,चित्र कींचना,piirtää
+1731,zeichnen::V,चित्र कींचना,piirustaa
+1732,schreiben::V,लिखना,kirjoittaa
+1733,besitzen::V,मालिक होना,omistaa
+1734,besitzen::V,स्वामी होना,omistaa
+1735,kaufen::V,ख़रीदना,ostaa
+1736,verkaufen::V,बेचना,myydä
+1737,bezahlen::V,चुकाना,maksaa
+1738,bezahlen::V,अदा करना,maksaa
+1739,zahlen::V,अदा करना,maksaa
+1740,beherrschen::V,शासन करना पर,hallita
+1741,ertragen::V,सहना,kestää

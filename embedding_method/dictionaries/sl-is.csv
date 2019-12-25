@@ -1,0 +1,1285 @@
+,Concept_ID,sl,is
+0,Auge::N,okó,auga
+1,Ohr::N,uhó,eyra
+2,Nase::N,nós,nef
+3,Mund::N,ústa,munnur
+4,Zahn::N,zób,tönn
+5,Zunge::N,jêzik,tunga
+6,Lippe::N,ústnica,vör
+7,Wange::N,líce,kinn
+8,Wange::N,líce,vangi
+9,Gesicht::N,oblíčje,andlit
+10,Stirn::N,čêlo,enni
+11,Haar::N,lás,hár
+12,Schnurrbart::N,bŕki,yfirskegg
+13,Bart::N,bráda,skegg
+14,Kinn::N,bráda,haka
+15,Kiefer[Anatomie]::N,čeljúst,kjálki
+16,Kiefer[Anatomie]::N,čeljúst,skoltur
+17,Kehle::N,gŕlo,kverk
+18,Hals::N,vrát,háls
+19,Genick::N,zatílnik,hnakki
+20,Kopf::N,gláva,höfuð
+21,Rücken::N,hrbèt,hryggur
+22,Bauch::N,trébuh,kviður
+23,Nabel::N,pópek,nafli
+24,Busen::N,nédrja,barmur
+25,Brust::N,pŕsi,brjóst
+26,Schulter::N,ráma,öxl
+27,Schulter::N,plêče,öxl
+28,Arm::N,rôka,armur
+29,Ellenbogen::N,komólec,olnbogi
+30,Hand::N,rôka,hönd
+31,Handfläche::N,dlán,lófi
+32,Finger::N,pŕst,fingur
+33,Fingernagel::N,nóht na rôki,fingurnögl
+34,Nagel[Anatomie]::N,nóht,nögl
+35,Zeh::N,pŕst na nôgi,tá
+36,Fuß::N,nôga,fótur
+37,Ferse::N,pêta,hæll
+38,Knie::N,koléno,kné
+39,Oberschenkel::N,stêgno,læri
+40,Bein::N,nôga,fótleggur
+41,Körper::N,teló,búkur
+42,Körper::N,teló,líkami
+43,Haut::N,kóža,húð
+44,Haut::N,kóža,skinn
+45,Blut::N,krí,blóð
+46,Ader::N,žíla,æð
+47,Sehne::N,kíta,sin
+48,Knochen::N,kóst,bein
+49,Gehirn::N,možgáni,heili
+50,Herz::N,srcé,hjarta
+51,Magen::N,želódec,magi
+52,Leber::N,jétra,lifur
+53,Atem::N,díh,andi
+54,Atem::N,díh,andardráttur
+55,Hunger::N,glád,hungur
+56,Träne::N,sólza,tár
+57,Geschmack::N,okús,smekkur
+58,Geruch::N,vónj,lykt
+59,Schlaf::N,sèn,svefn
+60,Schlaf::N,spánec,svefn
+61,Traum::N,sánje,draumur
+62,Himmel::N,nebó,himinn
+63,Sonne::N,sónce,sól
+64,Mond::N,lúna,tungl
+65,Mond::N,mésec,tungl
+66,Stern::N,zvézda,stjarna
+67,Luft::N,zràk,loft
+68,Wind::N,véter,vindur
+69,Welle::N,vál,alda
+70,Welle::N,vál,bylgja
+71,Wasser::N,vôda,vatn
+72,Stein::N,kámen,steinn
+73,Boden::N,tlà,botn
+74,Erde::N,pŕst,jörð
+75,Erde::N,zêmlja,jörð
+76,Staub::N,práh,ryk
+77,Staub::N,práh,duft
+78,Rauch::N,dìm,reykur
+79,Funke::N,ískra,neisti
+80,Feuer::N,ôgenj,eldur
+81,Licht::N,lúč,ljós
+82,Schatten::N,sénca,skuggi
+83,Wetter::N,vrême,veður
+84,Nebel::N,meglà,þoka
+85,Wolke::N,oblák,ský
+86,Regen::N,dèž,regn
+87,Schnee::N,snég,snjór
+88,Eis::N,léd,ís
+89,Frost::N,zmrzál,frost
+90,Kälte::N,mràz,kuldi
+91,Hitze::N,pripéka,hiti
+92,Raureif::N,ívje,hrím
+93,Raureif::N,slána,hrím
+94,Regenbogen::N,mávrica,regnbogi
+95,Donner::N,gròm,þruma
+96,Strömung::N,strúja,straumur
+97,Tropfen::N,káplja,dropi
+98,Schaum::N,péna,froða
+99,Schmutz::N,nesnága,óhreinindi
+100,See::N,jézero,stöðuvatn
+101,Sumpf::N,močvírje,fen
+102,Moor::N,bárje,mýri
+103,Wiese::N,trávnik,engi
+104,Wald::N,lés,skógur
+105,Wald::N,gòzd,skógur
+106,Hügel::N,brég,hæð
+107,Hügel::N,brég,hóll
+108,Hügel::N,goríca,hæð
+109,Hügel::N,goríca,hóll
+110,Anhöhe::N,gríč,hæð
+111,Anhöhe::N,gríč,hóll
+112,Anhöhe::N,višína,hæð
+113,Anhöhe::N,višína,hóll
+114,Berg::N,gôra,fell
+115,Berg::N,gôra,fjall
+116,Berg::N,planína,fell
+117,Berg::N,planína,fjall
+118,Gipfel::N,vŕh,tindur
+119,Höhle::N,jáma,hellir
+120,Höhle::N,votlína,hellir
+121,Abhang::N,pobóčje,hlíð
+122,Abhang::N,pobóčje,brekka
+123,Quelle::N,izvír,lind
+124,Quelle::N,izvír,uppspretta
+125,Bach::N,pôtok,lækur
+126,Fluss::N,réka,á
+127,Fluss::N,réka,fljót
+128,Ufer::N,brég,árbakki
+129,Ufer::N,brég,sjávarbakki
+130,Küste::N,obála,strönd
+131,Küste::N,obréžje,strönd
+132,Festland::N,celína,meginland
+133,Festland::N,kopnína,meginland
+134,Meer::N,mórje,haf
+135,Meer::N,mórje,sjór
+136,Bucht::N,zalív,vík
+137,Insel::N,ôtok,eyja
+138,Blume::N,cvetlíca,blóm
+139,Gras::N,tráva,gras
+140,Wurzel::N,korenína,rót
+141,Baum::N,drevó,tré
+142,Stamm::N,dêblo,stofn
+143,Rinde::N,lúbje,börkur
+144,Rinde::N,skórja,börkur
+145,Ast::N,véja,grein
+146,Zweig::N,véja,angi
+147,Zweig::N,véja,kvistur
+148,Blatt::N,líst,blað
+149,Birke::N,bréza,birki
+150,Kiefer[Baum]::N,bòr,fura
+151,Weide[Baum]::N,vŕba,víðir
+152,Tanne::N,hója,greni
+153,Horn::N,róg,horn
+154,Feder::N,peró,fjöður
+155,Fell::N,kŕzno,skinn
+156,Flügel::N,krílo,vængur
+157,Klaue::N,párkelj,kló
+158,Kralle::N,krémpelj,kló
+159,Schwanz::N,rèp,rófa
+160,Schwanz::N,rèp,skott
+161,Ei::N,jájce,egg
+162,Nest::N,gnézdo,hreiður
+163,Bau::N,brlòg,greni
+164,Bau::N,brlòg,bæli
+165,Tier::N,živál,dýr
+166,Herde::N,čréda,hjörð
+167,Kuh::N,kráva,kýr
+168,Bulle::N,bìk,boli
+169,Pferd::N,kònj,hestur
+170,Schaf::N,ôvca,kind
+171,Schwein::N,svínja,svín
+172,Hund::N,pès,hundur
+173,Katze::N,máčka,köttur
+174,Bär::N,mêdved,björn
+175,Eichhörnchen::N,véverica,íkorni
+176,Elch::N,lós,elgur
+177,Fuchs::N,lisíca,refur
+178,Hase::N,zájec,héri
+179,Maus::N,mìš,mús
+180,Wolf::N,vólk,úlfur
+181,Vogel::N,ptìč,fugl
+182,Vogel::N,ptíca,fugl
+183,Schwarm::N,játa,sægur
+184,Huhn::N,kokóš,hæna
+185,Hahn::N,petêlin,hani
+186,Gans::N,gós,gæs
+187,Adler::N,ôrel,örn
+188,Ente::N,ráca,önd
+189,Eule::N,sôva,uggla
+190,Kranich::N,žerjàv,trana
+191,Krähe::N,vrána,kráka
+192,Kuckuck::N,kúkavica,gaukur
+193,Schwan::N,labód,svanur
+194,Fisch::N,ríba,fiskur
+195,Barsch::N,ostríž,aborri
+196,Hecht::N,ščúka,gedda
+197,Schlange[Tier]::N,káča,naðra
+198,Wurm::N,čr̀v,ormur
+199,Wurm::N,glísta,ormur
+200,Spinne::N,pájek,kónguló
+201,Ameise::N,mrávlja,maur
+202,Laus::N,úš,lús
+203,Mücke::N,komár,mý
+204,Mücke::N,komár,mýfluga
+205,Fliege::N,múha,fluga
+206,Schmetterling::N,metúlj,fiðrildi
+207,Beere::N,jágoda,ber
+208,Apfel::N,jábolko,epli
+209,Pilz::N,góba,sveppur
+210,Zwiebel::N,čebúla,laukur
+211,Saat::N,séme,fræ
+212,Saat::N,séme,útsæði
+213,Korn::N,zŕno,korn
+214,Heu::N,senó,hey
+215,Schale::N,lupína,hýði
+216,Grube::N,jáma,gryfja
+217,Falle::N,pást,gildra
+218,Schlinge::N,zánka,snara
+219,Schlinge::N,pêtlja,snara
+220,Spur::N,sléd,spor
+221,Asche::N,pepél,aska
+222,Dreck::N,bláto,óþverri
+223,Eisen::N,želézo,járn
+224,Gold::N,zlató,gull
+225,Silber::N,srebró,silfur
+226,Kohle::N,ógel,kol
+227,Glas::N,stêklo,gler
+228,Lehm::N,ílo,leir
+229,Sand::N,pések,sandur
+230,Mensch::N,člôvek,maður
+231,Mensch::N,člôvek,manneskja
+232,Mann::N,móž,maður
+233,Mann::N,móž,karlmaður
+234,Mann::N,môški,maður
+235,Mann::N,môški,karlmaður
+236,Frau::N,gospá,kona
+237,Frau::N,žénska,kona
+238,Kind::N,déte,barn
+239,Kind::N,déte,krakki
+240,Kind::N,otròk,barn
+241,Kind::N,otròk,krakki
+242,Junge::N,fànt,drengur
+243,Junge::N,déček,drengur
+244,Mädchen::N,deklè,stelpa
+245,Mädchen::N,déklica,stelpa
+246,Familie::N,družína,fjölskylda
+247,Großvater::N,dèd,afi
+248,Großvater::N,dédek,afi
+249,Großmutter::N,bábica,amma
+250,Eltern::N,stárši,foreldrar
+251,Vater::N,ôče,faðir
+252,Mutter::N,máma,móðir
+253,Sohn::N,sín,sonur
+254,Tochter::N,hčí,dóttir
+255,Tochter::N,hčérka,dóttir
+256,Bruder::N,bràt,bróðir
+257,Schwester::N,sêstra,systir
+258,Onkel::N,újec,föðurbróðir
+259,Onkel::N,stríc,föðurbróðir
+260,Tante::N,têta,frænka
+261,Tante::N,têta,móðursystir
+262,Tante::N,strína,frænka
+263,Tante::N,strína,móðursystir
+264,Ehemann::N,móž,eiginmaður
+265,Ehemann::N,sopróg,eiginmaður
+266,Ehefrau::N,žêna,eiginkona
+267,Ehefrau::N,sopróga,eiginkona
+268,Freude::N,rádost,gleði
+269,Freude::N,vesêlje,gleði
+270,Gelächter::N,sméh,hlátur
+271,Gelächter::N,grohòt,hlátur
+272,Glück::N,sréča,gæfa
+273,Kummer::N,gorjé,sorg
+274,Wunsch::N,žêlja,ósk
+275,Lust::N,poželênje,fýsn
+276,Lust::N,poželênje,löngun
+277,Geist::N,dúša,andi
+278,Gedanke::N,mísel,hugsun
+279,Gedächtnis::N,pámet,minni
+280,Sinn::N,pomèn,merking
+281,Sinn::N,smísel,merking
+282,Grund::N,vzròk,ástæða
+283,Wahrheit::N,resníca,sannleikur
+284,Gespräch::N,pogóvor,samtal
+285,Märchen::N,právljica,ævintýri
+286,Erzählung::N,povést,saga
+287,Nachricht::N,sporočílo,frétt
+288,Neuigkeit::N,novóst,frétt
+289,Name::N,imé,nafn
+290,Rätsel::N,ugánka,gáta
+291,Rede::N,góvor,ræða
+292,Sprache::N,jêzik,mál
+293,Sprache::N,jêzik,tungumál
+294,Stimme::N,glás,rödd
+295,Wort::N,beséda,orð
+296,Zeichen::N,znák,tákn
+297,Zeichen::N,znák,merki
+298,Ruf::N,klíc,kall
+299,Lärm::N,hrúp,hávaði
+300,Lärm::N,trúšč,hávaði
+301,Laut::N,glás,hljóð
+302,Ton::N,tón,tónn
+303,Lied::N,pésem,ljóð
+304,Lied::N,pésem,söngur
+305,Ruhe::N,pokòj,ró
+306,Ruhe::N,pokòj,kyrrð
+307,Leute::N,ljudjé,fólk
+308,Volk::N,národ,þjóð
+309,Arbeit::N,délo,vinna
+310,Gast::N,gòst,gestur
+311,Geschenk::N,darílo,gjöf
+312,Spiel::N,ígra,leikur
+313,Gesellschaft::N,drúžba,selskapur
+314,Hilfe::N,pomóč,hjálp
+315,Freund::N,prijátelj,vinur
+316,Kamerad::N,továriš,félagi
+317,Angelegenheit::N,zadéva,mál
+318,Angelegenheit::N,zadéva,málefni
+319,Anzahl::N,števílo,tala
+320,Anzahl::N,števílo,fjöldi
+321,Art::N,vŕsta,tegund
+322,Stück::N,kós,biti
+323,Stück::N,kós,stykki
+324,Teil::N,dél,hluti
+325,Teil::N,dél,partur
+326,Hälfte::N,polovíca,helmingur
+327,Kreis::N,króg,hringur
+328,Kreis::N,kolobár,hringur
+329,Kreuz::N,kríž,kross
+330,Kreuz::N,kríž,krossmark
+331,Linie::N,próga,lína
+332,Strich::N,čŕta,strik
+333,Abstand::N,preslédek,millibil
+334,Entfernung::N,oddáljenost,fjarlægð
+335,Gegend::N,kràj,hérað
+336,Gegend::N,dežêla,hérað
+337,Platz::N,prôstor,pláss
+338,Ort::N,mésto,staður
+339,Seite::N,bòk,hlið
+340,Seite::N,strán,hlið
+341,Mitte::N,sredína,miðja
+342,Gegenstand::N,prédmet,hlutur
+343,Sache::N,réč,mál
+344,Sache::N,stvár,mál
+345,Rand::N,kràj,brún
+346,Kante::N,rób,rönd
+347,Ecke::N,vogál,horn
+348,Spitze::N,óst,oddur
+349,Ende::N,kônec,endi
+350,Loch::N,lúknja,gat
+351,Loch::N,lúknja,hola
+352,Winkel::N,kót,skot
+353,Winkel::N,kót,krókur
+354,Muster::N,vzórec,munstur
+355,Größe::N,veličína,stærð
+356,Länge::N,dolžína,lengd
+357,Höhe::N,vršína,hæð
+358,Gewicht::N,téža,vigt
+359,Gewicht::N,téža,þyngd
+360,Menge::N,količína,magn
+361,Haufen::N,kùp,hrúga
+362,Haufen::N,kùp,haugur
+363,Haufen::N,kopíca,hrúga
+364,Haufen::N,kopíca,haugur
+365,Reihe::N,níz,röð
+366,Reihe::N,vŕsta,röð
+367,Boot::N,čóln,bátur
+368,Ruder::N,vêslo,ár
+369,Schlitten::N,saní,sleði
+370,Ski::N,smučí,skíði
+371,Lagerfeuer::N,táborni ôgenj,varðeldur
+372,Last::N,tôvor,byrði
+373,Last::N,tôvor,farmur
+374,Gang::N,hòd,ganga
+375,Schritt::N,korák,skref
+376,Norden::N,séver,norður
+377,Süden::N,júg,suður
+378,Westen::N,zapàd,vestur
+379,Osten::N,vzhòd,austur
+380,Holz::N,lés,viður
+381,Brett::N,deskà,fjöl
+382,Platte::N,plôča,flötur
+383,Stütze::N,opóra,stoð
+384,Stütze::N,zaslómba,stoð
+385,Stange::N,gréd,stöng
+386,Stock::N,pálica,prik
+387,Stock::N,pálica,stafur
+388,Stab::N,pálica,prik
+389,Stab::N,pálica,stafur
+390,Rohr::N,cév,rör
+391,Rohr::N,cév,pípa
+392,Haus::N,híša,hús
+393,Heim::N,dóm,heimili
+394,Ofen::N,péč,ofn
+395,Fußboden::N,pòd,gólf
+396,Tisch::N,míza,borð
+397,Stuhl::N,stòl,stóll
+398,Wiege::N,zíbel,vagga
+399,Bett::N,póstelja,rúm
+400,Bett::N,póstelja,hvíla
+401,Regal::N,políca,hilla
+402,Kiste::N,zabòj,kassi
+403,Fenster::N,ôkno,gluggi
+404,Tür::N,vráta,dyr
+405,Tür::N,vráta,hurð
+406,Tor::N,velíka vráta,hlið
+407,Zaun::N,ográja,girðing
+408,Zaun::N,ográja,limgarður
+409,Dach::N,stréha,þak
+410,Leiter::N,léstev,stigi
+411,Besen::N,mêtla,sópur
+412,Spaten::N,lopáta,spaði
+413,Schaufel::N,lopáta,skófla
+414,Gabel::N,vílice,gaffall
+415,Löffel::N,žlíca,skeið
+416,Messer::N,nòž,hnífur
+417,Nagel::N,žebèlj,nögl
+418,Netz::N,mréža,net
+419,Haken::N,kljúka,krókur
+420,Griff::N,ročáj,tak
+421,Griff::N,oprijèm,tak
+422,Schloss::N,ključávnica,lás
+423,Bild::N,slíka,mynd
+424,Figur::N,figúra,stytta
+425,Figur::N,postáva,stytta
+426,Puppe::N,lútka,brúða
+427,Beutel::N,môšnja,poki
+428,Beutel::N,môšnja,baggi
+429,Bündel::N,cúla,böggull
+430,Bündel::N,svéženj,böggull
+431,Tasche::N,tórba,veski
+432,Tasche::N,tobôlec,veski
+433,Eimer::N,vêdro,fata
+434,Deckel::N,pokròv,lok
+435,Deckel::N,poklópec,lok
+436,Geschirr::N,posóda,leirtau
+437,Sack::N,vréča,sekkur
+438,Tasse::N,skodélica,bolli
+439,Topf::N,lônec,pottur
+440,Kessel::N,kôtel,ketill
+441,Essen::N,hrána,matur
+442,Nahrung::N,živílo,fæða
+443,Speise::N,jéd,réttur
+444,Speise::N,jéd,matarréttur
+445,Fleisch::N,mesó,kjöt
+446,Getreide::N,žíto,korn
+447,Brei::N,káša,grautur
+448,Brot::N,krùh,brauð
+449,Scheibe::N,réženj,sneið
+450,Fett::N,mást,fita
+451,Fett::N,maščôba,fita
+452,Butter::N,máslo,smjör
+453,Öl::N,ólje,olía
+454,Salz::N,sól,salt
+455,Suppe::N,júha,súpa
+456,Honig::N,méd,hunang
+457,Milch::N,mléko,mjólk
+458,Tee::N,čáj,te
+459,Leder::N,úsnje,skinn
+460,Wolle::N,vólna,ull
+461,Stoff::N,blagó,dúkur
+462,Nadel::N,ígla,nál
+463,Faden::N,nít,þráður
+464,Knopf::N,gúmb,tala
+465,Knopf::N,gúmb,hnappur
+466,Knoten::N,vôzel,hnútur
+467,Farbe::N,bárva,málning
+468,Kleidung::N,obléka,búningur
+469,Kleidung::N,obléka,klæðnaður
+470,Hemd::N,srájca,skyrta
+471,Kragen::N,ovrátnik,kragi
+472,Kragen::N,ovrátnik,flibbi
+473,Ärmel::N,rokáv,ermi
+474,Hose::N,hláče,buxur
+475,Gürtel::N,pás,belti
+476,Mütze::N,kápa,húfa
+477,Mütze::N,čépica,húfa
+478,Schuh::N,čévelj,skór
+479,Stiefel::N,škórenj,stígvél
+480,Ring::N,pŕstan,hringur
+481,Band::N,trák,band
+482,Kamm::N,glavník,greiða
+483,Spiegel::N,zrcálo,spegill
+484,Spiegel::N,ogledálo,spegill
+485,Riemen::N,jêrmen,ól
+486,Riemen::N,jêrmen,reim
+487,Schnur::N,vŕvca,snúra
+488,Leine::N,konôpec,band
+489,Decke::N,odéja,teppi
+490,Kissen::N,blazína,koddi
+491,Tuch::N,pŕt,klútur
+492,Tuch::N,rúta,klútur
+493,Handtuch::N,brisáča,þurrka
+494,Handtuch::N,brisáča,handklæði
+495,Kraft::N,síla,afl
+496,Kraft::N,síla,kraftur
+497,Stärke::N,jákost,styrkur
+498,Gesundheit::N,zdrávje,heilsa
+499,Gesundheit::N,zdrávje,heilbrigði
+500,Krankheit::N,bolézen,sjúkdómur
+501,Schmerz::N,ból,sársauki
+502,Schmerz::N,bolečína,sársauki
+503,Wunde::N,rána,sár
+504,Fieber::N,vročína,hitasótt
+505,Arznei::N,lék,lyf
+506,Arznei::N,zdravílo,lyf
+507,Brücke::N,móst,brú
+508,Brunnen::N,vodnják,brunnur
+509,Weide::N,páša,hagi
+510,Pfad::N,stezà,stígur
+511,Weg::N,pót,vegur
+512,Straße::N,césta,gata
+513,Straße::N,césta,stræti
+514,Dorf::N,vás,þorp
+515,Stadt::N,mésto,borg
+516,Brief::N,písmo,bréf
+517,Buch::N,knjíga,bók
+518,Buchstabe::N,čŕka,bókstafur
+519,Zeitung::N,čásnik,dagblað
+520,Leben::N,življênje,líf
+521,Tod::N,smŕt,dauði
+522,Grab::N,gròb,gröf
+523,Kirche::N,cérkev,kirkja
+524,Sünde::N,gréh,synd
+525,Gott::N,bóg,guð
+526,Arbeiter::N,délavec,verkamaður
+527,Chef::N,šéf,yfirmaður
+528,Meister::N,mójster,meistari
+529,Arzt::N,zdravník,læknir
+530,Lehrer::N,učítelj,kennari
+531,Geld::N,denár,peningar
+532,Geschäft::N,kupčíja,viðskipti
+533,Laden::N,trgovína,búð
+534,Laden::N,trgovína,verslun
+535,Preis::N,céna,verð
+536,Ware::N,róba,vara
+537,Nutzen::N,príd,gagn
+538,Reichtum::N,bogástvo,auður
+539,Welt::N,svét,veröld
+540,Land::N,dežêla,land
+541,Staat::N,držáva,ríki
+542,König::N,králj,konungur
+543,Macht::N,oblást,vald
+544,Grenze::N,mêja,landamæri
+545,Krieg::N,vôjna,stríð
+546,Feind::N,sovrážnik,fjandmaður
+547,Gewalt::N,nasílje,ofbeldi
+548,Kampf::N,bòj,bardagi
+549,Kampf::N,bórba,bardagi
+550,Bogen[Waffe]::N,lók,bogi
+551,Pfeil::N,puščíca,ör
+552,Gewehr::N,púška,byssa
+553,Fehler::N,zmóta,villa
+554,Lüge::N,láž,lygi
+555,Schaden::N,okvára,skemmd
+556,Unglück::N,nesréča,óhamingja
+557,Schuld::N,krívda,sök
+558,Alter::N,dôba,aldur
+559,Schluss::N,kônec,lok
+560,Schluss::N,kônec,endir
+561,Zeit::N,čàs,tími
+562,Tag::N,dán,dagur
+563,Morgen::N,jútro,morgunn
+564,Mittag::N,póldan,hádegi
+565,Abend::N,večér,kvöld
+566,Nacht::N,nóč,nótt
+567,Woche::N,téden,vika
+568,Monat::N,mésec,mánuður
+569,Jahr::N,léto,ár
+570,Frühling::N,pomlád,vor
+571,Sommer::N,polétje,sumar
+572,Herbst::N,jesén,haust
+573,Winter::N,zíma,vetur
+574,Januar::N,jánuar,janúar
+575,Februar::N,fébruar,február
+576,März::N,márec,mars
+577,April::N,apríl,apríl
+578,Mai::N,máj,maí
+579,Juni::N,júnij,júní
+580,Juli::N,júlij,júlí
+581,August::N,avgúst,ágúst
+582,September::N,septêmber,september
+583,Oktober::N,október,október
+584,November::N,novêmber,nóvember
+585,Dezember::N,decémber,desember
+586,Montag::N,ponedéljek,mánudagur
+587,Dienstag::N,tôrek,þriðjudagur
+588,Mittwoch::N,sréda,miðvikudagur
+589,Donnerstag::N,četŕtek,fimmtudagur
+590,Freitag::N,pétek,föstudagur
+591,Samstag::N,sobóta,laugardagur
+592,Sonntag::N,nedélja,sunnudagur
+593,groß::A,vêlik,stór
+594,klein::A,májhen,lítill
+595,lang::A,dólg,langur
+596,kurz::A,krátek,stuttur
+597,breit::A,širòk,breiður
+598,schmal::A,ózek,mjór
+599,dicht::A,góst,þéttur
+600,dick[Gegenstand]::A,dêbel,þykkur
+601,dünn::A,tánek,þunnur
+602,fein::A,drôben,fíngerður
+603,fest::A,tŕden,fastur
+604,flach::A,plán,flatur
+605,flach::A,plòsk,flatur
+606,glatt::A,gládek,háll
+607,glatt::A,gládek,sléttur
+608,hart::A,tŕd,harður
+609,weich::A,mehák,mjúkur
+610,rund::A,okrógel,kringlóttur
+611,spitz::A,šílast,oddhvass
+612,scharf::A,óster,beittur
+613,stumpf::A,tóp,bitlaus
+614,stumpf::A,skŕhan,bitlaus
+615,schwer::A,têžek,þungur
+616,schön::A,lép,fagur
+617,schön::A,lép,fallegur
+618,schön::A,krásen,fagur
+619,schön::A,krásen,fallegur
+620,heiß::A,vròč,heitur
+621,warm::A,tôpel,hlýr
+622,warm::A,tôpel,heitur
+623,kalt::A,mŕzel,kaldur
+624,kalt::A,hláden,kaldur
+625,kühl::A,hláden,svalur
+626,frisch::A,svéž,frískur
+627,feucht::A,vlážen,rakur
+628,feucht::A,vlážen,þvalur
+629,nass::A,móker,votur
+630,nass::A,móker,blautur
+631,trocken::A,súh,þurr
+632,voll::A,póln,fullur
+633,leer::A,prázen,tómur
+634,offen::A,odpŕt,opinn
+635,geschlossen::A,zapŕt,lokaður
+636,sauber::A,číst,þrifinn
+637,sauber::A,líčen,þrifinn
+638,schmutzig::A,umázan,óhreinn
+639,schmutzig::A,umázan,sóðalegur
+640,roh::A,suròv,hrár
+641,reif::A,zrèl,þroskaður
+642,lecker::A,okúsen,ljúffengur
+643,süß::A,sládek,sætur
+644,bitter::A,grenák,beiskur
+645,sauer::A,kísel,súr
+646,hell::A,svetèl,bjartur
+647,dunkel::A,temèn,dimmur
+648,schwarz::A,čŕn,svartur
+649,weiß::A,bél,hvítur
+650,rot::A,rdèč,rauður
+651,gelb::A,žólt,gulur
+652,gelb::A,rumèn,gulur
+653,blau::A,móder,blár
+654,grün::A,zelèn,grænn
+655,grau::A,sív,grár
+656,bunt::A,písan,marglitur
+657,billig::A,pocéni,ódýr
+658,teuer::A,drág,dýr
+659,wertvoll::A,dragocén,verðmætur
+660,blind::A,slép,blindur
+661,taub::A,glúh,heyrnarlaus
+662,kräftig::A,močán,öflugur
+663,stark::A,ják,sterkur
+664,schwach::A,šíbek,veill
+665,fett::A,dêbel,feitur
+666,schlank::A,vítek,grannur
+667,schlank::A,vítek,spengilegur
+668,hübsch::A,lép,snotur
+669,hübsch::A,lép,laglegur
+670,böse::A,zèl,illur
+671,böse::A,zèl,vondur
+672,böse::A,hudôben,illur
+673,böse::A,hudôben,vondur
+674,dumm::A,glúp,heimskur
+675,dumm::A,bédast,heimskur
+676,faul::A,lén,latur
+677,fleißig::A,marljív,iðinn
+678,geizig::A,škŕt,nískur
+679,klug::A,pámeten,hygginn
+680,geschickt::A,spréten,fimur
+681,geschickt::A,spréten,laginn
+682,lieb::A,míl,kær
+683,lieb::A,míl,ljúfur
+684,lieb::A,ljúb,kær
+685,lieb::A,ljúb,ljúfur
+686,lustig::A,vesél,kátur
+687,sanft::A,láhek,blíður
+688,hungrig::A,láčen,soltinn
+689,hungrig::A,láčen,hungraður
+690,krank::A,bolán,sjúkur
+691,nackt::A,nág,nakinn
+692,traurig::A,túžen,dapur
+693,traurig::A,túžen,hryggur
+694,lebendig::A,žív,lifandi
+695,gut::A,dóber,góður
+696,schlecht::A,malopríden,slæmur
+697,schlecht::A,malopríden,lélegur
+698,richtig::A,pravílen,réttur
+699,schlimm::A,húd,slæmur
+700,wahr::A,resníčen,sannur
+701,alt::A,stàr,gamall
+702,neu::A,nòv,nýr
+703,ehemalig::A,nekdánji,fyrrverandi
+704,alt[Lebewesen]::A,stàr,gamall
+705,jung::A,mlád,ungur
+706,arm::A,ubóg,vesall
+707,arm::A,ubóg,fátækur
+708,arm::A,réven,vesall
+709,arm::A,réven,fátækur
+710,reich::A,bogàt,ríkur
+711,reich::A,bogàt,auðugur
+712,bekannt::A,znán,kunnugur
+713,berühmt::A,sláven,frægur
+714,berühmt::A,znamenít,frægur
+715,fremd::A,túj,framandi
+716,fremd::A,túj,ókunnugur
+717,verschieden::A,razlíčen,ýmis
+718,nah::A,blížnji,nálægur
+719,fern::A,dáleč,fjarri
+720,fern::A,dáleč,fjarlægur
+721,linker::A,lévi,vinstri
+722,rechter::A,désni,hægri
+723,anderer::A,drúgi,annar
+724,erster::A,pŕvi,fyrsti
+725,zweiter::A,drúgi,annar
+726,dritter::A,trétji,þriðji
+727,letzter::A,poslédnji,síðasti
+728,allein::ADV,sám,einn
+729,allein::ADV,sám,aleinn
+730,auf einmal::ADV,obênem,allt í einu
+731,zusammen::ADV,skúpaj,saman
+732,lange::ADV,dólgo,lengi
+733,plötzlich::ADV,náglo,skyndilega
+734,plötzlich::ADV,nenádoma,skyndilega
+735,sofort::ADV,prècej,strax
+736,sofort::ADV,prècej,þegar í stað
+737,später::ADV,poznêje,seinna
+738,jetzt::ADV,zdàj,nú
+739,jetzt::ADV,zdàj,núna
+740,heute::ADV,dánes,í dag
+741,morgen::ADV,jútri,á morgun
+742,bald::ADV,kmálu,brátt
+743,bald::ADV,kmálu,bráðum
+744,dann::ADV,nató,svo
+745,dann::ADV,nató,síðan
+746,gestern::ADV,včéraj,í gær
+747,einst::ADV,nékdaj,forðum
+748,damals::ADV,tedàj,þá
+749,damals::ADV,tedàj,á þeim tímum
+750,damals::ADV,takràt,þá
+751,damals::ADV,takràt,á þeim tímum
+752,danach::ADV,potèm,á eftir því
+753,vorher::ADV,poprèj,áður
+754,zuerst::ADV,spŕva,fyrst
+755,einmal::ADV,ênkrat,einu sinni
+756,manchmal::ADV,včásih,stundum
+757,oft::ADV,pogósto,oft
+758,immer::ADV,védno,alltaf
+759,immer::ADV,védno,sífellt
+760,immer::ADV,zméraj,alltaf
+761,immer::ADV,zméraj,sífellt
+762,niemals::ADV,nikdàr,aldrei
+763,hier::ADV,tù,hér
+764,hier::ADV,túkaj,hér
+765,hierhin::ADV,sèmkaj,hingað
+766,von hier::ADV,od tú,héðan
+767,dort::ADV,tàm,þar
+768,dort::ADV,tàm,þarna
+769,dorthin::ADV,tjà,þangað
+770,geradeaus::ADV,rávno napréj,beint áfram
+771,vorwärts::ADV,napréj,áfram
+772,rückwärts::ADV,zádaj,aftur á bak
+773,zurück::ADV,nazáj,aftur
+774,zurück::ADV,nazáj,til baka
+775,unten::ADV,dôli,niðri
+776,unten::ADV,dôli,fyrir neðan
+777,unten::ADV,spôdaj,niðri
+778,unten::ADV,spôdaj,fyrir neðan
+779,hinab::ADV,dôl,niður
+780,hinab::ADV,dôl,niður eftir
+781,oben::ADV,gôri,uppi
+782,oben::ADV,zgôraj,uppi
+783,hinauf::ADV,gôr,upp
+784,hinauf::ADV,gôr,upp eftir
+785,überall::ADV,povsód,alls staðar
+786,nicht::ADV,ne,ekki
+787,ein wenig::ADV,málo,dálítið
+788,kaum::ADV,kómaj,varla
+789,kaum::ADV,kómaj,tæplega
+790,sehr::ADV,zeló,mjög
+791,so::ADV,takó,svo
+792,so::ADV,takó,þannig
+793,noch::ADV,še,enn
+794,noch::ADV,še,ennþá
+795,nur::ADV,samó,bara
+796,nur::ADV,samó,aðeins
+797,schon::ADV,žè,nú þegar
+798,wieder::ADV,spét,aftur
+799,wieder::ADV,spét,að nýju
+800,vergebens::ADV,zamàn,árangurslaust
+801,vergebens::ADV,zastónj,árangurslaust
+802,vor::PRP,pred,fyrir
+803,hinter::PRP,za,bak við
+804,hinter::PRP,za,aftur fyrir
+805,unter::PRP,pod,undir
+806,durch::PRP,skózi,gegnum
+807,neben::PRP,kràj,hjá
+808,neben::PRP,kràj,við hliðina á
+809,neben::PRP,póleg,hjá
+810,neben::PRP,póleg,við hliðina á
+811,zwischen::PRP,med,milli
+812,zwischen::PRP,med,á milli
+813,zwischen::PRP,izmed,milli
+814,zwischen::PRP,izmed,á milli
+815,wegen::PRP,zarádi,vegna
+816,dies::PRN,tó,þetta
+817,das::PRN,tó,það
+818,alles::PRN,vsè,allt
+819,ich::PRN,jàz,ég
+820,du::PRN,tí,þú
+821,er::PRN,òn,hann
+822,wir::PRN,mí,við
+823,ihr::PRN,ví,þið
+824,sie::PRN,ôni,þær
+825,sie::PRN,ôni,þeir
+826,was::FPRN,káj,hvað
+827,wer::FPRN,kdó,hver
+828,wo::FADV,kjé,hvar
+829,wohin::FADV,kám,hvert
+830,wie::FADV,kakó,hvernig
+831,warum::FADV,zakáj,hvers vegna
+832,wieviel::FNUM,kóliko,hve mikill
+833,eins::NUM,êden,einn
+834,zwei::NUM,dvá,tveir
+835,drei::NUM,trí,þrír
+836,vier::NUM,štíri,fjórir
+837,fünf::NUM,pét,fimm
+838,sechs::NUM,šést,sex
+839,sieben::NUM,sédem,sjö
+840,acht::NUM,ósem,átta
+841,neun::NUM,devét,níu
+842,zehn::NUM,desét,tíu
+843,elf::NUM,enájst,ellefu
+844,zwölf::NUM,dvánajst,tólf
+845,zwanzig::NUM,dvájset,tuttugu
+846,dreißig::NUM,trídeset,þrjátíu
+847,vierzig::NUM,štírideset,fjörutíu
+848,fünfzig::NUM,pétdeset,fimmtíu
+849,sechzig::NUM,šéstdeset,sextíu
+850,siebzig::NUM,sédemdeset,sjötíu
+851,achtzig::NUM,ósemdeset,áttatíu
+852,neunzig::NUM,devétdeset,níutíu
+853,hundert::NUM,stó,hundrað
+854,tausend::NUM,tísoč,þúsund
+855,und::CNJ,in,og
+856,oder::CNJ,áli,eða
+857,stehen::V,státi,standa
+858,sitzen::V,sedéti,sitja
+859,liegen::V,ležáti,liggja
+860,hängen::V,viséti,hanga
+861,werden::V,postáti,verða
+862,passieren::V,zgodíti se,gerast
+863,beginnen::V,začéti se,byrja
+864,enden::V,končáti se,enda
+865,enden::V,končáti se,lykta
+866,wechseln::V,ménjati se,skipta
+867,aufgehen[Sonne]::V,vzíti,koma upp
+868,untergehen[Sonne]::V,zaíti,ganga til viðar
+869,scheinen[Sonne]::V,sijáti,skína
+870,donnern::V,grméti,þruma
+871,wehen::V,píhati,blása
+872,strömen::V,líti,streyma
+873,fließen::V,têči,fljóta
+874,sich drehen::V,vrtéti se,snúast
+875,schwanken::V,kolébati,riða
+876,schwanken::V,kolébati,rugga
+877,schwingen::V,níhati,sveiflast
+878,fallen::V,pádati,falla
+879,brennen::V,goréti,brenna
+880,rauchen::V,kadíti se,reykja
+881,regnen::V,deževáti,rigna
+882,gefrieren::V,zmŕzniti,frjósa
+883,tauen::V,tájati,þiðna
+884,schmelzen::V,kopnéti,bráðna
+885,trocknen::V,sušíti se,þorna
+886,sieden::V,kipéti,sjóða
+887,faulen::V,gníti,rotna
+888,verfaulen::V,zgníti,rotna
+889,reißen::V,tŕgati se,rifna
+890,versinken::V,pogrézniti se,sökkva
+891,vergehen::V,miníti,líða
+892,erscheinen::V,pojáviti se,birtast
+893,verschwinden::V,izgíniti,hverfa
+894,sinken::V,péšati,síga
+895,abnehmen::V,pojémati,lækka
+896,abnehmen::V,pojémati,minnka
+897,zunehmen::V,véčati se,aukast
+898,zunehmen::V,množíti se,aukast
+899,steigen::V,dvígati se,stíga
+900,wachsen::V,rásti,vaxa
+901,glänzen::V,sijáti,glóa
+902,glänzen::V,sijáti,glampa
+903,funkeln::V,ískriti se,leiftra
+904,lärmen::V,ropotáti,hafa hátt
+905,lärmen::V,razgrájati,hafa hátt
+906,läuten::V,zvoníti,hringja
+907,klingeln::V,zvončkljáti,hringja
+908,klirren::V,žvenketáti,glamra
+909,klirren::V,žvenketáti,skrölta
+910,brausen::V,šuméti,ólga
+911,rauschen::V,šuštéti,suða
+912,rauschen::V,šelestéti,suða
+913,klingen::V,zvenéti,hljóma
+914,bellen::V,lájati,gelta
+915,heulen::V,zavíjati,væla
+916,heulen::V,zavíjati,ýlfra
+917,blasen::V,píhniti,blása
+918,pfeifen::V,pískati,blístra
+919,pfeifen::V,žvížgati,blístra
+920,schreien::V,kričáti,æpa
+921,stöhnen::V,stókati,stynja
+922,zittern::V,drgetáti,titra
+923,zittern::V,drgetáti,skjálfa
+924,leben::V,živéti,lifa
+925,geboren werden::V,rodíti se,fæðast
+926,atmen::V,díhati,anda
+927,atmen::V,díhati,draga andann
+928,trinken::V,píti,drekka
+929,essen::V,jésti,borða
+930,schlucken::V,požírati,kingja
+931,müde werden::V,péšati,þreytast
+932,müde werden::V,utrúditi se,þreytast
+933,einschlafen::V,zaspáti,sofna
+934,schlafen::V,spáti,sofa
+935,aufwachen::V,zbudíti se,vakna
+936,aufstehen::V,vstáti,fara á fætur
+937,sich erholen::V,oddahníti se,hvíla sig
+938,krank werden::V,oboléti,veikjast
+939,krank werden::V,oboléti,verða veikur
+940,krank sein::V,bíti bolán,vera veikur
+941,schmerzen::V,boléti,kenna til
+942,husten::V,kášljati,hósta
+943,genesen::V,okrévati,batna
+944,genesen::V,okrévati,frískast
+945,sterben::V,umréti,deyja
+946,umkommen::V,pogíniti,farast
+947,sich bewegen::V,zganíti se,bifast
+948,sich rühren::V,premakníti se,hreyfast
+949,sich erheben::V,vstájati,standa upp
+950,sich erheben::V,vzdígniti se,standa upp
+951,sich setzen::V,sésti,setjast
+952,hinfallen::V,pásti dôl,detta
+953,laufen::V,hodíti,labba
+954,schreiten::V,stópati,ganga
+955,spazierengehen::V,na sprehòd íti,ganga sér til skemmtunar
+956,eilen::V,drvéti,fara hratt
+957,sich beeilen::V,hitéti,flýta sér
+958,sausen::V,dírkati,þjóta
+959,rennen::V,dírjati,hlaupa
+960,springen::V,skákati,stökkva
+961,klettern::V,plézati,klifra
+962,schaukeln::V,kolébati,róla
+963,schaukeln::V,kolébati,rugga
+964,kriechen::V,pláziti se,skríða
+965,schwimmen::V,plávati,synda
+966,tauchen::V,potápljati se,kafa
+967,rudern::V,vesláti,róa
+968,fahren::V,vozíti se,aka
+969,fahren::V,vozíti se,fara
+970,fahren::V,peljáti se,aka
+971,fahren::V,peljáti se,fara
+972,fliegen::V,létati,fljúga
+973,gehen::V,íti,fara
+974,gehen::V,íti,ganga
+975,weggehen::V,odíti,fara burt
+976,weggehen::V,odíti,ganga burt
+977,abfahren::V,odpeljáti se,aka burt
+978,anhalten::V,ustáviti se,stöðva
+979,hineingehen::V,íti nóter,ganga inn
+980,eintreten::V,vstopíti,koma inn
+981,eintreten::V,vstopíti,ganga inn
+982,kommen::V,príti,koma
+983,ankommen::V,prispéti,koma til
+984,ankommen::V,prihájati,koma til
+985,zurückkommen::V,vrníti se,koma til baka
+986,bleiben::V,ostáti,haldast
+987,bleiben::V,ostáti,vera kyrr
+988,warten::V,čákati,bíða
+989,erwarten::V,pričakováti,búast við
+990,erwarten::V,pričakováti,eiga von á
+991,suchen::V,iskáti,leita
+992,finden::V,nájti,finna
+993,versuchen::V,poskúšati,reyna
+994,vorbereiten::V,pripráviti,undirbúa
+995,lieben::V,ljubíti,elska
+996,mögen::V,márati,þykja gott
+997,mögen::V,márati,falla í geð
+998,lachen::V,smejáti se,hlæja
+999,rühren::V,ganíti,snerta
+1000,weinen::V,jókati,gráta
+1001,weinen::V,plákati,gráta
+1002,schimpfen::V,psováti,skammast
+1003,schimpfen::V,zmérjati,skammast
+1004,sich ärgern::V,jezíti se,sárna
+1005,sich ärgern::V,jezíti se,gremjast
+1006,sich fürchten::V,báti se,óttast
+1007,fürchten::V,báti se,óttast
+1008,fliehen::V,bežáti,flýja
+1009,flüchten::V,pobégniti,strjúka
+1010,sehen::V,vídeti,sjá
+1011,anschauen::V,oglédati,horfa á
+1012,ansehen::V,glédati,líta á
+1013,hören::V,slíšati,heyra
+1014,zuhören::V,poslúšati,hlusta
+1015,probieren::V,poskúšati,smakka
+1016,riechen::V,dúhati,þefa
+1017,fühlen::V,čutíti,finna til
+1018,scheinen::V,zdéti se,virðast
+1019,zu sehen sein::V,vídeti se,vera að sjá
+1020,vernehmen::V,čúti,heyra
+1021,vernehmen::V,čúti,greina
+1022,frieren::V,zébsti,frjósa
+1023,tun::V,délati,gera
+1024,können::V,môči,geta
+1025,wollen::V,hotéti,ætla
+1026,wollen::V,hotéti,vilja
+1027,anfangen::V,začéti,hefja
+1028,beenden::V,dokončáti,enda
+1029,beenden::V,dokončáti,ljúka
+1030,aufhören::V,prenéhati,lykta
+1031,gelingen::V,uspéti,heppnast
+1032,gelingen::V,posréčiti se,heppnast
+1033,geraten::V,obnêsti se,lukkast
+1034,öffnen::V,odpréti,opna
+1035,schließen::V,zapréti,loka
+1036,stellen::V,postáviti,láta
+1037,stellen::V,postáviti,setja
+1038,setzen::V,posadíti,láta
+1039,setzen::V,posadíti,setja
+1040,legen::V,položíti,láta
+1041,legen::V,položíti,leggja
+1042,berühren::V,dotíkati se,koma við
+1043,verbinden::V,obvézati,sameina
+1044,bedecken::V,pokríti,hylja
+1045,aufhängen::V,obésiti,hengja
+1046,aufhängen::V,obésiti,hengja upp
+1047,anzünden::V,zažgáti,kveikja í
+1048,aufheben::V,vzdígniti,taka upp
+1049,aufheben::V,vzdígniti,lyfta upp
+1050,zurücklassen::V,zapustíti,skilja eftir
+1051,verlieren::V,izgubíti,týna
+1052,verlieren::V,izgubíti,glata
+1053,fallen lassen::V,navréči,missa
+1054,machen::V,naredíti,búa til
+1055,machen::V,napráviti,búa til
+1056,herstellen::V,izdélati,framleiða
+1057,bauen::V,gradíti,smíða
+1058,bauen::V,gradíti,byggja
+1059,reparieren::V,popráviti,gera við
+1060,verbessern::V,izbóljšati,bæta
+1061,ändern::V,spremeníti,breyta
+1062,graben::V,kopáti,grafa
+1063,graben::V,grêbsti,grafa
+1064,beugen::V,upogníti,beygja
+1065,biegen::V,zavíjati,sveigja
+1066,drehen::V,vrtéti,snúa
+1067,wenden::V,obrníti,snúa
+1068,wenden::V,obrníti,venda
+1069,umdrehen::V,zasúkati,venda
+1070,umdrehen::V,zasúkati,snúa við
+1071,heben::V,dvígati,hefja
+1072,hochheben::V,privzdígniti,lyfta upp
+1073,ergreifen::V,zgrábiti,grípa
+1074,halten::V,držáti,rúma
+1075,halten::V,držáti,halda
+1076,drücken::V,tiščáti,þjá
+1077,drücken::V,tiščáti,þrýsta
+1078,schieben::V,ríniti,ýta
+1079,kratzen::V,práskati,klóra
+1080,lecken::V,lízati,sleikja
+1081,beißen::V,grísti,bíta
+1082,abreißen::V,odtŕgati,rífa af
+1083,abreißen::V,odtŕgati,rífa frá
+1084,abschneiden::V,odrézati,skera af
+1085,abschneiden::V,odrézati,klippa af
+1086,binden::V,vézati,binda
+1087,stecken::V,vtakníti,stinga
+1088,brechen::V,lomíti,brjóta
+1089,klopfen::V,tólči,berja
+1090,klopfen::V,tólči,klappa
+1091,hauen::V,séči,berja
+1092,hauen::V,séči,höggva
+1093,kleben::V,lépiti,líma
+1094,reiben::V,tréti,núa
+1095,reiben::V,dŕgniti,núa
+1096,streichen::V,namázati,smyrja
+1097,schleifen::V,brúsiti,slípa
+1098,schneiden::V,rézati,skera
+1099,schneiden::V,rézati,klippa
+1100,rütteln::V,strésti,skaka
+1101,schütteln::V,majáti,hrista
+1102,schwenken::V,obrníti,sveifla
+1103,schütten::V,sípati,hella
+1104,füllen::V,napolníti,fylla
+1105,einwickeln::V,zavíti,vefja inn í
+1106,tragen::V,nêsti,bera
+1107,schleppen::V,vláčiti,draga
+1108,ziehen::V,vléči,toga
+1109,ziehen::V,vléči,draga
+1110,aufbewahren::V,shranjeváti,geyma
+1111,werfen::V,lúčati,kasta
+1112,fangen::V,ujéti,grípa
+1113,packen::V,prijéti,þrífa í
+1114,verstecken::V,skríti,fela
+1115,teilen::V,razdelíti,deila
+1116,schicken::V,pošíljati,senda
+1117,bringen::V,prinêsti,færa
+1118,bringen::V,prinêsti,flytja
+1119,hinzufügen::V,pristáviti,bæta við
+1120,bekommen::V,dobíti,hljóta
+1121,bekommen::V,dobíti,ná
+1122,erhalten::V,prejéti,fá
+1123,nehmen::V,vzéti,taka
+1124,wählen::V,izbírati,velja
+1125,auswählen::V,izbráti,velja úr
+1126,bewahren::V,ohraníti,gæta
+1127,bewahren::V,ohraníti,vernda
+1128,behindern::V,ovírati,varna
+1129,verderben::V,pokváriti,spilla
+1130,beschädigen::V,poškodováti,skemma
+1131,zerbrechen::V,razlomíti,brjóta
+1132,zerreißen::V,raztŕgati,rífa
+1133,zerreißen::V,raztŕgati,rífa sundur
+1134,zerstören::V,razrúšiti,rífa niður
+1135,verbrennen::V,sežgáti,brenna
+1136,geben::V,dáti,gefa
+1137,reichen::V,séči,rétta
+1138,reichen::V,molíti,rétta
+1139,schenken::V,podáriti,gefa
+1140,versprechen::V,obljubíti,lofa
+1141,versprechen::V,obljubíti,heita
+1142,wünschen::V,vóščiti,óska
+1143,loben::V,hváliti,lofa
+1144,loben::V,hváliti,hrósa
+1145,küssen::V,poljubováti,kyssa
+1146,wiegen::V,zíbati,rugga
+1147,zudecken::V,pokríti,þekja
+1148,zudecken::V,pokríti,breiða yfir
+1149,wecken::V,zbudíti,vekja
+1150,zeigen::V,pokázati,sýna
+1151,führen::V,vêsti,leiða
+1152,lehren::V,učíti,kenna
+1153,unterrichten::V,poučeváti,fræða
+1154,aufziehen::V,vzgojíti,ala upp
+1155,leiten::V,uprávljati,stjórna
+1156,antreiben::V,goníti,hvetja
+1157,lassen::V,povzročíti,láta
+1158,einladen::V,povábiti,bjóða heim
+1159,vereinigen::V,zdrúžiti,sameina
+1160,besuchen::V,obiskáti,heimsækja
+1161,treffen::V,pogodíti,hitta
+1162,sich versammeln::V,zbráti se,safnast saman
+1163,spielen::V,igráti se,leika sér
+1164,singen::V,péti,syngja
+1165,tanzen::V,plésati,dansa
+1166,sich trennen::V,ločíti se,skiljast
+1167,verlassen::V,zapustíti,yfirgefa
+1168,retten::V,réšiti,bjarga
+1169,bewachen::V,strážiti,gæta
+1170,bewachen::V,strážiti,hafa vörð á
+1171,schützen::V,sčítiti,vernda
+1172,verteidigen::V,braníti,verja
+1173,sich schlagen::V,têpsti se,slást
+1174,sich schlagen::V,têpsti se,berjast
+1175,schießen::V,stréljati,skjóta
+1176,siegen::V,zmágati,sigra
+1177,ärgern::V,jezíti,ergja
+1178,ärgern::V,jezíti,skaprauna
+1179,ärgern::V,razbúriti,ergja
+1180,ärgern::V,razbúriti,skaprauna
+1181,schlagen::V,têpsti,slá
+1182,schlagen::V,têpsti,lemja
+1183,schlagen::V,udáriti,slá
+1184,schlagen::V,udáriti,lemja
+1185,treten::V,teptáti,sparka
+1186,stechen::V,ubôsti,stinga
+1187,stoßen::V,peháti,hrinda
+1188,stoßen::V,drégniti,hrinda
+1189,stehlen::V,ukrásti,stela
+1190,stehlen::V,pokrásti,stela
+1191,stören::V,motíti,trufla
+1192,belästigen::V,nadlegováti,ónáða
+1193,verbergen::V,skríti,leyna
+1194,täuschen::V,slepíti,gabba
+1195,täuschen::V,slepíti,blekkja
+1196,betrügen::V,várati,svíkja
+1197,betrügen::V,várati,blekkja
+1198,betrügen::V,ogoljufáti,svíkja
+1199,betrügen::V,ogoljufáti,blekkja
+1200,töten::V,ubíti,drepa
+1201,wohnen::V,prebívati,búa
+1202,arbeiten::V,délati,vinna
+1203,sammeln::V,zbráti,safna
+1204,pflücken::V,obráti,tína
+1205,pflücken::V,obráti,reyta
+1206,jagen::V,lovíti,veiða
+1207,fischen::V,ribáriti,fiska
+1208,fassen::V,zajéti,veiða
+1209,hüten::V,pásti,gæta
+1210,hüten::V,pásti,vakta
+1211,treiben::V,pogánjati,reka
+1212,anbinden::V,privézati,binda við
+1213,anbinden::V,privézati,binda fast
+1214,füttern::V,kŕmiti,fóðra
+1215,melken::V,mólsti,mjólka
+1216,hacken::V,sékati,höggva
+1217,gießen::V,ulíti,hella
+1218,reifen::V,zoréti,þroskast
+1219,zubereiten::V,pripráviti,elda
+1220,zubereiten::V,pripráviti,tilbúa
+1221,kochen::V,kúhati,sjóða
+1222,backen::V,cvréti,baka
+1223,braten::V,pêči,steikja
+1224,umrühren::V,preméšati,hræra í
+1225,stricken::V,plêsti,prjóna
+1226,nähen::V,šívati,sauma
+1227,färben::V,bárvati,lita
+1228,reinigen::V,očístiti,hreinsa
+1229,waschen::V,opráti,þvo
+1230,abwischen::V,obrísati,þerra
+1231,spülen::V,splakováti,skola
+1232,spülen::V,splakováti,þvo upp
+1233,fegen::V,pométati,sópa
+1234,fegen::V,pométati,hreinsa
+1235,kehren::V,mésti,sópa
+1236,baden::V,kópati se,baða sig
+1237,sich waschen::V,umíti se,þvo sér
+1238,ausziehen::V,izvléči,fara úr
+1239,anziehen::V,obléči,fara í
+1240,sich anziehen::V,obléči se,klæðast
+1241,kämmen::V,česáti,greiða
+1242,schmücken::V,okrasíti,prýða
+1243,schmücken::V,okrasíti,skreyta
+1244,sagen::V,dejáti,segja
+1245,sprechen::V,govoríti,tala
+1246,reden::V,rêči,ræða
+1247,sich unterhalten::V,razgovárjati se,spjalla
+1248,sich unterhalten::V,razgovárjati se,ræðast við
+1249,fragen::V,vprášati,spyrja
+1250,bitten::V,prosíti,biðja
+1251,erzählen::V,práviti,segja frá
+1252,mitteilen::V,naznániti,tilkynna
+1253,nennen::V,imenováti,nefna
+1254,rufen::V,klícati,kalla
+1255,prahlen::V,baháti se,gorta
+1256,übersetzen::V,prevêsti,þýða
+1257,denken::V,mísliti,hugsa
+1258,glauben::V,verjéti,trúa
+1259,bemerken::V,opáziti,taka eftir
+1260,erkennen::V,spoznáti,þekkja
+1261,begreifen::V,pôjmiti,skilja
+1262,verstehen::V,razuméti,skilja
+1263,lernen::V,učíti se,læra
+1264,wissen::V,znáti,vita
+1265,wissen::V,védeti,vita
+1266,sich erinnern an::V,spómniti se,minnast
+1267,vergessen::V,pozábiti,gleyma
+1268,messen::V,mériti,mæla
+1269,zählen::V,štéti,telja
+1270,rechnen::V,račúnati,reikna
+1271,lesen::V,bráti,lesa
+1272,lesen::V,čítati,lesa
+1273,malen::V,slíkati,mála
+1274,zeichnen::V,rísati,teikna
+1275,schreiben::V,písati,skrifa
+1276,besitzen::V,iméti,hafa
+1277,kaufen::V,kupíti,kaupa
+1278,verkaufen::V,prodáti,selja
+1279,bezahlen::V,pláčati,borga
+1280,zahlen::V,plačeváti,borga
+1281,beherrschen::V,obvládati,hafa á valdi sínu
+1282,ertragen::V,prenêsti,þola
+1283,Verstand::N,,vit

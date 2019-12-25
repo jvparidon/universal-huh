@@ -1,0 +1,1265 @@
+,Concept_ID,az,myv
+0,Auge::N,göz,сельме
+1,Ohr::N,qulaq,пиле
+2,Nase::N,burun,судо
+3,Mund::N,ağız,курго
+4,Zahn::N,diş,пей
+5,Zunge::N,dil,кель
+6,Lippe::N,dodaq,турва
+7,Wange::N,yanaq,чамабока
+8,Wange::N,yanaq,чамаумарь
+9,Gesicht::N,üz,чама
+10,Stirn::N,alın,коня
+11,Haar::N,saç,черь
+12,Schnurrbart::N,bığ,ус
+13,Schnurrbart::N,bığ,муюк
+14,Bart::N,saqqal,сакал
+15,Kinn::N,çənə,уло
+16,Kiefer[Anatomie]::N,çənə,пейпакар
+17,Kiefer[Anatomie]::N,çənə,пейловажа
+18,Kehle::N,boğaz,кирьгапарь
+19,Hals::N,boyun,кирьга
+20,Genick::N,ənsə,човонь
+21,Kopf::N,baş,пря
+22,Rücken::N,bel,копорь
+23,Bauch::N,qarın,пеке
+24,Nabel::N,göbək,почо
+25,Busen::N,məmə,поте
+26,Brust::N,döş,меште
+27,Schulter::N,çiyin,лавтов
+28,Arm::N,qol,кедь
+29,Ellenbogen::N,dirsək,кенерепакарь
+30,Hand::N,əl,кедь
+31,Handfläche::N,ovuc,кедькуншка
+32,Handfläche::N,ovuc,кедьлапушка
+33,Finger::N,barmaq,сур
+34,Fingernagel::N,barmaq dırnağı,кенже
+35,Nagel[Anatomie]::N,dırnak,кенже
+36,Zeh::N,ayaq barmağı,пильге сур
+37,Fuß::N,ayaq,пильге
+38,Ferse::N,daban,кочкаря
+39,Knie::N,diz,эле
+40,Knie::N,diz,эзне
+41,Knie::N,diz,кумажа
+42,Oberschenkel::N,bud,качо
+43,Bein::N,qıç,пильге
+44,Körper::N,əndam,рунго
+45,Haut::N,dəri,киське
+46,Blut::N,qan,верь
+47,Ader::N,damar,сан
+48,Sehne::N,vətər,коське сан
+49,Knochen::N,sümük,пакарь
+50,Gehirn::N,beyin,удем
+51,Herz::N,ürək,седей
+52,Magen::N,mədə,пеке
+53,Leber::N,qara ciyər,максо
+54,Atem::N,nəfəs,лексема
+55,Atem::N,nəfəs,оймень таргсема
+56,Hunger::N,aclıq,вачочи
+57,Träne::N,göz yaşı,селведь
+58,Geschmack::N,tam,тансть
+59,Geschmack::N,ləzzət,тансть
+60,Geruch::N,qoxu,чине
+61,Schlaf::N,yuxu,удома
+62,Traum::N,röya,он
+63,Himmel::N,göy,менель
+64,Himmel::N,səma,менель
+65,Sonne::N,günəş,чи
+66,Mond::N,ay,ков
+67,Stern::N,ulduz,теште
+68,Luft::N,hava,кошт
+69,Wind::N,yel,варма
+70,Wind::N,külək,варма
+71,Welle::N,dalğa,толкун
+72,Wasser::N,su,ведь
+73,Stein::N,daş,кев
+74,Boden::N,yer,мода
+75,Boden::N,zəmin,мода
+76,Erde::N,yer torpaq,мастор
+77,Staub::N,toz,пуль
+78,Rauch::N,tüstü,качамо
+79,Funke::N,qığılcım,сятко
+80,Feuer::N,od,тол
+81,Licht::N,işıq,валдо
+82,Schatten::N,kölgə,сулей
+83,Schatten::N,kölgə,сулейкс
+84,Wetter::N,hava,ушо
+85,Nebel::N,duman,сув
+86,Wolke::N,bulud,пель
+87,Regen::N,yağış,пиземс
+88,Regen::N,yağmur,пиземс
+89,Schnee::N,qar,лов
+90,Eis::N,buz,эй
+91,Frost::N,ayaz,кельме
+92,Kälte::N,soyuq,якшамо
+93,Hitze::N,coşğunluq,пси
+94,Raureif::N,qırov,лекш
+95,Regenbogen::N,göy qurşağı,пурьгинечирьке
+96,Regenbogen::N,göy qurşağı,пурьгинеёнкс
+97,Donner::N,göy gurultusu,пурьгине
+98,Strömung::N,axın,чудема
+99,Strömung::N,axın,чудевкс
+100,Tropfen::N,damcı,петнявкс
+101,Schaum::N,köpük,чов
+102,Schmutz::N,çamır,рудаз
+103,See::N,göl,эрьке
+104,Sumpf::N,bataqlıq,чей
+105,Moor::N,bataqlıq,чей
+106,Wiese::N,çəmən,луга
+107,Wald::N,meşə,вирь
+108,Hügel::N,təpə,губорь
+109,Hügel::N,təpə,пандыне
+110,Anhöhe::N,təpə,губорь
+111,Anhöhe::N,təpə,пандыне
+112,Berg::N,dağ,пандо
+113,Gipfel::N,zirvə,пря
+114,Höhle::N,mağara,пещера
+115,Abhang::N,yamac,пандочама
+116,Quelle::N,bulaq,ушодкс
+117,Bach::N,kiçik çay,чудикерькс
+118,Fluss::N,çay,лей
+119,Ufer::N,kənar,чире
+120,Küste::N,sahil,лейчире
+121,Festland::N,materik,мода
+122,Meer::N,dəniz,моря
+123,Bucht::N,körfəz,усия
+124,Insel::N,ada,усия
+125,Blume::N,çiçək,цеця
+126,Gras::N,ot,тикше
+127,Wurzel::N,kök,юр
+128,Wurzel::N,kök,ундокс
+129,Baum::N,ağac,чувто
+130,Stamm::N,gövdə,рунго
+131,Rinde::N,qabıq,суд
+132,Rinde::N,qabıq,керь
+133,Ast::N,şax,морго
+134,Zweig::N,budaq,тарад
+135,Blatt::N,yarpaq,лопа
+136,Birke::N,tozağacı,килей
+137,Kiefer[Baum]::N,şam,пиче
+138,Weide[Baum]::N,söyüd,каль
+139,Tanne::N,küknar,куз
+140,Horn::N,buynuz,сюро
+141,Feder::N,tük,толга
+142,Feder::N,lələk,толга
+143,Fell::N,xəz,пона
+144,Flügel::N,qanad,сёлмо
+145,Klaue::N,pəncə,кенже
+146,Kralle::N,dırnaq,кенже
+147,Schwanz::N,quyruq,пуло
+148,Ei::N,yumurta,ал
+149,Nest::N,yuva,пизэ
+150,Bau::N,yuva,варя
+151,Bau::N,yuva,пизе
+152,Tier::N,heyvan,ракша
+153,Herde::N,sürü,стада
+154,Kuh::N,inək,скал
+155,Bulle::N,öküz,бука
+156,Pferd::N,at,лишме
+157,Schaf::N,qoyun,реве
+158,Schwein::N,donuz,туво
+159,Hund::N,it,пине
+160,Hund::N,it,киска
+161,Hund::N,köpək,пине
+162,Hund::N,köpək,киска
+163,Katze::N,pişik,псака
+164,Bär::N,ayı,овто
+165,Eichhörnchen::N,dələ,ур
+166,Elch::N,sığın,сярдо
+167,Fuchs::N,tülkü,ривезь
+168,Hase::N,dovşan,нумоло
+169,Maus::N,siçan,чеерь
+170,Wolf::N,qurd,верьгиз
+171,Vogel::N,quş,нармунь
+172,Schwarm::N,sürü,полк
+173,Schwarm::N,sürü,стада
+174,Huhn::N,toyuq,сараз
+175,Hahn::N,xoruz,атякш
+176,Gans::N,qaz,гала
+177,Gans::N,qaz,мацей
+178,Adler::N,qartal,куцькан
+179,Adler::N,qartal,тумоатякш
+180,Adler::N,qaraquş,куцькан
+181,Adler::N,qaraquş,тумоатякш
+182,Ente::N,ördək,яксярго
+183,Eule::N,bayquş,корж
+184,Kranich::N,durna,карго
+185,Krähe::N,qarğa,варака
+186,Kuckuck::N,ququ,куко
+187,Schwan::N,qu quşu,локсей
+188,Fisch::N,balıq,кал
+189,Barsch::N,tar,окунь
+190,Hecht::N,durnabalığı,щука
+191,Schlange[Tier]::N,ilan,гуй
+192,Wurm::N,qurd,сукс
+193,Spinne::N,hörümçək,шанжав
+194,Ameise::N,qarışqa,коткудав
+195,Laus::N,bit,сий
+196,Mücke::N,ağcaqanad,сеське
+197,Fliege::N,milçək,карво
+198,Schmetterling::N,kəpənək,нимиляв
+199,Beere::N,gilə,умарь
+200,Apfel::N,alma,умарь
+201,Pilz::N,göbələk,панго
+202,Zwiebel::N,soğan,чурька
+203,Saat::N,əkin,видьметь
+204,Korn::N,taxıl,сюро
+205,Heu::N,quru ot,тикше
+206,Schale::N,qabıq,кедь
+207,Schale::N,qabıq,ваткавкс
+208,Grube::N,çuxur,латко
+209,Falle::N,tələ,тувор
+210,Falle::N,tələ,кундамка
+211,Falle::N,duzaq,тувор
+212,Falle::N,duzaq,кундамка
+213,Schlinge::N,ilmək,килькш
+214,Spur::N,iz,челькс
+215,Spur::N,iz,пильгеки
+216,Asche::N,kül,кулов
+217,Dreck::N,kir,рудаз
+218,Eisen::N,dəmir,кшни
+219,Gold::N,altun,сырне
+220,Silber::N,gümüş,сия
+221,Kohle::N,kömür,сэдь
+222,Kohle::N,kömür,уголия
+223,Glas::N,şüşə,сулика
+224,Lehm::N,gil,сёвонь
+225,Lehm::N,palçıq,сёвонь
+226,Sand::N,qum,човар
+227,Mensch::N,adam,ломань
+228,Mensch::N,insan,ломань
+229,Mann::N,kişi,аля
+230,Mann::N,kişi,цёраломань
+231,Frau::N,qadın,ава
+232,Kind::N,uşaq,эйкакш
+233,Junge::N,oğlan,цёрыне
+234,Mädchen::N,qız,тейтерне
+235,Familie::N,ailə,семия
+236,Großvater::N,baba,покштя
+237,Großmutter::N,nənə,баба
+238,Eltern::N,valideyn,тетят-ават
+239,Vater::N,ata,тетя
+240,Mutter::N,ana,ава
+241,Sohn::N,oğul,цёра
+242,Tochter::N,qız,тейтерь
+243,Bruder::N,qardaş,леля
+244,Bruder::N,qardaş,ялакс
+245,Schwester::N,bacı,сазор
+246,Onkel::N,əmi,леля
+247,Onkel::N,dayı,леля
+248,Tante::N,bibi,патя
+249,Ehemann::N,ər,мирде
+250,Ehefrau::N,arvad,ни
+251,Freude::N,nəşə,кеняркс
+252,Freude::N,sevinc,кеняркс
+253,Gelächter::N,gülüş,ракамо
+254,Gelächter::N,gülüş,пейдема
+255,Gelächter::N,qəhqəhə,ракамо
+256,Gelächter::N,qəhqəhə,пейдема
+257,Glück::N,səadət,уцяска
+258,Glück::N,xoşbəxtlik,уцяска
+259,Kummer::N,qəm,рискс
+260,Kummer::N,qəm,мелявкс
+261,Kummer::N,kədər,рискс
+262,Kummer::N,kədər,мелявкс
+263,Wunsch::N,arzu,мель
+264,Wunsch::N,arzu,бажамо
+265,Lust::N,həvəs,бажамо
+266,Geist::N,ruh,ойме
+267,Gedanke::N,fikir,мель
+268,Gedanke::N,düşüncə,мель
+269,Gedächtnis::N,xatir,мель
+270,Gedächtnis::N,hafizə,мель
+271,Verstand::N,ağıl,прев
+272,Sinn::N,məna,толк
+273,Sinn::N,məna,смысла
+274,Grund::N,səbəb,тувтал
+275,Wahrheit::N,haqq,видечи
+276,Wahrheit::N,doğruluq,видечи
+277,Gespräch::N,söhbət,кортнема
+278,Gespräch::N,qonuşma,кортнема
+279,Märchen::N,nağıl,ёвкс
+280,Erzählung::N,hekayə,ёвтнема
+281,Nachricht::N,xəbər,куля
+282,Neuigkeit::N,xəbər,куля
+283,Neuigkeit::N,yenilik,куля
+284,Name::N,ad,лем
+285,Rätsel::N,tapmaca,содамоёвкс
+286,Rede::N,nitq,кортамо
+287,Sprache::N,dil,кель
+288,Stimme::N,səs,ваигель
+289,Wort::N,söz,вал
+290,Wort::N,kəlmə,вал
+291,Zeichen::N,nişan,теште
+292,Ruf::N,çığırtı,тердема
+293,Lärm::N,gurultu,шалнома
+294,Laut::N,səs,вайгель
+295,Ton::N,ton,гайнема
+296,Lied::N,mahnı,моро
+297,Ruhe::N,sakitlik,оймамо
+298,Leute::N,xalq,ломанть
+299,Volk::N,millət,народ
+300,Arbeit::N,iş,тев
+301,Arbeit::N,əmək,тев
+302,Gast::N,qonaq,инже
+303,Gast::N,müsafir,инже
+304,Geschenk::N,hədiyyə,казне
+305,Spiel::N,oyun,налксема
+306,Spiel::N,tamaşa,налксема
+307,Gesellschaft::N,cəmiyyet,община
+308,Hilfe::N,kömək,лездамо
+309,Hilfe::N,yardım,лездамо
+310,Freund::N,dost,оя
+311,Freund::N,dost,ялга
+312,Kamerad::N,yoldaş,оя
+313,Kamerad::N,yoldaş,ялга
+314,Angelegenheit::N,iş,тев
+315,Anzahl::N,say,ламоксчи
+316,Art::N,çeşid,вид
+317,Stück::N,dənə,пакш
+318,Stück::N,dənə,пелькс
+319,Stück::N,parça,пакш
+320,Stück::N,parça,пелькс
+321,Teil::N,qisim,часть
+322,Teil::N,qisim,пелькс
+323,Hälfte::N,yarım,пель
+324,Hälfte::N,yarım,пелькс
+325,Kreis::N,dairə,кирькс
+326,Kreuz::N,xaç,крёст
+327,Linie::N,xətt,кикс
+328,Strich::N,cızıq,межа
+329,Abstand::N,məsafə,ютко
+330,Entfernung::N,məsafə,ютко
+331,Entfernung::N,uzaqlıq,ютко
+332,Gegend::N,bölgə,тарка
+333,Gegend::N,bölgə,пертьпелькс
+334,Platz::N,yer,васолкс
+335,Ort::N,yer,тарка
+336,Seite::N,yan,ён
+337,Seite::N,yan,чире
+338,Seite::N,tərəf,ён
+339,Seite::N,tərəf,чире
+340,Mitte::N,orta,куншка
+341,Gegenstand::N,şey,предмет
+342,Sache::N,şey,тев
+343,Sache::N,şey,веща
+344,Rand::N,kənar,пе
+345,Rand::N,kənar,чире
+346,Kante::N,tiyə,ирдез
+347,Kante::N,kənar,ирдез
+348,Ecke::N,bucaq,ужо
+349,Spitze::N,uc,пряне
+350,Spitze::N,uc,пе
+351,Ende::N,son,пе
+352,Ende::N,axır,пе
+353,Loch::N,deşik,варя
+354,Winkel::N,guşə,ужо
+355,Muster::N,ülgü,сёрма
+356,Größe::N,böyüklük,сэрь
+357,Größe::N,böyüklük,покшолма
+358,Länge::N,uzunluq,кувалмо
+359,Höhe::N,yüksəklik,сэрь
+360,Höhe::N,yüksəklik,пандо
+361,Gewicht::N,çəki,сталмо
+362,Gewicht::N,ağırlıq,сталмо
+363,Menge::N,miqdar,лововкс
+364,Haufen::N,yığın,мар
+365,Haufen::N,yığın,валявкс
+366,Reihe::N,səf,ряд
+367,Reihe::N,sıra,ряд
+368,Boot::N,qayıq,венч
+369,Ruder::N,kürək,милё
+370,Schlitten::N,kirşə,нурдт
+371,Ski::N,xizək,сокс
+372,Lagerfeuer::N,düşərgə tonqalı,толбандя
+373,Last::N,yük,сталмо
+374,Last::N,yük,кандома
+375,Gang::N,yeriş,молема
+376,Gang::N,yeriş,якамо
+377,Schritt::N,addım,эскелькс
+378,Norden::N,şimal,якшамо ёнкс
+379,Süden::N,cənub,лембе ёнкс
+380,Westen::N,qərb,чивалгома
+381,Osten::N,şərq,чилисема
+382,Holz::N,ağac,чувто
+383,Holz::N,taxta,чувто
+384,Brett::N,taxta,лаз
+385,Platte::N,lövhə,плита
+386,Stütze::N,dayaq,неже
+387,Stütze::N,dəstək,неже
+388,Stange::N,şüvül,олга
+389,Stock::N,dəyənək,мандо
+390,Stab::N,əsa,олога
+391,Stab::N,şüvül,олога
+392,Rohr::N,boru,турба
+393,Rohr::N,truba,турба
+394,Haus::N,ev,кудо
+395,Heim::N,ev,кудо
+396,Ofen::N,peç,каштомо
+397,Ofen::N,soba,каштомо
+398,Fußboden::N,döşəmə,киякс
+399,Tisch::N,masa,столь
+400,Stuhl::N,stul,стул
+401,Wiege::N,beşik,лавсь
+402,Wiege::N,beşik,нурямот
+403,Bett::N,yataq,ацамо
+404,Regal::N,rəf,лався
+405,Regal::N,rəf,лавсяланго
+406,Kiste::N,yeşik,горобия
+407,Kiste::N,yeşik,сундук
+408,Kiste::N,sandıq,горобия
+409,Kiste::N,sandıq,сундук
+410,Fenster::N,pəncərə,вальма
+411,Tür::N,qapı,кенкш
+412,Tor::N,darvaza,ортат
+413,Zaun::N,çəpər,пирявт
+414,Zaun::N,çəpər,пирвякс
+415,Dach::N,dam,кудопря
+416,Leiter::N,nərdivan,кузтема
+417,Besen::N,süpürgə,тенсть
+418,Spaten::N,kürək,койме
+419,Schaufel::N,kürək,кече
+420,Schaufel::N,kürək,келей койме
+421,Gabel::N,çəngəl,сянгине
+422,Löffel::N,qaşıq,пенч
+423,Messer::N,bıçaq,пеель
+424,Nagel::N,mıx,эске
+425,Netz::N,tor,алтыма
+426,Haken::N,çəngəl,кечказ
+427,Griff::N,qulp,кедне
+428,Griff::N,tutacaq,кедне
+429,Schloss::N,qıfıl,замок
+430,Schloss::N,qıfıl,панжома
+431,Bild::N,rəsm,картина
+432,Figur::N,şəkil,рунго
+433,Figur::N,heykəl,рунго
+434,Puppe::N,kukla,няка
+435,Puppe::N,gəlincik,няка
+436,Beutel::N,kisə,кескав
+437,Beutel::N,torba,кескав
+438,Bündel::N,bağlama,керькс
+439,Tasche::N,çanta,юдма
+440,Eimer::N,vedrə,ведра
+441,Eimer::N,çəllək,ведра
+442,Deckel::N,qapaq,велькс
+443,Geschirr::N,qab-qazan,кедьге
+444,Sack::N,çuval,кескав
+445,Tasse::N,fincan,чакш
+446,Topf::N,qazan,кастрюля
+447,Kessel::N,qazan,котёл
+448,Essen::N,yemək,ярсамо
+449,Nahrung::N,qida,ярсамопель
+450,Speise::N,xörək,ярсамопель
+451,Fleisch::N,ət,сывель
+452,Getreide::N,taxıl,сюро
+453,Brei::N,aş,каша
+454,Brei::N,sıyıq,каша
+455,Brot::N,çörək,кши
+456,Scheibe::N,dilim,кочом
+457,Scheibe::N,dilim,сускомо
+458,Fett::N,yağ,куя
+459,Butter::N,kərə yağı,ой
+460,Öl::N,yağ,ой
+461,Salz::N,duz,сал
+462,Suppe::N,şorba,ям
+463,Honig::N,bal,медь
+464,Milch::N,süd,ловсо
+465,Tee::N,çay,чай
+466,Leder::N,dəri,киське
+467,Wolle::N,yun,пона
+468,Stoff::N,qumaş,коцт
+469,Nadel::N,iynə,салмукс
+470,Faden::N,sap,суре
+471,Knopf::N,düymə,пов
+472,Knoten::N,düyün,сюлмо
+473,Farbe::N,boya,артомапель
+474,Kleidung::N,geyim,оршамот
+475,Hemd::N,köynək,панар
+476,Kragen::N,yaxa,сиве
+477,Ärmel::N,qol,ожа
+478,Hose::N,şalvar,понкст
+479,Gürtel::N,kəmər,каркс
+480,Mütze::N,şapka,чапка
+481,Schuh::N,tufli,туфля
+482,Schuh::N,ayaqqabı,туфля
+483,Stiefel::N,çəkmə,кем
+484,Ring::N,üzük,суркс
+485,Band::N,lent,лента
+486,Kamm::N,daraq,сурсеме
+487,Spiegel::N,güzgü,чавачамо
+488,Riemen::N,qayış,кшнань каркс
+489,Schnur::N,ip,пикс
+490,Leine::N,kəmsik,ведьме
+491,Decke::N,ədyal,вельтямо
+492,Decke::N,yorğan,вельтямо
+493,Kissen::N,yastıq,тодов
+494,Tuch::N,şarf,паця
+495,Tuch::N,kaşne,паця
+496,Handtuch::N,dəsmal,нардамо
+497,Kraft::N,güc,вий
+498,Stärke::N,qüvvət,виевчи
+499,Gesundheit::N,sağlamlıq,шумбрачи
+500,Krankheit::N,xəstəlik,орма
+501,Krankheit::N,xəstəlik,сэредема
+502,Schmerz::N,ağrı,сэредькс
+503,Schmerz::N,sancı,сэредькс
+504,Wunde::N,yara,керявкс
+505,Fieber::N,isitmə,маштыкс
+506,Fieber::N,qızdırma,маштыкс
+507,Arznei::N,ilaç,ормаменькс
+508,Arznei::N,dərman,ормаменькс
+509,Brücke::N,körpü,сэдь
+510,Brücke::N,körpü,мадамо
+511,Brunnen::N,quyu,лисьма
+512,Weide::N,otlaq,ракшань ванома тарка
+513,Pfad::N,cığır,ян
+514,Weg::N,yol,ки
+515,Straße::N,küçə,ки
+516,Dorf::N,kənd,веле
+517,Stadt::N,şəhər,ош
+518,Brief::N,məktub,сёрма
+519,Buch::N,kitab,книга
+520,Buchstabe::N,hərf,буква
+521,Zeitung::N,qəzet,газета
+522,Leben::N,həyat,эрямо
+523,Tod::N,ölüm,кулома
+524,Grab::N,qəbir,калмо
+525,Kirche::N,kilsə,церькова
+526,Sünde::N,günah,чумочи
+527,Gott::N,tanrı,паз
+528,Arbeiter::N,işçi,робочей
+529,Chef::N,şef,прявт
+530,Chef::N,rəis,прявт
+531,Meister::N,usta,кол тевень тенця
+532,Arzt::N,həkim,врач
+533,Arzt::N,doktor,врач
+534,Lehrer::N,müəllim,учитель
+535,Lehrer::N,müəllim,тонавтыця
+536,Geld::N,pul,ярмак
+537,Geschäft::N,ticarət,ладязь тев
+538,Laden::N,dükan,лавка
+539,Preis::N,qiymət,питне
+540,Ware::N,mal,миевкс
+541,Ware::N,mal,рамавкс
+542,Nutzen::N,fayda,паро
+543,Nutzen::N,fayda,лезэ
+544,Reichtum::N,zənginlik,сюпавчи
+545,Welt::N,aləm,мир
+546,Welt::N,aləm,мастор ланго
+547,Welt::N,dünya,мир
+548,Welt::N,dünya,мастор ланго
+549,Land::N,ölkə,мастор
+550,Staat::N,dövlət,государства
+551,König::N,kral,король
+552,König::N,məlik,король
+553,Macht::N,qüdrət,азорксчи
+554,Grenze::N,hüdud,буен тешкс
+555,Grenze::N,sərhət,буен тешкс
+556,Krieg::N,hərb,война
+557,Krieg::N,müharibə,война
+558,Feind::N,düşmən,душман
+559,Gewalt::N,cəbr,нарьгамо
+560,Kampf::N,savaş,тюрема
+561,Bogen[Waffe]::N,yay,нал
+562,Pfeil::N,ox,нал
+563,Gewehr::N,tüfəng,ружия
+564,Gewehr::N,tüfəng,винтовка
+565,Fehler::N,xəta,ильведькс
+566,Fehler::N,xəta,ильведевкс
+567,Lüge::N,yalan,манчема
+568,Lüge::N,yalan,кенгелема
+569,Schaden::N,ziyan,зыян
+570,Unglück::N,bəla,зыян
+571,Schuld::N,təqsir,чумочи
+572,Alter::N,yaş,шка
+573,Schluss::N,son,пе
+574,Zeit::N,vaxt,шка
+575,Zeit::N,vaxt,пинге
+576,Zeit::N,zaman,шка
+577,Zeit::N,zaman,пинге
+578,Tag::N,gün,чи
+579,Morgen::N,sabah,валске
+580,Mittag::N,günorta,чикуншка
+581,Abend::N,axşam,чокшнэ
+582,Nacht::N,gecə,ве
+583,Woche::N,həftə,недля
+584,Monat::N,ay,ков
+585,Jahr::N,il,ие
+586,Frühling::N,yaz,тундо
+587,Frühling::N,bahar,тундо
+588,Sommer::N,yay,кизэ
+589,Herbst::N,payız,сёксь
+590,Winter::N,qış,теле
+591,Januar::N,Janvar,якшамков
+592,Februar::N,Fevral,февраль
+593,März::N,Mart,март
+594,April::N,Aprel,апрель
+595,Mai::N,May,май
+596,Juni::N,İyun,июнь
+597,Juli::N,İyul,июль
+598,August::N,Avqust,август
+599,September::N,Sentyabr,сентября
+600,Oktober::N,Oktyabr,октября
+601,November::N,Noyabr,ноября
+602,Dezember::N,Dekabr,декабря
+603,Montag::N,bazar ertəsi,пондельник
+604,Dienstag::N,çərşənbə axşamı,овторник
+605,Mittwoch::N,çərşənbə,серёда
+606,Donnerstag::N,cüme axşamı,цетьверьг
+607,Freitag::N,cüme,пеця
+608,Samstag::N,şənbə,субута
+609,Samstag::N,şənbə,шлямочи
+610,Sonntag::N,bazar,недлячи
+611,groß::A,böyük,ине
+612,groß::A,böyük,покш
+613,klein::A,kiçik,вишка
+614,lang::A,uzun,кувака
+615,kurz::A,qısa,нурькине
+616,breit::A,enli,келей
+617,breit::A,geniş,келей
+618,schmal::A,dar,теине
+619,dicht::A,sıx,тусто
+620,dick[Gegenstand]::A,qalın,эчке
+621,dünn::A,nazik,човине
+622,fein::A,incə,човине
+623,fest::A,bərk,кеме
+624,fest::A,möhkəm,кеме
+625,flach::A,düz,лапужа
+626,glatt::A,hamar,валаня
+627,hart::A,sərt,калгодо
+628,weich::A,yumşaq,чевте
+629,rund::A,yuvarlaq,кеверь
+630,spitz::A,uclu,пшти
+631,spitz::A,sivri,пшти
+632,scharf::A,kəskin,пшти
+633,stumpf::A,küt,ношка
+634,schwer::A,ağır,стака
+635,schön::A,gözəl,мазый
+636,schön::A,gəşəng,мазый
+637,heiß::A,isti,пси
+638,warm::A,ilıq,лембе
+639,kalt::A,soyuq,якшамо
+640,kühl::A,sərin,экше
+641,frisch::A,təzə,свежа
+642,feucht::A,nəm,летьке
+643,nass::A,yaş,начко
+644,trocken::A,quru,коське
+645,voll::A,dolu,пешксе
+646,leer::A,boş,чаво
+647,offen::A,açıq,панжадо
+648,offen::A,açıq,виде
+649,geschlossen::A,qapalı,пекстазь
+650,geschlossen::A,qapalı,сёлгозь
+651,sauber::A,təmiz,ванькс
+652,schmutzig::A,kirli,ливезев
+653,roh::A,çiy,верек
+654,reif::A,yetişmiş,кенерезь
+655,lecker::A,dadlı,тантей
+656,lecker::A,ləzzətli,тантей
+657,süß::A,şirin,ламбамо
+658,bitter::A,acı,сэпей
+659,sauer::A,turş,чапамо
+660,hell::A,aydın,валдо
+661,dunkel::A,qaranlıq,чопода
+662,schwarz::A,qara,раужо
+663,weiß::A,ağ,ашо
+664,rot::A,qırmızı,якстере
+665,gelb::A,sarı,ожо
+666,blau::A,göy,сэнь
+667,blau::A,mavi,сэнь
+668,grün::A,yaşıl,пиже
+669,grau::A,boz,шержев
+670,bunt::A,əlvan,сёрмав
+671,bunt::A,rəngli,сёрмав
+672,billig::A,ucuz,аволь питней
+673,teuer::A,bahalı,питней
+674,wertvoll::A,qiymətli,питней
+675,blind::A,kor,сокор
+676,taub::A,kar,амариця
+677,kräftig::A,güclü,пек виев
+678,stark::A,qüvvətli,виев
+679,schwach::A,zəif,лавшо
+680,schwach::A,gücsüz,лавшо
+681,fett::A,şişman,куя
+682,schlank::A,zərif,виде ронга
+683,hübsch::A,göyçək,мазый
+684,böse::A,fəna,кежей
+685,dumm::A,axmaq,чавола
+686,dumm::A,axmaq,превтеме
+687,faul::A,tənbəl,нузякс
+688,fleißig::A,çalışqan,мелень путыця
+689,geizig::A,xəsis,скупой
+690,klug::A,ağıllı,превей
+691,geschickt::A,bacarıqlı,маштозь теезь
+692,lieb::A,əziz,вадря
+693,lieb::A,sevimli,вадря
+694,lustig::A,məzəli,весёла
+695,lustig::A,gülməli,весёла
+696,sanft::A,mülayim,сэтьме
+697,hungrig::A,ac,вачо
+698,krank::A,xəstə,сэредиця
+699,nackt::A,çılpaq,штапо
+700,traurig::A,qəmgin,нусманя
+701,traurig::A,kədərli,нусманя
+702,lebendig::A,canlı,эриця
+703,gut::A,yaxşı,паро
+704,schlecht::A,pis,берянь
+705,richtig::A,doğru,виде
+706,schlimm::A,fəna,берянь
+707,wahr::A,gərçək,алкуксонь
+708,alt::A,əski,ташто
+709,alt::A,köhnə,ташто
+710,neu::A,yeni,од
+711,ehemalig::A,əvvəlki,икелень
+712,alt[Lebewesen]::A,qoca,сыре
+713,jung::A,gənc,од
+714,arm::A,kasıb,кажов
+715,arm::A,yoxsul,кажов
+716,reich::A,zəngin,сюпав
+717,bekannt::A,tanış,содавикс
+718,berühmt::A,məşhur,содавикс
+719,fremd::A,yad,лия
+720,fremd::A,yad,асодавикс
+721,verschieden::A,dürlü,эрьва
+722,nah::A,yaxın,а васолонь
+723,fern::A,uzaq,умонь
+724,fern::A,uzaq,кезэрень
+725,linker::A,sol,керш
+726,rechter::A,sağ,вить
+727,anderer::A,başqa,лия
+728,erster::A,birinci,васень
+729,erster::A,birinci,васенце
+730,zweiter::A,ikinci,омбоце
+731,dritter::A,üçüncü,колмоце
+732,letzter::A,sonuncu,меельце
+733,letzter::A,axırıncı,меельце
+734,allein::ADV,tək,башка
+735,allein::ADV,tək,ськамонзо
+736,allein::ADV,yalqız,башка
+737,allein::ADV,yalqız,ськамонзо
+738,auf einmal::ADV,birdən,вейсэ
+739,zusammen::ADV,birlikdə,вейс
+740,zusammen::ADV,birlikdə,вейсэ
+741,lange::ADV,uzun,кувать
+742,plötzlich::ADV,qəfildən,апак учо
+743,sofort::ADV,həmən,курок
+744,sofort::ADV,həmən,нейке
+745,sofort::ADV,dərhal,курок
+746,sofort::ADV,dərhal,нейке
+747,später::ADV,sonra,мейле
+748,jetzt::ADV,indi,ней
+749,heute::ADV,bugün,течи
+750,morgen::ADV,sabah,ванды
+751,bald::ADV,yaxında,курок
+752,bald::ADV,tezliklə,курок
+753,dann::ADV,onda,мейле
+754,dann::ADV,onda,седе мейле
+755,gestern::ADV,dünən,исяк
+756,einst::ADV,əvvəllər,весть
+757,einst::ADV,əvvəllər,зярдо-бути
+758,damals::ADV,o vaxt,сестэ
+759,danach::ADV,sonra,мейле
+760,danach::ADV,sonra,седе мейле
+761,vorher::ADV,qabaqcadan,васняяк
+762,zuerst::ADV,əvvəl,васня
+763,einmal::ADV,bir dəfə,весть
+764,manchmal::ADV,hərdənbir,лиясто
+765,oft::ADV,tez-tez,сеетьстэ
+766,oft::ADV,çox vaxt,сеетьстэ
+767,immer::ADV,daimi,свал
+768,immer::ADV,həmişə,свал
+769,niemals::ADV,əsla,а зярдояк
+770,niemals::ADV,heç bir zaman,а зярдояк
+771,hier::ADV,bura,тесэ
+772,hier::ADV,burada,тесэ
+773,hierhin::ADV,buraya,тей
+774,von hier::ADV,buradan,тестэ
+775,dort::ADV,ora,тосо
+776,dort::ADV,orada,тосо
+777,dorthin::ADV,oraya,тов
+778,geradeaus::ADV,düz,витьстэ
+779,vorwärts::ADV,irəli,икелев
+780,rückwärts::ADV,geri,мекев
+781,zurück::ADV,geriyə,мекев
+782,unten::ADV,aşağıda,ало
+783,hinab::ADV,aşağı,алов
+784,oben::ADV,yuxarıda,вере
+785,hinauf::ADV,yuxarı,верев
+786,überall::ADV,hər yerdə,эрьва косо
+787,nicht::ADV,-ma-,а
+788,ein wenig::ADV,bir az,аламошка
+789,kaum::ADV,güclə,ансяк
+790,sehr::ADV,çox,пек
+791,sehr::ADV,çox,вельть
+792,so::ADV,belə,истя
+793,noch::ADV,hələ,таго
+794,nur::ADV,yalnız,ансяк
+795,schon::ADV,artıq,уш
+796,wieder::ADV,yenə,таго
+797,vergebens::ADV,boş yerə,стяко
+798,vor::PRP,önündə,икеле
+799,hinter::PRP,arxasında,вельде
+800,unter::PRP,altında,ало
+801,durch::PRP,içindən,пачк
+802,neben::PRP,yanında,вакссо
+803,zwischen::PRP,arasında,ютксо
+804,wegen::PRP,üçün,кис
+805,wegen::PRP,üçün,коряс
+806,wegen::PRP,üçün,кувалт
+807,wegen::PRP,ötəri,кис
+808,wegen::PRP,ötəri,коряс
+809,wegen::PRP,ötəri,кувалт
+810,dies::PRN,bu,те
+811,das::PRN,o,те
+812,das::PRN,o,тона
+813,alles::PRN,hər şey,весе
+814,alles::PRN,hər şey,весемесь
+815,ich::PRN,mən,мон
+816,du::PRN,sən,тон
+817,er::PRN,o,сон
+818,wir::PRN,biz,минь
+819,ihr::PRN,siz,тынь
+820,sie::PRN,onlar,сынь
+821,was::FPRN,nə,мезе
+822,wer::FPRN,kim,ки
+823,wo::FADV,harada,косо
+824,wohin::FADV,haraya,ков
+825,wohin::FADV,haraya,козо
+826,wie::FADV,necə,кода
+827,warum::FADV,niyə,мекс
+828,warum::FADV,nə üçün,мекс
+829,wieviel::FNUM,neçə,зяро
+830,wieviel::FNUM,nə qədər,зяро
+831,eins::NUM,bir,вейке
+832,zwei::NUM,iki,кавто
+833,drei::NUM,üç,колмо
+834,vier::NUM,dörd,ниле
+835,fünf::NUM,beş,вете
+836,sechs::NUM,altı,кото
+837,sieben::NUM,yeddi,сисем
+838,acht::NUM,səkkiz,кавксо
+839,neun::NUM,doqquz,вейксэ
+840,zehn::NUM,on,кемень
+841,elf::NUM,on bir,кевейкее
+842,zwölf::NUM,on iki,кемгавтово
+843,zwanzig::NUM,iyirmi,комсь
+844,dreißig::NUM,otuz,колоньгемень
+845,vierzig::NUM,qırx,ниленьгемень
+846,fünfzig::NUM,əlli,ведьгемень
+847,sechzig::NUM,altmış,кодгемень
+848,siebzig::NUM,yetmiş,сизьгемень
+849,achtzig::NUM,səksən,кавксоньгемень
+850,neunzig::NUM,doxsan,вейксэньгемень
+851,hundert::NUM,yüz,сядо
+852,tausend::NUM,min,тыща
+853,und::CNJ,və,ды
+854,oder::CNJ,ya,или
+855,stehen::V,durmaq,аштемс стядо
+856,sitzen::V,oturmaq,аштемс озадо
+857,liegen::V,uzanmaq,мадезь аштемс
+858,hängen::V,asılmaq,нурьгемс
+859,werden::V,olmaq,арамс
+860,passieren::V,olmaq,лисэмс
+861,passieren::V,baş vermək,лисэмс
+862,beginnen::V,başlamaq,ушодомс
+863,enden::V,bitmək,лоткамс
+864,wechseln::V,dəyişmək,полавтнемс
+865,aufgehen[Sonne]::V,doğmaq,лисемс
+866,aufgehen[Sonne]::V,doğmaq,стямс
+867,untergehen[Sonne]::V,batmaq,валгомс
+868,scheinen[Sonne]::V,parlamaq,валдомтомс
+869,donnern::V,guruldamaq,цярномс
+870,donnern::V,guruldamaq,галдордомс
+871,wehen::V,əsmək,пувамс
+872,strömen::V,axmaq,чудемс
+873,fließen::V,axmaq,чудемс
+874,sich drehen::V,dönmək,велямс
+875,schwanken::V,yellənmək,лыкамс
+876,schwanken::V,yellənmək,якамс
+877,schwingen::V,yellənmək,нурсемс
+878,schwingen::V,yellənmək,лыкамс
+879,fallen::V,düşmek,прамс
+880,fallen::V,düşmek,сяворемс
+881,brennen::V,yanmaq,паломс
+882,rauchen::V,tüstüləmək,качадомс
+883,regnen::V,yağmaq,пиземс
+884,gefrieren::V,donmaq,кельмемс
+885,tauen::V,ərimək,соламс
+886,schmelzen::V,ərimək,соламс
+887,trocknen::V,qurumaq,коськемс
+888,sieden::V,qaynamaq,лакамс
+889,sieden::V,qaynamaq,пиксемс
+890,faulen::V,çürümək,наксадомс
+891,verfaulen::V,çürümək,наксадомс
+892,reißen::V,yırtılmaq,сезневемс
+893,versinken::V,batmaq,ваямс
+894,vergehen::V,ötmək,ютамс
+895,erscheinen::V,görünmək,лисемс
+896,verschwinden::V,yox olmaq,ёмамс
+897,sinken::V,enmək,явамс
+898,abnehmen::V,azalmaq,киремемс
+899,zunehmen::V,artmaq,ламолгадомс
+900,zunehmen::V,artmaq,раштамс
+901,steigen::V,yüksəlmək,куземс
+902,steigen::V,yüksəlmək,кепсевемс
+903,wachsen::V,böyümək,касомс
+904,glänzen::V,parlamaq,цитнемс
+905,funkeln::V,parıldamaq,пиндолдомс
+906,funkeln::V,parıldamaq,цивтёрдомс
+907,lärmen::V,səs-küy etmək,шалномс
+908,läuten::V,çalmaq,гайгезевемс
+909,klingeln::V,zəng etmək,чавомс баягас
+910,klirren::V,cingildəmək,калдордомс
+911,klirren::V,cingildəmək,кальцяемс
+912,brausen::V,gurlamaq,лакамс
+913,rauschen::V,xışıldamaq,лажномс
+914,klingen::V,səslənmək,гайгемс
+915,bellen::V,hürmək,онгомс
+916,heulen::V,ulamaq,урномс
+917,blasen::V,üfləmək,пувамс
+918,pfeifen::V,fit vermek,вешкемс
+919,schreien::V,bağırmaq,пижнемс
+920,schreien::V,qışqırmaq,пижнемс
+921,stöhnen::V,inləmək,кувсемс
+922,zittern::V,titrəmək,тарномс
+923,leben::V,yaşamaq,эрямс
+924,geboren werden::V,doğmaq,чачомс
+925,atmen::V,nəfəs almaq,лексемс
+926,trinken::V,içmek,симемс
+927,essen::V,yemək,ярсамс
+928,schlucken::V,udmaq,нилемс
+929,schlucken::V,udmaq,порнемс
+930,müde werden::V,yorulmaq,сиземс
+931,einschlafen::V,yuxuya getmək,матедевемс
+932,schlafen::V,uyumaq,удомс
+933,aufwachen::V,oyanmaq,сыргоземс
+934,aufstehen::V,yuxudan durmaq,стямс
+935,sich erholen::V,dincəlmək,оймсемс
+936,krank werden::V,xəstə olmaq,сэредезевемс
+937,krank sein::V,azarlanmaq,сэредемс
+938,krank sein::V,xəstələnmək,сэредемс
+939,schmerzen::V,ağrimaq,сэредемс
+940,husten::V,öksürmək,козомс
+941,genesen::V,sağalmaq,пичкамс
+942,sterben::V,ölmək,куломс
+943,sterben::V,vəfat etmək,куломс
+944,umkommen::V,həlak olmaq,чавовомс
+945,umkommen::V,həlak olmaq,ёмамс
+946,sich bewegen::V,hərəkət etmək,шаштомс
+947,sich rühren::V,tərpənmək,сыргамс
+948,sich erheben::V,qalxmaq,куземс
+949,sich setzen::V,oturmaq,озамс
+950,hinfallen::V,yıxılmaq,прамс
+951,hinfallen::V,yıxılmaq,сяворемс
+952,laufen::V,yerimək,якамс
+953,schreiten::V,addım atmaq,эскелямс
+954,schreiten::V,addım atmaq,молемс
+955,spazierengehen::V,gəzmək,якамс
+956,eilen::V,atılmaq,эрзкалемс
+957,eilen::V,atılmaq,капшамс
+958,sich beeilen::V,tələsmək,капшамс
+959,sausen::V,çırpmaq,ливтямс
+960,rennen::V,qaçmaq,чийнемс
+961,rennen::V,qaçmaq,ардтнемс
+962,springen::V,sıçramaq,кирнявтнемс
+963,klettern::V,dırmanmaq,куземс
+964,schaukeln::V,sallanmaq,нурямс
+965,kriechen::V,sürünmək,ёзмолдомс
+966,schwimmen::V,üzmek,уемс
+967,tauchen::V,dalmaq,чопавтомс
+968,tauchen::V,dalmaq,чопавтнемс
+969,rudern::V,avarlamaq,миледемс
+970,fahren::V,sürmək,ардомс
+971,fliegen::V,uçmaq,ливтямс
+972,gehen::V,getmək,туемс
+973,gehen::V,getmək,молемс
+974,weggehen::V,getmək,туемс
+975,abfahren::V,yola düşmək,туемс
+976,anhalten::V,saxlamaq,лоткамс
+977,hineingehen::V,girmək,совамс
+978,eintreten::V,girmək,совамс
+979,eintreten::V,girmək,эскельдямс
+980,eintreten::V,daxil olmaq,совамс
+981,eintreten::V,daxil olmaq,эскельдямс
+982,kommen::V,gəlmək,самс
+983,ankommen::V,gəlib çatmaq,самс
+984,ankommen::V,gəlib çatmaq,пачкодемс
+985,zurückkommen::V,qayıtmaq,велявтомс
+986,bleiben::V,qalmaq,кадовомс
+987,warten::V,gözləmək,учомс
+988,erwarten::V,bəkləmək,учомс
+989,suchen::V,aramaq,вешнемс
+990,suchen::V,axtarmaq,вешнемс
+991,finden::V,tapmaq,муемс
+992,versuchen::V,çalışmaq,варштамс
+993,vorbereiten::V,hazırlamaq,анокстамс
+994,lieben::V,sevmək,вечкемс
+995,mögen::V,xoşlamaq,вечкемс
+996,lachen::V,gülmək,пейдемс
+997,rühren::V,həyəcanlandırmaq,токамс седейс
+998,weinen::V,ağlamaq,авардемс
+999,schimpfen::V,küfr etmək,сёвномс
+1000,sich ärgern::V,acıqlanmaq,кежиявтнемс
+1001,sich fürchten::V,qorxmaq,пелемс
+1002,fürchten::V,qorxmaq,пелемс
+1003,fliehen::V,qaçmaq,оргодемс
+1004,flüchten::V,qaçmaq,ворьгодемс
+1005,flüchten::V,qaçmaq,чадомс
+1006,sehen::V,görmək,неемс
+1007,anschauen::V,baxmaq,ваномс
+1008,ansehen::V,baxmaq,ваномс
+1009,hören::V,duymaq,марямс
+1010,hören::V,eşitmək,марямс
+1011,zuhören::V,dinləmək,кунсоломс
+1012,probieren::V,dadına baxmaq,варшамс
+1013,riechen::V,qoxlamaq,никсемс
+1014,fühlen::V,duymaq,марямс
+1015,scheinen::V,görünmək,марявомс
+1016,zu sehen sein::V,görünmək,неявомс
+1017,vernehmen::V,eşitmək,марямс
+1018,frieren::V,üşümək,кельмемс
+1019,tun::V,etmək,теемс
+1020,können::V,bilmək,маштомс
+1021,können::V,bacarmaq,маштомс
+1022,wollen::V,istəmək,бажамс
+1023,anfangen::V,başlamaq,кармамс
+1024,beenden::V,bitirmək,прядомс
+1025,aufhören::V,bitmək,лоткамс
+1026,aufhören::V,qurtarmaq,лоткамс
+1027,gelingen::V,müvəffəq olmaq,удаламс
+1028,geraten::V,düşmək,лисемс
+1029,öffnen::V,açmaq,панжомс
+1030,schließen::V,qapamaq,пекстамс
+1031,schließen::V,qapamaq,сёлгомс
+1032,schließen::V,qapamaq,конямс
+1033,stellen::V,qoymaq,аравтомс
+1034,setzen::V,oturtmaq,ойсевтемс
+1035,setzen::V,oturtmaq,озавтнемс
+1036,legen::V,qoymaq,путомс
+1037,berühren::V,toxunmaq,токамс
+1038,verbinden::V,bağlamaq,содомс
+1039,bedecken::V,örtmək,вельтямс
+1040,aufhängen::V,asmaq,понгавтомс
+1041,anzünden::V,yandırmaq,кирвастемс
+1042,aufheben::V,qaldırmaq,кепедемс
+1043,zurücklassen::V,buraxmaq,кадомс
+1044,verlieren::V,itirmək,ёмавтомс
+1045,fallen lassen::V,düşürmək,правтомс
+1046,machen::V,etmək,теемс
+1047,herstellen::V,istehsal etmək,анокстамс
+1048,bauen::V,tikmək,путомс
+1049,reparieren::V,təmir etmək,витемс
+1050,verbessern::V,düzəltmək,паролгавтомс
+1051,verbessern::V,düzəltmək,вадрялгавтомс
+1052,ändern::V,dəyişdirmək,полавтомс
+1053,graben::V,qazımaq,чувомс
+1054,graben::V,qazımaq,таргамс
+1055,beugen::V,əymək,мендемс
+1056,biegen::V,bükmək,комавтомс
+1057,drehen::V,döndərmək,чаравтомс
+1058,drehen::V,döndərmək,велявтнемс
+1059,wenden::V,çevirmək,велявтомс
+1060,umdrehen::V,çevirmək,велявтомс
+1061,heben::V,qaldırmaq,кепедемс
+1062,hochheben::V,qaldırmaq,кепедемс
+1063,ergreifen::V,tutmaq,кундамс
+1064,halten::V,saxlamaq,кирдемс
+1065,drücken::V,sıxmaq,нуемс
+1066,schieben::V,sürmək,шаштомс
+1067,kratzen::V,qaşımaq,ангордамс
+1068,lecken::V,yalamaq,нолсемс
+1069,beißen::V,dişləmək,сускомс
+1070,abreißen::V,qoparmaq,сеземс
+1071,abschneiden::V,ayırmaq,печкемс
+1072,binden::V,bağlamaq,кодамс
+1073,binden::V,bağlamaq,сюлмамс
+1074,stecken::V,soxmaq,сялгомс
+1075,brechen::V,qırmaq,синдемс
+1076,brechen::V,qırmaq,калавтомс
+1077,klopfen::V,sındırmaq,калтаямс
+1078,hauen::V,vurmaq,чавомс
+1079,kleben::V,apışdırmaq,педявтнемс
+1080,reiben::V,ovmaq,ёзамс
+1081,streichen::V,sürtmək,вадемс
+1082,schleifen::V,bülövləmək,човамс
+1083,schneiden::V,kəsmək,керямс
+1084,rütteln::V,sirkələmək,чукамс
+1085,rütteln::V,sirkələmək,лыкавтомс
+1086,schütteln::V,çalxalamaq,чукамс
+1087,schwenken::V,yelləmək,яхолемс
+1088,schütten::V,tökmək,каямс
+1089,füllen::V,doldurmaq,пештямс
+1090,einwickeln::V,sarımaq,тапарямс
+1091,tragen::V,daşımaq,кандомс
+1092,schleppen::V,sürükləmək,ускомс
+1093,ziehen::V,çəkmək,ускомс
+1094,aufbewahren::V,gizlətmək,ванстомс
+1095,werfen::V,atmaq,ёртомс
+1096,fangen::V,tutmaq,кундамс
+1097,packen::V,yaxalamaq,кундамс
+1098,verstecken::V,gizlətmək,кекшемс
+1099,teilen::V,bölmək,явомс
+1100,schicken::V,yollamaq,кучомс
+1101,schicken::V,göndərmək,кучомс
+1102,bringen::V,gətirmək,кандомс
+1103,hinzufügen::V,əlavə etmək,путомс
+1104,hinzufügen::V,əlavə etmək,максомс
+1105,bekommen::V,almaq,саемс
+1106,bekommen::V,əldə etmək,саемс
+1107,erhalten::V,almaq,саемс
+1108,nehmen::V,almaq,саемс
+1109,wählen::V,seçmək,кочкамс
+1110,auswählen::V,arımaq,кочкамс
+1111,bewahren::V,qorumaq,ванстомс
+1112,behindern::V,mane olmaq,кирдемс
+1113,verderben::V,pozmaq,коламс
+1114,beschädigen::V,zədələmək,теемс зыян
+1115,zerbrechen::V,qırmaq,коламс
+1116,zerbrechen::V,sındırmaq,коламс
+1117,zerreißen::V,yırtmaq,сеземс
+1118,zerstören::V,dağıtmaq,калавтомс
+1119,verbrennen::V,yandırmaq,пултамс
+1120,geben::V,vermək,максомс
+1121,reichen::V,uzatmaq,максомс
+1122,schenken::V,vermək,каземс
+1123,versprechen::V,vəd vermək,алтамс
+1124,wünschen::V,arzulamaq,арсемс
+1125,loben::V,tərifləmək,шнамс
+1126,küssen::V,öpmək,палсемс
+1127,wiegen::V,tərpətmək,нурсемс
+1128,zudecken::V,örtmək,тавадомс
+1129,zudecken::V,örtmək,вельтямс
+1130,wecken::V,oyatmaq,стявтомс
+1131,zeigen::V,göstərmək,невтемс
+1132,führen::V,rəhbərlik etmək,ветямс
+1133,lehren::V,öyrətmək,тонавтомс
+1134,unterrichten::V,öyrətmək,тонавтомс
+1135,unterrichten::V,dərs vermək,тонавтомс
+1136,aufziehen::V,tərbiyə etmək,трямс
+1137,aufziehen::V,tərbiyə etmək,кастомс
+1138,leiten::V,idarə etmək,ветямс
+1139,leiten::V,idarə etmək,азоркстамс
+1140,antreiben::V,bizləmək,ветямс
+1141,lassen::V,-tırmaq,кармавтомс
+1142,einladen::V,dəvət etmək,тердемс
+1143,vereinigen::V,birləşdirmək,вейсэндямс
+1144,vereinigen::V,birləşdirmək,вейс путомс
+1145,vereinigen::V,birləşdirmək,вейс пурнамс
+1146,besuchen::V,baş çəkmək,варштамс
+1147,besuchen::V,ziyarət etmək,варштамс
+1148,treffen::V,rastlaşmaq,вастомс
+1149,treffen::V,rast gəlmək,вастомс
+1150,sich versammeln::V,toplanmaq,промокшномс
+1151,spielen::V,oynamaq,налксемс
+1152,singen::V,oxumaq,морамс
+1153,tanzen::V,oynamaq,киштемс
+1154,tanzen::V,rəqs etmək,киштемс
+1155,sich trennen::V,ayrılmaq,явомс
+1156,verlassen::V,tərk etmək,кадомс
+1157,retten::V,xilas etmək,идемс
+1158,bewachen::V,gözətmək,ванстомс
+1159,schützen::V,qorumaq,аштемс
+1160,verteidigen::V,qorumaq,ваномс
+1161,sich schlagen::V,döyüşmək,тюремс
+1162,schießen::V,atmaq,ледемс
+1163,schießen::V,atəş açmaq,ледемс
+1164,siegen::V,yenmək,изнямс
+1165,ärgern::V,acışdırmaq,кежейгавтомс
+1166,schlagen::V,döymək,токамс
+1167,treten::V,təpmək,тапамс
+1168,stechen::V,soxmaq,пупамс
+1169,stoßen::V,itələmək,тулкадемс
+1170,stehlen::V,çalmaq,саламс
+1171,stehlen::V,oğurlamaq,саламс
+1172,stören::V,pozmaq,пирямс ки
+1173,belästigen::V,narahat etmək,а максомс
+1174,belästigen::V,narahat etmək,а кадомс оймамо
+1175,verbergen::V,gizləmək,сёпомс
+1176,verbergen::V,gizləmək,кекшемс
+1177,täuschen::V,aldatmaq,манямс
+1178,betrügen::V,aldatmaq,манчемс
+1179,töten::V,öldürmək,чавномс
+1180,töten::V,öldürmək,маштнемс
+1181,wohnen::V,yaşamaq,эрямс
+1182,arbeiten::V,işləmək,важодемс
+1183,arbeiten::V,çalışmaq,важодемс
+1184,sammeln::V,yığmaq,пурнамс
+1185,sammeln::V,toplamaq,пурнамс
+1186,pflücken::V,qoparmaq,ноцковтнемс
+1187,jagen::V,ovlamaq,кундамс
+1188,fischen::V,balıq tutmaq,калонь кундамс
+1189,fassen::V,tutmaq,кундамс
+1190,hüten::V,güdmək,ваномс
+1191,treiben::V,haylamaq,панемс
+1192,anbinden::V,bağlamaq,сюлмамс
+1193,füttern::V,bəsləmək,андомс
+1194,melken::V,sağmaq,потявтомс
+1195,hacken::V,yarmaq,лазномс
+1196,gießen::V,sulamaq,валомс
+1197,reifen::V,dəymək,кенеремс
+1198,zubereiten::V,bişirmək,анокстамс
+1199,kochen::V,qaynatmaq,пидемс
+1200,backen::V,bişirmək,пидемс
+1201,braten::V,qızartmaq,пуштамс
+1202,umrühren::V,qarışdırmaq,човорямс
+1203,stricken::V,hörmək,кодамс
+1204,nähen::V,tikmək,стамс
+1205,färben::V,boyamaq,артомс
+1206,reinigen::V,təmizləmək,урядамс
+1207,waschen::V,yumaq,муськемс
+1208,abwischen::V,silmək,нардамс
+1209,spülen::V,çalxamaq,ёрвалдомс
+1210,fegen::V,süpürmək,тенсемс
+1211,kehren::V,süpürmək,тенсемс
+1212,baden::V,çimmək,экшелямс
+1213,sich waschen::V,yuyunmaq,шлямс
+1214,ausziehen::V,soyunmaq,кайсевтемс
+1215,anziehen::V,geymək,оршамс
+1216,sich anziehen::V,geyinmək,оршамс
+1217,kämmen::V,daramaq,судрямс
+1218,schmücken::V,bəzəmək,мазылгавтомс
+1219,schmücken::V,bəzəmək,наряжамс
+1220,sagen::V,demək,меремс
+1221,sagen::V,söymek,меремс
+1222,sprechen::V,danışmaq,кортамс
+1223,reden::V,danışmaq,кортамс
+1224,sich unterhalten::V,söhbət etmək,кортнемс
+1225,fragen::V,soruşmaq,кевкстемс
+1226,bitten::V,diləmək,вешемс
+1227,bitten::V,xahiş etmək,вешемс
+1228,erzählen::V,bəhs etmək,ёвтнемс
+1229,mitteilen::V,bildirmək,ёвтамс
+1230,nennen::V,adlandırmaq,лемдемс
+1231,nennen::V,adlandırmaq,путомс лем
+1232,rufen::V,çağırmaq,тердемс
+1233,rufen::V,çağırmaq,серьгедемс
+1234,prahlen::V,öyünmək,шнамс пря
+1235,übersetzen::V,tərcümə etmək,ютавтомс
+1236,denken::V,düşünmək,арсемс
+1237,denken::V,fikirləşmək,арсемс
+1238,glauben::V,inanmaq,кемемс
+1239,bemerken::V,qeyd etmək,неемс
+1240,erkennen::V,tanımaq,содамс
+1241,begreifen::V,anlamaq,пачкодемс
+1242,verstehen::V,duymaq,чарькодемс
+1243,lernen::V,öyrənmək,тонавтнемс
+1244,wissen::V,bilmək,содамс
+1245,sich erinnern an::V,xatırlamaq,ледстямс
+1246,vergessen::V,unutmaq,стувтомс
+1247,messen::V,ölçmək,онкстнемс
+1248,zählen::V,saymaq,ловомс
+1249,rechnen::V,hesablamaq,ловомс
+1250,lesen::V,oxumaq,ловномс
+1251,malen::V,şəkil çəkmək,рисовамс
+1252,zeichnen::V,cızmaq,рисовамс
+1253,schreiben::V,yazmaq,сёрмадомс
+1254,besitzen::V,yiyələnmək,улемс
+1255,besitzen::V,yiyələnmək,улемс азорокс
+1256,besitzen::V,malik olmaq,улемс
+1257,besitzen::V,malik olmaq,улемс азорокс
+1258,kaufen::V,satın almaq,рамамс
+1259,verkaufen::V,satmaq,миемс
+1260,bezahlen::V,ödəmək,пандомс
+1261,zahlen::V,ödəmək,пандомс
+1262,beherrschen::V,idarə etmək,азоркстамс
+1263,ertragen::V,dözmək,кирдемс

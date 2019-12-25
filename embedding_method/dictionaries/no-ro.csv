@@ -1,0 +1,1424 @@
+,Concept_ID,no,ro
+0,Auge::N,øye,ochi
+1,Ohr::N,øre,ureche
+2,Nase::N,nese,nas
+3,Mund::N,munn,gură
+4,Zahn::N,tann,dinte
+5,Zunge::N,tunge,limbă
+6,Lippe::N,leppe,buză
+7,Wange::N,kinn,bucă
+8,Wange::N,kinn,obraz
+9,Gesicht::N,fjes,față
+10,Gesicht::N,fjes,figură
+11,Gesicht::N,ansikt,față
+12,Gesicht::N,ansikt,figură
+13,Stirn::N,panne,frunte
+14,Haar::N,hår,păr
+15,Schnurrbart::N,bart,mustață
+16,Bart::N,skjegg,barbă
+17,Kinn::N,hake,bărbie
+18,Kiefer[Anatomie]::N,kjeve,falcă
+19,Kehle::N,strupe,beregată
+20,Hals::N,hals,gât
+21,Genick::N,nakke,ceafă
+22,Kopf::N,hode,cap
+23,Rücken::N,rygg,dos
+24,Rücken::N,rygg,spate
+25,Rücken::N,rygg,spinare
+26,Bauch::N,buk,burtă
+27,Bauch::N,buk,pântece
+28,Bauch::N,mage,burtă
+29,Bauch::N,mage,pântece
+30,Nabel::N,navle,buric
+31,Busen::N,barm,sân
+32,Brust::N,bryst,piept
+33,Schulter::N,skulder,umăr
+34,Schulter::N,skulder,spate
+35,Arm::N,arm,braț
+36,Ellenbogen::N,albue,cot
+37,Hand::N,hånd,mână
+38,Handfläche::N,håndflate,palmă
+39,Finger::N,finger,deget
+40,Fingernagel::N,fingernegl,unghie
+41,Nagel[Anatomie]::N,negl,unghie
+42,Zeh::N,tå,deget de la picior
+43,Fuß::N,fot,picior
+44,Ferse::N,hæl,călcâi
+45,Knie::N,kne,genunchi
+46,Oberschenkel::N,lår,coapsă
+47,Bein::N,bein,picior
+48,Körper::N,kropp,corp
+49,Körper::N,legeme,corp
+50,Haut::N,hud,piele
+51,Haut::N,skinn,piele
+52,Blut::N,blod,sânge
+53,Ader::N,åre,vână
+54,Ader::N,åre,arteră
+55,Sehne::N,sene,tendon
+56,Knochen::N,bein,os
+57,Knochen::N,knokkel,os
+58,Gehirn::N,hjerne,creier
+59,Herz::N,hjerte,inimă
+60,Magen::N,mage,stomac
+61,Leber::N,lever,ficat
+62,Atem::N,pust,răsuflare
+63,Atem::N,pust,respirație
+64,Hunger::N,sult,foame
+65,Träne::N,tåre,lacrimă
+66,Geschmack::N,smak,gust
+67,Geruch::N,lukt,miros
+68,Schlaf::N,søvn,somn
+69,Traum::N,drøm,vis
+70,Himmel::N,himmel,cer
+71,Sonne::N,sol,soare
+72,Mond::N,måne,lună
+73,Stern::N,stjerne,stea
+74,Luft::N,luft,aer
+75,Wind::N,vind,vânt
+76,Welle::N,bølge,val
+77,Welle::N,bølge,undă
+78,Wasser::N,vann,apă
+79,Stein::N,stein,piatră
+80,Boden::N,bakke,sol
+81,Boden::N,bakke,pământ
+82,Erde::N,jord,pământ
+83,Staub::N,støv,praf
+84,Rauch::N,røyk,fum
+85,Funke::N,gnist,scânteie
+86,Feuer::N,ild,foc
+87,Licht::N,lys,lumină
+88,Schatten::N,skygge,umbră
+89,Wetter::N,vær,timp
+90,Wetter::N,vær,vreme
+91,Nebel::N,tåke,ceață
+92,Nebel::N,tåke,negură
+93,Wolke::N,sky,nor
+94,Regen::N,regn,ploaie
+95,Schnee::N,snø,zăpadă
+96,Eis::N,is,gheață
+97,Frost::N,frost,ger
+98,Kälte::N,kulde,frig
+99,Hitze::N,hete,arșiță
+100,Hitze::N,hete,căldură
+101,Raureif::N,rimfrost,chiciură
+102,Regenbogen::N,regnbue,curcubeu
+103,Donner::N,torden,tunet
+104,Strömung::N,strømning,curent
+105,Tropfen::N,dråpe,picătură
+106,Schaum::N,skum,spumă
+107,Schmutz::N,søl,murdărie
+108,Schmutz::N,skitt,murdărie
+109,See::N,sjø,lac
+110,Sumpf::N,sump,mlaștină
+111,Sumpf::N,myrlende,mlaștină
+112,Moor::N,myr,bărăgan
+113,Moor::N,myrhei,bărăgan
+114,Wiese::N,eng,fânaț
+115,Wiese::N,eng,livadă
+116,Wald::N,skog,codru
+117,Wald::N,skog,pădure
+118,Hügel::N,haug,deal
+119,Hügel::N,haug,movilă
+120,Hügel::N,bakke,deal
+121,Hügel::N,bakke,movilă
+122,Anhöhe::N,haug,deal
+123,Anhöhe::N,haug,ridicătură
+124,Anhöhe::N,bakke,deal
+125,Anhöhe::N,bakke,ridicătură
+126,Berg::N,berg,munte
+127,Berg::N,fjell,munte
+128,Gipfel::N,topp,pisc
+129,Höhle::N,hule,peșteră
+130,Abhang::N,li,pantă
+131,Abhang::N,li,versant
+132,Abhang::N,skråning,pantă
+133,Abhang::N,skråning,versant
+134,Quelle::N,kilde,izvor
+135,Bach::N,bekk,gârlă
+136,Fluss::N,elv,râu
+137,Fluss::N,elv,fluviu
+138,Ufer::N,bredd,mal
+139,Ufer::N,bredd,țărm
+140,Küste::N,kyst,coastă
+141,Festland::N,fastland,uscat
+142,Meer::N,hav,mare
+143,Bucht::N,bukt,golf
+144,Insel::N,øy,insulă
+145,Blume::N,blomst,floare
+146,Gras::N,gress,iarbă
+147,Wurzel::N,rot,rădăcină
+148,Baum::N,tre,copac
+149,Baum::N,tre,arbore
+150,Stamm::N,stamme,tulpină
+151,Rinde::N,bark,scoarță
+152,Ast::N,gren,cracă
+153,Ast::N,gren,creangă
+154,Zweig::N,kvist,ramură
+155,Zweig::N,kvist,creangă
+156,Blatt::N,blad,frunză
+157,Birke::N,bjørk,mesteacăn
+158,Kiefer[Baum]::N,furu,pin
+159,Weide[Baum]::N,selje,salcie
+160,Weide[Baum]::N,selje,răchită
+161,Weide[Baum]::N,piletre,salcie
+162,Weide[Baum]::N,piletre,răchită
+163,Tanne::N,gran,brad
+164,Horn::N,horn,corn
+165,Feder::N,fjær,pană
+166,Fell::N,skinn,piele
+167,Flügel::N,vinge,aripă
+168,Klaue::N,klauv,gheară
+169,Kralle::N,klo,labă
+170,Kralle::N,klo,gheară
+171,Schwanz::N,hale,coadă
+172,Ei::N,egg,ou
+173,Nest::N,rede,cuib
+174,Bau::N,hi,bârlog
+175,Bau::N,hi,vizuină
+176,Tier::N,dyr,animal
+177,Herde::N,flokk,turmă
+178,Herde::N,flokk,cireadă
+179,Kuh::N,ku,vacă
+180,Bulle::N,tyr,taur
+181,Pferd::N,hest,cal
+182,Schaf::N,får,oaie
+183,Schwein::N,gris,porc
+184,Hund::N,hund,câine
+185,Katze::N,katt,pisică
+186,Bär::N,bjørn,urs
+187,Eichhörnchen::N,ekorn,veveriță
+188,Elch::N,elg,elan
+189,Fuchs::N,rev,vulpe
+190,Hase::N,hare,iepure
+191,Maus::N,mus,șoarece
+192,Wolf::N,ulv,lup
+193,Wolf::N,varg,lup
+194,Vogel::N,fugl,pasăre
+195,Schwarm::N,sverm,cârd
+196,Huhn::N,høne,găină
+197,Hahn::N,hane,cocoș
+198,Gans::N,gås,gâscă
+199,Adler::N,ørn,vultur
+200,Ente::N,and,rață
+201,Eule::N,ugle,bufniță
+202,Kranich::N,trane,cocor
+203,Krähe::N,kråke,cioară
+204,Kuckuck::N,gjøk,cuc
+205,Schwan::N,svane,lebădă
+206,Fisch::N,fisk,pește
+207,Barsch::N,abbor,biban
+208,Hecht::N,gjedde,știucă
+209,Schlange[Tier]::N,orm,șarpe
+210,Schlange[Tier]::N,slange,șarpe
+211,Wurm::N,orm,vierme
+212,Wurm::N,mark,vierme
+213,Spinne::N,edderkopp,păianjen
+214,Ameise::N,maur,furnică
+215,Laus::N,lus,păduche
+216,Mücke::N,mygg,țânțar
+217,Fliege::N,flue,muscă
+218,Schmetterling::N,sommerfugl,fluture
+219,Beere::N,bær,boabă
+220,Apfel::N,eple,măr
+221,Pilz::N,sopp,burete
+222,Pilz::N,sopp,ciupercă
+223,Zwiebel::N,løk,ceapă
+224,Saat::N,sæd,semănătură
+225,Korn::N,korn,grâu
+226,Heu::N,høy,fân
+227,Schale::N,skall,coajă
+228,Grube::N,grop,groapă
+229,Falle::N,felle,cursă
+230,Falle::N,felle,capcană
+231,Schlinge::N,snare,laț
+232,Spur::N,spor,dâră
+233,Asche::N,aske,cenușă
+234,Dreck::N,møkk,noroi
+235,Dreck::N,møkk,murdărie
+236,Dreck::N,skitt,noroi
+237,Dreck::N,skitt,murdărie
+238,Eisen::N,jern,fier
+239,Gold::N,gull,aur
+240,Silber::N,sølv,argint
+241,Kohle::N,kol,cărbune
+242,Kohle::N,kull,cărbune
+243,Glas::N,glass,sticlă
+244,Lehm::N,leire,lut
+245,Lehm::N,leire,humă
+246,Sand::N,sand,nisip
+247,Mensch::N,menneske,om
+248,Mensch::N,menneske,persoană
+249,Mann::N,mann,om
+250,Mann::N,mann,bărbat
+251,Frau::N,kvinne,femeie
+252,Kind::N,barn,copil
+253,Junge::N,gutt,băiat
+254,Junge::N,gutt,flăcău
+255,Mädchen::N,pike,fată
+256,Mädchen::N,jente,fată
+257,Familie::N,familie,familie
+258,Großvater::N,bestefar,bunic
+259,Großvater::N,bestefar,tată mare
+260,Großmutter::N,bestemor,bunică
+261,Großmutter::N,bestemor,mamă mare
+262,Eltern::N,foreldre,părinți
+263,Vater::N,far,tată
+264,Vater::N,far,părinte
+265,Mutter::N,mor,mamă
+266,Sohn::N,sønn,fiu
+267,Sohn::N,sønn,fecior
+268,Tochter::N,datter,fiică
+269,Bruder::N,bror,frate
+270,Schwester::N,søster,soră
+271,Onkel::N,onkel,unchi
+272,Tante::N,tante,mătușă
+273,Ehemann::N,ektemann,soț
+274,Ehemann::N,ektemann,bărbat
+275,Ehefrau::N,hustru,soție
+276,Freude::N,glede,bucurie
+277,Gelächter::N,latter,râset
+278,Glück::N,lykke,fericire
+279,Kummer::N,sorg,mâhnire
+280,Wunsch::N,ønske,dorință
+281,Wunsch::N,ønske,deziderat
+282,Lust::N,lyst,poftă
+283,Lust::N,lyst,înclinare
+284,Geist::N,ånd,duh
+285,Geist::N,ånd,minte
+286,Geist::N,ånd,suflet
+287,Gedanke::N,tanke,gând
+288,Gedanke::N,tanke,cuget
+289,Gedächtnis::N,minne,memorie
+290,Gedächtnis::N,hukommelse,memorie
+291,Verstand::N,forstand,minte
+292,Verstand::N,forstand,intelect
+293,Sinn::N,mening,sens
+294,Sinn::N,mening,înțeles
+295,Sinn::N,betydning,sens
+296,Sinn::N,betydning,înțeles
+297,Grund::N,grunn,cauză
+298,Grund::N,grunn,pricină
+299,Wahrheit::N,sannhet,adevăr
+300,Gespräch::N,samtale,convorbire
+301,Gespräch::N,samtale,conversație
+302,Märchen::N,eventyr,basm
+303,Märchen::N,eventyr,poveste
+304,Erzählung::N,fortelling,poveste
+305,Nachricht::N,melding,veste
+306,Neuigkeit::N,nyhet,noutate
+307,Neuigkeit::N,nyhet,actualitate
+308,Name::N,navn,nume
+309,Rätsel::N,gåte,ghicitoare
+310,Rede::N,tale,discurs
+311,Sprache::N,språk,limbă
+312,Sprache::N,språk,limbaj
+313,Stimme::N,stemme,glas
+314,Wort::N,ord,cuvânt
+315,Zeichen::N,tegn,semn
+316,Zeichen::N,tegn,semnal
+317,Ruf::N,rop,chemare
+318,Lärm::N,bråk,zgomot
+319,Lärm::N,bråk,tărăboi
+320,Laut::N,lyd,sunet
+321,Ton::N,tone,ton
+322,Lied::N,vise,cântec
+323,Ruhe::N,ro,odihnă
+324,Ruhe::N,ro,liniște
+325,Leute::N,folk,lume
+326,Leute::N,folk,oameni
+327,Volk::N,folk,popor
+328,Volk::N,folk,națiune
+329,Arbeit::N,arbeid,lucru
+330,Gast::N,gjest,musafir
+331,Geschenk::N,gave,dar
+332,Geschenk::N,gave,cadou
+333,Spiel::N,lek,joc
+334,Spiel::N,spill,joc
+335,Gesellschaft::N,selskap,societate
+336,Hilfe::N,hjelp,ajutor
+337,Freund::N,venn,amic
+338,Freund::N,venn,prieten
+339,Kamerad::N,kamerat,tovarăș
+340,Angelegenheit::N,sak,afacere
+341,Angelegenheit::N,anliggende,afacere
+342,Anzahl::N,antall,număr
+343,Anzahl::N,antall,cantitate
+344,Art::N,art,fel
+345,Art::N,art,specie
+346,Art::N,slag,fel
+347,Art::N,slag,specie
+348,Stück::N,stykke,bucată
+349,Teil::N,del,parte
+350,Teil::N,del,porție
+351,Hälfte::N,halvdel,jumătate
+352,Kreis::N,ring,cerc
+353,Kreis::N,sirkel,cerc
+354,Kreuz::N,kors,cruce
+355,Kreuz::N,kryss,cruce
+356,Linie::N,linje,linie
+357,Strich::N,strek,linie
+358,Strich::N,strek,trăsătură
+359,Abstand::N,avstand,distanță
+360,Abstand::N,avstand,depărtare
+361,Entfernung::N,avstand,distanță
+362,Entfernung::N,avstand,depărtare
+363,Gegend::N,strøk,regiune
+364,Platz::N,plass,loc
+365,Ort::N,sted,loc
+366,Seite::N,side,latură
+367,Mitte::N,midte,centru
+368,Gegenstand::N,gjenstand,obiect
+369,Sache::N,sak,lucru
+370,Sache::N,sak,chestie
+371,Rand::N,rand,bordură
+372,Kante::N,kant,muchie
+373,Kante::N,kant,bordură
+374,Ecke::N,hjørne,colț
+375,Spitze::N,spiss,vârf
+376,Spitze::N,spiss,creștet
+377,Ende::N,ende,capăt
+378,Loch::N,hull,gaură
+379,Winkel::N,vinkel,colț
+380,Muster::N,mønster,desen
+381,Größe::N,størrelse,mărime
+382,Länge::N,lengde,lungime
+383,Höhe::N,høyde,înălțime
+384,Gewicht::N,vekt,greutate
+385,Menge::N,mengde,cantitate
+386,Haufen::N,haug,grămadă
+387,Haufen::N,bunke,grămadă
+388,Reihe::N,rekke,șir
+389,Reihe::N,rekke,rând
+390,Boot::N,båt,barcă
+391,Boot::N,båt,luntre
+392,Ruder::N,åre,vâslă
+393,Ruder::N,åre,lopată
+394,Schlitten::N,slede,sanie
+395,Schlitten::N,kjelke,sanie
+396,Ski::N,ski,schi
+397,Lagerfeuer::N,leirbål,foc de tabără
+398,Last::N,bør,povară
+399,Last::N,bør,sarcină
+400,Last::N,last,povară
+401,Last::N,last,sarcină
+402,Gang::N,gang,mers
+403,Gang::N,gang,umblet
+404,Schritt::N,steg,pas
+405,Schritt::N,skritt,pas
+406,Norden::N,nord,nord
+407,Norden::N,nord,miazănoapte
+408,Süden::N,sør,sud
+409,Süden::N,sør,miazăzi
+410,Westen::N,vest,apus
+411,Osten::N,øst,est
+412,Osten::N,øst,răsărit
+413,Holz::N,tre,lemn
+414,Brett::N,fjøl,scândură
+415,Brett::N,brett,scândură
+416,Platte::N,plate,placă
+417,Stütze::N,støtte,proptea
+418,Stange::N,stang,bară
+419,Stange::N,stang,prăjină
+420,Stock::N,pinne,băț
+421,Stock::N,pinne,baston
+422,Stab::N,stav,baston
+423,Stab::N,stav,prăjină
+424,Stab::N,kjepp,baston
+425,Stab::N,kjepp,prăjină
+426,Rohr::N,rør,tub
+427,Rohr::N,rør,țeavă
+428,Haus::N,hus,casă
+429,Heim::N,hjem,casă
+430,Heim::N,hjem,cămin
+431,Ofen::N,ovn,sobă
+432,Fußboden::N,gulv,podea
+433,Fußboden::N,gulv,dușumea
+434,Tisch::N,bord,masă
+435,Stuhl::N,stol,scaun
+436,Wiege::N,vogge,leagăn
+437,Bett::N,seng,pat
+438,Regal::N,reol,rafturi
+439,Regal::N,hylle,rafturi
+440,Kiste::N,kasse,ladă
+441,Kiste::N,kasse,cutie
+442,Fenster::N,vindu,fereastră
+443,Tür::N,dør,ușă
+444,Tor::N,port,poartă
+445,Zaun::N,gjerde,gard
+446,Dach::N,tak,acoperiș
+447,Leiter::N,stige,scară
+448,Besen::N,kost,mătură
+449,Spaten::N,spade,cazma
+450,Spaten::N,spade,hârleț
+451,Schaufel::N,skuffe,lopată
+452,Gabel::N,gaffel,furculiță
+453,Löffel::N,skje,lingură
+454,Messer::N,kniv,cuțit
+455,Nagel::N,spiker,cui
+456,Netz::N,nett,plasă
+457,Haken::N,krok,cârlig
+458,Griff::N,tak,mâner
+459,Griff::N,håndtak,mâner
+460,Schloss::N,lås,lacăt
+461,Bild::N,bilde,tablou
+462,Bild::N,bilde,imagine
+463,Figur::N,figur,chip
+464,Figur::N,figur,figură
+465,Puppe::N,dukke,păpușă
+466,Beutel::N,pose,pungă
+467,Beutel::N,pose,săculeț
+468,Bündel::N,bylt,mănunchi
+469,Tasche::N,veske,geantă
+470,Eimer::N,bøtte,găleată
+471,Deckel::N,lokk,capac
+472,Geschirr::N,kjøkkentøy,vase
+473,Geschirr::N,kjøkkentøy,tacâmuri
+474,Sack::N,sekk,sac
+475,Tasse::N,kopp,ceașcă
+476,Topf::N,gryte,oală
+477,Kessel::N,kjele,cazan
+478,Kessel::N,kjele,căldare
+479,Essen::N,mål,mâncare
+480,Nahrung::N,mat,hrană
+481,Nahrung::N,mat,aliment
+482,Nahrung::N,næring,hrană
+483,Nahrung::N,næring,aliment
+484,Speise::N,matrett,bucate
+485,Speise::N,matrett,fel de bucate
+486,Fleisch::N,kjøtt,carne
+487,Getreide::N,korn,cereale
+488,Brei::N,grøt,pireu
+489,Brot::N,brød,pâine
+490,Scheibe::N,skive,felie
+491,Scheibe::N,skive,bucată
+492,Fett::N,fett,untură
+493,Fett::N,fett,grăsime
+494,Butter::N,smør,unt
+495,Öl::N,olje,ulei
+496,Salz::N,salt,sare
+497,Suppe::N,suppe,supă
+498,Suppe::N,suppe,ciorbă
+499,Honig::N,honning,miere
+500,Milch::N,melk,lapte
+501,Tee::N,te,ceai
+502,Leder::N,lær,piele
+503,Leder::N,skinn,piele
+504,Wolle::N,ull,lână
+505,Stoff::N,tøy,stofă
+506,Stoff::N,stoff,stofă
+507,Nadel::N,nål,ac
+508,Faden::N,tråd,ață
+509,Knopf::N,knapp,buton
+510,Knoten::N,knute,nod
+511,Farbe::N,farge,vopsea
+512,Kleidung::N,påkledning,haine
+513,Kleidung::N,påkledning,îmbrăcăminte
+514,Hemd::N,skjorte,cămașă
+515,Kragen::N,krage,guler
+516,Ärmel::N,erme,mânecă
+517,Hose::N,bukse,pantaloni
+518,Gürtel::N,belte,cordon
+519,Mütze::N,lue,șapcă
+520,Schuh::N,sko,gheată
+521,Stiefel::N,støvel,cizmă
+522,Ring::N,ring,inel
+523,Ring::N,ring,verigă
+524,Band::N,band,panglică
+525,Band::N,band,șiret
+526,Kamm::N,kam,pieptene
+527,Spiegel::N,speil,oglindă
+528,Riemen::N,rem,curea
+529,Schnur::N,snor,funie
+530,Schnur::N,snor,sfoară
+531,Leine::N,line,lesă
+532,Leine::N,line,curea
+533,Decke::N,teppe,pătură
+534,Kissen::N,pute,pernă
+535,Tuch::N,tøy,batic
+536,Handtuch::N,håndkle,prosop
+537,Handtuch::N,håndkle,ștergar
+538,Kraft::N,kraft,forță
+539,Kraft::N,kraft,putere
+540,Stärke::N,styrke,tărie
+541,Stärke::N,styrke,vigoare
+542,Gesundheit::N,helse,sănătate
+543,Gesundheit::N,sunnhet,sănătate
+544,Krankheit::N,syke,boală
+545,Krankheit::N,syke,maladie
+546,Krankheit::N,sykdom,boală
+547,Krankheit::N,sykdom,maladie
+548,Schmerz::N,smerte,durere
+549,Wunde::N,sår,rană
+550,Fieber::N,feber,febră
+551,Arznei::N,medisin,leac
+552,Arznei::N,medisin,medicament
+553,Arznei::N,legemiddel,leac
+554,Arznei::N,legemiddel,medicament
+555,Brücke::N,bro,pod
+556,Brücke::N,bro,punte
+557,Brunnen::N,brønn,puț
+558,Weide::N,beite,izlaz
+559,Weide::N,beite,pășune
+560,Pfad::N,sti,cărare
+561,Weg::N,vei,drum
+562,Straße::N,gate,cale
+563,Straße::N,gate,stradă
+564,Dorf::N,landsby,sat
+565,Stadt::N,by,oraș
+566,Brief::N,brev,scrisoare
+567,Buch::N,bok,carte
+568,Buchstabe::N,bokstav,literă
+569,Buchstabe::N,bokstav,caracter
+570,Zeitung::N,avis,ziar
+571,Zeitung::N,avis,gazetă
+572,Leben::N,liv,viață
+573,Tod::N,død,moarte
+574,Grab::N,grav,groapă
+575,Grab::N,grav,mormânt
+576,Kirche::N,kirke,biserică
+577,Sünde::N,synd,păcat
+578,Gott::N,gud,zeu
+579,Arbeiter::N,arbeider,muncitor
+580,Chef::N,sjef,șef
+581,Meister::N,mester,meșter
+582,Meister::N,mester,maestru
+583,Arzt::N,lege,medic
+584,Arzt::N,lege,doctor
+585,Lehrer::N,lærer,profesor
+586,Lehrer::N,lærer,învățător
+587,Geld::N,penger,bani
+588,Geld::N,penger,parale
+589,Geschäft::N,forretning,treabă
+590,Geschäft::N,forretning,afacere
+591,Laden::N,butikk,magazin
+592,Laden::N,butikk,prăvălie
+593,Preis::N,pris,preț
+594,Ware::N,vare,marfă
+595,Nutzen::N,nytte,folos
+596,Nutzen::N,nytte,profit
+597,Reichtum::N,rikdom,avuție
+598,Reichtum::N,rikdom,bogăție
+599,Welt::N,verden,lume
+600,Land::N,land,țară
+601,Staat::N,stat,stat
+602,König::N,konge,rege
+603,Macht::N,makt,putere
+604,Macht::N,makt,putință
+605,Grenze::N,grense,hotar
+606,Grenze::N,grense,graniță
+607,Grenze::N,grense,frontieră
+608,Krieg::N,krig,război
+609,Feind::N,fiende,dușman
+610,Gewalt::N,vold,violență
+611,Kampf::N,kamp,luptă
+612,Bogen[Waffe]::N,bue,arc
+613,Pfeil::N,pil,săgeată
+614,Gewehr::N,gevær,armă
+615,Gewehr::N,gevær,pușcă
+616,Fehler::N,feil,eroare
+617,Fehler::N,feil,greșeală
+618,Lüge::N,løgn,minciună
+619,Schaden::N,skade,daună
+620,Schaden::N,skade,pagubă
+621,Unglück::N,uhell,nenorocire
+622,Schuld::N,skyld,vină
+623,Alter::N,alder,etate
+624,Alter::N,alder,vârstă
+625,Schluss::N,slutt,sfârșit
+626,Zeit::N,tid,timp
+627,Zeit::N,tid,vreme
+628,Tag::N,dag,zi
+629,Morgen::N,morgen,dimineață
+630,Mittag::N,middag,prânz
+631,Mittag::N,middag,amiază
+632,Abend::N,aften,seară
+633,Nacht::N,natt,noapte
+634,Woche::N,uke,săptămână
+635,Monat::N,måned,lună
+636,Jahr::N,år,an
+637,Frühling::N,vår,primăvară
+638,Sommer::N,sommer,vară
+639,Herbst::N,høst,toamnă
+640,Winter::N,vinter,iarnă
+641,Januar::N,januar,ianuarie
+642,Februar::N,februar,februarie
+643,März::N,mars,martie
+644,April::N,april,aprilie
+645,Mai::N,mai,mai
+646,Juni::N,juni,iunie
+647,Juli::N,juli,iulie
+648,August::N,august,august
+649,September::N,september,septembrie
+650,Oktober::N,oktober,octombrie
+651,November::N,november,noiembrie
+652,Dezember::N,desember,decembrie
+653,Montag::N,mandag,luni
+654,Dienstag::N,tirsdag,marți
+655,Mittwoch::N,onsdag,miercuri
+656,Donnerstag::N,torsdag,joi
+657,Freitag::N,fredag,vineri
+658,Samstag::N,lørdag,sâmbătă
+659,Sonntag::N,søndag,duminică
+660,groß::A,stor,mare
+661,klein::A,liten,mic
+662,lang::A,lang,lung
+663,kurz::A,kort,scurt
+664,breit::A,bred,lat
+665,breit::A,bred,larg
+666,schmal::A,smal,strâmt
+667,dicht::A,tett,des
+668,dick[Gegenstand]::A,tykk,gros
+669,dünn::A,tynn,subțire
+670,fein::A,fin,fin
+671,fein::A,fin,subțire
+672,fest::A,fast,tare
+673,fest::A,fast,solid
+674,flach::A,flat,șes
+675,flach::A,flat,plan
+676,glatt::A,glatt,lins
+677,hart::A,hard,dur
+678,weich::A,myk,moale
+679,weich::A,bløt,moale
+680,rund::A,rund,rotund
+681,rund::A,rund,circular
+682,spitz::A,spiss,ascuțit
+683,scharf::A,kvass,tăios
+684,scharf::A,kvass,ascuțit
+685,stumpf::A,stubb,tocit
+686,schwer::A,tung,greu
+687,schön::A,pen,frumos
+688,schön::A,vakker,frumos
+689,heiß::A,het,cald
+690,heiß::A,het,fierbinte
+691,warm::A,varm,cald
+692,warm::A,varm,fierbinte
+693,kalt::A,kald,rece
+694,kühl::A,kjølig,rece
+695,kühl::A,kjølig,răcoros
+696,frisch::A,fersk,răcoros
+697,frisch::A,fersk,proaspăt
+698,feucht::A,fuktig,umed
+699,feucht::A,fuktig,jilav
+700,nass::A,våt,ud
+701,trocken::A,tørr,sec
+702,trocken::A,tørr,uscat
+703,voll::A,full,plin
+704,leer::A,tom,gol
+705,offen::A,åpen,deschis
+706,geschlossen::A,lukket,închis
+707,sauber::A,ren,curat
+708,schmutzig::A,skitten,murdar
+709,roh::A,rå,crud
+710,reif::A,moden,copt
+711,lecker::A,lekker,gustos
+712,süß::A,søt,dulce
+713,bitter::A,besk,amar
+714,bitter::A,bitter,amar
+715,sauer::A,sur,acru
+716,hell::A,lys,clar
+717,hell::A,lys,luminos
+718,dunkel::A,mørk,obscur
+719,dunkel::A,mørk,întunecos
+720,schwarz::A,svart,negru
+721,weiß::A,hvit,alb
+722,rot::A,rød,roșu
+723,gelb::A,gul,galben
+724,blau::A,blå,albastru
+725,grün::A,grønn,verde
+726,grau::A,grå,gri
+727,grau::A,grå,cenușiu
+728,bunt::A,broket,colorat
+729,billig::A,billig,ieftin
+730,teuer::A,dyr,scump
+731,wertvoll::A,verdifull,prețios
+732,blind::A,blind,orb
+733,taub::A,døv,surd
+734,kräftig::A,kraftig,tare
+735,kräftig::A,kraftig,forte
+736,kräftig::A,kraftig,robust
+737,stark::A,sterk,viguros
+738,stark::A,sterk,puternic
+739,schwach::A,svak,slab
+740,schwach::A,svak,debil
+741,fett::A,fet,gras
+742,schlank::A,slank,zvelt
+743,hübsch::A,pen,drăguț
+744,böse::A,slem,rău
+745,böse::A,slem,răutăcios
+746,dumm::A,dum,nerod
+747,dumm::A,dum,tâmpit
+748,faul::A,lat,leneș
+749,faul::A,doven,leneș
+750,fleißig::A,flittig,harnic
+751,fleißig::A,flittig,sârguincios
+752,geizig::A,gjerrig,calic
+753,geizig::A,gjerrig,zgârcit
+754,klug::A,klok,isteț
+755,klug::A,klok,deștept
+756,geschickt::A,hendig,dibaci
+757,geschickt::A,skikket,dibaci
+758,lieb::A,kjær,drag
+759,lieb::A,kjær,iubit
+760,lieb::A,snill,drag
+761,lieb::A,snill,iubit
+762,lustig::A,morsom,vesel
+763,sanft::A,blid,blând
+764,sanft::A,blid,blajin
+765,hungrig::A,sulten,flămând
+766,krank::A,syk,bolnav
+767,nackt::A,naken,gol
+768,traurig::A,sørgmodig,trist
+769,traurig::A,sørgmodig,mâhnit
+770,lebendig::A,levende,viu
+771,gut::A,god,bun
+772,schlecht::A,dårlig,rău
+773,schlecht::A,dårlig,prost
+774,richtig::A,riktig,drept
+775,richtig::A,riktig,corect
+776,schlimm::A,slem,rău
+777,wahr::A,sann,adevărat
+778,alt::A,gammel,uzat
+779,alt::A,gammel,vechi
+780,neu::A,ny,nou
+781,ehemalig::A,forhenværende,fost
+782,ehemalig::A,forhenværende,anterior
+783,alt[Lebewesen]::A,gammel,bătrîn
+784,jung::A,ung,tânăr
+785,arm::A,fattig,sărac
+786,arm::A,fattig,sărman
+787,reich::A,rik,avut
+788,reich::A,rik,bogat
+789,bekannt::A,kjent,cunoscut
+790,berühmt::A,berømt,renumit
+791,fremd::A,fremmed,străin
+792,verschieden::A,forskjellig,diferit
+793,verschieden::A,forskjellig,deosebit
+794,nah::A,nær,apropiat
+795,fern::A,fjern,departe
+796,linker::A,venstre,stâng
+797,rechter::A,høyre,drept
+798,anderer::A,annen,alt
+799,erster::A,første,prim
+800,zweiter::A,annen,al doilea
+801,dritter::A,tredje,treilea
+802,letzter::A,sist,final
+803,allein::ADV,alene,singur
+804,auf einmal::ADV,med ett,dintrodată
+805,zusammen::ADV,sammen,împreună
+806,lange::ADV,lenge,îndelung
+807,lange::ADV,lenge,mult timp
+808,plötzlich::ADV,plutselig,deodată
+809,plötzlich::ADV,plutselig,pe neașteptate
+810,sofort::ADV,straks,imediat
+811,sofort::ADV,straks,numaidecît
+812,später::ADV,senere,mai apoi
+813,später::ADV,senere,mai târziu
+814,jetzt::ADV,nå,acum
+815,heute::ADV,i dag,azi
+816,heute::ADV,i dag,astăzi
+817,morgen::ADV,i morgen,mâine
+818,bald::ADV,snart,curând
+819,dann::ADV,så,apoi
+820,gestern::ADV,i går,ieri
+821,einst::ADV,engang,odată
+822,einst::ADV,engang,odinioară
+823,damals::ADV,den gang,atunci
+824,damals::ADV,den gang,pe atunci
+825,danach::ADV,deretter,după aceasta
+826,vorher::ADV,før,mai întâi
+827,vorher::ADV,før,în prealabil
+828,vorher::ADV,i forveien,mai întâi
+829,vorher::ADV,i forveien,în prealabil
+830,zuerst::ADV,først,întâi
+831,zuerst::ADV,først,în primul rând
+832,einmal::ADV,en gang,odată
+833,manchmal::ADV,somme tider,uneori
+834,manchmal::ADV,somme tider,câteodată
+835,oft::ADV,ofte,des
+836,oft::ADV,ofte,deseori
+837,immer::ADV,alltid,mereu
+838,immer::ADV,alltid,întotdeauna
+839,niemals::ADV,aldri,niciodată
+840,hier::ADV,her,aci
+841,hier::ADV,her,aici
+842,hierhin::ADV,hit,încoace
+843,von hier::ADV,herfra,de aici
+844,dort::ADV,der,acolo
+845,dorthin::ADV,dit,dincolo
+846,geradeaus::ADV,rett fram,drept înainte
+847,vorwärts::ADV,fram,înainte
+848,vorwärts::ADV,framover,înainte
+849,rückwärts::ADV,baklengs,îndărăt
+850,zurück::ADV,tilbake,înapoi
+851,unten::ADV,nede,jos
+852,unten::ADV,nede,dedesubt
+853,hinab::ADV,ned,în jos
+854,hinab::ADV,ned,de vale
+855,hinab::ADV,nedover,în jos
+856,hinab::ADV,nedover,de vale
+857,oben::ADV,oppe,sus
+858,oben::ADV,oppe,deasupra
+859,oben::ADV,ovenpå,sus
+860,oben::ADV,ovenpå,deasupra
+861,hinauf::ADV,opp,în sus
+862,hinauf::ADV,oppover,în sus
+863,überall::ADV,overalt,peste tot
+864,überall::ADV,overalt,pretutindeni
+865,nicht::ADV,ikke,nu
+866,ein wenig::ADV,litt,puțin
+867,kaum::ADV,neppe,cu greu
+868,kaum::ADV,neppe,cu anevoie
+869,sehr::ADV,svært,mult
+870,sehr::ADV,svært,foarte
+871,so::ADV,så,așa
+872,so::ADV,så,atât
+873,noch::ADV,enda,încă
+874,nur::ADV,bare,doar
+875,schon::ADV,alt,și
+876,schon::ADV,alt,deja
+877,schon::ADV,allerede,și
+878,schon::ADV,allerede,deja
+879,wieder::ADV,igjen,iar
+880,wieder::ADV,igjen,iarăși
+881,vergebens::ADV,forgjeves,în zadar
+882,vor::PRP,foran,înainte de
+883,vor::PRP,utenfor,înainte de
+884,hinter::PRP,bak,după
+885,hinter::PRP,bak,în spatele
+886,hinter::PRP,bakom,după
+887,hinter::PRP,bakom,în spatele
+888,unter::PRP,under,sub
+889,durch::PRP,gjennom,prin
+890,durch::PRP,igjennom,prin
+891,neben::PRP,ved siden av,lângă
+892,neben::PRP,ved siden av,alături de
+893,zwischen::PRP,mellom,între
+894,zwischen::PRP,mellom,dintre
+895,wegen::PRP,på grunn av,pentru
+896,dies::PRN,dette,acesta
+897,das::PRN,det,asta
+898,alles::PRN,alt,tot
+899,ich::PRN,jeg,eu
+900,du::PRN,du,tu
+901,er::PRN,han,el
+902,er::PRN,han,dânsul
+903,wir::PRN,vi,noi
+904,ihr::PRN,dere,voi
+905,sie::PRN,de,ei
+906,sie::PRN,de,dânșii
+907,was::FPRN,hva,ce
+908,wer::FPRN,hvem,cine
+909,wo::FADV,hvor,unde
+910,wohin::FADV,hvor ... hen,încotro
+911,wie::FADV,hvordan,cum
+912,warum::FADV,hvorfor,de ce
+913,warum::FADV,hvorfor,pentru ce
+914,wieviel::FNUM,hvor mye,cât
+915,eins::NUM,en,unu
+916,eins::NUM,ett,unu
+917,zwei::NUM,to,doi
+918,drei::NUM,tre,trei
+919,vier::NUM,fire,patru
+920,fünf::NUM,fem,cinci
+921,sechs::NUM,seks,șase
+922,sieben::NUM,sju,șapte
+923,acht::NUM,åtte,opt
+924,neun::NUM,ni,nouă
+925,zehn::NUM,ti,zece
+926,elf::NUM,elleve,unsprezece
+927,zwölf::NUM,tolv,douăsprezece
+928,zwanzig::NUM,tjue,douăzeci
+929,dreißig::NUM,tretti,treizeci
+930,vierzig::NUM,førti,patruzeci
+931,fünfzig::NUM,femti,cincizeci
+932,sechzig::NUM,seksti,șaizeci
+933,siebzig::NUM,sytti,șaptezeci
+934,achtzig::NUM,åtti,optzeci
+935,neunzig::NUM,nitti,nouăzeci
+936,hundert::NUM,hundre,sută
+937,tausend::NUM,tusen,mie
+938,und::CNJ,og,și
+939,oder::CNJ,eller,ori
+940,stehen::V,stå,sta
+941,sitzen::V,sitte,ședea
+942,liegen::V,ligge,zăcea
+943,liegen::V,ligge,fi culcat
+944,hängen::V,henge,atârna
+945,werden::V,bli,deveni
+946,werden::V,bli,se face
+947,passieren::V,skje,se întâmpla
+948,passieren::V,hende,se întâmpla
+949,beginnen::V,begynne,începe
+950,enden::V,ende,se sfârși
+951,enden::V,ende,se termina
+952,enden::V,slutte,se sfârși
+953,enden::V,slutte,se termina
+954,wechseln::V,veksle,se schimba
+955,aufgehen[Sonne]::V,stå opp,răsări
+956,untergehen[Sonne]::V,gå ned,apune
+957,scheinen[Sonne]::V,skinne,străluci
+958,donnern::V,tordne,tuna
+959,wehen::V,blåse,bate
+960,strömen::V,strømme,curge în șiroaie
+961,fließen::V,flyte,curge
+962,sich drehen::V,dreie seg,se învârti
+963,schwanken::V,svaie,se clătina
+964,schwingen::V,svinge,vibra
+965,schwingen::V,svinge,flutura
+966,fallen::V,falle,cădea
+967,brennen::V,brenne,arde
+968,rauchen::V,ryke,fuma
+969,regnen::V,regne,ploua
+970,gefrieren::V,fryse,îngheța
+971,tauen::V,tine,se dezgheța
+972,schmelzen::V,smelte,se topi
+973,trocknen::V,tørre,se usca
+974,sieden::V,koke,fierbe
+975,sieden::V,koke,clocoti
+976,faulen::V,råtne,se împuți
+977,verfaulen::V,råtne,putrezi
+978,reißen::V,briste,se rupe
+979,reißen::V,briste,se sfâșia
+980,versinken::V,synke,se scufunda
+981,versinken::V,synke ned,se scufunda
+982,vergehen::V,forløpe,trece
+983,vergehen::V,forløpe,se scurge
+984,erscheinen::V,synes,apărea
+985,verschwinden::V,forsvinne,dispărea
+986,sinken::V,synke,cădea
+987,sinken::V,synke,coborî
+988,abnehmen::V,avta,scădea
+989,abnehmen::V,avta,descrește
+990,abnehmen::V,minske,scădea
+991,abnehmen::V,minske,descrește
+992,zunehmen::V,tilta,spori
+993,zunehmen::V,tilta,crește
+994,zunehmen::V,tilta,augmenta
+995,steigen::V,stige,urca
+996,wachsen::V,gro,crește
+997,wachsen::V,vokse,crește
+998,glänzen::V,skinne,luci
+999,glänzen::V,skinne,străluci
+1000,funkeln::V,tindre,scânteia
+1001,lärmen::V,bråke,face larmă
+1002,läuten::V,ringe,suna
+1003,klingeln::V,ringe,suna
+1004,klirren::V,klirre,zăngăni
+1005,brausen::V,bruse,vui
+1006,rauschen::V,suse,vâjâi
+1007,klingen::V,lyde,suna
+1008,klingen::V,klinge,suna
+1009,bellen::V,gjø,lătra
+1010,bellen::V,bjeffe,lătra
+1011,heulen::V,ule,urla
+1012,blasen::V,blåse,sufla
+1013,pfeifen::V,plystre,fluiera
+1014,schreien::V,skrike,țipa
+1015,stöhnen::V,stønne,geme
+1016,zittern::V,dirre,tremura
+1017,zittern::V,skjelve,tremura
+1018,leben::V,leve,trăi
+1019,geboren werden::V,fødes,se naște
+1020,atmen::V,ånde,respira
+1021,atmen::V,puste,respira
+1022,trinken::V,drikke,bea
+1023,essen::V,spise,mânca
+1024,schlucken::V,svelge,înghiți
+1025,müde werden::V,bli trett,se obosi
+1026,einschlafen::V,sovne,adormi
+1027,schlafen::V,sove,dormi
+1028,aufwachen::V,våkne,se deștepta
+1029,aufstehen::V,stå opp,fi se scula
+1030,sich erholen::V,bli bra,se relaxa
+1031,sich erholen::V,bli bra,se destinde
+1032,sich erholen::V,komme seg,se relaxa
+1033,sich erholen::V,komme seg,se destinde
+1034,krank werden::V,bli syk,se îmbolnăvi
+1035,krank sein::V,være syk,zăcea
+1036,krank sein::V,være syk,fi bolnav
+1037,schmerzen::V,gjøre vondt,durea
+1038,husten::V,hoste,tuși
+1039,genesen::V,komme seg,se însănătoși
+1040,sterben::V,dø,muri
+1041,umkommen::V,omkomme,pieri
+1042,sich bewegen::V,bevege seg,se mișca
+1043,sich rühren::V,røre på seg,se mișca
+1044,sich erheben::V,reise seg,se ridica
+1045,sich setzen::V,sette sig,lua loc
+1046,sich setzen::V,sette sig,se așeza
+1047,hinfallen::V,falle over ende,cădea jos
+1048,laufen::V,løpe,merge
+1049,laufen::V,løpe,merge pe jos
+1050,schreiten::V,skride,păși
+1051,spazierengehen::V,spasere,se plimba
+1052,spazierengehen::V,gå en tur,se plimba
+1053,eilen::V,ile,fi se grăbi
+1054,sich beeilen::V,skynde seg,se grăbi
+1055,sausen::V,suse,țâșni
+1056,rennen::V,løpe,fugi
+1057,rennen::V,løpe,alerga
+1058,springen::V,hoppe,sări
+1059,springen::V,springe,sări
+1060,klettern::V,klatre,urca
+1061,klettern::V,klatre,se cățăra
+1062,schaukeln::V,huske,legăna
+1063,kriechen::V,krype,se târî
+1064,schwimmen::V,svømme,înota
+1065,tauchen::V,dykke,se scufunda
+1066,rudern::V,ro,vâsli
+1067,rudern::V,ro,lopăta
+1068,fahren::V,kjøre,merge
+1069,fliegen::V,fly,zbura
+1070,gehen::V,gå,merge
+1071,weggehen::V,gå bort,se duce
+1072,abfahren::V,reise,pleca
+1073,anhalten::V,stanse,se opri
+1074,hineingehen::V,gå inn,intra
+1075,eintreten::V,tre inn,intra
+1076,kommen::V,komme,veni
+1077,ankommen::V,ankomme,sosi
+1078,ankommen::V,ankomme,ajunge
+1079,ankommen::V,komme til,sosi
+1080,ankommen::V,komme til,ajunge
+1081,zurückkommen::V,komme tilbake,se întoarce
+1082,bleiben::V,bli,rămâne
+1083,bleiben::V,forbli,rămâne
+1084,warten::V,vente,aștepta
+1085,erwarten::V,vente,aștepta
+1086,suchen::V,søke,căuta
+1087,finden::V,finne,găsi
+1088,versuchen::V,prøve,încerca
+1089,versuchen::V,forsøke,încerca
+1090,vorbereiten::V,forberede,pregăti
+1091,lieben::V,elske,iubi
+1092,mögen::V,like,plăcea a
+1093,lachen::V,le,râde
+1094,rühren::V,røre,mișca
+1095,rühren::V,røre,înduioșa
+1096,weinen::V,gråte,plânge
+1097,schimpfen::V,skjelle,înjura
+1098,sich ärgern::V,ergre seg,se supăra
+1099,sich fürchten::V,være redd,se teme
+1100,sich fürchten::V,være redd,fi teamă a
+1101,fürchten::V,være redd for,se teme de
+1102,fliehen::V,rømme,fugi
+1103,fliehen::V,flykte,fugi
+1104,flüchten::V,flykte,evada
+1105,sehen::V,se,vedea
+1106,anschauen::V,se på,privi
+1107,anschauen::V,betrakte,privi
+1108,ansehen::V,anse,privi
+1109,hören::V,høre,auzi
+1110,zuhören::V,tilhøre,asculta
+1111,probieren::V,smake,gusta
+1112,probieren::V,smake på,gusta
+1113,riechen::V,lukte,mirosi
+1114,fühlen::V,føle,simți
+1115,fühlen::V,føle,resimți
+1116,scheinen::V,se ut,părea
+1117,zu sehen sein::V,synes,se vedea
+1118,vernehmen::V,få vite,auzi
+1119,frieren::V,fryse,fi frig
+1120,tun::V,gjøre,face
+1121,können::V,kunne,ști
+1122,können::V,kunne,putea
+1123,wollen::V,ville,dori
+1124,anfangen::V,begynne,începe
+1125,beenden::V,avslutte,sfârși
+1126,beenden::V,avslutte,termina
+1127,aufhören::V,slutte,înceta
+1128,aufhören::V,holde opp,înceta
+1129,gelingen::V,lykkes,reuși
+1130,gelingen::V,lykkes,izbuti
+1131,geraten::V,bli,reuși
+1132,öffnen::V,åpne,deschide
+1133,schließen::V,lukke,închide
+1134,schließen::V,stenge,închide
+1135,stellen::V,stille,pune
+1136,stellen::V,stille,așeza
+1137,setzen::V,sette,pune
+1138,setzen::V,sette,așeza
+1139,legen::V,legge,pune
+1140,berühren::V,berøre,atinge
+1141,verbinden::V,forbinde,lega
+1142,bedecken::V,dekke,acoperi
+1143,aufhängen::V,henge,atârna
+1144,aufhängen::V,henge,spânzura
+1145,aufhängen::V,henge opp,atârna
+1146,aufhängen::V,henge opp,spânzura
+1147,anzünden::V,tenne,aprinde
+1148,anzünden::V,antenne,aprinde
+1149,anzünden::V,tenne på,aprinde
+1150,aufheben::V,løfte,ridica
+1151,aufheben::V,løfte,lua de jos
+1152,aufheben::V,ta opp,ridica
+1153,aufheben::V,ta opp,lua de jos
+1154,zurücklassen::V,slippe tilbake,lăsa
+1155,zurücklassen::V,slippe tilbake,lăsa în urmă
+1156,verlieren::V,miste,pierde
+1157,fallen lassen::V,droppe,scăpa
+1158,fallen lassen::V,droppe,arunca
+1159,fallen lassen::V,la falle,scăpa
+1160,fallen lassen::V,la falle,arunca
+1161,machen::V,lage,face
+1162,machen::V,gjøre,face
+1163,herstellen::V,fremstille,fabrica
+1164,herstellen::V,fremstille,confecționa
+1165,bauen::V,bygge,clădi
+1166,bauen::V,bygge,construi
+1167,reparieren::V,reparere,repara
+1168,verbessern::V,rette,ameliora
+1169,verbessern::V,rette,îmbunătăți
+1170,verbessern::V,forbedre,ameliora
+1171,verbessern::V,forbedre,îmbunătăți
+1172,ändern::V,forandre,schimba
+1173,ändern::V,forandre,modifica
+1174,graben::V,grave,săpa
+1175,beugen::V,bøye,curba
+1176,biegen::V,bøye,îndoi
+1177,biegen::V,bøye,încovoia
+1178,drehen::V,dreie,învârti
+1179,wenden::V,vende,întoarce
+1180,umdrehen::V,snu,învârti
+1181,umdrehen::V,snu,întoarce
+1182,heben::V,heve,ridica
+1183,hochheben::V,løfte,ridica
+1184,ergreifen::V,gripe,lua
+1185,ergreifen::V,gripe,apuca
+1186,ergreifen::V,få tak i,lua
+1187,ergreifen::V,få tak i,apuca
+1188,halten::V,holde,ține
+1189,drücken::V,trykke,apăsa
+1190,drücken::V,trykke,strânge
+1191,schieben::V,skyve,împinge
+1192,kratzen::V,klø,zgâria
+1193,kratzen::V,klore,zgâria
+1194,lecken::V,slikke,linge
+1195,beißen::V,bite,mușca
+1196,abreißen::V,rive av,rupe
+1197,abreißen::V,rive av,smulge
+1198,abschneiden::V,skjære av,scurta
+1199,binden::V,binde,lega
+1200,stecken::V,stikke,pune
+1201,brechen::V,bryte,rupe
+1202,brechen::V,bryte,frânge
+1203,brechen::V,briste,rupe
+1204,brechen::V,briste,frânge
+1205,klopfen::V,banke,ciocăni
+1206,hauen::V,hogge,lovi
+1207,kleben::V,klistre,lipi
+1208,reiben::V,gni,freca
+1209,reiben::V,gni,fricționa
+1210,streichen::V,stryke,unge
+1211,schleifen::V,slipe,ascuți
+1212,schneiden::V,klippe,tăia
+1213,rütteln::V,ruske,zgâlțâi
+1214,schütteln::V,riste,scutura
+1215,schwenken::V,svinge,agita
+1216,schütten::V,helle,vărsa
+1217,füllen::V,fylle,umple
+1218,einwickeln::V,vikle inn,înveli
+1219,einwickeln::V,vikle inn,înfășura
+1220,tragen::V,bære,căra
+1221,schleppen::V,slepe,târî
+1222,ziehen::V,dra,trage
+1223,ziehen::V,trekke,trage
+1224,aufbewahren::V,oppbevare,păstra
+1225,aufbewahren::V,oppbevare,conserva
+1226,aufbewahren::V,ta vare på,păstra
+1227,aufbewahren::V,ta vare på,conserva
+1228,werfen::V,kaste,arunca
+1229,fangen::V,fange,prinde
+1230,packen::V,gripe,apuca
+1231,packen::V,gripe tak i,apuca
+1232,verstecken::V,gjemme,ascunde
+1233,teilen::V,dele,împărți
+1234,schicken::V,sende,trimite
+1235,bringen::V,bringe,aduce
+1236,hinzufügen::V,tilføye,adăuga
+1237,bekommen::V,få,obține
+1238,bekommen::V,få,dobândi
+1239,erhalten::V,få,primi
+1240,erhalten::V,få,căpăta
+1241,nehmen::V,ta,lua
+1242,wählen::V,velge,opta
+1243,wählen::V,velge,alege
+1244,auswählen::V,velge ut,selecta
+1245,bewahren::V,bevare,păstra
+1246,behindern::V,hindre,stingheri
+1247,behindern::V,forhindre,stingheri
+1248,verderben::V,ødelegge,strica
+1249,beschädigen::V,skade,strica
+1250,zerbrechen::V,brekke i stykker,rupe
+1251,zerbrechen::V,brekke i stykker,frânge
+1252,zerreißen::V,rive i stykker,rupe
+1253,zerreißen::V,rive i stykker,sfâșia
+1254,zerstören::V,ødelegge,distruge
+1255,verbrennen::V,brenne,arde
+1256,verbrennen::V,brenne,incendia
+1257,verbrennen::V,brenne opp,arde
+1258,verbrennen::V,brenne opp,incendia
+1259,geben::V,gi,da
+1260,reichen::V,rekke,întinde
+1261,schenken::V,forære,dărui
+1262,schenken::V,skjenke,dărui
+1263,versprechen::V,love,făgădui
+1264,wünschen::V,ønske,ura
+1265,loben::V,rose,lăuda
+1266,küssen::V,kysse,săruta
+1267,wiegen::V,vogge,legăna
+1268,zudecken::V,dekke til,acoperi
+1269,wecken::V,vekke,trezi
+1270,wecken::V,vekke,deștepta
+1271,zeigen::V,vise,arăta
+1272,führen::V,føre,călăuzi
+1273,lehren::V,lære,preda
+1274,lehren::V,lære,învăța
+1275,unterrichten::V,undervise,învăța
+1276,unterrichten::V,undervise,instrui
+1277,aufziehen::V,oppdra,crește
+1278,leiten::V,lede,duce
+1279,leiten::V,lede,conduce
+1280,antreiben::V,drive på,împinge
+1281,antreiben::V,drive på,încuraja
+1282,lassen::V,få til å,pune pe să
+1283,einladen::V,be,invita
+1284,einladen::V,invitere,invita
+1285,vereinigen::V,forene,uni
+1286,vereinigen::V,forene,întruni
+1287,besuchen::V,besøke,vizita
+1288,besuchen::V,besøke,face o vizită
+1289,treffen::V,møte,întâlni
+1290,treffen::V,treffe,întâlni
+1291,sich versammeln::V,forsamles,se aduna
+1292,spielen::V,leke,se juca
+1293,spielen::V,spille,se juca
+1294,singen::V,synge,cânta
+1295,tanzen::V,danse,dansa
+1296,sich trennen::V,skilles,se separa
+1297,sich trennen::V,skilles,se despărți
+1298,verlassen::V,forlate,părăsi
+1299,verlassen::V,forlate,abandona
+1300,retten::V,redde,salva
+1301,bewachen::V,bevokte,păzi
+1302,schützen::V,verne,ocroti
+1303,schützen::V,verne,proteja
+1304,schützen::V,beskytte,ocroti
+1305,schützen::V,beskytte,proteja
+1306,verteidigen::V,forsvare,apăra
+1307,sich schlagen::V,slåss,se bate
+1308,schießen::V,skyte,trage
+1309,siegen::V,seire,birui
+1310,siegen::V,seire,învinge
+1311,ärgern::V,ergre,supăra
+1312,treten::V,sparke,călca
+1313,stechen::V,stikke,înțepa
+1314,stechen::V,stikke,împunge
+1315,stoßen::V,støte,împinge
+1316,stehlen::V,stjele,fura
+1317,stören::V,forstyrre,deranja
+1318,belästigen::V,plage,importuna
+1319,belästigen::V,sjenere,importuna
+1320,verbergen::V,gjemme,ascunde
+1321,täuschen::V,villede,amăgi
+1322,betrügen::V,bedra,înșela
+1323,töten::V,drepe,omorî
+1324,wohnen::V,bo,sta
+1325,wohnen::V,bo,locui
+1326,arbeiten::V,arbeide,lucra
+1327,sammeln::V,samle,aduna
+1328,sammeln::V,samle,colecționa
+1329,pflücken::V,plukke,culege
+1330,jagen::V,jage,vâna
+1331,fischen::V,fiske,pescui
+1332,fassen::V,fange,prinde
+1333,hüten::V,vokte,paște
+1334,treiben::V,drive,mână
+1335,anbinden::V,feste,lega
+1336,füttern::V,fore,da de mâncare
+1337,melken::V,melke,mulge
+1338,hacken::V,hakke,toca
+1339,hacken::V,hakke,sparge
+1340,gießen::V,helle,uda
+1341,reifen::V,modne,pârgui
+1342,zubereiten::V,lage,găti
+1343,zubereiten::V,tilberede,găti
+1344,kochen::V,koke,găti
+1345,backen::V,bake,coace
+1346,braten::V,steke,coace
+1347,umrühren::V,røre om,mesteca
+1348,stricken::V,strikke,împleti
+1349,nähen::V,sy,coase
+1350,färben::V,farge,vopsi
+1351,färben::V,farge,colora
+1352,reinigen::V,rense,curăți
+1353,reinigen::V,gjøre ren,curăți
+1354,waschen::V,vaske,spăla
+1355,abwischen::V,tørke av,șterge
+1356,spülen::V,spyle,clăti
+1357,spülen::V,skylle,clăti
+1358,fegen::V,feie,mătura
+1359,kehren::V,koste,mătura
+1360,baden::V,bade,se scălda
+1361,sich waschen::V,vaske seg,se spăla
+1362,ausziehen::V,ta av,și scoate
+1363,anziehen::V,ta på,îmbrăca
+1364,sich anziehen::V,kle på seg,se îmbrăca
+1365,kämmen::V,gre,pieptăna
+1366,kämmen::V,kjemme,pieptăna
+1367,schmücken::V,pynte,împodobi
+1368,schmücken::V,smykke,împodobi
+1369,sagen::V,si,zice
+1370,sagen::V,si,spune
+1371,sprechen::V,snakke,vorbi
+1372,reden::V,tale,vorbi
+1373,reden::V,tale,discuta
+1374,reden::V,snakke,vorbi
+1375,reden::V,snakke,discuta
+1376,sich unterhalten::V,samtale,conversa
+1377,sich unterhalten::V,samtale,sta de vorbă
+1378,fragen::V,spørre,întreba
+1379,bitten::V,be,ruga
+1380,erzählen::V,fortelle,spune
+1381,erzählen::V,fortelle,povesti
+1382,mitteilen::V,meddele,comunica
+1383,mitteilen::V,meddele,înștiința
+1384,nennen::V,kalle,numi
+1385,nennen::V,kalle,chema
+1386,rufen::V,rope,chema
+1387,prahlen::V,skryte,se făli
+1388,übersetzen::V,oversette,traduce
+1389,denken::V,tenke,gândi
+1390,glauben::V,tro,crede
+1391,bemerken::V,bemerke,observa
+1392,bemerken::V,legge merke til,observa
+1393,erkennen::V,gjenkjenne,cunoaște
+1394,erkennen::V,gjenkjenne,recunoaște
+1395,begreifen::V,begripe,pricepe
+1396,begreifen::V,begripe,înțelege
+1397,verstehen::V,forstå,înțelege
+1398,verstehen::V,skjønne,înțelege
+1399,lernen::V,lære,învăța
+1400,wissen::V,vite,ști
+1401,sich erinnern an::V,huske på,a-și aminti de
+1402,vergessen::V,glemme,uita
+1403,messen::V,måle,măsura
+1404,zählen::V,telle,număra
+1405,rechnen::V,regne,calcula
+1406,lesen::V,lese,citi
+1407,malen::V,male,picta
+1408,zeichnen::V,tegne,desena
+1409,schreiben::V,skrive,scrie
+1410,besitzen::V,eie,avea
+1411,besitzen::V,eie,poseda
+1412,besitzen::V,inneha,avea
+1413,besitzen::V,inneha,poseda
+1414,kaufen::V,kjøpe,cumpăra
+1415,verkaufen::V,selge,vinde
+1416,bezahlen::V,betale,plăti
+1417,bezahlen::V,betale,achita
+1418,zahlen::V,betale,plăti
+1419,beherrschen::V,beherske,stăpâni
+1420,ertragen::V,orke,răbda
+1421,ertragen::V,orke,suporta
+1422,schlagen::V,,lovi

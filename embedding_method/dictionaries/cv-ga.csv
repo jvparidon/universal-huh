@@ -1,0 +1,1529 @@
+,Concept_ID,cv,ga
+0,Auge::N,куҫ,súil
+1,Ohr::N,хӑлха,cluas
+2,Nase::N,сӑмса,soc
+3,Mund::N,ҫӑвар,béal
+4,Zahn::N,шӑл,fiacail
+5,Zunge::N,чӗлхе,teanga
+6,Lippe::N,тута,liopa
+7,Wange::N,пит ҫӑмарти,grua
+8,Wange::N,пит ҫӑмарти,leiceann
+9,Gesicht::N,пит,éadan
+10,Gesicht::N,пит,aghaidh
+11,Gesicht::N,пит-куҫ,éadan
+12,Gesicht::N,пит-куҫ,aghaidh
+13,Stirn::N,ҫамка,baithis
+14,Stirn::N,ҫамка,clár éadain
+15,Haar::N,ҫӳҫ,gruaig
+16,Schnurrbart::N,усси,croiméal
+17,Bart::N,сухал,féasóg
+18,Kinn::N,янах,smig
+19,Kiefer[Anatomie]::N,янах,giall
+20,Kehle::N,пыр,scornach
+21,Kehle::N,карланкӑ,scornach
+22,Hals::N,пыр,muinéal
+23,Genick::N,ӗнсе,baic
+24,Kopf::N,пуҫ,ceann
+25,Rücken::N,ҫурӑм,droim
+26,Nabel::N,кӑвапа,imleacán
+27,Busen::N,кӑкӑр,cíoch
+28,Brust::N,умӗ,brollach
+29,Schulter::N,хул пуҫҫи,gualainn
+30,Arm::N,алӑ,lámh
+31,Ellenbogen::N,чавса,uillinn
+32,Hand::N,алӑ сыппи,lámh
+33,Handfläche::N,ал лаппи,bos
+34,Finger::N,пӳрне,méar
+35,Fingernagel::N,чӗрне,ionga
+36,Nagel[Anatomie]::N,чӗрне,ionga
+37,Zeh::N,пӳрне,ladhar
+38,Fuß::N,ура лаппи,cos
+39,Fuß::N,ура лаппи,troigh
+40,Ferse::N,кӗле,sáil
+41,Knie::N,чӗркуҫҫи,glúin
+42,Oberschenkel::N,пӗҫӗ,ceathrú
+43,Bein::N,ура,cos
+44,Körper::N,ӳт,corp
+45,Körper::N,ӳт,colainn
+46,Körper::N,ӳт-пӳ,corp
+47,Körper::N,ӳт-пӳ,colainn
+48,Haut::N,тир,cneas
+49,Haut::N,тир,craiceann
+50,Blut::N,юн,fuil
+51,Ader::N,вена,
+52,Sehne::N,шӑнӑр,teannán
+53,Sehne::N,шӑнӑр,féitheog
+54,Knochen::N,шӑмӑ,cnámh
+55,Gehirn::N,миме,inchinn
+56,Herz::N,чӗре,croí
+57,Magen::N,хырӑмлӑх,bolg
+58,Magen::N,хырӑмлӑх,goile
+59,Leber::N,пӗвер,ae
+60,Atem::N,сывлав,anáil
+61,Hunger::N,выҫлӑх,ocras
+62,Träne::N,куҫҫуль,deoir
+63,Geschmack::N,техӗм,blas
+64,Geruch::N,шӑршӑ,boladh
+65,Schlaf::N,ыйхӑ,suan
+66,Schlaf::N,ыйхӑ,codladh
+67,Traum::N,тӗлӗк,taibhreamh
+68,Himmel::N,пӗлӗт,spéir
+69,Sonne::N,хӗвел,grian
+70,Mond::N,уйӑх,ré
+71,Mond::N,уйӑх,gealach
+72,Stern::N,ҫӑлтӑр,rinn
+73,Stern::N,ҫӑлтӑр,réalta
+74,Luft::N,сывлӑш,aer
+75,Wind::N,ҫил,gaoth
+76,Welle::N,хум,tonn
+77,Wasser::N,шыв,uisce
+78,Wasser::N,шыв-шур,uisce
+79,Stein::N,чул,cloch
+80,Boden::N,тӑпра,talamh
+81,Erde::N,ҫӗр,cré
+82,Erde::N,ҫӗр,ithir
+83,Staub::N,тусан,dusta
+84,Staub::N,тусан,deannach
+85,Rauch::N,тӗтӗм,toit
+86,Rauch::N,тӗтӗм,deatach
+87,Funke::N,хӗм,drithle
+88,Feuer::N,вут,tine
+89,Feuer::N,ҫулӑм,tine
+90,Licht::N,ҫутӑ,solas
+91,Schatten::N,сулхӑн,scáth
+92,Wetter::N,ҫанталӑк,aimsir
+93,Nebel::N,тӗтре,ceo
+94,Wolke::N,пӗлӗт,néal
+95,Wolke::N,пӗлӗт,scamall
+96,Regen::N,ҫумӑр,báisteach
+97,Regen::N,ҫумӑр,fearthainn
+98,Schnee::N,юр,sneachta
+99,Eis::N,пӑр,oighear
+100,Frost::N,сивӗ,sioc
+101,Kälte::N,сивӗ,fuacht
+102,Hitze::N,вӗри,teas
+103,Hitze::N,вӗри,teocht
+104,Hitze::N,шӑрӑх,teas
+105,Hitze::N,шӑрӑх,teocht
+106,Raureif::N,пас,sioc bán
+107,Regenbogen::N,асамат кӗперӗ,stua ceatha
+108,Regenbogen::N,асамат кӗперӗ,bogha báistí
+109,Donner::N,аслати,toirneach
+110,Strömung::N,юхӑ,sruth
+111,Tropfen::N,тумлам,deoir
+112,Schaum::N,кӑпӑк,cúr
+113,Schmutz::N,пылчӑк,salachar
+114,See::N,кӳлӗ,loch
+115,Sumpf::N,шур,portach
+116,Sumpf::N,шурлӑх,portach
+117,Moor::N,торфлӑ шурлӑх,caorán
+118,Moor::N,торфлӑ шурлӑх,móinteán
+119,Wiese::N,улӑх,cluain
+120,Wiese::N,улӑх,móinéar
+121,Wiese::N,ҫаран,cluain
+122,Wiese::N,ҫаран,móinéar
+123,Wald::N,вӑрман,coill
+124,Wald::N,вӑрман,foraois
+125,Hügel::N,сӑрт,ard
+126,Hügel::N,тӗмеске,ard
+127,Anhöhe::N,сӑрт,ard
+128,Anhöhe::N,сӑрт,ardán
+129,Berg::N,ту,sliabh
+130,Gipfel::N,тӳпе,barr
+131,Gipfel::N,тӳпе,mullach
+132,Höhle::N,ҫӗр хӑвӑлӗ,uaimh
+133,Höhle::N,ҫӗр хӑвӑлӗ,pluais
+134,Abhang::N,тӑвайкки,fána
+135,Quelle::N,ҫӑл куҫ,foinse
+136,Bach::N,пӗчӗк шыв,sruthán
+137,Fluss::N,юхан шыв,abhainn
+138,Ufer::N,ҫыран,bruach
+139,Küste::N,тинӗс ҫыранӗ,cósta
+140,Küste::N,тинӗс ҫыранӗ,cladach
+141,Festland::N,тип ҫӗр,míntír
+142,Meer::N,тинӗс,muir
+143,Meer::N,тинӗс,farraige
+144,Bucht::N,тинӗс кукӑрӗ,bá
+145,Bucht::N,тинӗс кукӑрӗ,cuan
+146,Insel::N,утрав,inis
+147,Insel::N,утрав,oileán
+148,Blume::N,чечек,bláth
+149,Gras::N,курӑк,féar
+150,Wurzel::N,тымар,rúta
+151,Wurzel::N,тымар,fréamh
+152,Baum::N,йывӑҫ,crann
+153,Stamm::N,вулӑ,stoc
+154,Stamm::N,вулӑ,tamhan
+155,Rinde::N,хуйӑр,coirt
+156,Rinde::N,хуйӑр,craiceann
+157,Ast::N,турат,géag
+158,Zweig::N,турат,géag
+159,Zweig::N,турат,craobh
+160,Blatt::N,ҫулҫӑ,duille
+161,Blatt::N,ҫулҫӑ,duilleog
+162,Birke::N,хурӑн,beith
+163,Birke::N,хурӑн,crann beithe
+164,Kiefer[Baum]::N,хыр,péine
+165,Weide[Baum]::N,хӑва,saileach
+166,Tanne::N,чӑрӑш,giúis
+167,Horn::N,мӑйрака,adharc
+168,Feder::N,тӗк,cleite
+169,Fell::N,ҫӑм,clúmh
+170,Flügel::N,ҫунат,eite
+171,Flügel::N,ҫунат,sciathán
+172,Klaue::N,чӗрне,crúb
+173,Klaue::N,чӗрне,crobh
+174,Kralle::N,ура,crobh
+175,Schwanz::N,хӳре,eireaball
+176,Ei::N,ҫӑмарта,ubh
+177,Nest::N,йӑва,nead
+178,Bau::N,йӗнӗ,brocais
+179,Tier::N,выльӑх,ainmhí
+180,Tier::N,выльӑх,beithíoch
+181,Herde::N,кӗтӳ,tréad
+182,Kuh::N,ӗне,bó
+183,Bulle::N,вӑкӑр,tarbh
+184,Pferd::N,лаша,each
+185,Pferd::N,лаша,capall
+186,Schaf::N,сурӑх,caora
+187,Schwein::N,сысна,muc
+188,Hund::N,йытӑ,madra
+189,Katze::N,кушак,cat
+190,Bär::N,упа,béar
+191,Eichhörnchen::N,пакша,iora
+192,Elch::N,пӑши,eilc
+193,Fuchs::N,тилӗ,sionnach
+194,Fuchs::N,тилӗ,madra rua
+195,Hase::N,куян,giorria
+196,Hase::N,мулкач,giorria
+197,Maus::N,шӑши,luch
+198,Wolf::N,кашкӑр,mac tíre
+199,Vogel::N,кайӑк,éan
+200,Vogel::N,вӗҫен кайӑк,éan
+201,Schwarm::N,ушкӑн,saithe
+202,Huhn::N,чӑх,cearc
+203,Huhn::N,чӑхӑ,cearc
+204,Hahn::N,автан,coileach
+205,Gans::N,хур,gé
+206,Adler::N,ӑмӑрт кайӑк,iolar
+207,Ente::N,кӑвакал,lacha
+208,Eule::N,тӑмана,ulchabhán
+209,Kranich::N,тӑрна,grús
+210,Krähe::N,ула курак,caróg
+211,Krähe::N,ула курак,préachán
+212,Kuckuck::N,куккук,cuach
+213,Schwan::N,акӑш,eala
+214,Fisch::N,пулӑ,iasc
+215,Barsch::N,уланкӑ,péirse
+216,Hecht::N,ҫӑрттан,liús
+217,Schlange[Tier]::N,ҫӗлен,nathair
+218,Wurm::N,ӑман,péist
+219,Spinne::N,эрешмен,damhán alla
+220,Ameise::N,кӑткӑ,seangán
+221,Laus::N,пыйтӑ,míol
+222,Mücke::N,вӑрӑм туна,muiscít
+223,Mücke::N,вӑрӑм туна,corrmhíol
+224,Fliege::N,шӑна,cuil
+225,Fliege::N,шӑна,cuileog
+226,Schmetterling::N,лӗпӗш,féileacán
+227,Beere::N,ҫырла,caor
+228,Apfel::N,улма,úll
+229,Apfel::N,пан улми,úll
+230,Pilz::N,кӑмпа,beacán
+231,Pilz::N,кӑмпа,muisiriún
+232,Zwiebel::N,сухан,oinniún
+233,Saat::N,вӑрӑ,síol
+234,Korn::N,тӗшӗ,gráinne
+235,Korn::N,пӗрчӗ,gráinne
+236,Heu::N,утӑ,féar
+237,Schale::N,хупӑ,scaimh
+238,Grube::N,шӑтӑк,poll
+239,Falle::N,тапӑ,gaiste
+240,Falle::N,капкӑн,gaiste
+241,Schlinge::N,йӑлӑ,sealán
+242,Spur::N,йӗр,rian
+243,Asche::N,кӗл,luaith
+244,Dreck::N,пылчӑк,salachar
+245,Eisen::N,тимӗр,iarann
+246,Gold::N,ылтӑн,ór
+247,Silber::N,кӗмӗл,airgead
+248,Kohle::N,кӑмрӑк,gual
+249,Glas::N,кӗленче,gloine
+250,Lehm::N,тӑм,cré
+251,Sand::N,хӑйӑр,gaineamh
+252,Mensch::N,ҫын,duine
+253,Mensch::N,этем,duine
+254,Mann::N,ар,fear
+255,Frau::N,хӗрарӑм,bean
+256,Kind::N,ача,gasúr
+257,Kind::N,ача,páiste
+258,Junge::N,ача,buachaill
+259,Junge::N,ар ҫын ача,buachaill
+260,Mädchen::N,хӗр ача,cailín
+261,Familie::N,ҫемье,teaghlach
+262,Familie::N,ҫемье,comhluadar
+263,Familie::N,кил-йыш,teaghlach
+264,Familie::N,кил-йыш,comhluadar
+265,Großvater::N,кукаҫи,seanathair
+266,Großmutter::N,кукамай,seanmháthair
+267,Eltern::N,аҫа-ама,tuismitheoirí
+268,Vater::N,атте,athair
+269,Mutter::N,анне,máthair
+270,Sohn::N,ывӑл,mac
+271,Tochter::N,хӗр,iníon
+272,Bruder::N,ар тӑван,deartháir
+273,Schwester::N,аппа,deirfiúr
+274,Schwester::N,йӑмӑк,deirfiúr
+275,Onkel::N,мучи,uncail
+276,Onkel::N,пичче,uncail
+277,Tante::N,аппа,aintín
+278,Ehemann::N,упӑшка,fear céile
+279,Ehefrau::N,арӑм,bean chéile
+280,Freude::N,савӑнӑҫ,áthas
+281,Freude::N,хаваслӑх,áthas
+282,Gelächter::N,кулӑ,gáire
+283,Glück::N,телей,séan
+284,Glück::N,телей,sonas
+285,Glück::N,ӑраскал,séan
+286,Glück::N,ӑраскал,sonas
+287,Kummer::N,хурлӑх,brón
+288,Kummer::N,хурлӑх,buairt
+289,Wunsch::N,ӗмӗт,guí
+290,Wunsch::N,ӗмӗт,achainí
+291,Wunsch::N,кӑмӑл,guí
+292,Wunsch::N,кӑмӑл,achainí
+293,Lust::N,кӑмӑл,fonn
+294,Geist::N,чун-чӗм,meon
+295,Geist::N,чун-чӗм,spiorad
+296,Geist::N,ыр-усал,meon
+297,Geist::N,ыр-усал,spiorad
+298,Geist::N,чун хавалӗ,meon
+299,Geist::N,чун хавалӗ,spiorad
+300,Gedanke::N,шухӑш,smaoineamh
+301,Gedächtnis::N,ас,cuimhne
+302,Verstand::N,ӑс,ciall
+303,Verstand::N,ӑс,intinn
+304,Verstand::N,ӑс-тӑн,ciall
+305,Verstand::N,ӑс-тӑн,intinn
+306,Verstand::N,ӑс-хакӑл,ciall
+307,Verstand::N,ӑс-хакӑл,intinn
+308,Sinn::N,тупсӑм,brí
+309,Sinn::N,тупсӑм,ciall
+310,Sinn::N,пӗлтерӗш,brí
+311,Sinn::N,пӗлтерӗш,ciall
+312,Grund::N,сӑлтав,fáth
+313,Wahrheit::N,чӑнлӑх,fírinne
+314,Gespräch::N,калаҫу,comhrá
+315,Märchen::N,юмах,scéal
+316,Erzählung::N,акалав,scéal
+317,Erzählung::N,каласа пани,scéal
+318,Nachricht::N,хыпар,teachtaireacht
+319,Neuigkeit::N,ҫӗнӗ хыпар,scéala
+320,Name::N,ят,ainm
+321,Rätsel::N,сутмалли юмах,tomhas
+322,Rede::N,сӑмах,óráid
+323,Rede::N,сӑмах,aitheasc
+324,Sprache::N,чӗлхе,teanga
+325,Stimme::N,сасӑ,guth
+326,Wort::N,сӑмах,focal
+327,Zeichen::N,паллӑ,comhartha
+328,Ruf::N,йыхрав,glaoch
+329,Ruf::N,чӗнӳ,glaoch
+330,Lärm::N,шав,torann
+331,Laut::N,сасӑ,fuaim
+332,Ton::N,сасӑ,ton
+333,Lied::N,юрӑ,amhrán
+334,Ruhe::N,канӑҫлӑх,suaimhneas
+335,Ruhe::N,лӑпкӑлӑх,suaimhneas
+336,Leute::N,ҫамрӑксем,muintir
+337,Leute::N,ҫамрӑк ҫынсем,muintir
+338,Volk::N,халӑх,pobal
+339,Arbeit::N,ӗҫхӗл,obair
+340,Arbeit::N,ӗҫлев,obair
+341,Gast::N,хӑна,aoi
+342,Geschenk::N,парне,féirín
+343,Geschenk::N,парне,bronntanas
+344,Geschenk::N,кучченеҫ,féirín
+345,Geschenk::N,кучченеҫ,bronntanas
+346,Spiel::N,вӑйӑ,cluiche
+347,Gesellschaft::N,общество,comhluadar
+348,Hilfe::N,пулӑшу,cúnamh
+349,Hilfe::N,пулӑшу,cabhair
+350,Freund::N,тус,cara
+351,Kamerad::N,юлташ,comrádaí
+352,Kamerad::N,тус,comrádaí
+353,Angelegenheit::N,ӗҫ,ábhar
+354,Anzahl::N,йыш,líon
+355,Anzahl::N,хисеп,líon
+356,Art::N,тӗс,sórt
+357,Art::N,тӗс,saghas
+358,Stück::N,татӑк,píosa
+359,Teil::N,пай,cuid
+360,Teil::N,пай,páirt
+361,Hälfte::N,ҫурӑ,leath
+362,Kreis::N,ункӑ,ciorcal
+363,Kreis::N,ҫавракӑш,ciorcal
+364,Kreuz::N,хӗрес,cros
+365,Linie::N,йӗр,líne
+366,Strich::N,йӗр,stríoc
+367,Abstand::N,хушӑ,achar
+368,Entfernung::N,хушӑ,fad
+369,Gegend::N,вырӑн,ceantar
+370,Platz::N,хутлӑх,áit
+371,Platz::N,хутлӑх,spás
+372,Ort::N,вырӑн,áit
+373,Seite::N,ен,taobh
+374,Seite::N,аяк,taobh
+375,Seite::N,айӑк,taobh
+376,Mitte::N,варӑ,lár
+377,Gegenstand::N,япала,ball
+378,Gegenstand::N,япала,ábhar
+379,Sache::N,япала,ní
+380,Sache::N,япала,rud
+381,Rand::N,вӗҫ,imeall
+382,Rand::N,вӗҫ,ciumhais
+383,Rand::N,хӗрӗ,imeall
+384,Rand::N,хӗрӗ,ciumhais
+385,Rand::N,хӗрри,imeall
+386,Rand::N,хӗрри,ciumhais
+387,Kante::N,хайкача,corr
+388,Kante::N,хайкача,colbha
+389,Kante::N,хысак,corr
+390,Kante::N,хысак,colbha
+391,Ecke::N,кӗтес,coirnéal
+392,Spitze::N,вӗҫ,gob
+393,Spitze::N,вӗҫ,barr
+394,Ende::N,вӗҫ,ceann
+395,Ende::N,вӗҫ,foirceann
+396,Loch::N,шӑтӑк,poll
+397,Winkel::N,кӗтес,cúinne
+398,Winkel::N,кӗтес,uillinn
+399,Muster::N,эреш,patrún
+400,Größe::N,пысӑкӑш,méid
+401,Größe::N,пысӑкӑш,toise
+402,Länge::N,вӑрӑмӑш,fad
+403,Höhe::N,ҫӳллӗш,airde
+404,Gewicht::N,виҫе,meáchan
+405,Gewicht::N,йывӑрӑш,meáchan
+406,Menge::N,йыш,méid
+407,Haufen::N,купа,cnap
+408,Reihe::N,рет,líne
+409,Reihe::N,рет,sraith
+410,Boot::N,кимӗ,bád
+411,Ruder::N,кӗсмен,rámh
+412,Ruder::N,кӗсмен,maide rámha
+413,Schlitten::N,ҫуна,carr sleamhnáin
+414,Ski::N,йӗлтӗр,scí
+415,Lagerfeuer::N,вут,tine champa
+416,Lagerfeuer::N,кӑвайт,tine champa
+417,Last::N,сулмаклӑх,ualach
+418,Last::N,йывӑр япала,ualach
+419,Gang::N,куҫӑм,siúlóid
+420,Schritt::N,утӑм,céim
+421,Schritt::N,утӑм,coiscéim
+422,Schritt::N,пусӑм,céim
+423,Schritt::N,пусӑм,coiscéim
+424,Norden::N,ҫурҫӗр,tuaisceart
+425,Süden::N,кӑнтӑр,deisceart
+426,Westen::N,анӑҫ,iarthar
+427,Westen::N,хӗвел анӑҫ,iarthar
+428,Osten::N,хӗвел тухӑҫ,oirthear
+429,Holz::N,йывӑҫ,adhmad
+430,Brett::N,хӑма,clár
+431,Platte::N,плита,leac
+432,Stütze::N,ура,taca
+433,Stange::N,шерте,polla
+434,Stange::N,шерте,cuaille
+435,Stock::N,патак,bata
+436,Stock::N,патак,maide
+437,Stab::N,шӑчӑ,maide
+438,Stab::N,шӑчӑ,bachall
+439,Rohr::N,пӑрӑх,píopa
+440,Haus::N,ҫурт,teach
+441,Heim::N,кил,baile
+442,Ofen::N,кӑмака,sornóg
+443,Fußboden::N,урай,urlár
+444,Tisch::N,сӗтел,bord
+445,Tisch::N,сӗтел,tábla
+446,Stuhl::N,пукан,cathaoir
+447,Wiege::N,сӑпка,cliabhán
+448,Bett::N,кравать,leaba
+449,Regal::N,ҫӳлӗк,seilf
+450,Regal::N,сентре,seilf
+451,Kiste::N,ещӗк,bosca
+452,Kiste::N,сунтӑх,bosca
+453,Fenster::N,чӳрече,fuinneoig
+454,Tür::N,алӑк,doras
+455,Tor::N,хапха,geata
+456,Zaun::N,хӳме,fál
+457,Zaun::N,хӳме,claí
+458,Dach::N,тӑрӑ,díon
+459,Leiter::N,пусма,dréimire
+460,Besen::N,шӑпӑр,scuab
+461,Spaten::N,кӗреҫе,spád
+462,Spaten::N,кӗреҫе,rámhainn
+463,Schaufel::N,кӗреҫе,sluasaid
+464,Gabel::N,вилка,forc
+465,Gabel::N,вилка,gabhlóg
+466,Löffel::N,кашӑк,spúnóg
+467,Messer::N,ҫӗҫӗ,scian
+468,Nagel::N,пӑта,tairne
+469,Netz::N,тетел,líon
+470,Netz::N,тетел,eangach
+471,Haken::N,йӑрхах,croch
+472,Haken::N,ҫекӗл,croch
+473,Griff::N,хӑлӑп,cos
+474,Griff::N,хӑлӑп,hanla
+475,Schloss::N,ҫӑра,glas
+476,Bild::N,сӑн,pictiúr
+477,Bild::N,сӑнлӑх,pictiúr
+478,Bild::N,картина,pictiúr
+479,Figur::N,кӗлетке,fíor
+480,Puppe::N,пукане,bábóg
+481,Beutel::N,михӗ,mála
+482,Beutel::N,михӗ,mealbhóg
+483,Bündel::N,ҫыхӑ,beart
+484,Bündel::N,тӗрке,beart
+485,Tasche::N,сумка,mála
+486,Eimer::N,витре,buicéad
+487,Deckel::N,хупӑ,clár
+488,Deckel::N,хупӑ,claibín
+489,Geschirr::N,савӑт-сапа,soithí
+490,Geschirr::N,савӑт-сапа,gréithe
+491,Sack::N,михӗ,sac
+492,Sack::N,михӗ,mála
+493,Tasse::N,курка,cupán
+494,Topf::N,кастрюль,pota
+495,Kessel::N,хуран,citeal
+496,Essen::N,апат,béile
+497,Nahrung::N,апат-ҫимӗс,bia
+498,Speise::N,апат,mias
+499,Speise::N,ҫимӗҫ,mias
+500,Fleisch::N,аш,feoil
+501,Fleisch::N,какай,feoil
+502,Getreide::N,тырӑ,grán
+503,Getreide::N,тырӑ,arbhar
+504,Brei::N,пӑтӑ,brúitín
+505,Brot::N,ҫӑкӑр,arán
+506,Scheibe::N,чӗлӗ,píosa
+507,Scheibe::N,чӗлӗ,slisne
+508,Scheibe::N,касӑк,píosa
+509,Scheibe::N,касӑк,slisne
+510,Fett::N,ҫу,saill
+511,Fett::N,ҫу,méathras
+512,Butter::N,ҫу,im
+513,Öl::N,ҫу,ola
+514,Salz::N,тӑвар,salann
+515,Suppe::N,яшка,sú
+516,Suppe::N,яшка,anraith
+517,Honig::N,пыл,mil
+518,Milch::N,сӗт,bainne
+519,Tee::N,чей,tae
+520,Leder::N,сӑран,leathar
+521,Wolle::N,ҫӑм,olann
+522,Stoff::N,тӗртӗм,éadach
+523,Nadel::N,йӗп,snáthaid
+524,Faden::N,ҫип,snáth
+525,Knopf::N,тӳме,cnaipe
+526,Knoten::N,йӑлӑ,snaidhm
+527,Farbe::N,сӑрӑ,péint
+528,Kleidung::N,тум,éadaí
+529,Kleidung::N,ҫипуҫ,éadaí
+530,Kleidung::N,тум-тир,éadaí
+531,Hemd::N,кӗпе,léine
+532,Kragen::N,ҫуха,bóna
+533,Ärmel::N,ҫанӑ,muinchille
+534,Hose::N,шӑлавар,bríste
+535,Hose::N,шӑлавар,treabhsar
+536,Gürtel::N,пиҫиххи,crios
+537,Mütze::N,ҫӗлӗк,caipín
+538,Schuh::N,пушмак,bróg
+539,Schuh::N,ботинок,bróg
+540,Stiefel::N,атӑ,buatais
+541,Ring::N,ҫӗрӗ,fáinne
+542,Band::N,хаю,ribín
+543,Band::N,йӗсме,ribín
+544,Kamm::N,тура,cíor
+545,Spiegel::N,тӗкӗр,scáthán
+546,Spiegel::N,куҫ кӗски,scáthán
+547,Riemen::N,чӗн,iall
+548,Riemen::N,чӗн,strapa
+549,Schnur::N,кантра,téad
+550,Schnur::N,кантра,sreangán
+551,Leine::N,касмӑк,iall
+552,Decke::N,утиял,pluid
+553,Decke::N,утиял,blaincéad
+554,Kissen::N,ҫытар,piliúr
+555,Kissen::N,ҫытар,adhartán
+556,Kissen::N,минтер,piliúr
+557,Kissen::N,минтер,adhartán
+558,Tuch::N,тутӑр,scaif
+559,Handtuch::N,ал шӑлли,tuáille
+560,Kraft::N,вӑй,fórsa
+561,Kraft::N,хӑват,fórsa
+562,Stärke::N,хал,neart
+563,Stärke::N,хӑват,neart
+564,Gesundheit::N,хал,sláinte
+565,Gesundheit::N,сывлӑх,sláinte
+566,Krankheit::N,чир,tinneas
+567,Krankheit::N,чир,breoiteacht
+568,Schmerz::N,ырату,pian
+569,Wunde::N,суран,goin
+570,Fieber::N,сив чир,fiabhras
+571,Arznei::N,эмел,cógas
+572,Brücke::N,кӗпер,droichead
+573,Brunnen::N,ҫӑл,tobar
+574,Brunnen::N,пусӑ,tobar
+575,Weide::N,ҫаран,féarach
+576,Pfad::N,йӗр,cosán
+577,Pfad::N,йӗр,conair
+578,Pfad::N,сукмак,cosán
+579,Pfad::N,сукмак,conair
+580,Weg::N,ҫул,slí
+581,Weg::N,ҫул,bealach
+582,Weg::N,ҫул-йӗр,slí
+583,Weg::N,ҫул-йӗр,bealach
+584,Straße::N,ҫӳрев,bóthar
+585,Straße::N,ҫул ҫӳрени,bóthar
+586,Dorf::N,ял,sráidbhaile
+587,Stadt::N,хула,baile
+588,Stadt::N,хула,cathair
+589,Brief::N,ҫыру,litir
+590,Buch::N,кӗнеке,cín
+591,Buch::N,кӗнеке,leabhar
+592,Buchstabe::N,сас палли,litir
+593,Zeitung::N,хаҫат,nuachtán
+594,Leben::N,пурнӑҫ,saol
+595,Leben::N,пурнӑҫ,beatha
+596,Tod::N,вилӗм,bás
+597,Grab::N,масар шӑтӑкӗ,uaigh
+598,Kirche::N,чиркӳ,eaglais
+599,Sünde::N,ҫылӑх,peaca
+600,Gott::N,турӑ,dia
+601,Arbeiter::N,рабочи,oibrí
+602,Chef::N,пуҫлӑх,saoiste
+603,Chef::N,пуҫлӑх,ceannasaí
+604,Meister::N,ӑста,máistir
+605,Meister::N,мастер,máistir
+606,Arzt::N,врач,lia
+607,Arzt::N,врач,dochtúir
+608,Arzt::N,тухтӑр,lia
+609,Arzt::N,тухтӑр,dochtúir
+610,Lehrer::N,учитель,oide
+611,Lehrer::N,учитель,múinteoir
+612,Lehrer::N,вӗрентекен,oide
+613,Lehrer::N,вӗрентекен,múinteoir
+614,Geld::N,укҫа,airgead
+615,Geschäft::N,бизнес,gnó
+616,Laden::N,магазин,siopa
+617,Preis::N,хак,praghas
+618,Ware::N,тавар,earra
+619,Nutzen::N,пайта,tairbhe
+620,Reichtum::N,мул,rachmas
+621,Reichtum::N,мул,saibhreas
+622,Welt::N,тӗнче,domhan
+623,Land::N,ҫӗр-шыв,tír
+624,Staat::N,патшàлӑх,stát
+625,König::N,король,rí
+626,Macht::N,власть,cumhacht
+627,Grenze::N,чикӗ,críoch
+628,Grenze::N,чикӗ,teorainn
+629,Krieg::N,вӑрҫӑ,cogadh
+630,Feind::N,тӑшман,namhaid
+631,Gewalt::N,ирӗксӗрлӳ,foréigean
+632,Kampf::N,кӗрешӳ,troid
+633,Bogen[Waffe]::N,ухӑ,bogha
+634,Pfeil::N,ҫӗмрен,saighead
+635,Pfeil::N,ухӑ йӗппи,saighead
+636,Gewehr::N,пӑшал,gunna
+637,Fehler::N,йӑнӑш,botún
+638,Fehler::N,йӑнӑш,meancóg
+639,Lüge::N,суя,bréag
+640,Lüge::N,суя,éitheach
+641,Lüge::N,ултав,bréag
+642,Lüge::N,ултав,éitheach
+643,Schaden::N,сиен,dochar
+644,Schaden::N,сиен,damáiste
+645,Unglück::N,шар,drochrath
+646,Unglück::N,инкек,drochrath
+647,Schuld::N,айӑп,locht
+648,Schuld::N,айӑп,milleán
+649,Alter::N,ҫул шучӗ,aois
+650,Schluss::N,пӗтни,deireadh
+651,Schluss::N,пӗтмӗш,deireadh
+652,Zeit::N,вӑхӑт,am
+653,Zeit::N,вӑхӑт,aimsir
+654,Tag::N,кун,lá
+655,Morgen::N,ир,maidin
+656,Mittag::N,кӑнтӑрла,nóin
+657,Abend::N,каҫ,tráthnóna
+658,Nacht::N,каҫ,oíche
+659,Woche::N,эрне,seachtain
+660,Monat::N,уйӑх,mí
+661,Jahr::N,ҫулталӑк,bliain
+662,Frühling::N,ҫур,earrach
+663,Frühling::N,ҫуркунне,earrach
+664,Sommer::N,ҫу,samhradh
+665,Sommer::N,ҫулла,samhradh
+666,Herbst::N,кӗр,fómhar
+667,Herbst::N,кӗркунне,fómhar
+668,Winter::N,хӗл,geimhreadh
+669,Winter::N,хӗлле,geimhreadh
+670,Januar::N,январь,Eanáir
+671,Februar::N,февраль,Feabhra
+672,Februar::N,кӗҫӗн кӑрлач,Feabhra
+673,März::N,март,Márta
+674,März::N,пуш уйӑхӗ,Márta
+675,April::N,апрель,Aibreán
+676,Mai::N,май,Bealtaine
+677,Juni::N,июнь,Meitheamh
+678,Juli::N,июль,Iúil
+679,August::N,август,Lúnasa
+680,September::N,сентябрь,Meán Fómhair
+681,September::N,авӑн уйӑхӗ,Meán Fómhair
+682,Oktober::N,октябрь,Deireadh Fómhair
+683,November::N,ноябрь,Samhain
+684,November::N,ноябрь,Mí na Samhna
+685,Dezember::N,раштав,Mí na Nollag
+686,Dezember::N,декабрь,Mí na Nollag
+687,Montag::N,тунти кун,Luan
+688,Montag::N,тунти кун,Dé Luain
+689,Dienstag::N,ытлари кун,Máirt
+690,Dienstag::N,ытлари кун,Dé Máirt
+691,Mittwoch::N,юн кун,Céadaoin
+692,Mittwoch::N,юн кун,Dé Céadaoin
+693,Donnerstag::N,кӗҫнерни кун,Déardaoin
+694,Freitag::N,эрне кун,Aoine
+695,Freitag::N,эрне кун,Dé hAoine
+696,Samstag::N,шӑмат кун,Satharn
+697,Samstag::N,шӑмат кун,Dé Sathairn
+698,Sonntag::N,вырсарни кун,Domhnach
+699,Sonntag::N,вырсарни кун,Dé Domhnaigh
+700,groß::A,пысӑк,mór
+701,klein::A,пӗчӗк,beag
+702,lang::A,вӑрӑм,fada
+703,kurz::A,кӗске,gearr
+704,kurz::A,кӗске,gairid
+705,breit::A,сарлака,leathan
+706,breit::A,сарлака,fairsing
+707,schmal::A,ансӑр,cúng
+708,dicht::A,йӑвӑ,dlúth
+709,dick[Gegenstand]::A,хулӑн,tiubh
+710,dünn::A,ҫинҫе,caol
+711,dünn::A,ҫинҫе,tanaí
+712,dünn::A,ҫӳхе,caol
+713,dünn::A,ҫӳхе,tanaí
+714,fein::A,тарай,scáinte
+715,fein::A,тарай,fíneálta
+716,fein::A,вӗлтӗрти,scáinte
+717,fein::A,вӗлтӗрти,fíneálta
+718,fest::A,тӗреклӗ,daingean
+719,flach::A,лаптак,cothrom
+720,glatt::A,такӑр,mín
+721,glatt::A,такӑр,sleamhain
+722,hart::A,хытӑ,crua
+723,weich::A,ҫемҫе,bog
+724,rund::A,ҫавра,cruinn
+725,spitz::A,шӗвӗр,gobach
+726,spitz::A,шӗвӗр,biorach
+727,scharf::A,ҫивӗч,géar
+728,scharf::A,ҫивӗч,faobhrach
+729,stumpf::A,мӑка,maol
+730,stumpf::A,пуклак,maol
+731,stumpf::A,тӗрӗнчӗк,maol
+732,stumpf::A,ӑнкарусӑр,maol
+733,schwer::A,йывӑр,trom
+734,schön::A,илемлӗ,álainn
+735,heiß::A,вӗри,te
+736,warm::A,ӑшӑ,te
+737,kalt::A,сивӗ,fuar
+738,kühl::A,уҫӑ,fionnuar
+739,frisch::A,уҫӑ,úr
+740,frisch::A,уҫӑ,friseáilte
+741,feucht::A,йӗпе,tais
+742,nass::A,нӳрӗ,fliuch
+743,trocken::A,типӗ,tirim
+744,voll::A,тулли,lán
+745,leer::A,пушӑ,folamh
+746,offen::A,уҫӑ,oscailte
+747,geschlossen::A,хупӑ,dúnta
+748,geschlossen::A,хупӑ,druidte
+749,sauber::A,таса,glan
+750,schmutzig::A,пылчӑклӑ,salach
+751,schmutzig::A,вараланчӑк,salach
+752,roh::A,чӗрӗ,amh
+753,reif::A,пулнӑ,aibí
+754,reif::A,пиҫӗхнӗ,aibí
+755,reif::A,аталаннӑ,aibí
+756,reif::A,пиҫсе ҫитнӗ,aibí
+757,lecker::A,тутлӑ,blasta
+758,lecker::A,техӗмлӗ,blasta
+759,süß::A,пылак,milis
+760,bitter::A,йӳҫӗ,searbh
+761,sauer::A,йӳҫӗ,géar
+762,sauer::A,йӳҫӗ,searbh
+763,sauer::A,йӳҫек,géar
+764,sauer::A,йӳҫек,searbh
+765,sauer::A,кӑвасак,géar
+766,sauer::A,кӑвасак,searbh
+767,hell::A,ҫутӑ,geal
+768,hell::A,ҫутӑ,soilseach
+769,dunkel::A,тӗттӗм,dorcha
+770,schwarz::A,хура,dubh
+771,weiß::A,шурӑ,bán
+772,rot::A,хӗрлӗ,dearg
+773,gelb::A,сарӑ,buí
+774,blau::A,кӑвак,gorm
+775,grün::A,симӗс,glas
+776,grün::A,симӗс,uaine
+777,grün::A,пиҫмен,glas
+778,grün::A,пиҫмен,uaine
+779,grün::A,ӑс пухман,glas
+780,grün::A,ӑс пухман,uaine
+781,grau::A,кӑвак,liath
+782,bunt::A,чӑпар,ildathach
+783,bunt::A,чӑпар,dathannach
+784,billig::A,йӳнӗ,saor
+785,teuer::A,хаклӑ,daor
+786,teuer::A,хаклӑ,costasach
+787,wertvoll::A,паха,luachmhar
+788,blind::A,суккӑр,dall
+789,blind::A,суккӑр,caoch
+790,taub::A,хӑлхасӑр,bodhar
+791,kräftig::A,хӑватлӑ,cumhachtach
+792,stark::A,вирлӗ,tréan
+793,stark::A,вирлӗ,láidir
+794,schwach::A,халсӑр,lag
+795,schwach::A,халсӑр,fann
+796,fett::A,самӑр,ramhar
+797,fett::A,мӑнтӑр,ramhar
+798,schlank::A,йӑрӑс,caol
+799,schlank::A,йӑрӑс,seang
+800,schlank::A,яштака,caol
+801,schlank::A,яштака,seang
+802,hübsch::A,хитре,álainn
+803,hübsch::A,хитре,dathúil
+804,böse::A,усал,olc
+805,dumm::A,ухмах,dúr
+806,dumm::A,ухмах,amaideach
+807,faul::A,наян,falsa
+808,faul::A,наян,leisciúil
+809,faul::A,юлхав,falsa
+810,faul::A,юлхав,leisciúil
+811,faul::A,ӳркенчӗк,falsa
+812,faul::A,ӳркенчӗк,leisciúil
+813,fleißig::A,хастар,dícheallach
+814,geizig::A,хытӑ,barainneach
+815,geizig::A,хытӑ,sprionlaithe
+816,klug::A,ӑслӑ,cliste
+817,geschickt::A,ӑста,oilte
+818,geschickt::A,ӑста,ealaíonta
+819,lieb::A,савнӑ,dil
+820,lieb::A,савнӑ,dílis
+821,lustig::A,хаваслӑ,aerach
+822,lustig::A,хаваслӑ,meidhreach
+823,sanft::A,ачаш,bog
+824,sanft::A,ачаш,séimh
+825,hungrig::A,выҫӑ,ocrach
+826,krank::A,чирлӗ,tinn
+827,krank::A,чирлӗ,breoite
+828,nackt::A,ҫара,nocht
+829,traurig::A,салхуллӑ,brónach
+830,lebendig::A,чӗрӗ,beo
+831,gut::A,аван,maith
+832,gut::A,лайӑх,maith
+833,schlecht::A,япӑх,dona
+834,schlecht::A,япӑх,droch-
+835,schlecht::A,начар,dona
+836,schlecht::A,начар,droch-
+837,richtig::A,тӗрӗс,ceart
+838,schlimm::A,йӗрӗнчӗк,gránna
+839,schlimm::A,йӗрӗнчӗк,tubaisteach
+840,wahr::A,чӑн,fíor
+841,alt::A,кивӗ,sean
+842,neu::A,ҫӗнӗ,úr
+843,neu::A,ҫӗнӗ,nua
+844,ehemalig::A,пулнӑ,iar-
+845,ehemalig::A,пулнӑ,sean-
+846,alt[Lebewesen]::A,ватӑ,sean
+847,alt[Lebewesen]::A,ватӑ,aosta
+848,jung::A,яш,óg
+849,jung::A,ҫамрӑк,óg
+850,arm::A,чухӑн,bocht
+851,reich::A,пуян,saibhir
+852,reich::A,пуян,rachmasach
+853,bekannt::A,пӗлӗш,atá eolas air
+854,berühmt::A,чаплӑ,cailiúil
+855,berühmt::A,чаплӑ,clúiteach
+856,fremd::A,ют,coimhthíoch
+857,verschieden::A,расна,éagsúil
+858,verschieden::A,расна,difriúil
+859,nah::A,ҫывӑх,gar
+860,nah::A,ҫывӑх,deas
+861,nah::A,ҫывӑхри,gar
+862,nah::A,ҫывӑхри,deas
+863,fern::A,инҫе,i bhfad uainn
+864,fern::A,инҫе,i bhfad i gcéin
+865,fern::A,аякри,i bhfad uainn
+866,fern::A,аякри,i bhfad i gcéin
+867,linker::A,сулахай,clé
+868,rechter::A,сылтӑм,deas
+869,anderer::A,урӑх,eile
+870,erster::A,пӗрремӗш,céad
+871,zweiter::A,иккӗмӗш,dóú
+872,zweiter::A,иккӗмӗш,dara
+873,dritter::A,виҫҫӗмӗш,tríú
+874,dritter::A,виҫҫӗмӗш,treas
+875,letzter::A,юлашки,déanach
+876,letzter::A,юлашки,deireanach
+877,allein::ADV,пӗччен,i d'aonar
+878,auf einmal::ADV,кӗмӗрккен,ag an am céanna
+879,zusammen::ADV,пӗрле,le chéile
+880,zusammen::ADV,пӗрле,in eineacht
+881,lange::ADV,вӑрах,fada
+882,plötzlich::ADV,сасартӑк,go tobann
+883,plötzlich::ADV,сасартӑк,i dtobainne
+884,sofort::ADV,тӳрех,ar an toirt
+885,sofort::ADV,тӳрех,ar an bpointe
+886,später::ADV,кайран,níos déanaí
+887,jetzt::ADV,халь,anois
+888,jetzt::ADV,халӗ,anois
+889,heute::ADV,паян,inniu
+890,morgen::ADV,ыран,amárach
+891,bald::ADV,халех,go luath
+892,bald::ADV,халех,gan mhoill
+893,bald::ADV,кӗҫех,go luath
+894,bald::ADV,кӗҫех,gan mhoill
+895,dann::ADV,унтан,ansin
+896,gestern::ADV,ӗнер,inné
+897,einst::ADV,пӗррехинче,tráth
+898,einst::ADV,пӗррехинче,uair amháin
+899,damals::ADV,ун чухне,ag an am
+900,damals::ADV,ун чухне,an t-am sin
+901,damals::ADV,апла пулсан,ag an am
+902,damals::ADV,апла пулсан,an t-am sin
+903,danach::ADV,унтан,ina dhiaidh sin
+904,vorher::ADV,малтан,cheana
+905,vorher::ADV,малтан,roimhe sin
+906,zuerst::ADV,пирвай,ar dtús
+907,einmal::ADV,пӗррехинче,uair amháin
+908,manchmal::ADV,хӑш чухне,uaireanta
+909,oft::ADV,тӑтӑш,minic
+910,immer::ADV,ялан,i gcónaí
+911,niemals::ADV,нихӑҫан та,riamh
+912,hier::ADV,кунта,anseo
+913,hierhin::ADV,кунта,anseo
+914,von hier::ADV,кунтан,an áit seo
+915,dort::ADV,унта,ann
+916,dort::ADV,унта,ansin
+917,dort::ADV,ҫавӑнта,ann
+918,dort::ADV,ҫавӑнта,ansin
+919,dorthin::ADV,унта,ann
+920,dorthin::ADV,унта,ansin
+921,dorthin::ADV,ҫавӑнта,ann
+922,dorthin::ADV,ҫавӑнта,ansin
+923,geradeaus::ADV,тикӗс,ar aghaidh
+924,vorwärts::ADV,малалла,
+925,rückwärts::ADV,хыҫала,siar
+926,zurück::ADV,каялла,ar ais
+927,unten::ADV,аялта,thíos
+928,hinab::ADV,аялта,síos
+929,oben::ADV,ҫӳлте,thuas
+930,hinauf::ADV,ҫӳле,suas
+931,überall::ADV,таҫта та,i ngach áit
+932,überall::ADV,таҫта та,ar fud na háite
+933,überall::ADV,пур ҫӗрте те,i ngach áit
+934,überall::ADV,пур ҫӗрте те,ar fud na háite
+935,überall::ADV,кирек ӑҫта та,i ngach áit
+936,überall::ADV,кирек ӑҫта та,ar fud na háite
+937,nicht::ADV,мар,ní
+938,nicht::ADV,мар,cha
+939,ein wenig::ADV,пӑртак,beagán
+940,kaum::ADV,аран,ar éigean
+941,sehr::ADV,питӗ,an-
+942,so::ADV,апла,chomh
+943,so::ADV,апла,mar sin
+944,noch::ADV,татах,fós
+945,noch::ADV,татах,go fóill
+946,nur::ADV,ҫех,amháin
+947,nur::ADV,ҫех,níl ach
+948,schon::ADV,ӗнтӗ,cheana
+949,schon::ADV,ӗнтӗ,cheana féin
+950,wieder::ADV,каллех,arís
+951,wieder::ADV,каллех,athuair
+952,vergebens::ADV,харам,amú
+953,vergebens::ADV,харам,in aisce
+954,vor::PRP,умӗнче,ar thosach
+955,hinter::PRP,кайра,laistiar de
+956,hinter::PRP,кайра,taobh thiar de
+957,unter::PRP,айне,faoi
+958,unter::PRP,айӗпе,faoi
+959,unter::PRP,айӗнче,faoi
+960,unter::PRP,ҫитеспе,faoi
+961,durch::PRP,витӗр,trí
+962,neben::PRP,патӗнче,taobh le
+963,neben::PRP,патӗнче,in aice le
+964,zwischen::PRP,хушшинче,idir
+965,wegen::PRP,пула,de bharr
+966,wegen::PRP,пула,mar gheall ar
+967,wegen::PRP,пирки,de bharr
+968,wegen::PRP,пирки,mar gheall ar
+969,dies::PRN,ку,seo
+970,dies::PRN,ҫак,seo
+971,das::PRN,ҫав,sin
+972,alles::PRN,пурте,gach rud
+973,alles::PRN,йӑлт,gach rud
+974,ich::PRN,эп,mé
+975,ich::PRN,эп,mise
+976,du::PRN,эс,tú
+977,du::PRN,эс,tusa
+978,er::PRN,вӑл,sé
+979,er::PRN,вӑл,seisean
+980,wir::PRN,эпир,sinn
+981,ihr::PRN,эсир,sibh
+982,ihr::PRN,эсир,sibhse
+983,sie::PRN,вӗсем,siad
+984,sie::PRN,вӗсем,siadsan
+985,was::FPRN,мӗн,cad
+986,was::FPRN,мӗн,céard
+987,was::FPRN,мӗскер,cad
+988,was::FPRN,мӗскер,céard
+989,was::FPRN,мӗн те пулин,cad
+990,was::FPRN,мӗн те пулин,céard
+991,wer::FPRN,кам,cé
+992,wo::FADV,ӑҫта,cá
+993,wo::FADV,ӑҫта,cén áit
+994,wohin::FADV,ӑҫта,cá
+995,wohin::FADV,ӑҫта,cén áit
+996,wie::FADV,епле,conas
+997,wie::FADV,епле,cén chaoi
+998,wie::FADV,мӗнле,conas
+999,wie::FADV,мӗнле,cén chaoi
+1000,warum::FADV,ма,cén fáth
+1001,warum::FADV,ма,cad chuige
+1002,warum::FADV,мӗншӗн,cén fáth
+1003,warum::FADV,мӗншӗн,cad chuige
+1004,wieviel::FNUM,миҫе,cá mhéad
+1005,eins::NUM,пӗр,aon
+1006,eins::NUM,пӗрре,aon
+1007,zwei::NUM,ик,dhá
+1008,zwei::NUM,икӗ,dhá
+1009,zwei::NUM,иккӗ,dhá
+1010,drei::NUM,виҫ,trí
+1011,drei::NUM,виҫӗ,trí
+1012,drei::NUM,виҫҫӗ,trí
+1013,vier::NUM,тӑват,ceathair
+1014,fünf::NUM,пилӗк,cúig
+1015,fünf::NUM,пиллӗк,cúig
+1016,sechs::NUM,улт,sé
+1017,sechs::NUM,ултӑ,sé
+1018,sechs::NUM,улттӑ,sé
+1019,sieben::NUM,ҫич,seacht
+1020,sieben::NUM,ҫичӗ,seacht
+1021,sieben::NUM,ҫиччӗ,seacht
+1022,acht::NUM,сакӑр,ocht
+1023,acht::NUM,саккӑр,ocht
+1024,neun::NUM,тӑхӑр,naoi
+1025,neun::NUM,тӑххӑр,naoi
+1026,zehn::NUM,вунӑ,deich
+1027,zehn::NUM,вуннӑ,deich
+1028,elf::NUM,вун пӗр,aon déag
+1029,zwölf::NUM,вун ик,dó dhéag
+1030,zwölf::NUM,вун икӗ,dó dhéag
+1031,zwölf::NUM,вун иккӗ,dó dhéag
+1032,zwanzig::NUM,ҫирӗм,fiche
+1033,dreißig::NUM,вӑтӑр,tríocha
+1034,vierzig::NUM,хӗрӗх,daichead
+1035,vierzig::NUM,хӗрӗх,ceathracha
+1036,fünfzig::NUM,аллӑ,caoga
+1037,sechzig::NUM,утмӑл,seasca
+1038,siebzig::NUM,ҫитмӗл,seachtó
+1039,achtzig::NUM,сакӑр вунӑ,ochtó
+1040,achtzig::NUM,сакӑр вуннӑ,ochtó
+1041,neunzig::NUM,тӑхӑр вун,nócha
+1042,neunzig::NUM,тӑхӑр вунӑ,nócha
+1043,neunzig::NUM,тӑхӑр вуннӑ,nócha
+1044,hundert::NUM,ҫӗр,céad
+1045,tausend::NUM,пин,míle
+1046,und::CNJ,та,agus
+1047,oder::CNJ,е,nó
+1048,stehen::V,тӑр,seas
+1049,sitzen::V,лар,suigh
+1050,liegen::V,вырт,luigh
+1051,hängen::V,усӑнса тӑр,tá crochta
+1052,hängen::V,ҫакӑнса тӑр,tá crochta
+1053,werden::V,пул,éirigh
+1054,passieren::V,пул,tarlaigh
+1055,beginnen::V,пуҫлан,tosaigh
+1056,enden::V,пӗт,críochnaigh
+1057,enden::V,вӗҫлен,críochnaigh
+1058,wechseln::V,улшӑн,athraigh
+1059,aufgehen[Sonne]::V,тух,éirigh
+1060,untergehen[Sonne]::V,анса лар,fuin
+1061,untergehen[Sonne]::V,анса лар,téigh faoi
+1062,scheinen[Sonne]::V,пӑх,taitin
+1063,scheinen[Sonne]::V,пӑх,soilsigh
+1064,donnern::V,кӗмсӗртет,tá toirneach ann
+1065,donnern::V,авӑт,tá toirneach ann
+1066,wehen::V,варкӑш,séid
+1067,strömen::V,тӑкӑн,sil
+1068,fließen::V,юх,rith
+1069,fließen::V,юх,snigh
+1070,sich drehen::V,ҫаврӑн,cas
+1071,sich drehen::V,ҫаврӑн,imrothlaigh
+1072,schwanken::V,чӳхен,luasc
+1073,schwingen::V,суллан,luasc
+1074,fallen::V,кип,tit
+1075,fallen::V,тӳр кип,tit
+1076,fallen::V,татӑлса ан,tit
+1077,brennen::V,ҫун,dóigh
+1078,rauchen::V,мӑкӑрлан,plúch toite
+1079,rauchen::V,тӗтӗм кӑлар,plúch toite
+1080,regnen::V,ҫумӑр ҫӑвать,báistigh
+1081,regnen::V,ҫумӑр ҫӑвать,tá ag cur báistí
+1082,gefrieren::V,шӑн,sioc
+1083,gefrieren::V,шӑн,reoigh
+1084,tauen::V,ирӗл,leáigh
+1085,tauen::V,ирӗл,coscair
+1086,schmelzen::V,ирӗл,leáigh
+1087,trocknen::V,тип,triomaigh
+1088,sieden::V,вӗре,fiuch
+1089,sieden::V,вӗре,beirigh
+1090,faulen::V,ҫӗр,lobh
+1091,faulen::V,ҫӗр,dreoigh
+1092,verfaulen::V,ҫӗр,lobh
+1093,verfaulen::V,ҫӗр,feoigh
+1094,reißen::V,ҫурӑл,bris
+1095,versinken::V,пут,téigh síos
+1096,vergehen::V,ирт,téigh thart
+1097,erscheinen::V,курӑн,tar
+1098,erscheinen::V,курӑнса кай,tar
+1099,verschwinden::V,ҫухал,imigh
+1100,sinken::V,чак,tit
+1101,sinken::V,чак,ísligh
+1102,abnehmen::V,чак,maolaigh
+1103,abnehmen::V,чак,laghdaigh
+1104,zunehmen::V,пысӑклан,méadaigh
+1105,steigen::V,ҫӗклен,éirigh
+1106,wachsen::V,ӳс,fás
+1107,glänzen::V,ҫиҫ,lonraigh
+1108,funkeln::V,ялкӑш,drithligh
+1109,funkeln::V,йӑлтӑртат,drithligh
+1110,lärmen::V,шавла,tóg callán
+1111,läuten::V,шӑнкӑравла,buail
+1112,klingeln::V,шӑнкӑравла,buail
+1113,klirren::V,калтлат,cling
+1114,klirren::V,шӑнкӑлтат,cling
+1115,brausen::V,ахӑр,búir
+1116,rauschen::V,вашӑлтат,tá ag siosarnach
+1117,rauschen::V,чашӑлтат,tá ag siosarnach
+1118,klingen::V,янӑра,tá glór ag
+1119,bellen::V,вӗр,amhastraigh
+1120,heulen::V,ула,glam
+1121,blasen::V,вӗр,séid
+1122,pfeifen::V,шӑхӑр,lig fead
+1123,schreien::V,кӑшкӑр,béic
+1124,schreien::V,кӑшкӑр,glaoigh
+1125,stöhnen::V,йынӑш,lig cnead
+1126,zittern::V,чӗтре,crith
+1127,zittern::V,чӗтре,creathnaigh
+1128,leben::V,пурӑн,mair
+1129,geboren werden::V,ҫурал,rugadh
+1130,atmen::V,сывла,análaigh
+1131,trinken::V,ӗҫ,ól
+1132,essen::V,ҫи,ith
+1133,schlucken::V,ҫӑт,slog
+1134,müde werden::V,ӗшен,tuirsigh
+1135,einschlafen::V,ыйха пут,tit ina chodladh
+1136,einschlafen::V,ҫывӑрса кай,tit ina chodladh
+1137,schlafen::V,ҫывӑр,codail
+1138,aufwachen::V,вӑран,múscail
+1139,aufstehen::V,тӑр,éirigh
+1140,sich erholen::V,кан,lig scíth
+1141,krank werden::V,чирле,éirigh tinn
+1142,krank sein::V,чирле,tá tinn
+1143,schmerzen::V,сур,tá pian i
+1144,schmerzen::V,ырат,tá pian i
+1145,husten::V,ӳсӗр,déan casacht
+1146,genesen::V,сывал,téarnaigh
+1147,genesen::V,тӳрлен,téarnaigh
+1148,sterben::V,вил,éag
+1149,sterben::V,вил,faigh bás
+1150,umkommen::V,вил,caill
+1151,sich bewegen::V,куҫ,bog
+1152,sich bewegen::V,куҫ,gluais
+1153,sich rühren::V,хускал,corraigh
+1154,sich erheben::V,тӑр,seas suas
+1155,sich setzen::V,лар,suigh
+1156,hinfallen::V,ӳк,tit
+1157,laufen::V,ут,siúil
+1158,schreiten::V,ут,siúil
+1159,spazierengehen::V,уҫӑлса ҫӳре,téigh ag spaisteoireacht
+1160,spazierengehen::V,уткаласа ҫӳре,téigh ag spaisteoireacht
+1161,eilen::V,васка,deifrigh
+1162,eilen::V,васка,brostaigh
+1163,eilen::V,хыпалан,deifrigh
+1164,eilen::V,хыпалан,brostaigh
+1165,sich beeilen::V,васка,deifrigh
+1166,sich beeilen::V,васка,déan deifir
+1167,sich beeilen::V,хыпалан,deifrigh
+1168,sich beeilen::V,хыпалан,déan deifir
+1169,sausen::V,ыткӑн,luathaigh
+1170,sausen::V,вӗҫтер,luathaigh
+1171,rennen::V,чуп,rith
+1172,springen::V,сик,léim
+1173,klettern::V,улӑх,dreap
+1174,schaukeln::V,йӳрӗн,téigh ar an maide corrach
+1175,kriechen::V,шу,snámh
+1176,kriechen::V,упален,snámh
+1177,schwimmen::V,иш,snámh
+1178,tauchen::V,чӑм,tum
+1179,rudern::V,авӑс,iomair
+1180,rudern::V,авӑс,rámhaigh
+1181,fahren::V,пыр,tiomáin
+1182,fliegen::V,вӗҫ,eitil
+1183,gehen::V,кай,téigh
+1184,weggehen::V,кай,imigh
+1185,abfahren::V,тапран,imigh
+1186,anhalten::V,чарӑн,stad
+1187,hineingehen::V,кӗр,téigh isteach
+1188,eintreten::V,кӗр,téigh isteach
+1189,kommen::V,кил,tar
+1190,ankommen::V,ҫит,tar
+1191,zurückkommen::V,таврӑн,fill
+1192,zurückkommen::V,каялла кил,fill
+1193,bleiben::V,юл,fan
+1194,warten::V,кӗт,fan
+1195,erwarten::V,кӗт,tá ag súil le
+1196,erwarten::V,кӗт,tá ag dréim le
+1197,suchen::V,шыра,lorg
+1198,finden::V,туп,faigh
+1199,finden::V,туп,aimsigh
+1200,versuchen::V,пикен,triail
+1201,vorbereiten::V,хатӗрле,réitigh
+1202,lieben::V,юрат,gráigh
+1203,mögen::V,кӑмӑлла,taitin le
+1204,mögen::V,кӑмӑлла,is maith le
+1205,mögen::V,килӗштер,taitin le
+1206,mögen::V,килӗштер,is maith le
+1207,lachen::V,кул,gáir
+1208,lachen::V,ахӑлтат,gáir
+1209,rühren::V,ҫулӑх,téigh i bhfeidhm ar
+1210,weinen::V,йӗр,goil
+1211,weinen::V,йӗр,caoin
+1212,weinen::V,макӑр,goil
+1213,weinen::V,макӑр,caoin
+1214,schimpfen::V,вӑрҫ,tá ag clamhsán
+1215,schimpfen::V,ятлаҫ,tá ag clamhsán
+1216,sich ärgern::V,ҫиллен,tá corraithe
+1217,sich fürchten::V,шиклен,tá eagla ar
+1218,fürchten::V,хӑра,tá eagla ar
+1219,fliehen::V,тар,teith
+1220,flüchten::V,чупса тар,éalaigh
+1221,sehen::V,кур,feic
+1222,anschauen::V,пӑхса ил,dearc
+1223,anschauen::V,пӑхса ил,féach ar
+1224,ansehen::V,пӑх,breathnaigh
+1225,hören::V,илт,cluin
+1226,zuhören::V,итле,éist
+1227,zuhören::V,тӑнла,éist
+1228,probieren::V,астив,bliais
+1229,riechen::V,шӑршла,bolaigh
+1230,fühlen::V,туй,braith
+1231,fühlen::V,туй,mothaigh
+1232,fühlen::V,сис,braith
+1233,fühlen::V,сис,mothaigh
+1234,scheinen::V,туйӑн,tá an chuma ar
+1235,zu sehen sein::V,курӑн,tá le feiceáil
+1236,vernehmen::V,пӑл,clois
+1237,frieren::V,йӳтен,tá fuar
+1238,tun::V,ту,déan
+1239,können::V,пултар,féad
+1240,können::V,пултар,is féidir le
+1241,wollen::V,те,tá ag iarraidh
+1242,anfangen::V,пуҫла,tosaigh
+1243,anfangen::V,пуҫла,cuir tús le
+1244,beenden::V,пӗтер,críochnaigh
+1245,beenden::V,пӗтер,cuir deireadh le
+1246,aufhören::V,пӑрах,stad
+1247,gelingen::V,ӑн,éirigh le
+1248,geraten::V,пул,tá deireadh ar
+1249,öffnen::V,уҫ,oscail
+1250,schließen::V,хуп,dún
+1251,schließen::V,хуп,iaigh
+1252,stellen::V,ларт,cuir
+1253,stellen::V,тӑрат,cuir
+1254,setzen::V,ларт,cuir
+1255,setzen::V,ларт,socraigh
+1256,legen::V,хур,cuir
+1257,berühren::V,перӗн,teagmhaigh le
+1258,verbinden::V,сып,ceangail
+1259,bedecken::V,вит,clúdaigh
+1260,bedecken::V,вит,cumhdaigh
+1261,aufhängen::V,ҫак,croch
+1262,anzünden::V,ҫут,las
+1263,anzünden::V,ҫут,adhain
+1264,aufheben::V,ҫӗкле,tóg
+1265,aufheben::V,ҫӗкле,ardaigh
+1266,zurücklassen::V,манса хӑвар,fág
+1267,verlieren::V,ҫӗтер,caill
+1268,fallen lassen::V,ӳкер,lig uait
+1269,fallen lassen::V,ӳкер,caith uait
+1270,machen::V,ту,déan
+1271,machen::V,ту,réitigh
+1272,herstellen::V,ӑстала,táirg
+1273,bauen::V,ту,tóg
+1274,reparieren::V,юса,deisigh
+1275,verbessern::V,лайӑхлат,feabhsaigh
+1276,ändern::V,улӑштар,athraigh
+1277,graben::V,чав,tochail
+1278,graben::V,чакала,tochail
+1279,beugen::V,кукӑрт,crom
+1280,biegen::V,ав,lúb
+1281,biegen::V,кукӑрт,lúb
+1282,drehen::V,ҫавӑр,cas
+1283,wenden::V,ӳпӗнтер,tiontaigh
+1284,umdrehen::V,ҫавӑр,iompaigh
+1285,umdrehen::V,ҫавӑр,tiontaigh
+1286,heben::V,хӑпарт,ardaigh
+1287,hochheben::V,йӑт,tóg
+1288,ergreifen::V,тыт,beir ar
+1289,halten::V,тыт,coimeád
+1290,halten::V,тыт,coinnigh
+1291,drücken::V,пус,brúigh
+1292,schieben::V,тӗк,brúigh
+1293,schieben::V,тӗрт,brúigh
+1294,kratzen::V,хыр,scríob
+1295,lecken::V,ҫула,ligh
+1296,lecken::V,ҫула,leadhb
+1297,beißen::V,ҫырт,bain greim as
+1298,beißen::V,хып,bain greim as
+1299,abreißen::V,тат,stróic
+1300,abreißen::V,тат,tarraing
+1301,abschneiden::V,кас,scoith
+1302,binden::V,ҫых,ceangail
+1303,stecken::V,чик,sáigh
+1304,brechen::V,хуҫ,bris
+1305,klopfen::V,такка,cnag
+1306,hauen::V,шакка,buail
+1307,kleben::V,ҫыпӑҫтар,gliúáil
+1308,reiben::V,сӑтӑр,cuimil
+1309,streichen::V,сӗр,leath
+1310,schleifen::V,хӑйра,líomh
+1311,schneiden::V,кас,gearr
+1312,rütteln::V,лӑка,croith
+1313,rütteln::V,силлентер,croith
+1314,schütteln::V,лӑка,croith
+1315,schütteln::V,силлентер,croith
+1316,schwenken::V,сулла,luasc
+1317,schütten::V,тултар,doirt
+1318,füllen::V,тултар,líon
+1319,einwickeln::V,чӗрке,cuach
+1320,einwickeln::V,чӗрке,clúdaigh
+1321,tragen::V,ҫӗкле,iompair
+1322,schleppen::V,сӗтӗр,tarraing
+1323,ziehen::V,тӑс,tarraing
+1324,aufbewahren::V,усра,coinnigh
+1325,werfen::V,пӑрах,caith
+1326,fangen::V,тыт,ceap
+1327,packen::V,тыт,beir ar
+1328,verstecken::V,пытарса хур,folaigh
+1329,verstecken::V,пытарса хур,cuir i bhfolach
+1330,teilen::V,уйӑр,roinn
+1331,teilen::V,пайла,roinn
+1332,schicken::V,яр,seol
+1333,bringen::V,кӳр,beir
+1334,bringen::V,кӳр,tabhair
+1335,hinzufügen::V,хуш,cuir le
+1336,bekommen::V,ил,faigh
+1337,bekommen::V,туян,faigh
+1338,erhalten::V,ил,faigh
+1339,erhalten::V,туян,faigh
+1340,nehmen::V,ил,tóg
+1341,nehmen::V,ил,glac
+1342,wählen::V,суйла,pioc
+1343,wählen::V,суйла,roghnaigh
+1344,auswählen::V,суйла,roghnaigh
+1345,bewahren::V,упра,caomhnaigh
+1346,behindern::V,кансӗрле,cuir bac ar
+1347,behindern::V,чӑрмантар,cuir bac ar
+1348,verderben::V,пӑс,mill
+1349,beschädigen::V,пӑс,loit
+1350,beschädigen::V,пӑс,déan damáiste do
+1351,zerbrechen::V,ват,bris
+1352,zerbrechen::V,ҫӗмӗр,bris
+1353,zerreißen::V,ҫур,stiall
+1354,zerstören::V,иш,mill
+1355,zerstören::V,иш,scrios
+1356,verbrennen::V,ҫунтар,las
+1357,verbrennen::V,ҫунтар,dóigh
+1358,geben::V,пар,tabhair
+1359,reichen::V,пар,sín
+1360,reichen::V,пар,cuir
+1361,schenken::V,парнеле,bronn
+1362,schenken::V,парнеле,tabhair
+1363,versprechen::V,тума пул,geall
+1364,versprechen::V,сӑмах пар,geall
+1365,wünschen::V,сун,guigh
+1366,loben::V,ырла,mol
+1367,küssen::V,чуп ту,póg
+1368,wiegen::V,сиктер,bog
+1369,wiegen::V,сиктер,luasc
+1370,wiegen::V,силле,bog
+1371,wiegen::V,силле,luasc
+1372,zudecken::V,вит,clúdaigh
+1373,wecken::V,вӑрат,dúisigh
+1374,zeigen::V,кӑтарт,taispeáin
+1375,führen::V,илсе пыр,treoraigh
+1376,führen::V,ҫавӑтса пыр,treoraigh
+1377,lehren::V,вёрент,múin
+1378,lehren::V,вёрент,teagasc
+1379,unterrichten::V,вёрент,múin
+1380,unterrichten::V,вёрент,teagasc
+1381,aufziehen::V,вӗрент,tóg
+1382,leiten::V,тытса пыр,tá i gceannas ar
+1383,antreiben::V,васкат,gríosaigh
+1384,lassen::V,пусахла,cuir ag
+1385,lassen::V,хуш,cuir ag
+1386,einladen::V,чӗн,cuir cuireadh ar
+1387,vereinigen::V,пӗрлештер,aontaigh
+1388,besuchen::V,ҫит,tabhair cuairt ar
+1389,besuchen::V,кӗрсе кур,tabhair cuairt ar
+1390,treffen::V,тӗл пул,cas ar
+1391,treffen::V,тӗл пул,buail le
+1392,sich versammeln::V,пуҫтарӑн,bailigh
+1393,sich versammeln::V,пуҫтарӑн,cruinnigh
+1394,spielen::V,выля,imir
+1395,spielen::V,выля,tá ag spraoi
+1396,singen::V,юрла,can
+1397,tanzen::V,ташла,rinc
+1398,tanzen::V,ташла,damhsaigh
+1399,sich trennen::V,уйрӑл,scar
+1400,verlassen::V,хӑвар,fág
+1401,retten::V,ҫӑл,tarrtháil
+1402,bewachen::V,хуралла,cosain
+1403,bewachen::V,хуралла,gardáil
+1404,schützen::V,сыхла,cosain
+1405,verteidigen::V,хӳтӗле,cosain
+1406,sich schlagen::V,ҫапӑҫ,tá ag bruíon
+1407,schießen::V,пер,caith
+1408,schießen::V,пер,scaoil
+1409,siegen::V,ҫӗн,bain
+1410,siegen::V,ҫӗн,buaigh
+1411,siegen::V,ҫӗнтер,bain
+1412,siegen::V,ҫӗнтер,buaigh
+1413,ärgern::V,тарӑхтар,cuir isteach ar
+1414,ärgern::V,ҫиллентер,cuir isteach ar
+1415,schlagen::V,ҫап,buail
+1416,treten::V,тап,ciceáil
+1417,stechen::V,чик,sáigh
+1418,stoßen::V,чыш,brúigh
+1419,stoßen::V,чыш,soncáil
+1420,stehlen::V,вӑрла,goid
+1421,stören::V,кансӗрле,cuir isteach ar
+1422,belästigen::V,аптӑрат,cuir as do
+1423,belästigen::V,хупла,cuir as do
+1424,verbergen::V,пытар,ceil
+1425,täuschen::V,суй,cuir dallamullóg ar
+1426,betrügen::V,ултала,déan calaois ar
+1427,töten::V,вӗлер,maraigh
+1428,wohnen::V,чуна пар,cuir faoi
+1429,wohnen::V,чуна пар,tá ina chónaí
+1430,wohnen::V,парӑнса тӑр,cuir faoi
+1431,wohnen::V,парӑнса тӑр,tá ina chónaí
+1432,arbeiten::V,ӗҫле,oibrigh
+1433,sammeln::V,пух,bailigh
+1434,sammeln::V,пух,cruinnigh
+1435,pflücken::V,тат,pioc
+1436,jagen::V,сунара ҫӳре,seilg
+1437,fischen::V,пулӑ тыт,iasc
+1438,fassen::V,тыт,beir ar
+1439,hüten::V,кӗт,aoirigh
+1440,treiben::V,хӑвала,seol
+1441,treiben::V,хӑвала,tiomáin
+1442,anbinden::V,кӑкар,ceangail
+1443,füttern::V,ҫитер,cothaigh
+1444,füttern::V,ҫитер,beathaigh
+1445,melken::V,су,bligh
+1446,melken::V,су,crúigh
+1447,hacken::V,вакла,gearr
+1448,gießen::V,шӑвар,uiscigh
+1449,reifen::V,пиҫ,aibigh
+1450,zubereiten::V,пӗҫер,cócaráil
+1451,kochen::V,пӗҫер,bruith
+1452,kochen::V,пӗҫер,beirigh
+1453,backen::V,пӗҫер,bácáil
+1454,braten::V,ӑшала,róst
+1455,braten::V,ӑшала,frioch
+1456,umrühren::V,хутӑштар,measc
+1457,stricken::V,ҫых,cniotáil
+1458,nähen::V,ҫӗле,fuaigh
+1459,färben::V,пӗвет,dathaigh
+1460,reinigen::V,тасат,glan
+1461,waschen::V,ҫу,nigh
+1462,abwischen::V,шӑл,glan
+1463,spülen::V,чӳхе,sruthlaigh
+1464,fegen::V,шӑл,scuab
+1465,kehren::V,шӑл,scuab
+1466,baden::V,шыва кӗр,folc
+1467,sich waschen::V,ҫӑвӑн,nigh é féin
+1468,ausziehen::V,салан,bain de
+1469,anziehen::V,тӑхӑн,cuir ar
+1470,sich anziehen::V,тӑхӑн,gléas é féin
+1471,kämmen::V,тура,cíor
+1472,schmücken::V,илемлет,maisigh
+1473,sagen::V,те,abair
+1474,sprechen::V,кала,labhair
+1475,reden::V,сӑмахла,caintigh
+1476,reden::V,калаҫ,caintigh
+1477,sich unterhalten::V,пупле,caintigh
+1478,sich unterhalten::V,пупле,tá ag comhrá
+1479,fragen::V,ыйт,fiafraigh
+1480,fragen::V,ыйт,cuir ceist
+1481,bitten::V,ыйт,iarr
+1482,erzählen::V,каласа пар,inis
+1483,erzählen::V,каласа пар,eachtraigh
+1484,mitteilen::V,пӗлтер,aithris
+1485,mitteilen::V,пӗлтер,cuir in iúl
+1486,mitteilen::V,хыпарла,aithris
+1487,mitteilen::V,хыпарла,cuir in iúl
+1488,nennen::V,те,ainmnigh
+1489,nennen::V,чӗн,ainmnigh
+1490,rufen::V,чӗн,glaoigh
+1491,prahlen::V,мухтан,maígh
+1492,prahlen::V,вӗҫкӗнлен,maígh
+1493,übersetzen::V,куҫар,aistrigh
+1494,denken::V,шухӑшла,síl
+1495,denken::V,шухӑшла,ceap
+1496,glauben::V,ӗнен,creid
+1497,bemerken::V,асӑрха,tabhair faoi deara
+1498,erkennen::V,палла,aithin
+1499,begreifen::V,ӑнлан,tuig
+1500,verstehen::V,пӗл,tuig
+1501,lernen::V,вӗрен,foghlaim
+1502,wissen::V,пӗл,tá a fhios ag
+1503,wissen::V,ӑнкар,tá a fhios ag
+1504,sich erinnern an::V,аса ил,cuimhnigh ar
+1505,sich erinnern an::V,аса ил,is cuimhne ar
+1506,vergessen::V,ман,dearmad
+1507,vergessen::V,манса кай,dearmad
+1508,messen::V,виҫ,tomhais
+1509,zählen::V,шутла,cuntais
+1510,rechnen::V,шутла,ríomh
+1511,rechnen::V,шутла,áirigh
+1512,lesen::V,вула,léigh
+1513,malen::V,ӳкер,péinteáil
+1514,zeichnen::V,ӳкер,línigh
+1515,zeichnen::V,ӳкер,tarraing
+1516,schreiben::V,ҫыр,scríobh
+1517,besitzen::V,тыт,is le
+1518,kaufen::V,ил,ceannaigh
+1519,kaufen::V,туян,ceannaigh
+1520,verkaufen::V,сут,díol
+1521,bezahlen::V,тӳле,íoc as
+1522,zahlen::V,тӳле,íoc
+1523,beherrschen::V,тыт,rialaigh
+1524,ertragen::V,тӳс,seas
+1525,ertragen::V,тӳс,fulaing
+1526,ertragen::V,тӳс,foighnigh
+1527,Bauch::N,,bolg

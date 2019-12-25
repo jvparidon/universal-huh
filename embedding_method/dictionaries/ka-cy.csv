@@ -1,0 +1,1349 @@
+,Concept_ID,ka,cy
+0,Auge::N,თვალი,llygad
+1,Ohr::N,ყური,clust
+2,Nase::N,ცხვირი,trwyn
+3,Mund::N,პირი,ceg
+4,Zahn::N,კბილი,dant
+5,Zunge::N,ენა,tafod
+6,Lippe::N,ბაგე,gwefus
+7,Wange::N,ლოყა,boch
+8,Gesicht::N,სახე,wyneb
+9,Stirn::N,შუბლი,talcen
+10,Haar::N,თმა,blew
+11,Schnurrbart::N,ულვაში,mwstas
+12,Bart::N,წვერი,barf
+13,Kinn::N,ნიკაპი,gên
+14,Kiefer[Anatomie]::N,ყბა,gên
+15,Kehle::N,ყელი,gwddf
+16,Hals::N,ყელი,gwddf
+17,Hals::N,კისერი,gwddf
+18,Genick::N,კეფა,gwar
+19,Genick::N,კეფა,gwegil
+20,Kopf::N,თავი,pen
+21,Rücken::N,ზურგი,cefn
+22,Bauch::N,მუცელი,bol
+23,Nabel::N,ჭიპი,bogail
+24,Busen::N,ძუძუ,bron
+25,Brust::N,მკერდი,brest
+26,Schulter::N,მხარი,ysgwydd
+27,Schulter::N,მკლავი,ysgwydd
+28,Arm::N,ხელი,braich
+29,Ellenbogen::N,იდაყვი,penelin
+30,Hand::N,ხელი,llaw
+31,Handfläche::N,ნები,palf
+32,Handfläche::N,ხელისგული,palf
+33,Finger::N,თითი,bys
+34,Fingernagel::N,ფრჩხილი,ewin
+35,Nagel[Anatomie]::N,ფრჩხილი,ewin
+36,Zeh::N,ფეხის თითი,bys troed
+37,Fuß::N,ტერფი,troed
+38,Fuß::N,ფეხისგული,troed
+39,Ferse::N,ქუსლი,sawdl
+40,Knie::N,მუხლი,glin
+41,Oberschenkel::N,ბარძაყი,clun
+42,Bein::N,ფეხი,coes
+43,Körper::N,ტანი,corff
+44,Körper::N,სხეული,corff
+45,Haut::N,კანი,croen
+46,Blut::N,სისხლი,gwaed
+47,Ader::N,ძარღვი,gwythïen
+48,Sehne::N,მყესი,gewyn
+49,Knochen::N,ძვალი,asgwrn
+50,Gehirn::N,ტვინი,ymennydd
+51,Herz::N,გული,calon
+52,Magen::N,კუჭი,cylla
+53,Magen::N,კუჭი,stumog
+54,Leber::N,ღვიძლი,iau
+55,Atem::N,სუნთქვა,anadl
+56,Hunger::N,შიმშილი,newyn
+57,Träne::N,ცრემლი,deigryn
+58,Geschmack::N,გემო,cyflas
+59,Geruch::N,სუნი,aroglau
+60,Schlaf::N,ძილი,cwsg
+61,Traum::N,სიზმარი,breuddwyd
+62,Himmel::N,ცა,awyr
+63,Sonne::N,მზე,haul
+64,Mond::N,მთვარე,lleuad
+65,Stern::N,ვარსკვლავი,seren
+66,Luft::N,ჰაერი,awyr
+67,Wind::N,ქარი,gwynt
+68,Welle::N,ტალღა,ton
+69,Wasser::N,წყალი,dŵr
+70,Stein::N,ქვა,carreg
+71,Boden::N,მიწა,llawr
+72,Erde::N,ნიადაგი,pridd
+73,Staub::N,მტვერი,llwch
+74,Rauch::N,ბოლი,mwg
+75,Rauch::N,კვამლი,mwg
+76,Funke::N,ნაკვესი,gwreichioni
+77,Feuer::N,ცეცხლი,tân
+78,Licht::N,შუქი,golau
+79,Licht::N,სინათლე,golau
+80,Schatten::N,ლანდი,cysgod
+81,Schatten::N,ჩრდილი,cysgod
+82,Wetter::N,ამინდი,tywydd
+83,Nebel::N,ნისლი,niwl
+84,Wolke::N,ღრუბელი,cwmwl
+85,Regen::N,წვიმა,glaw
+86,Schnee::N,თოვლი,ôd
+87,Schnee::N,თოვლი,eira
+88,Eis::N,თოში,iâ
+89,Eis::N,ყინული,iâ
+90,Frost::N,ყინვა,rhew
+91,Kälte::N,სიცივე,oerni
+92,Kälte::N,სიცივე,annwyd
+93,Hitze::N,სიცხე,gwres
+94,Raureif::N,ჭირხლი,barrug
+95,Raureif::N,თრთვილი,barrug
+96,Regenbogen::N,ცისარტყელა,enfys
+97,Donner::N,ქუხილი,tyrfau
+98,Strömung::N,დინება,cerrynt
+99,Tropfen::N,წვეთი,dafn
+100,Tropfen::N,წვეთი,diferyn
+101,Schaum::N,ქაფი,ewyn
+102,Schaum::N,დორბლი,ewyn
+103,Schmutz::N,ჭუჭყი,baw
+104,Schmutz::N,ჭუჭყი,budreddi
+105,Schmutz::N,ტალახი,baw
+106,Schmutz::N,ტალახი,budreddi
+107,See::N,ტბა,llyn
+108,Sumpf::N,ჭაობი,cors
+109,Moor::N,ტორფნარი,rhos
+110,Wiese::N,ველი,dôl
+111,Wiese::N,მდელო,dôl
+112,Wald::N,ტყე,coedwig
+113,Hügel::N,ბორცვი,bryn
+114,Anhöhe::N,მაღლობი,bryn
+115,Berg::N,მთა,mynydd
+116,Gipfel::N,მწვერვალი,copa
+117,Höhle::N,მღვიმე,ogof
+118,Höhle::N,გამოქვებული,ogof
+119,Abhang::N,ფერდობი,llethr
+120,Quelle::N,წყარო,tarddiad
+121,Quelle::N,წყარო,ffynhonnell
+122,Quelle::N,სათავე,tarddiad
+123,Quelle::N,სათავე,ffynhonnell
+124,Bach::N,რუ,nant
+125,Bach::N,რუ,afonig
+126,Bach::N,რუ,cornant
+127,Bach::N,ნაკადული,nant
+128,Bach::N,ნაკადული,afonig
+129,Bach::N,ნაკადული,cornant
+130,Fluss::N,მდინარე,afon
+131,Ufer::N,კიდე,glan
+132,Ufer::N,ნაპირი,glan
+133,Küste::N,ნაპირი,traeth
+134,Küste::N,ნაპირი,arfordir
+135,Festland::N,ხმელეთი,tir
+136,Meer::N,ზღვა,môr
+137,Bucht::N,ყურე,bae
+138,Insel::N,კუნძული,ynys
+139,Blume::N,ყვავილი,blodyn
+140,Gras::N,ბალახი,glaswellt
+141,Wurzel::N,ძირი,gwreiddyn
+142,Wurzel::N,ფესვი,gwreiddyn
+143,Baum::N,ხე,coeden
+144,Stamm::N,ტანი,colfen
+145,Stamm::N,ტანი,boncyff
+146,Rinde::N,ქერქი,rhisgl
+147,Ast::N,ტოტი,cangen
+148,Zweig::N,შტო,cainc
+149,Zweig::N,შტო,cangen
+150,Blatt::N,ფოთოლი,deilen
+151,Birke::N,არყი,bedwen
+152,Kiefer[Baum]::N,ფიჭვი,pinwydden
+153,Weide[Baum]::N,ტირიფი,helygen
+154,Tanne::N,ნაძვი,ffynidwydden
+155,Horn::N,რქა,corn
+156,Feder::N,ფრთა,plufyn
+157,Fell::N,ტყავი,ffwr
+158,Flügel::N,ფრთა,adain
+159,Klaue::N,კლანჭი,crafanc
+160,Kralle::N,ტორი,ewin
+161,Schwanz::N,კუდი,cwt
+162,Schwanz::N,კუდი,cynffon
+163,Ei::N,კვერცხი,wy
+164,Nest::N,ბუდე,nyth
+165,Bau::N,სორო,ffau
+166,Tier::N,ნადირი,anifail
+167,Tier::N,ცხოველი,anifail
+168,Herde::N,ფარა,praidd
+169,Herde::N,ფარა,diadell
+170,Kuh::N,ფური,buwch
+171,Kuh::N,ძროხა,buwch
+172,Bulle::N,ხარი,tarw
+173,Pferd::N,რაში,ceffyl
+174,Pferd::N,ცხენი,ceffyl
+175,Schaf::N,ცხვარი,dafad
+176,Schwein::N,ღორი,mochyn
+177,Hund::N,ძაღლი,ci
+178,Katze::N,კატა,cath
+179,Bär::N,დათვი,arth
+180,Eichhörnchen::N,ციყვი,gwiwer
+181,Elch::N,ცხენ-ირემი,elc
+182,Fuchs::N,მელა,cadno
+183,Hase::N,კურდღელი,ysgyfarnog
+184,Maus::N,თაგვი,llygoden
+185,Wolf::N,მგელი,blaidd
+186,Vogel::N,ჩიტი,aderyn
+187,Vogel::N,ფრინველი,aderyn
+188,Schwarm::N,გუნდი,haid
+189,Huhn::N,დედალი,cyw
+190,Hahn::N,მამალი,ceiliog
+191,Gans::N,ბატი,gŵydd
+192,Adler::N,არწივი,eryr
+193,Ente::N,იხვი,hwyad
+194,Eule::N,ბუ,tylluan
+195,Kranich::N,წერო,garan
+196,Kranich::N,წერო,crychydd
+197,Krähe::N,ყვავი,brân
+198,Kuckuck::N,გუგული,cog
+199,Kuckuck::N,გუგული,cwcw
+200,Schwan::N,გედი,alarch
+201,Fisch::N,თევზი,pysgod
+202,Barsch::N,ქორჭილა,draenog
+203,Hecht::N,ქარიყლაპია,penhwyad
+204,Schlange[Tier]::N,გველი,neidr
+205,Wurm::N,ჭია,abwydyn
+206,Wurm::N,ჭია,pryf genwair
+207,Spinne::N,ობობა,cor
+208,Spinne::N,ობობა,pryf copyn
+209,Ameise::N,ჭიანჭველა,morgrugyn
+210,Laus::N,ტილი,lleuen
+211,Laus::N,მკბენარი,lleuen
+212,Mücke::N,კოღო,gwybedyn
+213,Fliege::N,ბუზი,cleren
+214,Schmetterling::N,პეპელა,glöyn byw
+215,Schmetterling::N,პეპელა,iâr fach yr haf
+216,Beere::N,კენკრა,aeronen
+217,Apfel::N,ვაშლი,afal
+218,Pilz::N,სოკო,madarch
+219,Zwiebel::N,ხახვი,nionyn
+220,Zwiebel::N,ხახვი,winwnsyn
+221,Saat::N,თესლი,had
+222,Korn::N,მარცვალი,grawn
+223,Heu::N,თივა,gwair
+224,Schale::N,ჩენჩო,croen
+225,Schale::N,ჩენჩო,plisgyn
+226,Grube::N,ორმო,pwll
+227,Grube::N,ორმო,pydew
+228,Falle::N,ხაფანგი,magl
+229,Schlinge::N,მახე,cwlwm rhedeg
+230,Spur::N,კვალი,ôl
+231,Asche::N,ფერფლი,lludw
+232,Dreck::N,ტალახი,baw
+233,Dreck::N,ტალახი,budreddi
+234,Dreck::N,სიბინძურე,baw
+235,Dreck::N,სიბინძურე,budreddi
+236,Eisen::N,რკინა,haearn
+237,Gold::N,ოქრო,aur
+238,Silber::N,ვერცხლი,arian
+239,Kohle::N,ნახშირი,glo
+240,Glas::N,მინა,gwydr
+241,Lehm::N,თიხა,clai
+242,Sand::N,ქვიშა,tywod
+243,Mensch::N,ადამიანი,dyn
+244,Mann::N,კაცი,dyn
+245,Frau::N,ქალი,merch
+246,Frau::N,ქალი,gwraig
+247,Kind::N,ბავშვი,plentyn
+248,Junge::N,ვაჟი,hogyn
+249,Junge::N,ვაჟი,bachgen
+250,Mädchen::N,გოგო,merch
+251,Mädchen::N,გოგო,geneth
+252,Familie::N,ოჯახი,teulu
+253,Familie::N,ოჯახი,tylwyth
+254,Großvater::N,პაპა,taid
+255,Großvater::N,პაპა,tad-cu
+256,Großvater::N,ბაბუა,taid
+257,Großvater::N,ბაბუა,tad-cu
+258,Großmutter::N,ბებია,nain
+259,Großmutter::N,ბებია,mam-gu
+260,Großmutter::N,დიდედა,nain
+261,Großmutter::N,დიდედა,mam-gu
+262,Eltern::N,მშობლები,rhieni
+263,Vater::N,მამა,tad
+264,Mutter::N,დედა,mam
+265,Sohn::N,ვაჟიშვილი,mab
+266,Tochter::N,ქალიშვილი,merch
+267,Bruder::N,ძმა,brawd
+268,Schwester::N,და,chwaer
+269,Onkel::N,ბიძა,ewythr
+270,Tante::N,დეიდა,modryb
+271,Tante::N,მამიდა,modryb
+272,Ehemann::N,ქმარი,gŵr
+273,Ehefrau::N,ცოლი,gwraig
+274,Freude::N,სიხარული,gorfoledd
+275,Gelächter::N,სიცილი,chwerthin
+276,Glück::N,ბედნიერება,hapusrwydd
+277,Kummer::N,მწუხარება,galar
+278,Wunsch::N,წადილი,dymuniad
+279,Wunsch::N,სურვილი,dymuniad
+280,Lust::N,წადილი,chwant
+281,Geist::N,სული,ysbryd
+282,Gedanke::N,ფიქრი,meddwl
+283,Gedächtnis::N,მეხსიერება,cof
+284,Verstand::N,ჭკუა,meddwl
+285,Verstand::N,გონება,meddwl
+286,Sinn::N,მნიშვნელობა,ystyr
+287,Grund::N,მიზეზი,achos
+288,Grund::N,მიზეზი,rheswm
+289,Wahrheit::N,სიმართლე,gwir
+290,Wahrheit::N,სიმართლე,gwirionedd
+291,Wahrheit::N,ჭეშმარიტება,gwir
+292,Wahrheit::N,ჭეშმარიტება,gwirionedd
+293,Gespräch::N,ბაასი,sgwrs
+294,Gespräch::N,საუბარი,sgwrs
+295,Märchen::N,არაკი,chwedl werin
+296,Märchen::N,ზღაპარი,chwedl werin
+297,Erzählung::N,თქმულება,stori
+298,Nachricht::N,ცნობა,neges
+299,Nachricht::N,ამბავი,neges
+300,Neuigkeit::N,სიახლე,newydd
+301,Name::N,სახელი,enw
+302,Rätsel::N,გამოცანა,pos
+303,Rede::N,სიტყვა,araith
+304,Sprache::N,ენა,iaith
+305,Stimme::N,ხმა,llais
+306,Wort::N,სიტყვა,gair
+307,Zeichen::N,ნიშანი,arwydd
+308,Ruf::N,ძახილი,galwad
+309,Lärm::N,ხმაური,trwst
+310,Laut::N,ხმა,sain
+311,Laut::N,ბგერა,sain
+312,Ton::N,ტონი,tôn
+313,Lied::N,სიმღერა,cân
+314,Ruhe::N,სიწყნარე,tawelwch
+315,Leute::N,ადამიანები,pobl
+316,Volk::N,ერი,pobl
+317,Volk::N,ხალხი,pobl
+318,Arbeit::N,მუშაობა,gwaith
+319,Gast::N,სტუმარი,gwestai
+320,Geschenk::N,საჩუქარი,rhodd
+321,Geschenk::N,საჩუქარი,anrheg
+322,Spiel::N,თამაში,chwarae
+323,Gesellschaft::N,საზოგადოება,cwmni
+324,Hilfe::N,შველა,cymorth
+325,Hilfe::N,დახმარება,cymorth
+326,Freund::N,მეგობარი,cyfaill
+327,Kamerad::N,ამხანაგი,cydymaith
+328,Angelegenheit::N,საქმე,pwnc
+329,Anzahl::N,ოდენობა,cyfrif
+330,Art::N,სახეობა,bath
+331,Stück::N,ნატეხი,darn
+332,Teil::N,წილი,rhan
+333,Hälfte::N,ნახევარი,hanner
+334,Kreis::N,წრე,cylch
+335,Kreuz::N,ჯვარი,croes
+336,Linie::N,ხაზი,llinell
+337,Strich::N,შტრიხი,strôc
+338,Strich::N,შტრიხი,trawiad
+339,Abstand::N,მანძილი,bwlch
+340,Abstand::N,მანძილი,pellter
+341,Entfernung::N,სიშორე,pellter
+342,Gegend::N,არე,cylch
+343,Gegend::N,მხარე,cylch
+344,Platz::N,ფართობი,lle
+345,Ort::N,ადგილი,lle
+346,Seite::N,მხარე,ochr
+347,Mitte::N,შუა,canol
+348,Gegenstand::N,საგანი,eitem
+349,Sache::N,ნივთი,peth
+350,Rand::N,კიდე,cwr
+351,Rand::N,კიდე,ymyl
+352,Kante::N,ნაწიბული,min
+353,Kante::N,ნაწიბული,ymyl
+354,Ecke::N,კუთხე,cornel
+355,Spitze::N,წვეტი,blaen
+356,Ende::N,ბოლო,pen
+357,Loch::N,ხვრელი,twll
+358,Winkel::N,კუთხე,congl
+359,Muster::N,მოხატულობა,patrwm
+360,Größe::N,ზომა,maint
+361,Größe::N,ზომა,maintioli
+362,Größe::N,სიდიდე,maint
+363,Größe::N,სიდიდე,maintioli
+364,Länge::N,სიგრძე,hyd
+365,Höhe::N,სიმაღლე,uchder
+366,Gewicht::N,წონა,pwysau
+367,Menge::N,რაოდენობა,swm
+368,Menge::N,რაოდენობა,maint
+369,Haufen::N,გროვა,pentwr
+370,Reihe::N,რიგი,rhes
+371,Reihe::N,წყება,rhes
+372,Boot::N,გემი,cwch
+373,Ruder::N,ხოფი,rhwyf
+374,Ruder::N,ნიჩაბი,rhwyf
+375,Schlitten::N,მარხილი,sled
+376,Schlitten::N,მარხილი,car llusg
+377,Ski::N,თხილამური,sgi
+378,Lagerfeuer::N,კოცონი,coelcerth
+379,Last::N,ტვირთი,llwyth
+380,Gang::N,სვლა,tro
+381,Schritt::N,ბიჯი,cam
+382,Norden::N,ჩრდილოეთი,gogledd
+383,Süden::N,სამხრეთი,de
+384,Westen::N,დასავლეთი,gorllewin
+385,Osten::N,აღმოსავლეთი,dwyrain
+386,Holz::N,ხე,pren
+387,Brett::N,დაფა,bwrdd
+388,Brett::N,დაფა,astell
+389,Brett::N,ფიცარი,bwrdd
+390,Brett::N,ფიცარი,astell
+391,Platte::N,თლილი ქვა,llech
+392,Stütze::N,საყრდენი,ateg
+393,Stütze::N,საყრდენი,cynhalydd
+394,Stange::N,ჭოკი,polyn
+395,Stock::N,კეტი,ffon
+396,Stock::N,კეტი,brigyn
+397,Stab::N,ლატანი,ffon
+398,Rohr::N,მილაკი,pibell
+399,Haus::N,სახლი,tŷ
+400,Heim::N,ოჯახის კერა,cartref
+401,Ofen::N,ღუმელი,stof
+402,Fußboden::N,იატაკი,llawr
+403,Tisch::N,სუფრა,bwrdd
+404,Tisch::N,მაგიდა,bwrdd
+405,Stuhl::N,სკამი,cadair
+406,Wiege::N,აკვანი,crud
+407,Bett::N,საწოლი,gwely
+408,Bett::N,სარეცელი,gwely
+409,Regal::N,თაროები,silff
+410,Kiste::N,ყუთი,bocs
+411,Kiste::N,ყუთი,blwch
+412,Kiste::N,სკივრი,bocs
+413,Kiste::N,სკივრი,blwch
+414,Fenster::N,ფანჯარა,ffenestr
+415,Fenster::N,სარკმელი,ffenestr
+416,Tür::N,ბჭე,drws
+417,Tür::N,კარი,drws
+418,Tor::N,ჭიშკარი,porth
+419,Zaun::N,ღობე,ffens
+420,Zaun::N,გალავანი,ffens
+421,Dach::N,სახურავი,to
+422,Leiter::N,კიბე,ysgol
+423,Besen::N,ცოცხი,ysgub
+424,Spaten::N,ნიჩაბი,rhaw
+425,Schaufel::N,ბარი,rhaw
+426,Gabel::N,ჩანგალი,fforc
+427,Löffel::N,კოვზი,llwy
+428,Messer::N,დანა,cyllell
+429,Nagel::N,ლურსმანი,hoel
+430,Netz::N,ბადე,gwe
+431,Netz::N,ბადე,rhwyd
+432,Haken::N,კავი,bach
+433,Haken::N,კაუჭი,bach
+434,Griff::N,ტარი,carn
+435,Schloss::N,კლიტე,clo
+436,Schloss::N,საკეტი,clo
+437,Bild::N,სურათი,llun
+438,Bild::N,სურათი,pictiwr
+439,Figur::N,ფიგურა,ffigur
+440,Puppe::N,თოჯინა,dol
+441,Beutel::N,პარკი,cwd
+442,Bündel::N,გალა,bwndel
+443,Bündel::N,გალა,coflaid
+444,Bündel::N,ასხმა,bwndel
+445,Bündel::N,ასხმა,coflaid
+446,Tasche::N,ჩანთა,cod
+447,Eimer::N,ჩამჩა,bwced
+448,Eimer::N,ჩამჩა,cunnog
+449,Deckel::N,ხუფი,caead
+450,Deckel::N,სარქველი,caead
+451,Geschirr::N,ჭურჭელი,llestri
+452,Sack::N,ტომარა,sach
+453,Tasse::N,ფინჯანი,cwpan
+454,Topf::N,ქოთანი,pot
+455,Topf::N,ქოთანი,crochan
+456,Kessel::N,ქვაბი,tegell
+457,Essen::N,ჭამა,pryd o fwyd
+458,Nahrung::N,საზრდო,bwyd
+459,Nahrung::N,საკვები,bwyd
+460,Speise::N,საჭმელი,saig
+461,Fleisch::N,ხორცი,cig
+462,Getreide::N,მარცვლოვანი,ŷd
+463,Getreide::N,მარცვლოვანი,llafur
+464,Brei::N,ფაფა,uwd
+465,Brot::N,პური,bara
+466,Scheibe::N,ნაჭერი,tafell
+467,Fett::N,ქონი,saim
+468,Fett::N,ქონი,braster
+469,Fett::N,ცხიმი,saim
+470,Fett::N,ცხიმი,braster
+471,Butter::N,კარაქი,ymenyn
+472,Öl::N,ზეთი,olew
+473,Salz::N,მარილი,halen
+474,Suppe::N,სუფი,cawl
+475,Honig::N,თაფლი,mêl
+476,Milch::N,რძე,llaeth
+477,Milch::N,რძე,llefrith
+478,Tee::N,ჩაი,te
+479,Leder::N,ტყავი,lledr
+480,Wolle::N,მატყლი,gwlân
+481,Stoff::N,ქსოვილი,lliain
+482,Stoff::N,ქსოვილი,brethyn
+483,Nadel::N,ნემსი,nodwydd
+484,Faden::N,ძაფი,edau
+485,Faden::N,ძაფი,edefyn
+486,Faden::N,მკედი,edau
+487,Faden::N,მკედი,edefyn
+488,Knopf::N,ღილი,botwm
+489,Knoten::N,ნასკვი,cwlwm
+490,Farbe::N,საღებავი,paent
+491,Kleidung::N,ტანსაცმელი,dillad
+492,Kleidung::N,ტანსაცმელი,gwisgoedd
+493,Hemd::N,ხალათი,crys
+494,Hemd::N,პერანგი,crys
+495,Kragen::N,საყელო,coler
+496,Ärmel::N,სახელო,llawes
+497,Hose::N,შარვალი,trowsus
+498,Gürtel::N,ქამარი,gwregys
+499,Mütze::N,ქუდი,cap
+500,Schuh::N,ფეხსაცმელი,esgid
+501,Stiefel::N,ჩექმა,botasen
+502,Ring::N,ბეჭედი,modrwy
+503,Band::N,ბაფთი,rhuban
+504,Kamm::N,სავარცხელი,crib
+505,Spiegel::N,სარკე,drych
+506,Riemen::N,ღვედი,strap
+507,Schnur::N,ლარი,llinyn
+508,Leine::N,ჯაჭვი,tennyn
+509,Decke::N,საბანი,blanced
+510,Decke::N,საბანი,gwrthban
+511,Kissen::N,ბალიში,clustog
+512,Kissen::N,ბალიში,gobennydd
+513,Tuch::N,მაუდი,sgarff
+514,Tuch::N,თავშალი,sgarff
+515,Handtuch::N,ხელსახოცი,tywel
+516,Handtuch::N,ხელსახოცი,lliain sychu
+517,Kraft::N,ძალა,grym
+518,Stärke::N,ღონე,nerth
+519,Stärke::N,ღონე,cryfder
+520,Gesundheit::N,ჯანმრთელობა,iechyd
+521,Krankheit::N,სენი,afiechyd
+522,Krankheit::N,სენი,anhwylder
+523,Krankheit::N,ავადმყოფობა,afiechyd
+524,Krankheit::N,ავადმყოფობა,anhwylder
+525,Schmerz::N,ტკივილი,poen
+526,Schmerz::N,ტკივილი,gwayw
+527,Wunde::N,იარი,clwyf
+528,Wunde::N,ჭრილობა,clwyf
+529,Fieber::N,ციება,twymyn
+530,Arznei::N,წამალი,meddyginiaeth
+531,Brücke::N,ხიდი,pont
+532,Brunnen::N,ჭა,ffynnon
+533,Weide::N,საძოვარი,porfa
+534,Pfad::N,ბილიკი,llwybr
+535,Weg::N,გზა,ffordd
+536,Straße::N,შარაგზა,heol
+537,Straße::N,შარაგზა,ffordd
+538,Dorf::N,დაბა,pentref
+539,Dorf::N,სოფელი,pentref
+540,Stadt::N,ქალაქი,tref
+541,Brief::N,წერილი,llythyr
+542,Buch::N,წიგნი,llyfr
+543,Buchstabe::N,ასო,llythyren
+544,Zeitung::N,გაზეთი,papur newydd
+545,Leben::N,სიცოცხლე,bywyd
+546,Tod::N,სიკვდილი,marwolaeth
+547,Grab::N,სამარე,bedd
+548,Grab::N,საფლავი,bedd
+549,Kirche::N,ეკლესია,eglwys
+550,Sünde::N,ცოდვა,pechod
+551,Gott::N,ღმერთი,duw
+552,Arbeiter::N,მუშა,gweithiwr
+553,Chef::N,გამგე,pennaeth
+554,Meister::N,ოსტატი,meistr
+555,Arzt::N,ექიმი,meddyg
+556,Arzt::N,მკურნალი,meddyg
+557,Lehrer::N,მასწავლებელი,athro
+558,Geld::N,ფული,pres
+559,Geld::N,ფული,arian
+560,Geschäft::N,საქმე,busnes
+561,Geschäft::N,ბიზნესი,busnes
+562,Laden::N,დუქანი,siop
+563,Laden::N,მაღაზია,siop
+564,Preis::N,ფასი,pris
+565,Ware::N,საქონელი,nwydd
+566,Nutzen::N,ხეირი,elw
+567,Nutzen::N,ხეირი,budd
+568,Reichtum::N,სიმდიდრე,cyfoeth
+569,Welt::N,მსოფლიო,byd
+570,Land::N,მხარე,gwlad
+571,Land::N,ქვეყანა,gwlad
+572,Staat::N,სახელმწიფო,gwladwriaeth
+573,König::N,მეფე,brenin
+574,Macht::N,ძლიერება,grym
+575,Macht::N,ძლიერება,awdurdod
+576,Grenze::N,ზღვარი,ffin
+577,Grenze::N,ზღვარი,goror
+578,Krieg::N,ომი,rhyfel
+579,Feind::N,მტერი,gelyn
+580,Gewalt::N,სისასტიკე,ffyrnigrwydd
+581,Kampf::N,ბრძოლა,brwydr
+582,Bogen[Waffe]::N,მშვილდი,bwa
+583,Pfeil::N,ისარი,saeth
+584,Pfeil::N,მახვილი,saeth
+585,Gewehr::N,თოფი,dryll
+586,Gewehr::N,შაშხანა,dryll
+587,Fehler::N,შეცდომა,gwall
+588,Fehler::N,შეცდომა,camgymeriad
+589,Lüge::N,სიცრუე,celwydd
+590,Lüge::N,სიცრუე,anwiredd
+591,Schaden::N,ვნება,niwed
+592,Schaden::N,ვნება,difrod
+593,Unglück::N,ხიფათი,anffawd
+594,Unglück::N,უბედურება,anffawd
+595,Schuld::N,ბრალი,bai
+596,Alter::N,ასაკი,oed
+597,Schluss::N,ბოლო,diwedd
+598,Schluss::N,დასასრული,diwedd
+599,Zeit::N,დრო,amser
+600,Tag::N,დღე,dydd
+601,Tag::N,დღე,diwrnod
+602,Morgen::N,დილა,bore
+603,Mittag::N,შუადღე,nawn
+604,Abend::N,საღამო,noswaith
+605,Nacht::N,ღამე,nos
+606,Woche::N,კვირა,wythnos
+607,Monat::N,თვე,mis
+608,Jahr::N,წელი,blwyddyn
+609,Frühling::N,გაზაფხული,gwanwyn
+610,Sommer::N,ზაფხული,haf
+611,Herbst::N,შემოდგომა,hydref
+612,Winter::N,ზამთარი,gaeaf
+613,Januar::N,იანვარი,Ionawr
+614,Februar::N,თებერვალი,Chwefror
+615,März::N,მარტი,Mawrth
+616,April::N,აპრილი,Ebrill
+617,Mai::N,მაისი,Mai
+618,Juni::N,ივნისი,Mehefin
+619,Juli::N,ივლისი,Gorffennaf
+620,August::N,აგვისტო,Awst
+621,September::N,სექტემბერი,Medi
+622,Oktober::N,ოქტომბერი,Hydref
+623,November::N,ნოემბერი,Tachwedd
+624,Dezember::N,დეკემბერი,Rhagfyr
+625,Montag::N,ორშაბათი,dydd Llun
+626,Dienstag::N,სამშაბათი,dydd Mawrth
+627,Mittwoch::N,ოთხშაბათი,dydd Mercher
+628,Donnerstag::N,ხუთშაბათი,dydd Iau
+629,Freitag::N,პარასკევი,dydd Gwener
+630,Samstag::N,შაბათი,dydd Sadwrn
+631,Sonntag::N,კვირა,dydd Sul
+632,groß::A,დიდი,mawr
+633,klein::A,მცირე,bach
+634,klein::A,პატარა,bach
+635,lang::A,გრძელი,hir
+636,kurz::A,მოკლე,byr
+637,kurz::A,მოკლე,cwta
+638,breit::A,ფართო,llydan
+639,breit::A,განიერი,llydan
+640,schmal::A,ვიწრო,cul
+641,schmal::A,წვრილი,cul
+642,dicht::A,მჭიდრო,dwys
+643,dick[Gegenstand]::A,სქელი,trwchus
+644,dünn::A,წვრილი,tenau
+645,fein::A,თხელი,main
+646,fest::A,მყარი,cadarn
+647,flach::A,ბრტყელი,gwastad
+648,glatt::A,გლუ,llyfn
+649,hart::A,მაგარი,caled
+650,weich::A,რბილი,meddal
+651,rund::A,მრგვალი,crwn
+652,spitz::A,წვეტიანი,pigfain
+653,scharf::A,მჭრელი,miniog
+654,stumpf::A,ბლაგვი,pŵl
+655,schwer::A,მძიმე,trwm
+656,schön::A,ლამაზი,teg
+657,schön::A,ლამაზი,hardd
+658,schön::A,ლამაზი,prydferth
+659,heiß::A,ცხელი,poeth
+660,warm::A,თბილი,twym
+661,warm::A,თბილი,cynnes
+662,kalt::A,ცივი,oer
+663,kühl::A,გრილი,oeraidd
+664,frisch::A,სუფთა,iach
+665,feucht::A,ნოტიო,llaith
+666,nass::A,სველი,gwlyb
+667,trocken::A,მშრალი,sych
+668,voll::A,სავსე,llawn
+669,leer::A,ცარიელი,gwag
+670,offen::A,ღია,agored
+671,offen::A,გაშლილი,agored
+672,geschlossen::A,დახურული,caead
+673,geschlossen::A,დახურული,caeëdig
+674,sauber::A,სუფთა,glân
+675,sauber::A,წმინდა,glân
+676,schmutzig::A,ტალახიანი,budr
+677,schmutzig::A,ტალახიანი,brwnt
+678,roh::A,უმი,amrwd
+679,reif::A,მწიფე,aeddfed
+680,lecker::A,გემრიელი,blasus
+681,lecker::A,გემრიელი,danteithiol
+682,süß::A,ტკბილი,melys
+683,bitter::A,მწარე,chwerw
+684,sauer::A,მჟავე,sur
+685,hell::A,ნათელი,disglair
+686,dunkel::A,ბნელი,tywyll
+687,schwarz::A,შავი,du
+688,weiß::A,თეთრი,gwyn
+689,rot::A,წითელი,coch
+690,gelb::A,ყვითელი,melyn
+691,blau::A,ლურჯი,glas
+692,blau::A,ცისფერი,glas
+693,grün::A,მწვანე,gwyrdd
+694,grau::A,რუხი,llwyd
+695,grau::A,ნაცრისფერი,llwyd
+696,bunt::A,ჭრელი,lliwgar
+697,bunt::A,ფერადი,lliwgar
+698,billig::A,იაფი,rhad
+699,teuer::A,ძვირი,drud
+700,wertvoll::A,ღირსიანი,gwerthfawr
+701,blind::A,ბრმა,dall
+702,taub::A,ყრუ,byddar
+703,kräftig::A,ძალავანი,nerthol
+704,kräftig::A,ძალავანი,grymus
+705,stark::A,ძლიერი,cryf
+706,stark::A,ძლიერი,cadarn
+707,stark::A,ღონიერი,cryf
+708,stark::A,ღონიერი,cadarn
+709,schwach::A,სუსტი,gwan
+710,fett::A,სქელი,tew
+711,schlank::A,გამხდარი,main
+712,hübsch::A,ეშხიანი,tlws
+713,hübsch::A,მშვენიერი,tlws
+714,böse::A,ავი,drwg
+715,böse::A,ბოროტი,drwg
+716,dumm::A,ბოთე,twp
+717,dumm::A,სულელი,twp
+718,faul::A,ზანტი,diog
+719,faul::A,ზარმაცი,diog
+720,fleißig::A,ბეჯითი,dyfal
+721,fleißig::A,მუყაითი,dyfal
+722,geizig::A,ძუნწი,crintach
+723,geizig::A,ძუნწი,cybyddlyd
+724,klug::A,ჭკვიანი,deallus
+725,geschickt::A,მარჯვე,medrus
+726,geschickt::A,მარჯვე,deheuig
+727,geschickt::A,გაწაფული,medrus
+728,geschickt::A,გაწაფული,deheuig
+729,lieb::A,სატრფიალო,hoff
+730,lieb::A,სატრფიალო,annwyl
+731,lustig::A,მხიარული,llon
+732,sanft::A,ალერსიანი,mwyn
+733,sanft::A,გრძნობიერი,mwyn
+734,hungrig::A,მშიერი,newynog
+735,krank::A,სნეული,sâl
+736,krank::A,სნეული,gwael
+737,krank::A,ავადმყოფი,sâl
+738,krank::A,ავადმყოფი,gwael
+739,nackt::A,ტიტველი,noeth
+740,traurig::A,მწუხარე,trist
+741,traurig::A,სევდიანი,trist
+742,lebendig::A,ცოცხალი,yn fyw
+743,gut::A,კარგი,da
+744,schlecht::A,უხეირო,drwg
+745,schlecht::A,უხეირო,gwael
+746,richtig::A,ნამდვილი,cywir
+747,schlimm::A,ცუდი,enbyd
+748,wahr::A,სწორი,gwir
+749,wahr::A,ჭეშმარიტი,gwir
+750,alt::A,ძველი,hen
+751,neu::A,ახალი,newydd
+752,ehemalig::A,ყოფილი,blaenorol
+753,alt[Lebewesen]::A,ბებერი,oedrannus
+754,jung::A,ნორჩი,ifanc
+755,jung::A,ახალგაზრდა,ifanc
+756,arm::A,ღარიბი,tlawd
+757,reich::A,მდიდარი,cyfoethog
+758,bekannt::A,ცნობილი,cynefin
+759,bekannt::A,ცნობილი,cyfarwydd
+760,berühmt::A,გამოჩენილი,enwog
+761,fremd::A,უცხო,estron
+762,fremd::A,გარეშე,estron
+763,verschieden::A,სხვაგვარი,gwahanol
+764,nah::A,ახლო,agos
+765,fern::A,შორი,pell
+766,fern::A,შორეული,pell
+767,linker::A,მარცხენა,aswy
+768,linker::A,მარცხენა,chwith
+769,rechter::A,მარჯვენა,de
+770,rechter::A,მარჯვენა,deau
+771,anderer::A,სხვა,arall
+772,erster::A,პირველი,cyntaf
+773,zweiter::A,მეორე,ail
+774,dritter::A,მესამე,trydydd
+775,letzter::A,ბოლო,olaf
+776,letzter::A,უკანასკნელი,olaf
+777,allein::ADV,მარტო,unig
+778,allein::ADV,მარტო,ar ei ben ei hun
+779,auf einmal::ADV,ერთდროულად,ar yr un pryd
+780,zusammen::ADV,ერთად,ynghyd
+781,zusammen::ADV,ერთად,gyda'i gilydd
+782,lange::ADV,დიდხანს,amser hir
+783,plötzlich::ADV,მოულოდნელად,yn sydyn
+784,sofort::ADV,ახლავე,ar unwaith
+785,später::ADV,მოგვიანებით,yn ddiweddarach
+786,jetzt::ADV,ახლა,yn awr
+787,heute::ADV,დღეს,heddiw
+788,morgen::ADV,ხვალ,yfory
+789,bald::ADV,მალე,yn fuan
+790,bald::ADV,მალე,gyda hyn
+791,dann::ADV,მერე,yna
+792,dann::ADV,მერე,y pryd hwnnw
+793,gestern::ADV,გუშინ,ddoe
+794,einst::ADV,ოდესღაც,gynt
+795,damals::ADV,მაშინ,ar y pryd
+796,damals::ADV,მაშინ,bryd hynny
+797,danach::ADV,მერმე,wedyn
+798,danach::ADV,შემდეგ,wedyn
+799,vorher::ADV,ადრე,o'r blaen
+800,vorher::ADV,წინათ,o'r blaen
+801,zuerst::ADV,ჯერ,yn gyntaf
+802,einmal::ADV,ერთხელ,unwaith
+803,manchmal::ADV,ხან,weithiau
+804,manchmal::ADV,ხან,ar brydiau
+805,manchmal::ADV,ზოგჯერ,weithiau
+806,manchmal::ADV,ზოგჯერ,ar brydiau
+807,oft::ADV,ხშირად,yn aml
+808,oft::ADV,ხშირად,yn fynych
+809,immer::ADV,მუდამ,bob amser
+810,immer::ADV,ყოველთვის,bob amser
+811,niemals::ADV,არასდროს,ni ... byth
+812,niemals::ADV,არასდროს,ni ... erioed
+813,hier::ADV,აქ,yma
+814,hierhin::ADV,აქეთ,hyd yma
+815,von hier::ADV,აქედან,oddi yma
+816,dort::ADV,იქ,acw
+817,dorthin::ADV,იქით,tuag yno
+818,geradeaus::ADV,პირდაპირ,syth ymlaen
+819,vorwärts::ADV,წინ,ymlaen
+820,rückwärts::ADV,უკან,yn ôl
+821,zurück::ADV,უკანვე,yn ôl
+822,unten::ADV,დაბლა,isod
+823,unten::ADV,დაბლა,oddi tanodd
+824,unten::ADV,ქვევით,isod
+825,unten::ADV,ქვევით,oddi tanodd
+826,hinab::ADV,ძირს,i lawr
+827,hinab::ADV,ძირს,i waered
+828,oben::ADV,ზემოთ,fry
+829,hinauf::ADV,ზევით,i fyny
+830,hinauf::ADV,ზევით,i'r lan
+831,überall::ADV,ყველგან,ym mhobman
+832,nicht::ADV,არ,ni
+833,nicht::ADV,არ,nid
+834,ein wenig::ADV,ცოტა,tipyn
+835,ein wenig::ADV,ცოტა,ychydig
+836,kaum::ADV,ძლივს,prin
+837,sehr::ADV,მეტად,iawn
+838,sehr::ADV,ძალიან,iawn
+839,so::ADV,ისე,fel
+840,so::ADV,ისე,felly
+841,noch::ADV,ჯერ,eto
+842,nur::ADV,მხოლოდ,yn unig
+843,schon::ADV,უკვე,eisoes
+844,schon::ADV,უკვე,yn barod
+845,wieder::ADV,ისევ,drachefn
+846,wieder::ADV,კიდევ,drachefn
+847,vergebens::ADV,ამაოდ,yn ofer
+848,vergebens::ADV,ტყუილად,yn ofer
+849,vor::PRP,წინ,o flaen
+850,hinter::PRP,უკან,ar ôl
+851,hinter::PRP,მიღმა,ar ôl
+852,unter::PRP,ქვეშ,islaw
+853,unter::PRP,ქვევით,islaw
+854,durch::PRP,გავლით,trwy
+855,neben::PRP,გვერდით,ar bwys
+856,zwischen::PRP,შუა,rhwng
+857,zwischen::PRP,შუა,cydrhwng
+858,zwischen::PRP,შორის,rhwng
+859,zwischen::PRP,შორის,cydrhwng
+860,wegen::PRP,გამო,o achos
+861,wegen::PRP,გამო,oherwydd
+862,wegen::PRP,შედეგად,o achos
+863,wegen::PRP,შედეგად,oherwydd
+864,dies::PRN,ეს,hyn
+865,das::PRN,ეგ,hynny
+866,alles::PRN,ყველაფერი,popeth
+867,ich::PRN,მე,fi
+868,du::PRN,შენ,ti
+869,er::PRN,ის,fe
+870,er::PRN,იგი,fe
+871,wir::PRN,ჩვენ,ni
+872,ihr::PRN,თქვენ,chi
+873,sie::PRN,ისინი,hwy
+874,was::FPRN,რა,pa beth
+875,wer::FPRN,ვინ,pwy
+876,wo::FADV,სად,ble
+877,wo::FADV,სად,ym mha le
+878,wohin::FADV,საით,i ble
+879,wohin::FADV,საით,i ba le
+880,wie::FADV,როგორ,sut
+881,warum::FADV,რაზე,pam
+882,warum::FADV,რატომ,pam
+883,wieviel::FNUM,რამდენი,faint
+884,eins::NUM,ერთი,un
+885,zwei::NUM,ორი,dau
+886,drei::NUM,სამი,tri
+887,vier::NUM,ოთხი,pedwar
+888,fünf::NUM,ხუთი,pump
+889,sechs::NUM,ექვსი,chwech
+890,sieben::NUM,შვიდი,saith
+891,acht::NUM,რვა,wyth
+892,neun::NUM,ცხრა,naw
+893,zehn::NUM,ათი,deg
+894,elf::NUM,თერთმეტი,un ar ddeg
+895,zwölf::NUM,თორმეტი,deuddeg
+896,zwölf::NUM,თორმეტი,un deg dau
+897,zwanzig::NUM,ოცი,ugain
+898,dreißig::NUM,ოცდაათი,tri deg
+899,dreißig::NUM,ოცდაათი,deg ar hugain
+900,vierzig::NUM,ორმოცი,deugain
+901,fünfzig::NUM,ორმოცდაათი,hanner cant
+902,sechzig::NUM,სამოცი,chwe deg
+903,siebzig::NUM,სამოცდაათი,saith deg
+904,siebzig::NUM,სამოცდაათი,deg a thrigain
+905,achtzig::NUM,ოთხმოცი,wyth deg
+906,achtzig::NUM,ოთხმოცი,pedar ugain
+907,neunzig::NUM,ოთხმოცდაათი,naw deg
+908,neunzig::NUM,ოთხმოცდაათი,deg a phedwar ugain
+909,hundert::NUM,ასი,cant
+910,tausend::NUM,ათასი,mil
+911,und::CNJ,და,a
+912,oder::CNJ,ან,neu
+913,stehen::V,დგას,sefyll
+914,sitzen::V,ზის,eistedd
+915,liegen::V,აწევს,gorwedd
+916,hängen::V,კიდია,hongian
+917,werden::V,გახდება,dod yn
+918,werden::V,გახდება,mynd yn
+919,passieren::V,მოხდება,digwydd
+920,beginnen::V,იწყება,cychwyn
+921,enden::V,გათავდება,gorffen
+922,wechseln::V,იცვლება,newid
+923,aufgehen[Sonne]::V,ამოდის,codi
+924,untergehen[Sonne]::V,ჩადის,machlud
+925,scheinen[Sonne]::V,ანათებს,tywynnu
+926,donnern::V,ქუხს,taranu
+927,wehen::V,ქრის,chwythu
+928,wehen::V,დაუბერავს,chwythu
+929,strömen::V,იღვრება,ffrydio
+930,fließen::V,დის,llifo
+931,fließen::V,მიედინება,llifo
+932,sich drehen::V,ტრიალებს,troi
+933,sich drehen::V,ტრიალებს,cylchdroi
+934,schwanken::V,ირხევა,siglo
+935,schwingen::V,ირხევა,siglo
+936,fallen::V,დავარდება,cwympo
+937,brennen::V,იწვის,llosgi
+938,rauchen::V,ბოლავს,mygu
+939,rauchen::V,აბოლებს,mygu
+940,regnen::V,წვიმს,glawio
+941,gefrieren::V,იყინება,rhewi
+942,tauen::V,დნება,toddi
+943,tauen::V,დნება,meirioli
+944,schmelzen::V,დნება,toddi
+945,trocknen::V,გაშრება,sychu
+946,sieden::V,დუღს,berwi
+947,faulen::V,ლპება,pydru
+948,faulen::V,ლპება,braenu
+949,verfaulen::V,ლპება,pydru
+950,verfaulen::V,ლპება,dadfeilio
+951,reißen::V,დაიხევა,clecian
+952,reißen::V,დაიხევა,torri'n glats
+953,versinken::V,ეფლობა,suddo
+954,versinken::V,ჩაიძირება,suddo
+955,vergehen::V,გადის,myned heibio
+956,vergehen::V,გადის,pasio
+957,erscheinen::V,გამოჩნდება,ymddangos
+958,verschwinden::V,გააქრება,diflannu
+959,verschwinden::V,დაიკარგება,diflannu
+960,sinken::V,დაიწევს,syrthio
+961,abnehmen::V,შემცირდება,lleihau
+962,zunehmen::V,გასუქდება,cynyddu
+963,steigen::V,მოიმატებს,codi
+964,wachsen::V,იზრდება,tyfu
+965,wachsen::V,მრავლდება,tyfu
+966,glänzen::V,ბრწყინავს,disgleirio
+967,funkeln::V,კაშკაშებს,pefrio
+968,lärmen::V,ხმაურობს,cadw sŵn
+969,lärmen::V,ხმაურობს,gwneud twrw
+970,läuten::V,დარეკავს,canu
+971,klingeln::V,დარეკავს,canu
+972,klingeln::V,დარეკავს,seinio
+973,klirren::V,დააწკარუნებს,tincian
+974,brausen::V,ბობოქრობს,rhuo
+975,rauschen::V,შრიალებს,siffrwd
+976,rauschen::V,შრიალებს,chwithrwd
+977,klingen::V,ხმას გამოსცემს,seinio
+978,bellen::V,უყეფს,cyfarth
+979,heulen::V,ღმუის,udo
+980,heulen::V,ღმუის,oernadu
+981,blasen::V,დაუბერავს,chwythu
+982,pfeifen::V,უსტვენს,chwibanu
+983,schreien::V,ყვირის,gweiddi
+984,schreien::V,ყვირის,bloeddio
+985,stöhnen::V,კვნესის,griddfan
+986,zittern::V,აძაგძაგებს,crynu
+987,leben::V,ცოცხლობს,byw
+988,geboren werden::V,იშვება,cael eich geni
+989,geboren werden::V,იბადება,cael eich geni
+990,atmen::V,სუნთქავს,anadlu
+991,trinken::V,სვამს,yfed
+992,trinken::V,დალევს,yfed
+993,essen::V,შეჭამს,bwyta
+994,schlucken::V,ყლაპავს,llyncu
+995,müde werden::V,დაიქანცება,blino
+996,einschlafen::V,დაიძინებს,mynd i gysgu
+997,einschlafen::V,დაიძინებს,syrthio i gysgu
+998,schlafen::V,სძინავს,huno
+999,schlafen::V,სძინავს,cysgu
+1000,aufwachen::V,გაიღვიძებს,dihuno
+1001,aufstehen::V,ადგება,codi
+1002,sich erholen::V,დაისვენებს,ymlacio
+1003,sich erholen::V,დაისვენებს,dadflino
+1004,krank werden::V,ავად გახდება,mynd yn sâl
+1005,krank werden::V,ავად გახდება,mynd yn wael
+1006,krank sein::V,ავადმყოფობს,gwaelu
+1007,schmerzen::V,სტკივა,brifo
+1008,husten::V,ახველებს,pesychu
+1009,genesen::V,მორჩება,gwella
+1010,genesen::V,მორჩება,cael yn ôl
+1011,sterben::V,კვდება,marw
+1012,umkommen::V,დაიღუპება,trengi
+1013,sich bewegen::V,იძვრის,symud
+1014,sich bewegen::V,მოძრაობს,symud
+1015,sich rühren::V,გაინძრევა,syflyd
+1016,sich erheben::V,ადგება,codi
+1017,sich setzen::V,დაჯდება,eistedd
+1018,hinfallen::V,დაეცემა,cwympo
+1019,laufen::V,დადის,cerdded
+1020,schreiten::V,აბიჯებს,camu
+1021,spazierengehen::V,დასეირნობს,mynd am dro
+1022,eilen::V,მიიჩქარის,rhuthro
+1023,sich beeilen::V,აჩქარდება,brysio
+1024,sausen::V,მიქრის,rhuthro
+1025,rennen::V,დარბის,rhedeg
+1026,springen::V,ხტის,llamu
+1027,springen::V,ხტის,neidio
+1028,klettern::V,ძვრება,dringo
+1029,schaukeln::V,ქანაობს,siglo
+1030,kriechen::V,დაბობღავს,cropian
+1031,schwimmen::V,ცურავს,nofio
+1032,tauchen::V,ჩაიძირება,plymio
+1033,tauchen::V,ჩაიძირება,ymsuddo
+1034,rudern::V,ნიჩაბს უსვამს,rhwyfo
+1035,fahren::V,დადის,gyrru
+1036,fahren::V,დადის,dreifio
+1037,fahren::V,მგზავრობს,gyrru
+1038,fahren::V,მგზავრობს,dreifio
+1039,fliegen::V,იფრენს,hedfan
+1040,fliegen::V,გაფრინდება,hedfan
+1041,gehen::V,მიდის,mynd
+1042,weggehen::V,წამოდის,mynd
+1043,weggehen::V,წამოდის,ymadael
+1044,abfahren::V,მიემგზავრება,ymadael
+1045,anhalten::V,ჩერდება,stopio
+1046,hineingehen::V,შედის,mynd i mewn
+1047,eintreten::V,შედის,mynd i
+1048,kommen::V,მოდის,dod
+1049,ankommen::V,ჩადის,cyrraedd
+1050,zurückkommen::V,დაბრუნდება,dychwelyd
+1051,bleiben::V,დარჩება,aros
+1052,bleiben::V,დარჩება,sefyll
+1053,warten::V,ელოდება,aros
+1054,warten::V,ელოდება,disgwyl
+1055,erwarten::V,ელის,disgwyl
+1056,erwarten::V,დაიცდის,disgwyl
+1057,suchen::V,ეძებს,chwilio am
+1058,suchen::V,მოძებნის,chwilio am
+1059,finden::V,მიაგნებს,darganfod
+1060,finden::V,გამოძებნის,darganfod
+1061,versuchen::V,ცდის,profi
+1062,versuchen::V,ცდის,ceisio
+1063,versuchen::V,ცდილობს,profi
+1064,versuchen::V,ცდილობს,ceisio
+1065,vorbereiten::V,მოამზადებს,paratoi
+1066,lieben::V,უყვარს,caru
+1067,mögen::V,ეტრფის,hoffi
+1068,lachen::V,იცინის,chwerthin
+1069,rühren::V,გულს აუჩუყებს,cynhyrfu
+1070,weinen::V,ტირის,wylo
+1071,weinen::V,ტირის,llefain
+1072,schimpfen::V,შეიგინება,grwgnach
+1073,sich ärgern::V,გაბრაზობს,gofidio
+1074,sich fürchten::V,შიშობს,ofni
+1075,fürchten::V,ფრთხილობს,arswydo
+1076,fliehen::V,გაიქცევა,ffoi
+1077,flüchten::V,გაიქცევა,dianc
+1078,sehen::V,ხედავს,gweld
+1079,anschauen::V,ნახავს,syllu
+1080,anschauen::V,ნახავს,edrych
+1081,ansehen::V,უყურებს,gwylio
+1082,hören::V,ისმენს,clywed
+1083,zuhören::V,მოისმენს,gwrando
+1084,probieren::V,გასინჯავს,profi
+1085,riechen::V,ყნოსავს,arogli
+1086,fühlen::V,გრძნობს,teimlo
+1087,fühlen::V,გრძნობს,clywed
+1088,scheinen::V,ეჩვენება,ymddangos
+1089,zu sehen sein::V,მოჩანს,dod i'r golwg
+1090,vernehmen::V,გაიგებს,clywed sôn am
+1091,frieren::V,იყინება,bod yn oer
+1092,tun::V,აკეთებს,gwneud
+1093,können::V,შეიძლება,gallu
+1094,wollen::V,უნდა,bod mewn angen
+1095,anfangen::V,დაიწყებს,dechrau
+1096,beenden::V,ამთავრებს,darfod
+1097,beenden::V,ამთავრებს,gorffen
+1098,aufhören::V,შეწყვეტს,peidio
+1099,gelingen::V,მოახერხებს,llwyddo
+1100,geraten::V,გამოდის,diweddu
+1101,öffnen::V,გახსნის,agor
+1102,schließen::V,ხურავს,cau
+1103,schließen::V,დაკეტავს,cau
+1104,stellen::V,დადგამს,gosod
+1105,setzen::V,დასვამს,gosod
+1106,legen::V,დადებს,gosod
+1107,berühren::V,შეახებს,cyffwrdd
+1108,berühren::V,მიაკარებს,cyffwrdd
+1109,verbinden::V,შეაერთებს,cysylltu
+1110,bedecken::V,გადააფარებს,gorchuddio
+1111,aufhängen::V,დაკიდებს,crogi
+1112,aufhängen::V,დაკიდებს,hongian
+1113,anzünden::V,დაანთებს,cynnau
+1114,anzünden::V,მოუკიდებს,cynnau
+1115,aufheben::V,აიღებს,codi
+1116,aufheben::V,აიყვანს,codi
+1117,zurücklassen::V,დატოვებს,gadael
+1118,verlieren::V,დაკარგავს,colli
+1119,fallen lassen::V,გაუვარდება,gollwng
+1120,machen::V,გააკეთებს,gwneud
+1121,machen::V,გამოიწვევს,gwneud
+1122,herstellen::V,დაამზადებს,cynhyrchu
+1123,bauen::V,ააშენებს,adeiladu
+1124,reparieren::V,შეაკეთებს,trwsio
+1125,reparieren::V,შეაკეთებს,atgyweirio
+1126,reparieren::V,გაარემონტებს,trwsio
+1127,reparieren::V,გაარემონტებს,atgyweirio
+1128,verbessern::V,გამოაკეთებს,diwygio
+1129,verbessern::V,გააუმჯობესებს,diwygio
+1130,ändern::V,შეცვლის,altro
+1131,graben::V,თხრის,palu
+1132,graben::V,თხრის,cloddio
+1133,beugen::V,ხრის,plygu
+1134,biegen::V,გაღუნავს,plygu
+1135,drehen::V,ატრიალებს,troelli
+1136,wenden::V,მოაბრუნებს,troi
+1137,umdrehen::V,შეატრიალებს,troi
+1138,heben::V,ასწევს,codi
+1139,hochheben::V,აიყვანს,dyrchafu
+1140,ergreifen::V,სტაცებს,gafael
+1141,halten::V,უჭირავს,dal
+1142,drücken::V,დააწვება,pwyso
+1143,drücken::V,დააწვება,gwasgu
+1144,schieben::V,მისწევს,gwthio
+1145,kratzen::V,მოფხანს,crafu
+1146,lecken::V,ლოკავს,llyfu
+1147,beißen::V,უკბენს,cnoi
+1148,beißen::V,უკბენს,brathu
+1149,abreißen::V,გლეჯს,tynnu ymaith
+1150,abreißen::V,მოწყვეტს,tynnu ymaith
+1151,abschneiden::V,გაჭრის,torri
+1152,binden::V,შეკრავს,clymu
+1153,binden::V,გადააბამს,clymu
+1154,stecken::V,ჩაასობს,plannu
+1155,brechen::V,მოიტეხს,torri
+1156,klopfen::V,აკაკუნებს,taro
+1157,hauen::V,ლეწავს,taro
+1158,kleben::V,წებავს,gludio
+1159,kleben::V,დააწებებს,gludio
+1160,reiben::V,დაზელს,rhwbio
+1161,streichen::V,უსვამს,taenu
+1162,schleifen::V,ლესავს,hogi
+1163,schneiden::V,გაჭრის,torri
+1164,rütteln::V,არხევს,ysgytio
+1165,schütteln::V,არყევს,siglo
+1166,schütteln::V,არყევს,ysgwyd
+1167,schütteln::V,ანძრევს,siglo
+1168,schütteln::V,ანძრევს,ysgwyd
+1169,schwenken::V,აქნევს,siglo
+1170,schütten::V,ღვრის,tywallt
+1171,schütten::V,დააქცევს,tywallt
+1172,füllen::V,გაავსებს,llenwi
+1173,einwickeln::V,შეახვევს,lapio
+1174,tragen::V,მიიტანს,cludo
+1175,schleppen::V,მიათრევს,llusgo
+1176,ziehen::V,წევს,tynnu
+1177,ziehen::V,ათრევს,tynnu
+1178,aufbewahren::V,შეინახავს,cadw
+1179,werfen::V,ისვრის,taflu
+1180,fangen::V,დაიჭერს,dal
+1181,packen::V,სტაცებს,cipio
+1182,packen::V,სტაცებს,crafangu
+1183,verstecken::V,მალავს,celu
+1184,verstecken::V,მალავს,cuddio
+1185,teilen::V,დაყოფს,rhannu
+1186,schicken::V,გაგზავნის,anfon
+1187,bringen::V,მოიტანს,dod â
+1188,hinzufügen::V,დაამატებს,chwanegu
+1189,bekommen::V,ამოიღებს,cael
+1190,erhalten::V,იღებს,derbyn
+1191,nehmen::V,აიღებს,cymryd
+1192,wählen::V,გადაარჩევს,dewis
+1193,auswählen::V,ამოარჩევს,dethol
+1194,bewahren::V,ინარჩუნებს,cadw
+1195,behindern::V,აბრკოლებს,atal
+1196,behindern::V,აბრკოლებს,rhwystro
+1197,behindern::V,გააძნელებს,atal
+1198,behindern::V,გააძნელებს,rhwystro
+1199,verderben::V,გააფუჭებს,difetha
+1200,beschädigen::V,დააზიანებს,niweidio
+1201,zerbrechen::V,დაამტვრევს,torri
+1202,zerreißen::V,გახევს,rhwygo
+1203,zerstören::V,მოსპობს,dinistrio
+1204,zerstören::V,დაანგრევს,dinistrio
+1205,verbrennen::V,დაწვავს,llosgi
+1206,geben::V,აძლევს,rhoi
+1207,reichen::V,მიაწოდებს,estyn
+1208,schenken::V,აჩუქებს,rhoddi
+1209,versprechen::V,აღუთქვამს,addo
+1210,wünschen::V,უსურვებს,dymuno
+1211,loben::V,აქებს,canmol
+1212,loben::V,ამკობს,canmol
+1213,küssen::V,აკოცებს,cusanu
+1214,wiegen::V,არხევს,siglo
+1215,zudecken::V,გადახურავს,gorchuddio
+1216,wecken::V,გააღვიძებს,deffro
+1217,zeigen::V,დაანახვებს,dangos
+1218,führen::V,მიჰყავს,arwain
+1219,lehren::V,ასწავლის,dysgu
+1220,unterrichten::V,ასწავლის,hyfforddi
+1221,aufziehen::V,აღზრდის,dod i fyny
+1222,leiten::V,აწარმოებს,arwain
+1223,leiten::V,ხელმძღვანელობს,arwain
+1224,antreiben::V,დააჩქარებს,annog
+1225,lassen::V,ა--ინებს,gadael
+1226,einladen::V,მოიპატიჟებს,gwahodd
+1227,vereinigen::V,შეაერთებს,uno
+1228,vereinigen::V,შეაერთებს,cyfuno
+1229,besuchen::V,სანახავად მიდის,ymweld â
+1230,treffen::V,შეხვდება,cwrdd
+1231,treffen::V,შეხვდება,cyfarfod
+1232,sich versammeln::V,შეიკრიბება,casglu
+1233,sich versammeln::V,შეიკრიბება,cynnull
+1234,spielen::V,ეთამაშება,chwarae
+1235,singen::V,მღერის,canu
+1236,tanzen::V,ცეკვავს,dawnsio
+1237,sich trennen::V,მოშორდება,ymwahanu
+1238,verlassen::V,მიატოვებს,gadael
+1239,retten::V,იხსნის,achub
+1240,retten::V,გადაარჩენს,achub
+1241,bewachen::V,დარაჯობს,gwarchod
+1242,bewachen::V,უთვალთვალებს,gwarchod
+1243,schützen::V,დაიფარავს,noddi
+1244,verteidigen::V,დაიცავს,amddiffyn
+1245,sich schlagen::V,იჩხუბებს,ffraeo
+1246,sich schlagen::V,იჩხუბებს,terfysgu
+1247,schießen::V,ისვრის,saethu
+1248,siegen::V,გაიმარჯვებს,ennill
+1249,ärgern::V,აჯავრებს,cythruddo
+1250,schlagen::V,ცემს,curo
+1251,treten::V,პანღურს ამოჰკრავს,cicio
+1252,stechen::V,სჩხვლეტს,pigo
+1253,stoßen::V,დაეჯახება,gwthio
+1254,stehlen::V,ქურდობს,dwyn
+1255,stehlen::V,ქურდობს,lladrata
+1256,stehlen::V,მოიპარავს,dwyn
+1257,stehlen::V,მოიპარავს,lladrata
+1258,stören::V,შეაწუხებს,aflonyddu
+1259,belästigen::V,მობეზრდება,trafferthu
+1260,verbergen::V,დამალავს,cuddio
+1261,täuschen::V,შეცდებს,twyllo
+1262,betrügen::V,მოატყუებს,hocedu
+1263,töten::V,მოკლავს,lladd
+1264,wohnen::V,ცხოვრობს,byw
+1265,wohnen::V,ბინადრობს,byw
+1266,arbeiten::V,მუშაობს,gweithio
+1267,sammeln::V,შეკრებს,casglu
+1268,pflücken::V,კრეფს,casglu
+1269,jagen::V,ნადირობს,hela
+1270,fischen::V,თევზაობს,pysgota
+1271,fassen::V,დააჭერს,dal
+1272,hüten::V,მწყემსავს,bugeilio
+1273,treiben::V,მიერეკება,gyrru
+1274,anbinden::V,მიაბამს,clymu
+1275,füttern::V,აჭმევს,porthi
+1276,melken::V,წველის,godro
+1277,hacken::V,კეპავს,torri
+1278,gießen::V,რწყავს,dyfrhau
+1279,reifen::V,მწიფდება,aeddfedu
+1280,zubereiten::V,მოამზადებს,coginio
+1281,kochen::V,მოხარშავს,berwi
+1282,backen::V,გამოაცხობს,pobi
+1283,backen::V,გამოაცხობს,crasu
+1284,braten::V,შეწვავს,ffrio
+1285,umrühren::V,შეურევს,cyffroi
+1286,umrühren::V,გათქვეფს,cyffroi
+1287,stricken::V,ქსოვს,gwau
+1288,nähen::V,გაკერავს,gwnïo
+1289,färben::V,შეღებავს,lliwio
+1290,reinigen::V,გაწმენდს,glanhau
+1291,reinigen::V,გასუფთავებს,glanhau
+1292,waschen::V,გარეცხავს,golchi
+1293,abwischen::V,წაშლის,sychu
+1294,spülen::V,გაავლებს,streulio
+1295,fegen::V,დაბლანდავს,ysgubo
+1296,kehren::V,დაგვის,ysgubo
+1297,baden::V,ბანაობს,cael bath
+1298,sich waschen::V,იბანება,ymolchi
+1299,ausziehen::V,გაიხდის,tynnu
+1300,anziehen::V,ჩაიცვამს,gwisgo
+1301,sich anziehen::V,ჩაიცვამს,ymwisgo
+1302,kämmen::V,დავარცხნის,cribo
+1303,schmücken::V,მორთავს,harddu
+1304,schmücken::V,მორთავს,addurno
+1305,sagen::V,იტყვის,dweud
+1306,sprechen::V,ლაპარაკობს,llefaru
+1307,reden::V,საუბრობს,siarad
+1308,sich unterhalten::V,ბაასობს,sgwrsio
+1309,sich unterhalten::V,მუსაიფობს,sgwrsio
+1310,fragen::V,ჰკითხავს,gofyn
+1311,bitten::V,სთხოვს,gofyn am
+1312,erzählen::V,მოუთხრობს,dweud
+1313,mitteilen::V,აუწყებს,cyfleu
+1314,mitteilen::V,აცნობებს,cyfleu
+1315,nennen::V,უწოდებს,enwi
+1316,rufen::V,დაუძახებს,galw
+1317,prahlen::V,ტრაბახობს,brolio
+1318,prahlen::V,ტრაბახობს,ymffrostio
+1319,übersetzen::V,გადათარგმნის,cyfieithu
+1320,denken::V,ფიქრობს,meddwl
+1321,denken::V,აზროვნებს,meddwl
+1322,glauben::V,სჯერა,credu
+1323,glauben::V,სჯერა,coelio
+1324,bemerken::V,შენიშვნავს,sylwi
+1325,erkennen::V,გამოიცნობს,adnabod
+1326,begreifen::V,გაიგებს,amgyffred
+1327,verstehen::V,გაიგონებს,deall
+1328,lernen::V,ისწავლის,dysgu
+1329,wissen::V,ეცოდინება,gwybod
+1330,sich erinnern an::V,მოიგონებს,cofio
+1331,sich erinnern an::V,გაიხსენებს,cofio
+1332,vergessen::V,ივიწყებს,anghofio
+1333,messen::V,ზომავს,mesur
+1334,zählen::V,ითვლის,cyfrif
+1335,rechnen::V,გაიანგარიშებს,cyfrifo
+1336,lesen::V,კითხულობს,darllen
+1337,malen::V,ხატავს,peintio
+1338,zeichnen::V,ხაზავს,tynnu
+1339,schreiben::V,დაწერს,ysgrifennu
+1340,besitzen::V,ექნება,meddu
+1341,kaufen::V,ყიდულობს,prynu
+1342,verkaufen::V,გაყიდის,gwerthu
+1343,bezahlen::V,გადაიხდის,talu am
+1344,zahlen::V,გადაიხდის,talu
+1345,beherrschen::V,ფლობს,rheoli
+1346,beherrschen::V,ფლობს,llywodraethu
+1347,ertragen::V,მოითმენს,dioddef

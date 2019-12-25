@@ -1,0 +1,1381 @@
+,Concept_ID,tr,no
+0,Auge::N,göz,øye
+1,Ohr::N,kulak,øre
+2,Nase::N,burun,nese
+3,Mund::N,ağız,munn
+4,Zahn::N,diş,tann
+5,Zunge::N,dil,tunge
+6,Lippe::N,dudak,leppe
+7,Wange::N,yanak,kinn
+8,Gesicht::N,yüz,fjes
+9,Gesicht::N,yüz,ansikt
+10,Stirn::N,alın,panne
+11,Haar::N,saç,hår
+12,Schnurrbart::N,bıyık,bart
+13,Bart::N,sakal,skjegg
+14,Kinn::N,çene,hake
+15,Kiefer[Anatomie]::N,çene,kjeve
+16,Kehle::N,boğaz,strupe
+17,Hals::N,boyun,hals
+18,Hals::N,gerdan,hals
+19,Genick::N,ense,nakke
+20,Kopf::N,baş,hode
+21,Kopf::N,kafa,hode
+22,Rücken::N,arka,rygg
+23,Bauch::N,karın,buk
+24,Bauch::N,karın,mage
+25,Nabel::N,göbek,navle
+26,Busen::N,koyun,barm
+27,Brust::N,göğüs,bryst
+28,Schulter::N,omuz,skulder
+29,Arm::N,kol,arm
+30,Ellenbogen::N,dirsek,albue
+31,Hand::N,el,hånd
+32,Handfläche::N,avuç,håndflate
+33,Handfläche::N,el ayası,håndflate
+34,Finger::N,parmak,finger
+35,Fingernagel::N,el tırnağı,fingernegl
+36,Nagel[Anatomie]::N,tırnak,negl
+37,Zeh::N,ayak parmağı,tå
+38,Fuß::N,ayak,fot
+39,Ferse::N,topuk,hæl
+40,Knie::N,diz,kne
+41,Oberschenkel::N,uyluk,lår
+42,Bein::N,bacak,bein
+43,Körper::N,vücut,kropp
+44,Körper::N,vücut,legeme
+45,Haut::N,cilt,hud
+46,Haut::N,cilt,skinn
+47,Blut::N,kan,blod
+48,Ader::N,damar,åre
+49,Sehne::N,kiriş,sene
+50,Knochen::N,kemik,bein
+51,Knochen::N,kemik,knokkel
+52,Gehirn::N,beyin,hjerne
+53,Herz::N,kalp,hjerte
+54,Herz::N,yürek,hjerte
+55,Magen::N,mide,mage
+56,Leber::N,karaciğer,lever
+57,Atem::N,nefes,pust
+58,Hunger::N,açlık,sult
+59,Träne::N,gözyaşı,tåre
+60,Geschmack::N,tat,smak
+61,Geschmack::N,lezzet,smak
+62,Geruch::N,koku,lukt
+63,Schlaf::N,uyku,søvn
+64,Traum::N,düş,drøm
+65,Traum::N,rüya,drøm
+66,Himmel::N,gök,himmel
+67,Sonne::N,güneş,sol
+68,Mond::N,ay,måne
+69,Stern::N,yıldız,stjerne
+70,Luft::N,hava,luft
+71,Wind::N,yel,vind
+72,Wind::N,rüzgâr,vind
+73,Welle::N,dalga,bølge
+74,Wasser::N,su,vann
+75,Stein::N,taş,stein
+76,Boden::N,yer,bakke
+77,Boden::N,zemin,bakke
+78,Erde::N,toprak,jord
+79,Staub::N,toz,støv
+80,Rauch::N,duman,røyk
+81,Funke::N,kıvılcım,gnist
+82,Feuer::N,ateş,ild
+83,Licht::N,ışık,lys
+84,Schatten::N,gölge,skygge
+85,Wetter::N,hava,vær
+86,Nebel::N,pus,tåke
+87,Wolke::N,bulut,sky
+88,Regen::N,yağmur,regn
+89,Schnee::N,kar,snø
+90,Eis::N,buz,is
+91,Frost::N,don,frost
+92,Kälte::N,soğukluk,kulde
+93,Hitze::N,sıcaklık,hete
+94,Raureif::N,kırç,rimfrost
+95,Regenbogen::N,gökkuşağı,regnbue
+96,Donner::N,gök gürlemesi,torden
+97,Strömung::N,akıntı,strømning
+98,Strömung::N,cereyan,strømning
+99,Tropfen::N,damla,dråpe
+100,Schaum::N,köpük,skum
+101,Schmutz::N,çamur,søl
+102,Schmutz::N,çamur,skitt
+103,Schmutz::N,pislik,søl
+104,Schmutz::N,pislik,skitt
+105,See::N,göl,sjø
+106,Sumpf::N,batak,sump
+107,Sumpf::N,batak,myrlende
+108,Moor::N,cılgıt,myr
+109,Moor::N,cılgıt,myrhei
+110,Wiese::N,çimen,eng
+111,Wald::N,koru,skog
+112,Wald::N,orman,skog
+113,Hügel::N,tepe,haug
+114,Hügel::N,tepe,bakke
+115,Anhöhe::N,tümsek,haug
+116,Anhöhe::N,tümsek,bakke
+117,Anhöhe::N,yükseklik,haug
+118,Anhöhe::N,yükseklik,bakke
+119,Berg::N,dağ,berg
+120,Berg::N,dağ,fjell
+121,Gipfel::N,zirve,topp
+122,Höhle::N,in,hule
+123,Höhle::N,mağara,hule
+124,Abhang::N,bayır,li
+125,Abhang::N,bayır,skråning
+126,Quelle::N,pınar,kilde
+127,Quelle::N,kaynak,kilde
+128,Bach::N,çay,bekk
+129,Bach::N,dere,bekk
+130,Fluss::N,nehir,elv
+131,Ufer::N,kıyı,bredd
+132,Ufer::N,sahil,bredd
+133,Küste::N,kıyı,kyst
+134,Küste::N,sahil,kyst
+135,Festland::N,kara,fastland
+136,Meer::N,deniz,hav
+137,Bucht::N,koy,bukt
+138,Bucht::N,körfez,bukt
+139,Insel::N,ada,øy
+140,Blume::N,çiçek,blomst
+141,Gras::N,ot,gress
+142,Gras::N,çim,gress
+143,Wurzel::N,kök,rot
+144,Baum::N,ağaç,tre
+145,Stamm::N,gövde,stamme
+146,Rinde::N,kabuk,bark
+147,Ast::N,dal,gren
+148,Ast::N,budak,gren
+149,Zweig::N,dal,kvist
+150,Blatt::N,yaprak,blad
+151,Birke::N,huş,bjørk
+152,Kiefer[Baum]::N,çam,furu
+153,Weide[Baum]::N,söğüt,selje
+154,Weide[Baum]::N,söğüt,piletre
+155,Tanne::N,çam,gran
+156,Tanne::N,köknar,gran
+157,Horn::N,boynuz,horn
+158,Feder::N,tüy,fjær
+159,Fell::N,post,skinn
+160,Flügel::N,kanat,vinge
+161,Klaue::N,pençe,klauv
+162,Kralle::N,tırnak,klo
+163,Schwanz::N,kuyruk,hale
+164,Ei::N,yumurta,egg
+165,Nest::N,yuva,rede
+166,Bau::N,in,hi
+167,Tier::N,hayvan,dyr
+168,Herde::N,sürü,flokk
+169,Kuh::N,inek,ku
+170,Bulle::N,boğa,tyr
+171,Pferd::N,at,hest
+172,Pferd::N,beygir,hest
+173,Schaf::N,koyun,får
+174,Schwein::N,domuz,gris
+175,Hund::N,it,hund
+176,Hund::N,köpek,hund
+177,Katze::N,kedi,katt
+178,Bär::N,ayı,bjørn
+179,Eichhörnchen::N,sincap,ekorn
+180,Elch::N,büyük kuzey geyiği,elg
+181,Fuchs::N,tilki,rev
+182,Hase::N,tavşan,hare
+183,Maus::N,fare,mus
+184,Maus::N,sıçan,mus
+185,Wolf::N,kurt,ulv
+186,Wolf::N,kurt,varg
+187,Vogel::N,kuş,fugl
+188,Schwarm::N,sürü,sverm
+189,Huhn::N,tavuk,høne
+190,Hahn::N,horoz,hane
+191,Gans::N,kaz,gås
+192,Adler::N,kartal,ørn
+193,Adler::N,karakuş,ørn
+194,Ente::N,ördek,and
+195,Eule::N,baykuş,ugle
+196,Kranich::N,turna,trane
+197,Krähe::N,karga,kråke
+198,Kuckuck::N,guguk,gjøk
+199,Schwan::N,kuğu,svane
+200,Fisch::N,balık,fisk
+201,Barsch::N,hani,abbor
+202,Barsch::N,levrek,abbor
+203,Hecht::N,turnabalığı,gjedde
+204,Schlange[Tier]::N,yılan,orm
+205,Schlange[Tier]::N,yılan,slange
+206,Wurm::N,kurt,orm
+207,Wurm::N,kurt,mark
+208,Wurm::N,solucan,orm
+209,Wurm::N,solucan,mark
+210,Spinne::N,örümcek,edderkopp
+211,Ameise::N,karınca,maur
+212,Laus::N,bit,lus
+213,Mücke::N,sivrisinek,mygg
+214,Fliege::N,sinek,flue
+215,Schmetterling::N,kelebek,sommerfugl
+216,Beere::N,tane,bær
+217,Apfel::N,elma,eple
+218,Pilz::N,mantar,sopp
+219,Zwiebel::N,soğan,løk
+220,Saat::N,ekin,sæd
+221,Korn::N,tane,korn
+222,Heu::N,kuru ot,høy
+223,Schale::N,kabuk,skall
+224,Grube::N,çukur,grop
+225,Falle::N,tuzak,felle
+226,Schlinge::N,ilmik,snare
+227,Spur::N,iz,spor
+228,Asche::N,kül,aske
+229,Dreck::N,pislik,møkk
+230,Dreck::N,pislik,skitt
+231,Eisen::N,demir,jern
+232,Gold::N,altın,gull
+233,Silber::N,gümüş,sølv
+234,Kohle::N,kömür,kol
+235,Kohle::N,kömür,kull
+236,Glas::N,cam,glass
+237,Lehm::N,balçık,leire
+238,Sand::N,kum,sand
+239,Mensch::N,insan,menneske
+240,Mann::N,adam,mann
+241,Mann::N,erkek,mann
+242,Frau::N,bayan,kvinne
+243,Kind::N,çocuk,barn
+244,Junge::N,erkek çocuk,gutt
+245,Mädchen::N,kız,pike
+246,Mädchen::N,kız,jente
+247,Familie::N,aile,familie
+248,Großvater::N,dede,bestefar
+249,Großvater::N,büyükbaba,bestefar
+250,Großmutter::N,nine,bestemor
+251,Großmutter::N,büyükanne,bestemor
+252,Eltern::N,ebeveyn,foreldre
+253,Eltern::N,ana baba,foreldre
+254,Vater::N,ata,far
+255,Vater::N,baba,far
+256,Mutter::N,ana,mor
+257,Mutter::N,anne,mor
+258,Sohn::N,oğul,sønn
+259,Tochter::N,kız,datter
+260,Tochter::N,kız evlât,datter
+261,Bruder::N,abi,bror
+262,Bruder::N,erkek kardeş,bror
+263,Schwester::N,abla,søster
+264,Schwester::N,kız kardeş,søster
+265,Onkel::N,dayı,onkel
+266,Tante::N,hala,tante
+267,Tante::N,teyze,tante
+268,Ehemann::N,koca,ektemann
+269,Ehefrau::N,karı,hustru
+270,Freude::N,neşe,glede
+271,Freude::N,sevinç,glede
+272,Gelächter::N,gülme,latter
+273,Gelächter::N,kahkaha,latter
+274,Glück::N,mutluluk,lykke
+275,Kummer::N,dert,sorg
+276,Kummer::N,keder,sorg
+277,Wunsch::N,arzu,ønske
+278,Wunsch::N,istek,ønske
+279,Lust::N,arzu,lyst
+280,Lust::N,heves,lyst
+281,Geist::N,tin,ånd
+282,Gedanke::N,fikir,tanke
+283,Gedanke::N,düşünce,tanke
+284,Gedächtnis::N,bellek,minne
+285,Gedächtnis::N,bellek,hukommelse
+286,Verstand::N,zekâ,forstand
+287,Sinn::N,anlam,mening
+288,Sinn::N,anlam,betydning
+289,Grund::N,sebep,grunn
+290,Wahrheit::N,doğruluk,sannhet
+291,Wahrheit::N,gerçeklik,sannhet
+292,Gespräch::N,görüşme,samtale
+293,Märchen::N,masal,eventyr
+294,Erzählung::N,öykü,fortelling
+295,Erzählung::N,hikâye,fortelling
+296,Nachricht::N,haber,melding
+297,Neuigkeit::N,haber,nyhet
+298,Name::N,ad,navn
+299,Name::N,isim,navn
+300,Rätsel::N,bilmece,gåte
+301,Rede::N,söylev,tale
+302,Rede::N,konuşma,tale
+303,Sprache::N,dil,språk
+304,Sprache::N,lisan,språk
+305,Stimme::N,ses,stemme
+306,Wort::N,kelime,ord
+307,Zeichen::N,işaret,tegn
+308,Ruf::N,çağırma,rop
+309,Lärm::N,şamata,bråk
+310,Lärm::N,gürültü,bråk
+311,Laut::N,ses,lyd
+312,Ton::N,ses,tone
+313,Lied::N,türkü,vise
+314,Ruhe::N,sakinlik,ro
+315,Leute::N,halk,folk
+316,Leute::N,insanlar,folk
+317,Volk::N,ulus,folk
+318,Volk::N,millet,folk
+319,Arbeit::N,iş,arbeid
+320,Arbeit::N,çalışma,arbeid
+321,Gast::N,konuk,gjest
+322,Gast::N,misafir,gjest
+323,Geschenk::N,hediye,gave
+324,Geschenk::N,armağan,gave
+325,Spiel::N,oyun,lek
+326,Spiel::N,oyun,spill
+327,Gesellschaft::N,çevre,selskap
+328,Gesellschaft::N,arkadaşlık,selskap
+329,Hilfe::N,yardım,hjelp
+330,Freund::N,dost,venn
+331,Freund::N,arkadaş,venn
+332,Kamerad::N,arkadaş,kamerat
+333,Angelegenheit::N,iş,sak
+334,Angelegenheit::N,iş,anliggende
+335,Angelegenheit::N,husus,sak
+336,Angelegenheit::N,husus,anliggende
+337,Anzahl::N,sayı,antall
+338,Art::N,çeşit,art
+339,Art::N,çeşit,slag
+340,Stück::N,tane,stykke
+341,Stück::N,parça,stykke
+342,Teil::N,kısım,del
+343,Hälfte::N,yarı,halvdel
+344,Kreis::N,daire,ring
+345,Kreis::N,daire,sirkel
+346,Kreuz::N,haç,kors
+347,Kreuz::N,haç,kryss
+348,Linie::N,hat,linje
+349,Linie::N,çizgi,linje
+350,Strich::N,çizgi,strek
+351,Abstand::N,aralık,avstand
+352,Entfernung::N,mesafe,avstand
+353,Entfernung::N,uzaklık,avstand
+354,Gegend::N,yöre,strøk
+355,Platz::N,yer,plass
+356,Ort::N,yer,sted
+357,Seite::N,yan,side
+358,Seite::N,taraf,side
+359,Mitte::N,orta,midte
+360,Mitte::N,merkez,midte
+361,Gegenstand::N,şey,gjenstand
+362,Sache::N,iş,sak
+363,Sache::N,şey,sak
+364,Rand::N,kenar,rand
+365,Kante::N,kenar,kant
+366,Ecke::N,köşe,hjørne
+367,Spitze::N,uç,spiss
+368,Spitze::N,baş,spiss
+369,Ende::N,uç,ende
+370,Loch::N,oyuk,hull
+371,Loch::N,delik,hull
+372,Winkel::N,köşe,vinkel
+373,Muster::N,örnek,mønster
+374,Größe::N,büyüklük,størrelse
+375,Länge::N,uzunluk,lengde
+376,Höhe::N,yükseklik,høyde
+377,Gewicht::N,ağırlık,vekt
+378,Menge::N,miktar,mengde
+379,Haufen::N,küme,haug
+380,Haufen::N,küme,bunke
+381,Haufen::N,yığın,haug
+382,Haufen::N,yığın,bunke
+383,Reihe::N,sıra,rekke
+384,Boot::N,kayık,båt
+385,Boot::N,sandal,båt
+386,Ruder::N,kürek,åre
+387,Schlitten::N,kızak,slede
+388,Schlitten::N,kızak,kjelke
+389,Ski::N,kayak,ski
+390,Lagerfeuer::N,kamp ateşi,leirbål
+391,Last::N,yük,bør
+392,Last::N,yük,last
+393,Gang::N,gidiş,gang
+394,Gang::N,yürüyüş,gang
+395,Schritt::N,adım,steg
+396,Schritt::N,adım,skritt
+397,Norden::N,kuzey,nord
+398,Süden::N,güney,sør
+399,Westen::N,batı,vest
+400,Osten::N,doğu,øst
+401,Holz::N,ağaç,tre
+402,Holz::N,tahta,tre
+403,Brett::N,tahta,fjøl
+404,Brett::N,tahta,brett
+405,Platte::N,levha,plate
+406,Stütze::N,dayak,støtte
+407,Stütze::N,destek,støtte
+408,Stange::N,çubuk,stang
+409,Stock::N,sopa,pinne
+410,Stock::N,değnek,pinne
+411,Stab::N,sırık,stav
+412,Stab::N,sırık,kjepp
+413,Stab::N,baston,stav
+414,Stab::N,baston,kjepp
+415,Rohr::N,boru,rør
+416,Haus::N,ev,hus
+417,Heim::N,ev,hjem
+418,Heim::N,yurt,hjem
+419,Ofen::N,soba,ovn
+420,Fußboden::N,taban,gulv
+421,Fußboden::N,döşeme,gulv
+422,Tisch::N,masa,bord
+423,Stuhl::N,iskemle,stol
+424,Stuhl::N,sandalye,stol
+425,Wiege::N,beşik,vogge
+426,Bett::N,yatak,seng
+427,Regal::N,raf,reol
+428,Regal::N,raf,hylle
+429,Kiste::N,sandık,kasse
+430,Fenster::N,pencere,vindu
+431,Tür::N,kapı,dør
+432,Tor::N,kapı,port
+433,Zaun::N,çit,gjerde
+434,Dach::N,dam,tak
+435,Dach::N,çatı,tak
+436,Leiter::N,merdiven,stige
+437,Besen::N,süpürge,kost
+438,Spaten::N,bel,spade
+439,Schaufel::N,kürek,skuffe
+440,Gabel::N,çatal,gaffel
+441,Löffel::N,kaşık,skje
+442,Messer::N,bıçak,kniv
+443,Nagel::N,çivi,spiker
+444,Netz::N,ağ,nett
+445,Haken::N,çengel,krok
+446,Griff::N,kulp,tak
+447,Griff::N,kulp,håndtak
+448,Griff::N,tutamak,tak
+449,Griff::N,tutamak,håndtak
+450,Schloss::N,kilit,lås
+451,Bild::N,imaj,bilde
+452,Bild::N,resim,bilde
+453,Figur::N,şekil,figur
+454,Figur::N,heykel,figur
+455,Puppe::N,kukla,dukke
+456,Beutel::N,kese,pose
+457,Beutel::N,torba,pose
+458,Bündel::N,deste,bylt
+459,Tasche::N,çanta,veske
+460,Eimer::N,kova,bøtte
+461,Deckel::N,kapak,lokk
+462,Geschirr::N,kap kacak,kjøkkentøy
+463,Sack::N,torba,sekk
+464,Tasse::N,fincan,kopp
+465,Topf::N,tencere,gryte
+466,Kessel::N,kazan,kjele
+467,Essen::N,yemek,mål
+468,Nahrung::N,gıda,mat
+469,Nahrung::N,gıda,næring
+470,Nahrung::N,besin,mat
+471,Nahrung::N,besin,næring
+472,Speise::N,yemek,matrett
+473,Fleisch::N,et,kjøtt
+474,Getreide::N,tahıl,korn
+475,Getreide::N,hububat,korn
+476,Brei::N,ezme,grøt
+477,Brot::N,ekmek,brød
+478,Scheibe::N,dilim,skive
+479,Fett::N,yağ,fett
+480,Butter::N,tereyağı,smør
+481,Öl::N,yağ,olje
+482,Öl::N,akar yağ,olje
+483,Salz::N,tuz,salt
+484,Suppe::N,çorba,suppe
+485,Honig::N,bal,honning
+486,Milch::N,süt,melk
+487,Tee::N,çay,te
+488,Leder::N,deri,lær
+489,Leder::N,deri,skinn
+490,Leder::N,meşin,lær
+491,Leder::N,meşin,skinn
+492,Wolle::N,yün,ull
+493,Stoff::N,kumaş,tøy
+494,Stoff::N,kumaş,stoff
+495,Nadel::N,iğne,nål
+496,Faden::N,tire,tråd
+497,Faden::N,iplik,tråd
+498,Knopf::N,düğme,knapp
+499,Knoten::N,düğüm,knute
+500,Farbe::N,boya,farge
+501,Kleidung::N,giyim,påkledning
+502,Hemd::N,gömlek,skjorte
+503,Kragen::N,yaka,krage
+504,Ärmel::N,yen,erme
+505,Ärmel::N,elbise kolu,erme
+506,Hose::N,pantolon,bukse
+507,Gürtel::N,kuşak,belte
+508,Mütze::N,bere,lue
+509,Mütze::N,kasket,lue
+510,Schuh::N,kundura,sko
+511,Schuh::N,ayakkabı,sko
+512,Stiefel::N,çizme,støvel
+513,Ring::N,yüzük,ring
+514,Band::N,bağ,band
+515,Band::N,şerit,band
+516,Kamm::N,tarak,kam
+517,Spiegel::N,ayna,speil
+518,Riemen::N,kayış,rem
+519,Schnur::N,ip,snor
+520,Schnur::N,sicim,snor
+521,Leine::N,kayış,line
+522,Decke::N,örtü,teppe
+523,Decke::N,yorgan,teppe
+524,Kissen::N,yastık,pute
+525,Tuch::N,bez,tøy
+526,Handtuch::N,havlu,håndkle
+527,Kraft::N,güç,kraft
+528,Kraft::N,kuvvet,kraft
+529,Stärke::N,kuvvet,styrke
+530,Gesundheit::N,sağlık,helse
+531,Gesundheit::N,sağlık,sunnhet
+532,Krankheit::N,hastalık,syke
+533,Krankheit::N,hastalık,sykdom
+534,Schmerz::N,ağrı,smerte
+535,Schmerz::N,sancı,smerte
+536,Wunde::N,yara,sår
+537,Fieber::N,ateş,feber
+538,Arznei::N,ilâç,medisin
+539,Arznei::N,ilâç,legemiddel
+540,Brücke::N,köprü,bro
+541,Brunnen::N,kuyu,brønn
+542,Brunnen::N,çeşme,brønn
+543,Weide::N,otlak,beite
+544,Pfad::N,patika,sti
+545,Pfad::N,keçiyolu,sti
+546,Weg::N,yol,vei
+547,Straße::N,yol,gate
+548,Straße::N,cadde,gate
+549,Dorf::N,köy,landsby
+550,Stadt::N,kent,by
+551,Stadt::N,şehir,by
+552,Brief::N,mektup,brev
+553,Buch::N,kitap,bok
+554,Buchstabe::N,harf,bokstav
+555,Zeitung::N,gazete,avis
+556,Leben::N,hayat,liv
+557,Tod::N,ölüm,død
+558,Grab::N,kabir,grav
+559,Kirche::N,kilise,kirke
+560,Sünde::N,günah,synd
+561,Gott::N,tanrı,gud
+562,Arbeiter::N,işçi,arbeider
+563,Chef::N,şef,sjef
+564,Chef::N,müdür,sjef
+565,Meister::N,usta,mester
+566,Arzt::N,hekim,lege
+567,Arzt::N,doktor,lege
+568,Lehrer::N,hoca,lærer
+569,Lehrer::N,öğretmen,lærer
+570,Geld::N,para,penger
+571,Geschäft::N,ticaret,forretning
+572,Laden::N,dükkân,butikk
+573,Preis::N,fiyat,pris
+574,Ware::N,mal,vare
+575,Nutzen::N,fayda,nytte
+576,Reichtum::N,servet,rikdom
+577,Reichtum::N,zenginlik,rikdom
+578,Welt::N,dünya,verden
+579,Land::N,ülke,land
+580,Staat::N,devlet,stat
+581,König::N,kral,konge
+582,Macht::N,kudret,makt
+583,Macht::N,iktidar,makt
+584,Grenze::N,had,grense
+585,Grenze::N,sınır,grense
+586,Krieg::N,savaş,krig
+587,Feind::N,düşman,fiende
+588,Gewalt::N,zor,vold
+589,Gewalt::N,cebir,vold
+590,Kampf::N,savaş,kamp
+591,Bogen[Waffe]::N,yay,bue
+592,Pfeil::N,ok,pil
+593,Gewehr::N,tüfek,gevær
+594,Fehler::N,hata,feil
+595,Fehler::N,yanlış,feil
+596,Lüge::N,yalan,løgn
+597,Schaden::N,zarar,skade
+598,Unglück::N,felâket,uhell
+599,Unglück::N,talihsizlik,uhell
+600,Schuld::N,suç,skyld
+601,Schuld::N,kabahat,skyld
+602,Alter::N,yaş,alder
+603,Schluss::N,son,slutt
+604,Zeit::N,zaman,tid
+605,Tag::N,gün,dag
+606,Morgen::N,sabah,morgen
+607,Mittag::N,öğle,middag
+608,Abend::N,akşam,aften
+609,Nacht::N,gece,natt
+610,Woche::N,hafta,uke
+611,Monat::N,ay,måned
+612,Jahr::N,yıl,år
+613,Jahr::N,sene,år
+614,Frühling::N,ilkbahar,vår
+615,Sommer::N,yaz,sommer
+616,Herbst::N,güz,høst
+617,Herbst::N,sonbahar,høst
+618,Winter::N,kış,vinter
+619,Januar::N,ocak,januar
+620,Februar::N,şubat,februar
+621,März::N,mart,mars
+622,April::N,nisan,april
+623,Mai::N,mayıs,mai
+624,Juni::N,haziran,juni
+625,Juli::N,temmuz,juli
+626,August::N,ağustos,august
+627,September::N,eylül,september
+628,Oktober::N,ekim,oktober
+629,November::N,kasım,november
+630,Dezember::N,aralık,desember
+631,Montag::N,pazartesi,mandag
+632,Dienstag::N,salı,tirsdag
+633,Mittwoch::N,çarşamba,onsdag
+634,Donnerstag::N,perşembe,torsdag
+635,Freitag::N,cuma,fredag
+636,Samstag::N,cumartesi,lørdag
+637,Sonntag::N,pazar,søndag
+638,groß::A,büyük,stor
+639,klein::A,ufak,liten
+640,klein::A,küçük,liten
+641,lang::A,uzun,lang
+642,kurz::A,kısa,kort
+643,breit::A,enli,bred
+644,breit::A,geniş,bred
+645,schmal::A,dar,smal
+646,dicht::A,sık,tett
+647,dicht::A,yoğun,tett
+648,dick[Gegenstand]::A,kalın,tykk
+649,dick[Gegenstand]::A,iri,tykk
+650,dünn::A,ince,tynn
+651,fein::A,ince,fin
+652,fein::A,narin,fin
+653,fest::A,sabit,fast
+654,fest::A,sağlam,fast
+655,flach::A,düz,flat
+656,flach::A,yassı,flat
+657,glatt::A,düz,glatt
+658,hart::A,katı,hard
+659,weich::A,yumuşak,myk
+660,weich::A,yumuşak,bløt
+661,rund::A,yuvarlak,rund
+662,spitz::A,sivri,spiss
+663,scharf::A,keskin,kvass
+664,stumpf::A,kör,stubb
+665,schwer::A,ağır,tung
+666,schön::A,güzel,pen
+667,schön::A,güzel,vakker
+668,heiß::A,kızgın,het
+669,warm::A,sıcak,varm
+670,kalt::A,soğuk,kald
+671,kühl::A,serin,kjølig
+672,frisch::A,taze,fersk
+673,feucht::A,nemli,fuktig
+674,feucht::A,rutubetli,fuktig
+675,nass::A,yaş,våt
+676,nass::A,ıslak,våt
+677,trocken::A,kuru,tørr
+678,voll::A,dolu,full
+679,voll::A,dolmuş,full
+680,leer::A,boş,tom
+681,offen::A,açık,åpen
+682,geschlossen::A,kapalı,lukket
+683,sauber::A,pak,ren
+684,sauber::A,temiz,ren
+685,schmutzig::A,pis,skitten
+686,schmutzig::A,kirli,skitten
+687,roh::A,çiğ,rå
+688,reif::A,olgun,moden
+689,lecker::A,lezzetli,lekker
+690,süß::A,tatlı,søt
+691,süß::A,şekerli,søt
+692,bitter::A,acı,besk
+693,bitter::A,acı,bitter
+694,sauer::A,ekşi,sur
+695,hell::A,aydınlık,lys
+696,dunkel::A,karanlık,mørk
+697,schwarz::A,kara,svart
+698,schwarz::A,siyah,svart
+699,weiß::A,ak,hvit
+700,weiß::A,beyaz,hvit
+701,rot::A,kırmızı,rød
+702,gelb::A,sarı,gul
+703,blau::A,mavi,blå
+704,grün::A,yeşil,grønn
+705,grau::A,boz,grå
+706,bunt::A,renkli,broket
+707,billig::A,ucuz,billig
+708,teuer::A,pahalı,dyr
+709,wertvoll::A,değerli,verdifull
+710,blind::A,kör,blind
+711,taub::A,sağır,døv
+712,kräftig::A,dinç,kraftig
+713,kräftig::A,kuvvetli,kraftig
+714,stark::A,güçlü,sterk
+715,stark::A,kuvvetli,sterk
+716,schwach::A,zayıf,svak
+717,schwach::A,güçsüz,svak
+718,fett::A,şişman,fet
+719,schlank::A,narin,slank
+720,hübsch::A,güzel,pen
+721,hübsch::A,sevimli,pen
+722,böse::A,kötü,slem
+723,dumm::A,aptal,dum
+724,faul::A,tembel,lat
+725,faul::A,tembel,doven
+726,fleißig::A,çalışkan,flittig
+727,geizig::A,cimri,gjerrig
+728,klug::A,zekî,klok
+729,klug::A,akıllı,klok
+730,geschickt::A,becerikli,hendig
+731,geschickt::A,becerikli,skikket
+732,lieb::A,sevimli,kjær
+733,lieb::A,sevimli,snill
+734,lustig::A,neşeli,morsom
+735,sanft::A,nazik,blid
+736,hungrig::A,aç,sulten
+737,krank::A,hasta,syk
+738,krank::A,rahatsız,syk
+739,nackt::A,çıplak,naken
+740,traurig::A,kederli,sørgmodig
+741,traurig::A,üzüntülü,sørgmodig
+742,lebendig::A,canlı,levende
+743,gut::A,iyi,god
+744,schlecht::A,kötü,dårlig
+745,richtig::A,doğru,riktig
+746,schlimm::A,kötü,slem
+747,wahr::A,doğru,sann
+748,wahr::A,gerçek,sann
+749,alt::A,eski,gammel
+750,neu::A,yeni,ny
+751,ehemalig::A,önceki,forhenværende
+752,alt[Lebewesen]::A,yaşlı,gammel
+753,jung::A,genç,ung
+754,arm::A,fakir,fattig
+755,reich::A,zengin,rik
+756,bekannt::A,bilinen,kjent
+757,berühmt::A,ünlü,berømt
+758,berühmt::A,meşhur,berømt
+759,fremd::A,yabancı,fremmed
+760,verschieden::A,ayrı,forskjellig
+761,verschieden::A,farklı,forskjellig
+762,nah::A,yakın,nær
+763,nah::A,bitişik,nær
+764,fern::A,uzak,fjern
+765,linker::A,sol,venstre
+766,rechter::A,sağ,høyre
+767,anderer::A,diğer,annen
+768,erster::A,ilk,første
+769,erster::A,birinci,første
+770,zweiter::A,ikinci,annen
+771,dritter::A,üçüncü,tredje
+772,letzter::A,son,sist
+773,letzter::A,sonuncu,sist
+774,allein::ADV,yalnız,alene
+775,allein::ADV,tek başına,alene
+776,auf einmal::ADV,birden,med ett
+777,zusammen::ADV,beraber,sammen
+778,zusammen::ADV,birlikte,sammen
+779,lange::ADV,çok,lenge
+780,lange::ADV,uzun,lenge
+781,plötzlich::ADV,ansızın,plutselig
+782,plötzlich::ADV,birdenbire,plutselig
+783,sofort::ADV,hemen,straks
+784,sofort::ADV,derhal,straks
+785,später::ADV,daha sonra,senere
+786,jetzt::ADV,şimdi,nå
+787,heute::ADV,bugün,i dag
+788,morgen::ADV,yarın,i morgen
+789,bald::ADV,yakında,snart
+790,dann::ADV,sonra,så
+791,gestern::ADV,dün,i går
+792,einst::ADV,eskiden,engang
+793,damals::ADV,o zamanlar,den gang
+794,danach::ADV,sonradan,deretter
+795,danach::ADV,ondan sonra,deretter
+796,vorher::ADV,önce,før
+797,vorher::ADV,önce,i forveien
+798,vorher::ADV,önceden,før
+799,vorher::ADV,önceden,i forveien
+800,zuerst::ADV,ilk önce,først
+801,einmal::ADV,bir defa,en gang
+802,manchmal::ADV,bazan,somme tider
+803,oft::ADV,sık sık,ofte
+804,oft::ADV,çok defa,ofte
+805,immer::ADV,daima,alltid
+806,immer::ADV,her zaman,alltid
+807,niemals::ADV,asla değil,aldri
+808,niemals::ADV,hiçbir zaman,aldri
+809,hier::ADV,burada,her
+810,hierhin::ADV,buraya,hit
+811,von hier::ADV,buradan,herfra
+812,dort::ADV,orada,der
+813,dort::ADV,şurada,der
+814,dorthin::ADV,oraya,dit
+815,dorthin::ADV,şuraya,dit
+816,geradeaus::ADV,doğru,rett fram
+817,vorwärts::ADV,ileri,fram
+818,vorwärts::ADV,ileri,framover
+819,rückwärts::ADV,geri,baklengs
+820,zurück::ADV,geriye,tilbake
+821,unten::ADV,aşağıda,nede
+822,hinab::ADV,aşağıya,ned
+823,hinab::ADV,aşağıya,nedover
+824,oben::ADV,yukarıda,oppe
+825,oben::ADV,yukarıda,ovenpå
+826,hinauf::ADV,yukarı,opp
+827,hinauf::ADV,yukarı,oppover
+828,hinauf::ADV,yukarıya,opp
+829,hinauf::ADV,yukarıya,oppover
+830,überall::ADV,her yerde,overalt
+831,nicht::ADV,-mi-,ikke
+832,nicht::ADV,değil,ikke
+833,ein wenig::ADV,biraz,litt
+834,kaum::ADV,dar,neppe
+835,kaum::ADV,hemen hemen değil,neppe
+836,sehr::ADV,pek,svært
+837,sehr::ADV,gayet,svært
+838,so::ADV,öyle,så
+839,so::ADV,böyle,så
+840,noch::ADV,hâlâ,enda
+841,noch::ADV,henüz,enda
+842,nur::ADV,ancak,bare
+843,nur::ADV,yalnız,bare
+844,schon::ADV,çoktan,alt
+845,schon::ADV,çoktan,allerede
+846,wieder::ADV,tekrar,igjen
+847,wieder::ADV,yeniden,igjen
+848,vergebens::ADV,boşuna,forgjeves
+849,vor::PRP,önünde,foran
+850,vor::PRP,önünde,utenfor
+851,hinter::PRP,arkasında,bak
+852,hinter::PRP,arkasında,bakom
+853,unter::PRP,altında,under
+854,durch::PRP,sayesinde,gjennom
+855,durch::PRP,sayesinde,igjennom
+856,durch::PRP,ortasından,gjennom
+857,durch::PRP,ortasından,igjennom
+858,neben::PRP,yanında,ved siden av
+859,zwischen::PRP,arasında,mellom
+860,wegen::PRP,dolayı,på grunn av
+861,dies::PRN,bu,dette
+862,das::PRN,o,det
+863,das::PRN,şu,det
+864,alles::PRN,hepsi,alt
+865,alles::PRN,her şey,alt
+866,ich::PRN,ben,jeg
+867,du::PRN,sen,du
+868,er::PRN,o,han
+869,wir::PRN,biz,vi
+870,ihr::PRN,siz,dere
+871,sie::PRN,onlar,de
+872,was::FPRN,ne,hva
+873,wer::FPRN,kim,hvem
+874,wo::FADV,nerede,hvor
+875,wohin::FADV,nereye,hvor ... hen
+876,wie::FADV,nasıl,hvordan
+877,warum::FADV,neden,hvorfor
+878,wieviel::FNUM,kaç,hvor mye
+879,wieviel::FNUM,ne kadar,hvor mye
+880,eins::NUM,bir,en
+881,eins::NUM,bir,ett
+882,zwei::NUM,iki,to
+883,drei::NUM,üç,tre
+884,vier::NUM,dört,fire
+885,fünf::NUM,beş,fem
+886,sechs::NUM,altı,seks
+887,sieben::NUM,yedi,sju
+888,acht::NUM,sekiz,åtte
+889,neun::NUM,dokuz,ni
+890,zehn::NUM,on,ti
+891,elf::NUM,on bir,elleve
+892,zwölf::NUM,on iki,tolv
+893,zwanzig::NUM,yirmi,tjue
+894,dreißig::NUM,otuz,tretti
+895,vierzig::NUM,kırk,førti
+896,fünfzig::NUM,elli,femti
+897,sechzig::NUM,altmış,seksti
+898,siebzig::NUM,yetmiş,sytti
+899,achtzig::NUM,seksen,åtti
+900,neunzig::NUM,doksan,nitti
+901,hundert::NUM,yüz,hundre
+902,tausend::NUM,bin,tusen
+903,und::CNJ,ve,og
+904,und::CNJ,ile,og
+905,oder::CNJ,ya,eller
+906,oder::CNJ,yahut,eller
+907,stehen::V,durmak,stå
+908,sitzen::V,oturmak,sitte
+909,liegen::V,yatmak,ligge
+910,hängen::V,asılı olmak,henge
+911,werden::V,olmak,bli
+912,werden::V,olunmak,bli
+913,passieren::V,olmak,skje
+914,passieren::V,olmak,hende
+915,beginnen::V,başlamak,begynne
+916,enden::V,bitmek,ende
+917,enden::V,bitmek,slutte
+918,enden::V,sona ermek,ende
+919,enden::V,sona ermek,slutte
+920,wechseln::V,değişmek,veksle
+921,aufgehen[Sonne]::V,doğmak,stå opp
+922,untergehen[Sonne]::V,batmak,gå ned
+923,scheinen[Sonne]::V,parlamak,skinne
+924,donnern::V,gök gürlemek,tordne
+925,wehen::V,esmek,blåse
+926,strömen::V,akmak,strømme
+927,fließen::V,akmak,flyte
+928,sich drehen::V,dönmek,dreie seg
+929,schwanken::V,sallanmak,svaie
+930,schwingen::V,titremek,svinge
+931,fallen::V,düşmek,falle
+932,brennen::V,yanmak,brenne
+933,rauchen::V,tütmek,ryke
+934,regnen::V,yağmak,regne
+935,gefrieren::V,donmak,fryse
+936,tauen::V,erimek,tine
+937,schmelzen::V,erimek,smelte
+938,trocknen::V,kurumak,tørre
+939,sieden::V,kaynamak,koke
+940,faulen::V,çürümek,råtne
+941,verfaulen::V,çürümek,råtne
+942,reißen::V,yırtılmak,briste
+943,versinken::V,batmak,synke
+944,versinken::V,batmak,synke ned
+945,vergehen::V,geçmek,forløpe
+946,erscheinen::V,görünmek,synes
+947,verschwinden::V,kaybolmak,forsvinne
+948,sinken::V,inmek,synke
+949,abnehmen::V,azalmak,avta
+950,abnehmen::V,azalmak,minske
+951,zunehmen::V,artmak,tilta
+952,zunehmen::V,çoğalmak,tilta
+953,steigen::V,artmak,stige
+954,steigen::V,yükselmek,stige
+955,wachsen::V,büyümek,gro
+956,wachsen::V,büyümek,vokse
+957,wachsen::V,gelişmek,gro
+958,wachsen::V,gelişmek,vokse
+959,glänzen::V,parlamak,skinne
+960,funkeln::V,parıldamak,tindre
+961,lärmen::V,gürültü yapmak,bråke
+962,läuten::V,çalmak,ringe
+963,klingeln::V,zil çalmak,ringe
+964,klirren::V,şakırdamak,klirre
+965,klirren::V,zangırdamak,klirre
+966,brausen::V,köpürmek,bruse
+967,brausen::V,kükremek,bruse
+968,rauschen::V,fışırdamak,suse
+969,klingen::V,tınlamak,lyde
+970,klingen::V,tınlamak,klinge
+971,bellen::V,havlamak,gjø
+972,bellen::V,havlamak,bjeffe
+973,heulen::V,ulumak,ule
+974,blasen::V,üflemek,blåse
+975,pfeifen::V,düdük çalmak,plystre
+976,schreien::V,bağırmak,skrike
+977,schreien::V,haykırmak,skrike
+978,stöhnen::V,inlemek,stønne
+979,zittern::V,titremek,dirre
+980,zittern::V,titremek,skjelve
+981,leben::V,yaşamak,leve
+982,leben::V,hayatta olmak,leve
+983,geboren werden::V,doğmak,fødes
+984,atmen::V,solunmak,ånde
+985,atmen::V,solunmak,puste
+986,atmen::V,nefes almak,ånde
+987,atmen::V,nefes almak,puste
+988,trinken::V,içmek,drikke
+989,essen::V,yemek,spise
+990,schlucken::V,yutmak,svelge
+991,müde werden::V,yorulmak,bli trett
+992,einschlafen::V,uykuya dalmak,sovne
+993,schlafen::V,uyumak,sove
+994,aufwachen::V,uyanmak,våkne
+995,aufstehen::V,kalkmak,stå opp
+996,aufstehen::V,yataktan kalkmak,stå opp
+997,sich erholen::V,dinlenmek,bli bra
+998,sich erholen::V,dinlenmek,komme seg
+999,krank werden::V,hastalanmak,bli syk
+1000,krank sein::V,hasta olmak,være syk
+1001,schmerzen::V,ağrımak,gjøre vondt
+1002,husten::V,öksürmek,hoste
+1003,genesen::V,şifa bulmak,komme seg
+1004,sterben::V,ölmek,dø
+1005,sterben::V,vefat etmek,dø
+1006,umkommen::V,ölmek,omkomme
+1007,sich bewegen::V,hareket etmek,bevege seg
+1008,sich rühren::V,kımıldanmak,røre på seg
+1009,sich erheben::V,kalkmak,reise seg
+1010,sich erheben::V,ayağa kalkmak,reise seg
+1011,sich setzen::V,oturmak,sette sig
+1012,hinfallen::V,yere düşmek,falle over ende
+1013,laufen::V,yürümek,løpe
+1014,schreiten::V,yürümek,skride
+1015,schreiten::V,adım atmak,skride
+1016,spazierengehen::V,gezmek,spasere
+1017,spazierengehen::V,gezmek,gå en tur
+1018,spazierengehen::V,dolaşmak,spasere
+1019,spazierengehen::V,dolaşmak,gå en tur
+1020,eilen::V,seğirtmek,ile
+1021,sich beeilen::V,acele etmek,skynde seg
+1022,sausen::V,hızla gitmek,suse
+1023,rennen::V,koşmak,løpe
+1024,springen::V,atlamak,hoppe
+1025,springen::V,atlamak,springe
+1026,springen::V,sıçramak,hoppe
+1027,springen::V,sıçramak,springe
+1028,klettern::V,tırmanmak,klatre
+1029,schaukeln::V,sallanmak,huske
+1030,kriechen::V,sürünmek,krype
+1031,schwimmen::V,yüzmek,svømme
+1032,tauchen::V,dalmak,dykke
+1033,rudern::V,kürek çekmek,ro
+1034,fahren::V,gitmek,kjøre
+1035,fliegen::V,uçmak,fly
+1036,gehen::V,gitmek,gå
+1037,weggehen::V,gitmek,gå bort
+1038,abfahren::V,kalkmak,reise
+1039,anhalten::V,durmak,stanse
+1040,hineingehen::V,içeri girmek,gå inn
+1041,eintreten::V,girmek,tre inn
+1042,kommen::V,gelmek,komme
+1043,ankommen::V,varmak,ankomme
+1044,ankommen::V,varmak,komme til
+1045,zurückkommen::V,dönmek,komme tilbake
+1046,bleiben::V,kalmak,bli
+1047,bleiben::V,kalmak,forbli
+1048,warten::V,beklemek,vente
+1049,erwarten::V,beklemek,vente
+1050,suchen::V,aramak,søke
+1051,finden::V,bulmak,finne
+1052,versuchen::V,denemek,prøve
+1053,versuchen::V,denemek,forsøke
+1054,vorbereiten::V,hazırlamak,forberede
+1055,lieben::V,sevmek,elske
+1056,mögen::V,beğenmek,like
+1057,lachen::V,gülmek,le
+1058,rühren::V,dokunmak,røre
+1059,rühren::V,duygulandırmak,røre
+1060,weinen::V,ağlamak,gråte
+1061,schimpfen::V,küfretmek,skjelle
+1062,sich ärgern::V,kızmak,ergre seg
+1063,sich fürchten::V,korkmak,være redd
+1064,fürchten::V,korkmak,være redd for
+1065,fliehen::V,kaçmak,rømme
+1066,fliehen::V,kaçmak,flykte
+1067,flüchten::V,kaçmak,flykte
+1068,sehen::V,görmek,se
+1069,anschauen::V,seyretmek,se på
+1070,anschauen::V,seyretmek,betrakte
+1071,ansehen::V,bakmak,anse
+1072,hören::V,duymak,høre
+1073,hören::V,işitmek,høre
+1074,zuhören::V,dinlemek,tilhøre
+1075,probieren::V,denemek,smake
+1076,probieren::V,denemek,smake på
+1077,probieren::V,tadına bakmak,smake
+1078,probieren::V,tadına bakmak,smake på
+1079,riechen::V,kokusunu almak,lukte
+1080,fühlen::V,duymak,føle
+1081,fühlen::V,hissetmek,føle
+1082,scheinen::V,görünmek,se ut
+1083,zu sehen sein::V,görünmek,synes
+1084,vernehmen::V,haber almak,få vite
+1085,frieren::V,üşümek,fryse
+1086,tun::V,etmek,gjøre
+1087,tun::V,yapmak,gjøre
+1088,können::V,bilmek,kunne
+1089,wollen::V,istemek,ville
+1090,anfangen::V,başlamak,begynne
+1091,beenden::V,bitirmek,avslutte
+1092,aufhören::V,bitmek,slutte
+1093,aufhören::V,bitmek,holde opp
+1094,gelingen::V,başarmak,lykkes
+1095,geraten::V,düşmek,bli
+1096,öffnen::V,açmak,åpne
+1097,schließen::V,kapamak,lukke
+1098,schließen::V,kapamak,stenge
+1099,stellen::V,koymak,stille
+1100,setzen::V,koymak,sette
+1101,setzen::V,oturtmak,sette
+1102,legen::V,koymak,legge
+1103,legen::V,yatırmak,legge
+1104,berühren::V,dokunmak,berøre
+1105,verbinden::V,bağlamak,forbinde
+1106,verbinden::V,birleştirmek,forbinde
+1107,bedecken::V,örtmek,dekke
+1108,bedecken::V,kaplamak,dekke
+1109,aufhängen::V,asmak,henge
+1110,aufhängen::V,asmak,henge opp
+1111,anzünden::V,yakmak,tenne
+1112,anzünden::V,yakmak,antenne
+1113,anzünden::V,yakmak,tenne på
+1114,anzünden::V,ateşlemek,tenne
+1115,anzünden::V,ateşlemek,antenne
+1116,anzünden::V,ateşlemek,tenne på
+1117,aufheben::V,kaldırmak,løfte
+1118,aufheben::V,kaldırmak,ta opp
+1119,zurücklassen::V,geride bırakmak,slippe tilbake
+1120,verlieren::V,yitirmek,miste
+1121,verlieren::V,kaybetmek,miste
+1122,fallen lassen::V,düşürmek,droppe
+1123,fallen lassen::V,düşürmek,la falle
+1124,machen::V,yapmak,lage
+1125,machen::V,yapmak,gjøre
+1126,herstellen::V,yapmak,fremstille
+1127,herstellen::V,imal etmek,fremstille
+1128,bauen::V,kurmak,bygge
+1129,bauen::V,inşa etmek,bygge
+1130,reparieren::V,onarmak,reparere
+1131,reparieren::V,tamir etmek,reparere
+1132,verbessern::V,düzeltmek,rette
+1133,verbessern::V,düzeltmek,forbedre
+1134,ändern::V,değiştirmek,forandre
+1135,graben::V,kazmak,grave
+1136,beugen::V,eğmek,bøye
+1137,biegen::V,bükmek,bøye
+1138,drehen::V,çevirmek,dreie
+1139,drehen::V,döndürmek,dreie
+1140,wenden::V,çevirmek,vende
+1141,umdrehen::V,çevirmek,snu
+1142,heben::V,kaldırmak,heve
+1143,hochheben::V,yukarı kaldırmak,løfte
+1144,ergreifen::V,tutmak,gripe
+1145,ergreifen::V,tutmak,få tak i
+1146,ergreifen::V,yakalamak,gripe
+1147,ergreifen::V,yakalamak,få tak i
+1148,halten::V,tutmak,holde
+1149,drücken::V,sıkmak,trykke
+1150,schieben::V,itmek,skyve
+1151,schieben::V,sürmek,skyve
+1152,kratzen::V,kaşımak,klø
+1153,kratzen::V,kaşımak,klore
+1154,lecken::V,yalamak,slikke
+1155,beißen::V,ısırmak,bite
+1156,abreißen::V,koparmak,rive av
+1157,abschneiden::V,keserek ayırmak,skjære av
+1158,binden::V,bağlamak,binde
+1159,stecken::V,sokmak,stikke
+1160,brechen::V,kırmak,bryte
+1161,brechen::V,kırmak,briste
+1162,klopfen::V,çalmak,banke
+1163,hauen::V,vurmak,hogge
+1164,kleben::V,yapıştırmak,klistre
+1165,reiben::V,ovmak,gni
+1166,reiben::V,sürtmek,gni
+1167,streichen::V,sürmek,stryke
+1168,schleifen::V,bilemek,slipe
+1169,schneiden::V,kesmek,klippe
+1170,rütteln::V,sallamak,ruske
+1171,schütteln::V,sarsmak,riste
+1172,schütteln::V,çalkamak,riste
+1173,schwenken::V,sallamak,svinge
+1174,schütten::V,dökmek,helle
+1175,schütten::V,akıtmak,helle
+1176,füllen::V,doldurmak,fylle
+1177,einwickeln::V,sarmak,vikle inn
+1178,tragen::V,taşımak,bære
+1179,schleppen::V,sürüklemek,slepe
+1180,ziehen::V,çekmek,dra
+1181,ziehen::V,çekmek,trekke
+1182,aufbewahren::V,saklamak,oppbevare
+1183,aufbewahren::V,saklamak,ta vare på
+1184,werfen::V,atmak,kaste
+1185,fangen::V,tutmak,fange
+1186,fangen::V,yakalamak,fange
+1187,packen::V,tutmak,gripe
+1188,packen::V,tutmak,gripe tak i
+1189,packen::V,yakalamak,gripe
+1190,packen::V,yakalamak,gripe tak i
+1191,verstecken::V,saklamak,gjemme
+1192,teilen::V,bölmek,dele
+1193,teilen::V,ayırmak,dele
+1194,schicken::V,yollamak,sende
+1195,schicken::V,göndermek,sende
+1196,bringen::V,getirmek,bringe
+1197,hinzufügen::V,katmak,tilføye
+1198,hinzufügen::V,eklemek,tilføye
+1199,bekommen::V,almak,få
+1200,bekommen::V,eline geçmek,få
+1201,erhalten::V,almak,få
+1202,nehmen::V,almak,ta
+1203,wählen::V,seçmek,velge
+1204,auswählen::V,seçmek,velge ut
+1205,auswählen::V,ayırmak,velge ut
+1206,bewahren::V,korumak,bevare
+1207,behindern::V,engellemek,hindre
+1208,behindern::V,engellemek,forhindre
+1209,verderben::V,bozmak,ødelegge
+1210,beschädigen::V,zedelemek,skade
+1211,beschädigen::V,ziyan vermek,skade
+1212,zerbrechen::V,kırmak,brekke i stykker
+1213,zerreißen::V,yırtmak,rive i stykker
+1214,zerstören::V,yıkmak,ødelegge
+1215,zerstören::V,tahrip etmek,ødelegge
+1216,verbrennen::V,yakmak,brenne
+1217,verbrennen::V,yakmak,brenne opp
+1218,geben::V,vermek,gi
+1219,reichen::V,uzatmak,rekke
+1220,schenken::V,hediye etmek,forære
+1221,schenken::V,hediye etmek,skjenke
+1222,versprechen::V,vaat etmek,love
+1223,wünschen::V,kutlamak,ønske
+1224,loben::V,övmek,rose
+1225,küssen::V,öpmek,kysse
+1226,wiegen::V,sallamak,vogge
+1227,zudecken::V,örtmek,dekke til
+1228,wecken::V,uyandırmak,vekke
+1229,zeigen::V,göstermek,vise
+1230,führen::V,gezdirmek,føre
+1231,führen::V,yol göstermek,føre
+1232,lehren::V,okutmak,lære
+1233,lehren::V,öğretmek,lære
+1234,unterrichten::V,öğretmek,undervise
+1235,aufziehen::V,yetiştirmek,oppdra
+1236,leiten::V,yönetmek,lede
+1237,leiten::V,idare etmek,lede
+1238,antreiben::V,teşvik etmek,drive på
+1239,lassen::V,-tırmak,få til å
+1240,einladen::V,davet etmek,be
+1241,einladen::V,davet etmek,invitere
+1242,vereinigen::V,birleştirmek,forene
+1243,besuchen::V,uğramak,besøke
+1244,besuchen::V,ziyaret etmek,besøke
+1245,besuchen::V,görmeye gitmek,besøke
+1246,treffen::V,rastlamak,møte
+1247,treffen::V,rastlamak,treffe
+1248,treffen::V,isabet etmek,møte
+1249,treffen::V,isabet etmek,treffe
+1250,sich versammeln::V,toplanmak,forsamles
+1251,spielen::V,oynamak,leke
+1252,spielen::V,oynamak,spille
+1253,singen::V,söylemek,synge
+1254,singen::V,şarkı söylemek,synge
+1255,tanzen::V,oynamak,danse
+1256,tanzen::V,dans etmek,danse
+1257,sich trennen::V,ayrılmak,skilles
+1258,verlassen::V,bırakmak,forlate
+1259,verlassen::V,terk etmek,forlate
+1260,retten::V,kurtarmak,redde
+1261,bewachen::V,gözetmek,bevokte
+1262,schützen::V,korumak,verne
+1263,schützen::V,korumak,beskytte
+1264,verteidigen::V,savunmak,forsvare
+1265,sich schlagen::V,dövüşmek,slåss
+1266,schießen::V,ateş etmek,skyte
+1267,siegen::V,yenmek,seire
+1268,ärgern::V,kızdırmak,ergre
+1269,schlagen::V,dövmek,
+1270,treten::V,tepmek,sparke
+1271,stechen::V,sokmak,stikke
+1272,stechen::V,batırmak,stikke
+1273,stoßen::V,itmek,støte
+1274,stehlen::V,çalmak,stjele
+1275,stören::V,bozmak,forstyrre
+1276,stören::V,etkilemek,forstyrre
+1277,belästigen::V,rahatsız etmek,plage
+1278,belästigen::V,rahatsız etmek,sjenere
+1279,verbergen::V,saklamak,gjemme
+1280,täuschen::V,aldatmak,villede
+1281,betrügen::V,aldatmak,bedra
+1282,betrügen::V,dolandırmak,bedra
+1283,töten::V,öldürmek,drepe
+1284,wohnen::V,oturmak,bo
+1285,arbeiten::V,çalışmak,arbeide
+1286,sammeln::V,toplamak,samle
+1287,pflücken::V,koparmak,plukke
+1288,jagen::V,avlanmak,jage
+1289,fischen::V,balık tutmak,fiske
+1290,fassen::V,tutmak,fange
+1291,fassen::V,yakalamak,fange
+1292,hüten::V,otlatmak,vokte
+1293,treiben::V,gütmek,drive
+1294,anbinden::V,bağlamak,feste
+1295,füttern::V,beslemek,fore
+1296,melken::V,sağmak,melke
+1297,hacken::V,yarmak,hakke
+1298,gießen::V,sulamak,helle
+1299,reifen::V,olgunlaşmak,modne
+1300,zubereiten::V,hazırlamak,lage
+1301,zubereiten::V,hazırlamak,tilberede
+1302,kochen::V,pişirmek,koke
+1303,kochen::V,kaynatmak,koke
+1304,backen::V,pişirmek,bake
+1305,backen::V,fırında pişirmek,bake
+1306,braten::V,kızartmak,steke
+1307,umrühren::V,karıştırmak,røre om
+1308,stricken::V,örmek,strikke
+1309,nähen::V,dikmek,sy
+1310,färben::V,boyamak,farge
+1311,reinigen::V,temizlemek,rense
+1312,reinigen::V,temizlemek,gjøre ren
+1313,waschen::V,yıkamak,vaske
+1314,abwischen::V,silmek,tørke av
+1315,spülen::V,çalkamak,spyle
+1316,spülen::V,çalkamak,skylle
+1317,fegen::V,süpürmek,feie
+1318,kehren::V,süpürmek,koste
+1319,baden::V,yıkanmak,bade
+1320,baden::V,banyo yapmak,bade
+1321,sich waschen::V,yıkanmak,vaske seg
+1322,ausziehen::V,çıkarmak,ta av
+1323,anziehen::V,giymek,ta på
+1324,sich anziehen::V,giyinmek,kle på seg
+1325,kämmen::V,taramak,gre
+1326,kämmen::V,taramak,kjemme
+1327,schmücken::V,süslemek,pynte
+1328,schmücken::V,süslemek,smykke
+1329,sagen::V,demek,si
+1330,sagen::V,söylemek,si
+1331,sprechen::V,konuşmak,snakke
+1332,reden::V,konuşmak,tale
+1333,reden::V,konuşmak,snakke
+1334,sich unterhalten::V,sohbet etmek,samtale
+1335,fragen::V,sormak,spørre
+1336,bitten::V,dilemek,be
+1337,bitten::V,rica etmek,be
+1338,erzählen::V,bahsetmek,fortelle
+1339,erzählen::V,hikâye etmek,fortelle
+1340,mitteilen::V,bildirmek,meddele
+1341,nennen::V,adlandırmak,kalle
+1342,rufen::V,çağırmak,rope
+1343,prahlen::V,övünmek,skryte
+1344,übersetzen::V,çevirmek,oversette
+1345,übersetzen::V,tercüme etmek,oversette
+1346,denken::V,düşünmek,tenke
+1347,glauben::V,inanmak,tro
+1348,glauben::V,zannetmek,tro
+1349,bemerken::V,farkına varmak,bemerke
+1350,bemerken::V,farkına varmak,legge merke til
+1351,erkennen::V,tanımak,gjenkjenne
+1352,begreifen::V,anlamak,begripe
+1353,begreifen::V,kavramak,begripe
+1354,verstehen::V,duymak,forstå
+1355,verstehen::V,duymak,skjønne
+1356,verstehen::V,anlamak,forstå
+1357,verstehen::V,anlamak,skjønne
+1358,lernen::V,öğrenmek,lære
+1359,wissen::V,bilmek,vite
+1360,sich erinnern an::V,hatırlamak,huske på
+1361,vergessen::V,unutmak,glemme
+1362,messen::V,ölçmek,måle
+1363,zählen::V,saymak,telle
+1364,rechnen::V,hesap etmek,regne
+1365,lesen::V,okumak,lese
+1366,malen::V,resmini yapmak,male
+1367,zeichnen::V,çizmek,tegne
+1368,schreiben::V,yazmak,skrive
+1369,besitzen::V,haiz olmak,eie
+1370,besitzen::V,haiz olmak,inneha
+1371,besitzen::V,sahip olmak,eie
+1372,besitzen::V,sahip olmak,inneha
+1373,kaufen::V,almak,kjøpe
+1374,verkaufen::V,satmak,selge
+1375,bezahlen::V,ödemek,betale
+1376,zahlen::V,ödemek,betale
+1377,beherrschen::V,hâkim olmak,beherske
+1378,ertragen::V,dayanmak,orke
+1379,ertragen::V,katlanmak,orke

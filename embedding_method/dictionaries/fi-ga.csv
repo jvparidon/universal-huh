@@ -1,0 +1,1508 @@
+,Concept_ID,fi,ga
+0,Auge::N,silmä,súil
+1,Ohr::N,korva,cluas
+2,Nase::N,nenä,soc
+3,Mund::N,suu,béal
+4,Zahn::N,hammas,fiacail
+5,Zunge::N,kieli,teanga
+6,Lippe::N,huuli,liopa
+7,Wange::N,poski,grua
+8,Wange::N,poski,leiceann
+9,Gesicht::N,naama,éadan
+10,Gesicht::N,naama,aghaidh
+11,Gesicht::N,kasvot,éadan
+12,Gesicht::N,kasvot,aghaidh
+13,Stirn::N,otsa,baithis
+14,Stirn::N,otsa,clár éadain
+15,Haar::N,hius,gruaig
+16,Haar::N,tukka,gruaig
+17,Schnurrbart::N,viikset,croiméal
+18,Bart::N,parta,féasóg
+19,Kinn::N,leuka,smig
+20,Kiefer[Anatomie]::N,leukaluu,giall
+21,Kehle::N,kurkku,scornach
+22,Hals::N,kaula,muinéal
+23,Genick::N,niska,baic
+24,Kopf::N,pää,ceann
+25,Rücken::N,selkä,droim
+26,Bauch::N,maha,bolg
+27,Bauch::N,vatsa,bolg
+28,Nabel::N,napa,imleacán
+29,Busen::N,rinta,cíoch
+30,Brust::N,rinta,brollach
+31,Schulter::N,olka,gualainn
+32,Schulter::N,hartia,gualainn
+33,Schulter::N,olkapää,gualainn
+34,Arm::N,käsivarsi,lámh
+35,Ellenbogen::N,kyynärpää,uillinn
+36,Hand::N,käsi,lámh
+37,Handfläche::N,kämmen,bos
+38,Finger::N,sormi,méar
+39,Fingernagel::N,kynsi,ionga
+40,Nagel[Anatomie]::N,kynsi,ionga
+41,Zeh::N,varvas,ladhar
+42,Fuß::N,jalka,cos
+43,Fuß::N,jalka,troigh
+44,Ferse::N,kantapää,sáil
+45,Knie::N,polvi,glúin
+46,Oberschenkel::N,reisi,ceathrú
+47,Bein::N,jalka,cos
+48,Körper::N,keho,corp
+49,Körper::N,keho,colainn
+50,Körper::N,ruumis,corp
+51,Körper::N,ruumis,colainn
+52,Haut::N,iho,cneas
+53,Haut::N,iho,craiceann
+54,Blut::N,veri,fuil
+55,Ader::N,suoni,
+56,Sehne::N,jänne,teannán
+57,Sehne::N,jänne,féitheog
+58,Knochen::N,luu,cnámh
+59,Gehirn::N,aivot,inchinn
+60,Herz::N,sydän,croí
+61,Magen::N,maha,bolg
+62,Magen::N,maha,goile
+63,Magen::N,vatsa,bolg
+64,Magen::N,vatsa,goile
+65,Leber::N,maksa,ae
+66,Atem::N,henki,anáil
+67,Atem::N,hengitys,anáil
+68,Hunger::N,nälkä,ocras
+69,Träne::N,kyynel,deoir
+70,Geschmack::N,maku,blas
+71,Geruch::N,haju,boladh
+72,Schlaf::N,uni,suan
+73,Schlaf::N,uni,codladh
+74,Traum::N,uni,taibhreamh
+75,Himmel::N,taivas,spéir
+76,Sonne::N,aurinko,grian
+77,Mond::N,kuu,ré
+78,Mond::N,kuu,gealach
+79,Stern::N,tähti,rinn
+80,Stern::N,tähti,réalta
+81,Luft::N,ilma,aer
+82,Wind::N,tuuli,gaoth
+83,Welle::N,aalto,tonn
+84,Wasser::N,vesi,uisce
+85,Stein::N,kivi,cloch
+86,Boden::N,maa,talamh
+87,Boden::N,maaperä,talamh
+88,Erde::N,maa,cré
+89,Erde::N,maa,ithir
+90,Staub::N,pöly,dusta
+91,Staub::N,pöly,deannach
+92,Rauch::N,savu,toit
+93,Rauch::N,savu,deatach
+94,Funke::N,kipinä,drithle
+95,Feuer::N,tuli,tine
+96,Licht::N,valo,solas
+97,Schatten::N,varjo,scáth
+98,Wetter::N,sää,aimsir
+99,Nebel::N,sumu,ceo
+100,Wolke::N,pilvi,néal
+101,Wolke::N,pilvi,scamall
+102,Regen::N,sade,báisteach
+103,Regen::N,sade,fearthainn
+104,Schnee::N,lumi,sneachta
+105,Eis::N,jää,oighear
+106,Frost::N,halla,sioc
+107,Frost::N,pakkanen,sioc
+108,Kälte::N,vilu,fuacht
+109,Kälte::N,kylmyys,fuacht
+110,Hitze::N,helle,teas
+111,Hitze::N,helle,teocht
+112,Hitze::N,kuumuus,teas
+113,Hitze::N,kuumuus,teocht
+114,Raureif::N,huurre,sioc bán
+115,Regenbogen::N,sateenkaari,stua ceatha
+116,Regenbogen::N,sateenkaari,bogha báistí
+117,Donner::N,jyrinä,toirneach
+118,Strömung::N,virtaus,sruth
+119,Tropfen::N,tippa,deoir
+120,Tropfen::N,pisara,deoir
+121,Schaum::N,vaahto,cúr
+122,Schmutz::N,loka,salachar
+123,See::N,järvi,loch
+124,Sumpf::N,suo,portach
+125,Moor::N,räme,caorán
+126,Moor::N,räme,móinteán
+127,Wiese::N,niitty,cluain
+128,Wiese::N,niitty,móinéar
+129,Wald::N,metsä,coill
+130,Wald::N,metsä,foraois
+131,Hügel::N,mäki,ard
+132,Hügel::N,kumpu,ard
+133,Hügel::N,kukkula,ard
+134,Anhöhe::N,mäki,ard
+135,Anhöhe::N,mäki,ardán
+136,Anhöhe::N,kumpare,ard
+137,Anhöhe::N,kumpare,ardán
+138,Berg::N,mäki,sliabh
+139,Berg::N,vuori,sliabh
+140,Gipfel::N,laki,barr
+141,Gipfel::N,laki,mullach
+142,Gipfel::N,huippu,barr
+143,Gipfel::N,huippu,mullach
+144,Höhle::N,luola,uaimh
+145,Höhle::N,luola,pluais
+146,Abhang::N,rinne,fána
+147,Quelle::N,lähde,foinse
+148,Bach::N,puro,sruthán
+149,Fluss::N,joki,abhainn
+150,Ufer::N,ranta,bruach
+151,Küste::N,rannikko,cósta
+152,Küste::N,rannikko,cladach
+153,Festland::N,manner,míntír
+154,Meer::N,meri,muir
+155,Meer::N,meri,farraige
+156,Bucht::N,lahti,bá
+157,Bucht::N,lahti,cuan
+158,Insel::N,saari,inis
+159,Insel::N,saari,oileán
+160,Blume::N,kukka,bláth
+161,Gras::N,ruoho,féar
+162,Wurzel::N,juuri,rúta
+163,Wurzel::N,juuri,fréamh
+164,Baum::N,puu,crann
+165,Stamm::N,runko,stoc
+166,Stamm::N,runko,tamhan
+167,Rinde::N,kuori,coirt
+168,Rinde::N,kuori,craiceann
+169,Rinde::N,parkki,coirt
+170,Rinde::N,parkki,craiceann
+171,Ast::N,oksa,géag
+172,Zweig::N,haara,géag
+173,Zweig::N,haara,craobh
+174,Blatt::N,lehti,duille
+175,Blatt::N,lehti,duilleog
+176,Birke::N,koivu,beith
+177,Birke::N,koivu,crann beithe
+178,Kiefer[Baum]::N,mänty,péine
+179,Kiefer[Baum]::N,petäjä,péine
+180,Weide[Baum]::N,paju,saileach
+181,Tanne::N,kuusi,giúis
+182,Horn::N,sarvi,adharc
+183,Feder::N,sulka,cleite
+184,Feder::N,höyhen,cleite
+185,Fell::N,talja,clúmh
+186,Flügel::N,siipi,eite
+187,Flügel::N,siipi,sciathán
+188,Klaue::N,kynsi,crúb
+189,Klaue::N,kynsi,crobh
+190,Kralle::N,kynsi,crobh
+191,Schwanz::N,häntä,eireaball
+192,Schwanz::N,pyrstö,eireaball
+193,Ei::N,muna,ubh
+194,Nest::N,pesä,nead
+195,Bau::N,pesä,brocais
+196,Tier::N,eläin,ainmhí
+197,Tier::N,eläin,beithíoch
+198,Herde::N,lauma,tréad
+199,Kuh::N,lehmä,bó
+200,Bulle::N,sonni,tarbh
+201,Pferd::N,hevonen,each
+202,Pferd::N,hevonen,capall
+203,Schaf::N,lammas,caora
+204,Schwein::N,sika,muc
+205,Hund::N,koira,madra
+206,Katze::N,kissa,cat
+207,Bär::N,karhu,béar
+208,Eichhörnchen::N,orava,iora
+209,Elch::N,hirvi,eilc
+210,Fuchs::N,kettu,sionnach
+211,Fuchs::N,kettu,madra rua
+212,Hase::N,jänis,giorria
+213,Maus::N,hiiri,luch
+214,Wolf::N,susi,mac tíre
+215,Vogel::N,lintu,éan
+216,Schwarm::N,parvi,saithe
+217,Huhn::N,kana,cearc
+218,Hahn::N,kukko,coileach
+219,Gans::N,hanhi,gé
+220,Adler::N,kotka,iolar
+221,Ente::N,ankka,lacha
+222,Eule::N,pöllö,ulchabhán
+223,Kranich::N,kurki,grús
+224,Krähe::N,varis,caróg
+225,Krähe::N,varis,préachán
+226,Kuckuck::N,käki,cuach
+227,Schwan::N,joutsen,eala
+228,Fisch::N,kala,iasc
+229,Barsch::N,ahven,péirse
+230,Hecht::N,hauki,liús
+231,Schlange[Tier]::N,käärme,nathair
+232,Wurm::N,mato,péist
+233,Spinne::N,hämähäkki,damhán alla
+234,Ameise::N,muurahainen,seangán
+235,Laus::N,täi,míol
+236,Mücke::N,sääski,muiscít
+237,Mücke::N,sääski,corrmhíol
+238,Mücke::N,hyttynen,muiscít
+239,Mücke::N,hyttynen,corrmhíol
+240,Fliege::N,kärpänen,cuil
+241,Fliege::N,kärpänen,cuileog
+242,Schmetterling::N,perhonen,féileacán
+243,Beere::N,marja,caor
+244,Apfel::N,omena,úll
+245,Pilz::N,sieni,beacán
+246,Pilz::N,sieni,muisiriún
+247,Zwiebel::N,sipuli,oinniún
+248,Saat::N,siemenet,síol
+249,Korn::N,jyvä,gráinne
+250,Korn::N,vilja,gráinne
+251,Heu::N,heinä,féar
+252,Schale::N,kuori,scaimh
+253,Grube::N,kuoppa,poll
+254,Falle::N,loukku,gaiste
+255,Schlinge::N,ansa,sealán
+256,Spur::N,jälki,rian
+257,Asche::N,tuhka,luaith
+258,Dreck::N,lika,salachar
+259,Eisen::N,rauta,iarann
+260,Gold::N,kulta,ór
+261,Silber::N,hopea,airgead
+262,Kohle::N,hiili,gual
+263,Glas::N,lasi,gloine
+264,Lehm::N,savi,cré
+265,Sand::N,hiekka,gaineamh
+266,Mensch::N,ihminen,duine
+267,Mann::N,mies,fear
+268,Frau::N,nainen,bean
+269,Kind::N,lapsi,gasúr
+270,Kind::N,lapsi,páiste
+271,Junge::N,poika,buachaill
+272,Mädchen::N,tyttö,cailín
+273,Familie::N,perhe,teaghlach
+274,Familie::N,perhe,comhluadar
+275,Großvater::N,isoisä,seanathair
+276,Großmutter::N,isoäiti,seanmháthair
+277,Eltern::N,vanhemmat,tuismitheoirí
+278,Vater::N,isä,athair
+279,Mutter::N,äiti,máthair
+280,Sohn::N,poika,mac
+281,Tochter::N,tytär,iníon
+282,Bruder::N,veli,deartháir
+283,Schwester::N,sisko,deirfiúr
+284,Onkel::N,eno,uncail
+285,Onkel::N,setä,uncail
+286,Tante::N,täti,aintín
+287,Ehemann::N,mies,fear céile
+288,Ehemann::N,aviomies,fear céile
+289,Ehefrau::N,vaimo,bean chéile
+290,Ehefrau::N,aviovaimo,bean chéile
+291,Freude::N,ilo,áthas
+292,Freude::N,riemu,áthas
+293,Gelächter::N,nauru,gáire
+294,Glück::N,onni,séan
+295,Glück::N,onni,sonas
+296,Kummer::N,suru,brón
+297,Kummer::N,suru,buairt
+298,Kummer::N,murhe,brón
+299,Kummer::N,murhe,buairt
+300,Wunsch::N,toive,guí
+301,Wunsch::N,toive,achainí
+302,Wunsch::N,toivomus,guí
+303,Wunsch::N,toivomus,achainí
+304,Lust::N,himo,fonn
+305,Geist::N,henki,meon
+306,Geist::N,henki,spiorad
+307,Gedanke::N,aate,smaoineamh
+308,Gedanke::N,ajatus,smaoineamh
+309,Gedächtnis::N,muisti,cuimhne
+310,Verstand::N,äly,ciall
+311,Verstand::N,äly,intinn
+312,Verstand::N,järki,ciall
+313,Verstand::N,järki,intinn
+314,Verstand::N,ymmärrys,ciall
+315,Verstand::N,ymmärrys,intinn
+316,Sinn::N,merkitys,brí
+317,Sinn::N,merkitys,ciall
+318,Grund::N,syy,fáth
+319,Grund::N,peruste,fáth
+320,Wahrheit::N,tosi,fírinne
+321,Wahrheit::N,totuus,fírinne
+322,Gespräch::N,puhelu,comhrá
+323,Gespräch::N,keskustelu,comhrá
+324,Märchen::N,satu,scéal
+325,Erzählung::N,tarina,scéal
+326,Erzählung::N,kertomus,scéal
+327,Nachricht::N,tieto,teachtaireacht
+328,Nachricht::N,ilmoitus,teachtaireacht
+329,Neuigkeit::N,uutinen,scéala
+330,Name::N,nimi,ainm
+331,Rätsel::N,arvoitus,tomhas
+332,Rede::N,puhe,óráid
+333,Rede::N,puhe,aitheasc
+334,Sprache::N,kieli,teanga
+335,Stimme::N,ääni,guth
+336,Wort::N,sana,focal
+337,Zeichen::N,merkki,comhartha
+338,Ruf::N,kutsu,glaoch
+339,Lärm::N,melu,torann
+340,Lärm::N,hälinä,torann
+341,Laut::N,ääni,fuaim
+342,Ton::N,sävel,ton
+343,Lied::N,laulu,amhrán
+344,Ruhe::N,lepo,suaimhneas
+345,Ruhe::N,rauha,suaimhneas
+346,Leute::N,väki,muintir
+347,Leute::N,ihmiset,muintir
+348,Volk::N,kansa,pobal
+349,Arbeit::N,työ,obair
+350,Gast::N,vieras,aoi
+351,Geschenk::N,lahja,féirín
+352,Geschenk::N,lahja,bronntanas
+353,Spiel::N,peli,cluiche
+354,Spiel::N,leikki,cluiche
+355,Gesellschaft::N,seura,comhluadar
+356,Hilfe::N,apu,cúnamh
+357,Hilfe::N,apu,cabhair
+358,Freund::N,ystävä,cara
+359,Kamerad::N,toveri,comrádaí
+360,Angelegenheit::N,asia,ábhar
+361,Anzahl::N,lukumäärä,líon
+362,Art::N,laji,sórt
+363,Art::N,laji,saghas
+364,Stück::N,pala,píosa
+365,Stück::N,kappale,píosa
+366,Teil::N,osa,cuid
+367,Teil::N,osa,páirt
+368,Hälfte::N,puoli,leath
+369,Kreis::N,ympyrä,ciorcal
+370,Kreuz::N,risti,cros
+371,Linie::N,viiva,líne
+372,Strich::N,piirto,stríoc
+373,Abstand::N,väli,achar
+374,Abstand::N,väljyys,achar
+375,Entfernung::N,etäisyys,fad
+376,Gegend::N,seutu,ceantar
+377,Platz::N,tila,áit
+378,Platz::N,tila,spás
+379,Ort::N,kohta,áit
+380,Ort::N,paikka,áit
+381,Seite::N,sivu,taobh
+382,Seite::N,kylki,taobh
+383,Mitte::N,keskus,lár
+384,Mitte::N,puoliväli,lár
+385,Gegenstand::N,kalu,ball
+386,Gegenstand::N,kalu,ábhar
+387,Gegenstand::N,esine,ball
+388,Gegenstand::N,esine,ábhar
+389,Sache::N,asia,ní
+390,Sache::N,asia,rud
+391,Rand::N,ääri,imeall
+392,Rand::N,ääri,ciumhais
+393,Rand::N,syrjä,imeall
+394,Rand::N,syrjä,ciumhais
+395,Kante::N,särmä,corr
+396,Kante::N,särmä,colbha
+397,Ecke::N,nurkka,coirnéal
+398,Spitze::N,terä,gob
+399,Spitze::N,terä,barr
+400,Spitze::N,kärki,gob
+401,Spitze::N,kärki,barr
+402,Ende::N,pää,ceann
+403,Ende::N,pää,foirceann
+404,Ende::N,perä,ceann
+405,Ende::N,perä,foirceann
+406,Loch::N,kolo,poll
+407,Loch::N,reikä,poll
+408,Winkel::N,kulma,cúinne
+409,Winkel::N,kulma,uillinn
+410,Muster::N,kuvio,patrún
+411,Größe::N,koko,méid
+412,Größe::N,koko,toise
+413,Größe::N,suuruus,méid
+414,Größe::N,suuruus,toise
+415,Länge::N,pituus,fad
+416,Höhe::N,korkeus,airde
+417,Gewicht::N,paino,meáchan
+418,Menge::N,määrä,méid
+419,Haufen::N,kasa,cnap
+420,Reihe::N,rivi,líne
+421,Reihe::N,rivi,sraith
+422,Boot::N,vene,bád
+423,Ruder::N,airo,rámh
+424,Ruder::N,airo,maide rámha
+425,Schlitten::N,reki,carr sleamhnáin
+426,Schlitten::N,kelkka,carr sleamhnáin
+427,Ski::N,suksi,scí
+428,Lagerfeuer::N,nuotio,tine champa
+429,Last::N,kuorma,ualach
+430,Gang::N,kulku,siúlóid
+431,Gang::N,käynti,siúlóid
+432,Schritt::N,askel,céim
+433,Schritt::N,askel,coiscéim
+434,Norden::N,pohjoinen,tuaisceart
+435,Süden::N,etelä,deisceart
+436,Westen::N,länsi,iarthar
+437,Osten::N,itä,oirthear
+438,Holz::N,puu,adhmad
+439,Brett::N,lauta,clár
+440,Platte::N,levy,leac
+441,Stütze::N,noja,taca
+442,Stange::N,tanko,polla
+443,Stange::N,tanko,cuaille
+444,Stock::N,keppi,bata
+445,Stock::N,keppi,maide
+446,Stab::N,sauva,maide
+447,Stab::N,sauva,bachall
+448,Stab::N,seiväs,maide
+449,Stab::N,seiväs,bachall
+450,Rohr::N,putki,píopa
+451,Haus::N,talo,teach
+452,Heim::N,koti,baile
+453,Ofen::N,uuni,sornóg
+454,Fußboden::N,lattia,urlár
+455,Tisch::N,pöytä,bord
+456,Tisch::N,pöytä,tábla
+457,Stuhl::N,tuoli,cathaoir
+458,Wiege::N,kehto,cliabhán
+459,Bett::N,sänky,leaba
+460,Regal::N,hylly,seilf
+461,Kiste::N,arkku,bosca
+462,Kiste::N,kirstu,bosca
+463,Kiste::N,laatikko,bosca
+464,Fenster::N,ikkuna,fuinneoig
+465,Tür::N,ovi,doras
+466,Tor::N,portti,geata
+467,Zaun::N,aita,fál
+468,Zaun::N,aita,claí
+469,Dach::N,katto,díon
+470,Leiter::N,tikkaat,dréimire
+471,Leiter::N,tikapuut,dréimire
+472,Besen::N,luuta,scuab
+473,Spaten::N,lapio,spád
+474,Spaten::N,lapio,rámhainn
+475,Schaufel::N,lapio,sluasaid
+476,Gabel::N,haarukka,forc
+477,Gabel::N,haarukka,gabhlóg
+478,Löffel::N,lusikka,spúnóg
+479,Messer::N,veitsi,scian
+480,Nagel::N,naula,tairne
+481,Netz::N,verkko,líon
+482,Netz::N,verkko,eangach
+483,Haken::N,haka,croch
+484,Haken::N,koukku,croch
+485,Griff::N,ripa,cos
+486,Griff::N,ripa,hanla
+487,Griff::N,kahva,cos
+488,Griff::N,kahva,hanla
+489,Schloss::N,lukko,glas
+490,Bild::N,kuva,pictiúr
+491,Figur::N,kuvio,fíor
+492,Puppe::N,nukke,bábóg
+493,Beutel::N,pussi,mála
+494,Beutel::N,pussi,mealbhóg
+495,Bündel::N,nippu,beart
+496,Bündel::N,kimppu,beart
+497,Tasche::N,laukku,mála
+498,Eimer::N,sanko,buicéad
+499,Eimer::N,ämpäri,buicéad
+500,Deckel::N,kansi,clár
+501,Deckel::N,kansi,claibín
+502,Geschirr::N,astia,soithí
+503,Geschirr::N,astia,gréithe
+504,Sack::N,säkki,sac
+505,Sack::N,säkki,mála
+506,Tasse::N,kuppi,cupán
+507,Topf::N,pata,pota
+508,Kessel::N,kattila,citeal
+509,Essen::N,syönti,béile
+510,Nahrung::N,ruoka,bia
+511,Nahrung::N,ravinto,bia
+512,Speise::N,ruoka,mias
+513,Fleisch::N,liha,feoil
+514,Getreide::N,vilja,grán
+515,Getreide::N,vilja,arbhar
+516,Brei::N,puuro,brúitín
+517,Brot::N,leipä,arán
+518,Scheibe::N,viipale,píosa
+519,Scheibe::N,viipale,slisne
+520,Fett::N,rasva,saill
+521,Fett::N,rasva,méathras
+522,Butter::N,voi,im
+523,Öl::N,öljy,ola
+524,Salz::N,suola,salann
+525,Suppe::N,keitto,sú
+526,Suppe::N,keitto,anraith
+527,Honig::N,hunaja,mil
+528,Milch::N,maito,bainne
+529,Tee::N,tee,tae
+530,Leder::N,nahka,leathar
+531,Wolle::N,villa,olann
+532,Stoff::N,kangas,éadach
+533,Nadel::N,neula,snáthaid
+534,Faden::N,lanka,snáth
+535,Knopf::N,nappi,cnaipe
+536,Knoten::N,solmu,snaidhm
+537,Farbe::N,maali,péint
+538,Kleidung::N,vaatteet,éadaí
+539,Hemd::N,paita,léine
+540,Kragen::N,kaulus,bóna
+541,Ärmel::N,hiha,muinchille
+542,Hose::N,housut,bríste
+543,Hose::N,housut,treabhsar
+544,Gürtel::N,vyö,crios
+545,Mütze::N,lakki,caipín
+546,Schuh::N,kenkä,bróg
+547,Stiefel::N,saapas,buatais
+548,Ring::N,sormus,fáinne
+549,Band::N,nauha,ribín
+550,Kamm::N,kampa,cíor
+551,Spiegel::N,peili,scáthán
+552,Riemen::N,hihna,iall
+553,Riemen::N,hihna,strapa
+554,Schnur::N,naru,téad
+555,Schnur::N,naru,sreangán
+556,Schnur::N,nuora,téad
+557,Schnur::N,nuora,sreangán
+558,Leine::N,talutushihna,iall
+559,Decke::N,peite,pluid
+560,Decke::N,peite,blaincéad
+561,Kissen::N,tyyny,piliúr
+562,Kissen::N,tyyny,adhartán
+563,Kissen::N,pielus,piliúr
+564,Kissen::N,pielus,adhartán
+565,Tuch::N,huivi,scaif
+566,Handtuch::N,pyyheliina,tuáille
+567,Kraft::N,väki,fórsa
+568,Kraft::N,voima,fórsa
+569,Stärke::N,vahvuus,neart
+570,Gesundheit::N,terveys,sláinte
+571,Krankheit::N,tauti,tinneas
+572,Krankheit::N,tauti,breoiteacht
+573,Krankheit::N,sairaus,tinneas
+574,Krankheit::N,sairaus,breoiteacht
+575,Schmerz::N,kipu,pian
+576,Schmerz::N,särky,pian
+577,Wunde::N,haava,goin
+578,Fieber::N,kuume,fiabhras
+579,Arznei::N,lääke,cógas
+580,Brücke::N,silta,droichead
+581,Brunnen::N,kaivo,tobar
+582,Weide::N,laidun,féarach
+583,Pfad::N,polku,cosán
+584,Pfad::N,polku,conair
+585,Weg::N,tie,slí
+586,Weg::N,tie,bealach
+587,Straße::N,katu,bóthar
+588,Dorf::N,kylä,sráidbhaile
+589,Stadt::N,kaupunki,baile
+590,Stadt::N,kaupunki,cathair
+591,Brief::N,kirje,litir
+592,Buch::N,kirja,cín
+593,Buch::N,kirja,leabhar
+594,Buchstabe::N,kirjain,litir
+595,Zeitung::N,lehti,nuachtán
+596,Zeitung::N,sanomalehti,nuachtán
+597,Leben::N,elo,saol
+598,Leben::N,elo,beatha
+599,Leben::N,elämä,saol
+600,Leben::N,elämä,beatha
+601,Tod::N,kuolema,bás
+602,Grab::N,hauta,uaigh
+603,Kirche::N,kirkko,eaglais
+604,Sünde::N,synti,peaca
+605,Gott::N,jumala,dia
+606,Arbeiter::N,työläinen,oibrí
+607,Chef::N,päällikkö,saoiste
+608,Chef::N,päällikkö,ceannasaí
+609,Meister::N,mestari,máistir
+610,Arzt::N,lääkäri,lia
+611,Arzt::N,lääkäri,dochtúir
+612,Lehrer::N,opettaja,oide
+613,Lehrer::N,opettaja,múinteoir
+614,Geld::N,raha,airgead
+615,Geschäft::N,liike,gnó
+616,Laden::N,puoti,siopa
+617,Laden::N,kauppa,siopa
+618,Preis::N,hinta,praghas
+619,Ware::N,tavara,earra
+620,Nutzen::N,hyöty,tairbhe
+621,Reichtum::N,rikkaus,rachmas
+622,Reichtum::N,rikkaus,saibhreas
+623,Welt::N,maailma,domhan
+624,Land::N,maa,tír
+625,Staat::N,valtio,stát
+626,König::N,kuningas,rí
+627,Macht::N,mahti,cumhacht
+628,Grenze::N,raja,críoch
+629,Grenze::N,raja,teorainn
+630,Krieg::N,sota,cogadh
+631,Feind::N,vihollinen,namhaid
+632,Gewalt::N,väkivalta,foréigean
+633,Kampf::N,taistelu,troid
+634,Bogen[Waffe]::N,jousi,bogha
+635,Pfeil::N,nuoli,saighead
+636,Gewehr::N,kivääri,gunna
+637,Fehler::N,vika,botún
+638,Fehler::N,vika,meancóg
+639,Fehler::N,virhe,botún
+640,Fehler::N,virhe,meancóg
+641,Lüge::N,valhe,bréag
+642,Lüge::N,valhe,éitheach
+643,Schaden::N,vaurio,dochar
+644,Schaden::N,vaurio,damáiste
+645,Schaden::N,vahinko,dochar
+646,Schaden::N,vahinko,damáiste
+647,Unglück::N,vahinko,drochrath
+648,Unglück::N,onnettomuus,drochrath
+649,Schuld::N,syy,locht
+650,Schuld::N,syy,milleán
+651,Alter::N,ikä,aois
+652,Schluss::N,loppu,deireadh
+653,Zeit::N,aika,am
+654,Zeit::N,aika,aimsir
+655,Tag::N,päivä,lá
+656,Morgen::N,aamu,maidin
+657,Morgen::N,huomen,maidin
+658,Mittag::N,keskipäivä,nóin
+659,Abend::N,ilta,tráthnóna
+660,Nacht::N,yö,oíche
+661,Woche::N,viikko,seachtain
+662,Monat::N,kuukausi,mí
+663,Jahr::N,vuosi,bliain
+664,Frühling::N,kevät,earrach
+665,Sommer::N,kesä,samhradh
+666,Herbst::N,syksy,fómhar
+667,Winter::N,talvi,geimhreadh
+668,Januar::N,tammikuu,Eanáir
+669,Februar::N,helmikuu,Feabhra
+670,März::N,maaliskuu,Márta
+671,April::N,huhtikuu,Aibreán
+672,Mai::N,toukokuu,Bealtaine
+673,Juni::N,kesäkuu,Meitheamh
+674,Juli::N,heinäkuu,Iúil
+675,August::N,elokuu,Lúnasa
+676,September::N,syyskuu,Meán Fómhair
+677,Oktober::N,lokakuu,Deireadh Fómhair
+678,November::N,marraskuu,Samhain
+679,November::N,marraskuu,Mí na Samhna
+680,Dezember::N,joulukuu,Mí na Nollag
+681,Montag::N,maanantai,Luan
+682,Montag::N,maanantai,Dé Luain
+683,Dienstag::N,tiistai,Máirt
+684,Dienstag::N,tiistai,Dé Máirt
+685,Mittwoch::N,keskiviikko,Céadaoin
+686,Mittwoch::N,keskiviikko,Dé Céadaoin
+687,Donnerstag::N,torstai,Déardaoin
+688,Freitag::N,perjantai,Aoine
+689,Freitag::N,perjantai,Dé hAoine
+690,Samstag::N,lauantai,Satharn
+691,Samstag::N,lauantai,Dé Sathairn
+692,Sonntag::N,sunnuntai,Domhnach
+693,Sonntag::N,sunnuntai,Dé Domhnaigh
+694,groß::A,iso,mór
+695,groß::A,suuri,mór
+696,klein::A,pieni,beag
+697,lang::A,pitkä,fada
+698,kurz::A,lyhyt,gearr
+699,kurz::A,lyhyt,gairid
+700,breit::A,leveä,leathan
+701,breit::A,leveä,fairsing
+702,schmal::A,kapea,cúng
+703,dicht::A,taaja,dlúth
+704,dick[Gegenstand]::A,paksu,tiubh
+705,dünn::A,ohut,caol
+706,dünn::A,ohut,tanaí
+707,fein::A,hieno,scáinte
+708,fein::A,hieno,fíneálta
+709,fest::A,luja,daingean
+710,flach::A,litteä,cothrom
+711,flach::A,tasainen,cothrom
+712,glatt::A,sileä,mín
+713,glatt::A,sileä,sleamhain
+714,glatt::A,siloinen,mín
+715,glatt::A,siloinen,sleamhain
+716,hart::A,kova,crua
+717,weich::A,pehmeä,bog
+718,rund::A,pyöreä,cruinn
+719,spitz::A,terävä,gobach
+720,spitz::A,terävä,biorach
+721,scharf::A,terävä,géar
+722,scharf::A,terävä,faobhrach
+723,stumpf::A,tylsä,maol
+724,schwer::A,raskas,trom
+725,schwer::A,painava,trom
+726,schön::A,kaunis,álainn
+727,heiß::A,kuuma,te
+728,warm::A,lämmin,te
+729,kalt::A,kylmä,fuar
+730,kalt::A,viluinen,fuar
+731,kühl::A,viileä,fionnuar
+732,frisch::A,tuore,úr
+733,frisch::A,tuore,friseáilte
+734,feucht::A,kostea,tais
+735,nass::A,märkä,fliuch
+736,trocken::A,kuiva,tirim
+737,voll::A,täysi,lán
+738,leer::A,tyhjä,folamh
+739,offen::A,avonainen,oscailte
+740,geschlossen::A,suljettu,dúnta
+741,geschlossen::A,suljettu,druidte
+742,sauber::A,puhdas,glan
+743,schmutzig::A,likainen,salach
+744,roh::A,raaka,amh
+745,reif::A,kypsä,aibí
+746,lecker::A,herkullinen,blasta
+747,süß::A,makea,milis
+748,bitter::A,karvas,searbh
+749,bitter::A,kitkerä,searbh
+750,sauer::A,hapan,géar
+751,sauer::A,hapan,searbh
+752,hell::A,kirkas,geal
+753,hell::A,kirkas,soilseach
+754,hell::A,valoisa,geal
+755,hell::A,valoisa,soilseach
+756,dunkel::A,pimeä,dorcha
+757,schwarz::A,musta,dubh
+758,weiß::A,valkea,bán
+759,rot::A,punainen,dearg
+760,gelb::A,keltainen,buí
+761,blau::A,sininen,gorm
+762,grün::A,vihreä,glas
+763,grün::A,vihreä,uaine
+764,grau::A,harmaa,liath
+765,bunt::A,kirjava,ildathach
+766,bunt::A,kirjava,dathannach
+767,billig::A,halpa,saor
+768,billig::A,huokea,saor
+769,teuer::A,kallis,daor
+770,teuer::A,kallis,costasach
+771,wertvoll::A,arvokas,luachmhar
+772,blind::A,sokea,dall
+773,blind::A,sokea,caoch
+774,taub::A,kuuro,bodhar
+775,kräftig::A,väkevä,cumhachtach
+776,kräftig::A,voimakas,cumhachtach
+777,stark::A,vahva,tréan
+778,stark::A,vahva,láidir
+779,schwach::A,heikko,lag
+780,schwach::A,heikko,fann
+781,fett::A,lihava,ramhar
+782,schlank::A,hoikka,caol
+783,schlank::A,hoikka,seang
+784,schlank::A,solakka,caol
+785,schlank::A,solakka,seang
+786,hübsch::A,soma,álainn
+787,hübsch::A,soma,dathúil
+788,hübsch::A,sievä,álainn
+789,hübsch::A,sievä,dathúil
+790,böse::A,paha,olc
+791,böse::A,häijy,olc
+792,dumm::A,tyhmä,dúr
+793,dumm::A,tyhmä,amaideach
+794,dumm::A,typerä,dúr
+795,dumm::A,typerä,amaideach
+796,faul::A,laiska,falsa
+797,faul::A,laiska,leisciúil
+798,fleißig::A,ahkera,dícheallach
+799,geizig::A,saita,barainneach
+800,geizig::A,saita,sprionlaithe
+801,klug::A,älykäs,cliste
+802,geschickt::A,taitava,oilte
+803,geschickt::A,taitava,ealaíonta
+804,lieb::A,rakas,dil
+805,lieb::A,rakas,dílis
+806,lustig::A,hauska,aerach
+807,lustig::A,hauska,meidhreach
+808,lustig::A,iloinen,aerach
+809,lustig::A,iloinen,meidhreach
+810,sanft::A,lauha,bog
+811,sanft::A,lauha,séimh
+812,sanft::A,lempeä,bog
+813,sanft::A,lempeä,séimh
+814,hungrig::A,nälkäinen,ocrach
+815,krank::A,sairas,tinn
+816,krank::A,sairas,breoite
+817,nackt::A,alaston,nocht
+818,traurig::A,surullinen,brónach
+819,traurig::A,murheellinen,brónach
+820,lebendig::A,elävä,beo
+821,gut::A,hyvä,maith
+822,schlecht::A,paha,dona
+823,schlecht::A,paha,droch-
+824,schlecht::A,huono,dona
+825,schlecht::A,huono,droch-
+826,richtig::A,oikea,ceart
+827,schlimm::A,paha,gránna
+828,schlimm::A,paha,tubaisteach
+829,wahr::A,tosi,fíor
+830,alt::A,vanha,sean
+831,neu::A,uusi,úr
+832,neu::A,uusi,nua
+833,ehemalig::A,entinen,iar-
+834,ehemalig::A,entinen,sean-
+835,ehemalig::A,muinainen,iar-
+836,ehemalig::A,muinainen,sean-
+837,alt[Lebewesen]::A,vanha,sean
+838,alt[Lebewesen]::A,vanha,aosta
+839,jung::A,nuori,óg
+840,arm::A,köyhä,bocht
+841,reich::A,rikas,saibhir
+842,reich::A,rikas,rachmasach
+843,bekannt::A,tuttu,atá eolas air
+844,bekannt::A,tunnettu,atá eolas air
+845,berühmt::A,kuuluisa,cailiúil
+846,berühmt::A,kuuluisa,clúiteach
+847,fremd::A,vieras,coimhthíoch
+848,verschieden::A,eri,éagsúil
+849,verschieden::A,eri,difriúil
+850,verschieden::A,erilainen,éagsúil
+851,verschieden::A,erilainen,difriúil
+852,nah::A,läheinen,gar
+853,nah::A,läheinen,deas
+854,fern::A,etäinen,i bhfad uainn
+855,fern::A,etäinen,i bhfad i gcéin
+856,linker::A,vasen,clé
+857,rechter::A,oikea,deas
+858,anderer::A,muu,eile
+859,anderer::A,toinen,eile
+860,erster::A,ensimmäinen,céad
+861,zweiter::A,toinen,dóú
+862,zweiter::A,toinen,dara
+863,dritter::A,kolmas,tríú
+864,dritter::A,kolmas,treas
+865,letzter::A,viimeinen,déanach
+866,letzter::A,viimeinen,deireanach
+867,allein::ADV,yksin,i d'aonar
+868,auf einmal::ADV,yhdellä kertaa,ag an am céanna
+869,zusammen::ADV,yhdessä,le chéile
+870,zusammen::ADV,yhdessä,in eineacht
+871,lange::ADV,kauan,fada
+872,lange::ADV,pitkään,fada
+873,plötzlich::ADV,äkkiä,go tobann
+874,plötzlich::ADV,äkkiä,i dtobainne
+875,sofort::ADV,heti,ar an toirt
+876,sofort::ADV,heti,ar an bpointe
+877,später::ADV,myöhemmin,níos déanaí
+878,jetzt::ADV,nyt,anois
+879,heute::ADV,tänään,inniu
+880,morgen::ADV,huomenna,amárach
+881,bald::ADV,pian,go luath
+882,bald::ADV,pian,gan mhoill
+883,dann::ADV,sitten,ansin
+884,gestern::ADV,eilen,inné
+885,einst::ADV,aikanaan,tráth
+886,einst::ADV,aikanaan,uair amháin
+887,damals::ADV,silloin,ag an am
+888,damals::ADV,silloin,an t-am sin
+889,damals::ADV,siihen aikaan,ag an am
+890,damals::ADV,siihen aikaan,an t-am sin
+891,danach::ADV,sen jälkeen,ina dhiaidh sin
+892,vorher::ADV,ennen,cheana
+893,vorher::ADV,ennen,roimhe sin
+894,zuerst::ADV,ensin,ar dtús
+895,zuerst::ADV,ensiksi,ar dtús
+896,einmal::ADV,kerran,uair amháin
+897,manchmal::ADV,joskus,uaireanta
+898,oft::ADV,usein,minic
+899,immer::ADV,aina,i gcónaí
+900,niemals::ADV,ei koskaan,riamh
+901,hier::ADV,tässä,anseo
+902,hier::ADV,täällä,anseo
+903,hierhin::ADV,tähän,anseo
+904,von hier::ADV,tästä,an áit seo
+905,von hier::ADV,täältä,an áit seo
+906,dort::ADV,siinä,ann
+907,dort::ADV,siinä,ansin
+908,dort::ADV,siellä,ann
+909,dort::ADV,siellä,ansin
+910,dorthin::ADV,sinne,ann
+911,dorthin::ADV,sinne,ansin
+912,dorthin::ADV,tuonne,ann
+913,dorthin::ADV,tuonne,ansin
+914,geradeaus::ADV,suoraan,ar aghaidh
+915,vorwärts::ADV,eteenpäin,
+916,rückwärts::ADV,taaksepäin,siar
+917,zurück::ADV,takaisin,ar ais
+918,unten::ADV,alhaalla,thíos
+919,hinab::ADV,alas,síos
+920,oben::ADV,ylhäällä,thuas
+921,hinauf::ADV,ylös,suas
+922,überall::ADV,kaikkialla,i ngach áit
+923,überall::ADV,kaikkialla,ar fud na háite
+924,nicht::ADV,ei,ní
+925,nicht::ADV,ei,cha
+926,ein wenig::ADV,vähän,beagán
+927,kaum::ADV,tuskin,ar éigean
+928,sehr::ADV,kovin,an-
+929,sehr::ADV,oikein,an-
+930,so::ADV,näin,chomh
+931,so::ADV,näin,mar sin
+932,noch::ADV,vielä,fós
+933,noch::ADV,vielä,go fóill
+934,nur::ADV,vain,amháin
+935,nur::ADV,vain,níl ach
+936,nur::ADV,ainoastaan,amháin
+937,nur::ADV,ainoastaan,níl ach
+938,schon::ADV,jo,cheana
+939,schon::ADV,jo,cheana féin
+940,wieder::ADV,taas,arís
+941,wieder::ADV,taas,athuair
+942,wieder::ADV,jälleen,arís
+943,wieder::ADV,jälleen,athuair
+944,vergebens::ADV,turhaan,amú
+945,vergebens::ADV,turhaan,in aisce
+946,vor::PRP,edessä,ar thosach
+947,hinter::PRP,takana,laistiar de
+948,hinter::PRP,takana,taobh thiar de
+949,unter::PRP,alla,faoi
+950,durch::PRP,läpi,trí
+951,durch::PRP,kautta,trí
+952,neben::PRP,vieressä,taobh le
+953,neben::PRP,vieressä,in aice le
+954,zwischen::PRP,välillä,idir
+955,wegen::PRP,takia,de bharr
+956,wegen::PRP,takia,mar gheall ar
+957,wegen::PRP,vuoksi,de bharr
+958,wegen::PRP,vuoksi,mar gheall ar
+959,dies::PRN,tämä,seo
+960,das::PRN,se,sin
+961,alles::PRN,kaikki,gach rud
+962,ich::PRN,minä,mé
+963,ich::PRN,minä,mise
+964,du::PRN,sinä,tú
+965,du::PRN,sinä,tusa
+966,er::PRN,hän,sé
+967,er::PRN,hän,seisean
+968,wir::PRN,me,sinn
+969,ihr::PRN,te,sibh
+970,ihr::PRN,te,sibhse
+971,sie::PRN,he,siad
+972,sie::PRN,he,siadsan
+973,was::FPRN,mikä,cad
+974,was::FPRN,mikä,céard
+975,wer::FPRN,ken,cé
+976,wer::FPRN,kuka,cé
+977,wo::FADV,missä,cá
+978,wo::FADV,missä,cén áit
+979,wohin::FADV,mihin,cá
+980,wohin::FADV,mihin,cén áit
+981,wie::FADV,miten,conas
+982,wie::FADV,miten,cén chaoi
+983,wie::FADV,kuinka,conas
+984,wie::FADV,kuinka,cén chaoi
+985,warum::FADV,miksi,cén fáth
+986,warum::FADV,miksi,cad chuige
+987,wieviel::FNUM,paljonko,cá mhéad
+988,wieviel::FNUM,kuinka paljon,cá mhéad
+989,eins::NUM,yksi,aon
+990,zwei::NUM,kaksi,dhá
+991,drei::NUM,kolme,trí
+992,vier::NUM,neljä,ceathair
+993,fünf::NUM,viisi,cúig
+994,sechs::NUM,kuusi,sé
+995,sieben::NUM,seitsemän,seacht
+996,acht::NUM,kahdeksan,ocht
+997,neun::NUM,yhdeksän,naoi
+998,zehn::NUM,kymmenen,deich
+999,elf::NUM,yksitoista,aon déag
+1000,zwölf::NUM,kaksitoista,dó dhéag
+1001,zwanzig::NUM,kaksikymmentä,fiche
+1002,dreißig::NUM,kolmekymmentä,tríocha
+1003,vierzig::NUM,neljäkymmentä,daichead
+1004,vierzig::NUM,neljäkymmentä,ceathracha
+1005,fünfzig::NUM,viisikymmentä,caoga
+1006,sechzig::NUM,kuusikymmentä,seasca
+1007,siebzig::NUM,seitsemänkymmentä,seachtó
+1008,achtzig::NUM,kahdeksankymmentä,ochtó
+1009,neunzig::NUM,yhdeksänkymmentä,nócha
+1010,hundert::NUM,sata,céad
+1011,tausend::NUM,tuhat,míle
+1012,und::CNJ,ja,agus
+1013,oder::CNJ,tai,nó
+1014,stehen::V,seisoa,seas
+1015,sitzen::V,istua,suigh
+1016,liegen::V,maata,luigh
+1017,hängen::V,riippua,tá crochta
+1018,werden::V,tulla,éirigh
+1019,werden::V,joutua,éirigh
+1020,passieren::V,sattua,tarlaigh
+1021,passieren::V,tapahtua,tarlaigh
+1022,beginnen::V,alkaa,tosaigh
+1023,enden::V,loppua,críochnaigh
+1024,enden::V,päättyä,críochnaigh
+1025,wechseln::V,vaihtua,athraigh
+1026,wechseln::V,vaihdella,athraigh
+1027,aufgehen[Sonne]::V,nousta,éirigh
+1028,untergehen[Sonne]::V,laskea,fuin
+1029,untergehen[Sonne]::V,laskea,téigh faoi
+1030,scheinen[Sonne]::V,paistaa,taitin
+1031,scheinen[Sonne]::V,paistaa,soilsigh
+1032,donnern::V,jyristä,tá toirneach ann
+1033,wehen::V,tuulla,séid
+1034,wehen::V,puhaltaa,séid
+1035,strömen::V,virrata,sil
+1036,fließen::V,valua,rith
+1037,fließen::V,valua,snigh
+1038,fließen::V,juosta,rith
+1039,fließen::V,juosta,snigh
+1040,sich drehen::V,pyöriä,cas
+1041,sich drehen::V,pyöriä,imrothlaigh
+1042,schwanken::V,horjua,luasc
+1043,schwingen::V,heilua,luasc
+1044,schwingen::V,värähdellä,luasc
+1045,fallen::V,pudota,tit
+1046,fallen::V,langeta,tit
+1047,brennen::V,palaa,dóigh
+1048,rauchen::V,savuta,plúch toite
+1049,regnen::V,sataa,báistigh
+1050,regnen::V,sataa,tá ag cur báistí
+1051,gefrieren::V,jäätyä,sioc
+1052,gefrieren::V,jäätyä,reoigh
+1053,tauen::V,sulaa,leáigh
+1054,tauen::V,sulaa,coscair
+1055,schmelzen::V,sulaa,leáigh
+1056,trocknen::V,kuivua,triomaigh
+1057,sieden::V,kiehua,fiuch
+1058,sieden::V,kiehua,beirigh
+1059,faulen::V,mädätä,lobh
+1060,faulen::V,mädätä,dreoigh
+1061,verfaulen::V,mädätä,lobh
+1062,verfaulen::V,mädätä,feoigh
+1063,verfaulen::V,mädäntyä,lobh
+1064,verfaulen::V,mädäntyä,feoigh
+1065,reißen::V,revetä,bris
+1066,versinken::V,upota,téigh síos
+1067,versinken::V,vajota,téigh síos
+1068,vergehen::V,kulua,téigh thart
+1069,erscheinen::V,ilmestyä,tar
+1070,verschwinden::V,kadota,imigh
+1071,sinken::V,vajota,tit
+1072,sinken::V,vajota,ísligh
+1073,abnehmen::V,vähetä,maolaigh
+1074,abnehmen::V,vähetä,laghdaigh
+1075,zunehmen::V,kasvaa,méadaigh
+1076,zunehmen::V,lisääntyä,méadaigh
+1077,steigen::V,nousta,éirigh
+1078,wachsen::V,kasvaa,fás
+1079,glänzen::V,kiiltää,lonraigh
+1080,funkeln::V,kipinöidä,drithligh
+1081,lärmen::V,meluta,tóg callán
+1082,läuten::V,soida,buail
+1083,klingeln::V,soida,buail
+1084,klirren::V,kalista,cling
+1085,brausen::V,kohista,búir
+1086,rauschen::V,kohista,tá ag siosarnach
+1087,klingen::V,soida,tá glór ag
+1088,bellen::V,haukkua,amhastraigh
+1089,heulen::V,ulvoa,glam
+1090,blasen::V,puhaltaa,séid
+1091,pfeifen::V,viheltää,lig fead
+1092,schreien::V,kirkua,béic
+1093,schreien::V,kirkua,glaoigh
+1094,stöhnen::V,voihkia,lig cnead
+1095,zittern::V,vapista,crith
+1096,zittern::V,vapista,creathnaigh
+1097,leben::V,elää,mair
+1098,geboren werden::V,syntyä,rugadh
+1099,atmen::V,hengittää,análaigh
+1100,trinken::V,juoda,ól
+1101,essen::V,syödä,ith
+1102,schlucken::V,niellä,slog
+1103,müde werden::V,uupua,tuirsigh
+1104,einschlafen::V,uinahtaa,tit ina chodladh
+1105,schlafen::V,maata,codail
+1106,schlafen::V,nukkua,codail
+1107,aufwachen::V,herätä,múscail
+1108,aufstehen::V,nousta,éirigh
+1109,aufstehen::V,nousta ylös,éirigh
+1110,sich erholen::V,levätä,lig scíth
+1111,krank werden::V,sairastua,éirigh tinn
+1112,krank sein::V,potea,tá tinn
+1113,krank sein::V,sairastaa,tá tinn
+1114,schmerzen::V,särkeä,tá pian i
+1115,schmerzen::V,kivistää,tá pian i
+1116,husten::V,yskiä,déan casacht
+1117,genesen::V,toipua,téarnaigh
+1118,sterben::V,kuolla,éag
+1119,sterben::V,kuolla,faigh bás
+1120,umkommen::V,saada surmansa,caill
+1121,umkommen::V,kuolla,caill
+1122,sich bewegen::V,liikkua,bog
+1123,sich bewegen::V,liikkua,gluais
+1124,sich rühren::V,liikahtaa,corraigh
+1125,sich erheben::V,nousta,seas suas
+1126,sich setzen::V,istuutua,suigh
+1127,hinfallen::V,kaatua,tit
+1128,laufen::V,kävellä,siúil
+1129,schreiten::V,astua,siúil
+1130,schreiten::V,astella,siúil
+1131,spazierengehen::V,kävellä,téigh ag spaisteoireacht
+1132,eilen::V,kiirehtiä,deifrigh
+1133,eilen::V,kiirehtiä,brostaigh
+1134,sich beeilen::V,kiirehtiä,deifrigh
+1135,sich beeilen::V,kiirehtiä,déan deifir
+1136,sich beeilen::V,olla kiireissään,deifrigh
+1137,sich beeilen::V,olla kiireissään,déan deifir
+1138,sausen::V,rynnätä,luathaigh
+1139,sausen::V,viilettää,luathaigh
+1140,rennen::V,juosta,rith
+1141,springen::V,hypätä,léim
+1142,klettern::V,kiivetä,dreap
+1143,schaukeln::V,kiikkua,téigh ar an maide corrach
+1144,kriechen::V,ryömiä,snámh
+1145,schwimmen::V,uida,snámh
+1146,tauchen::V,sukeltaa,tum
+1147,rudern::V,soutaa,iomair
+1148,rudern::V,soutaa,rámhaigh
+1149,fahren::V,ajaa,tiomáin
+1150,fahren::V,kulkea,tiomáin
+1151,fliegen::V,lentää,eitil
+1152,gehen::V,käydä,téigh
+1153,weggehen::V,lähteä,imigh
+1154,weggehen::V,poistua,imigh
+1155,abfahren::V,lähteä,imigh
+1156,anhalten::V,pysähtyä,stad
+1157,anhalten::V,seisahtua,stad
+1158,hineingehen::V,mennä sisään,téigh isteach
+1159,eintreten::V,astua sisään,téigh isteach
+1160,kommen::V,tulla,tar
+1161,ankommen::V,saapua,tar
+1162,zurückkommen::V,palata,fill
+1163,bleiben::V,jäädä,fan
+1164,bleiben::V,viipyä,fan
+1165,warten::V,odottaa,fan
+1166,erwarten::V,odottaa,tá ag súil le
+1167,erwarten::V,odottaa,tá ag dréim le
+1168,suchen::V,etsiä,lorg
+1169,finden::V,löytää,faigh
+1170,finden::V,löytää,aimsigh
+1171,versuchen::V,yrittää,triail
+1172,vorbereiten::V,valmistaa,réitigh
+1173,lieben::V,pitää,gráigh
+1174,lieben::V,rakastaa,gráigh
+1175,mögen::V,pitää,taitin le
+1176,mögen::V,pitää,is maith le
+1177,mögen::V,tykätä,taitin le
+1178,mögen::V,tykätä,is maith le
+1179,lachen::V,nauraa,gáir
+1180,rühren::V,liikuttaa,téigh i bhfeidhm ar
+1181,weinen::V,itkeä,goil
+1182,weinen::V,itkeä,caoin
+1183,schimpfen::V,haukkua,tá ag clamhsán
+1184,sich ärgern::V,suuttua,tá corraithe
+1185,sich fürchten::V,pelätä,tá eagla ar
+1186,fürchten::V,pelätä,tá eagla ar
+1187,fliehen::V,paeta,teith
+1188,flüchten::V,paeta,éalaigh
+1189,sehen::V,nähdä,feic
+1190,anschauen::V,katsoa,dearc
+1191,anschauen::V,katsoa,féach ar
+1192,ansehen::V,katsoa,breathnaigh
+1193,hören::V,kuulla,cluin
+1194,zuhören::V,kuunnella,éist
+1195,probieren::V,maistaa,bliais
+1196,riechen::V,haistaa,bolaigh
+1197,fühlen::V,tuntea,braith
+1198,fühlen::V,tuntea,mothaigh
+1199,scheinen::V,tuntua,tá an chuma ar
+1200,zu sehen sein::V,näkyä,tá le feiceáil
+1201,vernehmen::V,kuulla,clois
+1202,frieren::V,palella,tá fuar
+1203,tun::V,tehdä,déan
+1204,können::V,osata,féad
+1205,können::V,osata,is féidir le
+1206,wollen::V,tahtoa,tá ag iarraidh
+1207,anfangen::V,ruveta,tosaigh
+1208,anfangen::V,ruveta,cuir tús le
+1209,anfangen::V,aloittaa,tosaigh
+1210,anfangen::V,aloittaa,cuir tús le
+1211,beenden::V,lopettaa,críochnaigh
+1212,beenden::V,lopettaa,cuir deireadh le
+1213,aufhören::V,loppua,stad
+1214,gelingen::V,onnistua,éirigh le
+1215,geraten::V,sujua,tá deireadh ar
+1216,geraten::V,joutua,tá deireadh ar
+1217,öffnen::V,avata,oscail
+1218,öffnen::V,aukaista,oscail
+1219,schließen::V,sulkea,dún
+1220,schließen::V,sulkea,iaigh
+1221,stellen::V,panna,cuir
+1222,stellen::V,asettaa,cuir
+1223,setzen::V,panna,cuir
+1224,setzen::V,panna,socraigh
+1225,setzen::V,istuttaa,cuir
+1226,setzen::V,istuttaa,socraigh
+1227,legen::V,panna,cuir
+1228,legen::V,asettaa,cuir
+1229,berühren::V,koskea,teagmhaigh le
+1230,berühren::V,koskettaa,teagmhaigh le
+1231,verbinden::V,liittää,ceangail
+1232,verbinden::V,yhdistää,ceangail
+1233,bedecken::V,kattaa,clúdaigh
+1234,bedecken::V,kattaa,cumhdaigh
+1235,bedecken::V,peittää,clúdaigh
+1236,bedecken::V,peittää,cumhdaigh
+1237,aufhängen::V,ripustaa,croch
+1238,anzünden::V,sytyttää,las
+1239,anzünden::V,sytyttää,adhain
+1240,aufheben::V,ylös nostaa,tóg
+1241,aufheben::V,ylös nostaa,ardaigh
+1242,aufheben::V,nostaa,tóg
+1243,aufheben::V,nostaa,ardaigh
+1244,zurücklassen::V,jättää,fág
+1245,verlieren::V,kadottaa,caill
+1246,fallen lassen::V,pudottaa,lig uait
+1247,fallen lassen::V,pudottaa,caith uait
+1248,machen::V,tehdä,déan
+1249,machen::V,tehdä,réitigh
+1250,herstellen::V,tuottaa,táirg
+1251,herstellen::V,valmistaa,táirg
+1252,bauen::V,rakentaa,tóg
+1253,reparieren::V,korjata,deisigh
+1254,verbessern::V,parantaa,feabhsaigh
+1255,ändern::V,muuttaa,athraigh
+1256,graben::V,kaivaa,tochail
+1257,beugen::V,taivuttaa,crom
+1258,biegen::V,taivuttaa,lúb
+1259,drehen::V,kääntää,cas
+1260,wenden::V,kääntää,tiontaigh
+1261,umdrehen::V,kääntää,iompaigh
+1262,umdrehen::V,kääntää,tiontaigh
+1263,heben::V,nostaa,ardaigh
+1264,heben::V,kohottaa,ardaigh
+1265,hochheben::V,nostaa,tóg
+1266,ergreifen::V,tarttua,beir ar
+1267,halten::V,pitää,coimeád
+1268,halten::V,pitää,coinnigh
+1269,drücken::V,painaa,brúigh
+1270,drücken::V,puristaa,brúigh
+1271,schieben::V,työntää,brúigh
+1272,kratzen::V,raapia,scríob
+1273,lecken::V,nuolla,ligh
+1274,lecken::V,nuolla,leadhb
+1275,beißen::V,purra,bain greim as
+1276,abreißen::V,repiä,stróic
+1277,abreißen::V,repiä,tarraing
+1278,abschneiden::V,leikata poikki,scoith
+1279,abschneiden::V,leikata,scoith
+1280,binden::V,sitoa,ceangail
+1281,stecken::V,pistää,sáigh
+1282,brechen::V,murtaa,bris
+1283,klopfen::V,koputtaa,cnag
+1284,klopfen::V,kolkuttaa,cnag
+1285,hauen::V,lyödä,buail
+1286,kleben::V,liimata,gliúáil
+1287,reiben::V,hieroa,cuimil
+1288,reiben::V,hangata,cuimil
+1289,streichen::V,sivellä,leath
+1290,schleifen::V,hioa,líomh
+1291,schneiden::V,leikata,gearr
+1292,rütteln::V,ravistaa,croith
+1293,schütteln::V,pudistaa,croith
+1294,schwenken::V,heiluttaa,luasc
+1295,schütten::V,kaataa,doirt
+1296,füllen::V,täyttää,líon
+1297,einwickeln::V,kääriä,cuach
+1298,einwickeln::V,kääriä,clúdaigh
+1299,tragen::V,kantaa,iompair
+1300,schleppen::V,raahata,tarraing
+1301,ziehen::V,vetää,tarraing
+1302,aufbewahren::V,säilyttää,coinnigh
+1303,werfen::V,viskata,caith
+1304,fangen::V,napata,ceap
+1305,fangen::V,ottaa kiinni,ceap
+1306,packen::V,tarttua,beir ar
+1307,verstecken::V,kätkeä,folaigh
+1308,verstecken::V,kätkeä,cuir i bhfolach
+1309,verstecken::V,piilottaa,folaigh
+1310,verstecken::V,piilottaa,cuir i bhfolach
+1311,teilen::V,jakaa,roinn
+1312,schicken::V,lähettää,seol
+1313,bringen::V,viedä,beir
+1314,bringen::V,viedä,tabhair
+1315,hinzufügen::V,lisätä,cuir le
+1316,bekommen::V,saada,faigh
+1317,erhalten::V,saada,faigh
+1318,nehmen::V,ottaa,tóg
+1319,nehmen::V,ottaa,glac
+1320,wählen::V,valita,pioc
+1321,wählen::V,valita,roghnaigh
+1322,auswählen::V,valikoida,roghnaigh
+1323,bewahren::V,säilyttää,caomhnaigh
+1324,behindern::V,estää,cuir bac ar
+1325,verderben::V,pilata,mill
+1326,verderben::V,turmella,mill
+1327,beschädigen::V,vioittaa,loit
+1328,beschädigen::V,vioittaa,déan damáiste do
+1329,beschädigen::V,vahingoittaa,loit
+1330,beschädigen::V,vahingoittaa,déan damáiste do
+1331,zerbrechen::V,rikkoa,bris
+1332,zerreißen::V,repiä rikki,stiall
+1333,zerreißen::V,repiä palasiksi,stiall
+1334,zerstören::V,hävittää,mill
+1335,zerstören::V,hävittää,scrios
+1336,verbrennen::V,polttaa,las
+1337,verbrennen::V,polttaa,dóigh
+1338,geben::V,antaa,tabhair
+1339,reichen::V,ojentaa,sín
+1340,reichen::V,ojentaa,cuir
+1341,schenken::V,lahjoittaa,bronn
+1342,schenken::V,lahjoittaa,tabhair
+1343,versprechen::V,luvata,geall
+1344,wünschen::V,toivottaa,guigh
+1345,loben::V,ylistää,mol
+1346,küssen::V,suudella,póg
+1347,wiegen::V,tuudittaa,bog
+1348,wiegen::V,tuudittaa,luasc
+1349,wiegen::V,keinuttaa,bog
+1350,wiegen::V,keinuttaa,luasc
+1351,zudecken::V,peittää,clúdaigh
+1352,wecken::V,herättää,dúisigh
+1353,zeigen::V,näyttää,taispeáin
+1354,zeigen::V,osoittaa,taispeáin
+1355,führen::V,johdattaa,treoraigh
+1356,lehren::V,opettaa,múin
+1357,lehren::V,opettaa,teagasc
+1358,unterrichten::V,opettaa,múin
+1359,unterrichten::V,opettaa,teagasc
+1360,aufziehen::V,kasvattaa,tóg
+1361,leiten::V,johtaa,tá i gceannas ar
+1362,antreiben::V,hoputtaa,gríosaigh
+1363,lassen::V,antaa,cuir ag
+1364,einladen::V,kutsua,cuir cuireadh ar
+1365,vereinigen::V,yhdistää,aontaigh
+1366,besuchen::V,vierailla,tabhair cuairt ar
+1367,treffen::V,tavata,cas ar
+1368,treffen::V,tavata,buail le
+1369,sich versammeln::V,kokoontua,bailigh
+1370,sich versammeln::V,kokoontua,cruinnigh
+1371,spielen::V,pelata,imir
+1372,spielen::V,pelata,tá ag spraoi
+1373,spielen::V,leikkiä,imir
+1374,spielen::V,leikkiä,tá ag spraoi
+1375,singen::V,laulaa,can
+1376,tanzen::V,tanssia,rinc
+1377,tanzen::V,tanssia,damhsaigh
+1378,sich trennen::V,erota,scar
+1379,verlassen::V,jättää,fág
+1380,retten::V,pelastaa,tarrtháil
+1381,bewachen::V,vartioida,cosain
+1382,bewachen::V,vartioida,gardáil
+1383,schützen::V,suojella,cosain
+1384,verteidigen::V,puolustaa,cosain
+1385,sich schlagen::V,tapella,tá ag bruíon
+1386,schießen::V,ampua,caith
+1387,schießen::V,ampua,scaoil
+1388,siegen::V,voittaa,bain
+1389,siegen::V,voittaa,buaigh
+1390,ärgern::V,ärsyttää,cuir isteach ar
+1391,schlagen::V,lyödä,buail
+1392,treten::V,potkaista,ciceáil
+1393,stechen::V,pistää,sáigh
+1394,stoßen::V,sysätä,brúigh
+1395,stoßen::V,sysätä,soncáil
+1396,stoßen::V,työntää,brúigh
+1397,stoßen::V,työntää,soncáil
+1398,stehlen::V,varastaa,goid
+1399,stören::V,häiritä,cuir isteach ar
+1400,belästigen::V,häiritä,cuir as do
+1401,verbergen::V,kätkeä,ceil
+1402,täuschen::V,harhauttaa,cuir dallamullóg ar
+1403,betrügen::V,pettää,déan calaois ar
+1404,betrügen::V,petkuttaa,déan calaois ar
+1405,töten::V,tappaa,maraigh
+1406,wohnen::V,asua,cuir faoi
+1407,wohnen::V,asua,tá ina chónaí
+1408,arbeiten::V,tehdä työtä,oibrigh
+1409,arbeiten::V,työskennellä,oibrigh
+1410,sammeln::V,koota,bailigh
+1411,sammeln::V,koota,cruinnigh
+1412,sammeln::V,kerätä,bailigh
+1413,sammeln::V,kerätä,cruinnigh
+1414,pflücken::V,poimia,pioc
+1415,jagen::V,metsästää,seilg
+1416,fischen::V,kalastaa,iasc
+1417,fassen::V,pyydystää,beir ar
+1418,fassen::V,saalistaa,beir ar
+1419,hüten::V,paimentaa,aoirigh
+1420,treiben::V,ajaa,seol
+1421,treiben::V,ajaa,tiomáin
+1422,anbinden::V,kytkeä,ceangail
+1423,füttern::V,ruokkia,cothaigh
+1424,füttern::V,ruokkia,beathaigh
+1425,melken::V,lypsää,bligh
+1426,melken::V,lypsää,crúigh
+1427,hacken::V,hakata,gearr
+1428,gießen::V,kastella,uiscigh
+1429,reifen::V,kypsyä,aibigh
+1430,zubereiten::V,valmistaa,cócaráil
+1431,kochen::V,keittää,bruith
+1432,kochen::V,keittää,beirigh
+1433,backen::V,leipoa,bácáil
+1434,braten::V,paistaa,róst
+1435,braten::V,paistaa,frioch
+1436,umrühren::V,hämmentää,measc
+1437,stricken::V,kutoa,cniotáil
+1438,stricken::V,neuloa,cniotáil
+1439,nähen::V,ommella,fuaigh
+1440,färben::V,värjätä,dathaigh
+1441,färben::V,värittää,dathaigh
+1442,reinigen::V,puhdistaa,glan
+1443,waschen::V,pestä,nigh
+1444,abwischen::V,pyyhkiä,glan
+1445,spülen::V,huuhtoa,sruthlaigh
+1446,fegen::V,pyyhkäistä,scuab
+1447,kehren::V,lakaista,scuab
+1448,baden::V,kylpeä,folc
+1449,sich waschen::V,peseytyä,nigh é féin
+1450,ausziehen::V,riisua,bain de
+1451,anziehen::V,pukea ylleen,cuir ar
+1452,sich anziehen::V,pukeutua,gléas é féin
+1453,kämmen::V,kammata,cíor
+1454,schmücken::V,koristaa,maisigh
+1455,schmücken::V,kaunistaa,maisigh
+1456,sagen::V,sanoa,abair
+1457,sprechen::V,puhua,labhair
+1458,reden::V,keskustella,caintigh
+1459,sich unterhalten::V,jutella,caintigh
+1460,sich unterhalten::V,jutella,tá ag comhrá
+1461,fragen::V,kysyä,fiafraigh
+1462,fragen::V,kysyä,cuir ceist
+1463,bitten::V,pyytää,iarr
+1464,erzählen::V,kertoa,inis
+1465,erzählen::V,kertoa,eachtraigh
+1466,mitteilen::V,ilmoittaa,aithris
+1467,mitteilen::V,ilmoittaa,cuir in iúl
+1468,nennen::V,kutsua,ainmnigh
+1469,nennen::V,nimittää,ainmnigh
+1470,rufen::V,kutsua,glaoigh
+1471,prahlen::V,kerskailla,maígh
+1472,übersetzen::V,kääntää,aistrigh
+1473,denken::V,miettiä,síl
+1474,denken::V,miettiä,ceap
+1475,denken::V,ajatella,síl
+1476,denken::V,ajatella,ceap
+1477,glauben::V,uskoa,creid
+1478,bemerken::V,huomata,tabhair faoi deara
+1479,erkennen::V,tunnistaa,aithin
+1480,begreifen::V,ymmärtää,tuig
+1481,verstehen::V,ymmärtää,tuig
+1482,lernen::V,oppia,foghlaim
+1483,wissen::V,tietää,tá a fhios ag
+1484,sich erinnern an::V,muistaa,cuimhnigh ar
+1485,sich erinnern an::V,muistaa,is cuimhne ar
+1486,vergessen::V,unohtaa,dearmad
+1487,messen::V,mitata,tomhais
+1488,zählen::V,laskea,cuntais
+1489,rechnen::V,laskea,ríomh
+1490,rechnen::V,laskea,áirigh
+1491,lesen::V,lukea,léigh
+1492,malen::V,maalata,péinteáil
+1493,zeichnen::V,piirtää,línigh
+1494,zeichnen::V,piirtää,tarraing
+1495,zeichnen::V,piirustaa,línigh
+1496,zeichnen::V,piirustaa,tarraing
+1497,schreiben::V,kirjoittaa,scríobh
+1498,besitzen::V,omistaa,is le
+1499,kaufen::V,ostaa,ceannaigh
+1500,verkaufen::V,myydä,díol
+1501,bezahlen::V,maksaa,íoc as
+1502,zahlen::V,maksaa,íoc
+1503,beherrschen::V,hallita,rialaigh
+1504,ertragen::V,kestää,seas
+1505,ertragen::V,kestää,fulaing
+1506,ertragen::V,kestää,foighnigh

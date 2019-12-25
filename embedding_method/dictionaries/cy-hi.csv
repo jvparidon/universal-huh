@@ -1,0 +1,1703 @@
+,Concept_ID,cy,hi
+0,Auge::N,llygad,आँख
+1,Auge::N,llygad,चक्षु
+2,Ohr::N,clust,कान
+3,Ohr::N,clust,कर्ण
+4,Nase::N,trwyn,नाक
+5,Nase::N,trwyn,नासा
+6,Mund::N,ceg,मुख
+7,Mund::N,ceg,मुँह
+8,Zahn::N,dant,दंत
+9,Zahn::N,dant,दाँत
+10,Zunge::N,tafod,जीभ
+11,Zunge::N,tafod,ज़बान
+12,Zunge::N,tafod,जिह्वा
+13,Lippe::N,gwefus,ओंठ
+14,Lippe::N,gwefus,होंठ
+15,Wange::N,boch,गाल
+16,Wange::N,boch,कपोल
+17,Gesicht::N,wyneb,मुँह
+18,Gesicht::N,wyneb,चेहरा
+19,Stirn::N,talcen,माथा
+20,Stirn::N,talcen,मस्तक
+21,Haar::N,blew,बाल
+22,Schnurrbart::N,mwstas,मूँछें
+23,Bart::N,barf,दाढ़ी
+24,Kinn::N,gên,चिबुक
+25,Kiefer[Anatomie]::N,gên,जबड़ा
+26,Kehle::N,gwddf,गला
+27,Hals::N,gwddf,गला
+28,Hals::N,gwddf,गरदन
+29,Genick::N,gwar,गरदन
+30,Genick::N,gwar,ग्रीवा
+31,Genick::N,gwegil,गरदन
+32,Genick::N,gwegil,ग्रीवा
+33,Kopf::N,pen,सिर
+34,Kopf::N,pen,शीर्ष
+35,Rücken::N,cefn,पीठ
+36,Bauch::N,bol,उदर
+37,Nabel::N,bogail,नाभि
+38,Nabel::N,bogail,ढोंढी
+39,Busen::N,bron,कुच
+40,Busen::N,bron,स्तन
+41,Brust::N,brest,वक्ष
+42,Schulter::N,ysgwydd,कंधा
+43,Schulter::N,ysgwydd,स्कंध
+44,Arm::N,braich,बाँह
+45,Arm::N,braich,बाज़ू
+46,Ellenbogen::N,penelin,कुहनी
+47,Hand::N,llaw,हाथ
+48,Hand::N,llaw,हस्त
+49,Handfläche::N,palf,हथेली
+50,Finger::N,bys,उँगली
+51,Finger::N,bys,अँगुली
+52,Fingernagel::N,ewin,नख
+53,Fingernagel::N,ewin,नाख़ून
+54,Nagel[Anatomie]::N,ewin,नख
+55,Nagel[Anatomie]::N,ewin,नाख़ून
+56,Zeh::N,bys troed,उँगली
+57,Zeh::N,bys troed,पाँव की उँगली
+58,Fuß::N,troed,चरण
+59,Fuß::N,troed,पाँव
+60,Ferse::N,sawdl,एड़ी
+61,Knie::N,glin,जानु
+62,Knie::N,glin,घुटना
+63,Oberschenkel::N,clun,उरु
+64,Bein::N,coes,टाँग
+65,Körper::N,corff,तन
+66,Körper::N,corff,देह
+67,Körper::N,corff,शरीर
+68,Haut::N,croen,चर्म
+69,Haut::N,croen,त्वचा
+70,Blut::N,gwaed,लहू
+71,Blut::N,gwaed,ख़ून
+72,Ader::N,gwythïen,रग
+73,Ader::N,gwythïen,शिरा
+74,Sehne::N,gewyn,कंडरा
+75,Sehne::N,gewyn,स्नायु
+76,Knochen::N,asgwrn,अस्थि
+77,Gehirn::N,ymennydd,दिमाग़
+78,Gehirn::N,ymennydd,मस्तिष्क
+79,Herz::N,calon,दिल
+80,Herz::N,calon,हृदय
+81,Magen::N,cylla,मेदा
+82,Magen::N,cylla,अमाशय
+83,Magen::N,stumog,मेदा
+84,Magen::N,stumog,अमाशय
+85,Leber::N,iau,जिगर
+86,Leber::N,iau,यकृत्
+87,Atem::N,anadl,दम
+88,Atem::N,anadl,साँस
+89,Atem::N,anadl,श्वास
+90,Hunger::N,newyn,भूख
+91,Hunger::N,newyn,क्षुधा
+92,Träne::N,deigryn,आँसू
+93,Träne::N,deigryn,अश्रु
+94,Geschmack::N,cyflas,स्वाद
+95,Geschmack::N,cyflas,ज़ायक़ा
+96,Geruch::N,aroglau,बू
+97,Geruch::N,aroglau,गंध
+98,Schlaf::N,cwsg,नींद
+99,Schlaf::N,cwsg,निद्रा
+100,Traum::N,breuddwyd,सपना
+101,Traum::N,breuddwyd,स्वप्न
+102,Himmel::N,awyr,आकाश
+103,Himmel::N,awyr,आसमान
+104,Sonne::N,haul,रवि
+105,Sonne::N,haul,सूरज
+106,Sonne::N,haul,सूर्य
+107,Mond::N,lleuad,चाँद
+108,Mond::N,lleuad,चंद्र
+109,Stern::N,seren,तारा
+110,Stern::N,seren,सितारा
+111,Luft::N,awyr,हवा
+112,Luft::N,awyr,वायु
+113,Wind::N,gwynt,पाद
+114,Welle::N,ton,लहर
+115,Welle::N,ton,तरंग
+116,Wasser::N,dŵr,जल
+117,Wasser::N,dŵr,पानी
+118,Stein::N,carreg,पत्थर
+119,Boden::N,llawr,मिट्टी
+120,Erde::N,pridd,भूमि
+121,Erde::N,pridd,ज़मीन
+122,Staub::N,llwch,धूल
+123,Rauch::N,mwg,धूआँ
+124,Rauch::N,mwg,धुम्र
+125,Funke::N,gwreichioni,चिनगारी
+126,Funke::N,gwreichioni,स्फुलिंग
+127,Feuer::N,tân,आग
+128,Feuer::N,tân,आतिश
+129,Feuer::N,tân,अग्नि
+130,Licht::N,golau,रोशनी
+131,Licht::N,golau,प्रकाश
+132,Schatten::N,cysgod,छाया
+133,Schatten::N,cysgod,परछाई
+134,Wetter::N,tywydd,ऋतु
+135,Wetter::N,tywydd,मौसम
+136,Nebel::N,niwl,धुँध
+137,Nebel::N,niwl,कुहरा
+138,Wolke::N,cwmwl,मेघ
+139,Wolke::N,cwmwl,अभ्र
+140,Regen::N,glaw,मेंह
+141,Regen::N,glaw,बारिश
+142,Schnee::N,ôd,हिम
+143,Schnee::N,ôd,बर्फ़
+144,Schnee::N,eira,हिम
+145,Schnee::N,eira,बर्फ़
+146,Eis::N,iâ,हिम
+147,Eis::N,iâ,बर्फ़
+148,Frost::N,rhew,ठंड
+149,Kälte::N,oerni,सर्दी
+150,Kälte::N,oerni,शीतलता
+151,Kälte::N,annwyd,सर्दी
+152,Kälte::N,annwyd,शीतलता
+153,Hitze::N,gwres,ताप
+154,Hitze::N,gwres,गरमी
+155,Raureif::N,barrug,पाला
+156,Regenbogen::N,enfys,इंद्र-धनुष
+157,Donner::N,tyrfau,गरज
+158,Donner::N,tyrfau,मेघ-गर्जन
+159,Strömung::N,cerrynt,बहाव
+160,Strömung::N,cerrynt,प्रवाह
+161,Tropfen::N,dafn,बूँद
+162,Tropfen::N,diferyn,बूँद
+163,Schaum::N,ewyn,झाग
+164,Schmutz::N,baw,गंद
+165,Schmutz::N,baw,कीचड़
+166,Schmutz::N,budreddi,गंद
+167,Schmutz::N,budreddi,कीचड़
+168,See::N,llyn,झील
+169,See::N,llyn,सरोवर
+170,Sumpf::N,cors,दलदल
+171,Sumpf::N,cors,धँसान
+172,Moor::N,rhos,झाबर
+173,Moor::N,rhos,धँसान
+174,Wiese::N,dôl,घास-स्थल
+175,Wald::N,coedwig,जंगल
+176,Hügel::N,bryn,टीला
+177,Hügel::N,bryn,पहाड़
+178,Anhöhe::N,bryn,टीला
+179,Anhöhe::N,bryn,पहाड़ी
+180,Berg::N,mynydd,पहाड़
+181,Gipfel::N,copa,शिखर
+182,Höhle::N,ogof,गुहा
+183,Höhle::N,ogof,गुफ़ा
+184,Abhang::N,llethr,ढाल
+185,Abhang::N,llethr,ढलान
+186,Quelle::N,tarddiad,चश्मा
+187,Quelle::N,ffynhonnell,चश्मा
+188,Bach::N,nant,सोता
+189,Bach::N,nant,नदिका
+190,Bach::N,afonig,सोता
+191,Bach::N,afonig,नदिका
+192,Bach::N,cornant,सोता
+193,Bach::N,cornant,नदिका
+194,Fluss::N,afon,नदी
+195,Fluss::N,afon,सरिता
+196,Ufer::N,glan,तट
+197,Ufer::N,glan,किनारा
+198,Küste::N,traeth,समुद्र-तट
+199,Küste::N,arfordir,समुद्र-तट
+200,Festland::N,tir,महाद्वीप
+201,Meer::N,môr,सागर
+202,Meer::N,môr,समुद्र
+203,Bucht::N,bae,खाड़ी
+204,Insel::N,ynys,टापू
+205,Insel::N,ynys,द्वीप
+206,Blume::N,blodyn,फूल
+207,Blume::N,blodyn,पुष्प
+208,Gras::N,glaswellt,घास
+209,Wurzel::N,gwreiddyn,मूल
+210,Baum::N,coeden,पेड़
+211,Baum::N,coeden,वृक्ष
+212,Stamm::N,colfen,धड़
+213,Stamm::N,boncyff,धड़
+214,Rinde::N,rhisgl,छाल
+215,Rinde::N,rhisgl,वल्कल
+216,Ast::N,cangen,डाल
+217,Ast::N,cangen,शाखा
+218,Zweig::N,cainc,टहनी
+219,Zweig::N,cangen,टहनी
+220,Blatt::N,deilen,पत्र
+221,Blatt::N,deilen,पत्ता
+222,Birke::N,bedwen,भूर्ज
+223,Kiefer[Baum]::N,pinwydden,पाइन-वृक्ष
+224,Weide[Baum]::N,helygen,बेंत
+225,Tanne::N,ffynidwydden,फ़र
+226,Horn::N,corn,सींग
+227,Horn::N,corn,विषाण
+228,Feder::N,plufyn,पर
+229,Feder::N,plufyn,पंख
+230,Fell::N,ffwr,खाल
+231,Fell::N,ffwr,पशु-चर्म
+232,Flügel::N,adain,पंख
+233,Flügel::N,adain,डैना
+234,Klaue::N,crafanc,पंजा
+235,Kralle::N,ewin,पंजा
+236,Kralle::N,ewin,नाख़ून
+237,Schwanz::N,cwt,पूँछ
+238,Schwanz::N,cynffon,पूँछ
+239,Ei::N,wy,अंडा
+240,Nest::N,nyth,नीड़
+241,Nest::N,nyth,घोंसला
+242,Bau::N,ffau,बिल
+243,Bau::N,ffau,माँद
+244,Tier::N,anifail,पशु
+245,Tier::N,anifail,जानवर
+246,Herde::N,praidd,गल्ला
+247,Herde::N,diadell,गल्ला
+248,Kuh::N,buwch,गौ
+249,Kuh::N,buwch,गाय
+250,Bulle::N,tarw,साँड़
+251,Pferd::N,ceffyl,अश्व
+252,Pferd::N,ceffyl,घोड़ा
+253,Schaf::N,dafad,भेड़
+254,Schwein::N,mochyn,शूकर
+255,Hund::N,ci,श्वान
+256,Hund::N,ci,कुत्ता
+257,Katze::N,cath,बिल्ली
+258,Bär::N,arth,रीछ
+259,Bär::N,arth,भालू
+260,Eichhörnchen::N,gwiwer,गिलहरी
+261,Elch::N,elc,एल्क
+262,Fuchs::N,cadno,लोमड़ी
+263,Hase::N,ysgyfarnog,खरहा
+264,Hase::N,ysgyfarnog,ख़रगोश
+265,Maus::N,llygoden,मूष
+266,Maus::N,llygoden,चूहा
+267,Wolf::N,blaidd,वृक
+268,Wolf::N,blaidd,भेड़िया
+269,Vogel::N,aderyn,पक्षी
+270,Vogel::N,aderyn,चिड़िया
+271,Schwarm::N,haid,झुंड
+272,Huhn::N,cyw,मुर्ग़ी
+273,Hahn::N,ceiliog,मुर्ग़ा
+274,Gans::N,gŵydd,हंस
+275,Gans::N,gŵydd,हंसिनी
+276,Adler::N,eryr,उक़ाब
+277,Ente::N,hwyad,बतख़
+278,Ente::N,hwyad,बत्तक
+279,Eule::N,tylluan,उल्लू
+280,Kranich::N,garan,सारस
+281,Kranich::N,garan,क्रौंंच
+282,Kranich::N,crychydd,सारस
+283,Kranich::N,crychydd,क्रौंंच
+284,Krähe::N,brân,काक
+285,Kuckuck::N,cog,कोयल
+286,Kuckuck::N,cog,कोकिल
+287,Kuckuck::N,cwcw,कोयल
+288,Kuckuck::N,cwcw,कोकिल
+289,Schwan::N,alarch,हंस
+290,Schwan::N,alarch,मराल
+291,Fisch::N,pysgod,मछली
+292,Fisch::N,pysgod,मत्स्य
+293,Barsch::N,draenog,पर्च
+294,Hecht::N,penhwyad,पाइक
+295,Schlange[Tier]::N,neidr,सर्प
+296,Wurm::N,abwydyn,कृमि
+297,Wurm::N,abwydyn,कीड़ा
+298,Wurm::N,pryf genwair,कृमि
+299,Wurm::N,pryf genwair,कीड़ा
+300,Spinne::N,cor,लूता
+301,Spinne::N,cor,मकड़ी
+302,Spinne::N,pryf copyn,लूता
+303,Spinne::N,pryf copyn,मकड़ी
+304,Ameise::N,morgrugyn,चींटी
+305,Laus::N,lleuen,जूँ
+306,Mücke::N,gwybedyn,डाँस
+307,Fliege::N,cleren,मक्खी
+308,Fliege::N,cleren,मक्षिका
+309,Schmetterling::N,glöyn byw,तितली
+310,Schmetterling::N,iâr fach yr haf,तितली
+311,Beere::N,aeronen,बेरी
+312,Apfel::N,afal,सेब
+313,Pilz::N,madarch,खुंबी
+314,Zwiebel::N,nionyn,प्याज़
+315,Zwiebel::N,winwnsyn,प्याज़
+316,Saat::N,had,बीज
+317,Korn::N,grawn,दाना
+318,Heu::N,gwair,मूखी घास
+319,Schale::N,croen,बकला
+320,Schale::N,croen,छिलका
+321,Schale::N,plisgyn,बकला
+322,Schale::N,plisgyn,छिलका
+323,Grube::N,pwll,गड्ढा
+324,Grube::N,pydew,गड्ढा
+325,Falle::N,magl,जाल
+326,Falle::N,magl,फँदा
+327,Schlinge::N,cwlwm rhedeg,फँदा
+328,Spur::N,ôl,सुराग़
+329,Spur::N,ôl,पद-चिह्न
+330,Asche::N,lludw,राख
+331,Dreck::N,baw,मैल
+332,Dreck::N,baw,गंदगी
+333,Dreck::N,budreddi,मैल
+334,Dreck::N,budreddi,गंदगी
+335,Eisen::N,haearn,लोहा
+336,Gold::N,aur,सोना
+337,Gold::N,aur,स्वर्ण
+338,Silber::N,arian,रजत
+339,Silber::N,arian,चाँदी
+340,Kohle::N,glo,कोयला
+341,Glas::N,gwydr,काँच
+342,Lehm::N,clai,चिकनी मिट्टी
+343,Sand::N,tywod,रेत
+344,Sand::N,tywod,बालू
+345,Mensch::N,dyn,मानव
+346,Mensch::N,dyn,इनसान
+347,Mensch::N,dyn,मनुष्य
+348,Mann::N,dyn,आदमी
+349,Mann::N,dyn,पुरुष
+350,Frau::N,merch,औरत
+351,Frau::N,merch,महिला
+352,Frau::N,merch,स्त्री
+353,Frau::N,gwraig,औरत
+354,Frau::N,gwraig,महिला
+355,Frau::N,gwraig,स्त्री
+356,Kind::N,plentyn,बाल
+357,Kind::N,plentyn,बच्चा
+358,Junge::N,hogyn,लड़का
+359,Junge::N,bachgen,लड़का
+360,Mädchen::N,merch,लड़की
+361,Mädchen::N,merch,कुमारी
+362,Mädchen::N,geneth,लड़की
+363,Mädchen::N,geneth,कुमारी
+364,Familie::N,teulu,परिवार
+365,Familie::N,tylwyth,परिवार
+366,Großvater::N,taid,दादा
+367,Großvater::N,tad-cu,दादा
+368,Großmutter::N,nain,नानी
+369,Großmutter::N,mam-gu,नानी
+370,Eltern::N,rhieni,माँ-बाप
+371,Eltern::N,rhieni,माता-पिता
+372,Vater::N,tad,बाप
+373,Vater::N,tad,पिता
+374,Mutter::N,mam,माँ
+375,Mutter::N,mam,माता
+376,Sohn::N,mab,बेटा
+377,Sohn::N,mab,पुत्र
+378,Tochter::N,merch,बेटी
+379,Tochter::N,merch,पुत्री
+380,Bruder::N,brawd,भाई
+381,Bruder::N,brawd,भ्राता
+382,Schwester::N,chwaer,बहन
+383,Schwester::N,chwaer,भगिनी
+384,Onkel::N,ewythr,ताऊ
+385,Onkel::N,ewythr,काका
+386,Tante::N,modryb,बूआ
+387,Tante::N,modryb,फूफी
+388,Tante::N,modryb,ख़ाला
+389,Ehemann::N,gŵr,पति
+390,Ehemann::N,gŵr,शौहर
+391,Ehefrau::N,gwraig,बीवी
+392,Freude::N,gorfoledd,आनंद
+393,Freude::N,gorfoledd,प्रसन्नता
+394,Gelächter::N,chwerthin,हँसी
+395,Gelächter::N,chwerthin,क़हक़हा
+396,Glück::N,hapusrwydd,आनंद
+397,Glück::N,hapusrwydd,ख़ुशी
+398,Kummer::N,galar,शोक
+399,Kummer::N,galar,दुःख
+400,Wunsch::N,dymuniad,इच्छा
+401,Wunsch::N,dymuniad,अभिलाषा
+402,Lust::N,chwant,चाह
+403,Lust::N,chwant,कामना
+404,Geist::N,ysbryd,जान
+405,Geist::N,ysbryd,प्राण
+406,Gedanke::N,meddwl,विचार
+407,Gedächtnis::N,cof,याददाश्त
+408,Gedächtnis::N,cof,स्मरण-शक्ति
+409,Verstand::N,meddwl,समझ
+410,Verstand::N,meddwl,अक़्ल
+411,Verstand::N,meddwl,बुद्धि
+412,Sinn::N,ystyr,अर्थ
+413,Grund::N,achos,वजह
+414,Grund::N,achos,कारण
+415,Grund::N,rheswm,वजह
+416,Grund::N,rheswm,कारण
+417,Wahrheit::N,gwir,सत्य
+418,Wahrheit::N,gwir,सच्चाई
+419,Wahrheit::N,gwirionedd,सत्य
+420,Wahrheit::N,gwirionedd,सच्चाई
+421,Gespräch::N,sgwrs,चर्चा
+422,Gespräch::N,sgwrs,वार्ता
+423,Gespräch::N,sgwrs,बात-चीत
+424,Märchen::N,chwedl werin,क़िस्सा
+425,Erzählung::N,stori,कथा
+426,Erzählung::N,stori,कहानी
+427,Nachricht::N,neges,सूचना
+428,Nachricht::N,neges,समाचार
+429,Neuigkeit::N,newydd,ख़बर
+430,Neuigkeit::N,newydd,समाचार
+431,Name::N,enw,नाम
+432,Rätsel::N,pos,पहेली
+433,Rede::N,araith,वचन
+434,Rede::N,araith,भाषण
+435,Sprache::N,iaith,भाषा
+436,Sprache::N,iaith,ज़बान
+437,Stimme::N,llais,स्वर
+438,Stimme::N,llais,आवाज़
+439,Wort::N,gair,शब्द
+440,Wort::N,gair,लफ़्ज़
+441,Zeichen::N,arwydd,निशान
+442,Ruf::N,galwad,पुकार
+443,Ruf::N,galwad,आह्वान
+444,Lärm::N,trwst,शोर
+445,Lärm::N,trwst,हुल्लड़
+446,Laut::N,sain,स्वर
+447,Laut::N,sain,ध्वनि
+448,Ton::N,tôn,सुर
+449,Ton::N,tôn,स्वर
+450,Lied::N,cân,गीत
+451,Ruhe::N,tawelwch,आराम
+452,Ruhe::N,tawelwch,ख़ामोशी
+453,Leute::N,pobl,लोग
+454,Volk::N,pobl,क़ौम
+455,Volk::N,pobl,प्रजा
+456,Arbeit::N,gwaith,काम
+457,Gast::N,gwestai,अतिथि
+458,Gast::N,gwestai,मेहमान
+459,Geschenk::N,rhodd,उपहार
+460,Geschenk::N,rhodd,तोहफ़ा
+461,Geschenk::N,anrheg,उपहार
+462,Geschenk::N,anrheg,तोहफ़ा
+463,Spiel::N,chwarae,खेल
+464,Spiel::N,chwarae,क्रीड़ा
+465,Gesellschaft::N,cwmni,साथ
+466,Hilfe::N,cymorth,मदद
+467,Hilfe::N,cymorth,सहायता
+468,Freund::N,cyfaill,मित्र
+469,Kamerad::N,cydymaith,साथी
+470,Kamerad::N,cydymaith,कामरेड
+471,Angelegenheit::N,pwnc,बात
+472,Angelegenheit::N,pwnc,मामला
+473,Anzahl::N,cyfrif,तादाद
+474,Anzahl::N,cyfrif,संख्या
+475,Art::N,bath,तरह
+476,Art::N,bath,क़िस्म
+477,Stück::N,darn,फाँक
+478,Stück::N,darn,टुकड़ा
+479,Teil::N,rhan,भाग
+480,Teil::N,rhan,हिस्सा
+481,Hälfte::N,hanner,अर्धभाग
+482,Kreis::N,cylch,चक्कर
+483,Kreuz::N,croes,सलीब
+484,Kreuz::N,croes,क्रूस
+485,Linie::N,llinell,लाइन
+486,Strich::N,strôc,लकीर
+487,Strich::N,trawiad,लकीर
+488,Abstand::N,bwlch,अंतर
+489,Abstand::N,bwlch,फ़ासला
+490,Abstand::N,pellter,अंतर
+491,Abstand::N,pellter,फ़ासला
+492,Entfernung::N,pellter,दूरी
+493,Entfernung::N,pellter,फ़ासला
+494,Gegend::N,cylch,इलाक़ा
+495,Platz::N,lle,जगह
+496,Platz::N,lle,स्थान
+497,Ort::N,lle,स्थल
+498,Ort::N,lle,स्थान
+499,Seite::N,ochr,ओर
+500,Seite::N,ochr,तरफ़
+501,Mitte::N,canol,बीच
+502,Mitte::N,canol,मध्य
+503,Gegenstand::N,eitem,चीज़
+504,Gegenstand::N,eitem,पदार्थ
+505,Sache::N,peth,चीज़
+506,Sache::N,peth,वस्तु
+507,Rand::N,cwr,छोर
+508,Rand::N,cwr,उपांत
+509,Rand::N,ymyl,छोर
+510,Rand::N,ymyl,उपांत
+511,Kante::N,min,कोर
+512,Kante::N,min,किनारा
+513,Kante::N,ymyl,कोर
+514,Kante::N,ymyl,किनारा
+515,Ecke::N,cornel,कोना
+516,Ecke::N,cornel,नुक्कड़
+517,Spitze::N,blaen,नोक
+518,Ende::N,pen,छोर
+519,Ende::N,pen,सिरा
+520,Loch::N,twll,छेद
+521,Loch::N,twll,सूराख़
+522,Winkel::N,congl,कोण
+523,Winkel::N,congl,कोना
+524,Muster::N,patrwm,नमूना
+525,Muster::N,patrwm,डिज़ाइन
+526,Größe::N,maint,परिमाण
+527,Größe::N,maint,विस्तार
+528,Größe::N,maintioli,परिमाण
+529,Größe::N,maintioli,विस्तार
+530,Länge::N,hyd,लंबाई
+531,Höhe::N,uchder,ऊँचाई
+532,Höhe::N,uchder,उच्चता
+533,Gewicht::N,pwysau,भार
+534,Gewicht::N,pwysau,वज़न
+535,Menge::N,swm,मात्रा
+536,Menge::N,maint,मात्रा
+537,Haufen::N,pentwr,ढेर
+538,Haufen::N,pentwr,अंबार
+539,Reihe::N,rhes,क़तार
+540,Reihe::N,rhes,पंक्ति
+541,Boot::N,cwch,नाव
+542,Boot::N,cwch,नौका
+543,Ruder::N,rhwyf,चप्पू
+544,Schlitten::N,sled,बर्फ़-गाड़ी
+545,Schlitten::N,car llusg,बर्फ़-गाड़ी
+546,Ski::N,sgi,स्की
+547,Lagerfeuer::N,coelcerth,अलाव
+548,Lagerfeuer::N,coelcerth,कैंप-फ़ायर
+549,Last::N,llwyth,भार
+550,Gang::N,tro,चाल
+551,Schritt::N,cam,डग
+552,Schritt::N,cam,क़दम
+553,Norden::N,gogledd,उत्तर
+554,Süden::N,de,दक्खिन
+555,Westen::N,gorllewin,पश्चिम
+556,Osten::N,dwyrain,पूरब
+557,Holz::N,pren,काठ
+558,Holz::N,pren,काष्ठ
+559,Brett::N,bwrdd,पटरा
+560,Brett::N,bwrdd,तख़्ता
+561,Brett::N,astell,पटरा
+562,Brett::N,astell,तख़्ता
+563,Platte::N,llech,फलक
+564,Platte::N,llech,तख़्ता
+565,Stütze::N,ateg,टेक
+566,Stütze::N,ateg,थूनी
+567,Stütze::N,cynhalydd,टेक
+568,Stütze::N,cynhalydd,थूनी
+569,Stange::N,polyn,छड़
+570,Stange::N,polyn,बाँस
+571,Stock::N,ffon,लाठी
+572,Stock::N,brigyn,लाठी
+573,Stab::N,ffon,लग्गा
+574,Rohr::N,pibell,नल
+575,Haus::N,tŷ,घर
+576,Haus::N,tŷ,मकान
+577,Heim::N,cartref,घर
+578,Heim::N,cartref,गृह
+579,Ofen::N,stof,चूल्हा
+580,Fußboden::N,llawr,फ़र्श
+581,Tisch::N,bwrdd,मेज़
+582,Stuhl::N,cadair,कुरसी
+583,Wiege::N,crud,पालना
+584,Wiege::N,crud,हिंडोला
+585,Bett::N,gwely,खाट
+586,Bett::N,gwely,पलंग
+587,Regal::N,silff,शेल्फ़
+588,Kiste::N,bocs,पेटी
+589,Kiste::N,bocs,डिब्बा
+590,Kiste::N,blwch,पेटी
+591,Kiste::N,blwch,डिब्बा
+592,Fenster::N,ffenestr,खिड़की
+593,Tür::N,drws,द्वार
+594,Tür::N,drws,दरवाज़ा
+595,Tor::N,porth,फाटक
+596,Zaun::N,ffens,बाड़ा
+597,Dach::N,to,छत
+598,Dach::N,to,छप्पर
+599,Leiter::N,ysgol,सीढ़ी
+600,Besen::N,ysgub,झाड़ू
+601,Besen::N,ysgub,बुहारी
+602,Spaten::N,rhaw,कुदाल
+603,Schaufel::N,rhaw,बेलचा
+604,Schaufel::N,rhaw,फावड़ा
+605,Gabel::N,fforc,काँटा
+606,Löffel::N,llwy,चम्मच
+607,Messer::N,cyllell,छुरा
+608,Messer::N,cyllell,चाक़ू
+609,Nagel::N,hoel,कील
+610,Nagel::N,hoel,मेख़
+611,Netz::N,gwe,जाल
+612,Netz::N,rhwyd,जाल
+613,Haken::N,bach,अंकुश
+614,Griff::N,carn,मूठ
+615,Griff::N,carn,हत्था
+616,Schloss::N,clo,ताला
+617,Bild::N,llun,चित्र
+618,Bild::N,pictiwr,चित्र
+619,Figur::N,ffigur,मूर्ति
+620,Puppe::N,dol,पुतली
+621,Puppe::N,dol,गुड़िया
+622,Beutel::N,cwd,झोला
+623,Bündel::N,bwndel,पुलिंदा
+624,Bündel::N,coflaid,पुलिंदा
+625,Tasche::N,cod,बेग
+626,Tasche::N,cod,बस्ता
+627,Eimer::N,bwced,बाल्टी
+628,Eimer::N,cunnog,बाल्टी
+629,Deckel::N,caead,ढक्कन
+630,Geschirr::N,llestri,बरतन-भाँड़े
+631,Sack::N,sach,बोरा
+632,Tasse::N,cwpan,प्याला
+633,Topf::N,pot,देग़चा
+634,Topf::N,crochan,देग़चा
+635,Kessel::N,tegell,देग़
+636,Kessel::N,tegell,बटलोई
+637,Essen::N,pryd o fwyd,खाना
+638,Nahrung::N,bwyd,भोजन
+639,Speise::N,saig,खाना
+640,Speise::N,saig,व्यंजन
+641,Fleisch::N,cig,मांस
+642,Fleisch::N,cig,गोश्त
+643,Getreide::N,ŷd,अनाज
+644,Getreide::N,llafur,अनाज
+645,Brei::N,uwd,भरता
+646,Brei::N,uwd,दलिया
+647,Brot::N,bara,रोटी
+648,Scheibe::N,tafell,कतला
+649,Fett::N,saim,वसा
+650,Fett::N,saim,चरबी
+651,Fett::N,braster,वसा
+652,Fett::N,braster,चरबी
+653,Butter::N,ymenyn,मक्खन
+654,Öl::N,olew,तेल
+655,Salz::N,halen,नमक
+656,Suppe::N,cawl,सूप
+657,Suppe::N,cawl,शोरबा
+658,Honig::N,mêl,शहद
+659,Milch::N,llaeth,दूध
+660,Milch::N,llefrith,दूध
+661,Tee::N,te,चाय
+662,Leder::N,lledr,चमड़ा
+663,Wolle::N,gwlân,ऊन
+664,Stoff::N,lliain,कपड़ा
+665,Stoff::N,brethyn,कपड़ा
+666,Nadel::N,nodwydd,सूई
+667,Faden::N,edau,डोरा
+668,Faden::N,edefyn,डोरा
+669,Knopf::N,botwm,बटन
+670,Knopf::N,botwm,घुंडी
+671,Knoten::N,cwlwm,गाँठ
+672,Knoten::N,cwlwm,गुत्थी
+673,Farbe::N,paent,रंग
+674,Farbe::N,paent,वर्ण
+675,Kleidung::N,dillad,पहनावा
+676,Kleidung::N,gwisgoedd,पहनावा
+677,Hemd::N,crys,कुरता
+678,Hemd::N,crys,क़मीज़
+679,Kragen::N,coler,गरदनी
+680,Kragen::N,coler,गरेबान
+681,Ärmel::N,llawes,आस्तीन
+682,Hose::N,trowsus,पैंट
+683,Hose::N,trowsus,पतलून
+684,Gürtel::N,gwregys,पेटी
+685,Gürtel::N,gwregys,मेखला
+686,Mütze::N,cap,टोपी
+687,Schuh::N,esgid,जूता
+688,Stiefel::N,botasen,बूट
+689,Ring::N,modrwy,अँगूठी
+690,Band::N,rhuban,पट्टी
+691,Kamm::N,crib,कंघी
+692,Spiegel::N,drych,आईना
+693,Spiegel::N,drych,दर्पण
+694,Riemen::N,strap,तसमा
+695,Riemen::N,strap,पट्टा
+696,Schnur::N,llinyn,डोरी
+697,Schnur::N,llinyn,सुतली
+698,Leine::N,tennyn,रस्सी
+699,Decke::N,blanced,रज़ाई
+700,Decke::N,gwrthban,रज़ाई
+701,Kissen::N,clustog,तकिया
+702,Kissen::N,clustog,गाद्दा
+703,Kissen::N,gobennydd,तकिया
+704,Kissen::N,gobennydd,गाद्दा
+705,Tuch::N,sgarff,रूमाल
+706,Tuch::N,sgarff,वस्त्र
+707,Handtuch::N,tywel,अँगोछा
+708,Handtuch::N,lliain sychu,अँगोछा
+709,Kraft::N,grym,ज़ोर
+710,Kraft::N,grym,शक्ति
+711,Stärke::N,nerth,बल
+712,Stärke::N,nerth,ताक़त
+713,Stärke::N,cryfder,बल
+714,Stärke::N,cryfder,ताक़त
+715,Gesundheit::N,iechyd,स्वास्थ्य
+716,Gesundheit::N,iechyd,तंदुरुस्ती
+717,Krankheit::N,afiechyd,रोग
+718,Krankheit::N,afiechyd,बीमारी
+719,Krankheit::N,anhwylder,रोग
+720,Krankheit::N,anhwylder,बीमारी
+721,Schmerz::N,poen,दर्द
+722,Schmerz::N,poen,पीड़ा
+723,Schmerz::N,gwayw,दर्द
+724,Schmerz::N,gwayw,पीड़ा
+725,Wunde::N,clwyf,घाव
+726,Wunde::N,clwyf,ज़ख़्म
+727,Fieber::N,twymyn,ज्वर
+728,Fieber::N,twymyn,बुख़ार
+729,Arznei::N,meddyginiaeth,दवा
+730,Arznei::N,meddyginiaeth,औषाधि
+731,Brücke::N,pont,पुल
+732,Brücke::N,pont,सेतु
+733,Brunnen::N,ffynnon,कुआँ
+734,Weide::N,porfa,चरागाह
+735,Pfad::N,llwybr,पथ
+736,Pfad::N,llwybr,पगडंडी
+737,Weg::N,ffordd,मार्ग
+738,Straße::N,heol,राह
+739,Straße::N,heol,रास्ता
+740,Straße::N,ffordd,राह
+741,Straße::N,ffordd,रास्ता
+742,Dorf::N,pentref,गाँव
+743,Dorf::N,pentref,ग्राम
+744,Stadt::N,tref,शहर
+745,Brief::N,llythyr,ख़त
+746,Brief::N,llythyr,पत्र
+747,Brief::N,llythyr,चिट्ठी
+748,Buch::N,llyfr,किताब
+749,Buch::N,llyfr,पुस्तक
+750,Buchstabe::N,llythyren,अक्षर
+751,Zeitung::N,papur newydd,अख़बार
+752,Zeitung::N,papur newydd,समाचार-पत्र
+753,Leben::N,bywyd,जीवन
+754,Leben::N,bywyd,ज़िंदगी
+755,Tod::N,marwolaeth,मौत
+756,Tod::N,marwolaeth,मृत्यु
+757,Grab::N,bedd,क़ब्र
+758,Kirche::N,eglwys,चर्च
+759,Kirche::N,eglwys,गिरजा
+760,Sünde::N,pechod,पाप
+761,Sünde::N,pechod,गुनाह
+762,Gott::N,duw,देव
+763,Gott::N,duw,ईश्वर
+764,Arbeiter::N,gweithiwr,मज़दूर
+765,Chef::N,pennaeth,अध्यक्ष
+766,Meister::N,meistr,शिल्पज्ञ
+767,Arzt::N,meddyg,वैद्य
+768,Arzt::N,meddyg,डॉक्टर
+769,Arzt::N,meddyg,चिकित्सक
+770,Lehrer::N,athro,शिक्षक
+771,Lehrer::N,athro,अध्यापक
+772,Geld::N,pres,धन
+773,Geld::N,pres,पैसा
+774,Geld::N,arian,धन
+775,Geld::N,arian,पैसा
+776,Geschäft::N,busnes,सौदा
+777,Geschäft::N,busnes,व्यापार
+778,Laden::N,siop,दुकान
+779,Preis::N,pris,दाम
+780,Preis::N,pris,मूल्य
+781,Ware::N,nwydd,माल
+782,Ware::N,nwydd,पण्य
+783,Nutzen::N,elw,लाभ
+784,Nutzen::N,elw,फ़ायदा
+785,Nutzen::N,budd,लाभ
+786,Nutzen::N,budd,फ़ायदा
+787,Reichtum::N,cyfoeth,धन
+788,Reichtum::N,cyfoeth,दौलत
+789,Welt::N,byd,विश्व
+790,Welt::N,byd,दुनिया
+791,Land::N,gwlad,देश
+792,Land::N,gwlad,मुल्क
+793,Staat::N,gwladwriaeth,राज्य
+794,Staat::N,gwladwriaeth,राष्ट्र
+795,König::N,brenin,राजा
+796,König::N,brenin,बादशाह
+797,Macht::N,grym,शासन
+798,Macht::N,grym,सत्ता
+799,Macht::N,awdurdod,शासन
+800,Macht::N,awdurdod,सत्ता
+801,Grenze::N,ffin,सरहद
+802,Grenze::N,goror,सरहद
+803,Krieg::N,rhyfel,जंग
+804,Krieg::N,rhyfel,युद्ध
+805,Feind::N,gelyn,शत्रु
+806,Feind::N,gelyn,दुश्मन
+807,Gewalt::N,ffyrnigrwydd,हिंसा
+808,Kampf::N,brwydr,लड़ाई
+809,Kampf::N,brwydr,संघर्ष
+810,Bogen[Waffe]::N,bwa,कमान
+811,Pfeil::N,saeth,बान
+812,Gewehr::N,dryll,बंदूक़
+813,Fehler::N,gwall,भूल
+814,Fehler::N,gwall,ग़लती
+815,Fehler::N,camgymeriad,भूल
+816,Fehler::N,camgymeriad,ग़लती
+817,Lüge::N,celwydd,झूठ
+818,Lüge::N,celwydd,असत्य
+819,Lüge::N,anwiredd,झूठ
+820,Lüge::N,anwiredd,असत्य
+821,Schaden::N,niwed,हानि
+822,Schaden::N,niwed,नुक़सान
+823,Schaden::N,difrod,हानि
+824,Schaden::N,difrod,नुक़सान
+825,Unglück::N,anffawd,मुसीबत
+826,Unglück::N,anffawd,विपात्ति
+827,Schuld::N,bai,दोष
+828,Schuld::N,bai,क़सूर
+829,Alter::N,oed,आयु
+830,Alter::N,oed,उम्र
+831,Schluss::N,diwedd,अंत
+832,Schluss::N,diwedd,समाप्ति
+833,Zeit::N,amser,काल
+834,Zeit::N,amser,वक़्त
+835,Tag::N,dydd,दिन
+836,Tag::N,dydd,रोज़
+837,Tag::N,diwrnod,दिन
+838,Tag::N,diwrnod,रोज़
+839,Morgen::N,bore,सुबह
+840,Mittag::N,nawn,दोपहर
+841,Mittag::N,nawn,मध्याह्न
+842,Abend::N,noswaith,शाम
+843,Abend::N,noswaith,संध्या
+844,Nacht::N,nos,रात
+845,Nacht::N,nos,रात्रि
+846,Woche::N,wythnos,हफ़्ता
+847,Monat::N,mis,मास
+848,Monat::N,mis,महीना
+849,Jahr::N,blwyddyn,बरस
+850,Jahr::N,blwyddyn,वर्ष
+851,Frühling::N,gwanwyn,वसंत
+852,Sommer::N,haf,गरमी
+853,Sommer::N,haf,ग्रीष्म
+854,Herbst::N,hydref,शरत्
+855,Herbst::N,hydref,पतझड़
+856,Winter::N,gaeaf,जाड़ा
+857,Winter::N,gaeaf,सर्दियाँ
+858,Januar::N,Ionawr,जनवरी
+859,Februar::N,Chwefror,फ़रवरी
+860,März::N,Mawrth,मार्च
+861,April::N,Ebrill,अप्रैल
+862,Mai::N,Mai,मई
+863,Juni::N,Mehefin,जून
+864,Juli::N,Gorffennaf,जुलाई
+865,August::N,Awst,अगस्त
+866,September::N,Medi,सितंबर
+867,Oktober::N,Hydref,अक्तूबर
+868,November::N,Tachwedd,नवंबर
+869,Dezember::N,Rhagfyr,दिसंबर
+870,Montag::N,dydd Llun,पीर
+871,Montag::N,dydd Llun,सोमवार
+872,Dienstag::N,dydd Mawrth,मंगलवार
+873,Mittwoch::N,dydd Mercher,बुधवार
+874,Donnerstag::N,dydd Iau,गुरुवार
+875,Donnerstag::N,dydd Iau,बृहस्पतिवार
+876,Freitag::N,dydd Gwener,शुक्रवार
+877,Samstag::N,dydd Sadwrn,सनीचर
+878,Samstag::N,dydd Sadwrn,शनिवार
+879,Sonntag::N,dydd Sul,इतवार
+880,Sonntag::N,dydd Sul,रविवार
+881,groß::A,mawr,बड़ा
+882,klein::A,bach,कम
+883,klein::A,bach,छोटा
+884,lang::A,hir,लंबा
+885,lang::A,hir,दीर्घ
+886,kurz::A,byr,लधु
+887,kurz::A,byr,छोटा
+888,kurz::A,cwta,लधु
+889,kurz::A,cwta,छोटा
+890,breit::A,llydan,चौड़ा
+891,schmal::A,cul,तंग
+892,schmal::A,cul,सँकरा
+893,dicht::A,dwys,सघन
+894,dick[Gegenstand]::A,trwchus,मोटा
+895,dünn::A,tenau,महीन
+896,dünn::A,tenau,बारीक
+897,fein::A,main,कोमल
+898,fein::A,main,सूक्ष्म
+899,fest::A,cadarn,दृढ़
+900,fest::A,cadarn,मज़बूत
+901,flach::A,gwastad,चपटा
+902,glatt::A,llyfn,चौरस
+903,glatt::A,llyfn,चिकना
+904,hart::A,caled,कठोर
+905,hart::A,caled,सख़्त
+906,weich::A,meddal,नरम
+907,weich::A,meddal,मुलायम
+908,rund::A,crwn,गोल
+909,rund::A,crwn,वर्तुल
+910,spitz::A,pigfain,नुकीला
+911,scharf::A,miniog,पैना
+912,stumpf::A,pŵl,भोथरा
+913,schwer::A,trwm,भारी
+914,schwer::A,trwm,वज़नी
+915,schön::A,teg,सुंदर
+916,schön::A,hardd,सुंदर
+917,schön::A,prydferth,सुंदर
+918,heiß::A,poeth,उष्ण
+919,warm::A,twym,गरम
+920,warm::A,cynnes,गरम
+921,kalt::A,oer,सर्द
+922,kühl::A,oeraidd,ठंडा
+923,frisch::A,iach,तर
+924,frisch::A,iach,ताज़ा
+925,feucht::A,llaith,नम
+926,feucht::A,llaith,भीगा
+927,nass::A,gwlyb,गीला
+928,trocken::A,sych,सूखा
+929,trocken::A,sych,ख़ुश्क
+930,voll::A,llawn,भरा
+931,voll::A,llawn,पूरा
+932,leer::A,gwag,ख़ाली
+933,offen::A,agored,खुला
+934,geschlossen::A,caead,बंद
+935,geschlossen::A,caeëdig,बंद
+936,sauber::A,glân,साफ़
+937,sauber::A,glân,सुथरा
+938,schmutzig::A,budr,गंदा
+939,schmutzig::A,brwnt,गंदा
+940,roh::A,amrwd,कच्चा
+941,reif::A,aeddfed,पक्व
+942,reif::A,aeddfed,पक्का
+943,lecker::A,blasus,मज़ेदार
+944,lecker::A,blasus,स्वादिष्ट
+945,lecker::A,danteithiol,मज़ेदार
+946,lecker::A,danteithiol,स्वादिष्ट
+947,süß::A,melys,मीठा
+948,bitter::A,chwerw,कटु
+949,bitter::A,chwerw,कड़वा
+950,sauer::A,sur,खट्टा
+951,hell::A,disglair,रोशन
+952,dunkel::A,tywyll,अँधेरा
+953,schwarz::A,du,काला
+954,schwarz::A,du,स्याह
+955,weiß::A,gwyn,सफ़ेद
+956,rot::A,coch,लाल
+957,rot::A,coch,सुर्ख़
+958,gelb::A,melyn,पीला
+959,gelb::A,melyn,ज़र्द
+960,blau::A,glas,नीला
+961,blau::A,glas,आसमानी
+962,grün::A,gwyrdd,हरा
+963,grau::A,llwyd,धूसर
+964,bunt::A,lliwgar,रंगीन
+965,bunt::A,lliwgar,बहुरंगा
+966,billig::A,rhad,सस्ता
+967,teuer::A,drud,महँगा
+968,wertvoll::A,gwerthfawr,क़ीमती
+969,wertvoll::A,gwerthfawr,मूल्यवान्
+970,blind::A,dall,अंधा
+971,taub::A,byddar,बहरा
+972,kräftig::A,nerthol,ताक़तवर
+973,kräftig::A,nerthol,शक्तिशाली
+974,kräftig::A,grymus,ताक़तवर
+975,kräftig::A,grymus,शक्तिशाली
+976,stark::A,cryf,प्रबल
+977,stark::A,cryf,बलवान्
+978,stark::A,cadarn,प्रबल
+979,stark::A,cadarn,बलवान्
+980,schwach::A,gwan,कमज़ोर
+981,fett::A,tew,मोटा
+982,fett::A,tew,मांसल
+983,schlank::A,main,पतला
+984,schlank::A,main,छरहरा
+985,hübsch::A,tlws,सुंदर
+986,hübsch::A,tlws,ख़ूबसूरत
+987,böse::A,drwg,पापी
+988,böse::A,drwg,दुष्ट
+989,dumm::A,twp,मूर्ख
+990,dumm::A,twp,बुद्धू
+991,faul::A,diog,आलसी
+992,faul::A,diog,सुस्त
+993,fleißig::A,dyfal,मेहनती
+994,fleißig::A,dyfal,परिश्रमी
+995,geizig::A,crintach,कृपण
+996,geizig::A,crintach,कंजूस
+997,geizig::A,cybyddlyd,कृपण
+998,geizig::A,cybyddlyd,कंजूस
+999,klug::A,deallus,समझदार
+1000,klug::A,deallus,होशियार
+1001,klug::A,deallus,अक़्लमंद
+1002,geschickt::A,medrus,किशल
+1003,geschickt::A,deheuig,किशल
+1004,lieb::A,hoff,प्रिय
+1005,lieb::A,hoff,प्यारा
+1006,lieb::A,annwyl,प्रिय
+1007,lieb::A,annwyl,प्यारा
+1008,lustig::A,llon,हँसमुख
+1009,lustig::A,llon,ख़ुशदिल
+1010,sanft::A,mwyn,नम्र
+1011,hungrig::A,newynog,भूखा
+1012,krank::A,sâl,बीमार
+1013,krank::A,sâl,अस्वस्थ
+1014,krank::A,gwael,बीमार
+1015,krank::A,gwael,अस्वस्थ
+1016,nackt::A,noeth,नग्न
+1017,traurig::A,trist,उदास
+1018,traurig::A,trist,रंजीदा
+1019,lebendig::A,yn fyw,जीता
+1020,lebendig::A,yn fyw,ज़िंदा
+1021,gut::A,da,अच्छा
+1022,schlecht::A,drwg,बुरा
+1023,schlecht::A,drwg,ख़राब
+1024,schlecht::A,gwael,बुरा
+1025,schlecht::A,gwael,ख़राब
+1026,richtig::A,cywir,ठीक
+1027,schlimm::A,enbyd,बुरा
+1028,schlimm::A,enbyd,अप्रिय
+1029,wahr::A,gwir,सच
+1030,alt::A,hen,पुराना
+1031,neu::A,newydd,नया
+1032,ehemalig::A,blaenorol,भूतपूर्व
+1033,alt[Lebewesen]::A,oedrannus,बूढ़ा
+1034,alt[Lebewesen]::A,oedrannus,वृद्ध
+1035,jung::A,ifanc,जवान
+1036,arm::A,tlawd,ग़रीब
+1037,reich::A,cyfoethog,धनी
+1038,reich::A,cyfoethog,अमीर
+1039,bekannt::A,cynefin,मालूम
+1040,bekannt::A,cyfarwydd,मालूम
+1041,berühmt::A,enwog,मशहूर
+1042,berühmt::A,enwog,प्रसिद्ध
+1043,fremd::A,estron,विदेशी
+1044,fremd::A,estron,अपरिचित
+1045,verschieden::A,gwahanol,अलग
+1046,verschieden::A,gwahanol,भिन्न
+1047,nah::A,agos,नज़दीकी
+1048,fern::A,pell,दूर
+1049,fern::A,pell,दूरस्थ
+1050,linker::A,aswy,बायाँ
+1051,linker::A,chwith,बायाँ
+1052,rechter::A,de,दायाँ
+1053,rechter::A,de,दाहिना
+1054,rechter::A,deau,दायाँ
+1055,rechter::A,deau,दाहिना
+1056,anderer::A,arall,अन्य
+1057,anderer::A,arall,दूसरा
+1058,erster::A,cyntaf,पहला
+1059,erster::A,cyntaf,प्रथम
+1060,zweiter::A,ail,दूसरा
+1061,zweiter::A,ail,द्वितीय
+1062,dritter::A,trydydd,तीसरा
+1063,letzter::A,olaf,अंतिम
+1064,letzter::A,olaf,आख़िरी
+1065,allein::ADV,unig,तनहा
+1066,allein::ADV,unig,अकेले
+1067,allein::ADV,ar ei ben ei hun,तनहा
+1068,allein::ADV,ar ei ben ei hun,अकेले
+1069,auf einmal::ADV,ar yr un pryd,वक़्त में
+1070,zusammen::ADV,ynghyd,एक साथ
+1071,zusammen::ADV,ynghyd,साथ साथ
+1072,zusammen::ADV,gyda'i gilydd,एक साथ
+1073,zusammen::ADV,gyda'i gilydd,साथ साथ
+1074,lange::ADV,amser hir,देर तक
+1075,plötzlich::ADV,yn sydyn,सहसा
+1076,plötzlich::ADV,yn sydyn,अचानक
+1077,sofort::ADV,ar unwaith,तुरंत
+1078,später::ADV,yn ddiweddarach,बाद को
+1079,später::ADV,yn ddiweddarach,बाद में
+1080,jetzt::ADV,yn awr,अब
+1081,jetzt::ADV,yn awr,अभी
+1082,heute::ADV,heddiw,आज
+1083,morgen::ADV,yfory,कल
+1084,bald::ADV,yn fuan,जल्दी
+1085,bald::ADV,gyda hyn,जल्दी
+1086,dann::ADV,yna,तब
+1087,dann::ADV,y pryd hwnnw,तब
+1088,gestern::ADV,ddoe,कल
+1089,einst::ADV,gynt,एक दिन
+1090,einst::ADV,gynt,पहले कभी
+1091,damals::ADV,ar y pryd,उस समय
+1092,damals::ADV,ar y pryd,उन दिनों
+1093,damals::ADV,bryd hynny,उस समय
+1094,damals::ADV,bryd hynny,उन दिनों
+1095,danach::ADV,wedyn,इसके बाद
+1096,danach::ADV,wedyn,इसके पश्चात्
+1097,vorher::ADV,o'r blaen,पहले
+1098,vorher::ADV,o'r blaen,पेशतर
+1099,zuerst::ADV,yn gyntaf,पहले
+1100,einmal::ADV,unwaith,एक बार
+1101,einmal::ADV,unwaith,एक दफ़ा
+1102,manchmal::ADV,weithiau,कभी कभी
+1103,manchmal::ADV,ar brydiau,कभी कभी
+1104,oft::ADV,yn aml,अक्सर
+1105,oft::ADV,yn fynych,अक्सर
+1106,immer::ADV,bob amser,सदा
+1107,immer::ADV,bob amser,हमेशा
+1108,niemals::ADV,ni ... byth,कभी नहीं
+1109,niemals::ADV,ni ... byth,कदापि नहीं
+1110,niemals::ADV,ni ... erioed,कभी नहीं
+1111,niemals::ADV,ni ... erioed,कदापि नहीं
+1112,hier::ADV,yma,इधर
+1113,hier::ADV,yma,यहाँ
+1114,hierhin::ADV,hyd yma,इधर को
+1115,hierhin::ADV,hyd yma,यहाँ को
+1116,von hier::ADV,oddi yma,यहाँ से
+1117,dort::ADV,acw,उधर
+1118,dort::ADV,acw,वहाँ
+1119,dorthin::ADV,tuag yno,उधर को
+1120,dorthin::ADV,tuag yno,वहाँ को
+1121,geradeaus::ADV,syth ymlaen,सीधे
+1122,vorwärts::ADV,ymlaen,आगे
+1123,vorwärts::ADV,ymlaen,आगे को
+1124,rückwärts::ADV,yn ôl,पीछे को
+1125,zurück::ADV,yn ôl,वापस
+1126,unten::ADV,isod,नीचे
+1127,unten::ADV,oddi tanodd,नीचे
+1128,hinab::ADV,i lawr,नीचे को
+1129,hinab::ADV,i waered,नीचे को
+1130,oben::ADV,fry,ऊपर
+1131,hinauf::ADV,i fyny,ऊपर को
+1132,hinauf::ADV,i'r lan,ऊपर को
+1133,überall::ADV,ym mhobman,हर जगह
+1134,überall::ADV,ym mhobman,हर स्थान
+1135,nicht::ADV,ni,न
+1136,nicht::ADV,ni,नहीं
+1137,nicht::ADV,nid,न
+1138,nicht::ADV,nid,नहीं
+1139,ein wenig::ADV,tipyn,कुछ
+1140,ein wenig::ADV,tipyn,ज़रा
+1141,ein wenig::ADV,tipyn,थोड़ा
+1142,ein wenig::ADV,ychydig,कुछ
+1143,ein wenig::ADV,ychydig,ज़रा
+1144,ein wenig::ADV,ychydig,थोड़ा
+1145,kaum::ADV,prin,लगभग नहीं
+1146,kaum::ADV,prin,बराबर नहीं
+1147,sehr::ADV,iawn,बहुत
+1148,so::ADV,fel,ऐसा
+1149,so::ADV,felly,ऐसा
+1150,noch::ADV,eto,अभी तक
+1151,nur::ADV,yn unig,केवल
+1152,nur::ADV,yn unig,सिर्फ़
+1153,schon::ADV,eisoes,चुकना
+1154,schon::ADV,yn barod,चुकना
+1155,wieder::ADV,drachefn,फिर
+1156,wieder::ADV,drachefn,दुबारा
+1157,vergebens::ADV,yn ofer,व्यर्थ
+1158,vor::PRP,o flaen,के आगे
+1159,vor::PRP,o flaen,के सामने
+1160,hinter::PRP,ar ôl,के पीछे
+1161,unter::PRP,islaw,के तले
+1162,unter::PRP,islaw,के नीचे
+1163,durch::PRP,trwy,के पार
+1164,neben::PRP,ar bwys,के पास
+1165,neben::PRP,ar bwys,की बग़ल में
+1166,zwischen::PRP,rhwng,के बीच
+1167,zwischen::PRP,cydrhwng,के बीच
+1168,wegen::PRP,o achos,के कारण
+1169,wegen::PRP,o achos,की वजह से
+1170,wegen::PRP,oherwydd,के कारण
+1171,wegen::PRP,oherwydd,की वजह से
+1172,dies::PRN,hyn,यह
+1173,das::PRN,hynny,वह
+1174,alles::PRN,popeth,सब
+1175,alles::PRN,popeth,सब कुछ
+1176,ich::PRN,fi,मैं
+1177,du::PRN,ti,तू
+1178,er::PRN,fe,यह
+1179,wir::PRN,ni,हम
+1180,ihr::PRN,chi,तुम
+1181,sie::PRN,hwy,ये
+1182,was::FPRN,pa beth,क्या
+1183,wer::FPRN,pwy,कौन
+1184,wo::FADV,ble,किधर
+1185,wo::FADV,ym mha le,किधर
+1186,wohin::FADV,i ble,किधर
+1187,wohin::FADV,i ba le,किधर
+1188,wie::FADV,sut,कैसे
+1189,warum::FADV,pam,क्यों
+1190,wieviel::FNUM,faint,कितना
+1191,eins::NUM,un,एक
+1192,zwei::NUM,dau,दो
+1193,drei::NUM,tri,तीन
+1194,vier::NUM,pedwar,चार
+1195,fünf::NUM,pump,पाँच
+1196,sechs::NUM,chwech,छह
+1197,sieben::NUM,saith,सात
+1198,acht::NUM,wyth,आठ
+1199,neun::NUM,naw,नौ
+1200,zehn::NUM,deg,दस
+1201,elf::NUM,un ar ddeg,ग्यारह
+1202,zwölf::NUM,deuddeg,बारह
+1203,zwölf::NUM,un deg dau,बारह
+1204,zwanzig::NUM,ugain,बीस
+1205,dreißig::NUM,tri deg,तीस
+1206,dreißig::NUM,deg ar hugain,तीस
+1207,vierzig::NUM,deugain,चालीस
+1208,fünfzig::NUM,hanner cant,पचास
+1209,sechzig::NUM,chwe deg,साठ
+1210,siebzig::NUM,saith deg,सत्तर
+1211,siebzig::NUM,deg a thrigain,सत्तर
+1212,achtzig::NUM,wyth deg,अस्सी
+1213,achtzig::NUM,pedar ugain,अस्सी
+1214,neunzig::NUM,naw deg,नव्वे
+1215,neunzig::NUM,deg a phedwar ugain,नव्वे
+1216,hundert::NUM,cant,सौ
+1217,tausend::NUM,mil,हज़ार
+1218,und::CNJ,a,और
+1219,oder::CNJ,neu,या
+1220,stehen::V,sefyll,खड़ा होना
+1221,sitzen::V,eistedd,बैठना
+1222,liegen::V,gorwedd,लेटना
+1223,hängen::V,hongian,लटकना
+1224,werden::V,dod yn,बनना
+1225,werden::V,mynd yn,बनना
+1226,passieren::V,digwydd,होना
+1227,beginnen::V,cychwyn,आरंभ होना
+1228,beginnen::V,cychwyn,प्रारंभ होना
+1229,enden::V,gorffen,अंत होना
+1230,enden::V,gorffen,ख़तम होना
+1231,wechseln::V,newid,बदलना
+1232,aufgehen[Sonne]::V,codi,चढ़ना
+1233,aufgehen[Sonne]::V,codi,उदित होना
+1234,untergehen[Sonne]::V,machlud,अस्त हो जाना
+1235,scheinen[Sonne]::V,tywynnu,रोशनी देना
+1236,donnern::V,taranu,गरजना
+1237,wehen::V,chwythu,चलना
+1238,strömen::V,ffrydio,बहना
+1239,strömen::V,ffrydio,प्रवाहित होना
+1240,fließen::V,llifo,बहना
+1241,fließen::V,llifo,प्रवाहित होना
+1242,sich drehen::V,troi,घूमना
+1243,sich drehen::V,cylchdroi,घूमना
+1244,schwanken::V,siglo,हिलना
+1245,schwingen::V,siglo,हिलना
+1246,fallen::V,cwympo,गिरना
+1247,brennen::V,llosgi,जलना
+1248,rauchen::V,mygu,धुआँ उड़ाना
+1249,regnen::V,glawio,बरसना
+1250,gefrieren::V,rhewi,जमना
+1251,tauen::V,toddi,गलना
+1252,tauen::V,toddi,पिघलना
+1253,tauen::V,meirioli,गलना
+1254,tauen::V,meirioli,पिघलना
+1255,schmelzen::V,toddi,गलना
+1256,schmelzen::V,toddi,पिघलना
+1257,trocknen::V,sychu,सूखना
+1258,sieden::V,berwi,उबलना
+1259,faulen::V,pydru,गलना
+1260,faulen::V,pydru,सड़ना
+1261,faulen::V,braenu,गलना
+1262,faulen::V,braenu,सड़ना
+1263,verfaulen::V,pydru,गलना
+1264,verfaulen::V,pydru,सड़ना
+1265,verfaulen::V,dadfeilio,गलना
+1266,verfaulen::V,dadfeilio,सड़ना
+1267,reißen::V,clecian,फटना
+1268,reißen::V,torri'n glats,फटना
+1269,versinken::V,suddo,डूबना
+1270,vergehen::V,myned heibio,बीतना
+1271,vergehen::V,myned heibio,गुज़रना
+1272,vergehen::V,pasio,बीतना
+1273,vergehen::V,pasio,गुज़रना
+1274,erscheinen::V,ymddangos,दिखाई देना
+1275,verschwinden::V,diflannu,ग़ायब होना
+1276,sinken::V,syrthio,घटना
+1277,sinken::V,syrthio,उतरना
+1278,abnehmen::V,lleihau,घटना
+1279,zunehmen::V,cynyddu,बढ़ना
+1280,steigen::V,codi,बढ़ना
+1281,wachsen::V,tyfu,उगना
+1282,glänzen::V,disgleirio,चमकना
+1283,funkeln::V,pefrio,जगमगाना
+1284,funkeln::V,pefrio,टिमटिमाना
+1285,lärmen::V,cadw sŵn,शोर मचाना
+1286,lärmen::V,gwneud twrw,शोर मचाना
+1287,läuten::V,canu,बजना
+1288,klingeln::V,canu,बजना
+1289,klingeln::V,seinio,बजना
+1290,klirren::V,tincian,झनझनाना
+1291,brausen::V,rhuo,साँय-साँय करना
+1292,rauschen::V,siffrwd,सरसराना
+1293,rauschen::V,chwithrwd,सरसराना
+1294,klingen::V,seinio,बजना
+1295,bellen::V,cyfarth,भौंकना
+1296,heulen::V,udo,गुर्राना
+1297,heulen::V,oernadu,गुर्राना
+1298,blasen::V,chwythu,फूँकना
+1299,pfeifen::V,chwibanu,सीटी देना
+1300,schreien::V,gweiddi,चिल्लाना
+1301,schreien::V,bloeddio,चिल्लाना
+1302,stöhnen::V,griddfan,कराहना
+1303,stöhnen::V,griddfan,आहें भरना
+1304,zittern::V,crynu,काँपना
+1305,leben::V,byw,जीना
+1306,geboren werden::V,cael eich geni,पैदा होना
+1307,atmen::V,anadlu,साँस लेना
+1308,trinken::V,yfed,पीना
+1309,essen::V,bwyta,खाना
+1310,schlucken::V,llyncu,निगलना
+1311,müde werden::V,blino,थकना
+1312,müde werden::V,blino,उकताना
+1313,einschlafen::V,mynd i gysgu,सो जाना
+1314,einschlafen::V,syrthio i gysgu,सो जाना
+1315,schlafen::V,huno,सोना
+1316,schlafen::V,cysgu,सोना
+1317,aufwachen::V,dihuno,जागना
+1318,aufstehen::V,codi,उठना
+1319,sich erholen::V,ymlacio,सुस्ताना
+1320,sich erholen::V,ymlacio,आराम करना
+1321,sich erholen::V,dadflino,सुस्ताना
+1322,sich erholen::V,dadflino,आराम करना
+1323,krank werden::V,mynd yn sâl,बीमार पड़ना
+1324,krank werden::V,mynd yn wael,बीमार पड़ना
+1325,krank sein::V,gwaelu,बीमार होना
+1326,schmerzen::V,brifo,दुखना
+1327,schmerzen::V,brifo,दर्द करना
+1328,husten::V,pesychu,खाँसना
+1329,genesen::V,gwella,ठीक हो जाना
+1330,genesen::V,gwella,स्वस्थ हो जाना
+1331,genesen::V,cael yn ôl,ठीक हो जाना
+1332,genesen::V,cael yn ôl,स्वस्थ हो जाना
+1333,sterben::V,marw,मरना
+1334,umkommen::V,trengi,मरना
+1335,sich bewegen::V,symud,चलना
+1336,sich bewegen::V,symud,हिलना
+1337,sich rühren::V,syflyd,हिलना
+1338,sich erheben::V,codi,उठना
+1339,sich setzen::V,eistedd,बैठना
+1340,hinfallen::V,cwympo,गिरना
+1341,laufen::V,cerdded,चलना
+1342,schreiten::V,camu,क़दम जाना
+1343,spazierengehen::V,mynd am dro,सैर करना
+1344,eilen::V,rhuthro,तेज़ी से जाना
+1345,eilen::V,rhuthro,शीघ्रता से चलना
+1346,sich beeilen::V,brysio,जल्दी करना
+1347,sich beeilen::V,brysio,शीघ्रता करना
+1348,sausen::V,rhuthro,बड़ी तेज़ी से चलना
+1349,rennen::V,rhedeg,भागना
+1350,rennen::V,rhedeg,दौड़ना
+1351,springen::V,llamu,उछलना
+1352,springen::V,neidio,उछलना
+1353,klettern::V,dringo,चढ़ना
+1354,schaukeln::V,siglo,झूलना
+1355,kriechen::V,cropian,रेंगना
+1356,schwimmen::V,nofio,तैरना
+1357,tauchen::V,plymio,डूबना
+1358,tauchen::V,ymsuddo,डूबना
+1359,rudern::V,rhwyfo,खेना
+1360,rudern::V,rhwyfo,चप्पू चलाना
+1361,fahren::V,gyrru,चलना
+1362,fahren::V,gyrru,यात्रा करना
+1363,fahren::V,dreifio,चलना
+1364,fahren::V,dreifio,यात्रा करना
+1365,fliegen::V,hedfan,उड़ना
+1366,gehen::V,mynd,जाना
+1367,weggehen::V,mynd,चला जाना
+1368,weggehen::V,mynd,बाहर जाना
+1369,weggehen::V,ymadael,चला जाना
+1370,weggehen::V,ymadael,बाहर जाना
+1371,abfahren::V,ymadael,छूटना
+1372,abfahren::V,ymadael,रवाना होना
+1373,anhalten::V,stopio,रुकना
+1374,anhalten::V,stopio,खड़ा होना
+1375,hineingehen::V,mynd i mewn,घुसना
+1376,hineingehen::V,mynd i mewn,अंदर जाना
+1377,eintreten::V,mynd i,प्रवेश करना
+1378,kommen::V,dod,आना
+1379,ankommen::V,cyrraedd,पहुँचना
+1380,zurückkommen::V,dychwelyd,लौटना
+1381,zurückkommen::V,dychwelyd,वापस आना
+1382,bleiben::V,aros,रहना
+1383,bleiben::V,aros,रुकना
+1384,bleiben::V,sefyll,रहना
+1385,bleiben::V,sefyll,रुकना
+1386,warten::V,aros,इंतज़ार करना
+1387,warten::V,disgwyl,इंतज़ार करना
+1388,erwarten::V,disgwyl,प्रतीक्षा करना
+1389,suchen::V,chwilio am,ढूँढ़ना
+1390,finden::V,darganfod,पाना
+1391,finden::V,darganfod,ढूँढ़ निकालना
+1392,versuchen::V,profi,कोशिश करना
+1393,versuchen::V,ceisio,कोशिश करना
+1394,vorbereiten::V,paratoi,तैयार करना
+1395,lieben::V,caru,प्यार करना
+1396,mögen::V,hoffi,पसंद होना
+1397,lachen::V,chwerthin,हँसना
+1398,rühren::V,cynhyrfu,छूना
+1399,weinen::V,wylo,रोना
+1400,weinen::V,llefain,रोना
+1401,schimpfen::V,grwgnach,गाली देना
+1402,sich ärgern::V,gofidio,चिढ़ना
+1403,sich ärgern::V,gofidio,नाराज़ होना
+1404,sich fürchten::V,ofni,डरना
+1405,sich fürchten::V,ofni,भय खाना
+1406,fürchten::V,arswydo,डरना से
+1407,fürchten::V,arswydo,भय खाना से
+1408,fliehen::V,ffoi,भागना
+1409,flüchten::V,dianc,निकल भागना
+1410,sehen::V,gweld,देखना
+1411,anschauen::V,syllu,देखना
+1412,anschauen::V,edrych,देखना
+1413,ansehen::V,gwylio,दृष्टि डालना पर
+1414,hören::V,clywed,सुनना
+1415,zuhören::V,gwrando,सुनना
+1416,probieren::V,profi,चखना
+1417,riechen::V,arogli,सूँघना
+1418,fühlen::V,teimlo,महसूस करना
+1419,fühlen::V,clywed,महसूस करना
+1420,scheinen::V,ymddangos,लगना
+1421,zu sehen sein::V,dod i'r golwg,दिखाई देना
+1422,vernehmen::V,clywed sôn am,सुनना
+1423,frieren::V,bod yn oer,ठंड लगना
+1424,frieren::V,bod yn oer,सर्दी लगना
+1425,tun::V,gwneud,करना
+1426,können::V,gallu,सकना
+1427,können::V,gallu,जानना
+1428,wollen::V,bod mewn angen,चाहना
+1429,anfangen::V,dechrau,शुरू करना
+1430,beenden::V,darfod,ख़त्म करना
+1431,beenden::V,darfod,समाप्त करना
+1432,beenden::V,gorffen,ख़त्म करना
+1433,beenden::V,gorffen,समाप्त करना
+1434,aufhören::V,peidio,बंद जाना
+1435,aufhören::V,peidio,समाप्त जाना
+1436,gelingen::V,llwyddo,बनना
+1437,gelingen::V,llwyddo,अच्छा होना
+1438,geraten::V,diweddu,बन पड़ना
+1439,öffnen::V,agor,खोलना
+1440,schließen::V,cau,बंद करना
+1441,stellen::V,gosod,रखना
+1442,setzen::V,gosod,रखना
+1443,setzen::V,gosod,बिठाना
+1444,legen::V,gosod,रखना
+1445,legen::V,gosod,लिटाना
+1446,berühren::V,cyffwrdd,छूना
+1447,berühren::V,cyffwrdd,स्पर्श करना
+1448,verbinden::V,cysylltu,बाँधना
+1449,bedecken::V,gorchuddio,ढकना
+1450,aufhängen::V,crogi,लटकाना
+1451,aufhängen::V,hongian,लटकाना
+1452,anzünden::V,cynnau,जलाना
+1453,aufheben::V,codi,उठाना
+1454,zurücklassen::V,gadael,पीछे छोड़ना
+1455,verlieren::V,colli,खोना
+1456,verlieren::V,colli,गँवाना
+1457,fallen lassen::V,gollwng,गिराना
+1458,machen::V,gwneud,करना
+1459,machen::V,gwneud,बनाना
+1460,herstellen::V,cynhyrchu,बनाना
+1461,herstellen::V,cynhyrchu,तैयार करना
+1462,bauen::V,adeiladu,बनाना
+1463,bauen::V,adeiladu,निर्माण करना
+1464,reparieren::V,trwsio,मरम्मत करना
+1465,reparieren::V,atgyweirio,मरम्मत करना
+1466,verbessern::V,diwygio,सुधारना
+1467,ändern::V,altro,बदलना
+1468,ändern::V,altro,परीवर्तन करना
+1469,graben::V,palu,खोदना
+1470,graben::V,cloddio,खोदना
+1471,beugen::V,plygu,झुकाना
+1472,biegen::V,plygu,झुकाना
+1473,drehen::V,troelli,फेरना
+1474,drehen::V,troelli,घुमाना
+1475,wenden::V,troi,पलटना
+1476,wenden::V,troi,मोड़ना
+1477,umdrehen::V,troi,घुमाना
+1478,heben::V,codi,उठाना
+1479,heben::V,codi,ऊँचा करना
+1480,hochheben::V,dyrchafu,उठाना
+1481,hochheben::V,dyrchafu,ऊपर को उठाना
+1482,ergreifen::V,gafael,पकड़ना
+1483,ergreifen::V,gafael,हाथ में लेना
+1484,halten::V,dal,धरना
+1485,halten::V,dal,पकड़ना
+1486,drücken::V,pwyso,दबाना
+1487,drücken::V,gwasgu,दबाना
+1488,schieben::V,gwthio,सरकाना
+1489,schieben::V,gwthio,खिसकाना
+1490,kratzen::V,crafu,खुरचना
+1491,kratzen::V,crafu,खुजलाना
+1492,lecken::V,llyfu,चाटना
+1493,beißen::V,cnoi,काटना
+1494,beißen::V,brathu,काटना
+1495,abreißen::V,tynnu ymaith,तोड़ना
+1496,abschneiden::V,torri,काट करना
+1497,binden::V,clymu,बाँधना
+1498,stecken::V,plannu,खोंसना
+1499,brechen::V,torri,तोड़ना
+1500,klopfen::V,taro,खटखटाना
+1501,hauen::V,taro,ठोकना
+1502,kleben::V,gludio,चिपकाना
+1503,reiben::V,rhwbio,घिसना
+1504,reiben::V,rhwbio,रगड़ना
+1505,streichen::V,taenu,लगाना
+1506,schleifen::V,hogi,तेज़ करना
+1507,schneiden::V,torri,कतरना
+1508,rütteln::V,ysgytio,झकझोरना
+1509,schütteln::V,siglo,हिलाना
+1510,schütteln::V,ysgwyd,हिलाना
+1511,schwenken::V,siglo,घुमाना
+1512,schütten::V,tywallt,उँडेलना
+1513,füllen::V,llenwi,भरना
+1514,füllen::V,llenwi,ठूसना
+1515,einwickeln::V,lapio,लपेटना
+1516,tragen::V,cludo,ढोना
+1517,schleppen::V,llusgo,घसीटना
+1518,ziehen::V,tynnu,खींचना
+1519,aufbewahren::V,cadw,रखना
+1520,werfen::V,taflu,फेंकना
+1521,fangen::V,dal,पकड़ना
+1522,packen::V,cipio,पकड़ना
+1523,packen::V,crafangu,पकड़ना
+1524,verstecken::V,celu,छिपाना
+1525,verstecken::V,cuddio,छिपाना
+1526,teilen::V,rhannu,बाँटना
+1527,schicken::V,anfon,भेजना
+1528,bringen::V,dod â,लाना
+1529,hinzufügen::V,chwanegu,जोड़ना
+1530,bekommen::V,cael,पाना
+1531,erhalten::V,derbyn,पाना
+1532,erhalten::V,derbyn,मिलना
+1533,nehmen::V,cymryd,लेना
+1534,wählen::V,dewis,चुनना
+1535,auswählen::V,dethol,चुनना
+1536,bewahren::V,cadw,बनाए रखना
+1537,behindern::V,atal,रोकना
+1538,behindern::V,rhwystro,रोकना
+1539,verderben::V,difetha,ख़राब करना
+1540,beschädigen::V,niweidio,नुक़सान पहुँचाना
+1541,zerbrechen::V,torri,तोड़ना
+1542,zerreißen::V,rhwygo,तोड़ना
+1543,zerstören::V,dinistrio,नष्ट करना
+1544,zerstören::V,dinistrio,बरबाद करना
+1545,verbrennen::V,llosgi,जलाना
+1546,geben::V,rhoi,देना
+1547,reichen::V,estyn,थमाना
+1548,schenken::V,rhoddi,भेंट देना
+1549,versprechen::V,addo,वादा करना
+1550,wünschen::V,dymuno,कामना करना
+1551,loben::V,canmol,तारीफ़ करना
+1552,küssen::V,cusanu,चूमना
+1553,wiegen::V,siglo,झुलाना
+1554,zudecken::V,gorchuddio,ढकना
+1555,wecken::V,deffro,जगाना
+1556,zeigen::V,dangos,दिखाना
+1557,führen::V,arwain,रास्ता दिखाना
+1558,lehren::V,dysgu,पढ़ाना
+1559,unterrichten::V,hyfforddi,सिखाना
+1560,aufziehen::V,dod i fyny,पालना
+1561,leiten::V,arwain,संचालन करना
+1562,antreiben::V,annog,हड़बड़ाना
+1563,lassen::V,gadael,-आना
+1564,lassen::V,gadael,कराना
+1565,einladen::V,gwahodd,बुलाना
+1566,vereinigen::V,uno,मिलाना
+1567,vereinigen::V,uno,संयुक्त करना
+1568,vereinigen::V,cyfuno,मिलाना
+1569,vereinigen::V,cyfuno,संयुक्त करना
+1570,besuchen::V,ymweld â,मिलना से
+1571,besuchen::V,ymweld â,मिलने जाना से
+1572,treffen::V,cwrdd,मिलना
+1573,treffen::V,cyfarfod,मिलना
+1574,sich versammeln::V,casglu,इकट्ठा होना
+1575,sich versammeln::V,cynnull,इकट्ठा होना
+1576,spielen::V,chwarae,खेलना
+1577,singen::V,canu,गाना
+1578,tanzen::V,dawnsio,नाचना
+1579,sich trennen::V,ymwahanu,अलग होना
+1580,verlassen::V,gadael,छोड़ना
+1581,retten::V,achub,बचाना
+1582,bewachen::V,gwarchod,आँख रखना पर
+1583,schützen::V,noddi,रक्षा करना
+1584,verteidigen::V,amddiffyn,रक्षा करना
+1585,sich schlagen::V,ffraeo,हाथापाई करना
+1586,sich schlagen::V,terfysgu,हाथापाई करना
+1587,schießen::V,saethu,गोली मारना
+1588,siegen::V,ennill,जीतना
+1589,siegen::V,ennill,विजय पाना
+1590,ärgern::V,cythruddo,चिढ़ाना
+1591,schlagen::V,curo,मारना
+1592,treten::V,cicio,ठोकर मारना
+1593,stechen::V,pigo,भेदना
+1594,stechen::V,pigo,भोंकना
+1595,stoßen::V,gwthio,धक्का देना
+1596,stoßen::V,gwthio,झटका देना
+1597,stehlen::V,dwyn,चोरी करना
+1598,stehlen::V,lladrata,चोरी करना
+1599,stören::V,aflonyddu,बुरा लगना
+1600,belästigen::V,trafferthu,तंग करना
+1601,verbergen::V,cuddio,लुकाना
+1602,täuschen::V,twyllo,धोखा देना
+1603,betrügen::V,hocedu,धोखा देना
+1604,töten::V,lladd,मारना
+1605,töten::V,lladd,मार डालना
+1606,wohnen::V,byw,रहना
+1607,arbeiten::V,gweithio,काम करना
+1608,sammeln::V,casglu,जमा करना
+1609,pflücken::V,casglu,चुनना
+1610,pflücken::V,casglu,तोड़ना
+1611,jagen::V,hela,आखेट करना
+1612,jagen::V,hela,शिकार करना
+1613,fischen::V,pysgota,मछली पकड़ना
+1614,fassen::V,dal,पकड़ना
+1615,hüten::V,bugeilio,चराना
+1616,treiben::V,gyrru,हाँकना
+1617,anbinden::V,clymu,बाँधना
+1618,füttern::V,porthi,खिलाना
+1619,melken::V,godro,दुहना
+1620,hacken::V,torri,काटना
+1621,gießen::V,dyfrhau,सींचना
+1622,reifen::V,aeddfedu,पकना
+1623,zubereiten::V,coginio,पकाना
+1624,kochen::V,berwi,पकाना
+1625,kochen::V,berwi,राँधना
+1626,backen::V,pobi,पकाना
+1627,backen::V,crasu,पकाना
+1628,braten::V,ffrio,तलना
+1629,braten::V,ffrio,भूनना
+1630,umrühren::V,cyffroi,फेंटना
+1631,stricken::V,gwau,बुनना
+1632,nähen::V,gwnïo,सीना
+1633,färben::V,lliwio,रँगना
+1634,reinigen::V,glanhau,साफ़ करना
+1635,reinigen::V,glanhau,शुद्ध करना
+1636,waschen::V,golchi,धोना
+1637,abwischen::V,sychu,पोंछ्ना
+1638,spülen::V,streulio,माँजना
+1639,spülen::V,streulio,खँगालना
+1640,fegen::V,ysgubo,बुहारना
+1641,kehren::V,ysgubo,झाड़ना
+1642,baden::V,cael bath,स्नान करना
+1643,sich waschen::V,ymolchi,नहाना
+1644,sich waschen::V,ymolchi,हाथ-मुँह धोना
+1645,ausziehen::V,tynnu,उतारना
+1646,anziehen::V,gwisgo,पहनना
+1647,sich anziehen::V,ymwisgo,कपड़े पहनना
+1648,kämmen::V,cribo,कंघी करना
+1649,schmücken::V,harddu,सजाना
+1650,schmücken::V,harddu,सँवारना
+1651,schmücken::V,addurno,सजाना
+1652,schmücken::V,addurno,सँवारना
+1653,sagen::V,dweud,कहना
+1654,sagen::V,dweud,बताना
+1655,sprechen::V,llefaru,बोलना
+1656,reden::V,siarad,बोलना
+1657,reden::V,siarad,बात करना
+1658,sich unterhalten::V,sgwrsio,बात करना
+1659,sich unterhalten::V,sgwrsio,बातचीत करना
+1660,fragen::V,gofyn,पूछ्ना
+1661,fragen::V,gofyn,प्रश्न करना
+1662,bitten::V,gofyn am,माँगना से
+1663,erzählen::V,dweud,बताना
+1664,mitteilen::V,cyfleu,ख़बर देना
+1665,mitteilen::V,cyfleu,सूचना देना
+1666,nennen::V,enwi,नाम देना
+1667,rufen::V,galw,बुलाना
+1668,prahlen::V,brolio,शेख़ी बघारना
+1669,prahlen::V,ymffrostio,शेख़ी बघारना
+1670,übersetzen::V,cyfieithu,अनुवाद करना
+1671,denken::V,meddwl,सोचना
+1672,glauben::V,credu,विश्वास करना
+1673,glauben::V,coelio,विश्वास करना
+1674,bemerken::V,sylwi,ध्यान देना पर
+1675,erkennen::V,adnabod,पहचानना
+1676,begreifen::V,amgyffred,समझना
+1677,verstehen::V,deall,सुनना
+1678,lernen::V,dysgu,पढ़ना
+1679,wissen::V,gwybod,जानना
+1680,wissen::V,gwybod,मालूम होना
+1681,sich erinnern an::V,cofio,याद करना
+1682,vergessen::V,anghofio,भूलना
+1683,vergessen::V,anghofio,बिसारना
+1684,messen::V,mesur,नापना
+1685,zählen::V,cyfrif,गिनना
+1686,rechnen::V,cyfrifo,गणना करना
+1687,rechnen::V,cyfrifo,हिसाब करना
+1688,lesen::V,darllen,पढ़ना
+1689,malen::V,peintio,कींचना
+1690,zeichnen::V,tynnu,चित्र कींचना
+1691,schreiben::V,ysgrifennu,लिखना
+1692,besitzen::V,meddu,मालिक होना
+1693,besitzen::V,meddu,स्वामी होना
+1694,kaufen::V,prynu,ख़रीदना
+1695,verkaufen::V,gwerthu,बेचना
+1696,bezahlen::V,talu am,चुकाना
+1697,bezahlen::V,talu am,अदा करना
+1698,zahlen::V,talu,अदा करना
+1699,beherrschen::V,rheoli,शासन करना पर
+1700,beherrschen::V,llywodraethu,शासन करना पर
+1701,ertragen::V,dioddef,सहना

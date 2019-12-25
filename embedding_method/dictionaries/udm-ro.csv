@@ -1,0 +1,1459 @@
+,Concept_ID,udm,ro
+0,Auge::N,син,ochi
+1,Ohr::N,пель,ureche
+2,Nase::N,ныр,nas
+3,Mund::N,ым,gură
+4,Zahn::N,пинь,dinte
+5,Zunge::N,кыл,limbă
+6,Lippe::N,ымдур,buză
+7,Wange::N,бам,bucă
+8,Wange::N,бам,obraz
+9,Gesicht::N,ымныр,față
+10,Gesicht::N,ымныр,figură
+11,Stirn::N,кымес,frunte
+12,Haar::N,йырси,păr
+13,Schnurrbart::N,мыйык,mustață
+14,Bart::N,туш,barbă
+15,Kinn::N,ангес,bărbie
+16,Kiefer[Anatomie]::N,ан,falcă
+17,Kiefer[Anatomie]::N,анлы,falcă
+18,Kehle::N,гульым,beregată
+19,Hals::N,чырты,gât
+20,Genick::N,йырбер,ceafă
+21,Kopf::N,йыр,cap
+22,Rücken::N,мыш,dos
+23,Rücken::N,мыш,spate
+24,Rücken::N,мыш,spinare
+25,Bauch::N,кӧт,burtă
+26,Bauch::N,кӧт,pântece
+27,Nabel::N,гогы,buric
+28,Busen::N,ноны,sân
+29,Brust::N,мӧля,piept
+30,Schulter::N,пельпум,umăr
+31,Schulter::N,пельпум,spate
+32,Arm::N,суй,braț
+33,Ellenbogen::N,гырпум,cot
+34,Hand::N,ки,mână
+35,Handfläche::N,ки пыдэс,palmă
+36,Handfläche::N,кырым пыдэс,palmă
+37,Finger::N,чиньы,deget
+38,Fingernagel::N,гижы,unghie
+39,Fingernagel::N,гиждӥнь,unghie
+40,Nagel[Anatomie]::N,гижы,unghie
+41,Zeh::N,пыдчиньы,deget de la picior
+42,Fuß::N,пыд,picior
+43,Ferse::N,пыдбер,călcâi
+44,Knie::N,пыдес,genunchi
+45,Oberschenkel::N,макес,coapsă
+46,Bein::N,пыд,picior
+47,Körper::N,мугор,corp
+48,Körper::N,вылтыр,corp
+49,Haut::N,ку,piele
+50,Blut::N,вир,sânge
+51,Ader::N,вирсэр,vână
+52,Ader::N,вирсэр,arteră
+53,Sehne::N,вуж,tendon
+54,Knochen::N,лы,os
+55,Gehirn::N,вим,creier
+56,Herz::N,сюлэм,inimă
+57,Magen::N,ӝуш,stomac
+58,Leber::N,мус,ficat
+59,Atem::N,лул,răsuflare
+60,Atem::N,лул,respirație
+61,Atem::N,шокан,răsuflare
+62,Atem::N,шокан,respirație
+63,Hunger::N,кӧтсюман,foame
+64,Träne::N,синкыли,lacrimă
+65,Geschmack::N,шӧм,gust
+66,Geruch::N,зын,miros
+67,Schlaf::N,вӧт,somn
+68,Traum::N,уйвӧт,vis
+69,Himmel::N,ин,cer
+70,Sonne::N,шунды,soare
+71,Mond::N,толэзь,lună
+72,Stern::N,кизили,stea
+73,Luft::N,омыр,aer
+74,Wind::N,тӧл,vânt
+75,Welle::N,тулкым,val
+76,Welle::N,тулкым,undă
+77,Wasser::N,ву,apă
+78,Stein::N,из,piatră
+79,Boden::N,музъем,sol
+80,Boden::N,музъем,pământ
+81,Erde::N,му,pământ
+82,Staub::N,пыль,praf
+83,Rauch::N,ӵын,fum
+84,Funke::N,гизьы,scânteie
+85,Feuer::N,тыл,foc
+86,Licht::N,тыл,lumină
+87,Schatten::N,вужер,umbră
+88,Wetter::N,куазь,timp
+89,Wetter::N,куазь,vreme
+90,Nebel::N,бус,ceață
+91,Nebel::N,бус,negură
+92,Wolke::N,пилем,nor
+93,Regen::N,зор,ploaie
+94,Schnee::N,лымы,zăpadă
+95,Eis::N,йӧ,gheață
+96,Frost::N,кезьыт,ger
+97,Kälte::N,кезьыт,frig
+98,Hitze::N,пӧсь,arșiță
+99,Hitze::N,пӧсь,căldură
+100,Raureif::N,гӧр,chiciură
+101,Regenbogen::N,вуюись,curcubeu
+102,Donner::N,гудыри,tunet
+103,Strömung::N,бызён,curent
+104,Tropfen::N,шапык,picătură
+105,Schaum::N,шукы,spumă
+106,Schmutz::N,нӧд,murdărie
+107,Schmutz::N,дэри,murdărie
+108,See::N,ты,lac
+109,Sumpf::N,нюр,mlaștină
+110,Moor::N,нюр,bărăgan
+111,Wiese::N,возь,fânaț
+112,Wiese::N,возь,livadă
+113,Wiese::N,возьвыл,fânaț
+114,Wiese::N,возьвыл,livadă
+115,Wald::N,сик,codru
+116,Wald::N,сик,pădure
+117,Wald::N,нюлэс,codru
+118,Wald::N,нюлэс,pădure
+119,Hügel::N,выр,deal
+120,Hügel::N,выр,movilă
+121,Hügel::N,вырйыл,deal
+122,Hügel::N,вырйыл,movilă
+123,Anhöhe::N,выр,deal
+124,Anhöhe::N,выр,ridicătură
+125,Anhöhe::N,вырйыл,deal
+126,Anhöhe::N,вырйыл,ridicătură
+127,Berg::N,гурезь,munte
+128,Gipfel::N,йыл,pisc
+129,Höhle::N,гу,peșteră
+130,Abhang::N,бам,pantă
+131,Abhang::N,бам,versant
+132,Quelle::N,ошмес,izvor
+133,Bach::N,пичи шур,gârlă
+134,Fluss::N,шур,râu
+135,Fluss::N,шур,fluviu
+136,Ufer::N,ярдур,mal
+137,Ufer::N,ярдур,țărm
+138,Küste::N,вудур,coastă
+139,Festland::N,мувыр,uscat
+140,Meer::N,зарезь,mare
+141,Bucht::N,вукож,golf
+142,Insel::N,вумуӵ,insulă
+143,Insel::N,шормуӵ,insulă
+144,Blume::N,сяська,floare
+145,Gras::N,турын,iarbă
+146,Wurzel::N,выжы,rădăcină
+147,Baum::N,пу,copac
+148,Baum::N,пу,arbore
+149,Stamm::N,модос,tulpină
+150,Rinde::N,сул,scoarță
+151,Ast::N,ул,cracă
+152,Ast::N,ул,creangă
+153,Zweig::N,вай,ramură
+154,Zweig::N,вай,creangă
+155,Blatt::N,куар,frunză
+156,Birke::N,кызьпу,mesteacăn
+157,Kiefer[Baum]::N,пужым,pin
+158,Weide[Baum]::N,бадьпу,salcie
+159,Weide[Baum]::N,бадьпу,răchită
+160,Tanne::N,кыз,brad
+161,Horn::N,сюр,corn
+162,Feder::N,тылы,pană
+163,Fell::N,ку,piele
+164,Flügel::N,бурд,aripă
+165,Klaue::N,гижы,gheară
+166,Kralle::N,пыд,labă
+167,Kralle::N,пыд,gheară
+168,Schwanz::N,быж,coadă
+169,Ei::N,пуз,ou
+170,Ei::N,кукей,ou
+171,Nest::N,кар,cuib
+172,Nest::N,пузкар,cuib
+173,Bau::N,кар,bârlog
+174,Bau::N,кар,vizuină
+175,Bau::N,гу,bârlog
+176,Bau::N,гу,vizuină
+177,Tier::N,пӧйшур,animal
+178,Herde::N,уллё,turmă
+179,Herde::N,уллё,cireadă
+180,Kuh::N,скал,vacă
+181,Bulle::N,ош,taur
+182,Bulle::N,пороз,taur
+183,Pferd::N,вал,cal
+184,Schaf::N,ыж,oaie
+185,Schwein::N,парсь,porc
+186,Hund::N,пуны,câine
+187,Katze::N,коӵыш,pisică
+188,Bär::N,гондыр,urs
+189,Eichhörnchen::N,коньы,veveriță
+190,Elch::N,койык,elan
+191,Fuchs::N,ӟичы,vulpe
+192,Hase::N,кеч,iepure
+193,Maus::N,шыр,șoarece
+194,Wolf::N,кион,lup
+195,Vogel::N,тылобурдо,pasăre
+196,Schwarm::N,уллё,cârd
+197,Huhn::N,курег,găină
+198,Hahn::N,атас,cocoș
+199,Gans::N,ӟазег,gâscă
+200,Adler::N,ӧрзи,vultur
+201,Ente::N,ӵӧж,rață
+202,Eule::N,кучыран,bufniță
+203,Kranich::N,тури,cocor
+204,Krähe::N,куака,cioară
+205,Kuckuck::N,кикы,cuc
+206,Schwan::N,юсь,lebădă
+207,Fisch::N,чорыг,pește
+208,Barsch::N,юш,biban
+209,Hecht::N,чипей,știucă
+210,Schlange[Tier]::N,кый,șarpe
+211,Wurm::N,нумыр,vierme
+212,Spinne::N,чонари,păianjen
+213,Ameise::N,кузьыли,furnică
+214,Laus::N,тэй,păduche
+215,Mücke::N,нымы,țânțar
+216,Mücke::N,чибинь,țânțar
+217,Fliege::N,кут,muscă
+218,Schmetterling::N,бубыли,fluture
+219,Beere::N,узы-боры,boabă
+220,Apfel::N,яблок,măr
+221,Pilz::N,губи,burete
+222,Pilz::N,губи,ciupercă
+223,Zwiebel::N,сугон,ceapă
+224,Saat::N,кидыс,semănătură
+225,Korn::N,тысь,grâu
+226,Heu::N,турын,fân
+227,Schale::N,кыд,coajă
+228,Grube::N,гу,groapă
+229,Grube::N,гоп,groapă
+230,Falle::N,налик,cursă
+231,Falle::N,налик,capcană
+232,Schlinge::N,гиӟ,laț
+233,Schlinge::N,герд,laț
+234,Spur::N,пытьы,dâră
+235,Spur::N,бервыл,dâră
+236,Asche::N,пень,cenușă
+237,Dreck::N,дэри,noroi
+238,Dreck::N,дэри,murdărie
+239,Eisen::N,корт,fier
+240,Gold::N,зарни,aur
+241,Silber::N,азвесь,argint
+242,Kohle::N,эгыр,cărbune
+243,Glas::N,стекло,sticlă
+244,Glas::N,пияла,sticlă
+245,Lehm::N,сюй,lut
+246,Lehm::N,сюй,humă
+247,Sand::N,луо,nisip
+248,Mensch::N,мурт,om
+249,Mensch::N,мурт,persoană
+250,Mensch::N,адями,om
+251,Mensch::N,адями,persoană
+252,Mann::N,воргорон,om
+253,Mann::N,воргорон,bărbat
+254,Frau::N,кышномурт,femeie
+255,Kind::N,нуны,copil
+256,Kind::N,пинал,copil
+257,Junge::N,пи,băiat
+258,Junge::N,пи,flăcău
+259,Mädchen::N,ныл,fată
+260,Familie::N,семья,familie
+261,Großvater::N,песятай,bunic
+262,Großvater::N,песятай,tată mare
+263,Großvater::N,пересь атай,bunic
+264,Großvater::N,пересь атай,tată mare
+265,Großmutter::N,песянай,bunică
+266,Großmutter::N,песянай,mamă mare
+267,Großmutter::N,пересь анай,bunică
+268,Großmutter::N,пересь анай,mamă mare
+269,Eltern::N,атай-анай,părinți
+270,Eltern::N,бубы-мумы,părinți
+271,Vater::N,айы,tată
+272,Vater::N,айы,părinte
+273,Vater::N,атай,tată
+274,Vater::N,атай,părinte
+275,Mutter::N,мумы,mamă
+276,Sohn::N,пи,fiu
+277,Sohn::N,пи,fecior
+278,Tochter::N,ныл,fiică
+279,Bruder::N,агай,frate
+280,Schwester::N,апа,soră
+281,Schwester::N,сузэр,soră
+282,Onkel::N,агай,unchi
+283,Tante::N,апа,mătușă
+284,Tante::N,кенак,mătușă
+285,Ehemann::N,карт,soț
+286,Ehemann::N,карт,bărbat
+287,Ehefrau::N,кышно,soție
+288,Freude::N,шумпотон,bucurie
+289,Gelächter::N,горем,râset
+290,Glück::N,шуд,fericire
+291,Kummer::N,кайгу,mâhnire
+292,Kummer::N,куректон,mâhnire
+293,Wunsch::N,мылпотон,dorință
+294,Wunsch::N,мылпотон,deziderat
+295,Lust::N,потон,poftă
+296,Lust::N,потон,înclinare
+297,Geist::N,лул,duh
+298,Geist::N,лул,minte
+299,Geist::N,лул,suflet
+300,Gedanke::N,малпан,gând
+301,Gedanke::N,малпан,cuget
+302,Gedächtnis::N,йырсазь,memorie
+303,Gedächtnis::N,тодэваён,memorie
+304,Verstand::N,йырвизь,minte
+305,Verstand::N,йырвизь,intelect
+306,Sinn::N,смысл,sens
+307,Sinn::N,смысл,înțeles
+308,Grund::N,муг,cauză
+309,Grund::N,муг,pricină
+310,Grund::N,ньӧм,cauză
+311,Grund::N,ньӧм,pricină
+312,Wahrheit::N,зэм,adevăr
+313,Wahrheit::N,шонер,adevăr
+314,Gespräch::N,вераськон,convorbire
+315,Gespräch::N,вераськон,conversație
+316,Märchen::N,выжыкыл,basm
+317,Märchen::N,выжыкыл,poveste
+318,Erzählung::N,верос,poveste
+319,Nachricht::N,ивор,veste
+320,Neuigkeit::N,выльивор,noutate
+321,Neuigkeit::N,выльивор,actualitate
+322,Name::N,ним,nume
+323,Rätsel::N,мадькыл,ghicitoare
+324,Rede::N,верам,discurs
+325,Sprache::N,кыл,limbă
+326,Sprache::N,кыл,limbaj
+327,Stimme::N,куара,glas
+328,Wort::N,кыл,cuvânt
+329,Zeichen::N,пус,semn
+330,Zeichen::N,пус,semnal
+331,Zeichen::N,тодмет,semn
+332,Zeichen::N,тодмет,semnal
+333,Ruf::N,ӧтён,chemare
+334,Ruf::N,чортон,chemare
+335,Lärm::N,ӵашетон,zgomot
+336,Lärm::N,ӵашетон,tărăboi
+337,Laut::N,куара,sunet
+338,Ton::N,куара,ton
+339,Lied::N,кырӟан,cântec
+340,Ruhe::N,чалмыт улон,odihnă
+341,Ruhe::N,чалмыт улон,liniște
+342,Leute::N,адямиос,lume
+343,Leute::N,адямиос,oameni
+344,Volk::N,калык,popor
+345,Volk::N,калык,națiune
+346,Arbeit::N,уж,lucru
+347,Gast::N,куно,musafir
+348,Geschenk::N,салам,dar
+349,Geschenk::N,салам,cadou
+350,Geschenk::N,кузьым,dar
+351,Geschenk::N,кузьым,cadou
+352,Spiel::N,шудон,joc
+353,Gesellschaft::N,калык,societate
+354,Hilfe::N,юрттон,ajutor
+355,Freund::N,эш,amic
+356,Freund::N,эш,prieten
+357,Freund::N,юлтош,amic
+358,Freund::N,юлтош,prieten
+359,Kamerad::N,тодмо,tovarăș
+360,Angelegenheit::N,уж,afacere
+361,Anzahl::N,лыд,număr
+362,Anzahl::N,лыд,cantitate
+363,Art::N,тус,fel
+364,Art::N,тус,specie
+365,Stück::N,юдэс,bucată
+366,Teil::N,люкет,parte
+367,Teil::N,люкет,porție
+368,Hälfte::N,ӝыны,jumătate
+369,Kreis::N,котырес,cerc
+370,Kreuz::N,крест,cruce
+371,Linie::N,гож,linie
+372,Strich::N,гож,linie
+373,Strich::N,гож,trăsătură
+374,Abstand::N,вис,distanță
+375,Abstand::N,вис,depărtare
+376,Abstand::N,кусып,distanță
+377,Abstand::N,кусып,depărtare
+378,Entfernung::N,кусып,distanță
+379,Entfernung::N,кусып,depărtare
+380,Gegend::N,инты,regiune
+381,Platz::N,инты,loc
+382,Ort::N,инты,loc
+383,Ort::N,места,loc
+384,Seite::N,пал,latură
+385,Mitte::N,шор,centru
+386,Gegenstand::N,арбери,obiect
+387,Sache::N,котыр,lucru
+388,Sache::N,котыр,chestie
+389,Rand::N,дур,bordură
+390,Rand::N,шаер,bordură
+391,Kante::N,дур,muchie
+392,Kante::N,дур,bordură
+393,Ecke::N,сэрег,colț
+394,Spitze::N,йыл,vârf
+395,Spitze::N,йыл,creștet
+396,Ende::N,пум,capăt
+397,Loch::N,пась,gaură
+398,Winkel::N,сэрег,colț
+399,Muster::N,пужы,desen
+400,Größe::N,быдӟала,mărime
+401,Länge::N,кузьдала,lungime
+402,Höhe::N,ӝуждала,înălțime
+403,Gewicht::N,сектала,greutate
+404,Gewicht::N,секытлык,greutate
+405,Menge::N,лыд,cantitate
+406,Menge::N,лыдпус,cantitate
+407,Haufen::N,люк,grămadă
+408,Reihe::N,чур,șir
+409,Reihe::N,чур,rând
+410,Boot::N,пыж,barcă
+411,Boot::N,пыж,luntre
+412,Boot::N,лодка,barcă
+413,Boot::N,лодка,luntre
+414,Ruder::N,полыс,vâslă
+415,Ruder::N,полыс,lopată
+416,Schlitten::N,додьы,sanie
+417,Ski::N,куас,schi
+418,Lagerfeuer::N,тылскем,foc de tabără
+419,Last::N,секыт,povară
+420,Last::N,секыт,sarcină
+421,Gang::N,ветлон,mers
+422,Gang::N,ветлон,umblet
+423,Schritt::N,вамыш,pas
+424,Norden::N,уйпал,nord
+425,Norden::N,уйпал,miazănoapte
+426,Süden::N,лымшор,sud
+427,Süden::N,лымшор,miazăzi
+428,Westen::N,шунды пуксён,apus
+429,Osten::N,шунды ӝужан,est
+430,Osten::N,шунды ӝужан,răsărit
+431,Holz::N,пу,lemn
+432,Brett::N,пул,scândură
+433,Platte::N,плита,placă
+434,Stütze::N,пыкет,proptea
+435,Stange::N,пуӵ,bară
+436,Stange::N,пуӵ,prăjină
+437,Stock::N,боды,băț
+438,Stock::N,боды,baston
+439,Stab::N,пуӵ,baston
+440,Stab::N,пуӵ,prăjină
+441,Stab::N,боды,baston
+442,Stab::N,боды,prăjină
+443,Rohr::N,труба,tub
+444,Rohr::N,труба,țeavă
+445,Haus::N,юрт,casă
+446,Heim::N,корка,casă
+447,Heim::N,корка,cămin
+448,Ofen::N,гур,sobă
+449,Fußboden::N,выж,podea
+450,Fußboden::N,выж,dușumea
+451,Tisch::N,ӝӧк,masă
+452,Stuhl::N,пукон,scaun
+453,Wiege::N,кӧкы,leagăn
+454,Wiege::N,зыбка,leagăn
+455,Bett::N,валес,pat
+456,Regal::N,ӝажы,rafturi
+457,Kiste::N,ящик,ladă
+458,Kiste::N,ящик,cutie
+459,Fenster::N,укно,fereastră
+460,Fenster::N,косяк,fereastră
+461,Tür::N,ӧс,ușă
+462,Tor::N,ӟезьы,poartă
+463,Zaun::N,забор,gard
+464,Dach::N,липет,acoperiș
+465,Leiter::N,падӟа,scară
+466,Besen::N,ӵужон,mătură
+467,Besen::N,исьнер,mătură
+468,Spaten::N,лопатка,cazma
+469,Spaten::N,лопатка,hârleț
+470,Schaufel::N,ютырон,lopată
+471,Gabel::N,тэчы,furculiță
+472,Gabel::N,вилка,furculiță
+473,Löffel::N,пуньы,lingură
+474,Messer::N,пурт,cuțit
+475,Nagel::N,кортӵог,cui
+476,Netz::N,сеть,plasă
+477,Haken::N,курик,cârlig
+478,Griff::N,ныд,mâner
+479,Schloss::N,тунгон,lacăt
+480,Bild::N,суред,tablou
+481,Bild::N,суред,imagine
+482,Figur::N,фигура,chip
+483,Figur::N,фигура,figură
+484,Puppe::N,мунё,păpușă
+485,Beutel::N,пуйы,pungă
+486,Beutel::N,пуйы,săculeț
+487,Bündel::N,керттэт,mănunchi
+488,Tasche::N,пуйы,geantă
+489,Tasche::N,сумка,geantă
+490,Eimer::N,ведра,găleată
+491,Deckel::N,ӵоксэт,capac
+492,Geschirr::N,тусьты-пуньы,vase
+493,Geschirr::N,тусьты-пуньы,tacâmuri
+494,Sack::N,пуйы,sac
+495,Tasse::N,ӵаша,ceașcă
+496,Topf::N,миска,oală
+497,Kessel::N,пурты,cazan
+498,Kessel::N,пурты,căldare
+499,Essen::N,сиськон,mâncare
+500,Nahrung::N,сион,hrană
+501,Nahrung::N,сион,aliment
+502,Speise::N,сиён,bucate
+503,Speise::N,сиён,fel de bucate
+504,Fleisch::N,сӥль,carne
+505,Getreide::N,ю тысь,cereale
+506,Brei::N,ӝук,pireu
+507,Brot::N,нянь,pâine
+508,Scheibe::N,шорем,felie
+509,Scheibe::N,шорем,bucată
+510,Fett::N,кӧй,untură
+511,Fett::N,кӧй,grăsime
+512,Butter::N,вӧй,unt
+513,Öl::N,вӧй,ulei
+514,Salz::N,сылал,sare
+515,Suppe::N,шыд,supă
+516,Suppe::N,шыд,ciorbă
+517,Honig::N,чечы,miere
+518,Milch::N,йӧл,lapte
+519,Tee::N,чай,ceai
+520,Leder::N,сурон,piele
+521,Wolle::N,гон,lână
+522,Wolle::N,ыжгон,lână
+523,Stoff::N,куэм,stofă
+524,Nadel::N,вень,ac
+525,Faden::N,сӥньыс,ață
+526,Knopf::N,бирды,buton
+527,Knoten::N,герд,nod
+528,Farbe::N,буёл,vopsea
+529,Kleidung::N,дӥсь,haine
+530,Kleidung::N,дӥсь,îmbrăcăminte
+531,Hemd::N,дэрем,cămașă
+532,Kragen::N,сирес,guler
+533,Ärmel::N,саес,mânecă
+534,Hose::N,брюки,pantaloni
+535,Hose::N,штань,pantaloni
+536,Gürtel::N,кускерттон,cordon
+537,Mütze::N,ызьы,șapcă
+538,Schuh::N,ботинка,gheată
+539,Stiefel::N,сапег,cizmă
+540,Ring::N,зундэс,inel
+541,Ring::N,зундэс,verigă
+542,Band::N,лента,panglică
+543,Band::N,лента,șiret
+544,Kamm::N,сын,pieptene
+545,Spiegel::N,синучкон,oglindă
+546,Riemen::N,е,curea
+547,Schnur::N,гозы,funie
+548,Schnur::N,гозы,sfoară
+549,Leine::N,думет,lesă
+550,Leine::N,думет,curea
+551,Decke::N,шобрет,pătură
+552,Kissen::N,миндэр,pernă
+553,Tuch::N,кышет,batic
+554,Handtuch::N,ӵушкон,prosop
+555,Handtuch::N,ӵушкон,ștergar
+556,Kraft::N,кать,forță
+557,Kraft::N,кать,putere
+558,Kraft::N,ӟигар,forță
+559,Kraft::N,ӟигар,putere
+560,Stärke::N,юнлык,tărie
+561,Stärke::N,юнлык,vigoare
+562,Gesundheit::N,тазалык,sănătate
+563,Krankheit::N,висён,boală
+564,Krankheit::N,висён,maladie
+565,Schmerz::N,висён,durere
+566,Wunde::N,яра,rană
+567,Fieber::N,кезег,febră
+568,Arznei::N,эмъюм,leac
+569,Arznei::N,эмъюм,medicament
+570,Brücke::N,выж,pod
+571,Brücke::N,выж,punte
+572,Brunnen::N,колдэч,puț
+573,Weide::N,возь,izlaz
+574,Weide::N,возь,pășune
+575,Pfad::N,сюрес,cărare
+576,Weg::N,сюрес,drum
+577,Straße::N,сюрес,cale
+578,Straße::N,сюрес,stradă
+579,Dorf::N,гурт,sat
+580,Stadt::N,кар,oraș
+581,Stadt::N,город,oraș
+582,Brief::N,гожтэт,scrisoare
+583,Buch::N,книга,carte
+584,Buchstabe::N,буква,literă
+585,Buchstabe::N,буква,caracter
+586,Zeitung::N,газет,ziar
+587,Zeitung::N,газет,gazetă
+588,Leben::N,улон,viață
+589,Tod::N,кулон,moarte
+590,Grab::N,шайгу,groapă
+591,Grab::N,шайгу,mormânt
+592,Kirche::N,черк,biserică
+593,Sünde::N,сьӧлык,păcat
+594,Gott::N,ӥнмар,zeu
+595,Arbeiter::N,рабочий,muncitor
+596,Chef::N,начальник,șef
+597,Meister::N,кибашлы,meșter
+598,Meister::N,кибашлы,maestru
+599,Arzt::N,врач,medic
+600,Arzt::N,врач,doctor
+601,Lehrer::N,дышетӥсь,profesor
+602,Lehrer::N,дышетӥсь,învățător
+603,Geld::N,уксё,bani
+604,Geld::N,уксё,parale
+605,Geld::N,коньдон,bani
+606,Geld::N,коньдон,parale
+607,Geschäft::N,уж,treabă
+608,Geschäft::N,уж,afacere
+609,Laden::N,магазин,magazin
+610,Laden::N,магазин,prăvălie
+611,Preis::N,дун,preț
+612,Ware::N,вуз,marfă
+613,Nutzen::N,пайда,folos
+614,Nutzen::N,пайда,profit
+615,Reichtum::N,узырлык,avuție
+616,Reichtum::N,узырлык,bogăție
+617,Welt::N,дунне,lume
+618,Land::N,шаер,țară
+619,Staat::N,кун,stat
+620,König::N,эксэй,rege
+621,Macht::N,власть,putere
+622,Macht::N,власть,putință
+623,Grenze::N,кунгож,hotar
+624,Grenze::N,кунгож,graniță
+625,Grenze::N,кунгож,frontieră
+626,Krieg::N,ож,război
+627,Feind::N,тушмон,dușman
+628,Gewalt::N,эриктэман,violență
+629,Kampf::N,нюръяськон,luptă
+630,Bogen[Waffe]::N,пукыӵ,arc
+631,Pfeil::N,пукыӵ вень,săgeată
+632,Gewehr::N,пыӵал,armă
+633,Gewehr::N,пыӵал,pușcă
+634,Fehler::N,янгыш,eroare
+635,Fehler::N,янгыш,greșeală
+636,Lüge::N,пӧян,minciună
+637,Lüge::N,алдан,minciună
+638,Lüge::N,ӧрекчан,minciună
+639,Schaden::N,изъян,daună
+640,Schaden::N,изъян,pagubă
+641,Unglück::N,куректон,nenorocire
+642,Unglück::N,шудтэме усён,nenorocire
+643,Schuld::N,янгыш,vină
+644,Alter::N,арлыд,etate
+645,Alter::N,арлыд,vârstă
+646,Schluss::N,пум,sfârșit
+647,Zeit::N,дыр,timp
+648,Zeit::N,дыр,vreme
+649,Tag::N,нунал,zi
+650,Morgen::N,ӵукна,dimineață
+651,Mittag::N,лымшор,prânz
+652,Mittag::N,лымшор,amiază
+653,Abend::N,ӝыт,seară
+654,Abend::N,акшан,seară
+655,Nacht::N,уй,noapte
+656,Woche::N,арня,săptămână
+657,Monat::N,толэзь,lună
+658,Jahr::N,ар,an
+659,Frühling::N,тулыс,primăvară
+660,Sommer::N,гужем,vară
+661,Herbst::N,сӥзьыл,toamnă
+662,Winter::N,тол,iarnă
+663,Januar::N,выльартолэзь,ianuarie
+664,Februar::N,тулыспал,februarie
+665,März::N,южтолэзь,martie
+666,April::N,оштолэзь,aprilie
+667,Mai::N,куартолэзь,mai
+668,Juni::N,вожотолэзь,iunie
+669,Juli::N,пӧсьтолэзь,iulie
+670,August::N,гудырикошкон,august
+671,September::N,куарусён,septembrie
+672,Oktober::N,выльӝуктолэзь,octombrie
+673,November::N,шуркынмон,noiembrie
+674,Dezember::N,толсур,decembrie
+675,Montag::N,вордӥськон,luni
+676,Dienstag::N,вторник,marți
+677,Mittwoch::N,вирнунал,miercuri
+678,Donnerstag::N,покчиарня,joi
+679,Freitag::N,удмуртарня,vineri
+680,Samstag::N,кӧснунал,sâmbătă
+681,Sonntag::N,арня,duminică
+682,groß::A,бадӟым,mare
+683,klein::A,пичи,mic
+684,lang::A,кузь,lung
+685,kurz::A,вакчи,scurt
+686,breit::A,паськыт,lat
+687,breit::A,паськыт,larg
+688,schmal::A,сюлэг,strâmt
+689,dicht::A,ӵем,des
+690,dick[Gegenstand]::A,зӧк,gros
+691,dünn::A,векчи,subțire
+692,fein::A,векчи,fin
+693,fein::A,векчи,subțire
+694,fest::A,юн,tare
+695,fest::A,юн,solid
+696,fest::A,чурыт,tare
+697,fest::A,чурыт,solid
+698,flach::A,ӵошкыт,șes
+699,flach::A,ӵошкыт,plan
+700,glatt::A,гылыт,lins
+701,glatt::A,вольыт,lins
+702,hart::A,чурыт,dur
+703,weich::A,небыт,moale
+704,rund::A,котырес,rotund
+705,rund::A,котырес,circular
+706,spitz::A,йылсо,ascuțit
+707,scharf::A,лэчыт,tăios
+708,scharf::A,лэчыт,ascuțit
+709,stumpf::A,ныж,tocit
+710,schwer::A,секыт,greu
+711,schön::A,чебер,frumos
+712,heiß::A,пӧсь,cald
+713,heiß::A,пӧсь,fierbinte
+714,warm::A,шуныт,cald
+715,warm::A,шуныт,fierbinte
+716,kalt::A,кезьыт,rece
+717,kühl::A,юзмыт,rece
+718,kühl::A,юзмыт,răcoros
+719,kühl::A,салкым,rece
+720,kühl::A,салкым,răcoros
+721,frisch::A,выль,răcoros
+722,frisch::A,выль,proaspăt
+723,feucht::A,мускыт,umed
+724,feucht::A,мускыт,jilav
+725,nass::A,котмем,ud
+726,trocken::A,кӧс,sec
+727,trocken::A,кӧс,uscat
+728,voll::A,тыр,plin
+729,leer::A,буш,gol
+730,leer::A,тырттэм,gol
+731,offen::A,усьтэм,deschis
+732,geschlossen::A,ӵогам,închis
+733,geschlossen::A,пунням,închis
+734,sauber::A,ӝикыт,curat
+735,sauber::A,чылкыт,curat
+736,schmutzig::A,нӧд,murdar
+737,roh::A,ыль,crud
+738,reif::A,вуэм,copt
+739,lecker::A,ческыт,gustos
+740,süß::A,ческыт,dulce
+741,bitter::A,курыт,amar
+742,sauer::A,чырс,acru
+743,hell::A,югыт,clar
+744,hell::A,югыт,luminos
+745,dunkel::A,пеймыт,obscur
+746,dunkel::A,пеймыт,întunecos
+747,schwarz::A,сьӧд,negru
+748,weiß::A,тӧдьы,alb
+749,rot::A,горд,roșu
+750,gelb::A,ӵуж,galben
+751,blau::A,лыз,albastru
+752,grün::A,вож,verde
+753,grau::A,пурысь,gri
+754,grau::A,пурысь,cenușiu
+755,bunt::A,куӵо,colorat
+756,billig::A,дунтэм,ieftin
+757,teuer::A,дуно,scump
+758,wertvoll::A,дуно,prețios
+759,blind::A,сукыр,orb
+760,blind::A,синтэм,orb
+761,taub::A,пельтэм,surd
+762,kräftig::A,кужмо,tare
+763,kräftig::A,кужмо,forte
+764,kräftig::A,кужмо,robust
+765,stark::A,юн,viguros
+766,stark::A,юн,puternic
+767,stark::A,кужмо,viguros
+768,stark::A,кужмо,puternic
+769,schwach::A,ляб,slab
+770,schwach::A,ляб,debil
+771,schwach::A,начар,slab
+772,schwach::A,начар,debil
+773,fett::A,кӧй,gras
+774,schlank::A,веськыт,zvelt
+775,schlank::A,веськрес,zvelt
+776,hübsch::A,чебер,drăguț
+777,hübsch::A,синмаськымон,drăguț
+778,böse::A,лек,rău
+779,böse::A,лек,răutăcios
+780,dumm::A,шузи,nerod
+781,dumm::A,шузи,tâmpit
+782,dumm::A,визьтэм,nerod
+783,dumm::A,визьтэм,tâmpit
+784,faul::A,азьтэм,leneș
+785,fleißig::A,сюлмо,harnic
+786,fleißig::A,сюлмо,sârguincios
+787,geizig::A,сук,calic
+788,geizig::A,сук,zgârcit
+789,klug::A,визьмо,isteț
+790,klug::A,визьмо,deștept
+791,geschickt::A,усто,dibaci
+792,geschickt::A,быгатӥсь,dibaci
+793,lieb::A,мусо,drag
+794,lieb::A,мусо,iubit
+795,lustig::A,шулдыр,vesel
+796,sanft::A,мусо,blând
+797,sanft::A,мусо,blajin
+798,sanft::A,эрке,blând
+799,sanft::A,эрке,blajin
+800,hungrig::A,сютэм,flămând
+801,krank::A,висись,bolnav
+802,nackt::A,гольык,gol
+803,traurig::A,мӧзмыт,trist
+804,traurig::A,мӧзмыт,mâhnit
+805,lebendig::A,улэп,viu
+806,gut::A,ӟеч,bun
+807,gut::A,умой,bun
+808,schlecht::A,урод,rău
+809,schlecht::A,урод,prost
+810,schlecht::A,алама,rău
+811,schlecht::A,алама,prost
+812,richtig::A,шонер,drept
+813,richtig::A,шонер,corect
+814,schlimm::A,алама,rău
+815,wahr::A,зэмос,adevărat
+816,alt::A,вуж,uzat
+817,alt::A,вуж,vechi
+818,neu::A,выль,nou
+819,ehemalig::A,азьвылэз,fost
+820,ehemalig::A,азьвылэз,anterior
+821,alt[Lebewesen]::A,пересь,bătrîn
+822,jung::A,егит,tânăr
+823,jung::A,пинал,tânăr
+824,arm::A,начар,sărac
+825,arm::A,начар,sărman
+826,arm::A,куанер,sărac
+827,arm::A,куанер,sărman
+828,reich::A,узыр,avut
+829,reich::A,узыр,bogat
+830,bekannt::A,тодмо,cunoscut
+831,berühmt::A,дано,renumit
+832,fremd::A,ят,străin
+833,verschieden::A,пӧртэм,diferit
+834,verschieden::A,пӧртэм,deosebit
+835,nah::A,матысь,apropiat
+836,fern::A,кыдёкысь,departe
+837,linker::A,паллян,stâng
+838,rechter::A,бур,drept
+839,rechter::A,бурпал,drept
+840,anderer::A,мукет,alt
+841,erster::A,нырысетӥез,prim
+842,zweiter::A,кыктэтӥез,al doilea
+843,dritter::A,кунньметӥез,treilea
+844,letzter::A,берло,final
+845,letzter::A,берпум,final
+846,allein::ADV,огназ,singur
+847,auf einmal::ADV,огдыре,dintrodată
+848,zusammen::ADV,ӵош,împreună
+849,zusammen::ADV,валче,împreună
+850,lange::ADV,кема,îndelung
+851,lange::ADV,кема,mult timp
+852,plötzlich::ADV,мапламтэ шорысь,deodată
+853,plötzlich::ADV,мапламтэ шорысь,pe neașteptate
+854,sofort::ADV,али ик,imediat
+855,sofort::ADV,али ик,numaidecît
+856,später::ADV,бергес,mai apoi
+857,später::ADV,бергес,mai târziu
+858,später::ADV,берлогес,mai apoi
+859,später::ADV,берлогес,mai târziu
+860,jetzt::ADV,али,acum
+861,jetzt::ADV,табере,acum
+862,heute::ADV,туннэ,azi
+863,heute::ADV,туннэ,astăzi
+864,morgen::ADV,ӵуказе,mâine
+865,bald::ADV,ӝоген,curând
+866,dann::ADV,берло,apoi
+867,gestern::ADV,толон,ieri
+868,einst::ADV,огпол,odată
+869,einst::ADV,огпол,odinioară
+870,einst::ADV,одӥг пол,odată
+871,einst::ADV,одӥг пол,odinioară
+872,damals::ADV,соку,atunci
+873,damals::ADV,соку,pe atunci
+874,danach::ADV,собере,după aceasta
+875,vorher::ADV,азьло,mai întâi
+876,vorher::ADV,азьло,în prealabil
+877,vorher::ADV,азьвыл,mai întâi
+878,vorher::ADV,азьвыл,în prealabil
+879,zuerst::ADV,азьло,întâi
+880,zuerst::ADV,азьло,în primul rând
+881,einmal::ADV,огпол,odată
+882,manchmal::ADV,куддыръя,uneori
+883,manchmal::ADV,куддыръя,câteodată
+884,oft::ADV,ӵем,des
+885,oft::ADV,ӵем,deseori
+886,immer::ADV,пыр,mereu
+887,immer::ADV,пыр,întotdeauna
+888,immer::ADV,котьку,mereu
+889,immer::ADV,котьку,întotdeauna
+890,niemals::ADV,уз ноку,niciodată
+891,hier::ADV,татын,aci
+892,hier::ADV,татын,aici
+893,hierhin::ADV,татчы,încoace
+894,von hier::ADV,татысь,de aici
+895,dort::ADV,отӥ,acolo
+896,dort::ADV,отын,acolo
+897,dorthin::ADV,отчы,dincolo
+898,geradeaus::ADV,меӵак,drept înainte
+899,vorwärts::ADV,азьлань,înainte
+900,rückwärts::ADV,берлань,îndărăt
+901,zurück::ADV,берен,înapoi
+902,zurück::ADV,берлань,înapoi
+903,unten::ADV,улын,jos
+904,unten::ADV,улын,dedesubt
+905,hinab::ADV,улэ,în jos
+906,hinab::ADV,улэ,de vale
+907,oben::ADV,вылын,sus
+908,oben::ADV,вылын,deasupra
+909,oben::ADV,вылӥын,sus
+910,oben::ADV,вылӥын,deasupra
+911,hinauf::ADV,вылэ,în sus
+912,hinauf::ADV,вылӥе,în sus
+913,hinauf::ADV,выллань,în sus
+914,überall::ADV,котькытын,peste tot
+915,überall::ADV,котькытын,pretutindeni
+916,überall::ADV,пасьтана,peste tot
+917,überall::ADV,пасьтана,pretutindeni
+918,nicht::ADV,уз,nu
+919,ein wenig::ADV,ичи,puțin
+920,ein wenig::ADV,ӧжыт,puțin
+921,ein wenig::ADV,огшап,puțin
+922,kaum::ADV,муртса,cu greu
+923,kaum::ADV,муртса,cu anevoie
+924,sehr::ADV,туж,mult
+925,sehr::ADV,туж,foarte
+926,sehr::ADV,лекос,mult
+927,sehr::ADV,лекос,foarte
+928,so::ADV,озьы,așa
+929,so::ADV,озьы,atât
+930,so::ADV,тазьы,așa
+931,so::ADV,тазьы,atât
+932,noch::ADV,на,încă
+933,nur::ADV,гинэ,doar
+934,schon::ADV,ни,și
+935,schon::ADV,ни,deja
+936,schon::ADV,ини,și
+937,schon::ADV,ини,deja
+938,wieder::ADV,нош,iar
+939,wieder::ADV,нош,iarăși
+940,wieder::ADV,кайта,iar
+941,wieder::ADV,кайта,iarăși
+942,vergebens::ADV,юнме,în zadar
+943,vor::PRP,азьын,înainte de
+944,hinter::PRP,берын,după
+945,hinter::PRP,берын,în spatele
+946,hinter::PRP,бӧрсьы,după
+947,hinter::PRP,бӧрсьы,în spatele
+948,unter::PRP,улын,sub
+949,durch::PRP,пыр,prin
+950,durch::PRP,пыртӥ,prin
+951,neben::PRP,бордын,lângă
+952,neben::PRP,бордын,alături de
+953,zwischen::PRP,вискын,între
+954,zwischen::PRP,вискын,dintre
+955,wegen::PRP,сэрен,pentru
+956,dies::PRN,та,acesta
+957,das::PRN,со,asta
+958,alles::PRN,ваньмыз,tot
+959,ich::PRN,мон,eu
+960,du::PRN,тон,tu
+961,er::PRN,со,el
+962,er::PRN,со,dânsul
+963,wir::PRN,ми,noi
+964,ihr::PRN,тӥ,voi
+965,sie::PRN,соос,ei
+966,sie::PRN,соос,dânșii
+967,was::FPRN,ма,ce
+968,wer::FPRN,кин,cine
+969,wo::FADV,кытын,unde
+970,wohin::FADV,кытчы,încotro
+971,wie::FADV,кызьы,cum
+972,warum::FADV,малы,de ce
+973,warum::FADV,малы,pentru ce
+974,wieviel::FNUM,кӧня,cât
+975,eins::NUM,одӥг,unu
+976,zwei::NUM,кык,doi
+977,drei::NUM,куинь,trei
+978,vier::NUM,ньыль,patru
+979,fünf::NUM,вить,cinci
+980,sechs::NUM,куать,șase
+981,sieben::NUM,сизьым,șapte
+982,acht::NUM,тямыс,opt
+983,neun::NUM,укмыс,nouă
+984,zehn::NUM,дас,zece
+985,elf::NUM,дас одӥг,unsprezece
+986,zwölf::NUM,дас кык,douăsprezece
+987,zwanzig::NUM,кызь,douăzeci
+988,dreißig::NUM,куамын,treizeci
+989,vierzig::NUM,ньыльдон,patruzeci
+990,fünfzig::NUM,витьтон,cincizeci
+991,sechzig::NUM,куатьтон,șaizeci
+992,siebzig::NUM,сизьымдон,șaptezeci
+993,achtzig::NUM,тямыстон,optzeci
+994,neunzig::NUM,укмыстон,nouăzeci
+995,hundert::NUM,сю,sută
+996,tausend::NUM,сюрс,mie
+997,und::CNJ,и,și
+998,und::CNJ,но,și
+999,oder::CNJ,яке,ori
+1000,stehen::V,сылыны,sta
+1001,sitzen::V,пукыны,ședea
+1002,liegen::V,кылльыны,zăcea
+1003,liegen::V,кылльыны,fi culcat
+1004,hängen::V,ошкыса улыны,atârna
+1005,werden::V,луыны,deveni
+1006,werden::V,луыны,se face
+1007,passieren::V,луыны,se întâmpla
+1008,beginnen::V,кутскыны,începe
+1009,enden::V,бырыны,se sfârși
+1010,enden::V,бырыны,se termina
+1011,wechseln::V,воштӥськыны,se schimba
+1012,aufgehen[Sonne]::V,ӝужаны,răsări
+1013,untergehen[Sonne]::V,пуксьыны,apune
+1014,scheinen[Sonne]::V,пиштыны,străluci
+1015,scheinen[Sonne]::V,чиляны,străluci
+1016,donnern::V,гудыръяны,tuna
+1017,wehen::V,пелляськыны,bate
+1018,strömen::V,киськыны,curge în șiroaie
+1019,strömen::V,исьтӥськыны,curge în șiroaie
+1020,fließen::V,бызьыны,curge
+1021,sich drehen::V,берганы,se învârti
+1022,schwanken::V,вошъяськыны,se clătina
+1023,schwingen::V,шонаськыны,vibra
+1024,schwingen::V,шонаськыны,flutura
+1025,fallen::V,усьыны,cădea
+1026,brennen::V,ӝуаны,arde
+1027,rauchen::V,ӵындыны,fuma
+1028,regnen::V,зорыны,ploua
+1029,gefrieren::V,кынмыны,îngheța
+1030,tauen::V,шунаны,se dezgheța
+1031,schmelzen::V,шунаны,se topi
+1032,trocknen::V,куасьмыны,se usca
+1033,sieden::V,пӧзьыны,fierbe
+1034,sieden::V,пӧзьыны,clocoti
+1035,faulen::V,сисьмыны,se împuți
+1036,verfaulen::V,сисьмыны,putrezi
+1037,reißen::V,кеськыны,se rupe
+1038,reißen::V,кеськыны,se sfâșia
+1039,versinken::V,выйыны,se scufunda
+1040,vergehen::V,ортчыны,trece
+1041,vergehen::V,ортчыны,se scurge
+1042,erscheinen::V,адскыны,apărea
+1043,verschwinden::V,бырыны,dispărea
+1044,sinken::V,усьыны,cădea
+1045,sinken::V,усьыны,coborî
+1046,abnehmen::V,синыны,scădea
+1047,abnehmen::V,синыны,descrește
+1048,zunehmen::V,йылыны,spori
+1049,zunehmen::V,йылыны,crește
+1050,zunehmen::V,йылыны,augmenta
+1051,steigen::V,лӧпкыны,urca
+1052,wachsen::V,будыны,crește
+1053,glänzen::V,чиляны,luci
+1054,glänzen::V,чиляны,străluci
+1055,glänzen::V,пиштыны,luci
+1056,glänzen::V,пиштыны,străluci
+1057,funkeln::V,чилекъяны,scânteia
+1058,lärmen::V,уретыны,face larmă
+1059,lärmen::V,ӵашетыны,face larmă
+1060,läuten::V,жингыртыны,suna
+1061,klingeln::V,жингыртыны,suna
+1062,klirren::V,жильккетыны,zăngăni
+1063,brausen::V,лекъяськыны,vui
+1064,rauschen::V,ӵашетыны,vâjâi
+1065,klingen::V,кылӥськыны,suna
+1066,bellen::V,утыны,lătra
+1067,heulen::V,вузыны,urla
+1068,blasen::V,пельтыны,sufla
+1069,pfeifen::V,шуланы,fluiera
+1070,schreien::V,черекъяны,țipa
+1071,schreien::V,кесяськыны,țipa
+1072,stöhnen::V,ӝуштыны,geme
+1073,zittern::V,дырекъяны,tremura
+1074,zittern::V,куалекъяны,tremura
+1075,leben::V,улыны,trăi
+1076,geboren werden::V,вордӥськыны,se naște
+1077,atmen::V,шоканы,respira
+1078,trinken::V,юыны,bea
+1079,essen::V,сиыны,mânca
+1080,schlucken::V,ньылыны,înghiți
+1081,müde werden::V,жадьыны,se obosi
+1082,einschlafen::V,умме усьыны,adormi
+1083,schlafen::V,кӧлыны,dormi
+1084,aufwachen::V,сайканы,se deștepta
+1085,aufstehen::V,султыны,fi se scula
+1086,sich erholen::V,шутэтскыны,se relaxa
+1087,sich erholen::V,шутэтскыны,se destinde
+1088,krank werden::V,висьыны,se îmbolnăvi
+1089,krank sein::V,висьыны,zăcea
+1090,krank sein::V,висьыны,fi bolnav
+1091,schmerzen::V,висьыны,durea
+1092,husten::V,кызыны,tuși
+1093,genesen::V,юнматскыны,se însănătoși
+1094,genesen::V,бурмытскылыны,se însănătoși
+1095,sterben::V,кулыны,muri
+1096,umkommen::V,бырыны,pieri
+1097,sich bewegen::V,вырыны,se mișca
+1098,sich rühren::V,вырӟыны,se mișca
+1099,sich rühren::V,вырӟылыны,se mișca
+1100,sich erheben::V,султыны,se ridica
+1101,sich setzen::V,пуксьыны,lua loc
+1102,sich setzen::V,пуксьыны,se așeza
+1103,hinfallen::V,усьыны,cădea jos
+1104,laufen::V,мыныны,merge
+1105,laufen::V,мыныны,merge pe jos
+1106,schreiten::V,вамышъяны,păși
+1107,spazierengehen::V,мыныны,se plimba
+1108,spazierengehen::V,ветлыны,se plimba
+1109,eilen::V,дыртыны,fi se grăbi
+1110,sich beeilen::V,дыртыны,se grăbi
+1111,sausen::V,туж ӝог мыныны,țâșni
+1112,rennen::V,бызьылыны,fugi
+1113,rennen::V,бызьылыны,alerga
+1114,springen::V,тэтчаны,sări
+1115,klettern::V,тубаны,urca
+1116,klettern::V,тубаны,se cățăra
+1117,schaukeln::V,лэйканы,legăna
+1118,schaukeln::V,шонаськыны,legăna
+1119,kriechen::V,нюж ветлыны,se târî
+1120,schwimmen::V,уяны,înota
+1121,tauchen::V,зумылыны,se scufunda
+1122,rudern::V,полсаны,vâsli
+1123,rudern::V,полсаны,lopăta
+1124,fahren::V,ветлыны,merge
+1125,fliegen::V,лобаны,zbura
+1126,gehen::V,мыныны,merge
+1127,weggehen::V,кошкыны,se duce
+1128,abfahren::V,кошкыны,pleca
+1129,anhalten::V,дугдыны,se opri
+1130,hineingehen::V,пырыны,intra
+1131,eintreten::V,пырыны,intra
+1132,kommen::V,вуыны,veni
+1133,kommen::V,лыктыны,veni
+1134,ankommen::V,вуыны,sosi
+1135,ankommen::V,вуыны,ajunge
+1136,zurückkommen::V,берытскыны,se întoarce
+1137,bleiben::V,кыльыны,rămâne
+1138,warten::V,витьыны,aștepta
+1139,erwarten::V,витьыны,aștepta
+1140,erwarten::V,возьманы,aștepta
+1141,suchen::V,утчаны,căuta
+1142,finden::V,шедьтыны,găsi
+1143,versuchen::V,турттыны,încerca
+1144,vorbereiten::V,дасяны,pregăti
+1145,lieben::V,гажаны,iubi
+1146,mögen::V,яратыны,plăcea a
+1147,lachen::V,серекъяны,râde
+1148,rühren::V,сюлме йӧтыны,mișca
+1149,rühren::V,сюлме йӧтыны,înduioșa
+1150,weinen::V,бӧрдыны,plânge
+1151,schimpfen::V,даллашыны,înjura
+1152,sich ärgern::V,лекъяськыны,se supăra
+1153,sich fürchten::V,кышканы,se teme
+1154,sich fürchten::V,кышканы,fi teamă a
+1155,sich fürchten::V,курданы,se teme
+1156,sich fürchten::V,курданы,fi teamă a
+1157,fürchten::V,курданы,se teme de
+1158,fürchten::V,кышканы,se teme de
+1159,fliehen::V,пегӟыны,fugi
+1160,flüchten::V,пегӟыны,evada
+1161,sehen::V,адӟыны,vedea
+1162,anschauen::V,учкыны,privi
+1163,ansehen::V,учкыны,privi
+1164,hören::V,кылыны,auzi
+1165,zuhören::V,кылзыны,asculta
+1166,probieren::V,веръяны,gusta
+1167,riechen::V,зынъяны,mirosi
+1168,fühlen::V,шӧдыны,simți
+1169,fühlen::V,шӧдыны,resimți
+1170,scheinen::V,адскыны,părea
+1171,zu sehen sein::V,адӟиськыны,se vedea
+1172,vernehmen::V,кылыны,auzi
+1173,frieren::V,кынмыны,fi frig
+1174,tun::V,карыны,face
+1175,können::V,быгатыны,ști
+1176,können::V,быгатыны,putea
+1177,wollen::V,потыны,dori
+1178,anfangen::V,кутскыны,începe
+1179,beenden::V,быдтыны,sfârși
+1180,beenden::V,быдтыны,termina
+1181,beenden::V,быдэстыны,sfârși
+1182,beenden::V,быдэстыны,termina
+1183,aufhören::V,дугдыны,înceta
+1184,gelingen::V,быгатыны,reuși
+1185,gelingen::V,быгатыны,izbuti
+1186,gelingen::V,луыны,reuși
+1187,gelingen::V,луыны,izbuti
+1188,geraten::V,лэсяны,reuși
+1189,öffnen::V,усьтыны,deschide
+1190,schließen::V,пытсаны,închide
+1191,stellen::V,пуктыны,pune
+1192,stellen::V,пуктыны,așeza
+1193,setzen::V,пуктыны,pune
+1194,setzen::V,пуктыны,așeza
+1195,legen::V,поныны,pune
+1196,berühren::V,исаны,atinge
+1197,verbinden::V,герӟаны,lega
+1198,bedecken::V,пытсаны,acoperi
+1199,aufhängen::V,ошыны,atârna
+1200,aufhängen::V,ошыны,spânzura
+1201,anzünden::V,ӝуатыны,aprinde
+1202,aufheben::V,ӝутыны,ridica
+1203,aufheben::V,ӝутыны,lua de jos
+1204,zurücklassen::V,кельтыны,lăsa
+1205,zurücklassen::V,кельтыны,lăsa în urmă
+1206,verlieren::V,ыштыны,pierde
+1207,fallen lassen::V,уськытыны,scăpa
+1208,fallen lassen::V,уськытыны,arunca
+1209,machen::V,лэсьтыны,face
+1210,herstellen::V,лэсьтыны,fabrica
+1211,herstellen::V,лэсьтыны,confecționa
+1212,bauen::V,пуктыны,clădi
+1213,bauen::V,пуктыны,construi
+1214,reparieren::V,тупатыны,repara
+1215,verbessern::V,умоятыны,ameliora
+1216,verbessern::V,умоятыны,îmbunătăți
+1217,ändern::V,воштыны,schimba
+1218,ändern::V,воштыны,modifica
+1219,graben::V,копаны,săpa
+1220,beugen::V,губыртыны,curba
+1221,biegen::V,куасаны,îndoi
+1222,biegen::V,куасаны,încovoia
+1223,drehen::V,бергатыны,învârti
+1224,wenden::V,берыктыны,întoarce
+1225,umdrehen::V,берыктыны,învârti
+1226,umdrehen::V,берыктыны,întoarce
+1227,heben::V,ӝутыны,ridica
+1228,hochheben::V,ӝутъяны,ridica
+1229,ergreifen::V,кутыны,lua
+1230,ergreifen::V,кутыны,apuca
+1231,ergreifen::V,кырмыны,lua
+1232,ergreifen::V,кырмыны,apuca
+1233,halten::V,возьыны,ține
+1234,drücken::V,зӥбыны,apăsa
+1235,drücken::V,зӥбыны,strânge
+1236,drücken::V,пачкатыны,apăsa
+1237,drücken::V,пачкатыны,strânge
+1238,schieben::V,донганы,împinge
+1239,kratzen::V,вуштыны,zgâria
+1240,lecken::V,нюлыны,linge
+1241,beißen::V,куртчыны,mușca
+1242,abreißen::V,ишкалтыны,rupe
+1243,abreißen::V,ишкалтыны,smulge
+1244,abschneiden::V,шорыны,scurta
+1245,abschneiden::V,вандыны,scurta
+1246,binden::V,керттыны,lega
+1247,stecken::V,мертчытыны,pune
+1248,brechen::V,тӥяны,rupe
+1249,brechen::V,тӥяны,frânge
+1250,klopfen::V,йыганы,ciocăni
+1251,klopfen::V,шарккетыны,ciocăni
+1252,hauen::V,жугыны,lovi
+1253,hauen::V,тышканы,lovi
+1254,kleben::V,лякыны,lipi
+1255,reiben::V,зыраны,freca
+1256,reiben::V,зыраны,fricționa
+1257,reiben::V,вуштыны,freca
+1258,reiben::V,вуштыны,fricționa
+1259,streichen::V,зыраны,unge
+1260,schleifen::V,шерыны,ascuți
+1261,schneiden::V,вандыны,tăia
+1262,rütteln::V,зуркатыны,zgâlțâi
+1263,schütteln::V,куалекъятыны,scutura
+1264,schwenken::V,шонаны,agita
+1265,schütten::V,лэзьыны,vărsa
+1266,füllen::V,тырмытыны,umple
+1267,einwickeln::V,биньыны,înveli
+1268,einwickeln::V,биньыны,înfășura
+1269,tragen::V,нуыны,căra
+1270,schleppen::V,кыскыны,târî
+1271,ziehen::V,кыскыны,trage
+1272,aufbewahren::V,возьыны,păstra
+1273,aufbewahren::V,возьыны,conserva
+1274,werfen::V,куяны,arunca
+1275,werfen::V,лэзяны,arunca
+1276,fangen::V,кутыны,prinde
+1277,packen::V,кутыны,apuca
+1278,packen::V,кырмыны,apuca
+1279,verstecken::V,ватыны,ascunde
+1280,teilen::V,люкыны,împărți
+1281,schicken::V,ыстыны,trimite
+1282,bringen::V,вайыны,aduce
+1283,hinzufügen::V,ватсаны,adăuga
+1284,bekommen::V,басьтыны,obține
+1285,bekommen::V,басьтыны,dobândi
+1286,erhalten::V,басьтыны,primi
+1287,erhalten::V,басьтыны,căpăta
+1288,nehmen::V,кутыны,lua
+1289,nehmen::V,басьтыны,lua
+1290,wählen::V,бырйыны,opta
+1291,wählen::V,бырйыны,alege
+1292,auswählen::V,бырйыны,selecta
+1293,bewahren::V,возьыны,păstra
+1294,behindern::V,могӟытыны,stingheri
+1295,verderben::V,сӧрыны,strica
+1296,beschädigen::V,урод лэсьтыны,strica
+1297,zerbrechen::V,сӧрыны,rupe
+1298,zerbrechen::V,сӧрыны,frânge
+1299,zerreißen::V,кесяны,rupe
+1300,zerreißen::V,кесяны,sfâșia
+1301,zerstören::V,куашкатыны,distruge
+1302,verbrennen::V,сутыны,arde
+1303,verbrennen::V,сутыны,incendia
+1304,geben::V,сётыны,da
+1305,reichen::V,сётыны,întinde
+1306,schenken::V,кузьманы,dărui
+1307,versprechen::V,кыл сётыны,făgădui
+1308,wünschen::V,сӥзьыны,ura
+1309,loben::V,ушъяны,lăuda
+1310,küssen::V,чупаны,săruta
+1311,wiegen::V,веттаны,legăna
+1312,wiegen::V,лэйкатыны,legăna
+1313,zudecken::V,шобыртыны,acoperi
+1314,wecken::V,сайкатыны,trezi
+1315,wecken::V,сайкатыны,deștepta
+1316,zeigen::V,возьматыны,arăta
+1317,führen::V,нуыны,călăuzi
+1318,lehren::V,дышетыны,preda
+1319,lehren::V,дышетыны,învăța
+1320,unterrichten::V,дышетыны,învăța
+1321,unterrichten::V,дышетыны,instrui
+1322,aufziehen::V,будэтыны,crește
+1323,leiten::V,кивалтыны,duce
+1324,leiten::V,кивалтыны,conduce
+1325,antreiben::V,дыртытыны,împinge
+1326,antreiben::V,дыртытыны,încuraja
+1327,lassen::V,-ытыны,pune pe să
+1328,einladen::V,ӧтьыны,invita
+1329,vereinigen::V,огазеяны,uni
+1330,vereinigen::V,огазеяны,întruni
+1331,besuchen::V,адӟыськыны,vizita
+1332,besuchen::V,адӟыськыны,face o vizită
+1333,treffen::V,пумитаны,întâlni
+1334,sich versammeln::V,люкаськыны,se aduna
+1335,spielen::V,шудыны,se juca
+1336,singen::V,кырӟаны,cânta
+1337,tanzen::V,эктыны,dansa
+1338,sich trennen::V,люкиськыны,se separa
+1339,sich trennen::V,люкиськыны,se despărți
+1340,verlassen::V,куштыны,părăsi
+1341,verlassen::V,куштыны,abandona
+1342,retten::V,утьыны,salva
+1343,bewachen::V,возьманы,păzi
+1344,schützen::V,утялтыны,ocroti
+1345,schützen::V,утялтыны,proteja
+1346,verteidigen::V,возьманы,apăra
+1347,sich schlagen::V,жугиськыны,se bate
+1348,schießen::V,ыбылӥськны,trage
+1349,siegen::V,вормыны,birui
+1350,siegen::V,вормыны,învinge
+1351,ärgern::V,вожпоттыны,supăra
+1352,schlagen::V,жуккыны,lovi
+1353,treten::V,лёганы,călca
+1354,stechen::V,бышкалтыны,înțepa
+1355,stechen::V,бышкалтыны,împunge
+1356,stoßen::V,донгыны,împinge
+1357,stehlen::V,вораны,fura
+1358,stehlen::V,лушканы,fura
+1359,stören::V,люкетыны,deranja
+1360,belästigen::V,акыльтыны,importuna
+1361,belästigen::V,вукылмыны,importuna
+1362,verbergen::V,ватыны,ascunde
+1363,täuschen::V,алданы,amăgi
+1364,betrügen::V,пӧяны,înșela
+1365,töten::V,виыны,omorî
+1366,wohnen::V,улыны,sta
+1367,wohnen::V,улыны,locui
+1368,arbeiten::V,ужаны,lucra
+1369,sammeln::V,бичаны,aduna
+1370,sammeln::V,бичаны,colecționa
+1371,pflücken::V,ишкыны,culege
+1372,jagen::V,пӧйшураны,vâna
+1373,fischen::V,чорыганы,pescui
+1374,fassen::V,кутыны,prinde
+1375,hüten::V,возьманы,paște
+1376,treiben::V,улляны,mână
+1377,anbinden::V,думыны,lega
+1378,füttern::V,сюдыны,da de mâncare
+1379,melken::V,кыскыны,mulge
+1380,hacken::V,кораны,toca
+1381,hacken::V,кораны,sparge
+1382,gießen::V,киськаны,uda
+1383,reifen::V,вуыны,pârgui
+1384,reifen::V,кисьманы,pârgui
+1385,zubereiten::V,лесьтыны,găti
+1386,kochen::V,пӧзьтыны,găti
+1387,backen::V,пыжыны,coace
+1388,braten::V,пыжыны,coace
+1389,umrühren::V,сураны,mesteca
+1390,stricken::V,керттыны,împleti
+1391,nähen::V,вурыны,coase
+1392,färben::V,буяны,vopsi
+1393,färben::V,буяны,colora
+1394,reinigen::V,сузяны,curăți
+1395,waschen::V,мисьтаськыны,spăla
+1396,abwischen::V,ӵушылыны,șterge
+1397,spülen::V,гылъяны,clăti
+1398,fegen::V,ӵужыны,mătura
+1399,kehren::V,ӵужыны,mătura
+1400,baden::V,пыласькыны,se scălda
+1401,sich waschen::V,пыласькыны,se spăla
+1402,ausziehen::V,кыльыны,și scoate
+1403,anziehen::V,дӥсяны,îmbrăca
+1404,sich anziehen::V,дӥсьяськыны,se îmbrăca
+1405,kämmen::V,сынаны,pieptăna
+1406,schmücken::V,чеберъяны,împodobi
+1407,sagen::V,шуыны,zice
+1408,sagen::V,шуыны,spune
+1409,sagen::V,вераны,zice
+1410,sagen::V,вераны,spune
+1411,sprechen::V,вераськыны,vorbi
+1412,reden::V,вераськыны,vorbi
+1413,reden::V,вераськыны,discuta
+1414,sich unterhalten::V,вераськыны,conversa
+1415,sich unterhalten::V,вераськыны,sta de vorbă
+1416,fragen::V,юаны,întreba
+1417,bitten::V,курыны,ruga
+1418,erzählen::V,вераны,spune
+1419,erzählen::V,вераны,povesti
+1420,erzählen::V,мадьыны,spune
+1421,erzählen::V,мадьыны,povesti
+1422,mitteilen::V,ивортыны,comunica
+1423,mitteilen::V,ивортыны,înștiința
+1424,nennen::V,шуыны,numi
+1425,nennen::V,шуыны,chema
+1426,rufen::V,ӧтьыны,chema
+1427,prahlen::V,ушъяськыны,se făli
+1428,übersetzen::V,берыктыны,traduce
+1429,denken::V,малпаны,gândi
+1430,glauben::V,оскыны,crede
+1431,bemerken::V,адӟыны,observa
+1432,erkennen::V,тодыны,cunoaște
+1433,erkennen::V,тодыны,recunoaște
+1434,begreifen::V,валаны,pricepe
+1435,begreifen::V,валаны,înțelege
+1436,verstehen::V,валаны,înțelege
+1437,lernen::V,дышетскыны,învăța
+1438,wissen::V,тодыны,ști
+1439,sich erinnern an::V,тодэ вайыны,a-și aminti de
+1440,vergessen::V,вунэтыны,uita
+1441,messen::V,мертаны,măsura
+1442,zählen::V,лыдъяны,număra
+1443,rechnen::V,лыдъяны,calcula
+1444,lesen::V,лыдӟыны,citi
+1445,malen::V,суреданы,picta
+1446,zeichnen::V,суреданы,desena
+1447,schreiben::V,гожъяны,scrie
+1448,besitzen::V,луыны,avea
+1449,besitzen::V,луыны,poseda
+1450,kaufen::V,басьтыны,cumpăra
+1451,verkaufen::V,вузаны,vinde
+1452,bezahlen::V,тырыны,plăti
+1453,bezahlen::V,тырыны,achita
+1454,zahlen::V,тырыны,plăti
+1455,beherrschen::V,кузёяськыны,stăpâni
+1456,ertragen::V,чиданы,răbda
+1457,ertragen::V,чиданы,suporta

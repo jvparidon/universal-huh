@@ -1,0 +1,1293 @@
+,Concept_ID,he,es
+0,Auge::N,עין,ojo
+1,Ohr::N,אזן,oreja
+2,Nase::N,אף,nariz
+3,Nase::N,חטם,nariz
+4,Mund::N,פה,boca
+5,Zahn::N,שן,diente
+6,Zunge::N,לשון,lengua
+7,Lippe::N,שפה,labio
+8,Wange::N,לחי,mejilla
+9,Gesicht::N,פנים,cara
+10,Stirn::N,מצח,frente
+11,Haar::N,שערה,cabello
+12,Schnurrbart::N,שפם,bigote
+13,Bart::N,זקן,barba
+14,Kinn::N,סנטר,barbilla
+15,Kiefer[Anatomie]::N,לסת,mandíbula
+16,Kehle::N,גרון,garganta
+17,Hals::N,צואר,cuello
+18,Genick::N,ערף,nuca
+19,Genick::N,ערף,cerviz
+20,Kopf::N,ראש,cabeza
+21,Rücken::N,גב,espalda
+22,Bauch::N,בטן,vientre
+23,Nabel::N,טבור,ombligo
+24,Busen::N,שד,pecho
+25,Brust::N,חזה,pecho
+26,Schulter::N,כתף,hombro
+27,Arm::N,זרוע,brazo
+28,Ellenbogen::N,מרפק,codo
+29,Hand::N,יד,mano
+30,Handfläche::N,כף יד,palma
+31,Finger::N,אצבע,dedo
+32,Fingernagel::N,צפרן,uña
+33,Nagel[Anatomie]::N,צפרן,uña
+34,Zeh::N,אצבע,dedo del pie
+35,Fuß::N,רגל,pie
+36,Ferse::N,עקב,talón
+37,Knie::N,ברך,rodilla
+38,Oberschenkel::N,ירך,muslo
+39,Bein::N,רגל,pierna
+40,Körper::N,גוף,cuerpo
+41,Haut::N,עור,piel
+42,Blut::N,דם,sangre
+43,Ader::N,וריד,vena
+44,Sehne::N,גיד,tendón
+45,Knochen::N,עצם,hueso
+46,Gehirn::N,מוח,cerebro
+47,Gehirn::N,מוח,encéfalo
+48,Herz::N,לב,corazón
+49,Magen::N,קבה,estómago
+50,Leber::N,כבד,hígado
+51,Atem::N,נשימה,aliento
+52,Hunger::N,רעב,hambre
+53,Träne::N,דמעה,lágrima
+54,Geschmack::N,טעם,gusto
+55,Geruch::N,ריח,olor
+56,Schlaf::N,שנה,sueño
+57,Traum::N,חלום,sueño
+58,Traum::N,חלום,ensueño
+59,Himmel::N,שמים,cielo
+60,Sonne::N,שמש,sol
+61,Mond::N,ירח,luna
+62,Stern::N,כוכב,estrella
+63,Luft::N,אויר,aire
+64,Wind::N,רוח,viento
+65,Welle::N,גל,ola
+66,Welle::N,גל,onda
+67,Wasser::N,מים,agua
+68,Stein::N,אבן,piedra
+69,Boden::N,קרקע,suelo
+70,Erde::N,אדמה,tierra
+71,Staub::N,אבק,polvo
+72,Rauch::N,עשן,humo
+73,Funke::N,ניצוץ,chispa
+74,Feuer::N,אש,fuego
+75,Licht::N,אור,luz
+76,Schatten::N,צל,sombra
+77,Wetter::N,מזג אויר,tiempo
+78,Nebel::N,ערפל,niebla
+79,Wolke::N,ענן,nube
+80,Regen::N,גשם,lluvia
+81,Schnee::N,שלג,nieve
+82,Eis::N,קרח,hielo
+83,Frost::N,צנה,helada
+84,Kälte::N,קר,frío
+85,Hitze::N,חם,calor
+86,Raureif::N,כפור,escarcha
+87,Regenbogen::N,קשת,arco iris
+88,Donner::N,רעם,trueno
+89,Strömung::N,זרימה,corriente
+90,Tropfen::N,טפה,gota
+91,Schaum::N,קצף,espuma
+92,Schmutz::N,לכלוך,suciedad
+93,See::N,אגם,lago
+94,Sumpf::N,בצה,pantano
+95,Moor::N,בצה,turbera
+96,Wiese::N,מרעה,prado
+97,Wiese::N,מרעה,pradera
+98,Wald::N,יער,bosque
+99,Hügel::N,תל,colina
+100,Anhöhe::N,מעלה,cerro
+101,Berg::N,הר,monte
+102,Berg::N,הר,montaña
+103,Gipfel::N,פסגה,cima
+104,Gipfel::N,פסגה,cumbre
+105,Höhle::N,מערה,cueva
+106,Höhle::N,מערה,caverna
+107,Abhang::N,מדרון,cuesta
+108,Abhang::N,מדרון,declive
+109,Abhang::N,שפוע,cuesta
+110,Abhang::N,שפוע,declive
+111,Quelle::N,מעין,fuente
+112,Quelle::N,מעין,manantial
+113,Bach::N,נחל,arroyo
+114,Fluss::N,נהר,río
+115,Ufer::N,גדה,orilla
+116,Küste::N,חוף,costa
+117,Festland::N,יבשה,tierra firme
+118,Meer::N,ים,mar
+119,Bucht::N,מפרץ,cala
+120,Bucht::N,מפרץ,bahía
+121,Insel::N,אי,isla
+122,Blume::N,פרח,flor
+123,Gras::N,דשא,hierba
+124,Wurzel::N,שרש,raíz
+125,Baum::N,עץ,árbol
+126,Stamm::N,גזע,tronco
+127,Rinde::N,קלפת עץ,corteza
+128,Ast::N,ענף,rama
+129,Zweig::N,ענף,ramo
+130,Blatt::N,עלה,hoja
+131,Birke::N,שדר,abedul
+132,Kiefer[Baum]::N,ארן,pino
+133,Weide[Baum]::N,ערבה,sauce
+134,Tanne::N,אשוח,abeto
+135,Horn::N,קרן,asta
+136,Horn::N,קרן,cuerno
+137,Feder::N,נוצה,pluma
+138,Fell::N,פרוה,piel
+139,Flügel::N,כנף,ala
+140,Klaue::N,טלף,garra
+141,Kralle::N,טפר,uña
+142,Kralle::N,טפר,garra
+143,Schwanz::N,זנב,cola
+144,Ei::N,ביצה,huevo
+145,Nest::N,קן,nido
+146,Bau::N,מחלה,madriguera
+147,Tier::N,חיה,animal
+148,Herde::N,עדר,rebaño
+149,Kuh::N,פרה,vaca
+150,Bulle::N,פר,toro
+151,Pferd::N,סוס,caballo
+152,Schaf::N,כבשה,oveja
+153,Schwein::N,חזיר,cerdo
+154,Hund::N,כלב,perro
+155,Katze::N,חתול,gato
+156,Bär::N,דב,oso
+157,Eichhörnchen::N,סנאי,ardilla
+158,Elch::N,דישון,alce
+159,Fuchs::N,שועל,zorro
+160,Hase::N,ארנב,liebre
+161,Maus::N,עכבר,ratón
+162,Wolf::N,זאב,lobo
+163,Vogel::N,צפור,ave
+164,Vogel::N,צפור,pájaro
+165,Schwarm::N,נחיל,bandada
+166,Schwarm::N,להקה,bandada
+167,Huhn::N,תרנגלת,gallina
+168,Hahn::N,תרנגול,gallo
+169,Gans::N,אוז,oca
+170,Gans::N,אוז,ganso
+171,Adler::N,עיט,águila
+172,Ente::N,ברוז,pato
+173,Eule::N,ינשוף,lechuza
+174,Kranich::N,עגור,grulla
+175,Kranich::N,כרוכיה,grulla
+176,Krähe::N,עורב,corneja
+177,Kuckuck::N,קוקיה,cuco
+178,Schwan::N,ברבור,cisne
+179,Fisch::N,דג,pez
+180,Barsch::N,אוקונוס,perca
+181,Hecht::N,זאב הים,lucio
+182,Schlange[Tier]::N,נחש,serpiente
+183,Wurm::N,תולעת,gusano
+184,Spinne::N,עכביש,araña
+185,Ameise::N,נמלה,hormiga
+186,Laus::N,כנה,piojo
+187,Mücke::N,יתוש,mosquito
+188,Fliege::N,זבוב,mosca
+189,Schmetterling::N,פרפר,mariposa
+190,Beere::N,ענבה,baya
+191,Apfel::N,תפוח,manzana
+192,Pilz::N,פטריה,seta
+193,Pilz::N,פטריה,hongo
+194,Zwiebel::N,בצל,cebolla
+195,Saat::N,זרעים,siembra
+196,Korn::N,גרעין,grano
+197,Heu::N,חציר,heno
+198,Schale::N,קלפה,cáscara
+199,Grube::N,בור,foso
+200,Grube::N,שוחה,foso
+201,Falle::N,מלכדת,trampa
+202,Schlinge::N,לולאה,lazo
+203,Spur::N,עקבה,huella
+204,Asche::N,אפר,ceniza
+205,Dreck::N,זהמה,suciedad
+206,Eisen::N,ברזל,hierro
+207,Gold::N,זהב,oro
+208,Silber::N,כסף,plata
+209,Kohle::N,פחם,carbón
+210,Glas::N,זכוכית,vidrio
+211,Glas::N,זכוכית,cristal
+212,Lehm::N,חרסית,barro
+213,Sand::N,חול,arena
+214,Mensch::N,אדם,hombre
+215,Mensch::N,אדם,ser humano
+216,Mann::N,איש,hombre
+217,Mann::N,גבר,hombre
+218,Frau::N,אשה,mujer
+219,Frau::N,גברת,mujer
+220,Kind::N,ילד,niño
+221,Junge::N,ילד,chico
+222,Junge::N,ילד,muchacho
+223,Mädchen::N,נערה,chica
+224,Mädchen::N,נערה,muchacha
+225,Familie::N,משפחה,familia
+226,Großvater::N,סבא,abuelo
+227,Großmutter::N,סבתא,abuela
+228,Eltern::N,הורים,padres
+229,Vater::N,אב,padre
+230,Mutter::N,אם,madre
+231,Sohn::N,בן,hijo
+232,Tochter::N,בת,hija
+233,Bruder::N,אח,hermano
+234,Schwester::N,אחות,hermana
+235,Onkel::N,דוד,tío
+236,Tante::N,דודה,tía
+237,Ehemann::N,איש,esposo
+238,Ehemann::N,בעל,esposo
+239,Ehefrau::N,אשה,esposa
+240,Freude::N,שמחה,placer
+241,Freude::N,שמחה,alegría
+242,Gelächter::N,צחוק,risa
+243,Gelächter::N,צחוק,carcajada
+244,Glück::N,אשר,felicidad
+245,Kummer::N,יגון,pena
+246,Kummer::N,עגמה,pena
+247,Wunsch::N,אחול,deseo
+248,Wunsch::N,משאלה,deseo
+249,Lust::N,חשק,ganas
+250,Lust::N,תשוקה,ganas
+251,Geist::N,רוח,mente
+252,Geist::N,רוח,espíritu
+253,Gedanke::N,מחשבה,idea
+254,Gedanke::N,מחשבה,pensamiento
+255,Gedächtnis::N,זכרון,memoria
+256,Verstand::N,שכל,razón
+257,Verstand::N,שכל,entendimiento
+258,Sinn::N,מובן,sentido
+259,Sinn::N,מובן,significado
+260,Sinn::N,משמעות,sentido
+261,Sinn::N,משמעות,significado
+262,Grund::N,סבה,causa
+263,Wahrheit::N,אמת,verdad
+264,Gespräch::N,דיון,conversación
+265,Märchen::N,אגדה,cuento
+266,Erzählung::N,ספור,cuento
+267,Erzählung::N,ספור,narración
+268,Nachricht::N,ידיעה,mensaje
+269,Neuigkeit::N,חדשה,noticia
+270,Name::N,שם,nombre
+271,Rätsel::N,תעלומה,acertijo
+272,Rätsel::N,תעלומה,adivinanza
+273,Rede::N,נאום,discurso
+274,Sprache::N,לשון,lengua
+275,Stimme::N,קול,voz
+276,Wort::N,מלה,palabra
+277,Zeichen::N,סימן,señal
+278,Ruf::N,קריאה,llamada
+279,Lärm::N,רעש,ruido
+280,Lärm::N,רעש,barullo
+281,Laut::N,הגה,sonido
+282,Ton::N,צליל,tono
+283,Lied::N,שיר,canción
+284,Ruhe::N,שלוה,calma
+285,Ruhe::N,שלוה,silencio
+286,Leute::N,אנשים,gente
+287,Volk::N,עם,pueblo
+288,Arbeit::N,עבודה,trabajo
+289,Gast::N,אורח,huésped
+290,Gast::N,אורח,invitado
+291,Geschenk::N,מתנה,regalo
+292,Spiel::N,משחק,juego
+293,Gesellschaft::N,חברה,compañía
+294,Hilfe::N,עזרה,ayuda
+295,Hilfe::N,עזרה,socorro
+296,Freund::N,חבר,amigo
+297,Freund::N,ידיד,amigo
+298,Kamerad::N,רע,camarada
+299,Kamerad::N,רע,compañero
+300,Angelegenheit::N,ענין,asunto
+301,Anzahl::N,מספר,cantidad
+302,Art::N,סוג,tipo
+303,Art::N,סוג,clase
+304,Stück::N,חתיכה,pieza
+305,Teil::N,פרק,parte
+306,Hälfte::N,חצי,mitad
+307,Kreis::N,מעגל,círculo
+308,Kreuz::N,צלב,cruz
+309,Linie::N,קו,línea
+310,Strich::N,קו קצר,raya
+311,Strich::N,קו קצר,trazo
+312,Abstand::N,מרחק,distancia
+313,Entfernung::N,מרחק,distancia
+314,Gegend::N,נוף,región
+315,Gegend::N,נוף,comarca
+316,Platz::N,שטח,espacio
+317,Ort::N,אתר,sitio
+318,Ort::N,מקום,sitio
+319,Seite::N,צד,lado
+320,Seite::N,צד,costado
+321,Mitte::N,אמצע,medio
+322,Mitte::N,אמצע,centro
+323,Gegenstand::N,אוביקט,objeto
+324,Sache::N,דבר,cosa
+325,Rand::N,פרור,borde
+326,Kante::N,קצה,borde
+327,Ecke::N,פנה,esquina
+328,Spitze::N,קצה,punta
+329,Ende::N,סוף,cabo
+330,Ende::N,סוף,extremo
+331,Loch::N,חר,agujero
+332,Loch::N,חר,abertura
+333,Winkel::N,פנה,ángulo
+334,Muster::N,תבנית,dibujo
+335,Größe::N,גדל,tamaño
+336,Länge::N,ארך,longitud
+337,Höhe::N,קומה,altura
+338,Höhe::N,קומה,altitud
+339,Höhe::N,גבה,altura
+340,Höhe::N,גבה,altitud
+341,Gewicht::N,משקל,peso
+342,Menge::N,כמות,cantidad
+343,Haufen::N,ערמה,montón
+344,Reihe::N,רצף,fila
+345,Boot::N,סירה,bote
+346,Boot::N,סירה,barca
+347,Ruder::N,משוט,remo
+348,Schlitten::N,מזחלת,trineo
+349,Ski::N,מגלשים,esquí
+350,Lagerfeuer::N,מדורה,hoguera
+351,Last::N,משא,carga
+352,Gang::N,הליכה,marcha
+353,Schritt::N,צעד,paso
+354,Norden::N,צפון,norte
+355,Süden::N,דרום,sur
+356,Westen::N,מערב,oeste
+357,Osten::N,מזרח,este
+358,Holz::N,עץ,madera
+359,Brett::N,קרש,tabla
+360,Platte::N,לוח,placa
+361,Platte::N,לוח,plancha
+362,Stütze::N,משען,sostén
+363,Stütze::N,משען,soporte
+364,Stange::N,מוט,vara
+365,Stange::N,מוט,percha
+366,Stock::N,מקל,palo
+367,Stock::N,מקל,bastón
+368,Stab::N,מוט,vara
+369,Stab::N,מוט,bastón
+370,Rohr::N,צנור,tubo
+371,Haus::N,בית,casa
+372,Heim::N,בית,hogar
+373,Ofen::N,תנור,estufa
+374,Fußboden::N,רצפה,suelo
+375,Tisch::N,שלחן,mesa
+376,Stuhl::N,כסא,silla
+377,Wiege::N,ערש,cuna
+378,Bett::N,מטה,cama
+379,Regal::N,מדף,estantería
+380,Kiste::N,תבה,caja
+381,Kiste::N,ארגז,caja
+382,Fenster::N,חלון,ventana
+383,Tür::N,דלת,puerta
+384,Tor::N,שער,puerta
+385,Zaun::N,גדר,valla
+386,Zaun::N,גדר,cercado
+387,Dach::N,גג,techo
+388,Dach::N,גג,tejado
+389,Leiter::N,סלם,escalera
+390,Besen::N,מטאטא,escoba
+391,Spaten::N,את,pala
+392,Schaufel::N,את,pala
+393,Schaufel::N,את,paleta
+394,Gabel::N,מזלג,tenedor
+395,Löffel::N,כף,cuchara
+396,Messer::N,סכין,cuchillo
+397,Nagel::N,מסמר,clavo
+398,Netz::N,רשת,red
+399,Haken::N,וו,gancho
+400,Haken::N,וו,corchete
+401,Haken::N,קרס,gancho
+402,Haken::N,קרס,corchete
+403,Griff::N,ידית,asa
+404,Griff::N,ידית,mango
+405,Schloss::N,מנעול,cerradura
+406,Bild::N,תמונה,imagen
+407,Figur::N,פסל,figura
+408,Puppe::N,בבה,muñeca
+409,Beutel::N,שק,bolsa
+410,Bündel::N,צרור,haz
+411,Tasche::N,שקית,bolso
+412,Eimer::N,דלי,cubo
+413,Deckel::N,מכסה,tapa
+414,Deckel::N,מכסה,tapadera
+415,Geschirr::N,כלים,vajilla
+416,Sack::N,שק,saco
+417,Tasse::N,ספל,taza
+418,Topf::N,סיר,olla
+419,Topf::N,סיר,marmita
+420,Kessel::N,קנקן,caldera
+421,Essen::N,אכל,comida
+422,Essen::N,ארוחה,comida
+423,Nahrung::N,הזנה,alimento
+424,Nahrung::N,תזונה,alimento
+425,Speise::N,מאכל,plato
+426,Speise::N,ארוחה,plato
+427,Fleisch::N,בשר,carne
+428,Getreide::N,דגן,cereales
+429,Brei::N,מחית,puré
+430,Brei::N,מחית,papilla
+431,Brot::N,לחם,pan
+432,Scheibe::N,עגול,lonja
+433,Scheibe::N,עגול,rebanada
+434,Scheibe::N,פרוסה,lonja
+435,Scheibe::N,פרוסה,rebanada
+436,Fett::N,שמן,grasa
+437,Butter::N,חמאה,mantequilla
+438,Öl::N,שמן,aceite
+439,Salz::N,מלח,sal
+440,Suppe::N,מרק,sopa
+441,Honig::N,דבש,miel
+442,Milch::N,חלב,leche
+443,Tee::N,תה,té
+444,Leder::N,עור,cuero
+445,Wolle::N,צמר,lana
+446,Stoff::N,בד,tela
+447,Stoff::N,בד,tejido
+448,Stoff::N,אריג,tela
+449,Stoff::N,אריג,tejido
+450,Nadel::N,מחט,aguja
+451,Faden::N,חוט,hilo
+452,Knopf::N,כפתור,botón
+453,Knoten::N,קשר,nudo
+454,Farbe::N,צבע,pintura
+455,Kleidung::N,בגדים,ropa
+456,Kleidung::N,בגדים,vestidos
+457,Hemd::N,חלצה,camisa
+458,Kragen::N,צוארון,cuello
+459,Ärmel::N,שרוול,manga
+460,Hose::N,מכנסים,pantalón
+461,Gürtel::N,חגורה,cinturón
+462,Mütze::N,כובע,gorro
+463,Schuh::N,נעל,zapato
+464,Stiefel::N,מגף,bota
+465,Ring::N,טבעת,anillo
+466,Band::N,סרט,cinta
+467,Kamm::N,מסרק,peine
+468,Spiegel::N,מראה,espejo
+469,Riemen::N,רצועה,correa
+470,Schnur::N,חבל,cuerda
+471,Leine::N,מושכות,correa
+472,Decke::N,שמיכה,manta
+473,Kissen::N,כרית,almohada
+474,Tuch::N,צעיף,pañuelo
+475,Handtuch::N,מגבת,toalla
+476,Kraft::N,כוח,fuerza
+477,Stärke::N,און,fuerza
+478,Gesundheit::N,בריאות,salud
+479,Krankheit::N,מחלה,enfermedad
+480,Schmerz::N,כאב,dolor
+481,Wunde::N,פציעה,llaga
+482,Wunde::N,פציעה,herida
+483,Fieber::N,חם,fiebre
+484,Arznei::N,תרופה,medicina
+485,Arznei::N,תרופה,medicamento
+486,Brücke::N,גשר,puente
+487,Brunnen::N,באר,pozo
+488,Weide::N,אחו,pasto
+489,Weide::N,מרעה,pasto
+490,Pfad::N,שביל,sendero
+491,Pfad::N,מדרכה,sendero
+492,Weg::N,דרך,camino
+493,Straße::N,כביש,vía
+494,Straße::N,כביש,carretera
+495,Dorf::N,כפר,aldea
+496,Dorf::N,כפר,pueblo
+497,Stadt::N,עיר,ciudad
+498,Brief::N,מכתב,carta
+499,Buch::N,ספר,libro
+500,Buchstabe::N,אות,letra
+501,Buchstabe::N,אות,carácter
+502,Zeitung::N,עתון,diario
+503,Zeitung::N,עתון,periódico
+504,Leben::N,חיים,vida
+505,Tod::N,מות,muerte
+506,Grab::N,קבר,tumba
+507,Grab::N,קבר,sepulcro
+508,Kirche::N,כנסיה,iglesia
+509,Sünde::N,חטא,pecado
+510,Gott::N,אל,dios
+511,Arbeiter::N,פועל,obrero
+512,Arbeiter::N,פועל,trabajador
+513,Chef::N,ראש,jefe
+514,Chef::N,מנהל,jefe
+515,Meister::N,ממחה,maestro
+516,Arzt::N,רופא,médico
+517,Lehrer::N,מורה,profesor
+518,Geld::N,כסף,dinero
+519,Geschäft::N,עסקה,negocio
+520,Laden::N,חנות,tienda
+521,Preis::N,מחיר,precio
+522,Ware::N,סחורה,mercancía
+523,Nutzen::N,תועלת,provecho
+524,Reichtum::N,עשר,riqueza
+525,Welt::N,עולם,mundo
+526,Land::N,ארץ,país
+527,Staat::N,מדינה,Estado
+528,König::N,מלך,rey
+529,Macht::N,כוח,poder
+530,Macht::N,כוח,potencia
+531,Grenze::N,גבול,frontera
+532,Krieg::N,מלחמה,guerra
+533,Feind::N,אויב,enemigo
+534,Gewalt::N,אלימות,violencia
+535,Kampf::N,קרב,lucha
+536,Kampf::N,קרב,combate
+537,Kampf::N,לחימה,lucha
+538,Kampf::N,לחימה,combate
+539,Bogen[Waffe]::N,קשת,arco
+540,Pfeil::N,חץ,flecha
+541,Gewehr::N,רובה,fusil
+542,Gewehr::N,רובה,escopeta
+543,Fehler::N,טעות,error
+544,Lüge::N,שקר,mentira
+545,Schaden::N,נזק,daño
+546,Unglück::N,מזל רע,desgracia
+547,Schuld::N,אשמה,culpa
+548,Alter::N,גיל,edad
+549,Schluss::N,סיום,fin
+550,Schluss::N,סיום,final
+551,Zeit::N,זמן,tiempo
+552,Tag::N,יום,día
+553,Morgen::N,בקר,mañana
+554,Mittag::N,צהרים,mediodía
+555,Abend::N,ערב,noche
+556,Nacht::N,לילה,noche
+557,Woche::N,שבוע,semana
+558,Monat::N,חדש,mes
+559,Jahr::N,שנה,año
+560,Frühling::N,אביב,primavera
+561,Sommer::N,קיץ,verano
+562,Herbst::N,סתו,otoño
+563,Winter::N,חרף,invierno
+564,Januar::N,ינואר,enero
+565,Februar::N,פברואר,febrero
+566,März::N,מרץ,marzo
+567,April::N,אפריל,abril
+568,Mai::N,מאי,mayo
+569,Juni::N,יוני,junio
+570,Juli::N,יולי,julio
+571,August::N,אוגוסט,agosto
+572,September::N,ספטמבר,septiembre
+573,Oktober::N,אוקטובר,octubre
+574,November::N,נובמבר,noviembre
+575,Dezember::N,דצמבר,diciembre
+576,Montag::N,יום שני,lunes
+577,Dienstag::N,יום שלישי,martes
+578,Mittwoch::N,יום רביעי,miércoles
+579,Donnerstag::N,יום חמישי,jueves
+580,Freitag::N,יום ששי,viernes
+581,Samstag::N,יום שבת,sábado
+582,Sonntag::N,יום ראשון,domingo
+583,groß::A,גדול,grande
+584,klein::A,קטן,pequeño
+585,lang::A,ארך,largo
+586,kurz::A,קצר,corto
+587,breit::A,רחב,ancho
+588,schmal::A,צר,estrecho
+589,dicht::A,צפוף,denso
+590,dick[Gegenstand]::A,עבה,grueso
+591,dünn::A,דק,fino
+592,dünn::A,דק,delgado
+593,fein::A,מעדן,fino
+594,fein::A,מעדן,delicado
+595,fest::A,מוצק,firme
+596,fest::A,מוצק,sólido
+597,flach::A,שטוח,plano
+598,glatt::A,חלק,liso
+599,hart::A,קשיח,duro
+600,weich::A,רך,muelle
+601,rund::A,עגל,redondo
+602,spitz::A,חד,agudo
+603,spitz::A,חד,apuntado
+604,scharf::A,חד,agudo
+605,scharf::A,חד,afilado
+606,stumpf::A,קהה,sin filo
+607,schwer::A,כבד,pesado
+608,schön::A,יפה,bello
+609,schön::A,יפה,hermoso
+610,heiß::A,חם,caluroso
+611,warm::A,חם,cálido
+612,warm::A,חם,caliente
+613,kalt::A,קר,frío
+614,kühl::A,צונן,fresco
+615,frisch::A,טרי,fresco
+616,feucht::A,לח,húmedo
+617,nass::A,רטוב,mojado
+618,trocken::A,יבש,seco
+619,voll::A,מלא,lleno
+620,leer::A,ריק,vacío
+621,offen::A,פתוח,abierto
+622,geschlossen::A,סגור,cerrado
+623,sauber::A,נקי,limpio
+624,schmutzig::A,מלכלך,sucio
+625,roh::A,חי,crudo
+626,reif::A,בשל,maduro
+627,lecker::A,טעים,rico
+628,lecker::A,טעים,sabroso
+629,süß::A,מתוק,dulce
+630,bitter::A,מר,amargo
+631,sauer::A,חמוץ,agrio
+632,hell::A,בהיר,claro
+633,dunkel::A,עמום,oscuro
+634,schwarz::A,שחר,negro
+635,weiß::A,לבן,blanco
+636,rot::A,אדם,rojo
+637,gelb::A,צהב,amarillo
+638,blau::A,כחל,azul
+639,grün::A,ירק,verde
+640,grau::A,אפר,gris
+641,bunt::A,צבעוני,multicolor
+642,billig::A,זול,barato
+643,teuer::A,יקר,caro
+644,wertvoll::A,יקר ערך,valioso
+645,wertvoll::A,יקר ערך,precioso
+646,blind::A,עור,ciego
+647,taub::A,חרש,sordo
+648,kräftig::A,חסן,fuerte
+649,stark::A,חזק,fuerte
+650,stark::A,חזק,vigoroso
+651,schwach::A,חלש,débil
+652,fett::A,שמן,obeso
+653,schlank::A,רזה,esbelto
+654,hübsch::A,יפה תאר,mono
+655,hübsch::A,יפה תאר,guapo
+656,böse::A,רשע,malo
+657,dumm::A,טפש,tonto
+658,dumm::A,טפש,estúpido
+659,faul::A,עצלן,vago
+660,faul::A,עצלן,perezoso
+661,fleißig::A,חרוץ,aplicado
+662,fleißig::A,חרוץ,diligente
+663,geizig::A,קמצן,avaro
+664,klug::A,נבון,sensato
+665,klug::A,נבון,inteligente
+666,klug::A,פקח,sensato
+667,klug::A,פקח,inteligente
+668,geschickt::A,מימן,hábil
+669,lieb::A,יקר,querido
+670,lieb::A,אהוב,querido
+671,lustig::A,עליז,alegre
+672,sanft::A,עדין,suave
+673,hungrig::A,רעב,hambriento
+674,krank::A,חולה,enfermo
+675,nackt::A,ערום,desnudo
+676,traurig::A,עצוב,triste
+677,lebendig::A,חי,vivo
+678,lebendig::A,חי,viviente
+679,gut::A,טוב,bueno
+680,schlecht::A,גרוע,malo
+681,richtig::A,נכון,justo
+682,richtig::A,נכון,correcto
+683,schlimm::A,רע,malo
+684,schlimm::A,רע,grave
+685,wahr::A,אמתי,verídico
+686,wahr::A,אמתי,verdadero
+687,alt::A,ישן,viejo
+688,neu::A,חדש,nuevo
+689,ehemalig::A,לשעבר,antiguo
+690,alt[Lebewesen]::A,זקן,viejo
+691,jung::A,צעיר,joven
+692,arm::A,עני,pobre
+693,reich::A,עשיר,rico
+694,bekannt::A,ידוע,conocido
+695,berühmt::A,מפרסם,famoso
+696,berühmt::A,מפרסם,célebre
+697,fremd::A,זר,extraño
+698,verschieden::A,שונה,diverso
+699,verschieden::A,שונה,distinto
+700,verschieden::A,שונה,diferente
+701,nah::A,קרוב,cercano
+702,fern::A,רחוק,lejano
+703,linker::A,שמאלי,izquierdo
+704,rechter::A,ימין,derecho
+705,anderer::A,אחר,otro
+706,erster::A,ראשון,primero
+707,zweiter::A,שני,segundo
+708,dritter::A,שלישי,tercero
+709,letzter::A,אחרון,último
+710,allein::ADV,לבד,a solo
+711,auf einmal::ADV,בו-זמנית,de una vez
+712,zusammen::ADV,ביחד,juntos
+713,lange::ADV,הרבה זמן,mucho tiempo
+714,plötzlich::ADV,לפתע,de repente
+715,plötzlich::ADV,פתאום,de repente
+716,sofort::ADV,מיד,en seguida
+717,später::ADV,לאחר זמן,más tarde
+718,später::ADV,יותר מאחר,más tarde
+719,jetzt::ADV,עכשיו,ahora
+720,heute::ADV,היום,hoy
+721,morgen::ADV,מחר,mañana
+722,bald::ADV,בקרוב,pronto
+723,bald::ADV,בקרוב,en breve
+724,dann::ADV,אחר-כך,luego
+725,dann::ADV,אחר-כך,entonces
+726,gestern::ADV,אתמול,ayer
+727,einst::ADV,לפנים,antaño
+728,damals::ADV,אז,entonces
+729,danach::ADV,אחר-כך,después
+730,vorher::ADV,לפני זה,antes
+731,zuerst::ADV,קדם,primero
+732,einmal::ADV,פעם,una vez
+733,manchmal::ADV,לפעמים,a veces
+734,oft::ADV,לעתים קרובות,a menudo
+735,oft::ADV,לעתים קרובות,con frecuencia
+736,immer::ADV,תמיד,siempre
+737,niemals::ADV,אף פעם,jamás
+738,hier::ADV,כאן,aquí
+739,hierhin::ADV,פה,acá
+740,von hier::ADV,מפה,desde aquí
+741,dort::ADV,שם,ahí
+742,dort::ADV,שם,allí
+743,dorthin::ADV,שם,allí
+744,dorthin::ADV,שם,hacia allí
+745,geradeaus::ADV,ישר,todo derecho
+746,vorwärts::ADV,קדימה,adelante
+747,rückwärts::ADV,לאחור,hacia atrás
+748,zurück::ADV,בחזרה,atrás
+749,zurück::ADV,אחורנית,atrás
+750,unten::ADV,למטה,abajo
+751,hinab::ADV,למטה,hacia abajo
+752,oben::ADV,מעל,arriba
+753,oben::ADV,למעלה,arriba
+754,hinauf::ADV,למעלה,hacia arriba
+755,überall::ADV,בכל מקום,por todas partes
+756,nicht::ADV,לא,no
+757,ein wenig::ADV,קצת,un poco
+758,kaum::ADV,בקשי,apenas
+759,sehr::ADV,מאוד,muy
+760,sehr::ADV,מאוד,mucho
+761,so::ADV,כך,tan
+762,so::ADV,ככה,tan
+763,noch::ADV,עוד,aún
+764,noch::ADV,עוד,todavía
+765,noch::ADV,עדין,aún
+766,noch::ADV,עדין,todavía
+767,nur::ADV,רק,solamente
+768,schon::ADV,כבר,ya
+769,wieder::ADV,שוב,de nuevo
+770,vergebens::ADV,לריק,en vano
+771,vergebens::ADV,לשוא,en vano
+772,vor::PRP,מול,antes de
+773,vor::PRP,מול,delante de
+774,hinter::PRP,מאחורי,tras
+775,hinter::PRP,מאחורי,detrás de
+776,unter::PRP,מתחת,bajo
+777,unter::PRP,מתחת,debajo de
+778,durch::PRP,דרך,por
+779,durch::PRP,דרך,a través de
+780,neben::PRP,ליד,al lado de
+781,neben::PRP,על-יד,al lado de
+782,zwischen::PRP,בין,entre
+783,wegen::PRP,בשל,por
+784,wegen::PRP,בשל,a causa de
+785,wegen::PRP,בגלל,por
+786,wegen::PRP,בגלל,a causa de
+787,dies::PRN,זה,esto
+788,das::PRN,זה,eso
+789,das::PRN,זה,esto
+790,alles::PRN,הכל,todo
+791,ich::PRN,אני,yo
+792,du::PRN,את,tú
+793,du::PRN,אתה,tú
+794,er::PRN,הוא,él
+795,wir::PRN,אנחנו,nosotros
+796,ihr::PRN,לה,vosotros
+797,sie::PRN,הם,ellos
+798,was::FPRN,מה,qué
+799,wer::FPRN,מי,quién
+800,wo::FADV,איפה,dónde
+801,wohin::FADV,לאן,adónde
+802,wohin::FADV,לאן,hacia dónde
+803,wie::FADV,איך,cómo
+804,warum::FADV,למה,por qué
+805,wieviel::FNUM,כמה,cuánto
+806,eins::NUM,אחד,uno
+807,zwei::NUM,שתים,dos
+808,drei::NUM,שלושה,tres
+809,vier::NUM,ארבעה,cuatro
+810,fünf::NUM,חמשה,cinco
+811,sechs::NUM,ששה,seis
+812,sieben::NUM,שבעה,siete
+813,acht::NUM,שמונה,ocho
+814,neun::NUM,תשעה,nueve
+815,zehn::NUM,עשרה,diez
+816,elf::NUM,אחת עשרה,once
+817,zwölf::NUM,שתים עשרה,doce
+818,zwanzig::NUM,עשרים,veinte
+819,dreißig::NUM,שלושים,treinta
+820,vierzig::NUM,ארבעים,cuarenta
+821,fünfzig::NUM,חמשים,cincuenta
+822,sechzig::NUM,ששים,sesenta
+823,siebzig::NUM,שבעים,setenta
+824,achtzig::NUM,שמונים,ochenta
+825,neunzig::NUM,תשעים,noventa
+826,hundert::NUM,מאה,cien
+827,hundert::NUM,מאה,ciento
+828,tausend::NUM,אלף,mil
+829,und::CNJ,ו,y
+830,oder::CNJ,או,o
+831,stehen::V,עמד,estar de pie
+832,sitzen::V,ישב,estar sentado
+833,liegen::V,שכב,yacer
+834,liegen::V,שכב,estar acostado
+835,hängen::V,היה תלוי,pender
+836,werden::V,הפך ל,hacerse
+837,passieren::V,קרה,suceder
+838,beginnen::V,התחיל,iniciarse
+839,beginnen::V,התחיל,principiar
+840,enden::V,הסתים,acabar
+841,enden::V,הסתים,terminar
+842,wechseln::V,השתנה,variar
+843,wechseln::V,השתנה,alternar
+844,aufgehen[Sonne]::V,זרח,salir
+845,untergehen[Sonne]::V,שקע,ponerse
+846,untergehen[Sonne]::V,שקע,descender
+847,scheinen[Sonne]::V,בהק,brillar
+848,donnern::V,רעם,tronar
+849,wehen::V,נשב,soplar
+850,strömen::V,זרם,afluir
+851,fließen::V,זרם,fluir
+852,fließen::V,זרם,correr
+853,sich drehen::V,הסתובב,girar
+854,schwanken::V,התנודד,vacilar
+855,schwingen::V,התנענע,oscilar
+856,fallen::V,נפל,caer
+857,brennen::V,בער,arder
+858,brennen::V,בער,quemar
+859,rauchen::V,עשן,humear
+860,rauchen::V,עשן,echar humo
+861,regnen::V,ירד גשם,llover
+862,gefrieren::V,קפא,helarse
+863,tauen::V,נמס,deshelarse
+864,schmelzen::V,התיך,fundirse
+865,schmelzen::V,התיך,derretirse
+866,trocknen::V,התיבש,secarse
+867,sieden::V,רתח,hervir
+868,faulen::V,רקב,pudrirse
+869,verfaulen::V,רקב,pudrirse
+870,reißen::V,נקרע,romperse
+871,versinken::V,טבע,hundirse
+872,vergehen::V,עבר,pasar
+873,erscheinen::V,נגלה,aparecer
+874,erscheinen::V,הופיע,aparecer
+875,verschwinden::V,נעלם,desaparecer
+876,sinken::V,ירד,bajar
+877,abnehmen::V,הפחית,decrecer
+878,abnehmen::V,הפחית,disminuir
+879,zunehmen::V,רבה,crecer
+880,zunehmen::V,רבה,aumentar
+881,steigen::V,עלה,subir
+882,steigen::V,עלה,ascender
+883,wachsen::V,גדל,crecer
+884,glänzen::V,נצץ,brillar
+885,glänzen::V,נצץ,resplandecer
+886,glänzen::V,בהק,brillar
+887,glänzen::V,בהק,resplandecer
+888,funkeln::V,נצנץ,chispear
+889,lärmen::V,רעש,hacer ruido
+890,läuten::V,צלצל,sonar
+891,läuten::V,צלצל,repicar
+892,klingeln::V,צלצל,tocar el timbre
+893,klirren::V,קרקש,tintinear
+894,brausen::V,געש,zumbar
+895,rauschen::V,רשרש,murmurar
+896,klingen::V,נשמע,sonar
+897,bellen::V,נבח,ladrar
+898,heulen::V,ילל,ulular
+899,blasen::V,נשף,soplar
+900,pfeifen::V,שרק,silbar
+901,schreien::V,צעק,gritar
+902,stöhnen::V,נאנק,gemir
+903,zittern::V,רעד,temblar
+904,leben::V,חי,vivir
+905,geboren werden::V,נולד,nacer
+906,atmen::V,נשם,respirar
+907,trinken::V,שתה,beber
+908,essen::V,אכל,comer
+909,schlucken::V,בלע,tragar
+910,müde werden::V,התעיף,cansarse
+911,müde werden::V,התעיף,fatigarse
+912,einschlafen::V,נרדם,dormirse
+913,schlafen::V,ישן,dormir
+914,aufwachen::V,התעורר,despertarse
+915,aufstehen::V,קם,levantarse
+916,sich erholen::V,נפש,reposar
+917,sich erholen::V,נפש,descansar
+918,krank werden::V,חלה,caer enfermo
+919,krank sein::V,היה חולה,estar enfermo
+920,schmerzen::V,כאב,doler
+921,husten::V,השתעל,toser
+922,genesen::V,הבריא,convalecer
+923,genesen::V,הבריא,restablecerse
+924,sterben::V,מת,morir
+925,umkommen::V,נספה,perecer
+926,sich bewegen::V,נע,moverse
+927,sich rühren::V,זז,rebullir
+928,sich erheben::V,קם,levantarse
+929,sich setzen::V,התישב,sentarse
+930,hinfallen::V,נפל,caerse
+931,laufen::V,הלך ברגל,andar
+932,schreiten::V,פסע,proceder
+933,spazierengehen::V,טיל,pasear
+934,spazierengehen::V,טיל,pasearse
+935,eilen::V,אץ,correr prisa
+936,eilen::V,מהר,correr prisa
+937,sich beeilen::V,מהר,darse prisa
+938,sausen::V,אץ,correr
+939,rennen::V,רץ,correr
+940,springen::V,קפץ,saltar
+941,klettern::V,טפס,trepar
+942,klettern::V,טפס,escalar
+943,schaukeln::V,התנדנד,bambolearse
+944,kriechen::V,זחל,reptar
+945,kriechen::V,זחל,arrastrarse
+946,schwimmen::V,שחה,nadar
+947,tauchen::V,צלל,bucear
+948,tauchen::V,צלל,sumergirse
+949,rudern::V,חתר,remar
+950,fahren::V,נסע,ir
+951,fliegen::V,עף,volar
+952,gehen::V,הלך,ir
+953,gehen::V,הלך,andar
+954,weggehen::V,עזב,irse
+955,weggehen::V,עזב,marcharse
+956,abfahren::V,יצא,salir
+957,abfahren::V,יצא,partir
+958,anhalten::V,עצר,parar
+959,anhalten::V,עצר,pararse
+960,hineingehen::V,נכנס,entrar
+961,eintreten::V,נכנס,entrar
+962,kommen::V,בא,venir
+963,ankommen::V,הגיע,llegar
+964,zurückkommen::V,שב,volver
+965,zurückkommen::V,שב,regresar
+966,zurückkommen::V,חזר,volver
+967,zurückkommen::V,חזר,regresar
+968,bleiben::V,נשאר,quedarse
+969,warten::V,חכה,esperar
+970,warten::V,המתין,esperar
+971,erwarten::V,צפה,esperar
+972,suchen::V,חפש,buscar
+973,finden::V,מצא,hallar
+974,finden::V,מצא,encontrar
+975,versuchen::V,נסה,intentar
+976,vorbereiten::V,הכין,preparar
+977,lieben::V,אהב,amar
+978,lieben::V,אהב,querer
+979,mögen::V,אהב,querer
+980,lachen::V,צחק,reír
+981,rühren::V,נגע ללב,conmover
+982,weinen::V,בכה,llorar
+983,schimpfen::V,גער,regañar
+984,sich ärgern::V,זעם,enfadarse
+985,sich ärgern::V,כעס,enfadarse
+986,sich fürchten::V,פחד,tener miedo
+987,sich fürchten::V,חשש,tener miedo
+988,fürchten::V,פחד מ,temer
+989,fürchten::V,פחד מ,tener miedo a
+990,fürchten::V,חשש מ,temer
+991,fürchten::V,חשש מ,tener miedo a
+992,fliehen::V,ברח,huir
+993,flüchten::V,נמלט,escaparse
+994,sehen::V,ראה,ver
+995,anschauen::V,הביט,mirar
+996,ansehen::V,התבונן,mirar
+997,hören::V,שמע,oír
+998,zuhören::V,הקשיב,escuchar
+999,probieren::V,נסה,probar
+1000,probieren::V,נסה,degustar
+1001,riechen::V,הריח,oler
+1002,fühlen::V,חש,sentir
+1003,scheinen::V,נדמה,parecer
+1004,zu sehen sein::V,נראה,poder verse
+1005,vernehmen::V,נודע ל,oír
+1006,vernehmen::V,נודע ל,percibir
+1007,frieren::V,קר ל,tener frío
+1008,tun::V,פעל,hacer
+1009,können::V,יכל,poder
+1010,wollen::V,רצה,querer
+1011,anfangen::V,התחיל,iniciar
+1012,beenden::V,גמר,acabar
+1013,beenden::V,גמר,terminar
+1014,aufhören::V,סים,cesar
+1015,gelingen::V,הצליח,salir bien
+1016,geraten::V,עלה,salir
+1017,geraten::V,עלה,dar resultado
+1018,öffnen::V,פתח,abrir
+1019,schließen::V,סגר,cerrar
+1020,stellen::V,העמיד,poner
+1021,stellen::V,העמיד,colocar
+1022,setzen::V,הושיב,poner
+1023,setzen::V,הושיב,colocar
+1024,legen::V,שם,poner
+1025,berühren::V,נגע,tocar
+1026,verbinden::V,קשר,unir
+1027,verbinden::V,קשר,juntar
+1028,bedecken::V,כסה,tapar
+1029,bedecken::V,כסה,cubrir
+1030,aufhängen::V,תלה,colgar
+1031,anzünden::V,הצית,encender
+1032,aufheben::V,אסף,recoger
+1033,zurücklassen::V,השאיר,dejar
+1034,verlieren::V,אבד,perder
+1035,fallen lassen::V,שמט,dejar caer
+1036,fallen lassen::V,הפיל,dejar caer
+1037,machen::V,עשה,hacer
+1038,herstellen::V,יצר,fabricar
+1039,bauen::V,בנה,construir
+1040,reparieren::V,תקן,reparar
+1041,verbessern::V,שפר,mejorar
+1042,ändern::V,שנה,mudar
+1043,ändern::V,שנה,modificar
+1044,graben::V,חפר,cavar
+1045,beugen::V,כפף,doblar
+1046,beugen::V,כפף,inclinar
+1047,biegen::V,כופף,doblar
+1048,drehen::V,סובב,volver
+1049,drehen::V,סובב,hacer girar
+1050,wenden::V,הפך,volver
+1051,umdrehen::V,סובב,revolver
+1052,heben::V,הרים,levantar
+1053,hochheben::V,הרים,alzar
+1054,ergreifen::V,אחז,coger
+1055,halten::V,החזיק,tener
+1056,drücken::V,לחץ,apretar
+1057,schieben::V,הזיז,empujar
+1058,kratzen::V,שרט,rascar
+1059,kratzen::V,שפשף,rascar
+1060,lecken::V,לקק,lamer
+1061,beißen::V,נשך,morder
+1062,abreißen::V,קרע,arrancar
+1063,abschneiden::V,חתך,cortar
+1064,binden::V,קשר,atar
+1065,stecken::V,תקע,meter
+1066,brechen::V,שבר,romper
+1067,brechen::V,שבר,quebrar
+1068,klopfen::V,נקש,golpear
+1069,hauen::V,הכה,pegar
+1070,kleben::V,הדביק,pegar
+1071,kleben::V,הדביק,encolar
+1072,reiben::V,שפשף,frotar
+1073,streichen::V,מרח,untar
+1074,streichen::V,מרח,recubrir
+1075,schleifen::V,השחיז,afilar
+1076,schneiden::V,גזר,cortar
+1077,rütteln::V,נענע,agitar
+1078,schütteln::V,נער,agitar
+1079,schütteln::V,נער,sacudir
+1080,schwenken::V,נופף,menear
+1081,schwenken::V,טלטל,menear
+1082,schütten::V,שפך,verter
+1083,füllen::V,מלא,llenar
+1084,einwickeln::V,עטף,envolver
+1085,tragen::V,נשא,llevar
+1086,schleppen::V,סחב,arrastrar
+1087,ziehen::V,משך,tirar
+1088,aufbewahren::V,שמר,conservar
+1089,werfen::V,זרק,echar
+1090,werfen::V,זרק,lanzar
+1091,fangen::V,תפס,coger
+1092,packen::V,אחז,agarrar
+1093,verstecken::V,החביא,esconder
+1094,teilen::V,חלק,partir
+1095,teilen::V,חלק,dividir
+1096,schicken::V,שלח,enviar
+1097,bringen::V,הביא,traer
+1098,hinzufügen::V,הוסיף,añadir
+1099,bekommen::V,תפס,obtener
+1100,bekommen::V,תפס,conseguir
+1101,erhalten::V,קבל,recibir
+1102,nehmen::V,אחז,tomar
+1103,wählen::V,בחר,elegir
+1104,auswählen::V,בחר ב,escoger
+1105,auswählen::V,בחר ב,seleccionar
+1106,bewahren::V,קים,guardar
+1107,bewahren::V,קים,preservar
+1108,behindern::V,מנע,estorbar
+1109,behindern::V,מנע,obstaculizar
+1110,verderben::V,מנע,estropear
+1111,beschädigen::V,הזיק,deteriorar
+1112,zerbrechen::V,נשבר,romper
+1113,zerbrechen::V,נשבר,quebrar
+1114,zerreißen::V,קרע,desgarrar
+1115,zerreißen::V,קרע,despedazar
+1116,zerstören::V,הרס,destruir
+1117,zerstören::V,הרס,destrozar
+1118,zerstören::V,השמיד,destruir
+1119,zerstören::V,השמיד,destrozar
+1120,verbrennen::V,שרף,quemar
+1121,geben::V,נתן,dar
+1122,reichen::V,העביר,pasar
+1123,schenken::V,נתן במתנה,regalar
+1124,versprechen::V,הבטיח,prometer
+1125,wünschen::V,אחל,desear
+1126,loben::V,שבח,alabar
+1127,küssen::V,נשק,besar
+1128,wiegen::V,נדנד,mecer
+1129,zudecken::V,כסה,tapar
+1130,zudecken::V,כסה,cubrir
+1131,wecken::V,עורר,despertar
+1132,zeigen::V,הראה,mostrar
+1133,führen::V,הביא,guiar
+1134,führen::V,הביא,conducir
+1135,führen::V,הוביל,guiar
+1136,führen::V,הוביל,conducir
+1137,lehren::V,למד,enseñar
+1138,lehren::V,למד,instruir
+1139,unterrichten::V,למד,enseñar
+1140,aufziehen::V,רומם,criar
+1141,leiten::V,נהל,guiar
+1142,leiten::V,נהל,dirigir
+1143,antreiben::V,המרץ,impeler
+1144,antreiben::V,המרץ,impulsar
+1145,lassen::V,נתן,hacer
+1146,einladen::V,הזמין,invitar
+1147,vereinigen::V,אחד,unir
+1148,vereinigen::V,לכד,unir
+1149,besuchen::V,בקר,visitar
+1150,besuchen::V,בקר,ir a ver
+1151,treffen::V,פגש,encontrar
+1152,sich versammeln::V,התאסף,reunirse
+1153,sich versammeln::V,התאסף,congregarse
+1154,spielen::V,שחק,jugar
+1155,singen::V,שר,cantar
+1156,tanzen::V,רקד,bailar
+1157,sich trennen::V,נפרד,separarse
+1158,verlassen::V,עזב,dejar
+1159,verlassen::V,עזב,abandonar
+1160,retten::V,הציל,salvar
+1161,bewachen::V,שמר,vigilar
+1162,schützen::V,אבטח,proteger
+1163,verteidigen::V,הגן,defender
+1164,sich schlagen::V,התכתש,batirse
+1165,schießen::V,ירה,tirar
+1166,schießen::V,ירה,disparar
+1167,siegen::V,גבר,vencer
+1168,siegen::V,נצח,vencer
+1169,ärgern::V,עצבן,enojar
+1170,ärgern::V,עצבן,enfadar
+1171,schlagen::V,הכה,pegar
+1172,schlagen::V,הכה,golpear
+1173,schlagen::V,הלקה,pegar
+1174,schlagen::V,הלקה,golpear
+1175,treten::V,בעט,dar una patada a
+1176,stechen::V,דקר,pinchar
+1177,stoßen::V,דחק,empujar
+1178,stehlen::V,גנב,robar
+1179,stehlen::V,גנב,hurtar
+1180,stören::V,קטע,molestar
+1181,stören::V,הפריע,molestar
+1182,belästigen::V,הציק,molestar
+1183,belästigen::V,הציק,importunar
+1184,belästigen::V,הטריד,molestar
+1185,belästigen::V,הטריד,importunar
+1186,verbergen::V,הצניע,ocultar
+1187,verbergen::V,הצניע,esconder
+1188,täuschen::V,שגע,engañar
+1189,betrügen::V,הונה,engañar
+1190,töten::V,הרג,matar
+1191,wohnen::V,גר,vivir
+1192,wohnen::V,גר,habitar
+1193,arbeiten::V,עבד,trabajar
+1194,sammeln::V,אסף,recoger
+1195,sammeln::V,אסף,coleccionar
+1196,pflücken::V,קטף,coger
+1197,jagen::V,צד,cazar
+1198,fischen::V,דג,pescar
+1199,fassen::V,תפס,atrapar
+1200,fassen::V,תפס,capturar
+1201,hüten::V,רעה,guardar
+1202,treiben::V,הוציא,aballar
+1203,anbinden::V,קשר,atar
+1204,füttern::V,הלעיט,echar de comer
+1205,melken::V,חלב,ordeñar
+1206,hacken::V,קצץ,picar
+1207,hacken::V,קצץ,cortar
+1208,gießen::V,השקה,regar
+1209,reifen::V,בשל,madurar
+1210,zubereiten::V,הכין,preparar
+1211,kochen::V,בשל,cocer
+1212,kochen::V,בשל,guisar
+1213,backen::V,אפה,hornear
+1214,backen::V,אפה,cocer al horno
+1215,braten::V,צלה,asar
+1216,braten::V,צלה,freír
+1217,braten::V,טגן,asar
+1218,braten::V,טגן,freír
+1219,umrühren::V,ערבב,remover
+1220,stricken::V,סרג,hacer punto
+1221,stricken::V,סרג,hacer calceta
+1222,nähen::V,תפר,coser
+1223,färben::V,צבע,teñir
+1224,färben::V,צבע,colorear
+1225,reinigen::V,נקה,limpiar
+1226,waschen::V,רחץ,lavar
+1227,waschen::V,כבס,lavar
+1228,abwischen::V,נגב,fregar
+1229,abwischen::V,נגב,limpiar
+1230,spülen::V,שטף,aclarar
+1231,spülen::V,שטף,enjuagar
+1232,fegen::V,טאטא,barrer
+1233,fegen::V,טאטא,pasar la escoba
+1234,kehren::V,טאטא,barrer
+1235,baden::V,טבל,bañarse
+1236,baden::V,שחה,bañarse
+1237,sich waschen::V,התרחץ,lavarse
+1238,ausziehen::V,הוריד,quitar
+1239,ausziehen::V,הוריד,quitarse
+1240,anziehen::V,לבש,ponerse
+1241,sich anziehen::V,התלבש,vestirse
+1242,kämmen::V,סרק,peinar
+1243,schmücken::V,קשט,adornar
+1244,sagen::V,אמר,decir
+1245,sprechen::V,דבר,hablar
+1246,reden::V,דבר,hablar
+1247,reden::V,דבר,conversar
+1248,sich unterhalten::V,שוחח,charlar
+1249,sich unterhalten::V,שוחח,conversar
+1250,fragen::V,שאל,preguntar
+1251,bitten::V,בקש,rogar
+1252,erzählen::V,ספר,contar
+1253,mitteilen::V,מסר,comunicar
+1254,mitteilen::V,מסר,participar
+1255,mitteilen::V,הודיע,comunicar
+1256,mitteilen::V,הודיע,participar
+1257,nennen::V,קרא בשם,llamar
+1258,nennen::V,קרא בשם,nombrar
+1259,rufen::V,גיס,llamar
+1260,rufen::V,הזמין לבוא,llamar
+1261,prahlen::V,התרברב,jactarse
+1262,übersetzen::V,תרגם,traducir
+1263,denken::V,חשב,pensar
+1264,glauben::V,האמין,creer
+1265,bemerken::V,הבחין,notar
+1266,erkennen::V,זהה,reconocer
+1267,begreifen::V,קלט,concebir
+1268,begreifen::V,הבין,concebir
+1269,verstehen::V,הבין,entender
+1270,verstehen::V,הבין,comprender
+1271,lernen::V,למד,aprender
+1272,wissen::V,ידע,saber
+1273,sich erinnern an::V,זכר,recordar
+1274,sich erinnern an::V,זכר,acordarse de
+1275,vergessen::V,שכח,olvidar
+1276,messen::V,מדד,medir
+1277,zählen::V,ספר,contar
+1278,rechnen::V,חשב,contar
+1279,rechnen::V,חשב,calcular
+1280,lesen::V,קרא,leer
+1281,malen::V,ציר,pintar
+1282,zeichnen::V,שרטט,dibujar
+1283,schreiben::V,כתב,escribir
+1284,besitzen::V,היה בעל של,poseer
+1285,kaufen::V,קנה,comprar
+1286,kaufen::V,רכש,comprar
+1287,verkaufen::V,מכר,vender
+1288,bezahlen::V,שלם,pagar
+1289,zahlen::V,שלם,pagar
+1290,beherrschen::V,שלט,dominar
+1291,ertragen::V,סבל,soportar

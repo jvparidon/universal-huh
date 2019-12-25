@@ -1,0 +1,1452 @@
+,Concept_ID,az,lt
+0,Auge::N,göz,akis
+1,Ohr::N,qulaq,ausis
+2,Nase::N,burun,nosis
+3,Mund::N,ağız,burna
+4,Zahn::N,diş,dantis
+5,Zunge::N,dil,liežuvis
+6,Lippe::N,dodaq,lūpa
+7,Wange::N,yanaq,žandas
+8,Wange::N,yanaq,skruostas
+9,Gesicht::N,üz,veidas
+10,Stirn::N,alın,kakta
+11,Haar::N,saç,plaukai
+12,Schnurrbart::N,bığ,ūsai
+13,Bart::N,saqqal,barzda
+14,Kinn::N,çənə,smakras
+15,Kiefer[Anatomie]::N,çənə,žandikaulis
+16,Kehle::N,boğaz,gerklė
+17,Hals::N,boyun,kaklas
+18,Genick::N,ənsə,sprandas
+19,Kopf::N,baş,galva
+20,Rücken::N,bel,nugara
+21,Bauch::N,qarın,pilvas
+22,Nabel::N,göbək,bamba
+23,Busen::N,məmə,krūtinė
+24,Brust::N,döş,krūtis
+25,Schulter::N,çiyin,petys
+26,Arm::N,qol,ranka
+27,Ellenbogen::N,dirsək,alkūnė
+28,Hand::N,əl,ranka
+29,Hand::N,əl,plaštaka
+30,Handfläche::N,ovuc,delnas
+31,Handfläche::N,ovuc,plaštaka
+32,Finger::N,barmaq,pirštas
+33,Fingernagel::N,barmaq dırnağı,nagas
+34,Nagel[Anatomie]::N,dırnak,nagas
+35,Zeh::N,ayaq barmağı,pirštas
+36,Fuß::N,ayaq,pėda
+37,Ferse::N,daban,kulnas
+38,Knie::N,diz,kelis
+39,Oberschenkel::N,bud,kulšis
+40,Oberschenkel::N,bud,šlaunis
+41,Bein::N,qıç,koja
+42,Körper::N,əndam,kūnas
+43,Haut::N,dəri,oda
+44,Blut::N,qan,kraujas
+45,Ader::N,damar,kraujagyslė
+46,Sehne::N,vətər,sausgyslė
+47,Knochen::N,sümük,kaulas
+48,Gehirn::N,beyin,smegenys
+49,Herz::N,ürək,širdis
+50,Magen::N,mədə,skrandis
+51,Leber::N,qara ciyər,kepenys
+52,Atem::N,nəfəs,kvapas
+53,Hunger::N,aclıq,badas
+54,Hunger::N,aclıq,alkis
+55,Träne::N,göz yaşı,ašara
+56,Geschmack::N,tam,skonis
+57,Geschmack::N,ləzzət,skonis
+58,Geruch::N,qoxu,kvapas
+59,Schlaf::N,yuxu,miegas
+60,Traum::N,röya,sapnas
+61,Himmel::N,göy,dangus
+62,Himmel::N,səma,dangus
+63,Sonne::N,günəş,saulė
+64,Mond::N,ay,mėnulis
+65,Stern::N,ulduz,žvaigždė
+66,Luft::N,hava,oras
+67,Wind::N,yel,vėjas
+68,Wind::N,külək,vėjas
+69,Welle::N,dalğa,banga
+70,Welle::N,dalğa,vilnis
+71,Wasser::N,su,vanduo
+72,Stein::N,daş,akmuo
+73,Boden::N,yer,žemė
+74,Boden::N,yer,dugnas
+75,Boden::N,zəmin,žemė
+76,Boden::N,zəmin,dugnas
+77,Erde::N,yer torpaq,žemė
+78,Staub::N,toz,dulkės
+79,Rauch::N,tüstü,dūmai
+80,Funke::N,qığılcım,kibirkštis
+81,Feuer::N,od,ugnis
+82,Licht::N,işıq,šviesa
+83,Schatten::N,kölgə,paūksmė
+84,Wetter::N,hava,oras
+85,Nebel::N,duman,migla
+86,Nebel::N,duman,rūkas
+87,Wolke::N,bulud,debesis
+88,Regen::N,yağış,lietus
+89,Regen::N,yağmur,lietus
+90,Schnee::N,qar,sniegas
+91,Eis::N,buz,ledas
+92,Frost::N,ayaz,šalna
+93,Kälte::N,soyuq,šaltis
+94,Hitze::N,coşğunluq,karštis
+95,Raureif::N,qırov,šerkšnas
+96,Regenbogen::N,göy qurşağı,vaivorykštė
+97,Donner::N,göy gurultusu,perkūnas
+98,Donner::N,göy gurultusu,griaustinis
+99,Strömung::N,axın,tėkmė
+100,Tropfen::N,damcı,lašas
+101,Schaum::N,köpük,putos
+102,Schmutz::N,çamır,purvas
+103,See::N,göl,ežeras
+104,Sumpf::N,bataqlıq,klampynė
+105,Sumpf::N,bataqlıq,liūnas
+106,Moor::N,bataqlıq,pelkė
+107,Wiese::N,çəmən,pieva
+108,Wald::N,meşə,miškas
+109,Hügel::N,təpə,kalva
+110,Anhöhe::N,təpə,kauburys
+111,Berg::N,dağ,kalnas
+112,Gipfel::N,zirvə,viršūnė
+113,Höhle::N,mağara,ola
+114,Abhang::N,yamac,šlaitas
+115,Abhang::N,yamac,nuokalnė
+116,Quelle::N,bulaq,versmė
+117,Quelle::N,bulaq,šaltinis
+118,Bach::N,kiçik çay,upelis
+119,Fluss::N,çay,upė
+120,Ufer::N,kənar,krantas
+121,Küste::N,sahil,pajūris
+122,Festland::N,materik,sausuma
+123,Meer::N,dəniz,jūra
+124,Bucht::N,körfəz,įlanka
+125,Bucht::N,körfəz,užutekis
+126,Insel::N,ada,sala
+127,Blume::N,çiçək,gėlė
+128,Gras::N,ot,žolė
+129,Wurzel::N,kök,šaknis
+130,Baum::N,ağac,medis
+131,Stamm::N,gövdə,kamienas
+132,Rinde::N,qabıq,žievė
+133,Ast::N,şax,šaka
+134,Zweig::N,budaq,šakelė
+135,Blatt::N,yarpaq,lapas
+136,Birke::N,tozağacı,beržas
+137,Kiefer[Baum]::N,şam,pušis
+138,Weide[Baum]::N,söyüd,karklas
+139,Tanne::N,küknar,eglė
+140,Tanne::N,küknar,kėnis
+141,Horn::N,buynuz,ragas
+142,Feder::N,tük,plunksna
+143,Feder::N,lələk,plunksna
+144,Fell::N,xəz,kailis
+145,Flügel::N,qanad,sparnas
+146,Klaue::N,pəncə,kanopa
+147,Kralle::N,dırnaq,nagas
+148,Schwanz::N,quyruq,uodega
+149,Ei::N,yumurta,kiaušinis
+150,Nest::N,yuva,gūžta
+151,Nest::N,yuva,lizdas
+152,Bau::N,yuva,ola
+153,Tier::N,heyvan,gyvūnas
+154,Herde::N,sürü,banda
+155,Herde::N,sürü,kaimenė
+156,Kuh::N,inək,karvė
+157,Bulle::N,öküz,bulius
+158,Pferd::N,at,arklys
+159,Schaf::N,qoyun,avis
+160,Schwein::N,donuz,kiaulė
+161,Hund::N,it,šuo
+162,Hund::N,köpək,šuo
+163,Katze::N,pişik,katė
+164,Bär::N,ayı,lokys
+165,Eichhörnchen::N,dələ,voveraitė
+166,Elch::N,sığın,briedis
+167,Fuchs::N,tülkü,lapė
+168,Hase::N,dovşan,kiškas
+169,Maus::N,siçan,pelė
+170,Wolf::N,qurd,vilkas
+171,Vogel::N,quş,paukštis
+172,Schwarm::N,sürü,spiečius
+173,Huhn::N,toyuq,višta
+174,Hahn::N,xoruz,gaidys
+175,Gans::N,qaz,žąsis
+176,Adler::N,qartal,erelis
+177,Adler::N,qaraquş,erelis
+178,Ente::N,ördək,antis
+179,Eule::N,bayquş,pelėda
+180,Kranich::N,durna,gervė
+181,Krähe::N,qarğa,varna
+182,Kuckuck::N,ququ,gegužė
+183,Schwan::N,qu quşu,gulbė
+184,Fisch::N,balıq,žuvis
+185,Barsch::N,tar,ešerys
+186,Hecht::N,durnabalığı,lydeka
+187,Schlange[Tier]::N,ilan,gyvatė
+188,Wurm::N,qurd,kirmėlė
+189,Spinne::N,hörümçək,voras
+190,Ameise::N,qarışqa,skruzdė
+191,Laus::N,bit,utėlė
+192,Mücke::N,ağcaqanad,uodas
+193,Fliege::N,milçək,musė
+194,Schmetterling::N,kəpənək,drugys
+195,Schmetterling::N,kəpənək,peteliškė
+196,Beere::N,gilə,uoga
+197,Apfel::N,alma,obuolys
+198,Pilz::N,göbələk,grybas
+199,Zwiebel::N,soğan,svogūnas
+200,Saat::N,əkin,sėkla
+201,Korn::N,taxıl,grūdai
+202,Heu::N,quru ot,šienas
+203,Schale::N,qabıq,žievelė
+204,Grube::N,çuxur,duobė
+205,Falle::N,tələ,pinklės
+206,Falle::N,tələ,žabangai
+207,Falle::N,duzaq,pinklės
+208,Falle::N,duzaq,žabangai
+209,Schlinge::N,ilmək,kilpa
+210,Spur::N,iz,vėžė
+211,Spur::N,iz,pėdos
+212,Spur::N,iz,pėdsakas
+213,Asche::N,kül,pelenai
+214,Dreck::N,kir,purvas
+215,Eisen::N,dəmir,geležis
+216,Gold::N,altun,auksas
+217,Silber::N,gümüş,sidabras
+218,Kohle::N,kömür,anglis
+219,Glas::N,şüşə,stiklas
+220,Lehm::N,gil,molis
+221,Lehm::N,palçıq,molis
+222,Sand::N,qum,smėlis
+223,Mensch::N,adam,žmogus
+224,Mensch::N,insan,žmogus
+225,Mann::N,kişi,vyras
+226,Mann::N,kişi,vyriškis
+227,Frau::N,qadın,moteris
+228,Kind::N,uşaq,vaikas
+229,Junge::N,oğlan,vaikinas
+230,Junge::N,oğlan,berniukas
+231,Mädchen::N,qız,mergytė
+232,Mädchen::N,qız,mergaitė
+233,Familie::N,ailə,šeima
+234,Großvater::N,baba,senelis
+235,Großmutter::N,nənə,senelė
+236,Eltern::N,valideyn,tėvai
+237,Vater::N,ata,tėvas
+238,Mutter::N,ana,motina
+239,Sohn::N,oğul,sūnus
+240,Tochter::N,qız,duktė
+241,Bruder::N,qardaş,brolis
+242,Schwester::N,bacı,sesuo
+243,Onkel::N,əmi,dėdė
+244,Onkel::N,dayı,dėdė
+245,Tante::N,bibi,teta
+246,Ehemann::N,ər,vyras
+247,Ehefrau::N,arvad,žmona
+248,Freude::N,nəşə,džiaugsmas
+249,Freude::N,sevinc,džiaugsmas
+250,Gelächter::N,gülüş,juokas
+251,Gelächter::N,qəhqəhə,juokas
+252,Glück::N,səadət,laimė
+253,Glück::N,xoşbəxtlik,laimė
+254,Kummer::N,qəm,vargas
+255,Kummer::N,qəm,rūpestis
+256,Kummer::N,kədər,vargas
+257,Kummer::N,kədər,rūpestis
+258,Wunsch::N,arzu,troškimas
+259,Wunsch::N,arzu,pageidavimas
+260,Lust::N,həvəs,noras
+261,Lust::N,həvəs,geidulys
+262,Geist::N,ruh,dvasia
+263,Gedanke::N,fikir,mintis
+264,Gedanke::N,düşüncə,mintis
+265,Gedächtnis::N,xatir,atmintis
+266,Gedächtnis::N,hafizə,atmintis
+267,Verstand::N,ağıl,protas
+268,Sinn::N,məna,prasmė
+269,Grund::N,səbəb,priežastis
+270,Wahrheit::N,haqq,tiesa
+271,Wahrheit::N,haqq,teisybė
+272,Wahrheit::N,doğruluq,tiesa
+273,Wahrheit::N,doğruluq,teisybė
+274,Gespräch::N,söhbət,pokalbis
+275,Gespräch::N,qonuşma,pokalbis
+276,Märchen::N,nağıl,pasaka
+277,Erzählung::N,hekayə,apsakymas
+278,Erzählung::N,hekayə,pasakojimas
+279,Nachricht::N,xəbər,žinia
+280,Neuigkeit::N,xəbər,naujiena
+281,Neuigkeit::N,yenilik,naujiena
+282,Name::N,ad,vardas
+283,Rätsel::N,tapmaca,mįslė
+284,Rede::N,nitq,kalba
+285,Sprache::N,dil,kalba
+286,Stimme::N,səs,balsas
+287,Wort::N,söz,žodis
+288,Wort::N,kəlmə,žodis
+289,Zeichen::N,nişan,žymė
+290,Zeichen::N,nişan,ženklas
+291,Ruf::N,çığırtı,šauksmas
+292,Lärm::N,gurultu,triukšmas
+293,Laut::N,səs,garsas
+294,Ton::N,ton,tonas
+295,Ton::N,ton,garsas
+296,Lied::N,mahnı,daina
+297,Lied::N,mahnı,giesmė
+298,Ruhe::N,sakitlik,ramybė
+299,Ruhe::N,sakitlik,ramumas
+300,Leute::N,xalq,žmonės
+301,Volk::N,millət,tauta
+302,Arbeit::N,iş,darbas
+303,Arbeit::N,iş,triūsas
+304,Arbeit::N,əmək,darbas
+305,Arbeit::N,əmək,triūsas
+306,Gast::N,qonaq,svečias
+307,Gast::N,müsafir,svečias
+308,Geschenk::N,hədiyyə,dovana
+309,Spiel::N,oyun,žaismas
+310,Spiel::N,oyun,žaidimas
+311,Spiel::N,tamaşa,žaismas
+312,Spiel::N,tamaşa,žaidimas
+313,Gesellschaft::N,cəmiyyet,draugija
+314,Gesellschaft::N,cəmiyyet,kompanija
+315,Hilfe::N,kömək,pagalba
+316,Hilfe::N,yardım,pagalba
+317,Freund::N,dost,draugas
+318,Freund::N,dost,bičiulis
+319,Kamerad::N,yoldaş,draugas
+320,Angelegenheit::N,iş,dalykas
+321,Angelegenheit::N,iş,reikalas
+322,Anzahl::N,say,kiekis
+323,Anzahl::N,say,skaičius
+324,Art::N,çeşid,rūšis
+325,Stück::N,dənə,gabalas
+326,Stück::N,parça,gabalas
+327,Teil::N,qisim,dalis
+328,Hälfte::N,yarım,pusė
+329,Kreis::N,dairə,ratas
+330,Kreis::N,dairə,apskritis
+331,Kreis::N,dairə,apskritimas
+332,Kreuz::N,xaç,kryžius
+333,Linie::N,xətt,linija
+334,Strich::N,cızıq,brėžis
+335,Strich::N,cızıq,brūkšnys
+336,Abstand::N,məsafə,atstumas
+337,Entfernung::N,məsafə,atstumas
+338,Entfernung::N,uzaqlıq,atstumas
+339,Gegend::N,bölgə,vietovė
+340,Platz::N,yer,vieta
+341,Ort::N,yer,vieta
+342,Ort::N,yer,vietovė
+343,Seite::N,yan,pusė
+344,Seite::N,yan,šonas
+345,Seite::N,tərəf,pusė
+346,Seite::N,tərəf,šonas
+347,Mitte::N,orta,vidurys
+348,Gegenstand::N,şey,dalykas
+349,Sache::N,şey,daiktas
+350,Rand::N,kənar,kraštas
+351,Rand::N,kənar,pakraštys
+352,Kante::N,tiyə,kraštas
+353,Kante::N,kənar,kraštas
+354,Ecke::N,bucaq,kertė
+355,Ecke::N,bucaq,kampas
+356,Spitze::N,uc,priekis
+357,Spitze::N,uc,priešakys
+358,Ende::N,son,galas
+359,Ende::N,axır,galas
+360,Loch::N,deşik,skylė
+361,Winkel::N,guşə,kampas
+362,Winkel::N,guşə,kampelis
+363,Muster::N,ülgü,raštas
+364,Größe::N,böyüklük,dydis
+365,Größe::N,böyüklük,didumas
+366,Länge::N,uzunluq,ilgis
+367,Länge::N,uzunluq,ilgumas
+368,Höhe::N,yüksəklik,aukštis
+369,Höhe::N,yüksəklik,aukštuma
+370,Gewicht::N,çəki,svoris
+371,Gewicht::N,çəki,svarstis
+372,Gewicht::N,ağırlıq,svoris
+373,Gewicht::N,ağırlıq,svarstis
+374,Menge::N,miqdar,kiekis
+375,Menge::N,miqdar,daugybė
+376,Haufen::N,yığın,krūva
+377,Haufen::N,yığın,šūsnis
+378,Reihe::N,səf,greta
+379,Reihe::N,sıra,greta
+380,Boot::N,qayıq,valtis
+381,Boot::N,qayıq,laivelis
+382,Ruder::N,kürək,irklas
+383,Schlitten::N,kirşə,rogės
+384,Schlitten::N,kirşə,rogutės
+385,Ski::N,xizək,slidė
+386,Lagerfeuer::N,düşərgə tonqalı,laužas
+387,Last::N,yük,našta
+388,Last::N,yük,nešulys
+389,Gang::N,yeriş,eisena
+390,Schritt::N,addım,žingsnis
+391,Norden::N,şimal,šiaurė
+392,Norden::N,şimal,žiemiai
+393,Süden::N,cənub,pietūs
+394,Westen::N,qərb,vakarai
+395,Osten::N,şərq,rytai
+396,Holz::N,ağac,mediena
+397,Holz::N,taxta,mediena
+398,Brett::N,taxta,lenta
+399,Platte::N,lövhə,plokštė
+400,Stütze::N,dayaq,atrama
+401,Stütze::N,dayaq,atspara
+402,Stütze::N,dəstək,atrama
+403,Stütze::N,dəstək,atspara
+404,Stange::N,şüvül,lazda
+405,Stange::N,şüvül,kartis
+406,Stock::N,dəyənək,lazda
+407,Stab::N,əsa,kartis
+408,Stab::N,şüvül,kartis
+409,Rohr::N,boru,vamzdis
+410,Rohr::N,truba,vamzdis
+411,Haus::N,ev,namas
+412,Heim::N,ev,namai
+413,Ofen::N,peç,krosnis
+414,Ofen::N,soba,krosnis
+415,Fußboden::N,döşəmə,grindys
+416,Tisch::N,masa,stalas
+417,Stuhl::N,stul,kėdė
+418,Wiege::N,beşik,lopšys
+419,Bett::N,yataq,lova
+420,Bett::N,yataq,patalai
+421,Regal::N,rəf,lentyna
+422,Kiste::N,yeşik,dėžė
+423,Kiste::N,sandıq,dėžė
+424,Fenster::N,pəncərə,langas
+425,Tür::N,qapı,durys
+426,Tor::N,darvaza,vartai
+427,Zaun::N,çəpər,tvora
+428,Dach::N,dam,stogas
+429,Leiter::N,nərdivan,kopėčios
+430,Besen::N,süpürgə,šluota
+431,Spaten::N,kürək,lopeta
+432,Spaten::N,kürək,kastuvas
+433,Schaufel::N,kürək,semtuvas
+434,Gabel::N,çəngəl,šakutė
+435,Löffel::N,qaşıq,šaukštas
+436,Messer::N,bıçaq,peilis
+437,Nagel::N,mıx,vinis
+438,Netz::N,tor,tinklas
+439,Haken::N,çəngəl,vagis
+440,Haken::N,çəngəl,kablys
+441,Griff::N,qulp,kotas
+442,Griff::N,qulp,rankena
+443,Griff::N,tutacaq,kotas
+444,Griff::N,tutacaq,rankena
+445,Schloss::N,qıfıl,spyna
+446,Schloss::N,qıfıl,užraktas
+447,Bild::N,rəsm,paveikslas
+448,Figur::N,şəkil,figūra
+449,Figur::N,heykəl,figūra
+450,Puppe::N,kukla,lėlė
+451,Puppe::N,gəlincik,lėlė
+452,Beutel::N,kisə,krepšys
+453,Beutel::N,kisə,maišelis
+454,Beutel::N,torba,krepšys
+455,Beutel::N,torba,maišelis
+456,Bündel::N,bağlama,ryšulys
+457,Tasche::N,çanta,krepšelis
+458,Eimer::N,vedrə,kibiras
+459,Eimer::N,çəllək,kibiras
+460,Deckel::N,qapaq,dangtis
+461,Geschirr::N,qab-qazan,indai
+462,Sack::N,çuval,maišas
+463,Tasse::N,fincan,puodukas
+464,Topf::N,qazan,puodas
+465,Kessel::N,qazan,katilas
+466,Essen::N,yemək,valgis
+467,Nahrung::N,qida,penas
+468,Nahrung::N,qida,maistas
+469,Speise::N,xörək,patiekalas
+470,Fleisch::N,ət,mėsa
+471,Getreide::N,taxıl,javai
+472,Brei::N,aş,košė
+473,Brei::N,sıyıq,košė
+474,Brot::N,çörək,duona
+475,Scheibe::N,dilim,riekė
+476,Fett::N,yağ,taukai
+477,Fett::N,yağ,riebalai
+478,Butter::N,kərə yağı,sviestas
+479,Öl::N,yağ,aliejus
+480,Salz::N,duz,druska
+481,Suppe::N,şorba,sriuba
+482,Honig::N,bal,medus
+483,Milch::N,süd,pienas
+484,Tee::N,çay,arbata
+485,Leder::N,dəri,oda
+486,Wolle::N,yun,vilna
+487,Stoff::N,qumaş,audeklas
+488,Nadel::N,iynə,adata
+489,Faden::N,sap,gija
+490,Faden::N,sap,siūlas
+491,Knopf::N,düymə,saga
+492,Knoten::N,düyün,mazgas
+493,Farbe::N,boya,dažai
+494,Kleidung::N,geyim,rūbai
+495,Kleidung::N,geyim,drabužiai
+496,Hemd::N,köynək,marškiniai
+497,Kragen::N,yaxa,apykaklė
+498,Ärmel::N,qol,rankovė
+499,Hose::N,şalvar,kelnės
+500,Gürtel::N,kəmər,juosta
+501,Gürtel::N,kəmər,diržas
+502,Mütze::N,şapka,kepurė
+503,Schuh::N,tufli,batas
+504,Schuh::N,ayaqqabı,batas
+505,Stiefel::N,çəkmə,auliniai batai
+506,Ring::N,üzük,žiedas
+507,Band::N,lent,kaspinas
+508,Kamm::N,daraq,šukos
+509,Spiegel::N,güzgü,veidrodis
+510,Riemen::N,qayış,diržas
+511,Schnur::N,ip,virvė
+512,Leine::N,kəmsik,pavadėlis
+513,Decke::N,ədyal,antklodė
+514,Decke::N,yorğan,antklodė
+515,Kissen::N,yastıq,pagalvė
+516,Kissen::N,yastıq,priegalvis
+517,Tuch::N,şarf,skarelė
+518,Tuch::N,kaşne,skarelė
+519,Handtuch::N,dəsmal,rankšluostis
+520,Kraft::N,güc,jėga
+521,Stärke::N,qüvvət,stiprumas
+522,Gesundheit::N,sağlamlıq,sveikata
+523,Krankheit::N,xəstəlik,liga
+524,Schmerz::N,ağrı,skausmas
+525,Schmerz::N,sancı,skausmas
+526,Wunde::N,yara,žaizda
+527,Fieber::N,isitmə,karštis
+528,Fieber::N,qızdırma,karštis
+529,Arznei::N,ilaç,vaistas
+530,Arznei::N,dərman,vaistas
+531,Brücke::N,körpü,tiltas
+532,Brunnen::N,quyu,šulinys
+533,Weide::N,otlaq,ganykla
+534,Weide::N,otlaq,gluosnis
+535,Pfad::N,cığır,takas
+536,Weg::N,yol,kelias
+537,Straße::N,küçə,gatvė
+538,Dorf::N,kənd,kaimas
+539,Dorf::N,kənd,sodžius
+540,Stadt::N,şəhər,miestas
+541,Brief::N,məktub,laiškas
+542,Buch::N,kitab,knyga
+543,Buchstabe::N,hərf,raidė
+544,Zeitung::N,qəzet,laikraštis
+545,Leben::N,həyat,gyvybė
+546,Leben::N,həyat,gyvenimas
+547,Tod::N,ölüm,mirtis
+548,Grab::N,qəbir,kapas
+549,Kirche::N,kilsə,bažnyčia
+550,Sünde::N,günah,nuodėmė
+551,Sünde::N,günah,nusidėjimas
+552,Gott::N,tanrı,dievas
+553,Arbeiter::N,işçi,darbininkas
+554,Chef::N,şef,šefas
+555,Chef::N,şef,vadovas
+556,Chef::N,şef,viršininkas
+557,Chef::N,rəis,šefas
+558,Chef::N,rəis,vadovas
+559,Chef::N,rəis,viršininkas
+560,Meister::N,usta,meistras
+561,Arzt::N,həkim,gydytojas
+562,Arzt::N,doktor,gydytojas
+563,Lehrer::N,müəllim,mokytojas
+564,Geld::N,pul,pinigai
+565,Geschäft::N,ticarət,biznis
+566,Laden::N,dükan,krautuvė
+567,Laden::N,dükan,parduotuvė
+568,Preis::N,qiymət,kaina
+569,Ware::N,mal,prekė
+570,Nutzen::N,fayda,nauda
+571,Nutzen::N,fayda,pelnas
+572,Reichtum::N,zənginlik,turtas
+573,Welt::N,aləm,pasaulis
+574,Welt::N,dünya,pasaulis
+575,Land::N,ölkə,žemė
+576,Land::N,ölkə,šalis
+577,Staat::N,dövlət,valstija
+578,König::N,kral,karalius
+579,König::N,məlik,karalius
+580,Macht::N,qüdrət,galia
+581,Macht::N,qüdrət,valdžia
+582,Grenze::N,hüdud,riba
+583,Grenze::N,hüdud,siena
+584,Grenze::N,sərhət,riba
+585,Grenze::N,sərhət,siena
+586,Krieg::N,hərb,karas
+587,Krieg::N,müharibə,karas
+588,Feind::N,düşmən,priešas
+589,Gewalt::N,cəbr,jėga
+590,Gewalt::N,cəbr,smurtas
+591,Gewalt::N,cəbr,prievarta
+592,Kampf::N,savaş,kova
+593,Bogen[Waffe]::N,yay,lankas
+594,Pfeil::N,ox,strėlė
+595,Gewehr::N,tüfəng,šautuvas
+596,Fehler::N,xəta,klaida
+597,Lüge::N,yalan,melas
+598,Schaden::N,ziyan,nuostolis
+599,Schaden::N,ziyan,apgadinimas
+600,Unglück::N,bəla,nelaimė
+601,Schuld::N,təqsir,kaltė
+602,Alter::N,yaş,amžius
+603,Schluss::N,son,pabaiga
+604,Zeit::N,vaxt,laikas
+605,Zeit::N,zaman,laikas
+606,Tag::N,gün,diena
+607,Morgen::N,sabah,rytas
+608,Mittag::N,günorta,vidurdienis
+609,Abend::N,axşam,vakaras
+610,Nacht::N,gecə,naktis
+611,Woche::N,həftə,savaitė
+612,Monat::N,ay,mėnuo
+613,Jahr::N,il,metai
+614,Frühling::N,yaz,pavasaris
+615,Frühling::N,bahar,pavasaris
+616,Sommer::N,yay,vasara
+617,Herbst::N,payız,ruduo
+618,Winter::N,qış,žiema
+619,Januar::N,Janvar,sausis
+620,Februar::N,Fevral,vasaris
+621,März::N,Mart,kovas
+622,April::N,Aprel,balandis
+623,Mai::N,May,gegužė
+624,Juni::N,İyun,birželis
+625,Juli::N,İyul,liepa
+626,August::N,Avqust,rugpjūtis
+627,September::N,Sentyabr,rugsėjis
+628,Oktober::N,Oktyabr,spalis
+629,November::N,Noyabr,lapkritis
+630,Dezember::N,Dekabr,gruodis
+631,Montag::N,bazar ertəsi,pirmadienis
+632,Dienstag::N,çərşənbə axşamı,antradienis
+633,Mittwoch::N,çərşənbə,trečiadienis
+634,Donnerstag::N,cüme axşamı,ketvirtadienis
+635,Freitag::N,cüme,penktadienis
+636,Samstag::N,şənbə,šeštadienis
+637,Sonntag::N,bazar,sekmadienis
+638,groß::A,böyük,didis
+639,groß::A,böyük,didelis
+640,klein::A,kiçik,mažas
+641,lang::A,uzun,ilgas
+642,kurz::A,qısa,trumpas
+643,breit::A,enli,platus
+644,breit::A,geniş,platus
+645,schmal::A,dar,smulkus
+646,dicht::A,sıx,tankus
+647,dick[Gegenstand]::A,qalın,storas
+648,dünn::A,nazik,plonas
+649,fein::A,incə,smulkus
+650,fest::A,bərk,kietas
+651,fest::A,bərk,tvirtas
+652,fest::A,möhkəm,kietas
+653,fest::A,möhkəm,tvirtas
+654,flach::A,düz,lėkštas
+655,flach::A,düz,plokščias
+656,glatt::A,hamar,slidus
+657,hart::A,sərt,kietas
+658,weich::A,yumşaq,minkštas
+659,rund::A,yuvarlaq,apvalus
+660,rund::A,yuvarlaq,apskritas
+661,spitz::A,uclu,aštrus
+662,spitz::A,uclu,smailus
+663,spitz::A,sivri,aštrus
+664,spitz::A,sivri,smailus
+665,scharf::A,kəskin,aštrus
+666,stumpf::A,küt,bukas
+667,stumpf::A,küt,atšipęs
+668,schwer::A,ağır,sunkus
+669,schön::A,gözəl,gražus
+670,schön::A,gəşəng,gražus
+671,heiß::A,isti,karštas
+672,warm::A,ilıq,šiltas
+673,kalt::A,soyuq,šaltas
+674,kühl::A,sərin,vėsus
+675,kühl::A,sərin,bejausmis
+676,frisch::A,təzə,šviežias
+677,feucht::A,nəm,drėgnas
+678,nass::A,yaş,šlapias
+679,trocken::A,quru,sausas
+680,voll::A,dolu,pilnas
+681,leer::A,boş,tuščias
+682,offen::A,açıq,atviras
+683,geschlossen::A,qapalı,uždaras
+684,geschlossen::A,qapalı,uždarytas
+685,sauber::A,təmiz,švarus
+686,schmutzig::A,kirli,nešvarus
+687,schmutzig::A,kirli,purvinas
+688,roh::A,çiy,žalias
+689,reif::A,yetişmiş,prinokęs
+690,reif::A,yetişmiş,pribrendęs
+691,lecker::A,dadlı,gardus
+692,lecker::A,ləzzətli,gardus
+693,süß::A,şirin,saldus
+694,bitter::A,acı,kartus
+695,sauer::A,turş,gižus
+696,sauer::A,turş,rūgštus
+697,hell::A,aydın,šviesus
+698,hell::A,aydın,skaistus
+699,dunkel::A,qaranlıq,tamsus
+700,schwarz::A,qara,juodas
+701,weiß::A,ağ,baltas
+702,rot::A,qırmızı,raudonas
+703,gelb::A,sarı,geltonas
+704,blau::A,göy,mėlynas
+705,blau::A,mavi,mėlynas
+706,grün::A,yaşıl,žalias
+707,grau::A,boz,pilkas
+708,bunt::A,əlvan,margas
+709,bunt::A,əlvan,spalvotas
+710,bunt::A,rəngli,margas
+711,bunt::A,rəngli,spalvotas
+712,billig::A,ucuz,pigus
+713,teuer::A,bahalı,brangus
+714,wertvoll::A,qiymətli,vertingas
+715,blind::A,kor,aklas
+716,taub::A,kar,kurčias
+717,kräftig::A,güclü,stiprus
+718,stark::A,qüvvətli,stiprus
+719,schwach::A,zəif,silpnas
+720,schwach::A,gücsüz,silpnas
+721,fett::A,şişman,riebus
+722,schlank::A,zərif,laibas
+723,schlank::A,zərif,lieknas
+724,hübsch::A,göyçək,gražus
+725,böse::A,fəna,blogas
+726,dumm::A,axmaq,paikas
+727,dumm::A,axmaq,kvailas
+728,faul::A,tənbəl,tingus
+729,fleißig::A,çalışqan,stropus
+730,fleißig::A,çalışqan,kruopštus
+731,geizig::A,xəsis,šykštus
+732,klug::A,ağıllı,sumanus
+733,klug::A,ağıllı,protingas
+734,geschickt::A,bacarıqlı,apsukrus
+735,lieb::A,əziz,mielas
+736,lieb::A,sevimli,mielas
+737,lustig::A,məzəli,smagus
+738,lustig::A,məzəli,linksmas
+739,lustig::A,gülməli,smagus
+740,lustig::A,gülməli,linksmas
+741,sanft::A,mülayim,švelnus
+742,sanft::A,mülayim,minkštas
+743,hungrig::A,ac,alkanas
+744,krank::A,xəstə,ligotas
+745,krank::A,xəstə,sergantis
+746,nackt::A,çılpaq,nuogas
+747,traurig::A,qəmgin,liūdnas
+748,traurig::A,kədərli,liūdnas
+749,lebendig::A,canlı,gyvas
+750,gut::A,yaxşı,geras
+751,schlecht::A,pis,blogas
+752,schlecht::A,pis,prastas
+753,richtig::A,doğru,tikras
+754,richtig::A,doğru,teisingas
+755,schlimm::A,fəna,blogas
+756,schlimm::A,fəna,prastas
+757,wahr::A,gərçək,tikras
+758,alt::A,əski,senas
+759,alt::A,köhnə,senas
+760,neu::A,yeni,naujas
+761,ehemalig::A,əvvəlki,buvęs
+762,alt[Lebewesen]::A,qoca,pagyvenęs
+763,jung::A,gənc,jaunas
+764,arm::A,kasıb,neturtingas
+765,arm::A,yoxsul,neturtingas
+766,reich::A,zəngin,turtingas
+767,bekannt::A,tanış,žinomas
+768,bekannt::A,tanış,pažįstamas
+769,berühmt::A,məşhur,žymus
+770,berühmt::A,məşhur,garsus
+771,fremd::A,yad,svetimas
+772,verschieden::A,dürlü,įvairus
+773,nah::A,yaxın,artimas
+774,fern::A,uzaq,tolimas
+775,linker::A,sol,kairys
+776,rechter::A,sağ,dešinys
+777,anderer::A,başqa,kitas
+778,erster::A,birinci,pirmas
+779,zweiter::A,ikinci,antras
+780,dritter::A,üçüncü,trečias
+781,letzter::A,sonuncu,paskutinis
+782,letzter::A,axırıncı,paskutinis
+783,allein::ADV,tək,vienas
+784,allein::ADV,yalqız,vienas
+785,auf einmal::ADV,birdən,iš karto
+786,zusammen::ADV,birlikdə,kartu
+787,zusammen::ADV,birlikdə,drauge
+788,lange::ADV,uzun,ilgai
+789,plötzlich::ADV,qəfildən,staiga
+790,sofort::ADV,həmən,tuojau
+791,sofort::ADV,dərhal,tuojau
+792,später::ADV,sonra,vėliau
+793,später::ADV,sonra,paskiau
+794,jetzt::ADV,indi,dabãr
+795,heute::ADV,bugün,šiandien
+796,morgen::ADV,sabah,rytoj
+797,bald::ADV,yaxında,greitai
+798,bald::ADV,yaxında,netrukus
+799,bald::ADV,tezliklə,greitai
+800,bald::ADV,tezliklə,netrukus
+801,dann::ADV,onda,po to
+802,gestern::ADV,dünən,vakar
+803,einst::ADV,əvvəllər,kadaise
+804,einst::ADV,əvvəllər,kitą kartą
+805,damals::ADV,o vaxt,anuomet
+806,damals::ADV,o vaxt,anuokart
+807,danach::ADV,sonra,po to
+808,danach::ADV,sonra,paskui
+809,vorher::ADV,qabaqcadan,anksčiau
+810,zuerst::ADV,əvvəl,pirma
+811,zuerst::ADV,əvvəl,iš pradžių̃
+812,einmal::ADV,bir dəfə,kartą
+813,einmal::ADV,bir dəfə,vieną kartą
+814,manchmal::ADV,hərdənbir,kai kada
+815,oft::ADV,tez-tez,dažnai
+816,oft::ADV,çox vaxt,dažnai
+817,immer::ADV,daimi,visada
+818,immer::ADV,daimi,visuomet
+819,immer::ADV,həmişə,visada
+820,immer::ADV,həmişə,visuomet
+821,niemals::ADV,əsla,niekada
+822,niemals::ADV,əsla,niekuomet
+823,niemals::ADV,heç bir zaman,niekada
+824,niemals::ADV,heç bir zaman,niekuomet
+825,hier::ADV,bura,čia
+826,hier::ADV,burada,čia
+827,hierhin::ADV,buraya,šen
+828,hierhin::ADV,buraya,čionai
+829,von hier::ADV,buradan,iš čia
+830,dort::ADV,ora,ten
+831,dort::ADV,ora,tenai
+832,dort::ADV,orada,ten
+833,dort::ADV,orada,tenai
+834,dorthin::ADV,oraya,ten
+835,dorthin::ADV,oraya,ten link
+836,geradeaus::ADV,düz,tiesiai
+837,vorwärts::ADV,irəli,pirmyn
+838,rückwärts::ADV,geri,atbulai
+839,zurück::ADV,geriyə,atgal
+840,unten::ADV,aşağıda,žemai
+841,unten::ADV,aşağıda,apačioje
+842,hinab::ADV,aşağı,žemyn
+843,oben::ADV,yuxarıda,viršuj
+844,hinauf::ADV,yuxarı,aukštyn
+845,hinauf::ADV,yuxarı,į viršų
+846,überall::ADV,hər yerdə,visur
+847,nicht::ADV,-ma-,ne
+848,ein wenig::ADV,bir az,truputį
+849,kaum::ADV,güclə,vos
+850,sehr::ADV,çox,labai
+851,sehr::ADV,çox,baisiai
+852,so::ADV,belə,taip
+853,noch::ADV,hələ,dar
+854,nur::ADV,yalnız,tik
+855,nur::ADV,yalnız,vien
+856,schon::ADV,artıq,jau
+857,wieder::ADV,yenə,vėl
+858,wieder::ADV,yenə,iš naujo
+859,vergebens::ADV,boş yerə,veltui
+860,vergebens::ADV,boş yerə,bergždžiai
+861,vor::PRP,önündə,prieš
+862,hinter::PRP,arxasında,už
+863,unter::PRP,altında,po
+864,durch::PRP,içindən,pro
+865,durch::PRP,içindən,per
+866,neben::PRP,yanında,prie
+867,neben::PRP,yanında,šalia
+868,zwischen::PRP,arasında,tarp
+869,wegen::PRP,üçün,dėl
+870,wegen::PRP,üçün,dėlei
+871,wegen::PRP,ötəri,dėl
+872,wegen::PRP,ötəri,dėlei
+873,dies::PRN,bu,šis
+874,dies::PRN,bu,šitas
+875,das::PRN,o,tat
+876,alles::PRN,hər şey,visas
+877,ich::PRN,mən,aš
+878,du::PRN,sən,tu
+879,er::PRN,o,jis
+880,wir::PRN,biz,mes
+881,ihr::PRN,siz,jūs
+882,sie::PRN,onlar,ji
+883,sie::PRN,onlar,jos
+884,was::FPRN,nə,kas
+885,wer::FPRN,kim,kas
+886,wo::FADV,harada,kur
+887,wohin::FADV,haraya,kur
+888,wohin::FADV,haraya,kur link
+889,wie::FADV,necə,kaip
+890,warum::FADV,niyə,kod̃ėl
+891,warum::FADV,niyə,dėl ko
+892,warum::FADV,nə üçün,kod̃ėl
+893,warum::FADV,nə üçün,dėl ko
+894,wieviel::FNUM,neçə,kiek
+895,wieviel::FNUM,nə qədər,kiek
+896,eins::NUM,bir,vienas
+897,zwei::NUM,iki,du
+898,drei::NUM,üç,trys
+899,vier::NUM,dörd,keturi
+900,fünf::NUM,beş,penki
+901,sechs::NUM,altı,šeši
+902,sieben::NUM,yeddi,septyni
+903,acht::NUM,səkkiz,aštuoni
+904,neun::NUM,doqquz,devyni
+905,zehn::NUM,on,dešimt
+906,elf::NUM,on bir,vienuolika
+907,zwölf::NUM,on iki,dvylika
+908,zwanzig::NUM,iyirmi,dvidešimt
+909,dreißig::NUM,otuz,trisdešimt
+910,vierzig::NUM,qırx,keturiasdešimt
+911,fünfzig::NUM,əlli,penkiasdešimt
+912,sechzig::NUM,altmış,šešiasdešimt
+913,siebzig::NUM,yetmiş,septyniasdešimt
+914,achtzig::NUM,səksən,aštuoniasdešimt
+915,neunzig::NUM,doxsan,devyniasdešimt
+916,hundert::NUM,yüz,šimtas
+917,tausend::NUM,min,tūkstantis
+918,und::CNJ,və,ĩr
+919,oder::CNJ,ya,ar
+920,oder::CNJ,ya,arba
+921,stehen::V,durmaq,stovėti
+922,sitzen::V,oturmaq,sėdėti
+923,liegen::V,uzanmaq,gulėti
+924,hängen::V,asılmaq,kyboti
+925,hängen::V,asılmaq,kabėti
+926,werden::V,olmaq,taptis
+927,werden::V,olmaq,darytis
+928,passieren::V,olmaq,atsitikti
+929,passieren::V,olmaq,pasitaikyti
+930,passieren::V,baş vermək,atsitikti
+931,passieren::V,baş vermək,pasitaikyti
+932,beginnen::V,başlamaq,prasid́ėti
+933,enden::V,bitmək,baigtis
+934,wechseln::V,dəyişmək,keistis
+935,wechseln::V,dəyişmək,pasikeisti
+936,aufgehen[Sonne]::V,doğmaq,tekėti
+937,aufgehen[Sonne]::V,doğmaq,patekėti
+938,untergehen[Sonne]::V,batmaq,leistis
+939,untergehen[Sonne]::V,batmaq,nusileisti
+940,scheinen[Sonne]::V,parlamaq,šviesti
+941,donnern::V,guruldamaq,griausti
+942,donnern::V,guruldamaq,griaudėti
+943,wehen::V,əsmək,pūsti
+944,strömen::V,axmaq,lietis
+945,strömen::V,axmaq,plūsti
+946,fließen::V,axmaq,tekėti
+947,sich drehen::V,dönmək,suktis
+948,sich drehen::V,dönmək,pasisukti
+949,schwanken::V,yellənmək,svyruoti
+950,schwingen::V,yellənmək,suptis
+951,fallen::V,düşmek,pulti
+952,fallen::V,düşmek,kristi
+953,brennen::V,yanmaq,degti
+954,rauchen::V,tüstüləmək,rūkyti
+955,regnen::V,yağmaq,lyti
+956,gefrieren::V,donmaq,užšalti
+957,tauen::V,ərimək,tirpti
+958,schmelzen::V,ərimək,lydytis
+959,trocknen::V,qurumaq,džiūti
+960,sieden::V,qaynamaq,virti
+961,faulen::V,çürümək,pūti
+962,verfaulen::V,çürümək,švinkti
+963,reißen::V,yırtılmaq,plyšti
+964,reißen::V,yırtılmaq,trūkti
+965,versinken::V,batmaq,skę̃sti
+966,versinken::V,batmaq,grimzti
+967,vergehen::V,ötmək,praeiti
+968,erscheinen::V,görünmək,pasirodyti
+969,verschwinden::V,yox olmaq,dingti
+970,verschwinden::V,yox olmaq,išnykti
+971,verschwinden::V,yox olmaq,pranykti
+972,sinken::V,enmək,kristi
+973,abnehmen::V,azalmaq,mažėti
+974,abnehmen::V,azalmaq,silpnėti
+975,zunehmen::V,artmaq,didėti
+976,zunehmen::V,artmaq,padaugėti
+977,steigen::V,yüksəlmək,kilti
+978,wachsen::V,böyümək,augti
+979,glänzen::V,parlamaq,blizgėti
+980,funkeln::V,parıldamaq,žibėti
+981,lärmen::V,səs-küy etmək,triukšmauti
+982,läuten::V,çalmaq,skambinti
+983,klingeln::V,zəng etmək,skambinti
+984,klirren::V,cingildəmək,žvangėti
+985,brausen::V,gurlamaq,šniokšti
+986,rauschen::V,xışıldamaq,ošti
+987,rauschen::V,xışıldamaq,šlamėti
+988,klingen::V,səslənmək,skardėti
+989,bellen::V,hürmək,loti
+990,heulen::V,ulamaq,kaukti
+991,heulen::V,ulamaq,staugti
+992,blasen::V,üfləmək,pūsti
+993,pfeifen::V,fit vermek,švilpti
+994,pfeifen::V,fit vermek,švilpauti
+995,schreien::V,bağırmaq,šaukti
+996,schreien::V,qışqırmaq,šaukti
+997,stöhnen::V,inləmək,dejuoti
+998,stöhnen::V,inləmək,aimanuoti
+999,zittern::V,titrəmək,virpėti
+1000,leben::V,yaşamaq,gyventi
+1001,geboren werden::V,doğmaq,gimti
+1002,atmen::V,nəfəs almaq,alsuoti
+1003,atmen::V,nəfəs almaq,kvėpuoti
+1004,trinken::V,içmek,gerti
+1005,essen::V,yemək,valgyti
+1006,schlucken::V,udmaq,praryti
+1007,müde werden::V,yorulmaq,nuvargti
+1008,müde werden::V,yorulmaq,privargti
+1009,einschlafen::V,yuxuya getmək,užmigti
+1010,schlafen::V,uyumaq,miegoti
+1011,aufwachen::V,oyanmaq,pabusti
+1012,aufstehen::V,yuxudan durmaq,keltis
+1013,aufstehen::V,yuxudan durmaq,atsikelti
+1014,sich erholen::V,dincəlmək,pailsėti
+1015,sich erholen::V,dincəlmək,poilsiauti
+1016,krank werden::V,xəstə olmaq,susirgti
+1017,krank sein::V,azarlanmaq,sirgti
+1018,krank sein::V,xəstələnmək,sirgti
+1019,schmerzen::V,ağrimaq,sopėti
+1020,schmerzen::V,ağrimaq,skaudėti
+1021,husten::V,öksürmək,kosėti
+1022,genesen::V,sağalmaq,sveikti
+1023,genesen::V,sağalmaq,taisytis
+1024,sterben::V,ölmək,mirti
+1025,sterben::V,ölmək,numirti
+1026,sterben::V,vəfat etmək,mirti
+1027,sterben::V,vəfat etmək,numirti
+1028,umkommen::V,həlak olmaq,žūti
+1029,sich bewegen::V,hərəkət etmək,judėti
+1030,sich bewegen::V,hərəkət etmək,pasijudinti
+1031,sich rühren::V,tərpənmək,krutėti
+1032,sich erheben::V,qalxmaq,pakilti
+1033,sich erheben::V,qalxmaq,atsikelti
+1034,sich setzen::V,oturmaq,sėstis
+1035,sich setzen::V,oturmaq,atsisėsti
+1036,hinfallen::V,yıxılmaq,parkristi
+1037,hinfallen::V,yıxılmaq,pargriūti
+1038,laufen::V,yerimək,eiti
+1039,schreiten::V,addım atmaq,žengti
+1040,schreiten::V,addım atmaq,žingsniuoti
+1041,spazierengehen::V,gəzmək,pasivaikščioti
+1042,eilen::V,atılmaq,skubėti
+1043,sich beeilen::V,tələsmək,paskub́ėti
+1044,sich beeilen::V,tələsmək,pasiskubinti
+1045,sausen::V,çırpmaq,dumti
+1046,sausen::V,çırpmaq,lėkti
+1047,rennen::V,qaçmaq,bėgti
+1048,springen::V,sıçramaq,šokti
+1049,klettern::V,dırmanmaq,kopti
+1050,schaukeln::V,sallanmaq,supti
+1051,schaukeln::V,sallanmaq,linguoti
+1052,kriechen::V,sürünmək,ropoti
+1053,kriechen::V,sürünmək,šliaužti
+1054,schwimmen::V,üzmek,plaukti
+1055,tauchen::V,dalmaq,nerti
+1056,rudern::V,avarlamaq,irtis
+1057,rudern::V,avarlamaq,irkluoti
+1058,fahren::V,sürmək,važiuoti
+1059,fahren::V,sürmək,važinėti
+1060,fliegen::V,uçmaq,lėkti
+1061,fliegen::V,uçmaq,skristi
+1062,gehen::V,getmək,eiti
+1063,weggehen::V,getmək,išeiti
+1064,abfahren::V,yola düşmək,išvykti
+1065,abfahren::V,yola düşmək,išvažiuoti
+1066,anhalten::V,saxlamaq,sustoti
+1067,hineingehen::V,girmək,įeiti
+1068,eintreten::V,girmək,įžengti
+1069,eintreten::V,daxil olmaq,įžengti
+1070,kommen::V,gəlmək,ateiti
+1071,ankommen::V,gəlib çatmaq,ateiti
+1072,zurückkommen::V,qayıtmaq,grį̃žti
+1073,zurückkommen::V,qayıtmaq,sugrį̃žti
+1074,bleiben::V,qalmaq,likti
+1075,bleiben::V,qalmaq,pasilikti
+1076,warten::V,gözləmək,laukti
+1077,erwarten::V,bəkləmək,laukti
+1078,suchen::V,aramaq,ieškoti
+1079,suchen::V,axtarmaq,ieškoti
+1080,finden::V,tapmaq,rasti
+1081,finden::V,tapmaq,surasti
+1082,versuchen::V,çalışmaq,mėginti
+1083,vorbereiten::V,hazırlamaq,rengti
+1084,lieben::V,sevmək,myĺėti
+1085,mögen::V,xoşlamaq,ḿėgti
+1086,mögen::V,xoşlamaq,patikti
+1087,lachen::V,gülmək,juoktis
+1088,rühren::V,həyəcanlandırmaq,jaudinti
+1089,rühren::V,həyəcanlandırmaq,graudinti
+1090,weinen::V,ağlamaq,verkti
+1091,schimpfen::V,küfr etmək,bartis
+1092,sich ärgern::V,acıqlanmaq,pykti
+1093,sich ärgern::V,acıqlanmaq,apmaudauti
+1094,sich fürchten::V,qorxmaq,bijoti
+1095,sich fürchten::V,qorxmaq,baimintis
+1096,fürchten::V,qorxmaq,bijoti
+1097,fürchten::V,qorxmaq,baimintis
+1098,fliehen::V,qaçmaq,bėgti
+1099,fliehen::V,qaçmaq,sprukti
+1100,flüchten::V,qaçmaq,pabėgti
+1101,sehen::V,görmək,žiūŕėti
+1102,anschauen::V,baxmaq,žiūŕėti
+1103,ansehen::V,baxmaq,žiūrėti į
+1104,ansehen::V,baxmaq,pažiūrėti į
+1105,hören::V,duymaq,girdėti
+1106,hören::V,eşitmək,girdėti
+1107,zuhören::V,dinləmək,klausytis
+1108,probieren::V,dadına baxmaq,ragauti
+1109,probieren::V,dadına baxmaq,paragauti
+1110,riechen::V,qoxlamaq,uosti
+1111,riechen::V,qoxlamaq,užuosti
+1112,fühlen::V,duymaq,justi
+1113,fühlen::V,duymaq,jausti
+1114,fühlen::V,duymaq,pajusti
+1115,scheinen::V,görünmək,rodytis
+1116,scheinen::V,görünmək,atrodyti
+1117,zu sehen sein::V,görünmək,pasirodyti
+1118,vernehmen::V,eşitmək,išgirsti
+1119,frieren::V,üşümək,šalti
+1120,tun::V,etmək,daryti
+1121,können::V,bilmək,galėti
+1122,können::V,bilmək,pajėgti
+1123,können::V,bacarmaq,galėti
+1124,können::V,bacarmaq,pajėgti
+1125,wollen::V,istəmək,norėti
+1126,anfangen::V,başlamaq,pradėti
+1127,anfangen::V,başlamaq,prasid́ėti
+1128,beenden::V,bitirmək,baigti
+1129,beenden::V,bitirmək,užbaigti
+1130,aufhören::V,bitmək,liautis
+1131,aufhören::V,qurtarmaq,liautis
+1132,gelingen::V,müvəffəq olmaq,pavykti
+1133,gelingen::V,müvəffəq olmaq,pasisekti
+1134,geraten::V,düşmək,nusisekti
+1135,öffnen::V,açmaq,atverti
+1136,öffnen::V,açmaq,atidaryti
+1137,schließen::V,qapamaq,uždaryti
+1138,stellen::V,qoymaq,statyti
+1139,stellen::V,qoymaq,pastatyti
+1140,setzen::V,oturtmaq,sodinti
+1141,setzen::V,oturtmaq,pasodinti
+1142,legen::V,qoymaq,dėti
+1143,legen::V,qoymaq,pad́ėti
+1144,berühren::V,toxunmaq,liesti
+1145,berühren::V,toxunmaq,paliesti
+1146,verbinden::V,bağlamaq,jungti
+1147,verbinden::V,bağlamaq,surišti
+1148,bedecken::V,örtmək,uždengti
+1149,aufhängen::V,asmaq,pakarti
+1150,aufhängen::V,asmaq,pakabinti
+1151,anzünden::V,yandırmaq,padegti
+1152,aufheben::V,qaldırmaq,pakelti
+1153,zurücklassen::V,buraxmaq,palikti
+1154,verlieren::V,itirmək,pamesti
+1155,fallen lassen::V,düşürmək,atsisakyti
+1156,machen::V,etmək,dirbti
+1157,herstellen::V,istehsal etmək,gaminti
+1158,bauen::V,tikmək,statyti
+1159,bauen::V,tikmək,pastatyti
+1160,reparieren::V,təmir etmək,taisyti
+1161,reparieren::V,təmir etmək,remontuoti
+1162,verbessern::V,düzəltmək,gerinti
+1163,verbessern::V,düzəltmək,ištaisyti
+1164,ändern::V,dəyişdirmək,keisti
+1165,ändern::V,dəyişdirmək,pakeisti
+1166,graben::V,qazımaq,kasti
+1167,beugen::V,əymək,lenkti
+1168,beugen::V,əymək,palenkti
+1169,biegen::V,bükmək,lenkti
+1170,biegen::V,bükmək,palenkti
+1171,drehen::V,döndərmək,sukti
+1172,wenden::V,çevirmək,kreipti
+1173,wenden::V,çevirmək,pakreipti
+1174,umdrehen::V,çevirmək,sukti
+1175,umdrehen::V,çevirmək,apversti
+1176,heben::V,qaldırmaq,kelti
+1177,heben::V,qaldırmaq,pakelti
+1178,hochheben::V,qaldırmaq,pakelti
+1179,ergreifen::V,tutmaq,čiupti
+1180,ergreifen::V,tutmaq,griebti
+1181,halten::V,saxlamaq,laikyti
+1182,halten::V,saxlamaq,palaikyti
+1183,drücken::V,sıxmaq,spausti
+1184,schieben::V,sürmək,stumti
+1185,kratzen::V,qaşımaq,kasyti
+1186,kratzen::V,qaşımaq,grandyti
+1187,lecken::V,yalamaq,laižyti
+1188,beißen::V,dişləmək,kandžioti
+1189,abreißen::V,qoparmaq,nuplėšti
+1190,abschneiden::V,ayırmaq,atpjauti
+1191,abschneiden::V,ayırmaq,atkirpti
+1192,binden::V,bağlamaq,rišti
+1193,binden::V,bağlamaq,surišti
+1194,stecken::V,soxmaq,kišti
+1195,stecken::V,soxmaq,įkišti
+1196,brechen::V,qırmaq,lūžti
+1197,brechen::V,qırmaq,laužyti
+1198,klopfen::V,sındırmaq,belsti
+1199,klopfen::V,sındırmaq,barbenti
+1200,hauen::V,vurmaq,mušti
+1201,kleben::V,apışdırmaq,lipdyti
+1202,kleben::V,apışdırmaq,klijuoti
+1203,reiben::V,ovmaq,trinti
+1204,reiben::V,ovmaq,tarkuoti
+1205,streichen::V,sürtmək,tepti
+1206,streichen::V,sürtmək,užtepti
+1207,schleifen::V,bülövləmək,galą́sti
+1208,schneiden::V,kəsmək,pjauti
+1209,schneiden::V,kəsmək,kirpti
+1210,rütteln::V,sirkələmək,purtyti
+1211,schütteln::V,çalxalamaq,purtyti
+1212,schwenken::V,yelləmək,mojuoti
+1213,schütten::V,tökmək,pilti
+1214,schütten::V,tökmək,berti
+1215,füllen::V,doldurmaq,pildyti
+1216,füllen::V,doldurmaq,pripildyti
+1217,einwickeln::V,sarımaq,įvynioti
+1218,einwickeln::V,sarımaq,suvynioti
+1219,tragen::V,daşımaq,nešti
+1220,tragen::V,daşımaq,nešioti
+1221,schleppen::V,sürükləmək,vilkti
+1222,ziehen::V,çəkmək,tempti
+1223,aufbewahren::V,gizlətmək,laikyti
+1224,werfen::V,atmaq,mesti
+1225,werfen::V,atmaq,sviesti
+1226,fangen::V,tutmaq,sugauti
+1227,packen::V,yaxalamaq,čiupti
+1228,packen::V,yaxalamaq,griebti
+1229,verstecken::V,gizlətmək,slėpti
+1230,verstecken::V,gizlətmək,slapstyti
+1231,teilen::V,bölmək,dalyti
+1232,teilen::V,bölmək,padalyti
+1233,schicken::V,yollamaq,sių̃sti
+1234,schicken::V,yollamaq,pasių̃sti
+1235,schicken::V,göndərmək,sių̃sti
+1236,schicken::V,göndərmək,pasių̃sti
+1237,bringen::V,gətirmək,atnešti
+1238,hinzufügen::V,əlavə etmək,pridėti
+1239,bekommen::V,almaq,gauti
+1240,bekommen::V,əldə etmək,gauti
+1241,erhalten::V,almaq,gauti
+1242,nehmen::V,almaq,paimti
+1243,wählen::V,seçmək,rinkti
+1244,wählen::V,seçmək,išsirinkti
+1245,auswählen::V,arımaq,išrinkti
+1246,bewahren::V,qorumaq,išsaugoti
+1247,behindern::V,mane olmaq,trukdyti
+1248,verderben::V,pozmaq,sugadinti
+1249,beschädigen::V,zədələmək,žaloti
+1250,beschädigen::V,zədələmək,gadinti
+1251,zerbrechen::V,qırmaq,sukulti
+1252,zerbrechen::V,qırmaq,sudaužyti
+1253,zerbrechen::V,sındırmaq,sukulti
+1254,zerbrechen::V,sındırmaq,sudaužyti
+1255,zerreißen::V,yırtmaq,perplėšti
+1256,zerreißen::V,yırtmaq,suplėšyti
+1257,zerstören::V,dağıtmaq,suardyti
+1258,zerstören::V,dağıtmaq,sugriauti
+1259,verbrennen::V,yandırmaq,deginti
+1260,verbrennen::V,yandırmaq,sudeginti
+1261,geben::V,vermək,duoti
+1262,geben::V,vermək,paduoti
+1263,reichen::V,uzatmaq,paduoti
+1264,schenken::V,vermək,dovanoti
+1265,versprechen::V,vəd vermək,žadėti
+1266,versprechen::V,vəd vermək,pažadėti
+1267,wünschen::V,arzulamaq,norėti
+1268,wünschen::V,arzulamaq,linḱėti
+1269,loben::V,tərifləmək,girti
+1270,loben::V,tərifləmək,pagirti
+1271,küssen::V,öpmək,bučiuoti
+1272,wiegen::V,tərpətmək,supti
+1273,zudecken::V,örtmək,užkloti
+1274,zudecken::V,örtmək,uždengti
+1275,wecken::V,oyatmaq,žadinti
+1276,zeigen::V,göstərmək,rodyti
+1277,führen::V,rəhbərlik etmək,vesti
+1278,führen::V,rəhbərlik etmək,vadovauti
+1279,lehren::V,öyrətmək,mokyti
+1280,lehren::V,öyrətmək,išmokyti
+1281,unterrichten::V,öyrətmək,dėstyti
+1282,unterrichten::V,dərs vermək,dėstyti
+1283,aufziehen::V,tərbiyə etmək,išauginti
+1284,leiten::V,idarə etmək,valdyti
+1285,leiten::V,idarə etmək,vadovauti
+1286,antreiben::V,bizləmək,uiti
+1287,antreiben::V,bizləmək,raginti
+1288,antreiben::V,bizləmək,skubinti
+1289,lassen::V,-tırmaq,paliepti
+1290,einladen::V,dəvət etmək,kviesti
+1291,einladen::V,dəvət etmək,pakviesti
+1292,vereinigen::V,birləşdirmək,sujungti
+1293,vereinigen::V,birləşdirmək,suvienyti
+1294,besuchen::V,baş çəkmək,lankyti
+1295,besuchen::V,baş çəkmək,aplankyti
+1296,besuchen::V,ziyarət etmək,lankyti
+1297,besuchen::V,ziyarət etmək,aplankyti
+1298,treffen::V,rastlaşmaq,sutikti
+1299,treffen::V,rastlaşmaq,pasitikti
+1300,treffen::V,rast gəlmək,sutikti
+1301,treffen::V,rast gəlmək,pasitikti
+1302,sich versammeln::V,toplanmaq,susirinkti
+1303,spielen::V,oynamaq,groti
+1304,spielen::V,oynamaq,žaisti
+1305,singen::V,oxumaq,dainuoti
+1306,tanzen::V,oynamaq,šokti
+1307,tanzen::V,rəqs etmək,šokti
+1308,sich trennen::V,ayrılmaq,skirtis
+1309,sich trennen::V,ayrılmaq,išsiskirti
+1310,verlassen::V,tərk etmək,palikti
+1311,retten::V,xilas etmək,gelbėti
+1312,bewachen::V,gözətmək,sergėti
+1313,schützen::V,qorumaq,ginti
+1314,schützen::V,qorumaq,apginti
+1315,verteidigen::V,qorumaq,ginti
+1316,verteidigen::V,qorumaq,apginti
+1317,sich schlagen::V,döyüşmək,muštis
+1318,schießen::V,atmaq,šauti
+1319,schießen::V,atmaq,šaudyti
+1320,schießen::V,atəş açmaq,šauti
+1321,schießen::V,atəş açmaq,šaudyti
+1322,siegen::V,yenmək,nugalėti
+1323,ärgern::V,acışdırmaq,pykinti
+1324,schlagen::V,döymək,mušti
+1325,schlagen::V,döymək,smogti
+1326,schlagen::V,döymək,trenkti
+1327,treten::V,təpmək,mygti
+1328,stechen::V,soxmaq,gelti
+1329,stechen::V,soxmaq,smeigti
+1330,stoßen::V,itələmək,stumti
+1331,stoßen::V,itələmək,pastumti
+1332,stehlen::V,çalmaq,vogti
+1333,stehlen::V,oğurlamaq,vogti
+1334,stören::V,pozmaq,trikdyti
+1335,belästigen::V,narahat etmək,apsunkinti
+1336,verbergen::V,gizləmək,slėpti
+1337,verbergen::V,gizləmək,paslėpti
+1338,täuschen::V,aldatmaq,klaidinti
+1339,betrügen::V,aldatmaq,apgauti
+1340,töten::V,öldürmək,žudyti
+1341,töten::V,öldürmək,nužudyti
+1342,wohnen::V,yaşamaq,gyventi
+1343,arbeiten::V,işləmək,dirbti
+1344,arbeiten::V,işləmək,triūsti
+1345,arbeiten::V,çalışmaq,dirbti
+1346,arbeiten::V,çalışmaq,triūsti
+1347,sammeln::V,yığmaq,rinkti
+1348,sammeln::V,toplamaq,rinkti
+1349,pflücken::V,qoparmaq,skinti
+1350,pflücken::V,qoparmaq,raškyti
+1351,jagen::V,ovlamaq,medžioti
+1352,fischen::V,balıq tutmaq,žvejoti
+1353,fassen::V,tutmaq,sučiupti
+1354,hüten::V,güdmək,ganyti
+1355,treiben::V,haylamaq,ginti
+1356,anbinden::V,bağlamaq,pririšti
+1357,füttern::V,bəsləmək,šerti
+1358,melken::V,sağmaq,melžti
+1359,hacken::V,yarmaq,kapoti
+1360,gießen::V,sulamaq,lieti
+1361,gießen::V,sulamaq,laistyti
+1362,reifen::V,dəymək,nokti
+1363,reifen::V,dəymək,sirpti
+1364,zubereiten::V,bişirmək,ruošti
+1365,zubereiten::V,bişirmək,gaminti
+1366,kochen::V,qaynatmaq,virti
+1367,kochen::V,qaynatmaq,virinti
+1368,backen::V,bişirmək,kepti
+1369,braten::V,qızartmaq,kepti
+1370,braten::V,qızartmaq,kepinti
+1371,umrühren::V,qarışdırmaq,maišyti
+1372,umrühren::V,qarışdırmaq,pamaišyti
+1373,stricken::V,hörmək,megzti
+1374,nähen::V,tikmək,siūti
+1375,färben::V,boyamaq,dažyti
+1376,färben::V,boyamaq,nudažyti
+1377,reinigen::V,təmizləmək,valyti
+1378,reinigen::V,təmizləmək,švarinti
+1379,waschen::V,yumaq,plauti
+1380,waschen::V,yumaq,mazgoti
+1381,waschen::V,yumaq,skalbti
+1382,abwischen::V,silmək,nušluostyti
+1383,spülen::V,çalxamaq,plauti
+1384,spülen::V,çalxamaq,skalauti
+1385,fegen::V,süpürmək,šluoti
+1386,kehren::V,süpürmək,šluoti
+1387,baden::V,çimmək,maudytis
+1388,sich waschen::V,yuyunmaq,praustis
+1389,ausziehen::V,soyunmaq,numauti
+1390,ausziehen::V,soyunmaq,nuvilkti
+1391,anziehen::V,geymək,mauti
+1392,anziehen::V,geymək,apsivilkti
+1393,sich anziehen::V,geyinmək,rengtis
+1394,sich anziehen::V,geyinmək,apsirengti
+1395,kämmen::V,daramaq,šukuoti
+1396,schmücken::V,bəzəmək,puošti
+1397,schmücken::V,bəzəmək,dabinti
+1398,schmücken::V,bəzəmək,gražinti
+1399,sagen::V,demək,tarti
+1400,sagen::V,söymek,tarti
+1401,sprechen::V,danışmaq,kalbėti
+1402,reden::V,danışmaq,šnekėti
+1403,sich unterhalten::V,söhbət etmək,kalbėtis
+1404,sich unterhalten::V,söhbət etmək,šnekučiuotis
+1405,fragen::V,soruşmaq,klausti
+1406,bitten::V,diləmək,prašyti
+1407,bitten::V,xahiş etmək,prašyti
+1408,erzählen::V,bəhs etmək,pasakoti
+1409,mitteilen::V,bildirmək,skelbti
+1410,mitteilen::V,bildirmək,pranešti
+1411,nennen::V,adlandırmaq,vadinti
+1412,nennen::V,adlandırmaq,vardyti
+1413,rufen::V,çağırmaq,šaukti
+1414,rufen::V,çağırmaq,kviesti
+1415,prahlen::V,öyünmək,girtis
+1416,übersetzen::V,tərcümə etmək,versti
+1417,übersetzen::V,tərcümə etmək,išversti
+1418,denken::V,düşünmək,galvoti
+1419,denken::V,fikirləşmək,galvoti
+1420,glauben::V,inanmaq,manyti
+1421,glauben::V,inanmaq,tikėti
+1422,bemerken::V,qeyd etmək,pamatyti
+1423,bemerken::V,qeyd etmək,pastebėti
+1424,erkennen::V,tanımaq,pažinti
+1425,erkennen::V,tanımaq,atpažinti
+1426,begreifen::V,anlamaq,suvokti
+1427,verstehen::V,duymaq,suprasti
+1428,lernen::V,öyrənmək,mokytis
+1429,wissen::V,bilmək,žinoti
+1430,sich erinnern an::V,xatırlamaq,prisiminti
+1431,vergessen::V,unutmaq,užmiršti
+1432,messen::V,ölçmək,matuoti
+1433,zählen::V,saymaq,skaičiuoti
+1434,rechnen::V,hesablamaq,skaičiuoti
+1435,lesen::V,oxumaq,skaityti
+1436,malen::V,şəkil çəkmək,tapyti
+1437,zeichnen::V,cızmaq,piešti
+1438,zeichnen::V,cızmaq,žymėti
+1439,zeichnen::V,cızmaq,braižyti
+1440,schreiben::V,yazmaq,rašyti
+1441,besitzen::V,yiyələnmək,turėti
+1442,besitzen::V,malik olmaq,turėti
+1443,kaufen::V,satın almaq,pirkti
+1444,verkaufen::V,satmaq,parduoti
+1445,bezahlen::V,ödəmək,apmokėti
+1446,zahlen::V,ödəmək,mokėti
+1447,beherrschen::V,idarə etmək,valdyti
+1448,ertragen::V,dözmək,kę̃sti
+1449,ertragen::V,dözmək,pakelti
+1450,ertragen::V,dözmək,iškę̃sti

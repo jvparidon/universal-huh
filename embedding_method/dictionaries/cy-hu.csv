@@ -1,0 +1,1436 @@
+,Concept_ID,cy,hu
+0,Auge::N,llygad,szem
+1,Ohr::N,clust,fül
+2,Nase::N,trwyn,orr
+3,Mund::N,ceg,száj
+4,Zahn::N,dant,fog
+5,Zunge::N,tafod,nyelv
+6,Lippe::N,gwefus,ajak
+7,Wange::N,boch,orca
+8,Gesicht::N,wyneb,arc
+9,Stirn::N,talcen,homlok
+10,Haar::N,blew,haj
+11,Schnurrbart::N,mwstas,bajusz
+12,Bart::N,barf,szakáll
+13,Kinn::N,gên,áll
+14,Kiefer[Anatomie]::N,gên,állkapocs
+15,Kehle::N,gwddf,gége
+16,Kehle::N,gwddf,torok
+17,Hals::N,gwddf,nyak
+18,Genick::N,gwar,tarkó
+19,Genick::N,gwegil,tarkó
+20,Kopf::N,pen,fő
+21,Kopf::N,pen,fej
+22,Rücken::N,cefn,hát
+23,Bauch::N,bol,has
+24,Nabel::N,bogail,köldök
+25,Busen::N,bron,mell
+26,Busen::N,bron,kebel
+27,Brust::N,brest,mell
+28,Schulter::N,ysgwydd,váll
+29,Arm::N,braich,kar
+30,Ellenbogen::N,penelin,könyök
+31,Hand::N,llaw,kéz
+32,Handfläche::N,palf,tenyér
+33,Finger::N,bys,ujj
+34,Fingernagel::N,ewin,köröm
+35,Nagel[Anatomie]::N,ewin,köröm
+36,Zeh::N,bys troed,lábujj
+37,Fuß::N,troed,láb
+38,Ferse::N,sawdl,sarok
+39,Knie::N,glin,térd
+40,Oberschenkel::N,clun,comb
+41,Bein::N,coes,láb
+42,Bein::N,coes,lábszár
+43,Körper::N,corff,test
+44,Haut::N,croen,bőr
+45,Blut::N,gwaed,vér
+46,Ader::N,gwythïen,ér
+47,Sehne::N,gewyn,ín
+48,Knochen::N,asgwrn,csont
+49,Gehirn::N,ymennydd,agy
+50,Gehirn::N,ymennydd,agyvelő
+51,Herz::N,calon,szív
+52,Magen::N,cylla,gyomor
+53,Magen::N,stumog,gyomor
+54,Leber::N,iau,máj
+55,Atem::N,anadl,lehelet
+56,Atem::N,anadl,lélegzet
+57,Hunger::N,newyn,éhség
+58,Träne::N,deigryn,könny
+59,Geschmack::N,cyflas,íz
+60,Geruch::N,aroglau,szag
+61,Schlaf::N,cwsg,álom
+62,Schlaf::N,cwsg,alvás
+63,Traum::N,breuddwyd,álom
+64,Himmel::N,awyr,ég
+65,Himmel::N,awyr,menny
+66,Sonne::N,haul,nap
+67,Mond::N,lleuad,hold
+68,Stern::N,seren,csillag
+69,Luft::N,awyr,levegő
+70,Wind::N,gwynt,szél
+71,Welle::N,ton,hullám
+72,Wasser::N,dŵr,víz
+73,Stein::N,carreg,kő
+74,Boden::N,llawr,föld
+75,Boden::N,llawr,talaj
+76,Erde::N,pridd,föld
+77,Staub::N,llwch,por
+78,Rauch::N,mwg,füst
+79,Funke::N,gwreichioni,szikra
+80,Feuer::N,tân,tűz
+81,Licht::N,golau,fény
+82,Schatten::N,cysgod,árnyék
+83,Wetter::N,tywydd,idő
+84,Wetter::N,tywydd,időjárás
+85,Nebel::N,niwl,köd
+86,Wolke::N,cwmwl,felhő
+87,Regen::N,glaw,eső
+88,Schnee::N,ôd,hó
+89,Schnee::N,eira,hó
+90,Eis::N,iâ,jég
+91,Frost::N,rhew,fagy
+92,Kälte::N,oerni,hideg
+93,Kälte::N,annwyd,hideg
+94,Hitze::N,gwres,hő
+95,Hitze::N,gwres,hőség
+96,Raureif::N,barrug,zúzmara
+97,Regenbogen::N,enfys,szivárvány
+98,Donner::N,tyrfau,dörgés
+99,Donner::N,tyrfau,mennydörgés
+100,Strömung::N,cerrynt,áramlat
+101,Tropfen::N,dafn,csepp
+102,Tropfen::N,diferyn,csepp
+103,Schaum::N,ewyn,hab
+104,Schaum::N,ewyn,tajték
+105,Schmutz::N,baw,piszok
+106,Schmutz::N,budreddi,piszok
+107,See::N,llyn,tó
+108,Sumpf::N,cors,mocsár
+109,Moor::N,rhos,láp
+110,Wiese::N,dôl,rét
+111,Wiese::N,dôl,mező
+112,Wald::N,coedwig,erdő
+113,Hügel::N,bryn,domb
+114,Anhöhe::N,bryn,magaslat
+115,Berg::N,mynydd,hegy
+116,Gipfel::N,copa,csúcs
+117,Höhle::N,ogof,barlang
+118,Abhang::N,llethr,lejtő
+119,Quelle::N,tarddiad,forrás
+120,Quelle::N,ffynhonnell,forrás
+121,Bach::N,nant,patak
+122,Bach::N,afonig,patak
+123,Bach::N,cornant,patak
+124,Fluss::N,afon,folyó
+125,Ufer::N,glan,part
+126,Küste::N,traeth,tengerpart
+127,Küste::N,arfordir,tengerpart
+128,Festland::N,tir,szárazföld
+129,Meer::N,môr,tenger
+130,Bucht::N,bae,öböl
+131,Insel::N,ynys,sziget
+132,Blume::N,blodyn,virág
+133,Gras::N,glaswellt,fű
+134,Wurzel::N,gwreiddyn,gyökér
+135,Baum::N,coeden,fa
+136,Stamm::N,colfen,tő
+137,Stamm::N,colfen,törzs
+138,Stamm::N,boncyff,tő
+139,Stamm::N,boncyff,törzs
+140,Rinde::N,rhisgl,kéreg
+141,Ast::N,cangen,ág
+142,Zweig::N,cainc,gally
+143,Zweig::N,cangen,gally
+144,Blatt::N,deilen,levél
+145,Birke::N,bedwen,nyír
+146,Kiefer[Baum]::N,pinwydden,fenyő
+147,Weide[Baum]::N,helygen,fűz
+148,Tanne::N,ffynidwydden,fenyő
+149,Horn::N,corn,szarv
+150,Feder::N,plufyn,toll
+151,Fell::N,ffwr,szőr
+152,Fell::N,ffwr,bunda
+153,Flügel::N,adain,szárny
+154,Klaue::N,crafanc,köröm
+155,Kralle::N,ewin,karom
+156,Schwanz::N,cwt,farok
+157,Schwanz::N,cynffon,farok
+158,Ei::N,wy,tojás
+159,Nest::N,nyth,fészek
+160,Bau::N,ffau,odú
+161,Tier::N,anifail,állat
+162,Herde::N,praidd,nyáj
+163,Herde::N,praidd,csorda
+164,Herde::N,diadell,nyáj
+165,Herde::N,diadell,csorda
+166,Kuh::N,buwch,tehén
+167,Bulle::N,tarw,bika
+168,Pferd::N,ceffyl,ló
+169,Schaf::N,dafad,juh
+170,Schaf::N,dafad,birka
+171,Schwein::N,mochyn,sertés
+172,Hund::N,ci,eb
+173,Hund::N,ci,kutya
+174,Katze::N,cath,macska
+175,Bär::N,arth,medve
+176,Eichhörnchen::N,gwiwer,mókus
+177,Elch::N,elc,jávorszarvas
+178,Fuchs::N,cadno,róka
+179,Hase::N,ysgyfarnog,nyúl
+180,Maus::N,llygoden,egér
+181,Wolf::N,blaidd,farkas
+182,Vogel::N,aderyn,madár
+183,Schwarm::N,haid,raj
+184,Huhn::N,cyw,tyúk
+185,Hahn::N,ceiliog,kakas
+186,Gans::N,gŵydd,lúd
+187,Gans::N,gŵydd,liba
+188,Adler::N,eryr,sas
+189,Ente::N,hwyad,kacsa
+190,Eule::N,tylluan,bagoly
+191,Kranich::N,garan,daru
+192,Kranich::N,crychydd,daru
+193,Krähe::N,brân,varjú
+194,Kuckuck::N,cog,kakukk
+195,Kuckuck::N,cwcw,kakukk
+196,Schwan::N,alarch,hattyú
+197,Fisch::N,pysgod,hal
+198,Barsch::N,draenog,sügér
+199,Hecht::N,penhwyad,csuka
+200,Schlange[Tier]::N,neidr,kígyó
+201,Wurm::N,abwydyn,kukac
+202,Wurm::N,pryf genwair,kukac
+203,Spinne::N,cor,pók
+204,Spinne::N,pryf copyn,pók
+205,Ameise::N,morgrugyn,hangya
+206,Laus::N,lleuen,tetű
+207,Mücke::N,gwybedyn,szúnyog
+208,Fliege::N,cleren,légy
+209,Schmetterling::N,glöyn byw,lepke
+210,Schmetterling::N,glöyn byw,pillangó
+211,Schmetterling::N,iâr fach yr haf,lepke
+212,Schmetterling::N,iâr fach yr haf,pillangó
+213,Beere::N,aeronen,bogyó
+214,Apfel::N,afal,alma
+215,Pilz::N,madarch,gomba
+216,Zwiebel::N,nionyn,hagyma
+217,Zwiebel::N,winwnsyn,hagyma
+218,Saat::N,had,vetőmag
+219,Korn::N,grawn,mag
+220,Korn::N,grawn,szem
+221,Heu::N,gwair,széna
+222,Schale::N,croen,héj
+223,Schale::N,plisgyn,héj
+224,Grube::N,pwll,verem
+225,Grube::N,pydew,verem
+226,Falle::N,magl,csapda
+227,Schlinge::N,cwlwm rhedeg,tőr
+228,Spur::N,ôl,nyom
+229,Asche::N,lludw,hamu
+230,Dreck::N,baw,sár
+231,Dreck::N,baw,piszok
+232,Dreck::N,budreddi,sár
+233,Dreck::N,budreddi,piszok
+234,Eisen::N,haearn,vas
+235,Gold::N,aur,arany
+236,Silber::N,arian,ezüst
+237,Kohle::N,glo,szén
+238,Glas::N,gwydr,üveg
+239,Lehm::N,clai,agyag
+240,Lehm::N,clai,vályog
+241,Sand::N,tywod,homok
+242,Mensch::N,dyn,ember
+243,Mann::N,dyn,úr
+244,Mann::N,dyn,férfi
+245,Frau::N,merch,nő
+246,Frau::N,merch,asszony
+247,Frau::N,gwraig,nő
+248,Frau::N,gwraig,asszony
+249,Kind::N,plentyn,gyerek
+250,Kind::N,plentyn,gyermek
+251,Junge::N,hogyn,fiú
+252,Junge::N,bachgen,fiú
+253,Mädchen::N,merch,lány
+254,Mädchen::N,geneth,lány
+255,Familie::N,teulu,család
+256,Familie::N,tylwyth,család
+257,Großvater::N,taid,nagyapa
+258,Großvater::N,tad-cu,nagyapa
+259,Großmutter::N,nain,nagyanya
+260,Großmutter::N,mam-gu,nagyanya
+261,Eltern::N,rhieni,szülők
+262,Vater::N,tad,apa
+263,Vater::N,tad,atya
+264,Mutter::N,mam,anya
+265,Sohn::N,mab,fiú
+266,Tochter::N,merch,lány
+267,Bruder::N,brawd,fivér
+268,Bruder::N,brawd,testvér
+269,Schwester::N,chwaer,nővér
+270,Schwester::N,chwaer,lánytestvér
+271,Onkel::N,ewythr,nagybácsi
+272,Tante::N,modryb,nagynéni
+273,Ehemann::N,gŵr,férj
+274,Ehefrau::N,gwraig,feleség
+275,Freude::N,gorfoledd,öröm
+276,Gelächter::N,chwerthin,nevetés
+277,Gelächter::N,chwerthin,hahotázás
+278,Glück::N,hapusrwydd,boldogság
+279,Kummer::N,galar,bánat
+280,Wunsch::N,dymuniad,óhaj
+281,Lust::N,chwant,kedv
+282,Geist::N,ysbryd,elme
+283,Geist::N,ysbryd,szellem
+284,Gedanke::N,meddwl,gondolat
+285,Gedächtnis::N,cof,emlékezet
+286,Verstand::N,meddwl,ész
+287,Verstand::N,meddwl,értelem
+288,Sinn::N,ystyr,értelem
+289,Grund::N,achos,ok
+290,Grund::N,achos,alap
+291,Grund::N,rheswm,ok
+292,Grund::N,rheswm,alap
+293,Wahrheit::N,gwir,igaz
+294,Wahrheit::N,gwir,igazság
+295,Wahrheit::N,gwirionedd,igaz
+296,Wahrheit::N,gwirionedd,igazság
+297,Gespräch::N,sgwrs,beszélgetés
+298,Märchen::N,chwedl werin,mese
+299,Erzählung::N,stori,elbeszélés
+300,Nachricht::N,neges,hír
+301,Nachricht::N,neges,híradás
+302,Neuigkeit::N,newydd,újság
+303,Name::N,enw,név
+304,Rätsel::N,pos,rejtvény
+305,Rede::N,araith,beszéd
+306,Rede::N,araith,szónoklat
+307,Sprache::N,iaith,nyelv
+308,Stimme::N,llais,hang
+309,Wort::N,gair,szó
+310,Zeichen::N,arwydd,jel
+311,Ruf::N,galwad,kiáltás
+312,Lärm::N,trwst,zaj
+313,Laut::N,sain,hang
+314,Ton::N,tôn,hang
+315,Lied::N,cân,dal
+316,Lied::N,cân,ének
+317,Ruhe::N,tawelwch,csend
+318,Ruhe::N,tawelwch,nyugalom
+319,Leute::N,pobl,emberek
+320,Volk::N,pobl,nép
+321,Arbeit::N,gwaith,dolog
+322,Gast::N,gwestai,vendég
+323,Geschenk::N,rhodd,ajándék
+324,Geschenk::N,anrheg,ajándék
+325,Spiel::N,chwarae,játék
+326,Gesellschaft::N,cwmni,társaság
+327,Hilfe::N,cymorth,segítség
+328,Freund::N,cyfaill,barát
+329,Kamerad::N,cydymaith,társ
+330,Angelegenheit::N,pwnc,ügy
+331,Anzahl::N,cyfrif,szám
+332,Art::N,bath,faj
+333,Art::N,bath,fajta
+334,Stück::N,darn,darab
+335,Teil::N,rhan,rész
+336,Hälfte::N,hanner,fél
+337,Kreis::N,cylch,kör
+338,Kreuz::N,croes,kereszt
+339,Linie::N,llinell,vonal
+340,Strich::N,strôc,vonás
+341,Strich::N,trawiad,vonás
+342,Abstand::N,bwlch,köz
+343,Abstand::N,pellter,köz
+344,Entfernung::N,pellter,távolság
+345,Gegend::N,cylch,táj
+346,Gegend::N,cylch,vidék
+347,Platz::N,lle,hely
+348,Ort::N,lle,hely
+349,Seite::N,ochr,fél
+350,Seite::N,ochr,oldal
+351,Mitte::N,canol,közép
+352,Gegenstand::N,eitem,tárgy
+353,Sache::N,peth,dolog
+354,Rand::N,cwr,szél
+355,Rand::N,cwr,perem
+356,Rand::N,cwr,szegély
+357,Rand::N,ymyl,szél
+358,Rand::N,ymyl,perem
+359,Rand::N,ymyl,szegély
+360,Kante::N,min,él
+361,Kante::N,ymyl,él
+362,Ecke::N,cornel,sarok
+363,Ecke::N,cornel,szöglet
+364,Spitze::N,blaen,csúcs
+365,Ende::N,pen,vég
+366,Loch::N,twll,lyuk
+367,Winkel::N,congl,szög
+368,Muster::N,patrwm,minta
+369,Größe::N,maint,nagyság
+370,Größe::N,maintioli,nagyság
+371,Länge::N,hyd,hossz
+372,Länge::N,hyd,hosszúság
+373,Höhe::N,uchder,magasság
+374,Gewicht::N,pwysau,súly
+375,Menge::N,swm,sokaság
+376,Menge::N,swm,mennyiség
+377,Menge::N,maint,sokaság
+378,Menge::N,maint,mennyiség
+379,Haufen::N,pentwr,halom
+380,Reihe::N,rhes,sor
+381,Boot::N,cwch,csónak
+382,Ruder::N,rhwyf,evező
+383,Schlitten::N,sled,szánkó
+384,Schlitten::N,car llusg,szánkó
+385,Ski::N,sgi,sí
+386,Lagerfeuer::N,coelcerth,tábortűz
+387,Last::N,llwyth,teher
+388,Gang::N,tro,járás
+389,Schritt::N,cam,lépés
+390,Norden::N,gogledd,észak
+391,Süden::N,de,dél
+392,Westen::N,gorllewin,nyugat
+393,Osten::N,dwyrain,kelet
+394,Holz::N,pren,fa
+395,Brett::N,bwrdd,deszka
+396,Brett::N,astell,deszka
+397,Platte::N,llech,lap
+398,Platte::N,llech,lemez
+399,Stütze::N,ateg,támasz
+400,Stütze::N,ateg,támaszték
+401,Stütze::N,cynhalydd,támasz
+402,Stütze::N,cynhalydd,támaszték
+403,Stange::N,polyn,rúd
+404,Stange::N,polyn,pózna
+405,Stock::N,ffon,pálca
+406,Stock::N,brigyn,pálca
+407,Stab::N,ffon,bot
+408,Rohr::N,pibell,cső
+409,Haus::N,tŷ,ház
+410,Heim::N,cartref,otthon
+411,Ofen::N,stof,kályha
+412,Fußboden::N,llawr,padló
+413,Tisch::N,bwrdd,asztal
+414,Stuhl::N,cadair,szék
+415,Wiege::N,crud,bölcső
+416,Bett::N,gwely,ágy
+417,Regal::N,silff,polc
+418,Regal::N,silff,állvány
+419,Kiste::N,bocs,láda
+420,Kiste::N,blwch,láda
+421,Fenster::N,ffenestr,ablak
+422,Tür::N,drws,ajtó
+423,Tor::N,porth,kapu
+424,Zaun::N,ffens,kerítés
+425,Dach::N,to,tető
+426,Leiter::N,ysgol,létra
+427,Besen::N,ysgub,seprű
+428,Spaten::N,rhaw,ásó
+429,Schaufel::N,rhaw,lapát
+430,Gabel::N,fforc,villa
+431,Löffel::N,llwy,kanál
+432,Messer::N,cyllell,kés
+433,Nagel::N,hoel,szeg
+434,Netz::N,gwe,háló
+435,Netz::N,rhwyd,háló
+436,Haken::N,bach,kampó
+437,Griff::N,carn,nyél
+438,Griff::N,carn,fogantyú
+439,Schloss::N,clo,zár
+440,Bild::N,llun,kép
+441,Bild::N,pictiwr,kép
+442,Figur::N,ffigur,alak
+443,Puppe::N,dol,bábu
+444,Beutel::N,cwd,zacskó
+445,Bündel::N,bwndel,köteg
+446,Bündel::N,coflaid,köteg
+447,Tasche::N,cod,táska
+448,Eimer::N,bwced,vödör
+449,Eimer::N,cunnog,vödör
+450,Deckel::N,caead,fedő
+451,Deckel::N,caead,fedél
+452,Geschirr::N,llestri,edény
+453,Sack::N,sach,zsák
+454,Tasse::N,cwpan,csésze
+455,Topf::N,pot,fazék
+456,Topf::N,crochan,fazék
+457,Kessel::N,tegell,üst
+458,Kessel::N,tegell,bogrács
+459,Essen::N,pryd o fwyd,evés
+460,Essen::N,pryd o fwyd,étkezés
+461,Nahrung::N,bwyd,ennivaló
+462,Speise::N,saig,étel
+463,Fleisch::N,cig,hús
+464,Getreide::N,ŷd,gabona
+465,Getreide::N,llafur,gabona
+466,Brei::N,uwd,pép
+467,Brei::N,uwd,kása
+468,Brot::N,bara,kenyér
+469,Scheibe::N,tafell,szelet
+470,Fett::N,saim,háj
+471,Fett::N,saim,zsír
+472,Fett::N,braster,háj
+473,Fett::N,braster,zsír
+474,Butter::N,ymenyn,vaj
+475,Öl::N,olew,olaj
+476,Salz::N,halen,só
+477,Suppe::N,cawl,leves
+478,Honig::N,mêl,méz
+479,Milch::N,llaeth,tej
+480,Milch::N,llefrith,tej
+481,Tee::N,te,tea
+482,Leder::N,lledr,bőr
+483,Wolle::N,gwlân,gyapjú
+484,Stoff::N,lliain,szövet
+485,Stoff::N,brethyn,szövet
+486,Nadel::N,nodwydd,tű
+487,Faden::N,edau,fonál
+488,Faden::N,edefyn,fonál
+489,Knopf::N,botwm,gomb
+490,Knoten::N,cwlwm,csomó
+491,Farbe::N,paent,szín
+492,Farbe::N,paent,festék
+493,Kleidung::N,dillad,ruha
+494,Kleidung::N,dillad,ruházat
+495,Kleidung::N,gwisgoedd,ruha
+496,Kleidung::N,gwisgoedd,ruházat
+497,Hemd::N,crys,ing
+498,Kragen::N,coler,gallér
+499,Ärmel::N,llawes,ujj
+500,Hose::N,trowsus,gatya
+501,Hose::N,trowsus,nadrág
+502,Gürtel::N,gwregys,öv
+503,Mütze::N,cap,sapka
+504,Schuh::N,esgid,cipő
+505,Stiefel::N,botasen,csizma
+506,Ring::N,modrwy,gyűrű
+507,Band::N,rhuban,szalag
+508,Kamm::N,crib,fésű
+509,Spiegel::N,drych,tükör
+510,Riemen::N,strap,szíj
+511,Schnur::N,llinyn,zsinór
+512,Leine::N,tennyn,póráz
+513,Decke::N,blanced,takaró
+514,Decke::N,gwrthban,takaró
+515,Kissen::N,clustog,párna
+516,Kissen::N,gobennydd,párna
+517,Tuch::N,sgarff,kendő
+518,Handtuch::N,tywel,törülköző
+519,Handtuch::N,lliain sychu,törülköző
+520,Kraft::N,grym,erő
+521,Stärke::N,nerth,erő
+522,Stärke::N,nerth,erősség
+523,Stärke::N,cryfder,erő
+524,Stärke::N,cryfder,erősség
+525,Gesundheit::N,iechyd,egészség
+526,Krankheit::N,afiechyd,kór
+527,Krankheit::N,afiechyd,betegség
+528,Krankheit::N,anhwylder,kór
+529,Krankheit::N,anhwylder,betegség
+530,Schmerz::N,poen,fájdalom
+531,Schmerz::N,gwayw,fájdalom
+532,Wunde::N,clwyf,seb
+533,Fieber::N,twymyn,láz
+534,Arznei::N,meddyginiaeth,orvosság
+535,Arznei::N,meddyginiaeth,gyógyszer
+536,Brücke::N,pont,híd
+537,Brunnen::N,ffynnon,kút
+538,Weide::N,porfa,legelő
+539,Pfad::N,llwybr,ösvény
+540,Weg::N,ffordd,út
+541,Straße::N,heol,út
+542,Straße::N,ffordd,út
+543,Dorf::N,pentref,falu
+544,Stadt::N,tref,város
+545,Brief::N,llythyr,levél
+546,Buch::N,llyfr,könyv
+547,Buchstabe::N,llythyren,betű
+548,Zeitung::N,papur newydd,újság
+549,Zeitung::N,papur newydd,hírlap
+550,Leben::N,bywyd,élet
+551,Tod::N,marwolaeth,halál
+552,Grab::N,bedd,sír
+553,Kirche::N,eglwys,templom
+554,Sünde::N,pechod,bűn
+555,Sünde::N,pechod,vétek
+556,Gott::N,duw,isten
+557,Arbeiter::N,gweithiwr,munkás
+558,Chef::N,pennaeth,főnök
+559,Meister::N,meistr,mester
+560,Arzt::N,meddyg,orvos
+561,Lehrer::N,athro,tanár
+562,Lehrer::N,athro,tanító
+563,Geld::N,pres,pénz
+564,Geld::N,arian,pénz
+565,Geschäft::N,busnes,üzlet
+566,Laden::N,siop,bolt
+567,Preis::N,pris,ár
+568,Ware::N,nwydd,áru
+569,Nutzen::N,elw,haszon
+570,Nutzen::N,budd,haszon
+571,Reichtum::N,cyfoeth,gazdagság
+572,Welt::N,byd,világ
+573,Land::N,gwlad,ország
+574,Staat::N,gwladwriaeth,állam
+575,König::N,brenin,király
+576,Macht::N,grym,hatalom
+577,Macht::N,awdurdod,hatalom
+578,Grenze::N,ffin,határ
+579,Grenze::N,goror,határ
+580,Krieg::N,rhyfel,háború
+581,Feind::N,gelyn,ellenség
+582,Gewalt::N,ffyrnigrwydd,erőszak
+583,Kampf::N,brwydr,harc
+584,Bogen[Waffe]::N,bwa,íj
+585,Pfeil::N,saeth,nyíl
+586,Gewehr::N,dryll,puska
+587,Gewehr::N,dryll,fegyver
+588,Fehler::N,gwall,hiba
+589,Fehler::N,camgymeriad,hiba
+590,Lüge::N,celwydd,hazugság
+591,Lüge::N,anwiredd,hazugság
+592,Schaden::N,niwed,kár
+593,Schaden::N,difrod,kár
+594,Unglück::N,anffawd,csapás
+595,Unglück::N,anffawd,balszerencse
+596,Schuld::N,bai,bűn
+597,Alter::N,oed,kor
+598,Schluss::N,diwedd,vég
+599,Schluss::N,diwedd,befejezés
+600,Zeit::N,amser,idő
+601,Tag::N,dydd,nap
+602,Tag::N,diwrnod,nap
+603,Morgen::N,bore,reggel
+604,Mittag::N,nawn,dél
+605,Abend::N,noswaith,este
+606,Nacht::N,nos,éj
+607,Nacht::N,nos,éjszaka
+608,Woche::N,wythnos,hét
+609,Monat::N,mis,hó
+610,Monat::N,mis,hónap
+611,Jahr::N,blwyddyn,év
+612,Frühling::N,gwanwyn,tavasz
+613,Sommer::N,haf,nyár
+614,Herbst::N,hydref,ősz
+615,Winter::N,gaeaf,tél
+616,Januar::N,Ionawr,január
+617,Februar::N,Chwefror,február
+618,März::N,Mawrth,március
+619,April::N,Ebrill,április
+620,Mai::N,Mai,május
+621,Juni::N,Mehefin,június
+622,Juli::N,Gorffennaf,július
+623,August::N,Awst,augusztus
+624,September::N,Medi,szeptember
+625,Oktober::N,Hydref,október
+626,November::N,Tachwedd,november
+627,Dezember::N,Rhagfyr,december
+628,Montag::N,dydd Llun,hétfő
+629,Dienstag::N,dydd Mawrth,kedd
+630,Mittwoch::N,dydd Mercher,szerda
+631,Donnerstag::N,dydd Iau,csütörtök
+632,Freitag::N,dydd Gwener,péntek
+633,Samstag::N,dydd Sadwrn,szombat
+634,Sonntag::N,dydd Sul,vasárnap
+635,groß::A,mawr,nagy
+636,klein::A,bach,pici
+637,klein::A,bach,kicsi
+638,lang::A,hir,hosszú
+639,kurz::A,byr,rövid
+640,kurz::A,cwta,rövid
+641,breit::A,llydan,széles
+642,schmal::A,cul,keskeny
+643,dicht::A,dwys,sűrű
+644,dick[Gegenstand]::A,trwchus,vastag
+645,dünn::A,tenau,vékony
+646,fein::A,main,vékony
+647,fest::A,cadarn,szilárd
+648,flach::A,gwastad,sík
+649,flach::A,gwastad,lapos
+650,glatt::A,llyfn,sima
+651,hart::A,caled,kemény
+652,weich::A,meddal,puha
+653,rund::A,crwn,kerek
+654,spitz::A,pigfain,hegyes
+655,scharf::A,miniog,éles
+656,stumpf::A,pŵl,tompa
+657,stumpf::A,pŵl,életlen
+658,schwer::A,trwm,nehéz
+659,schwer::A,trwm,súlyos
+660,schön::A,teg,szép
+661,schön::A,hardd,szép
+662,schön::A,prydferth,szép
+663,heiß::A,poeth,forró
+664,warm::A,twym,meleg
+665,warm::A,cynnes,meleg
+666,kalt::A,oer,hideg
+667,kühl::A,oeraidd,hűs
+668,kühl::A,oeraidd,hűvös
+669,frisch::A,iach,üde
+670,frisch::A,iach,friss
+671,feucht::A,llaith,nedves
+672,nass::A,gwlyb,vizes
+673,trocken::A,sych,száraz
+674,voll::A,llawn,telt
+675,leer::A,gwag,üres
+676,offen::A,agored,nyílt
+677,offen::A,agored,nyitott
+678,geschlossen::A,caead,zárt
+679,geschlossen::A,caead,csukott
+680,geschlossen::A,caeëdig,zárt
+681,geschlossen::A,caeëdig,csukott
+682,sauber::A,glân,tiszta
+683,schmutzig::A,budr,piszkos
+684,schmutzig::A,budr,szennyes
+685,schmutzig::A,brwnt,piszkos
+686,schmutzig::A,brwnt,szennyes
+687,roh::A,amrwd,nyers
+688,reif::A,aeddfed,érett
+689,lecker::A,blasus,finom
+690,lecker::A,danteithiol,finom
+691,süß::A,melys,édes
+692,bitter::A,chwerw,keserű
+693,sauer::A,sur,savanyú
+694,hell::A,disglair,világos
+695,dunkel::A,tywyll,sötét
+696,schwarz::A,du,fekete
+697,weiß::A,gwyn,fehér
+698,rot::A,coch,vörös
+699,gelb::A,melyn,sárga
+700,blau::A,glas,kék
+701,grün::A,gwyrdd,zöld
+702,grau::A,llwyd,ősz
+703,grau::A,llwyd,szürke
+704,bunt::A,lliwgar,tarka
+705,bunt::A,lliwgar,színes
+706,billig::A,rhad,olcsó
+707,teuer::A,drud,drága
+708,wertvoll::A,gwerthfawr,értékes
+709,blind::A,dall,vak
+710,taub::A,byddar,süket
+711,kräftig::A,nerthol,erős
+712,kräftig::A,grymus,erős
+713,stark::A,cryf,erős
+714,stark::A,cadarn,erős
+715,schwach::A,gwan,gyenge
+716,schwach::A,gwan,erőtlen
+717,fett::A,tew,hájas
+718,schlank::A,main,karcsú
+719,hübsch::A,tlws,csinos
+720,böse::A,drwg,rossz
+721,böse::A,drwg,gonosz
+722,dumm::A,twp,buta
+723,dumm::A,twp,ostoba
+724,faul::A,diog,lusta
+725,fleißig::A,dyfal,szorgalmas
+726,geizig::A,crintach,fukar
+727,geizig::A,crintach,fösvény
+728,geizig::A,cybyddlyd,fukar
+729,geizig::A,cybyddlyd,fösvény
+730,klug::A,deallus,okos
+731,klug::A,deallus,eszes
+732,geschickt::A,medrus,ügyes
+733,geschickt::A,deheuig,ügyes
+734,lieb::A,hoff,drága
+735,lieb::A,hoff,kedves
+736,lieb::A,annwyl,drága
+737,lieb::A,annwyl,kedves
+738,lustig::A,llon,víg
+739,lustig::A,llon,vidám
+740,sanft::A,mwyn,enyhe
+741,hungrig::A,newynog,éhes
+742,krank::A,sâl,beteg
+743,krank::A,gwael,beteg
+744,nackt::A,noeth,csupasz
+745,nackt::A,noeth,meztelen
+746,traurig::A,trist,bús
+747,traurig::A,trist,szomorú
+748,lebendig::A,yn fyw,élő
+749,gut::A,da,jó
+750,schlecht::A,drwg,rossz
+751,schlecht::A,gwael,rossz
+752,richtig::A,cywir,helyes
+753,schlimm::A,enbyd,rossz
+754,wahr::A,gwir,igaz
+755,alt::A,hen,ó
+756,alt::A,hen,régi
+757,neu::A,newydd,új
+758,ehemalig::A,blaenorol,volt
+759,ehemalig::A,blaenorol,egykori
+760,alt[Lebewesen]::A,oedrannus,öreg
+761,jung::A,ifanc,fiatal
+762,arm::A,tlawd,szegény
+763,reich::A,cyfoethog,gazdag
+764,bekannt::A,cynefin,ismert
+765,bekannt::A,cynefin,ismeretes
+766,bekannt::A,cyfarwydd,ismert
+767,bekannt::A,cyfarwydd,ismeretes
+768,berühmt::A,enwog,híres
+769,fremd::A,estron,idegen
+770,verschieden::A,gwahanol,különböző
+771,nah::A,agos,közeli
+772,fern::A,pell,távoli
+773,linker::A,aswy,bal
+774,linker::A,chwith,bal
+775,rechter::A,de,jobb
+776,rechter::A,deau,jobb
+777,anderer::A,arall,más
+778,anderer::A,arall,másik
+779,erster::A,cyntaf,első
+780,zweiter::A,ail,második
+781,dritter::A,trydydd,harmadik
+782,letzter::A,olaf,utolsó
+783,allein::ADV,unig,egyedül
+784,allein::ADV,ar ei ben ei hun,egyedül
+785,auf einmal::ADV,ar yr un pryd,egyszerre
+786,zusammen::ADV,ynghyd,együtt
+787,zusammen::ADV,ynghyd,összesen
+788,zusammen::ADV,gyda'i gilydd,együtt
+789,zusammen::ADV,gyda'i gilydd,összesen
+790,lange::ADV,amser hir,sokáig
+791,lange::ADV,amser hir,hosszan
+792,plötzlich::ADV,yn sydyn,hirtelen
+793,plötzlich::ADV,yn sydyn,egyszerre
+794,sofort::ADV,ar unwaith,rögtön
+795,sofort::ADV,ar unwaith,tüstént
+796,später::ADV,yn ddiweddarach,későn
+797,jetzt::ADV,yn awr,most
+798,heute::ADV,heddiw,ma
+799,morgen::ADV,yfory,holnap
+800,bald::ADV,yn fuan,majd
+801,bald::ADV,yn fuan,nemsokára
+802,bald::ADV,gyda hyn,majd
+803,bald::ADV,gyda hyn,nemsokára
+804,dann::ADV,yna,akkor
+805,dann::ADV,y pryd hwnnw,akkor
+806,gestern::ADV,ddoe,tegnap
+807,einst::ADV,gynt,hajdan
+808,damals::ADV,ar y pryd,akkor
+809,damals::ADV,ar y pryd,akkoriban
+810,damals::ADV,bryd hynny,akkor
+811,damals::ADV,bryd hynny,akkoriban
+812,danach::ADV,wedyn,azután
+813,vorher::ADV,o'r blaen,előbb
+814,zuerst::ADV,yn gyntaf,először
+815,einmal::ADV,unwaith,egyszer
+816,manchmal::ADV,weithiau,néha
+817,manchmal::ADV,weithiau,olykor
+818,manchmal::ADV,ar brydiau,néha
+819,manchmal::ADV,ar brydiau,olykor
+820,oft::ADV,yn aml,sokszor
+821,oft::ADV,yn fynych,sokszor
+822,immer::ADV,bob amser,mindig
+823,niemals::ADV,ni ... byth,sohasem
+824,niemals::ADV,ni ... erioed,sohasem
+825,hier::ADV,yma,itt
+826,hierhin::ADV,hyd yma,erre
+827,von hier::ADV,oddi yma,innen
+828,dort::ADV,acw,ott
+829,dorthin::ADV,tuag yno,oda
+830,geradeaus::ADV,syth ymlaen,egyenesen
+831,vorwärts::ADV,ymlaen,előre
+832,rückwärts::ADV,yn ôl,hátrafelé
+833,zurück::ADV,yn ôl,hátra
+834,zurück::ADV,yn ôl,vissza
+835,unten::ADV,isod,alul
+836,unten::ADV,oddi tanodd,alul
+837,hinab::ADV,i lawr,le
+838,hinab::ADV,i lawr,lefelé
+839,hinab::ADV,i waered,le
+840,hinab::ADV,i waered,lefelé
+841,oben::ADV,fry,fenn
+842,oben::ADV,fry,felül
+843,hinauf::ADV,i fyny,fel
+844,hinauf::ADV,i fyny,felfelé
+845,hinauf::ADV,i'r lan,fel
+846,hinauf::ADV,i'r lan,felfelé
+847,überall::ADV,ym mhobman,mindenütt
+848,nicht::ADV,ni,nem
+849,nicht::ADV,nid,nem
+850,ein wenig::ADV,tipyn,egy kicsit
+851,ein wenig::ADV,ychydig,egy kicsit
+852,kaum::ADV,prin,alig
+853,sehr::ADV,iawn,nagyon
+854,so::ADV,fel,úgy
+855,so::ADV,felly,úgy
+856,noch::ADV,eto,még
+857,nur::ADV,yn unig,csak
+858,nur::ADV,yn unig,csupán
+859,schon::ADV,eisoes,már
+860,schon::ADV,yn barod,már
+861,wieder::ADV,drachefn,ismét
+862,wieder::ADV,drachefn,megint
+863,vergebens::ADV,yn ofer,hiába
+864,vor::PRP,o flaen,előtt
+865,hinter::PRP,ar ôl,mögött
+866,unter::PRP,islaw,alatt
+867,durch::PRP,trwy,át
+868,durch::PRP,trwy,keresztül
+869,neben::PRP,ar bwys,mellett
+870,zwischen::PRP,rhwng,között
+871,zwischen::PRP,cydrhwng,között
+872,wegen::PRP,o achos,miatt
+873,wegen::PRP,o achos,végett
+874,wegen::PRP,oherwydd,miatt
+875,wegen::PRP,oherwydd,végett
+876,dies::PRN,hyn,ez
+877,das::PRN,hynny,az
+878,alles::PRN,popeth,minden
+879,ich::PRN,fi,én
+880,du::PRN,ti,te
+881,er::PRN,fe,ő
+882,wir::PRN,ni,mi
+883,ihr::PRN,chi,ti
+884,sie::PRN,hwy,ők
+885,was::FPRN,pa beth,mi
+886,wer::FPRN,pwy,ki
+887,wo::FADV,ble,hol
+888,wo::FADV,ym mha le,hol
+889,wohin::FADV,i ble,hova
+890,wohin::FADV,i ba le,hova
+891,wie::FADV,sut,hogy
+892,wie::FADV,sut,hogyan
+893,warum::FADV,pam,miért
+894,wieviel::FNUM,faint,hány
+895,wieviel::FNUM,faint,mennyi
+896,eins::NUM,un,egy
+897,zwei::NUM,dau,kettő
+898,drei::NUM,tri,három
+899,vier::NUM,pedwar,négy
+900,fünf::NUM,pump,öt
+901,sechs::NUM,chwech,hat
+902,sieben::NUM,saith,hét
+903,acht::NUM,wyth,nyolc
+904,neun::NUM,naw,kilenc
+905,zehn::NUM,deg,tíz
+906,elf::NUM,un ar ddeg,tizenegy
+907,zwölf::NUM,deuddeg,tizenkettő
+908,zwölf::NUM,un deg dau,tizenkettő
+909,zwanzig::NUM,ugain,húsz
+910,dreißig::NUM,tri deg,harminc
+911,dreißig::NUM,deg ar hugain,harminc
+912,vierzig::NUM,deugain,negyven
+913,fünfzig::NUM,hanner cant,ötven
+914,sechzig::NUM,chwe deg,hatvan
+915,siebzig::NUM,saith deg,hetven
+916,siebzig::NUM,deg a thrigain,hetven
+917,achtzig::NUM,wyth deg,nyolcvan
+918,achtzig::NUM,pedar ugain,nyolcvan
+919,neunzig::NUM,naw deg,kilencven
+920,neunzig::NUM,deg a phedwar ugain,kilencven
+921,hundert::NUM,cant,száz
+922,tausend::NUM,mil,ezer
+923,und::CNJ,a,és
+924,und::CNJ,a,meg
+925,oder::CNJ,neu,vagy
+926,stehen::V,sefyll,áll
+927,sitzen::V,eistedd,ül
+928,liegen::V,gorwedd,fekszik
+929,hängen::V,hongian,függ
+930,werden::V,dod yn,lesz
+931,werden::V,mynd yn,lesz
+932,passieren::V,digwydd,történik
+933,beginnen::V,cychwyn,kezdődik
+934,enden::V,gorffen,végződik
+935,enden::V,gorffen,befejeződik
+936,wechseln::V,newid,változik
+937,aufgehen[Sonne]::V,codi,kel
+938,untergehen[Sonne]::V,machlud,lemegy
+939,scheinen[Sonne]::V,tywynnu,süt
+940,donnern::V,taranu,dörög
+941,wehen::V,chwythu,fúj
+942,strömen::V,ffrydio,áramlik
+943,fließen::V,llifo,folyik
+944,sich drehen::V,troi,forog
+945,sich drehen::V,cylchdroi,forog
+946,schwanken::V,siglo,inog
+947,schwanken::V,siglo,ingadozik
+948,schwingen::V,siglo,leng
+949,fallen::V,cwympo,esik
+950,brennen::V,llosgi,ég
+951,rauchen::V,mygu,füstöl
+952,regnen::V,glawio,esik
+953,gefrieren::V,rhewi,megfagy
+954,tauen::V,toddi,olvad
+955,tauen::V,meirioli,olvad
+956,schmelzen::V,toddi,olvad
+957,schmelzen::V,toddi,elolvad
+958,trocknen::V,sychu,szárad
+959,sieden::V,berwi,forr
+960,faulen::V,pydru,rothad
+961,faulen::V,braenu,rothad
+962,verfaulen::V,pydru,elrothad
+963,verfaulen::V,pydru,megrothad
+964,verfaulen::V,dadfeilio,elrothad
+965,verfaulen::V,dadfeilio,megrothad
+966,reißen::V,clecian,szakad
+967,reißen::V,torri'n glats,szakad
+968,versinken::V,suddo,süllyed
+969,versinken::V,suddo,elsüllyed
+970,vergehen::V,myned heibio,múlik
+971,vergehen::V,myned heibio,elmúlik
+972,vergehen::V,pasio,múlik
+973,vergehen::V,pasio,elmúlik
+974,erscheinen::V,ymddangos,feltűnik
+975,erscheinen::V,ymddangos,megjelenik
+976,verschwinden::V,diflannu,letűnik
+977,sinken::V,syrthio,süllyed
+978,abnehmen::V,lleihau,apad
+979,abnehmen::V,lleihau,csökken
+980,zunehmen::V,cynyddu,növekszik
+981,zunehmen::V,cynyddu,gyarapszik
+982,steigen::V,codi,emelkedik
+983,wachsen::V,tyfu,nő
+984,wachsen::V,tyfu,terem
+985,wachsen::V,tyfu,növekszik
+986,glänzen::V,disgleirio,ragyog
+987,glänzen::V,disgleirio,fénylik
+988,funkeln::V,pefrio,csillog
+989,funkeln::V,pefrio,tündöklik
+990,lärmen::V,cadw sŵn,lármázik
+991,lärmen::V,gwneud twrw,lármázik
+992,läuten::V,canu,cseng
+993,klingeln::V,canu,csenget
+994,klingeln::V,seinio,csenget
+995,klirren::V,tincian,csörömpöl
+996,brausen::V,rhuo,zúg
+997,brausen::V,rhuo,morajlik
+998,rauschen::V,siffrwd,zúg
+999,rauschen::V,chwithrwd,zúg
+1000,klingen::V,seinio,hangzik
+1001,bellen::V,cyfarth,ugat
+1002,heulen::V,udo,bőg
+1003,heulen::V,udo,üvölt
+1004,heulen::V,oernadu,bőg
+1005,heulen::V,oernadu,üvölt
+1006,blasen::V,chwythu,fúj
+1007,pfeifen::V,chwibanu,fütyül
+1008,schreien::V,gweiddi,kiált
+1009,schreien::V,gweiddi,kiabál
+1010,schreien::V,bloeddio,kiált
+1011,schreien::V,bloeddio,kiabál
+1012,stöhnen::V,griddfan,nyög
+1013,zittern::V,crynu,remeg
+1014,zittern::V,crynu,reszket
+1015,leben::V,byw,él
+1016,geboren werden::V,cael eich geni,születik
+1017,atmen::V,anadlu,lélegzik
+1018,trinken::V,yfed,iszik
+1019,essen::V,bwyta,eszik
+1020,schlucken::V,llyncu,nyel
+1021,müde werden::V,blino,elfárad
+1022,müde werden::V,blino,kifárad
+1023,einschlafen::V,mynd i gysgu,elalszik
+1024,einschlafen::V,syrthio i gysgu,elalszik
+1025,schlafen::V,huno,alszik
+1026,schlafen::V,cysgu,alszik
+1027,aufwachen::V,dihuno,felébred
+1028,aufstehen::V,codi,felkel
+1029,sich erholen::V,ymlacio,pihen
+1030,sich erholen::V,dadflino,pihen
+1031,krank werden::V,mynd yn sâl,megbetegedik
+1032,krank werden::V,mynd yn sâl,belebetegszik
+1033,krank werden::V,mynd yn wael,megbetegedik
+1034,krank werden::V,mynd yn wael,belebetegszik
+1035,krank sein::V,gwaelu,betegeskedik
+1036,schmerzen::V,brifo,fáj
+1037,husten::V,pesychu,köhög
+1038,genesen::V,gwella,meggyógyul
+1039,genesen::V,cael yn ôl,meggyógyul
+1040,sterben::V,marw,hal
+1041,umkommen::V,trengi,elpusztul
+1042,sich bewegen::V,symud,mozog
+1043,sich rühren::V,syflyd,mozdul
+1044,sich erheben::V,codi,feláll
+1045,sich erheben::V,codi,felemelkedik
+1046,sich setzen::V,eistedd,ül
+1047,sich setzen::V,eistedd,leül
+1048,hinfallen::V,cwympo,bukik
+1049,hinfallen::V,cwympo,elesik
+1050,laufen::V,cerdded,jár
+1051,schreiten::V,camu,lép
+1052,spazierengehen::V,mynd am dro,sétál
+1053,eilen::V,rhuthro,siet
+1054,sich beeilen::V,brysio,siet
+1055,sausen::V,rhuthro,robog
+1056,rennen::V,rhedeg,fut
+1057,rennen::V,rhedeg,szalad
+1058,springen::V,llamu,ugrik
+1059,springen::V,neidio,ugrik
+1060,klettern::V,dringo,kúszik
+1061,schaukeln::V,siglo,hintázik
+1062,kriechen::V,cropian,kúszik
+1063,schwimmen::V,nofio,úszik
+1064,tauchen::V,plymio,merül
+1065,tauchen::V,ymsuddo,merül
+1066,rudern::V,rhwyfo,evez
+1067,fahren::V,gyrru,jár
+1068,fahren::V,gyrru,megy
+1069,fahren::V,gyrru,utazik
+1070,fahren::V,dreifio,jár
+1071,fahren::V,dreifio,megy
+1072,fahren::V,dreifio,utazik
+1073,fliegen::V,hedfan,száll
+1074,gehen::V,mynd,megy
+1075,weggehen::V,mynd,elmegy
+1076,weggehen::V,ymadael,elmegy
+1077,abfahren::V,ymadael,indul
+1078,anhalten::V,stopio,megáll
+1079,hineingehen::V,mynd i mewn,bemegy
+1080,eintreten::V,mynd i,belép
+1081,kommen::V,dod,jön
+1082,ankommen::V,cyrraedd,érkezik
+1083,ankommen::V,cyrraedd,megérkezik
+1084,zurückkommen::V,dychwelyd,visszajön
+1085,bleiben::V,aros,marad
+1086,bleiben::V,aros,megmarad
+1087,bleiben::V,sefyll,marad
+1088,bleiben::V,sefyll,megmarad
+1089,warten::V,aros,vár
+1090,warten::V,aros,várakozik
+1091,warten::V,disgwyl,vár
+1092,warten::V,disgwyl,várakozik
+1093,erwarten::V,disgwyl,vár
+1094,erwarten::V,disgwyl,megvár
+1095,suchen::V,chwilio am,kutat
+1096,finden::V,darganfod,talál
+1097,versuchen::V,profi,megpróbál
+1098,versuchen::V,profi,megkísérel
+1099,versuchen::V,ceisio,megpróbál
+1100,versuchen::V,ceisio,megkísérel
+1101,vorbereiten::V,paratoi,előkészít
+1102,lieben::V,caru,szeret
+1103,mögen::V,hoffi,szeret
+1104,lachen::V,chwerthin,nevet
+1105,rühren::V,cynhyrfu,mozdít
+1106,weinen::V,wylo,sír
+1107,weinen::V,llefain,sír
+1108,schimpfen::V,grwgnach,szid
+1109,schimpfen::V,grwgnach,szitkozódik
+1110,sich ärgern::V,gofidio,mérgelődik
+1111,sich ärgern::V,gofidio,bosszankodik
+1112,sich fürchten::V,ofni,fél
+1113,sich fürchten::V,ofni,retteg
+1114,fürchten::V,arswydo,fél
+1115,fliehen::V,ffoi,menekül
+1116,flüchten::V,dianc,elmenekül
+1117,sehen::V,gweld,néz
+1118,anschauen::V,syllu,megnéz
+1119,anschauen::V,edrych,megnéz
+1120,ansehen::V,gwylio,néz
+1121,ansehen::V,gwylio,ránéz
+1122,ansehen::V,gwylio,megnéz
+1123,hören::V,clywed,hall
+1124,zuhören::V,gwrando,hallgat
+1125,zuhören::V,gwrando,meghallgat
+1126,probieren::V,profi,kóstol
+1127,probieren::V,profi,megkóstol
+1128,riechen::V,arogli,szagol
+1129,fühlen::V,teimlo,érez
+1130,fühlen::V,clywed,érez
+1131,scheinen::V,ymddangos,tűnik
+1132,scheinen::V,ymddangos,látszik
+1133,zu sehen sein::V,dod i'r golwg,mutatkozik
+1134,vernehmen::V,clywed sôn am,hall
+1135,frieren::V,bod yn oer,fázik
+1136,tun::V,gwneud,csinál
+1137,tun::V,gwneud,cselekszik
+1138,können::V,gallu,tud
+1139,wollen::V,bod mewn angen,akar
+1140,anfangen::V,dechrau,kezd
+1141,beenden::V,darfod,befejez
+1142,beenden::V,gorffen,befejez
+1143,aufhören::V,peidio,megszűnik
+1144,gelingen::V,llwyddo,sikerül
+1145,geraten::V,diweddu,kerül
+1146,geraten::V,diweddu,jut
+1147,öffnen::V,agor,nyit
+1148,öffnen::V,agor,kinyit
+1149,schließen::V,cau,csuk
+1150,schließen::V,cau,becsuk
+1151,stellen::V,gosod,állít
+1152,stellen::V,gosod,helyez
+1153,setzen::V,gosod,ültet
+1154,setzen::V,gosod,helyez
+1155,legen::V,gosod,tesz
+1156,legen::V,gosod,fektet
+1157,berühren::V,cyffwrdd,érint
+1158,verbinden::V,cysylltu,beköt
+1159,verbinden::V,cysylltu,összeköt
+1160,bedecken::V,gorchuddio,betakar
+1161,bedecken::V,gorchuddio,beborít
+1162,aufhängen::V,crogi,felakaszt
+1163,aufhängen::V,hongian,felakaszt
+1164,anzünden::V,cynnau,gyújt
+1165,anzünden::V,cynnau,meggyújt
+1166,aufheben::V,codi,felemel
+1167,zurücklassen::V,gadael,hátrahagy
+1168,verlieren::V,colli,veszít
+1169,verlieren::V,colli,elveszít
+1170,fallen lassen::V,gollwng,elejt
+1171,machen::V,gwneud,tesz
+1172,machen::V,gwneud,csinál
+1173,herstellen::V,cynhyrchu,gyárt
+1174,herstellen::V,cynhyrchu,előállít
+1175,bauen::V,adeiladu,épít
+1176,reparieren::V,trwsio,javít
+1177,reparieren::V,trwsio,kijavít
+1178,reparieren::V,trwsio,megjavít
+1179,reparieren::V,atgyweirio,javít
+1180,reparieren::V,atgyweirio,kijavít
+1181,reparieren::V,atgyweirio,megjavít
+1182,verbessern::V,diwygio,megjavít
+1183,ändern::V,altro,változtat
+1184,ändern::V,altro,megváltoztat
+1185,graben::V,palu,ás
+1186,graben::V,cloddio,ás
+1187,beugen::V,plygu,meghajt
+1188,biegen::V,plygu,hajlít
+1189,drehen::V,troelli,forgat
+1190,wenden::V,troi,fordít
+1191,wenden::V,troi,megfordít
+1192,umdrehen::V,troi,megfordít
+1193,umdrehen::V,troi,megforgat
+1194,heben::V,codi,emel
+1195,hochheben::V,dyrchafu,felemel
+1196,ergreifen::V,gafael,megfog
+1197,halten::V,dal,tart
+1198,drücken::V,pwyso,nyom
+1199,drücken::V,pwyso,megnyom
+1200,drücken::V,gwasgu,nyom
+1201,drücken::V,gwasgu,megnyom
+1202,schieben::V,gwthio,tol
+1203,kratzen::V,crafu,vakar
+1204,lecken::V,llyfu,nyal
+1205,beißen::V,cnoi,harap
+1206,beißen::V,brathu,harap
+1207,abreißen::V,tynnu ymaith,letép
+1208,abschneiden::V,torri,levág
+1209,binden::V,clymu,köt
+1210,binden::V,clymu,kötöz
+1211,stecken::V,plannu,dug
+1212,brechen::V,torri,tör
+1213,brechen::V,torri,eltör
+1214,klopfen::V,taro,kopogtat
+1215,hauen::V,taro,vág
+1216,hauen::V,taro,levág
+1217,kleben::V,gludio,tapaszt
+1218,reiben::V,rhwbio,dörzsöl
+1219,reiben::V,rhwbio,súrol
+1220,streichen::V,taenu,simít
+1221,schleifen::V,hogi,fen
+1222,schleifen::V,hogi,csiszol
+1223,schleifen::V,hogi,köszörül
+1224,schneiden::V,torri,vág
+1225,schneiden::V,torri,szel
+1226,schneiden::V,torri,metsz
+1227,rütteln::V,ysgytio,ráz
+1228,schütteln::V,siglo,ráz
+1229,schütteln::V,siglo,megráz
+1230,schütteln::V,ysgwyd,ráz
+1231,schütteln::V,ysgwyd,megráz
+1232,schwenken::V,siglo,lóbál
+1233,schwenken::V,siglo,lobogtat
+1234,schütten::V,tywallt,önt
+1235,füllen::V,llenwi,tölt
+1236,füllen::V,llenwi,megtölt
+1237,einwickeln::V,lapio,becsavar
+1238,tragen::V,cludo,hord
+1239,schleppen::V,llusgo,vonszol
+1240,ziehen::V,tynnu,húz
+1241,aufbewahren::V,cadw,megőriz
+1242,werfen::V,taflu,dob
+1243,werfen::V,taflu,hajít
+1244,fangen::V,dal,fog
+1245,packen::V,cipio,megragad
+1246,packen::V,crafangu,megragad
+1247,verstecken::V,celu,eldug
+1248,verstecken::V,celu,elrejt
+1249,verstecken::V,cuddio,eldug
+1250,verstecken::V,cuddio,elrejt
+1251,teilen::V,rhannu,oszt
+1252,teilen::V,rhannu,megoszt
+1253,schicken::V,anfon,küld
+1254,bringen::V,dod â,hoz
+1255,bringen::V,dod â,visz
+1256,hinzufügen::V,chwanegu,hozzáad
+1257,bekommen::V,cael,kap
+1258,bekommen::V,cael,megkap
+1259,erhalten::V,derbyn,kap
+1260,erhalten::V,derbyn,megkap
+1261,nehmen::V,cymryd,vesz
+1262,wählen::V,dewis,választ
+1263,auswählen::V,dethol,kiválaszt
+1264,bewahren::V,cadw,megtart
+1265,behindern::V,atal,akadályoz
+1266,behindern::V,atal,gátol
+1267,behindern::V,rhwystro,akadályoz
+1268,behindern::V,rhwystro,gátol
+1269,verderben::V,difetha,elront
+1270,beschädigen::V,niweidio,rongál
+1271,zerbrechen::V,torri,eltör
+1272,zerbrechen::V,torri,széttör
+1273,zerbrechen::V,torri,kettétör
+1274,zerreißen::V,rhwygo,eltép
+1275,zerreißen::V,rhwygo,széttép
+1276,zerstören::V,dinistrio,elpusztít
+1277,verbrennen::V,llosgi,éget
+1278,verbrennen::V,llosgi,eléget
+1279,geben::V,rhoi,ad
+1280,reichen::V,estyn,nyújt
+1281,schenken::V,rhoddi,ajándékoz
+1282,versprechen::V,addo,ígér
+1283,wünschen::V,dymuno,kíván
+1284,loben::V,canmol,dicsér
+1285,küssen::V,cusanu,csókol
+1286,wiegen::V,siglo,ringat
+1287,zudecken::V,gorchuddio,betakar
+1288,wecken::V,deffro,kelt
+1289,wecken::V,deffro,ébreszt
+1290,zeigen::V,dangos,mutat
+1291,führen::V,arwain,visz
+1292,führen::V,arwain,vezet
+1293,lehren::V,dysgu,tanít
+1294,unterrichten::V,hyfforddi,tanít
+1295,aufziehen::V,dod i fyny,felnevel
+1296,leiten::V,arwain,vezet
+1297,leiten::V,arwain,vezérel
+1298,antreiben::V,annog,hajt
+1299,lassen::V,gadael,-tat
+1300,lassen::V,gadael,-at
+1301,einladen::V,gwahodd,meghív
+1302,vereinigen::V,uno,egyesít
+1303,vereinigen::V,cyfuno,egyesít
+1304,besuchen::V,ymweld â,látogat
+1305,treffen::V,cwrdd,talál
+1306,treffen::V,cyfarfod,talál
+1307,sich versammeln::V,casglu,gyülekezik
+1308,sich versammeln::V,casglu,összegyűlik
+1309,sich versammeln::V,cynnull,gyülekezik
+1310,sich versammeln::V,cynnull,összegyűlik
+1311,spielen::V,chwarae,játszik
+1312,singen::V,canu,énekel
+1313,tanzen::V,dawnsio,táncol
+1314,sich trennen::V,ymwahanu,elválik
+1315,verlassen::V,gadael,elhagy
+1316,retten::V,achub,ment
+1317,bewachen::V,gwarchod,őriz
+1318,schützen::V,noddi,óv
+1319,schützen::V,noddi,véd
+1320,verteidigen::V,amddiffyn,véd
+1321,sich schlagen::V,ffraeo,verekszik
+1322,sich schlagen::V,terfysgu,verekszik
+1323,schießen::V,saethu,lő
+1324,siegen::V,ennill,győz
+1325,ärgern::V,cythruddo,bosszant
+1326,schlagen::V,curo,üt
+1327,schlagen::V,curo,ver
+1328,treten::V,cicio,rúg
+1329,stechen::V,pigo,döf
+1330,stechen::V,pigo,szúr
+1331,stoßen::V,gwthio,lök
+1332,stehlen::V,dwyn,lop
+1333,stehlen::V,lladrata,lop
+1334,stören::V,aflonyddu,zavar
+1335,belästigen::V,trafferthu,zaklat
+1336,verbergen::V,cuddio,rejt
+1337,verbergen::V,cuddio,elrejt
+1338,täuschen::V,twyllo,megtéveszt
+1339,betrügen::V,hocedu,csal
+1340,töten::V,lladd,öl
+1341,wohnen::V,byw,lakik
+1342,arbeiten::V,gweithio,dolgozik
+1343,sammeln::V,casglu,szed
+1344,sammeln::V,casglu,gyűjt
+1345,pflücken::V,casglu,szed
+1346,jagen::V,hela,vadászik
+1347,fischen::V,pysgota,halászik
+1348,fassen::V,dal,fog
+1349,hüten::V,bugeilio,őriz
+1350,hüten::V,bugeilio,legeltet
+1351,treiben::V,gyrru,hajt
+1352,anbinden::V,clymu,köt
+1353,füttern::V,porthi,etet
+1354,melken::V,godro,fej
+1355,hacken::V,torri,vág
+1356,gießen::V,dyfrhau,öntöz
+1357,reifen::V,aeddfedu,érik
+1358,zubereiten::V,coginio,elkészít
+1359,kochen::V,berwi,főz
+1360,backen::V,pobi,süt
+1361,backen::V,crasu,süt
+1362,braten::V,ffrio,süt
+1363,umrühren::V,cyffroi,megkever
+1364,stricken::V,gwau,köt
+1365,nähen::V,gwnïo,varr
+1366,färben::V,lliwio,fest
+1367,reinigen::V,glanhau,tisztít
+1368,waschen::V,golchi,mos
+1369,abwischen::V,sychu,letöröl
+1370,spülen::V,streulio,mosogat
+1371,fegen::V,ysgubo,söpör
+1372,kehren::V,ysgubo,söpör
+1373,baden::V,cael bath,fürdik
+1374,sich waschen::V,ymolchi,mosdik
+1375,sich waschen::V,ymolchi,mosakszik
+1376,ausziehen::V,tynnu,levesz
+1377,anziehen::V,gwisgo,felölt
+1378,anziehen::V,gwisgo,felvesz
+1379,sich anziehen::V,ymwisgo,öltözik
+1380,sich anziehen::V,ymwisgo,felöltözik
+1381,kämmen::V,cribo,fésül
+1382,schmücken::V,harddu,díszít
+1383,schmücken::V,addurno,díszít
+1384,sagen::V,dweud,mond
+1385,sprechen::V,llefaru,beszél
+1386,reden::V,siarad,beszél
+1387,sich unterhalten::V,sgwrsio,beszélget
+1388,fragen::V,gofyn,kérdez
+1389,bitten::V,gofyn am,kér
+1390,erzählen::V,dweud,mesél
+1391,erzählen::V,dweud,elbeszél
+1392,mitteilen::V,cyfleu,közöl
+1393,nennen::V,enwi,hív
+1394,nennen::V,enwi,nevez
+1395,rufen::V,galw,hív
+1396,prahlen::V,brolio,dicsekszik
+1397,prahlen::V,ymffrostio,dicsekszik
+1398,übersetzen::V,cyfieithu,fordít
+1399,denken::V,meddwl,gondol
+1400,glauben::V,credu,hisz
+1401,glauben::V,coelio,hisz
+1402,bemerken::V,sylwi,észrevesz
+1403,erkennen::V,adnabod,ráismer
+1404,erkennen::V,adnabod,felismer
+1405,begreifen::V,amgyffred,felfog
+1406,verstehen::V,deall,ért
+1407,verstehen::V,deall,megért
+1408,lernen::V,dysgu,tanul
+1409,lernen::V,dysgu,megtanul
+1410,wissen::V,gwybod,tud
+1411,sich erinnern an::V,cofio,emlékszik
+1412,vergessen::V,anghofio,felejt
+1413,vergessen::V,anghofio,elfelejt
+1414,messen::V,mesur,mér
+1415,messen::V,mesur,megmér
+1416,zählen::V,cyfrif,számol
+1417,zählen::V,cyfrif,megszámol
+1418,rechnen::V,cyfrifo,számít
+1419,lesen::V,darllen,olvas
+1420,malen::V,peintio,fest
+1421,zeichnen::V,tynnu,rajzol
+1422,schreiben::V,ysgrifennu,ír
+1423,besitzen::V,meddu,birtokol
+1424,kaufen::V,prynu,vesz
+1425,kaufen::V,prynu,megvesz
+1426,verkaufen::V,gwerthu,elad
+1427,bezahlen::V,talu am,fizet
+1428,bezahlen::V,talu am,kifizet
+1429,zahlen::V,talu,fizet
+1430,zahlen::V,talu,megfizet
+1431,beherrschen::V,rheoli,ural
+1432,beherrschen::V,llywodraethu,ural
+1433,ertragen::V,dioddef,elbír
+1434,ertragen::V,dioddef,elvisel

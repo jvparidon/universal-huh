@@ -1,0 +1,1416 @@
+,Concept_ID,sv,fa
+0,Auge::N,öga,چشم
+1,Ohr::N,öra,گوش
+2,Nase::N,näsa,بینی
+3,Mund::N,mun,دهان
+4,Zahn::N,tand,دندان
+5,Zunge::N,tunga,زبان
+6,Lippe::N,läpp,لب
+7,Wange::N,kind,لپ
+8,Gesicht::N,syn,رو
+9,Gesicht::N,syn,چهره
+10,Gesicht::N,ansikte,رو
+11,Gesicht::N,ansikte,چهره
+12,Stirn::N,panna,پیشانی
+13,Haar::N,hår,مو
+14,Schnurrbart::N,mustasch,سبیل
+15,Bart::N,skägg,ریش
+16,Kinn::N,haka,چانه
+17,Kiefer[Anatomie]::N,käke,فک
+18,Kiefer[Anatomie]::N,käke,آرواره
+19,Kehle::N,strupe,حلق
+20,Hals::N,hals,گردن
+21,Genick::N,nacke,پشت گردن
+22,Kopf::N,huvud,سر
+23,Kopf::N,huvud,کله
+24,Rücken::N,rygg,پشت
+25,Bauch::N,buk,شکم
+26,Bauch::N,mage,شکم
+27,Nabel::N,navel,ناف
+28,Busen::N,barm,پستان
+29,Brust::N,bröst,سینه
+30,Schulter::N,skuldra,دوش
+31,Schulter::N,skuldra,شانه
+32,Arm::N,arm,بازو
+33,Ellenbogen::N,armbåge,آرنج
+34,Hand::N,hand,دست
+35,Handfläche::N,handflata,کف دست
+36,Finger::N,finger,انگشت
+37,Fingernagel::N,fingernagel,ناخن دست
+38,Nagel[Anatomie]::N,nagel,ناخن
+39,Zeh::N,tå,انگشت پا
+40,Fuß::N,fot,پا
+41,Ferse::N,häl,پاشنه
+42,Knie::N,knä,زانو
+43,Oberschenkel::N,lår,ران
+44,Bein::N,ben,پا
+45,Bein::N,ben,لنگ
+46,Körper::N,kropp,تن
+47,Körper::N,kropp,بدن
+48,Haut::N,hud,پوست
+49,Haut::N,skinn,پوست
+50,Blut::N,blod,خون
+51,Ader::N,åder,رگ
+52,Sehne::N,sena,زردپی
+53,Knochen::N,ben,استخوان
+54,Gehirn::N,hjärna,مخ
+55,Gehirn::N,hjärna,مغز
+56,Herz::N,hjärta,دل
+57,Herz::N,hjärta,قلب
+58,Magen::N,mage,معده
+59,Leber::N,lever,کبد
+60,Atem::N,anda,نفس
+61,Atem::N,andedräkt,نفس
+62,Hunger::N,svält,گرسنگی
+63,Hunger::N,hunger,گرسنگی
+64,Träne::N,tår,اشک
+65,Geschmack::N,smak,مزه
+66,Geruch::N,lukt,بو
+67,Schlaf::N,sömn,خواب
+68,Traum::N,dröm,رؤیا
+69,Himmel::N,himmel,فلک
+70,Himmel::N,himmel,آسمان
+71,Sonne::N,sol,آفتاب
+72,Sonne::N,sol,خورشید
+73,Mond::N,måne,ماه
+74,Stern::N,stjärna,ستاره
+75,Luft::N,luft,هوا
+76,Wind::N,vind,باد
+77,Welle::N,våg,موج
+78,Welle::N,bölja,موج
+79,Wasser::N,vatten,آب
+80,Stein::N,sten,سنگ
+81,Boden::N,mark,زمین
+82,Erde::N,jord,خاک
+83,Erde::N,jord,زمین
+84,Staub::N,damm,گرد
+85,Staub::N,damm,غبار
+86,Rauch::N,rök,دود
+87,Funke::N,gnista,جرقه
+88,Feuer::N,eld,آتش
+89,Licht::N,ljus,نور
+90,Licht::N,ljus,روشنی
+91,Schatten::N,skugga,سایه
+92,Wetter::N,väder,هوا
+93,Nebel::N,dimma,مه
+94,Nebel::N,töcken,مه
+95,Wolke::N,sky,ابر
+96,Wolke::N,moln,ابر
+97,Regen::N,regn,باران
+98,Schnee::N,snö,برف
+99,Eis::N,is,یخ
+100,Frost::N,frost,یخبندان
+101,Kälte::N,köld,سرما
+102,Hitze::N,hetta,گرما
+103,Hitze::N,hetta,حرارت
+104,Raureif::N,rimfrost,برف ریزه
+105,Regenbogen::N,regnbåge,رنگین‌کمان
+106,Donner::N,åska,رعد
+107,Donner::N,dunder,رعد
+108,Strömung::N,strömning,جریان
+109,Tropfen::N,dropper,قطره
+110,Schaum::N,skum,کف
+111,Schmutz::N,lort,گل
+112,Schmutz::N,lort,کثافت
+113,Schmutz::N,smuts,گل
+114,Schmutz::N,smuts,کثافت
+115,See::N,sjö,دریاچه
+116,Sumpf::N,träsk,مرداب
+117,Sumpf::N,träsk,باتلاق
+118,Moor::N,myr,باتلاق
+119,Moor::N,mosse,باتلاق
+120,Wiese::N,äng,چمن
+121,Wald::N,skog,جنگل
+122,Hügel::N,höjd,تل
+123,Hügel::N,höjd,تپه
+124,Hügel::N,kulle,تل
+125,Hügel::N,kulle,تپه
+126,Anhöhe::N,höjd,بلندی
+127,Anhöhe::N,backe,بلندی
+128,Berg::N,berg,کوه
+129,Berg::N,fjäll,کوه
+130,Gipfel::N,topp,قله
+131,Höhle::N,håla,غار
+132,Höhle::N,grotta,غار
+133,Abhang::N,slänt,سرازیری
+134,Abhang::N,sluttning,سرازیری
+135,Quelle::N,källa,چشمه
+136,Bach::N,bäck,نهر
+137,Fluss::N,älv,رود
+138,Fluss::N,flod,رود
+139,Ufer::N,strand,ساحل
+140,Ufer::N,strand,کرانه
+141,Küste::N,kust,ساحل
+142,Festland::N,fastland,خشکی
+143,Meer::N,hav,دریا
+144,Bucht::N,vik,خلیج
+145,Bucht::N,bukt,خلیج
+146,Insel::N,ö,جزیره
+147,Blume::N,blomma,گل
+148,Blume::N,blomster,گل
+149,Gras::N,gräs,علف
+150,Wurzel::N,rot,ریشه
+151,Baum::N,träd,درخت
+152,Stamm::N,stam,تنه
+153,Rinde::N,bark,توژ
+154,Rinde::N,bark,پوست
+155,Ast::N,gren,شاخه
+156,Zweig::N,kvist,شاخه
+157,Blatt::N,löv,برگ
+158,Blatt::N,blad,برگ
+159,Birke::N,björk,غان
+160,Kiefer[Baum]::N,tall,کاج
+161,Weide[Baum]::N,pil,بید
+162,Weide[Baum]::N,vide,بید
+163,Tanne::N,gran,صنوبر
+164,Horn::N,horn,شاخ
+165,Feder::N,fjäder,پر
+166,Fell::N,fäll,خز
+167,Fell::N,skinn,خز
+168,Flügel::N,vinge,پر
+169,Flügel::N,vinge,بال
+170,Klaue::N,klöv,چنگ
+171,Klaue::N,klöv,پنجه
+172,Kralle::N,klo,پنجه
+173,Schwanz::N,svans,دم
+174,Schwanz::N,stjärt,دم
+175,Ei::N,ägg,تخم
+176,Nest::N,rede,لانه
+177,Nest::N,näste,لانه
+178,Bau::N,bo,بنا
+179,Bau::N,bo,ساختمان
+180,Tier::N,djur,هیوان
+181,Herde::N,flock,رمه
+182,Kuh::N,ko,گاو
+183,Bulle::N,tjur,گاو نر
+184,Pferd::N,häst,اسب
+185,Schaf::N,får,گوسفند
+186,Schwein::N,svin,خوک
+187,Hund::N,hund,سگ
+188,Katze::N,katt,گربه
+189,Bär::N,björn,خرس
+190,Eichhörnchen::N,ekorre,سنجاب
+191,Elch::N,älg,گوزن شمالی
+192,Fuchs::N,räv,روباه
+193,Hase::N,hare,خرگوش
+194,Maus::N,mus,موش
+195,Wolf::N,varg,گرگ
+196,Vogel::N,fågel,پرنده
+197,Schwarm::N,svärm,دسته
+198,Huhn::N,höns,مرغ
+199,Hahn::N,tupp,خروس
+200,Gans::N,gås,غاز
+201,Adler::N,örn,عقاب
+202,Ente::N,anka,اردک
+203,Ente::N,anka,مرغابی
+204,Eule::N,uggla,جغد
+205,Kranich::N,trana,درنا
+206,Krähe::N,kråka,زاغ
+207,Krähe::N,kråka,کلاغ
+208,Kuckuck::N,gök,فاخته
+209,Schwan::N,svan,قو
+210,Fisch::N,fisk,ماهی
+211,Barsch::N,abborre,ماهی خاردار
+212,Hecht::N,gädda,اردک ماهی
+213,Schlange[Tier]::N,orm,مار
+214,Wurm::N,mask,کرم
+215,Spinne::N,spindel,عنکبوت
+216,Ameise::N,myra,مورچه
+217,Laus::N,lus,شپش
+218,Mücke::N,mygga,پشه
+219,Fliege::N,fluga,مگس
+220,Schmetterling::N,fjäril,پروانه
+221,Beere::N,bär,گیله
+222,Apfel::N,äpple,سیب
+223,Pilz::N,svamp,قارچ
+224,Zwiebel::N,lök,پیاز
+225,Saat::N,sådd,بذر
+226,Korn::N,korn,تخم
+227,Korn::N,korn,دانه
+228,Heu::N,hö,علف خشک
+229,Schale::N,skal,پوست
+230,Grube::N,grop,گودال
+231,Falle::N,fälla,دام
+232,Schlinge::N,snara,حلقه
+233,Spur::N,spår,رد
+234,Asche::N,aska,خاکستر
+235,Dreck::N,lort,کثافت
+236,Eisen::N,järn,آهن
+237,Gold::N,guld,زر
+238,Gold::N,guld,طلا
+239,Silber::N,silver,نقره
+240,Kohle::N,kol,زغال
+241,Glas::N,glas,شیشه
+242,Lehm::N,lera,گل
+243,Sand::N,sand,شن
+244,Sand::N,sand,ماسه
+245,Mensch::N,människa,آدم
+246,Mensch::N,människa,انسان
+247,Mann::N,man,مرد
+248,Frau::N,kvinna,زن
+249,Kind::N,barn,بچه
+250,Kind::N,barn,کودک
+251,Junge::N,pojke,پسر
+252,Mädchen::N,flicka,دختر
+253,Familie::N,familj,فامیل
+254,Familie::N,familj,خانواده
+255,Großvater::N,morfar,پدربزرگ
+256,Großmutter::N,farmor,مادر‌بزرگ
+257,Eltern::N,föräldrar,والدین
+258,Eltern::N,föräldrar,پدر‌و‌مادر
+259,Vater::N,far,پدر
+260,Mutter::N,mor,مادر
+261,Sohn::N,son,پسر
+262,Tochter::N,dotter,دختر
+263,Bruder::N,bror,برادر
+264,Schwester::N,syster,خواهر
+265,Onkel::N,morbror,عمو
+266,Onkel::N,morbror,دایی
+267,Tante::N,tant,عمه
+268,Tante::N,tant,خاله
+269,Ehemann::N,äkta man,همسر
+270,Ehefrau::N,hustru,همسر
+271,Freude::N,fröjd,شادی
+272,Freude::N,glädje,شادی
+273,Gelächter::N,åtlöje,خنده
+274,Gelächter::N,åtlöje,قاه‌قاه
+275,Glück::N,lycka,اقبال
+276,Kummer::N,sorg,غم
+277,Kummer::N,sorg,غصه
+278,Wunsch::N,önskan,آرزو
+279,Lust::N,lust,هوس
+280,Geist::N,ande,روح
+281,Gedanke::N,tanke,فکر
+282,Gedächtnis::N,minne,حافظه
+283,Verstand::N,förstånd,هوش
+284,Sinn::N,mening,معنا
+285,Sinn::N,mening,مفهوم
+286,Sinn::N,betydelse,معنا
+287,Sinn::N,betydelse,مفهوم
+288,Grund::N,skäl,سبب
+289,Grund::N,skäl,دلیل
+290,Grund::N,grund,سبب
+291,Grund::N,grund,دلیل
+292,Wahrheit::N,sanning,حقیقت
+293,Gespräch::N,samtal,صحبت
+294,Gespräch::N,samtal,گفتگو
+295,Märchen::N,saga,قصه
+296,Märchen::N,saga,افسانه
+297,Erzählung::N,berättelse,داستان
+298,Nachricht::N,meddelande,خبر
+299,Neuigkeit::N,nyhet,خبر تازه
+300,Name::N,namn,اسم
+301,Rätsel::N,gåta,معما
+302,Rede::N,tal,سخن
+303,Sprache::N,språk,زبان
+304,Stimme::N,stämma,صدا
+305,Wort::N,ord,کلمه
+306,Zeichen::N,tecken,نشان
+307,Zeichen::N,tecken,علامت
+308,Ruf::N,rop,صدا
+309,Lärm::N,bråk,هیاهو
+310,Lärm::N,oväsen,هیاهو
+311,Laut::N,ljud,صدا
+312,Ton::N,ton,آهنگ
+313,Lied::N,sång,آواز
+314,Lied::N,sång,ترانه
+315,Ruhe::N,ro,آرامش
+316,Ruhe::N,lugn,آرامش
+317,Leute::N,folk,مردم
+318,Volk::N,folk,خلق
+319,Arbeit::N,arbete,کار
+320,Gast::N,gäst,مهمان
+321,Geschenk::N,gåva,هدیه
+322,Geschenk::N,present,هدیه
+323,Spiel::N,lek,بازی
+324,Spiel::N,spel,بازی
+325,Gesellschaft::N,sällskap,جمعیت
+326,Hilfe::N,hjälp,کمک
+327,Freund::N,vän,دوست
+328,Kamerad::N,kamrat,رفیق
+329,Angelegenheit::N,ärende,امر
+330,Angelegenheit::N,ärende,قضیه
+331,Angelegenheit::N,angelägenhet,امر
+332,Angelegenheit::N,angelägenhet,قضیه
+333,Anzahl::N,antal,عده
+334,Anzahl::N,antal,شمار
+335,Art::N,art,نوع
+336,Art::N,slag,نوع
+337,Stück::N,stycke,تکه
+338,Stück::N,stycke,قطعه
+339,Teil::N,del,بخش
+340,Teil::N,del,قسمت
+341,Hälfte::N,halva,نیم
+342,Kreis::N,krets,حلقه
+343,Kreis::N,krets,دایره
+344,Kreis::N,cirkel,حلقه
+345,Kreis::N,cirkel,دایره
+346,Kreuz::N,kors,صلیب
+347,Kreuz::N,kryss,صلیب
+348,Linie::N,linje,خط
+349,Linie::N,linje,سطر
+350,Strich::N,streck,خط
+351,Abstand::N,avstånd,فاصله
+352,Entfernung::N,avstånd,مسافت
+353,Gegend::N,trakt,منطقه
+354,Platz::N,plats,گنجایش
+355,Ort::N,plats,جا
+356,Ort::N,plats,محل
+357,Ort::N,plats,مکان
+358,Ort::N,ställe,جا
+359,Ort::N,ställe,محل
+360,Ort::N,ställe,مکان
+361,Seite::N,sida,طرف
+362,Mitte::N,mitt,وسط
+363,Mitte::N,mitt,میان
+364,Gegenstand::N,föremål,چیز
+365,Sache::N,sak,چیز
+366,Rand::N,rand,کنار
+367,Rand::N,rand,حاشیه
+368,Kante::N,kant,لبه
+369,Ecke::N,vrå,گوشه
+370,Ecke::N,hörn,گوشه
+371,Spitze::N,spets,سر
+372,Spitze::N,spets,نوک
+373,Ende::N,ända,ته
+374,Ende::N,ända,آخر
+375,Loch::N,hål,سوراخ
+376,Winkel::N,vinkel,کنج
+377,Muster::N,mönster,نقش
+378,Größe::N,storlek,قد
+379,Größe::N,storlek,بزرگی
+380,Länge::N,längd,طول
+381,Höhe::N,höjd,بلندی
+382,Gewicht::N,tyngd,وزن
+383,Menge::N,mängd,مقدار
+384,Menge::N,mängd,اندازه
+385,Haufen::N,hög,توده
+386,Reihe::N,rad,ردیف
+387,Boot::N,båt,قایق
+388,Ruder::N,åra,پارو
+389,Schlitten::N,släde,سورتمه
+390,Ski::N,skida,اسکی
+391,Lagerfeuer::N,lägereld,آتش
+392,Last::N,last,بار
+393,Last::N,last,سنگینی
+394,Last::N,börda,بار
+395,Last::N,börda,سنگینی
+396,Gang::N,gång,راه رفتن
+397,Schritt::N,steg,قدم
+398,Norden::N,norr,شمال
+399,Süden::N,söder,جنوب
+400,Westen::N,väster,غرب
+401,Osten::N,öster,شرق
+402,Holz::N,trä,چوب
+403,Brett::N,bräda,تخته
+404,Platte::N,platta,صفحه
+405,Stütze::N,stöd,تکیه
+406,Stütze::N,stötta,تکیه
+407,Stange::N,stång,میله
+408,Stock::N,käpp,چوب
+409,Stock::N,pinne,چوب
+410,Stab::N,stav,عصا
+411,Rohr::N,rör,لوله
+412,Haus::N,hus,منزل
+413,Heim::N,hem,خانه
+414,Heim::N,hem,کاشانه
+415,Ofen::N,ugn,بخاری
+416,Fußboden::N,golv,کف اتاق
+417,Tisch::N,bord,میز
+418,Stuhl::N,stol,صندلی
+419,Wiege::N,vagga,گهواره
+420,Bett::N,säng,تختخواب
+421,Regal::N,hylla,قفسه
+422,Kiste::N,låda,صندوق
+423,Fenster::N,fönster,پنجره
+424,Tür::N,dörr,در
+425,Tür::N,dörr,درب
+426,Tor::N,port,دروازه
+427,Zaun::N,staket,حصار
+428,Zaun::N,stängsel,حصار
+429,Dach::N,tak,بام
+430,Leiter::N,stege,نردبان
+431,Besen::N,kvast,جارو
+432,Spaten::N,spade,بیل
+433,Schaufel::N,skovel,بیل
+434,Schaufel::N,skovel,پارو
+435,Schaufel::N,skyffel,بیل
+436,Schaufel::N,skyffel,پارو
+437,Gabel::N,gaffel,چنگال
+438,Löffel::N,sked,قاشق
+439,Messer::N,kniv,کارد
+440,Nagel::N,spik,میخ
+441,Netz::N,nät,تور
+442,Netz::N,nät,شبکه
+443,Haken::N,krok,قلاب
+444,Griff::N,tag,دسته
+445,Griff::N,handtag,دسته
+446,Schloss::N,las,قفل
+447,Bild::N,bild,عکس
+448,Bild::N,bild,تصویر
+449,Figur::N,figur,تندیس
+450,Puppe::N,docka,عروسک
+451,Beutel::N,påse,کیسه
+452,Bündel::N,bunt,بسته
+453,Bündel::N,knippa,بسته
+454,Tasche::N,väska,کیف
+455,Eimer::N,hink,سطل
+456,Eimer::N,ämbar,سطل
+457,Deckel::N,lock,در
+458,Geschirr::N,servis,ظرف
+459,Geschirr::N,porslin,ظرف
+460,Sack::N,säck,گونی
+461,Tasse::N,kopp,فنجان
+462,Topf::N,gryta,دیگ
+463,Topf::N,gryta,قابلمه
+464,Topf::N,kastrull,دیگ
+465,Topf::N,kastrull,قابلمه
+466,Kessel::N,kittel,دیگ
+467,Essen::N,mål,خوراک
+468,Nahrung::N,näring,غذا
+469,Speise::N,maträtt,خوراک
+470,Fleisch::N,kött,گوشت
+471,Getreide::N,säd,غله
+472,Getreide::N,spannmål,غله
+473,Brei::N,gröt,فرنی
+474,Brei::N,gröt,حریره
+475,Brot::N,bröd,نان
+476,Scheibe::N,skiva,قاچ
+477,Scheibe::N,skiva,لزگه
+478,Fett::N,fett,چربی
+479,Butter::N,smör,کره
+480,Öl::N,olja,روغن
+481,Salz::N,salt,نمک
+482,Suppe::N,soppa,آش
+483,Suppe::N,soppa,سوپ
+484,Honig::N,honung,عسل
+485,Milch::N,mjölk,شیر
+486,Tee::N,te,چای
+487,Leder::N,läder,چرم
+488,Wolle::N,ull,پشم
+489,Wolle::N,ylle,پشم
+490,Stoff::N,tyg,پارچه
+491,Stoff::N,stoff,پارچه
+492,Nadel::N,nål,سوزن
+493,Faden::N,tråd,نخ
+494,Knopf::N,knapp,دکمه
+495,Knoten::N,knut,گره
+496,Farbe::N,färg,رنگ
+497,Kleidung::N,klädsel,لباس
+498,Kleidung::N,klädsel,پوشاک
+499,Hemd::N,skjorta,پیراهن
+500,Kragen::N,krage,یقه
+501,Ärmel::N,ärm,آستین
+502,Hose::N,byxor,شلوار
+503,Gürtel::N,bälte,کمر‌بند
+504,Mütze::N,mössa,کلاه
+505,Schuh::N,sko,کفش
+506,Stiefel::N,stövel,چکمه
+507,Ring::N,ring,حلقه
+508,Ring::N,ring,انگشتر
+509,Band::N,band,نوار
+510,Band::N,band,روبان
+511,Kamm::N,kam,شانه
+512,Spiegel::N,spegel,آینه
+513,Riemen::N,rem,تسمه
+514,Schnur::N,snöre,ریسمان
+515,Leine::N,lina,قلاده
+516,Decke::N,täcke,پتو
+517,Kissen::N,dyna,بالش
+518,Kissen::N,kudde,بالش
+519,Tuch::N,sjal,شال
+520,Handtuch::N,handduk,حوله
+521,Kraft::N,kraft,نیرو
+522,Stärke::N,styrka,زور
+523,Gesundheit::N,hälsa,سلامتی
+524,Gesundheit::N,hälsa,تندرستی
+525,Krankheit::N,sjukdom,بیماری
+526,Schmerz::N,smärta,درد
+527,Wunde::N,sår,زخم
+528,Fieber::N,feber,تب
+529,Arznei::N,medicin,دارو
+530,Arznei::N,läkemedel,دارو
+531,Brücke::N,bro,پل
+532,Brunnen::N,brunn,چاه
+533,Weide::N,bete,چراگاه
+534,Pfad::N,stig,راه
+535,Weg::N,väg,راه
+536,Weg::N,väg,طریق
+537,Straße::N,gata,راه
+538,Straße::N,gata,جاده
+539,Dorf::N,by,ده
+540,Dorf::N,by,روستا
+541,Stadt::N,stad,شهر
+542,Brief::N,brev,نامه
+543,Buch::N,bok,کتاب
+544,Buchstabe::N,bokstav,حرف
+545,Zeitung::N,tidning,روزنامه
+546,Leben::N,liv,عمر
+547,Leben::N,liv,زندگی
+548,Tod::N,död,مرگ
+549,Grab::N,grav,گور
+550,Grab::N,grav,مزار
+551,Kirche::N,kyrka,کلیسا
+552,Sünde::N,synd,بزه
+553,Sünde::N,synd,گناه
+554,Gott::N,gud,خدا
+555,Arbeiter::N,arbetare,کارگر
+556,Chef::N,chef,رئیس
+557,Meister::N,mästare,استاد
+558,Arzt::N,läkare,پزشک
+559,Lehrer::N,lärare,معلم
+560,Lehrer::N,lärare,آموزگار
+561,Geld::N,pengar,پول
+562,Geschäft::N,rörelse,کار
+563,Geschäft::N,rörelse,بیزنس
+564,Laden::N,affär,دکان
+565,Laden::N,affär,مغازه
+566,Preis::N,pris,بها
+567,Preis::N,pris,قیمت
+568,Ware::N,vara,جنس
+569,Ware::N,vara,کالا
+570,Nutzen::N,gagn,مزیت
+571,Nutzen::N,gagn,امتیاز
+572,Nutzen::N,nytta,مزیت
+573,Nutzen::N,nytta,امتیاز
+574,Reichtum::N,rikedom,مال
+575,Reichtum::N,rikedom,ثروت
+576,Welt::N,värld,دنیا
+577,Land::N,land,کشور
+578,Land::N,land,مملکت
+579,Staat::N,stat,دولت
+580,König::N,kung,شاه
+581,König::N,kung,پادشاه
+582,König::N,konung,شاه
+583,König::N,konung,پادشاه
+584,Macht::N,makt,قدرت
+585,Macht::N,makt,اختیار
+586,Grenze::N,gräns,مرز
+587,Krieg::N,krig,جنگ
+588,Feind::N,fiende,دشمن
+589,Gewalt::N,våld,زور
+590,Gewalt::N,våld,خشونت
+591,Kampf::N,kamp,نبرد
+592,Kampf::N,kamp,مبارزه
+593,Kampf::N,strid,نبرد
+594,Kampf::N,strid,مبارزه
+595,Bogen[Waffe]::N,båge,کمان
+596,Pfeil::N,pil,تیر
+597,Gewehr::N,gevär,تفنگ
+598,Fehler::N,fel,غلط
+599,Fehler::N,fel,اشتباه
+600,Lüge::N,lögn,دروغ
+601,Schaden::N,skada,آسیب
+602,Schaden::N,skada,خسارت
+603,Unglück::N,otur,بلا
+604,Unglück::N,olycka,بلا
+605,Schuld::N,skuld,گناه
+606,Schuld::N,skuld,تقصیر
+607,Alter::N,ålder,سن
+608,Alter::N,ålder,عمر
+609,Schluss::N,slut,انتها
+610,Zeit::N,tid,وقت
+611,Zeit::N,tid,زمان
+612,Tag::N,dag,روز
+613,Morgen::N,morgon,صبح
+614,Mittag::N,middag,ظهر
+615,Abend::N,kväll,شب
+616,Abend::N,kväll,عصر
+617,Nacht::N,natt,شب
+618,Woche::N,vecka,هفته
+619,Monat::N,månad,ماه
+620,Jahr::N,år,سال
+621,Frühling::N,vår,بهار
+622,Sommer::N,sommar,تابستان
+623,Herbst::N,höst,پاییز
+624,Winter::N,vinter,زمستان
+625,Januar::N,januari,ژانویه
+626,Februar::N,februari,فوریه
+627,März::N,mars,مارس
+628,April::N,april,آوریل
+629,Mai::N,maj,مه
+630,Juni::N,juni,ژوئن
+631,Juli::N,juli,ژویه
+632,August::N,augusti,اوت
+633,September::N,september,سپتامبر
+634,Oktober::N,oktober,اکتبر
+635,November::N,november,نوامبر
+636,Dezember::N,december,دسامبر
+637,Montag::N,måndag,دو‌شنبه
+638,Dienstag::N,tisdag,سه‌شنبه
+639,Mittwoch::N,onsdag,چهار‌شنبه
+640,Donnerstag::N,torsdag,پنج شنبه
+641,Freitag::N,fredag,جمعه
+642,Samstag::N,lördag,شنبه
+643,Sonntag::N,söndag,یکشنبه
+644,groß::A,stor,بزرگ
+645,klein::A,liten,کوچک
+646,lang::A,lång,بلند
+647,kurz::A,kort,کوتاه
+648,breit::A,bred,پهن
+649,schmal::A,smal,تنگ
+650,schmal::A,smal,نازک
+651,dicht::A,tät,چگال
+652,dicht::A,tät,انبوه
+653,dick[Gegenstand]::A,tjock,ضخیم
+654,dünn::A,tunn,نازک
+655,fein::A,fin,ریز
+656,fein::A,fin,باریک
+657,fest::A,fast,محکم
+658,flach::A,platt,صاف
+659,flach::A,platt,مسطح
+660,glatt::A,glatt,لیز
+661,hart::A,hård,سفت
+662,weich::A,mjuk,نرم
+663,weich::A,mjuk,ملایم
+664,rund::A,rund,گرد
+665,spitz::A,toppig,تیز
+666,spitz::A,toppig,نوک‌تیز
+667,spitz::A,spetsig,تیز
+668,spitz::A,spetsig,نوک‌تیز
+669,scharf::A,vass,تیز
+670,scharf::A,vass,برنده
+671,scharf::A,skarp,تیز
+672,scharf::A,skarp,برنده
+673,stumpf::A,slö,کند
+674,schwer::A,tung,سنگین
+675,schön::A,skön,زیبا
+676,schön::A,vacker,زیبا
+677,heiß::A,het,داغ
+678,warm::A,varm,گرم
+679,kalt::A,kall,سرد
+680,kühl::A,sval,خنک
+681,kühl::A,kylig,خنک
+682,frisch::A,färsk,تازه
+683,feucht::A,fuktig,مرطوب
+684,nass::A,våt,تر
+685,nass::A,våt,خیش
+686,trocken::A,torr,خشک
+687,voll::A,full,پر
+688,leer::A,tom,خالی
+689,offen::A,öppen,باز
+690,geschlossen::A,stängd,بسته
+691,sauber::A,ren,پاک
+692,sauber::A,ren,تمیز
+693,schmutzig::A,snuskig,کثیف
+694,schmutzig::A,snuskig,آلوده
+695,roh::A,rå,خام
+696,reif::A,mogen,رسیده
+697,lecker::A,läcker,لذیذ
+698,lecker::A,läcker,خوشمزه
+699,süß::A,söt,شیرین
+700,bitter::A,besk,تلخ
+701,bitter::A,bitter,تلخ
+702,sauer::A,sur,ترش
+703,hell::A,ljus,روشن
+704,dunkel::A,mörk,تاریک
+705,schwarz::A,svart,سیاه
+706,weiß::A,vit,سفید
+707,rot::A,röd,سرخ
+708,rot::A,röd,قرمز
+709,gelb::A,gul,زرد
+710,blau::A,blå,آبی
+711,grün::A,grön,سبز
+712,grau::A,grå,طوسی
+713,grau::A,grå,خاکستری
+714,bunt::A,brokig,رنگارنگ
+715,billig::A,billig,ارزان
+716,teuer::A,dyr,گران
+717,wertvoll::A,värdefull,قیمتی
+718,wertvoll::A,värdefull,گرانبها
+719,blind::A,blind,کور
+720,blind::A,blind,نابینا
+721,taub::A,döv,کر
+722,taub::A,döv,ناشنوا
+723,kräftig::A,kraftig,قوی
+724,stark::A,stark,قوی
+725,stark::A,stark,نیرومند
+726,schwach::A,svag,ضعیف
+727,fett::A,fet,چرب
+728,schlank::A,slank,باریک‌اندام
+729,hübsch::A,snygg,قشنگ
+730,hübsch::A,snygg,خوشگل
+731,hübsch::A,vacker,قشنگ
+732,hübsch::A,vacker,خوشگل
+733,böse::A,ond,بد
+734,böse::A,elak,بد
+735,dumm::A,dum,احمق
+736,faul::A,lat,لش
+737,faul::A,lat,تنبل
+738,fleißig::A,flitig,زرنگ
+739,geizig::A,snål,خسیس
+740,geizig::A,girig,خسیس
+741,klug::A,klok,عاقل
+742,klug::A,klok,باهوش
+743,geschickt::A,händig,ماهر
+744,geschickt::A,skicklig,ماهر
+745,lieb::A,kär,عزیز
+746,lieb::A,snäll,عزیز
+747,lustig::A,rolig,شاد
+748,lustig::A,rolig,خوشحال
+749,lustig::A,lustig,شاد
+750,lustig::A,lustig,خوشحال
+751,sanft::A,mild,لطیف
+752,hungrig::A,hungrig,گرسنه
+753,krank::A,sjuk,مریض
+754,krank::A,sjuk,بیمار
+755,nackt::A,naken,لخت
+756,nackt::A,naken,برهنه
+757,traurig::A,ledsen,غمگین
+758,traurig::A,sorgsen,غمگین
+759,lebendig::A,levande,زنده
+760,gut::A,bra,خوب
+761,schlecht::A,dålig,بد
+762,richtig::A,riktig,درست
+763,schlimm::A,illa,وخيم
+764,wahr::A,sann,درست
+765,wahr::A,sann,حقیقی
+766,alt::A,gammal,کهنه
+767,neu::A,ny,نو
+768,ehemalig::A,forn,قبلی
+769,ehemalig::A,tidigare,قبلی
+770,alt[Lebewesen]::A,gammal,پیر
+771,jung::A,ung,جوان
+772,arm::A,fattig,فقیر
+773,reich::A,rik,پولدار
+774,reich::A,rik,ثروتمند
+775,bekannt::A,känd,آشنا
+776,bekannt::A,känd,معلوم
+777,berühmt::A,berömd,مشهور
+778,fremd::A,främmande,خارجی
+779,fremd::A,främmande,بیگانه
+780,verschieden::A,åtskillig,مختلف
+781,verschieden::A,åtskillig,متفاوت
+782,nah::A,nära,نزدیک
+783,fern::A,fjärran,دور
+784,linker::A,vänster,چپ
+785,rechter::A,höger,راست
+786,anderer::A,annan,دیگر
+787,erster::A,första,اول
+788,zweiter::A,andra,دوم
+789,dritter::A,tredje,سوم
+790,letzter::A,sist,آخر
+791,allein::ADV,allena,تنها
+792,auf einmal::ADV,på en gång,همزمان
+793,zusammen::ADV,tillsammans,باهم
+794,lange::ADV,länge,مدت‌ها
+795,lange::ADV,länge,مدت زیادی
+796,plötzlich::ADV,plötsligt,ناگهان
+797,sofort::ADV,strax,فوراً
+798,sofort::ADV,genast,فوراً
+799,später::ADV,senare,بعدها
+800,jetzt::ADV,nu,حالا
+801,jetzt::ADV,nu,اکنون
+802,heute::ADV,i dag,امروز
+803,morgen::ADV,i morgon,فردا
+804,bald::ADV,snart,زود
+805,bald::ADV,snart,بزودی
+806,dann::ADV,då,سپس
+807,dann::ADV,då,آنوقت
+808,gestern::ADV,i går,دیروز
+809,einst::ADV,en gång,وقتی
+810,einst::ADV,en gång,زمانی
+811,damals::ADV,då,آنوقت
+812,damals::ADV,då,آنزمان
+813,damals::ADV,den gången,آنوقت
+814,damals::ADV,den gången,آنزمان
+815,danach::ADV,därefter,بعد
+816,vorher::ADV,före,قبلاً
+817,vorher::ADV,förut,قبلاً
+818,zuerst::ADV,först,اول
+819,zuerst::ADV,först,ابتداء
+820,einmal::ADV,en gång,یکدفعه
+821,manchmal::ADV,ibland,گاهی
+822,manchmal::ADV,ibland,بعضی اوقات
+823,oft::ADV,ofta,اغلب
+824,immer::ADV,alltid,همیشه
+825,niemals::ADV,aldrig,هرگز
+826,hier::ADV,här,اینجا
+827,hierhin::ADV,hit,به اینجا
+828,von hier::ADV,härifrån,از اینجا
+829,dort::ADV,där,آنجا
+830,dorthin::ADV,dit,به آنجا
+831,geradeaus::ADV,rätt fram,راست
+832,vorwärts::ADV,fram,جلو
+833,vorwärts::ADV,fram,به پیش
+834,vorwärts::ADV,framåt,جلو
+835,vorwärts::ADV,framåt,به پیش
+836,rückwärts::ADV,baklänges,عقب
+837,zurück::ADV,tillbaka,پس
+838,zurück::ADV,tillbaka,عقب
+839,zurück::ADV,tillbaka,بالعکس
+840,unten::ADV,nere,زیر
+841,unten::ADV,nere,پایین
+842,unten::ADV,nedanför,زیر
+843,unten::ADV,nedanför,پایین
+844,hinab::ADV,ned,به پایین
+845,hinab::ADV,nedåt,به پایین
+846,oben::ADV,ovan,بالا
+847,oben::ADV,ovanpå,بالا
+848,hinauf::ADV,upp,به بالا
+849,hinauf::ADV,uppåt,به بالا
+850,überall::ADV,överallt,همه‌جا
+851,nicht::ADV,ej,نه
+852,nicht::ADV,inte,نه
+853,ein wenig::ADV,litet,کمی
+854,kaum::ADV,knappt,به سختی
+855,kaum::ADV,knappast,به سختی
+856,sehr::ADV,mycket,خیلی
+857,sehr::ADV,mycket,بسیار
+858,so::ADV,så,چنین
+859,so::ADV,så,اینطور
+860,noch::ADV,än,هنوز
+861,noch::ADV,ännu,هنوز
+862,nur::ADV,bara,فقط
+863,nur::ADV,bara,تنها
+864,nur::ADV,endast,فقط
+865,nur::ADV,endast,تنها
+866,schon::ADV,redan,قبلاً
+867,schon::ADV,redan,به این زودی
+868,wieder::ADV,åter,باز
+869,wieder::ADV,åter,دوباره
+870,vergebens::ADV,förgäves,بیهوده
+871,vor::PRP,utanför,در جلوی
+872,hinter::PRP,bakom,پشت
+873,unter::PRP,under,تحت
+874,durch::PRP,genom,از وسط
+875,durch::PRP,genom,از ميان
+876,durch::PRP,igenom,از وسط
+877,durch::PRP,igenom,از ميان
+878,neben::PRP,bredvid,کنار
+879,neben::PRP,bredvid,پهلوی
+880,neben::PRP,vid sidan av,کنار
+881,neben::PRP,vid sidan av,پهلوی
+882,zwischen::PRP,mellan,بین
+883,zwischen::PRP,mellan,میان
+884,wegen::PRP,på grund av,برای
+885,wegen::PRP,på grund av,بخاطر
+886,dies::PRN,detta,این
+887,das::PRN,det,آن
+888,alles::PRN,allt,تمام
+889,alles::PRN,allt,همه‌چیر
+890,ich::PRN,jag,من
+891,du::PRN,du,تو
+892,er::PRN,han,او
+893,wir::PRN,vi,ما
+894,ihr::PRN,ni,شما
+895,sie::PRN,de,آنها
+896,was::FPRN,vad,چه
+897,wer::FPRN,vem,کی
+898,wo::FADV,var,کجا
+899,wohin::FADV,vart,بکجا
+900,wie::FADV,hur,چطور
+901,wie::FADV,hur,چگونه
+902,warum::FADV,varför,چرا
+903,warum::FADV,varför,برای چه
+904,wieviel::FNUM,hur mycket,چند
+905,wieviel::FNUM,hur mycket,چقدر
+906,eins::NUM,en,یک
+907,eins::NUM,ett,یک
+908,zwei::NUM,två,دو
+909,drei::NUM,tre,سه
+910,vier::NUM,fyra,چهار
+911,fünf::NUM,fem,پنج
+912,sechs::NUM,sex,شش
+913,sieben::NUM,sju,هفت
+914,acht::NUM,åtta,هشت
+915,neun::NUM,nio,نه
+916,zehn::NUM,tio,ده
+917,elf::NUM,elva,یازده
+918,zwölf::NUM,tolv,دوازده
+919,zwanzig::NUM,tjugo,بیست
+920,dreißig::NUM,trettio,سی
+921,vierzig::NUM,fyrtio,چهل
+922,fünfzig::NUM,femtio,پنجاه
+923,sechzig::NUM,sextio,شصت
+924,siebzig::NUM,sjuttio,هفتاد
+925,achtzig::NUM,åttio,هشتاد
+926,neunzig::NUM,nittio,نود
+927,hundert::NUM,hundra,صد
+928,tausend::NUM,tusen,هزار
+929,und::CNJ,och,و
+930,oder::CNJ,eller,یا
+931,stehen::V,stå,ایستادن
+932,sitzen::V,sitta,نشستن
+933,liegen::V,ligga,خوابیدن
+934,liegen::V,ligga,دراز کشیدن
+935,hängen::V,hänga,آویزان بودن
+936,werden::V,bli,شدن
+937,passieren::V,ske,گذشتن
+938,passieren::V,ske,اتفاق افتادن
+939,passieren::V,hända,گذشتن
+940,passieren::V,hända,اتفاق افتادن
+941,beginnen::V,börja,شروع شدن
+942,enden::V,ända,تمام شدن
+943,wechseln::V,växla,عوض شدن
+944,aufgehen[Sonne]::V,gå upp,برآمدن
+945,aufgehen[Sonne]::V,gå upp,طلوع کردن
+946,untergehen[Sonne]::V,gå ned,غروب کردن
+947,scheinen[Sonne]::V,skina,تابیدن
+948,donnern::V,dundra,رعد زدن
+949,wehen::V,blåsa,دمیدن
+950,strömen::V,forsa,روان شدن
+951,strömen::V,strömma,روان شدن
+952,fließen::V,flyta,روان شدن
+953,sich drehen::V,snurra,چرخیدن
+954,schwanken::V,vackla,خم و راست شدن
+955,schwingen::V,svinga,تاب خوردن
+956,schwingen::V,svinga,نوسان کردن
+957,fallen::V,falla,افتادن
+958,fallen::V,falla,سقوط کردن
+959,brennen::V,brinna,سوزاندن
+960,rauchen::V,ryka,دود کردن
+961,regnen::V,regna,باران آمدن
+962,gefrieren::V,frysa,یخ بستن
+963,tauen::V,töa,آب شدن
+964,schmelzen::V,smälta,آب شدن
+965,trocknen::V,torka,خشک شدن
+966,sieden::V,koka,جوشیدن
+967,sieden::V,sjuda,جوشیدن
+968,faulen::V,ruttna,فاسد شدن
+969,verfaulen::V,ruttna,پوسیدن
+970,reißen::V,brista,پاره شدن
+971,versinken::V,sjunka,غرق شدن
+972,vergehen::V,förgå,گذشتن
+973,erscheinen::V,synas,ظاهر شدن
+974,erscheinen::V,visa sig,ظاهر شدن
+975,verschwinden::V,försvinna,گم شدن
+976,verschwinden::V,försvinna,از بین رفتن
+977,sinken::V,sjunka,پایین آمدن
+978,abnehmen::V,avta,کم شدن
+979,abnehmen::V,minskas,کم شدن
+980,zunehmen::V,tilltaga,زیاد شدن
+981,steigen::V,stiga,بالا رفتن
+982,wachsen::V,växa,قد کشیدن
+983,glänzen::V,glimma,برق زدن
+984,funkeln::V,tindra,جرقه زدن
+985,funkeln::V,gnistra,جرقه زدن
+986,lärmen::V,bråka,شلوغ کردن
+987,lärmen::V,väsnas,شلوغ کردن
+988,läuten::V,ringa,زنگ زدن
+989,klingeln::V,ringa,زنگ زدن
+990,klirren::V,klirra,جرنگ جرنگ صدا کردن
+991,brausen::V,brusa,طوفانی بودن
+992,rauschen::V,susa,خش‌خش کردن
+993,klingen::V,låta,صدا دادن
+994,klingen::V,klinga,صدا دادن
+995,bellen::V,skälla,عوعو کردن
+996,heulen::V,yla,زوزه کشیدن
+997,heulen::V,tjuta,زوزه کشیدن
+998,blasen::V,blåsa,فوت کردن
+999,pfeifen::V,vissla,سوت زدن
+1000,schreien::V,skrika,فریاد زدن
+1001,stöhnen::V,stöna,نالیدن
+1002,zittern::V,darra,لرزیدن
+1003,zittern::V,skälva,لرزیدن
+1004,leben::V,leva,زیستن
+1005,leben::V,leva,زندگی کردن
+1006,geboren werden::V,födas,متولد شدن
+1007,atmen::V,andas,تنفس کردن
+1008,trinken::V,dricka,نوشیدن
+1009,essen::V,äta,خوردن
+1010,schlucken::V,svälja,بلعیدن
+1011,schlucken::V,svälja,قورت دادن
+1012,müde werden::V,tröttna,خسته شدن
+1013,einschlafen::V,somna,خواب رفتن
+1014,schlafen::V,sova,خوابیدن
+1015,aufwachen::V,vakna,از خواب بیدار شدن
+1016,aufstehen::V,stiga upp,بیدار شدن
+1017,sich erholen::V,repa sig,استراحت کردن
+1018,sich erholen::V,hämta sig,استراحت کردن
+1019,krank werden::V,insjukna,مریض شدن
+1020,krank sein::V,vara sjuk,بیمار بودن
+1021,schmerzen::V,smärta,درد کردن
+1022,schmerzen::V,göra ont,درد کردن
+1023,husten::V,hosta,سرفه کردن
+1024,genesen::V,tillfriskna,بهبود یافتن
+1025,sterben::V,dö,مردن
+1026,umkommen::V,omkomma,کشته شدن
+1027,sich bewegen::V,röra sig,حرکت کردن
+1028,sich rühren::V,röra på sig,تکان خوردن
+1029,sich erheben::V,resa sig,برخواستن
+1030,sich setzen::V,sätta sig,نشستن
+1031,hinfallen::V,falla omkull,زمین خوردن
+1032,laufen::V,löpa,پیاده رفتن
+1033,schreiten::V,skrida,قدم زدن
+1034,spazierengehen::V,promenera,گردش رفتن
+1035,eilen::V,ila,شتاب کردن
+1036,sich beeilen::V,skynda sig,عجله کردن
+1037,sausen::V,susa,صفیر کشیدن
+1038,rennen::V,löpa,دویدن
+1039,rennen::V,springa,دویدن
+1040,springen::V,hoppa,پریدن
+1041,klettern::V,klättra,بالا رفتن
+1042,schaukeln::V,gunga,تاب خوردن
+1043,kriechen::V,kräla,خزیدن
+1044,schwimmen::V,simma,شنا کردن
+1045,tauchen::V,dyka,غواصی کردن
+1046,rudern::V,ro,پارو زدن
+1047,fahren::V,köra,سواره رفتن
+1048,fliegen::V,flyga,پریدن
+1049,gehen::V,gå,رفتن
+1050,weggehen::V,gå bort,رفتن
+1051,abfahren::V,resa,حرکت کردن
+1052,abfahren::V,avresa,حرکت کردن
+1053,anhalten::V,stanna,ایست کردن
+1054,hineingehen::V,gå in,داخل شدن
+1055,eintreten::V,träda in,وارد شدن
+1056,kommen::V,komma,آمدن
+1057,ankommen::V,ankomma,رسیدن
+1058,zurückkommen::V,återkomma,برگشتن
+1059,bleiben::V,bli,ماندن
+1060,bleiben::V,förbli,ماندن
+1061,warten::V,vänta,منتظر بودن
+1062,erwarten::V,vänta,انتظار داشتن
+1063,suchen::V,leta,جستجو کردن
+1064,finden::V,finna,یافتن
+1065,finden::V,finna,پیدا کردن
+1066,versuchen::V,försöka,سعی کردن
+1067,versuchen::V,försöka,کوشش کردن
+1068,vorbereiten::V,förbereda,آماده کردن
+1069,lieben::V,älska,عاشق بودن
+1070,mögen::V,tycka om,میل داشتن
+1071,mögen::V,tycka om,دوست داشتن
+1072,lachen::V,skratta,خندیدن
+1073,rühren::V,röra,به رقت آوردن
+1074,weinen::V,gråta,گریه کردن
+1075,schimpfen::V,skälla,فحاشی کردن
+1076,sich ärgern::V,förargas,ناراحت شدن
+1077,sich fürchten::V,vara rädd,واهمه کردن
+1078,fürchten::V,frukta,ترسیدن
+1079,fliehen::V,fly,گریختن
+1080,fliehen::V,rymma,گریختن
+1081,flüchten::V,fly,فرار کردن
+1082,sehen::V,se,دیدن
+1083,anschauen::V,se på,نگاه کردن
+1084,anschauen::V,betrakta,نگاه کردن
+1085,ansehen::V,åse,تماشا کردن
+1086,hören::V,höra,شنیدن
+1087,zuhören::V,höra på,گوش دادن
+1088,zuhören::V,lyssna till,گوش دادن
+1089,probieren::V,smaka,چشیدن
+1090,probieren::V,smaka på,چشیدن
+1091,riechen::V,lukta,بوییدن
+1092,riechen::V,lukta,بو کردن
+1093,fühlen::V,känna,احساس کردن
+1094,scheinen::V,verka,بنظر آمدن
+1095,scheinen::V,tyckas,بنظر آمدن
+1096,zu sehen sein::V,synas,دیده شدن
+1097,zu sehen sein::V,kunna ses,دیده شدن
+1098,vernehmen::V,få veta,شنیدن
+1099,vernehmen::V,förnimma,شنیدن
+1100,frieren::V,frysa,سرد بودن
+1101,tun::V,göra,کردن
+1102,können::V,kunna,توانستن
+1103,wollen::V,vilja,خواستن
+1104,anfangen::V,börja,شروع کردن
+1105,beenden::V,avsluta,تمام کردن
+1106,beenden::V,avsluta,پایان دادن
+1107,aufhören::V,sluta,دست کشیدن
+1108,aufhören::V,upphöra,دست کشیدن
+1109,gelingen::V,lyckas,موفق شدن
+1110,geraten::V,bli,نتیجه دادن
+1111,öffnen::V,öppna,گشودن
+1112,öffnen::V,öppna,باز کردن
+1113,schließen::V,låsa,بستن
+1114,schließen::V,låsa,قفل کردن
+1115,schließen::V,stänga,بستن
+1116,schließen::V,stänga,قفل کردن
+1117,stellen::V,ställa,گذاردن
+1118,setzen::V,sätta,نشاندن
+1119,legen::V,lägga,گذاشتن
+1120,berühren::V,beröra,دست زدن
+1121,berühren::V,beröra,لمس کردن
+1122,verbinden::V,förbinda,وصل کردن
+1123,bedecken::V,täcka,پوشاندن
+1124,bedecken::V,betäcka,پوشاندن
+1125,aufhängen::V,hänga,آویختن
+1126,aufhängen::V,hänga upp,آویختن
+1127,anzünden::V,tända,سوزاندن
+1128,anzünden::V,antända,سوزاندن
+1129,anzünden::V,tända på,سوزاندن
+1130,aufheben::V,lyfta,برداشتن
+1131,aufheben::V,lyfta,بلند کردن
+1132,zurücklassen::V,lämna,گذاشتن
+1133,zurücklassen::V,efterlämna,گذاشتن
+1134,verlieren::V,mista,گم کردن
+1135,verlieren::V,förlora,گم کردن
+1136,fallen lassen::V,tappa,انداختن
+1137,fallen lassen::V,släppa,انداختن
+1138,machen::V,göra,کردن
+1139,machen::V,göra,ساختن
+1140,herstellen::V,tillverka,ساختن
+1141,herstellen::V,tillverka,تولید کردن
+1142,herstellen::V,framställa,ساختن
+1143,herstellen::V,framställa,تولید کردن
+1144,bauen::V,bygga,ساختن
+1145,bauen::V,bygga,بنا کردن
+1146,reparieren::V,reparera,درست کردن
+1147,reparieren::V,reparera,تعمیر کردن
+1148,verbessern::V,rätta,بهتر کردن
+1149,verbessern::V,förbättra,بهتر کردن
+1150,ändern::V,ändra,تغییر دادن
+1151,ändern::V,förändra,تغییر دادن
+1152,graben::V,gräva,کندن
+1153,graben::V,gräva,گود کردن
+1154,beugen::V,böja,کج کردن
+1155,biegen::V,böja,خم کردن
+1156,biegen::V,kröka,خم کردن
+1157,drehen::V,vrida,چرخاندن
+1158,wenden::V,vända,برگرداندن
+1159,umdrehen::V,vrida om,برگرداندن
+1160,heben::V,häva,برداشتن
+1161,hochheben::V,lyfta,برآوردن
+1162,hochheben::V,lyfta,بلند کردن
+1163,ergreifen::V,gripa,گرفتن
+1164,halten::V,hålla,نگاه داشتن
+1165,drücken::V,trycka,فشار دادن
+1166,drücken::V,trycka,فشار آوردن
+1167,schieben::V,skjuta,هل دادن
+1168,kratzen::V,riva,خاریدن
+1169,kratzen::V,skrapa,خاریدن
+1170,lecken::V,slicka,لیسیدن
+1171,beißen::V,bita,گاز زدن
+1172,abreißen::V,slita_av,پاره کردن
+1173,abreißen::V,riva_av,پاره کردن
+1174,abschneiden::V,skära av,بریدن
+1175,abschneiden::V,skära av,قطع کردن
+1176,binden::V,binda,بستن
+1177,stecken::V,sticka,فرو کردن
+1178,brechen::V,bryta,شکستن
+1179,brechen::V,brista,شکستن
+1180,klopfen::V,banka,کوبیدن
+1181,klopfen::V,klappa,کوبیدن
+1182,hauen::V,hugga,زدن
+1183,kleben::V,klistra,چسباندن
+1184,reiben::V,gnida,مالش دادن
+1185,streichen::V,smörja,مالیدن
+1186,schleifen::V,slipa,تیز کردن
+1187,schneiden::V,skära,چیدن
+1188,schneiden::V,skära,بریدن
+1189,schneiden::V,klippa,چیدن
+1190,schneiden::V,klippa,بریدن
+1191,rütteln::V,skaka,لرزاندن
+1192,rütteln::V,skaka,تکان دادن
+1193,schütteln::V,rista,تکان دادن
+1194,schwenken::V,svänga,تاب دادن
+1195,schütten::V,hälla,ریختن
+1196,füllen::V,fylla,پر کردن
+1197,einwickeln::V,slå in,پیچیدن
+1198,einwickeln::V,veckla in,پیچیدن
+1199,tragen::V,bära,بردن
+1200,tragen::V,bära,حمل کردن
+1201,schleppen::V,släpa,کشیدن
+1202,ziehen::V,dra,کشیدن
+1203,aufbewahren::V,förvara,نگهداری کردن
+1204,aufbewahren::V,ta vara på,نگهداری کردن
+1205,werfen::V,kasta,انداختن
+1206,werfen::V,kasta,پرتاب کردن
+1207,fangen::V,fånga,گرفتن
+1208,packen::V,gripa,گرفتن
+1209,packen::V,gripa tag,گرفتن
+1210,verstecken::V,gömma,قایم کردن
+1211,verstecken::V,gömma,پنهان کردن
+1212,teilen::V,dela,قسمت کردن
+1213,teilen::V,dela,تقسیم کردن
+1214,schicken::V,skicka,فرستادن
+1215,schicken::V,skicka,ارسال کردن
+1216,bringen::V,bringa,آوردن
+1217,hinzufügen::V,tillägga,افزودن
+1218,hinzufügen::V,tillägga,اضافه کردن
+1219,bekommen::V,få,گرفتن
+1220,bekommen::V,erhålla,گرفتن
+1221,erhalten::V,få,دریافت کردن
+1222,erhalten::V,erhålla,دریافت کردن
+1223,nehmen::V,ta,گرفتن
+1224,nehmen::V,ta,برداشتن
+1225,nehmen::V,taga,گرفتن
+1226,nehmen::V,taga,برداشتن
+1227,wählen::V,välja,انتخاب کردن
+1228,auswählen::V,utvälja,برگزیدن
+1229,bewahren::V,bevara,حفظ کردن
+1230,bewahren::V,bevara,حفاظت کردن
+1231,behindern::V,hindra,مانع بودن
+1232,behindern::V,förhindra,مانع بودن
+1233,verderben::V,förstöra,از بین بردن
+1234,beschädigen::V,skada,صدمه زدن
+1235,zerbrechen::V,bryta isär,شکستن
+1236,zerbrechen::V,bryta sönder,شکستن
+1237,zerreißen::V,riva sönder,دریدن
+1238,zerreißen::V,riva sönder,پاره کردن
+1239,zerreißen::V,slita sönder,دریدن
+1240,zerreißen::V,slita sönder,پاره کردن
+1241,zerstören::V,förstöra,خراب کردن
+1242,zerstören::V,förstöra,ویران کردن
+1243,verbrennen::V,bränna,سوزاندن
+1244,verbrennen::V,bränna upp,سوزاندن
+1245,geben::V,ge,دادن
+1246,reichen::V,räcka,دادن
+1247,schenken::V,skänka,هدیه دادن
+1248,versprechen::V,lova,قول دادن
+1249,versprechen::V,lova,وعده دادن
+1250,wünschen::V,önska,آرزو کردن
+1251,loben::V,lova,ستایش کردن
+1252,loben::V,beröma,ستایش کردن
+1253,küssen::V,pussa,بوسیدن
+1254,wiegen::V,vagga,نوسان کردن
+1255,zudecken::V,täcka,پوشاندن
+1256,wecken::V,väcka,بیدار کردن
+1257,zeigen::V,visa,نشان دادن
+1258,führen::V,föra,رهنمائی کردن
+1259,lehren::V,lära,آموختن
+1260,lehren::V,lära,یاد دادن
+1261,unterrichten::V,undervisa,درس دادن
+1262,unterrichten::V,undervisa,تدریس کردن
+1263,aufziehen::V,uppfostra,تربیت کردن
+1264,leiten::V,leda,اداره کردن
+1265,antreiben::V,driva på,عجله دادن
+1266,lassen::V,få att,وادار کردن
+1267,einladen::V,bjuda,دعوت کردن
+1268,einladen::V,bjuda,مهمان کردن
+1269,einladen::V,inbjuda,دعوت کردن
+1270,einladen::V,inbjuda,مهمان کردن
+1271,vereinigen::V,förena,یکی کردن
+1272,vereinigen::V,förena,متحد کردن
+1273,besuchen::V,besöka,دیدار کردن
+1274,treffen::V,möta,ملاقات کردن
+1275,treffen::V,träffa,ملاقات کردن
+1276,sich versammeln::V,församla sig,جمع شدن
+1277,spielen::V,leka,بازی کردن
+1278,spielen::V,spela,بازی کردن
+1279,singen::V,sjunga,آواز خواندن
+1280,tanzen::V,dansa,رقصیدن
+1281,sich trennen::V,skiljas,جدا شدن
+1282,verlassen::V,lämna,ترک کردن
+1283,verlassen::V,överge,ترک کردن
+1284,retten::V,rädda,نجات دادن
+1285,bewachen::V,bevaka,حراست کردن
+1286,schützen::V,skydda,حفظ کردن
+1287,schützen::V,beskydda,حفظ کردن
+1288,verteidigen::V,försvara,دفاع کردن
+1289,sich schlagen::V,slåss,کتک‌کاری کردن
+1290,schießen::V,skjuta,تیر زدن
+1291,siegen::V,segra,پیروز شدن
+1292,ärgern::V,förarga,ناراحت کردن
+1293,schlagen::V,slå,زدن
+1294,schlagen::V,slå,کوبیدن
+1295,treten::V,sparka,لگد زدن
+1296,stechen::V,sticka,چاقو زدن
+1297,stoßen::V,stöta,هل دادن
+1298,stehlen::V,stjäla,دزدیدن
+1299,stören::V,störa,مزاحم شدن
+1300,belästigen::V,genera,زحمت دادن
+1301,belästigen::V,besvära,زحمت دادن
+1302,verbergen::V,dölja,پنهان کردن
+1303,täuschen::V,vilseleda,گول زدن
+1304,täuschen::V,vilseleda,فریب دادن
+1305,betrügen::V,bedra,گول زدن
+1306,betrügen::V,bedra,فریب دادن
+1307,töten::V,döda,کشتن
+1308,wohnen::V,bo,منزل داشتن
+1309,wohnen::V,bo,سکونت داشتن
+1310,arbeiten::V,arbeta,کار کردن
+1311,sammeln::V,samla,جمع کردن
+1312,pflücken::V,plocka,چیدن
+1313,jagen::V,jaga,شکار کردن
+1314,fischen::V,fiska,صید کردن
+1315,fischen::V,fiska,ماهی‌گیری کردن
+1316,fassen::V,fånga,گرفتن
+1317,hüten::V,vakta,چراندن
+1318,hüten::V,vakta,مراقبت کردن
+1319,treiben::V,driva,راندن
+1320,anbinden::V,binda fast,متصل کردن
+1321,füttern::V,fodra,غذا دادن
+1322,melken::V,mjölka,دوشیدن
+1323,hacken::V,hacka,خرد کردن
+1324,gießen::V,hälla,ریختن
+1325,gießen::V,vattna,ریختن
+1326,reifen::V,mogna,رسیدن
+1327,zubereiten::V,tillaga,طبخ کردن
+1328,zubereiten::V,tillaga,آماده کردن
+1329,zubereiten::V,tillreda,طبخ کردن
+1330,zubereiten::V,tillreda,آماده کردن
+1331,kochen::V,koka,پختن
+1332,kochen::V,koka,آشپزی کردن
+1333,backen::V,baka,پختن
+1334,braten::V,steka,سرخ کردن
+1335,umrühren::V,röra om,هم زدن
+1336,stricken::V,sticka,بافتن
+1337,nähen::V,sy,دوختن
+1338,färben::V,färga,رنگ زدن
+1339,reinigen::V,rensa,پاک کردن
+1340,reinigen::V,rensa,تمیز کردن
+1341,reinigen::V,rengöra,پاک کردن
+1342,reinigen::V,rengöra,تمیز کردن
+1343,waschen::V,tvätta,شستن
+1344,abwischen::V,torka av,زدودن
+1345,spülen::V,spola,شستن
+1346,spülen::V,skölja,شستن
+1347,fegen::V,feja,جارو کردن
+1348,kehren::V,sopa,جارو کردن
+1349,baden::V,bada,شنا کردن
+1350,baden::V,bada,حمام کردن
+1351,sich waschen::V,tvätta sig,شستشو کردن
+1352,ausziehen::V,ta av,درآوردن
+1353,anziehen::V,ta på,پوشیدن
+1354,sich anziehen::V,klä på sig,لباس پوشیدن
+1355,kämmen::V,kamma,شانه زدن
+1356,schmücken::V,pynta,زینت دادن
+1357,schmücken::V,smycka,زینت دادن
+1358,sagen::V,säga,گفتن
+1359,sprechen::V,tala,حرف زدن
+1360,sprechen::V,tala,صحبت کردن
+1361,reden::V,tala,حرف زدن
+1362,reden::V,tala,صحبت کردن
+1363,reden::V,prata,حرف زدن
+1364,reden::V,prata,صحبت کردن
+1365,sich unterhalten::V,prata,گپ زدن
+1366,fragen::V,fråga,پرسیدن
+1367,fragen::V,fråga,سؤال کردن
+1368,fragen::V,spörja,پرسیدن
+1369,fragen::V,spörja,سؤال کردن
+1370,bitten::V,be,خواهش کردن
+1371,bitten::V,be,درخواست کردن
+1372,erzählen::V,berätta,نقل کردن
+1373,erzählen::V,berätta,حکایت کردن
+1374,mitteilen::V,meddela,خبر دادن
+1375,nennen::V,kalla,نامیدن
+1376,rufen::V,ropa,صدا کردن
+1377,prahlen::V,pråla,پز آمدن
+1378,prahlen::V,skryta,پز آمدن
+1379,übersetzen::V,tolka,ترجمه کردن
+1380,übersetzen::V,översätta,ترجمه کردن
+1381,denken::V,tänka,فکر کردن
+1382,glauben::V,tro,باور کردن
+1383,glauben::V,tro,عقیده داشتن
+1384,bemerken::V,uppmärksamma,متوجه شدن
+1385,bemerken::V,lägga märke till,متوجه شدن
+1386,erkennen::V,känna igen,شناختن
+1387,erkennen::V,känna igen,تشخیص دادن
+1388,begreifen::V,begripa,فهمیدن
+1389,begreifen::V,begripa,درک کردن
+1390,verstehen::V,förstå,فهمیدن
+1391,lernen::V,lära sig,آموختن
+1392,lernen::V,lära sig,یاد گرفتن
+1393,wissen::V,veta,دانستن
+1394,sich erinnern an::V,minnas,به یاد آوردن
+1395,sich erinnern an::V,komma ihåg,به یاد آوردن
+1396,vergessen::V,glömma,فراموش کردن
+1397,messen::V,mäta,اندازه گرفتن
+1398,zählen::V,räkna,شمردن
+1399,rechnen::V,räkna,حساب کردن
+1400,lesen::V,läsa,خواندن
+1401,malen::V,måla,نقاشی کردن
+1402,zeichnen::V,teckna,کشیدن
+1403,zeichnen::V,teckna,رسم کردن
+1404,schreiben::V,skriva,نوشتن
+1405,besitzen::V,äga,داشتن
+1406,besitzen::V,besitta,داشتن
+1407,kaufen::V,köpa,خریدن
+1408,kaufen::V,köpa,خرید کردن
+1409,verkaufen::V,sälja,فروختن
+1410,bezahlen::V,betala,پرداختن
+1411,zahlen::V,betala,پرداخت کردن
+1412,beherrschen::V,behärska,مسلط بودن
+1413,ertragen::V,tåla,تحمل کردن
+1414,ertragen::V,uthärda,تحمل کردن

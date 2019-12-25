@@ -1,0 +1,1603 @@
+,Concept_ID,ro,tr
+0,Auge::N,ochi,göz
+1,Ohr::N,ureche,kulak
+2,Nase::N,nas,burun
+3,Mund::N,gură,ağız
+4,Zahn::N,dinte,diş
+5,Zunge::N,limbă,dil
+6,Lippe::N,buză,dudak
+7,Wange::N,bucă,yanak
+8,Wange::N,obraz,yanak
+9,Gesicht::N,față,yüz
+10,Gesicht::N,figură,yüz
+11,Stirn::N,frunte,alın
+12,Haar::N,păr,saç
+13,Schnurrbart::N,mustață,bıyık
+14,Bart::N,barbă,sakal
+15,Kinn::N,bărbie,çene
+16,Kiefer[Anatomie]::N,falcă,çene
+17,Kehle::N,beregată,boğaz
+18,Hals::N,gât,boyun
+19,Hals::N,gât,gerdan
+20,Genick::N,ceafă,ense
+21,Kopf::N,cap,baş
+22,Kopf::N,cap,kafa
+23,Rücken::N,dos,arka
+24,Rücken::N,spate,arka
+25,Rücken::N,spinare,arka
+26,Bauch::N,burtă,karın
+27,Bauch::N,pântece,karın
+28,Nabel::N,buric,göbek
+29,Busen::N,sân,koyun
+30,Brust::N,piept,göğüs
+31,Schulter::N,umăr,omuz
+32,Schulter::N,spate,omuz
+33,Arm::N,braț,kol
+34,Ellenbogen::N,cot,dirsek
+35,Hand::N,mână,el
+36,Handfläche::N,palmă,avuç
+37,Handfläche::N,palmă,el ayası
+38,Finger::N,deget,parmak
+39,Fingernagel::N,unghie,el tırnağı
+40,Nagel[Anatomie]::N,unghie,tırnak
+41,Zeh::N,deget de la picior,ayak parmağı
+42,Fuß::N,picior,ayak
+43,Ferse::N,călcâi,topuk
+44,Knie::N,genunchi,diz
+45,Oberschenkel::N,coapsă,uyluk
+46,Bein::N,picior,bacak
+47,Körper::N,corp,vücut
+48,Haut::N,piele,cilt
+49,Blut::N,sânge,kan
+50,Ader::N,vână,damar
+51,Ader::N,arteră,damar
+52,Sehne::N,tendon,kiriş
+53,Knochen::N,os,kemik
+54,Gehirn::N,creier,beyin
+55,Herz::N,inimă,kalp
+56,Herz::N,inimă,yürek
+57,Magen::N,stomac,mide
+58,Leber::N,ficat,karaciğer
+59,Atem::N,răsuflare,nefes
+60,Atem::N,respirație,nefes
+61,Hunger::N,foame,açlık
+62,Träne::N,lacrimă,gözyaşı
+63,Geschmack::N,gust,tat
+64,Geschmack::N,gust,lezzet
+65,Geruch::N,miros,koku
+66,Schlaf::N,somn,uyku
+67,Traum::N,vis,düş
+68,Traum::N,vis,rüya
+69,Himmel::N,cer,gök
+70,Sonne::N,soare,güneş
+71,Mond::N,lună,ay
+72,Stern::N,stea,yıldız
+73,Luft::N,aer,hava
+74,Wind::N,vânt,yel
+75,Wind::N,vânt,rüzgâr
+76,Welle::N,val,dalga
+77,Welle::N,undă,dalga
+78,Wasser::N,apă,su
+79,Stein::N,piatră,taş
+80,Boden::N,sol,yer
+81,Boden::N,sol,zemin
+82,Boden::N,pământ,yer
+83,Boden::N,pământ,zemin
+84,Erde::N,pământ,toprak
+85,Staub::N,praf,toz
+86,Rauch::N,fum,duman
+87,Funke::N,scânteie,kıvılcım
+88,Feuer::N,foc,ateş
+89,Licht::N,lumină,ışık
+90,Schatten::N,umbră,gölge
+91,Wetter::N,timp,hava
+92,Wetter::N,vreme,hava
+93,Nebel::N,ceață,pus
+94,Nebel::N,negură,pus
+95,Wolke::N,nor,bulut
+96,Regen::N,ploaie,yağmur
+97,Schnee::N,zăpadă,kar
+98,Eis::N,gheață,buz
+99,Frost::N,ger,don
+100,Kälte::N,frig,soğukluk
+101,Hitze::N,arșiță,sıcaklık
+102,Hitze::N,căldură,sıcaklık
+103,Raureif::N,chiciură,kırç
+104,Regenbogen::N,curcubeu,gökkuşağı
+105,Donner::N,tunet,gök gürlemesi
+106,Strömung::N,curent,akıntı
+107,Strömung::N,curent,cereyan
+108,Tropfen::N,picătură,damla
+109,Schaum::N,spumă,köpük
+110,Schmutz::N,murdărie,çamur
+111,Schmutz::N,murdărie,pislik
+112,See::N,lac,göl
+113,Sumpf::N,mlaștină,batak
+114,Moor::N,bărăgan,cılgıt
+115,Wiese::N,fânaț,çimen
+116,Wiese::N,livadă,çimen
+117,Wald::N,codru,koru
+118,Wald::N,codru,orman
+119,Wald::N,pădure,koru
+120,Wald::N,pădure,orman
+121,Hügel::N,deal,tepe
+122,Hügel::N,movilă,tepe
+123,Anhöhe::N,deal,tümsek
+124,Anhöhe::N,deal,yükseklik
+125,Anhöhe::N,ridicătură,tümsek
+126,Anhöhe::N,ridicătură,yükseklik
+127,Berg::N,munte,dağ
+128,Gipfel::N,pisc,zirve
+129,Höhle::N,peșteră,in
+130,Höhle::N,peșteră,mağara
+131,Abhang::N,pantă,bayır
+132,Abhang::N,versant,bayır
+133,Quelle::N,izvor,pınar
+134,Quelle::N,izvor,kaynak
+135,Bach::N,gârlă,çay
+136,Bach::N,gârlă,dere
+137,Fluss::N,râu,nehir
+138,Fluss::N,fluviu,nehir
+139,Ufer::N,mal,kıyı
+140,Ufer::N,mal,sahil
+141,Ufer::N,țărm,kıyı
+142,Ufer::N,țărm,sahil
+143,Küste::N,coastă,kıyı
+144,Küste::N,coastă,sahil
+145,Festland::N,uscat,kara
+146,Meer::N,mare,deniz
+147,Bucht::N,golf,koy
+148,Bucht::N,golf,körfez
+149,Insel::N,insulă,ada
+150,Blume::N,floare,çiçek
+151,Gras::N,iarbă,ot
+152,Gras::N,iarbă,çim
+153,Wurzel::N,rădăcină,kök
+154,Baum::N,copac,ağaç
+155,Baum::N,arbore,ağaç
+156,Stamm::N,tulpină,gövde
+157,Rinde::N,scoarță,kabuk
+158,Ast::N,cracă,dal
+159,Ast::N,cracă,budak
+160,Ast::N,creangă,dal
+161,Ast::N,creangă,budak
+162,Zweig::N,ramură,dal
+163,Zweig::N,creangă,dal
+164,Blatt::N,frunză,yaprak
+165,Birke::N,mesteacăn,huş
+166,Kiefer[Baum]::N,pin,çam
+167,Weide[Baum]::N,salcie,söğüt
+168,Weide[Baum]::N,răchită,söğüt
+169,Tanne::N,brad,çam
+170,Tanne::N,brad,köknar
+171,Horn::N,corn,boynuz
+172,Feder::N,pană,tüy
+173,Fell::N,piele,post
+174,Flügel::N,aripă,kanat
+175,Klaue::N,gheară,pençe
+176,Kralle::N,labă,tırnak
+177,Kralle::N,gheară,tırnak
+178,Schwanz::N,coadă,kuyruk
+179,Ei::N,ou,yumurta
+180,Nest::N,cuib,yuva
+181,Bau::N,bârlog,in
+182,Bau::N,vizuină,in
+183,Tier::N,animal,hayvan
+184,Herde::N,turmă,sürü
+185,Herde::N,cireadă,sürü
+186,Kuh::N,vacă,inek
+187,Bulle::N,taur,boğa
+188,Pferd::N,cal,at
+189,Pferd::N,cal,beygir
+190,Schaf::N,oaie,koyun
+191,Schwein::N,porc,domuz
+192,Hund::N,câine,it
+193,Hund::N,câine,köpek
+194,Katze::N,pisică,kedi
+195,Bär::N,urs,ayı
+196,Eichhörnchen::N,veveriță,sincap
+197,Elch::N,elan,büyük kuzey geyiği
+198,Fuchs::N,vulpe,tilki
+199,Hase::N,iepure,tavşan
+200,Maus::N,șoarece,fare
+201,Maus::N,șoarece,sıçan
+202,Wolf::N,lup,kurt
+203,Vogel::N,pasăre,kuş
+204,Schwarm::N,cârd,sürü
+205,Huhn::N,găină,tavuk
+206,Hahn::N,cocoș,horoz
+207,Gans::N,gâscă,kaz
+208,Adler::N,vultur,kartal
+209,Adler::N,vultur,karakuş
+210,Ente::N,rață,ördek
+211,Eule::N,bufniță,baykuş
+212,Kranich::N,cocor,turna
+213,Krähe::N,cioară,karga
+214,Kuckuck::N,cuc,guguk
+215,Schwan::N,lebădă,kuğu
+216,Fisch::N,pește,balık
+217,Barsch::N,biban,hani
+218,Barsch::N,biban,levrek
+219,Hecht::N,știucă,turnabalığı
+220,Schlange[Tier]::N,șarpe,yılan
+221,Wurm::N,vierme,kurt
+222,Wurm::N,vierme,solucan
+223,Spinne::N,păianjen,örümcek
+224,Ameise::N,furnică,karınca
+225,Laus::N,păduche,bit
+226,Mücke::N,țânțar,sivrisinek
+227,Fliege::N,muscă,sinek
+228,Schmetterling::N,fluture,kelebek
+229,Beere::N,boabă,tane
+230,Apfel::N,măr,elma
+231,Pilz::N,burete,mantar
+232,Pilz::N,ciupercă,mantar
+233,Zwiebel::N,ceapă,soğan
+234,Saat::N,semănătură,ekin
+235,Korn::N,grâu,tane
+236,Heu::N,fân,kuru ot
+237,Schale::N,coajă,kabuk
+238,Grube::N,groapă,çukur
+239,Falle::N,cursă,tuzak
+240,Falle::N,capcană,tuzak
+241,Schlinge::N,laț,ilmik
+242,Spur::N,dâră,iz
+243,Asche::N,cenușă,kül
+244,Dreck::N,noroi,pislik
+245,Dreck::N,murdărie,pislik
+246,Eisen::N,fier,demir
+247,Gold::N,aur,altın
+248,Silber::N,argint,gümüş
+249,Kohle::N,cărbune,kömür
+250,Glas::N,sticlă,cam
+251,Lehm::N,lut,balçık
+252,Lehm::N,humă,balçık
+253,Sand::N,nisip,kum
+254,Mensch::N,om,insan
+255,Mensch::N,persoană,insan
+256,Mann::N,om,adam
+257,Mann::N,om,erkek
+258,Mann::N,bărbat,adam
+259,Mann::N,bărbat,erkek
+260,Frau::N,femeie,bayan
+261,Kind::N,copil,çocuk
+262,Junge::N,băiat,erkek çocuk
+263,Junge::N,flăcău,erkek çocuk
+264,Mädchen::N,fată,kız
+265,Familie::N,familie,aile
+266,Großvater::N,bunic,dede
+267,Großvater::N,bunic,büyükbaba
+268,Großvater::N,tată mare,dede
+269,Großvater::N,tată mare,büyükbaba
+270,Großmutter::N,bunică,nine
+271,Großmutter::N,bunică,büyükanne
+272,Großmutter::N,mamă mare,nine
+273,Großmutter::N,mamă mare,büyükanne
+274,Eltern::N,părinți,ebeveyn
+275,Eltern::N,părinți,ana baba
+276,Vater::N,tată,ata
+277,Vater::N,tată,baba
+278,Vater::N,părinte,ata
+279,Vater::N,părinte,baba
+280,Mutter::N,mamă,ana
+281,Mutter::N,mamă,anne
+282,Sohn::N,fiu,oğul
+283,Sohn::N,fecior,oğul
+284,Tochter::N,fiică,kız
+285,Tochter::N,fiică,kız evlât
+286,Bruder::N,frate,abi
+287,Bruder::N,frate,erkek kardeş
+288,Schwester::N,soră,abla
+289,Schwester::N,soră,kız kardeş
+290,Onkel::N,unchi,dayı
+291,Tante::N,mătușă,hala
+292,Tante::N,mătușă,teyze
+293,Ehemann::N,soț,koca
+294,Ehemann::N,bărbat,koca
+295,Ehefrau::N,soție,karı
+296,Freude::N,bucurie,neşe
+297,Freude::N,bucurie,sevinç
+298,Gelächter::N,râset,gülme
+299,Gelächter::N,râset,kahkaha
+300,Glück::N,fericire,mutluluk
+301,Kummer::N,mâhnire,dert
+302,Kummer::N,mâhnire,keder
+303,Wunsch::N,dorință,arzu
+304,Wunsch::N,dorință,istek
+305,Wunsch::N,deziderat,arzu
+306,Wunsch::N,deziderat,istek
+307,Lust::N,poftă,arzu
+308,Lust::N,poftă,heves
+309,Lust::N,înclinare,arzu
+310,Lust::N,înclinare,heves
+311,Geist::N,duh,tin
+312,Geist::N,minte,tin
+313,Geist::N,suflet,tin
+314,Gedanke::N,gând,fikir
+315,Gedanke::N,gând,düşünce
+316,Gedanke::N,cuget,fikir
+317,Gedanke::N,cuget,düşünce
+318,Gedächtnis::N,memorie,bellek
+319,Verstand::N,minte,zekâ
+320,Verstand::N,intelect,zekâ
+321,Sinn::N,sens,anlam
+322,Sinn::N,înțeles,anlam
+323,Grund::N,cauză,sebep
+324,Grund::N,pricină,sebep
+325,Wahrheit::N,adevăr,doğruluk
+326,Wahrheit::N,adevăr,gerçeklik
+327,Gespräch::N,convorbire,görüşme
+328,Gespräch::N,conversație,görüşme
+329,Märchen::N,basm,masal
+330,Märchen::N,poveste,masal
+331,Erzählung::N,poveste,öykü
+332,Erzählung::N,poveste,hikâye
+333,Nachricht::N,veste,haber
+334,Neuigkeit::N,noutate,haber
+335,Neuigkeit::N,actualitate,haber
+336,Name::N,nume,ad
+337,Name::N,nume,isim
+338,Rätsel::N,ghicitoare,bilmece
+339,Rede::N,discurs,söylev
+340,Rede::N,discurs,konuşma
+341,Sprache::N,limbă,dil
+342,Sprache::N,limbă,lisan
+343,Sprache::N,limbaj,dil
+344,Sprache::N,limbaj,lisan
+345,Stimme::N,glas,ses
+346,Wort::N,cuvânt,kelime
+347,Zeichen::N,semn,işaret
+348,Zeichen::N,semnal,işaret
+349,Ruf::N,chemare,çağırma
+350,Lärm::N,zgomot,şamata
+351,Lärm::N,zgomot,gürültü
+352,Lärm::N,tărăboi,şamata
+353,Lärm::N,tărăboi,gürültü
+354,Laut::N,sunet,ses
+355,Ton::N,ton,ses
+356,Lied::N,cântec,türkü
+357,Ruhe::N,odihnă,sakinlik
+358,Ruhe::N,liniște,sakinlik
+359,Leute::N,lume,halk
+360,Leute::N,lume,insanlar
+361,Leute::N,oameni,halk
+362,Leute::N,oameni,insanlar
+363,Volk::N,popor,ulus
+364,Volk::N,popor,millet
+365,Volk::N,națiune,ulus
+366,Volk::N,națiune,millet
+367,Arbeit::N,lucru,iş
+368,Arbeit::N,lucru,çalışma
+369,Gast::N,musafir,konuk
+370,Gast::N,musafir,misafir
+371,Geschenk::N,dar,hediye
+372,Geschenk::N,dar,armağan
+373,Geschenk::N,cadou,hediye
+374,Geschenk::N,cadou,armağan
+375,Spiel::N,joc,oyun
+376,Gesellschaft::N,societate,çevre
+377,Gesellschaft::N,societate,arkadaşlık
+378,Hilfe::N,ajutor,yardım
+379,Freund::N,amic,dost
+380,Freund::N,amic,arkadaş
+381,Freund::N,prieten,dost
+382,Freund::N,prieten,arkadaş
+383,Kamerad::N,tovarăș,arkadaş
+384,Angelegenheit::N,afacere,iş
+385,Angelegenheit::N,afacere,husus
+386,Anzahl::N,număr,sayı
+387,Anzahl::N,cantitate,sayı
+388,Art::N,fel,çeşit
+389,Art::N,specie,çeşit
+390,Stück::N,bucată,tane
+391,Stück::N,bucată,parça
+392,Teil::N,parte,kısım
+393,Teil::N,porție,kısım
+394,Hälfte::N,jumătate,yarı
+395,Kreis::N,cerc,daire
+396,Kreuz::N,cruce,haç
+397,Linie::N,linie,hat
+398,Linie::N,linie,çizgi
+399,Strich::N,linie,çizgi
+400,Strich::N,trăsătură,çizgi
+401,Abstand::N,distanță,aralık
+402,Abstand::N,depărtare,aralık
+403,Entfernung::N,distanță,mesafe
+404,Entfernung::N,distanță,uzaklık
+405,Entfernung::N,depărtare,mesafe
+406,Entfernung::N,depărtare,uzaklık
+407,Gegend::N,regiune,yöre
+408,Platz::N,loc,yer
+409,Ort::N,loc,yer
+410,Seite::N,latură,yan
+411,Seite::N,latură,taraf
+412,Mitte::N,centru,orta
+413,Mitte::N,centru,merkez
+414,Gegenstand::N,obiect,şey
+415,Sache::N,lucru,iş
+416,Sache::N,lucru,şey
+417,Sache::N,chestie,iş
+418,Sache::N,chestie,şey
+419,Rand::N,bordură,kenar
+420,Kante::N,muchie,kenar
+421,Kante::N,bordură,kenar
+422,Ecke::N,colț,köşe
+423,Spitze::N,vârf,uç
+424,Spitze::N,vârf,baş
+425,Spitze::N,creștet,uç
+426,Spitze::N,creștet,baş
+427,Ende::N,capăt,uç
+428,Loch::N,gaură,oyuk
+429,Loch::N,gaură,delik
+430,Winkel::N,colț,köşe
+431,Muster::N,desen,örnek
+432,Größe::N,mărime,büyüklük
+433,Länge::N,lungime,uzunluk
+434,Höhe::N,înălțime,yükseklik
+435,Gewicht::N,greutate,ağırlık
+436,Menge::N,cantitate,miktar
+437,Haufen::N,grămadă,küme
+438,Haufen::N,grămadă,yığın
+439,Reihe::N,șir,sıra
+440,Reihe::N,rând,sıra
+441,Boot::N,barcă,kayık
+442,Boot::N,barcă,sandal
+443,Boot::N,luntre,kayık
+444,Boot::N,luntre,sandal
+445,Ruder::N,vâslă,kürek
+446,Ruder::N,lopată,kürek
+447,Schlitten::N,sanie,kızak
+448,Ski::N,schi,kayak
+449,Lagerfeuer::N,foc de tabără,kamp ateşi
+450,Last::N,povară,yük
+451,Last::N,sarcină,yük
+452,Gang::N,mers,gidiş
+453,Gang::N,mers,yürüyüş
+454,Gang::N,umblet,gidiş
+455,Gang::N,umblet,yürüyüş
+456,Schritt::N,pas,adım
+457,Norden::N,nord,kuzey
+458,Norden::N,miazănoapte,kuzey
+459,Süden::N,sud,güney
+460,Süden::N,miazăzi,güney
+461,Westen::N,apus,batı
+462,Osten::N,est,doğu
+463,Osten::N,răsărit,doğu
+464,Holz::N,lemn,ağaç
+465,Holz::N,lemn,tahta
+466,Brett::N,scândură,tahta
+467,Platte::N,placă,levha
+468,Stütze::N,proptea,dayak
+469,Stütze::N,proptea,destek
+470,Stange::N,bară,çubuk
+471,Stange::N,prăjină,çubuk
+472,Stock::N,băț,sopa
+473,Stock::N,băț,değnek
+474,Stock::N,baston,sopa
+475,Stock::N,baston,değnek
+476,Stab::N,baston,sırık
+477,Stab::N,baston,baston
+478,Stab::N,prăjină,sırık
+479,Stab::N,prăjină,baston
+480,Rohr::N,tub,boru
+481,Rohr::N,țeavă,boru
+482,Haus::N,casă,ev
+483,Heim::N,casă,ev
+484,Heim::N,casă,yurt
+485,Heim::N,cămin,ev
+486,Heim::N,cămin,yurt
+487,Ofen::N,sobă,soba
+488,Fußboden::N,podea,taban
+489,Fußboden::N,podea,döşeme
+490,Fußboden::N,dușumea,taban
+491,Fußboden::N,dușumea,döşeme
+492,Tisch::N,masă,masa
+493,Stuhl::N,scaun,iskemle
+494,Stuhl::N,scaun,sandalye
+495,Wiege::N,leagăn,beşik
+496,Bett::N,pat,yatak
+497,Regal::N,rafturi,raf
+498,Kiste::N,ladă,sandık
+499,Kiste::N,cutie,sandık
+500,Fenster::N,fereastră,pencere
+501,Tür::N,ușă,kapı
+502,Tor::N,poartă,kapı
+503,Zaun::N,gard,çit
+504,Dach::N,acoperiș,dam
+505,Dach::N,acoperiș,çatı
+506,Leiter::N,scară,merdiven
+507,Besen::N,mătură,süpürge
+508,Spaten::N,cazma,bel
+509,Spaten::N,hârleț,bel
+510,Schaufel::N,lopată,kürek
+511,Gabel::N,furculiță,çatal
+512,Löffel::N,lingură,kaşık
+513,Messer::N,cuțit,bıçak
+514,Nagel::N,cui,çivi
+515,Netz::N,plasă,ağ
+516,Haken::N,cârlig,çengel
+517,Griff::N,mâner,kulp
+518,Griff::N,mâner,tutamak
+519,Schloss::N,lacăt,kilit
+520,Bild::N,tablou,imaj
+521,Bild::N,tablou,resim
+522,Bild::N,imagine,imaj
+523,Bild::N,imagine,resim
+524,Figur::N,chip,şekil
+525,Figur::N,chip,heykel
+526,Figur::N,figură,şekil
+527,Figur::N,figură,heykel
+528,Puppe::N,păpușă,kukla
+529,Beutel::N,pungă,kese
+530,Beutel::N,pungă,torba
+531,Beutel::N,săculeț,kese
+532,Beutel::N,săculeț,torba
+533,Bündel::N,mănunchi,deste
+534,Tasche::N,geantă,çanta
+535,Eimer::N,găleată,kova
+536,Deckel::N,capac,kapak
+537,Geschirr::N,vase,kap kacak
+538,Geschirr::N,tacâmuri,kap kacak
+539,Sack::N,sac,torba
+540,Tasse::N,ceașcă,fincan
+541,Topf::N,oală,tencere
+542,Kessel::N,cazan,kazan
+543,Kessel::N,căldare,kazan
+544,Essen::N,mâncare,yemek
+545,Nahrung::N,hrană,gıda
+546,Nahrung::N,hrană,besin
+547,Nahrung::N,aliment,gıda
+548,Nahrung::N,aliment,besin
+549,Speise::N,bucate,yemek
+550,Speise::N,fel de bucate,yemek
+551,Fleisch::N,carne,et
+552,Getreide::N,cereale,tahıl
+553,Getreide::N,cereale,hububat
+554,Brei::N,pireu,ezme
+555,Brot::N,pâine,ekmek
+556,Scheibe::N,felie,dilim
+557,Scheibe::N,bucată,dilim
+558,Fett::N,untură,yağ
+559,Fett::N,grăsime,yağ
+560,Butter::N,unt,tereyağı
+561,Öl::N,ulei,yağ
+562,Öl::N,ulei,akar yağ
+563,Salz::N,sare,tuz
+564,Suppe::N,supă,çorba
+565,Suppe::N,ciorbă,çorba
+566,Honig::N,miere,bal
+567,Milch::N,lapte,süt
+568,Tee::N,ceai,çay
+569,Leder::N,piele,deri
+570,Leder::N,piele,meşin
+571,Wolle::N,lână,yün
+572,Stoff::N,stofă,kumaş
+573,Nadel::N,ac,iğne
+574,Faden::N,ață,tire
+575,Faden::N,ață,iplik
+576,Knopf::N,buton,düğme
+577,Knoten::N,nod,düğüm
+578,Farbe::N,vopsea,boya
+579,Kleidung::N,haine,giyim
+580,Kleidung::N,îmbrăcăminte,giyim
+581,Hemd::N,cămașă,gömlek
+582,Kragen::N,guler,yaka
+583,Ärmel::N,mânecă,yen
+584,Ärmel::N,mânecă,elbise kolu
+585,Hose::N,pantaloni,pantolon
+586,Gürtel::N,cordon,kuşak
+587,Mütze::N,șapcă,bere
+588,Mütze::N,șapcă,kasket
+589,Schuh::N,gheată,kundura
+590,Schuh::N,gheată,ayakkabı
+591,Stiefel::N,cizmă,çizme
+592,Ring::N,inel,yüzük
+593,Ring::N,verigă,yüzük
+594,Band::N,panglică,bağ
+595,Band::N,panglică,şerit
+596,Band::N,șiret,bağ
+597,Band::N,șiret,şerit
+598,Kamm::N,pieptene,tarak
+599,Spiegel::N,oglindă,ayna
+600,Riemen::N,curea,kayış
+601,Schnur::N,funie,ip
+602,Schnur::N,funie,sicim
+603,Schnur::N,sfoară,ip
+604,Schnur::N,sfoară,sicim
+605,Leine::N,lesă,kayış
+606,Leine::N,curea,kayış
+607,Decke::N,pătură,örtü
+608,Decke::N,pătură,yorgan
+609,Kissen::N,pernă,yastık
+610,Tuch::N,batic,bez
+611,Handtuch::N,prosop,havlu
+612,Handtuch::N,ștergar,havlu
+613,Kraft::N,forță,güç
+614,Kraft::N,forță,kuvvet
+615,Kraft::N,putere,güç
+616,Kraft::N,putere,kuvvet
+617,Stärke::N,tărie,kuvvet
+618,Stärke::N,vigoare,kuvvet
+619,Gesundheit::N,sănătate,sağlık
+620,Krankheit::N,boală,hastalık
+621,Krankheit::N,maladie,hastalık
+622,Schmerz::N,durere,ağrı
+623,Schmerz::N,durere,sancı
+624,Wunde::N,rană,yara
+625,Fieber::N,febră,ateş
+626,Arznei::N,leac,ilâç
+627,Arznei::N,medicament,ilâç
+628,Brücke::N,pod,köprü
+629,Brücke::N,punte,köprü
+630,Brunnen::N,puț,kuyu
+631,Brunnen::N,puț,çeşme
+632,Weide::N,izlaz,otlak
+633,Weide::N,pășune,otlak
+634,Pfad::N,cărare,patika
+635,Pfad::N,cărare,keçiyolu
+636,Weg::N,drum,yol
+637,Straße::N,cale,yol
+638,Straße::N,cale,cadde
+639,Straße::N,stradă,yol
+640,Straße::N,stradă,cadde
+641,Dorf::N,sat,köy
+642,Stadt::N,oraș,kent
+643,Stadt::N,oraș,şehir
+644,Brief::N,scrisoare,mektup
+645,Buch::N,carte,kitap
+646,Buchstabe::N,literă,harf
+647,Buchstabe::N,caracter,harf
+648,Zeitung::N,ziar,gazete
+649,Zeitung::N,gazetă,gazete
+650,Leben::N,viață,hayat
+651,Tod::N,moarte,ölüm
+652,Grab::N,groapă,kabir
+653,Grab::N,mormânt,kabir
+654,Kirche::N,biserică,kilise
+655,Sünde::N,păcat,günah
+656,Gott::N,zeu,tanrı
+657,Arbeiter::N,muncitor,işçi
+658,Chef::N,șef,şef
+659,Chef::N,șef,müdür
+660,Meister::N,meșter,usta
+661,Meister::N,maestru,usta
+662,Arzt::N,medic,hekim
+663,Arzt::N,medic,doktor
+664,Arzt::N,doctor,hekim
+665,Arzt::N,doctor,doktor
+666,Lehrer::N,profesor,hoca
+667,Lehrer::N,profesor,öğretmen
+668,Lehrer::N,învățător,hoca
+669,Lehrer::N,învățător,öğretmen
+670,Geld::N,bani,para
+671,Geld::N,parale,para
+672,Geschäft::N,treabă,ticaret
+673,Geschäft::N,afacere,ticaret
+674,Laden::N,magazin,dükkân
+675,Laden::N,prăvălie,dükkân
+676,Preis::N,preț,fiyat
+677,Ware::N,marfă,mal
+678,Nutzen::N,folos,fayda
+679,Nutzen::N,profit,fayda
+680,Reichtum::N,avuție,servet
+681,Reichtum::N,avuție,zenginlik
+682,Reichtum::N,bogăție,servet
+683,Reichtum::N,bogăție,zenginlik
+684,Welt::N,lume,dünya
+685,Land::N,țară,ülke
+686,Staat::N,stat,devlet
+687,König::N,rege,kral
+688,Macht::N,putere,kudret
+689,Macht::N,putere,iktidar
+690,Macht::N,putință,kudret
+691,Macht::N,putință,iktidar
+692,Grenze::N,hotar,had
+693,Grenze::N,hotar,sınır
+694,Grenze::N,graniță,had
+695,Grenze::N,graniță,sınır
+696,Grenze::N,frontieră,had
+697,Grenze::N,frontieră,sınır
+698,Krieg::N,război,savaş
+699,Feind::N,dușman,düşman
+700,Gewalt::N,violență,zor
+701,Gewalt::N,violență,cebir
+702,Kampf::N,luptă,savaş
+703,Bogen[Waffe]::N,arc,yay
+704,Pfeil::N,săgeată,ok
+705,Gewehr::N,armă,tüfek
+706,Gewehr::N,pușcă,tüfek
+707,Fehler::N,eroare,hata
+708,Fehler::N,eroare,yanlış
+709,Fehler::N,greșeală,hata
+710,Fehler::N,greșeală,yanlış
+711,Lüge::N,minciună,yalan
+712,Schaden::N,daună,zarar
+713,Schaden::N,pagubă,zarar
+714,Unglück::N,nenorocire,felâket
+715,Unglück::N,nenorocire,talihsizlik
+716,Schuld::N,vină,suç
+717,Schuld::N,vină,kabahat
+718,Alter::N,etate,yaş
+719,Alter::N,vârstă,yaş
+720,Schluss::N,sfârșit,son
+721,Zeit::N,timp,zaman
+722,Zeit::N,vreme,zaman
+723,Tag::N,zi,gün
+724,Morgen::N,dimineață,sabah
+725,Mittag::N,prânz,öğle
+726,Mittag::N,amiază,öğle
+727,Abend::N,seară,akşam
+728,Nacht::N,noapte,gece
+729,Woche::N,săptămână,hafta
+730,Monat::N,lună,ay
+731,Jahr::N,an,yıl
+732,Jahr::N,an,sene
+733,Frühling::N,primăvară,ilkbahar
+734,Sommer::N,vară,yaz
+735,Herbst::N,toamnă,güz
+736,Herbst::N,toamnă,sonbahar
+737,Winter::N,iarnă,kış
+738,Januar::N,ianuarie,ocak
+739,Februar::N,februarie,şubat
+740,März::N,martie,mart
+741,April::N,aprilie,nisan
+742,Mai::N,mai,mayıs
+743,Juni::N,iunie,haziran
+744,Juli::N,iulie,temmuz
+745,August::N,august,ağustos
+746,September::N,septembrie,eylül
+747,Oktober::N,octombrie,ekim
+748,November::N,noiembrie,kasım
+749,Dezember::N,decembrie,aralık
+750,Montag::N,luni,pazartesi
+751,Dienstag::N,marți,salı
+752,Mittwoch::N,miercuri,çarşamba
+753,Donnerstag::N,joi,perşembe
+754,Freitag::N,vineri,cuma
+755,Samstag::N,sâmbătă,cumartesi
+756,Sonntag::N,duminică,pazar
+757,groß::A,mare,büyük
+758,klein::A,mic,ufak
+759,klein::A,mic,küçük
+760,lang::A,lung,uzun
+761,kurz::A,scurt,kısa
+762,breit::A,lat,enli
+763,breit::A,lat,geniş
+764,breit::A,larg,enli
+765,breit::A,larg,geniş
+766,schmal::A,strâmt,dar
+767,dicht::A,des,sık
+768,dicht::A,des,yoğun
+769,dick[Gegenstand]::A,gros,kalın
+770,dick[Gegenstand]::A,gros,iri
+771,dünn::A,subțire,ince
+772,fein::A,fin,ince
+773,fein::A,fin,narin
+774,fein::A,subțire,ince
+775,fein::A,subțire,narin
+776,fest::A,tare,sabit
+777,fest::A,tare,sağlam
+778,fest::A,solid,sabit
+779,fest::A,solid,sağlam
+780,flach::A,șes,düz
+781,flach::A,șes,yassı
+782,flach::A,plan,düz
+783,flach::A,plan,yassı
+784,glatt::A,lins,düz
+785,hart::A,dur,katı
+786,weich::A,moale,yumuşak
+787,rund::A,rotund,yuvarlak
+788,rund::A,circular,yuvarlak
+789,spitz::A,ascuțit,sivri
+790,scharf::A,tăios,keskin
+791,scharf::A,ascuțit,keskin
+792,stumpf::A,tocit,kör
+793,schwer::A,greu,ağır
+794,schön::A,frumos,güzel
+795,heiß::A,cald,kızgın
+796,heiß::A,fierbinte,kızgın
+797,warm::A,cald,sıcak
+798,warm::A,fierbinte,sıcak
+799,kalt::A,rece,soğuk
+800,kühl::A,rece,serin
+801,kühl::A,răcoros,serin
+802,frisch::A,răcoros,taze
+803,frisch::A,proaspăt,taze
+804,feucht::A,umed,nemli
+805,feucht::A,umed,rutubetli
+806,feucht::A,jilav,nemli
+807,feucht::A,jilav,rutubetli
+808,nass::A,ud,yaş
+809,nass::A,ud,ıslak
+810,trocken::A,sec,kuru
+811,trocken::A,uscat,kuru
+812,voll::A,plin,dolu
+813,voll::A,plin,dolmuş
+814,leer::A,gol,boş
+815,offen::A,deschis,açık
+816,geschlossen::A,închis,kapalı
+817,sauber::A,curat,pak
+818,sauber::A,curat,temiz
+819,schmutzig::A,murdar,pis
+820,schmutzig::A,murdar,kirli
+821,roh::A,crud,çiğ
+822,reif::A,copt,olgun
+823,lecker::A,gustos,lezzetli
+824,süß::A,dulce,tatlı
+825,süß::A,dulce,şekerli
+826,bitter::A,amar,acı
+827,sauer::A,acru,ekşi
+828,hell::A,clar,aydınlık
+829,hell::A,luminos,aydınlık
+830,dunkel::A,obscur,karanlık
+831,dunkel::A,întunecos,karanlık
+832,schwarz::A,negru,kara
+833,schwarz::A,negru,siyah
+834,weiß::A,alb,ak
+835,weiß::A,alb,beyaz
+836,rot::A,roșu,kırmızı
+837,gelb::A,galben,sarı
+838,blau::A,albastru,mavi
+839,grün::A,verde,yeşil
+840,grau::A,gri,boz
+841,grau::A,cenușiu,boz
+842,bunt::A,colorat,renkli
+843,billig::A,ieftin,ucuz
+844,teuer::A,scump,pahalı
+845,wertvoll::A,prețios,değerli
+846,blind::A,orb,kör
+847,taub::A,surd,sağır
+848,kräftig::A,tare,dinç
+849,kräftig::A,tare,kuvvetli
+850,kräftig::A,forte,dinç
+851,kräftig::A,forte,kuvvetli
+852,kräftig::A,robust,dinç
+853,kräftig::A,robust,kuvvetli
+854,stark::A,viguros,güçlü
+855,stark::A,viguros,kuvvetli
+856,stark::A,puternic,güçlü
+857,stark::A,puternic,kuvvetli
+858,schwach::A,slab,zayıf
+859,schwach::A,slab,güçsüz
+860,schwach::A,debil,zayıf
+861,schwach::A,debil,güçsüz
+862,fett::A,gras,şişman
+863,schlank::A,zvelt,narin
+864,hübsch::A,drăguț,güzel
+865,hübsch::A,drăguț,sevimli
+866,böse::A,rău,kötü
+867,böse::A,răutăcios,kötü
+868,dumm::A,nerod,aptal
+869,dumm::A,tâmpit,aptal
+870,faul::A,leneș,tembel
+871,fleißig::A,harnic,çalışkan
+872,fleißig::A,sârguincios,çalışkan
+873,geizig::A,calic,cimri
+874,geizig::A,zgârcit,cimri
+875,klug::A,isteț,zekî
+876,klug::A,isteț,akıllı
+877,klug::A,deștept,zekî
+878,klug::A,deștept,akıllı
+879,geschickt::A,dibaci,becerikli
+880,lieb::A,drag,sevimli
+881,lieb::A,iubit,sevimli
+882,lustig::A,vesel,neşeli
+883,sanft::A,blând,nazik
+884,sanft::A,blajin,nazik
+885,hungrig::A,flămând,aç
+886,krank::A,bolnav,hasta
+887,krank::A,bolnav,rahatsız
+888,nackt::A,gol,çıplak
+889,traurig::A,trist,kederli
+890,traurig::A,trist,üzüntülü
+891,traurig::A,mâhnit,kederli
+892,traurig::A,mâhnit,üzüntülü
+893,lebendig::A,viu,canlı
+894,gut::A,bun,iyi
+895,schlecht::A,rău,kötü
+896,schlecht::A,prost,kötü
+897,richtig::A,drept,doğru
+898,richtig::A,corect,doğru
+899,schlimm::A,rău,kötü
+900,wahr::A,adevărat,doğru
+901,wahr::A,adevărat,gerçek
+902,alt::A,uzat,eski
+903,alt::A,vechi,eski
+904,neu::A,nou,yeni
+905,ehemalig::A,fost,önceki
+906,ehemalig::A,anterior,önceki
+907,alt[Lebewesen]::A,bătrîn,yaşlı
+908,jung::A,tânăr,genç
+909,arm::A,sărac,fakir
+910,arm::A,sărman,fakir
+911,reich::A,avut,zengin
+912,reich::A,bogat,zengin
+913,bekannt::A,cunoscut,bilinen
+914,berühmt::A,renumit,ünlü
+915,berühmt::A,renumit,meşhur
+916,fremd::A,străin,yabancı
+917,verschieden::A,diferit,ayrı
+918,verschieden::A,diferit,farklı
+919,verschieden::A,deosebit,ayrı
+920,verschieden::A,deosebit,farklı
+921,nah::A,apropiat,yakın
+922,nah::A,apropiat,bitişik
+923,fern::A,departe,uzak
+924,linker::A,stâng,sol
+925,rechter::A,drept,sağ
+926,anderer::A,alt,diğer
+927,erster::A,prim,ilk
+928,erster::A,prim,birinci
+929,zweiter::A,al doilea,ikinci
+930,dritter::A,treilea,üçüncü
+931,letzter::A,final,son
+932,letzter::A,final,sonuncu
+933,allein::ADV,singur,yalnız
+934,allein::ADV,singur,tek başına
+935,auf einmal::ADV,dintrodată,birden
+936,zusammen::ADV,împreună,beraber
+937,zusammen::ADV,împreună,birlikte
+938,lange::ADV,îndelung,çok
+939,lange::ADV,îndelung,uzun
+940,lange::ADV,mult timp,çok
+941,lange::ADV,mult timp,uzun
+942,plötzlich::ADV,deodată,ansızın
+943,plötzlich::ADV,deodată,birdenbire
+944,plötzlich::ADV,pe neașteptate,ansızın
+945,plötzlich::ADV,pe neașteptate,birdenbire
+946,sofort::ADV,imediat,hemen
+947,sofort::ADV,imediat,derhal
+948,sofort::ADV,numaidecît,hemen
+949,sofort::ADV,numaidecît,derhal
+950,später::ADV,mai apoi,daha sonra
+951,später::ADV,mai târziu,daha sonra
+952,jetzt::ADV,acum,şimdi
+953,heute::ADV,azi,bugün
+954,heute::ADV,astăzi,bugün
+955,morgen::ADV,mâine,yarın
+956,bald::ADV,curând,yakında
+957,dann::ADV,apoi,sonra
+958,gestern::ADV,ieri,dün
+959,einst::ADV,odată,eskiden
+960,einst::ADV,odinioară,eskiden
+961,damals::ADV,atunci,o zamanlar
+962,damals::ADV,pe atunci,o zamanlar
+963,danach::ADV,după aceasta,sonradan
+964,danach::ADV,după aceasta,ondan sonra
+965,vorher::ADV,mai întâi,önce
+966,vorher::ADV,mai întâi,önceden
+967,vorher::ADV,în prealabil,önce
+968,vorher::ADV,în prealabil,önceden
+969,zuerst::ADV,întâi,ilk önce
+970,zuerst::ADV,în primul rând,ilk önce
+971,einmal::ADV,odată,bir defa
+972,manchmal::ADV,uneori,bazan
+973,manchmal::ADV,câteodată,bazan
+974,oft::ADV,des,sık sık
+975,oft::ADV,des,çok defa
+976,oft::ADV,deseori,sık sık
+977,oft::ADV,deseori,çok defa
+978,immer::ADV,mereu,daima
+979,immer::ADV,mereu,her zaman
+980,immer::ADV,întotdeauna,daima
+981,immer::ADV,întotdeauna,her zaman
+982,niemals::ADV,niciodată,asla değil
+983,niemals::ADV,niciodată,hiçbir zaman
+984,hier::ADV,aci,burada
+985,hier::ADV,aici,burada
+986,hierhin::ADV,încoace,buraya
+987,von hier::ADV,de aici,buradan
+988,dort::ADV,acolo,orada
+989,dort::ADV,acolo,şurada
+990,dorthin::ADV,dincolo,oraya
+991,dorthin::ADV,dincolo,şuraya
+992,geradeaus::ADV,drept înainte,doğru
+993,vorwärts::ADV,înainte,ileri
+994,rückwärts::ADV,îndărăt,geri
+995,zurück::ADV,înapoi,geriye
+996,unten::ADV,jos,aşağıda
+997,unten::ADV,dedesubt,aşağıda
+998,hinab::ADV,în jos,aşağıya
+999,hinab::ADV,de vale,aşağıya
+1000,oben::ADV,sus,yukarıda
+1001,oben::ADV,deasupra,yukarıda
+1002,hinauf::ADV,în sus,yukarı
+1003,hinauf::ADV,în sus,yukarıya
+1004,überall::ADV,peste tot,her yerde
+1005,überall::ADV,pretutindeni,her yerde
+1006,nicht::ADV,nu,-mi-
+1007,nicht::ADV,nu,değil
+1008,ein wenig::ADV,puțin,biraz
+1009,kaum::ADV,cu greu,dar
+1010,kaum::ADV,cu greu,hemen hemen değil
+1011,kaum::ADV,cu anevoie,dar
+1012,kaum::ADV,cu anevoie,hemen hemen değil
+1013,sehr::ADV,mult,pek
+1014,sehr::ADV,mult,gayet
+1015,sehr::ADV,foarte,pek
+1016,sehr::ADV,foarte,gayet
+1017,so::ADV,așa,öyle
+1018,so::ADV,așa,böyle
+1019,so::ADV,atât,öyle
+1020,so::ADV,atât,böyle
+1021,noch::ADV,încă,hâlâ
+1022,noch::ADV,încă,henüz
+1023,nur::ADV,doar,ancak
+1024,nur::ADV,doar,yalnız
+1025,schon::ADV,și,çoktan
+1026,schon::ADV,deja,çoktan
+1027,wieder::ADV,iar,tekrar
+1028,wieder::ADV,iar,yeniden
+1029,wieder::ADV,iarăși,tekrar
+1030,wieder::ADV,iarăși,yeniden
+1031,vergebens::ADV,în zadar,boşuna
+1032,vor::PRP,înainte de,önünde
+1033,hinter::PRP,după,arkasında
+1034,hinter::PRP,în spatele,arkasında
+1035,unter::PRP,sub,altında
+1036,durch::PRP,prin,sayesinde
+1037,durch::PRP,prin,ortasından
+1038,neben::PRP,lângă,yanında
+1039,neben::PRP,alături de,yanında
+1040,zwischen::PRP,între,arasında
+1041,zwischen::PRP,dintre,arasında
+1042,wegen::PRP,pentru,dolayı
+1043,dies::PRN,acesta,bu
+1044,das::PRN,asta,o
+1045,das::PRN,asta,şu
+1046,alles::PRN,tot,hepsi
+1047,alles::PRN,tot,her şey
+1048,ich::PRN,eu,ben
+1049,du::PRN,tu,sen
+1050,er::PRN,el,o
+1051,er::PRN,dânsul,o
+1052,wir::PRN,noi,biz
+1053,ihr::PRN,voi,siz
+1054,sie::PRN,ei,onlar
+1055,sie::PRN,dânșii,onlar
+1056,was::FPRN,ce,ne
+1057,wer::FPRN,cine,kim
+1058,wo::FADV,unde,nerede
+1059,wohin::FADV,încotro,nereye
+1060,wie::FADV,cum,nasıl
+1061,warum::FADV,de ce,neden
+1062,warum::FADV,pentru ce,neden
+1063,wieviel::FNUM,cât,kaç
+1064,wieviel::FNUM,cât,ne kadar
+1065,eins::NUM,unu,bir
+1066,zwei::NUM,doi,iki
+1067,drei::NUM,trei,üç
+1068,vier::NUM,patru,dört
+1069,fünf::NUM,cinci,beş
+1070,sechs::NUM,șase,altı
+1071,sieben::NUM,șapte,yedi
+1072,acht::NUM,opt,sekiz
+1073,neun::NUM,nouă,dokuz
+1074,zehn::NUM,zece,on
+1075,elf::NUM,unsprezece,on bir
+1076,zwölf::NUM,douăsprezece,on iki
+1077,zwanzig::NUM,douăzeci,yirmi
+1078,dreißig::NUM,treizeci,otuz
+1079,vierzig::NUM,patruzeci,kırk
+1080,fünfzig::NUM,cincizeci,elli
+1081,sechzig::NUM,șaizeci,altmış
+1082,siebzig::NUM,șaptezeci,yetmiş
+1083,achtzig::NUM,optzeci,seksen
+1084,neunzig::NUM,nouăzeci,doksan
+1085,hundert::NUM,sută,yüz
+1086,tausend::NUM,mie,bin
+1087,und::CNJ,și,ve
+1088,und::CNJ,și,ile
+1089,oder::CNJ,ori,ya
+1090,oder::CNJ,ori,yahut
+1091,stehen::V,sta,durmak
+1092,sitzen::V,ședea,oturmak
+1093,liegen::V,zăcea,yatmak
+1094,liegen::V,fi culcat,yatmak
+1095,hängen::V,atârna,asılı olmak
+1096,werden::V,deveni,olmak
+1097,werden::V,deveni,olunmak
+1098,werden::V,se face,olmak
+1099,werden::V,se face,olunmak
+1100,passieren::V,se întâmpla,olmak
+1101,beginnen::V,începe,başlamak
+1102,enden::V,se sfârși,bitmek
+1103,enden::V,se sfârși,sona ermek
+1104,enden::V,se termina,bitmek
+1105,enden::V,se termina,sona ermek
+1106,wechseln::V,se schimba,değişmek
+1107,aufgehen[Sonne]::V,răsări,doğmak
+1108,untergehen[Sonne]::V,apune,batmak
+1109,scheinen[Sonne]::V,străluci,parlamak
+1110,donnern::V,tuna,gök gürlemek
+1111,wehen::V,bate,esmek
+1112,strömen::V,curge în șiroaie,akmak
+1113,fließen::V,curge,akmak
+1114,sich drehen::V,se învârti,dönmek
+1115,schwanken::V,se clătina,sallanmak
+1116,schwingen::V,vibra,titremek
+1117,schwingen::V,flutura,titremek
+1118,fallen::V,cădea,düşmek
+1119,brennen::V,arde,yanmak
+1120,rauchen::V,fuma,tütmek
+1121,regnen::V,ploua,yağmak
+1122,gefrieren::V,îngheța,donmak
+1123,tauen::V,se dezgheța,erimek
+1124,schmelzen::V,se topi,erimek
+1125,trocknen::V,se usca,kurumak
+1126,sieden::V,fierbe,kaynamak
+1127,sieden::V,clocoti,kaynamak
+1128,faulen::V,se împuți,çürümek
+1129,verfaulen::V,putrezi,çürümek
+1130,reißen::V,se rupe,yırtılmak
+1131,reißen::V,se sfâșia,yırtılmak
+1132,versinken::V,se scufunda,batmak
+1133,vergehen::V,trece,geçmek
+1134,vergehen::V,se scurge,geçmek
+1135,erscheinen::V,apărea,görünmek
+1136,verschwinden::V,dispărea,kaybolmak
+1137,sinken::V,cădea,inmek
+1138,sinken::V,coborî,inmek
+1139,abnehmen::V,scădea,azalmak
+1140,abnehmen::V,descrește,azalmak
+1141,zunehmen::V,spori,artmak
+1142,zunehmen::V,spori,çoğalmak
+1143,zunehmen::V,crește,artmak
+1144,zunehmen::V,crește,çoğalmak
+1145,zunehmen::V,augmenta,artmak
+1146,zunehmen::V,augmenta,çoğalmak
+1147,steigen::V,urca,artmak
+1148,steigen::V,urca,yükselmek
+1149,wachsen::V,crește,büyümek
+1150,wachsen::V,crește,gelişmek
+1151,glänzen::V,luci,parlamak
+1152,glänzen::V,străluci,parlamak
+1153,funkeln::V,scânteia,parıldamak
+1154,lärmen::V,face larmă,gürültü yapmak
+1155,läuten::V,suna,çalmak
+1156,klingeln::V,suna,zil çalmak
+1157,klirren::V,zăngăni,şakırdamak
+1158,klirren::V,zăngăni,zangırdamak
+1159,brausen::V,vui,köpürmek
+1160,brausen::V,vui,kükremek
+1161,rauschen::V,vâjâi,fışırdamak
+1162,klingen::V,suna,tınlamak
+1163,bellen::V,lătra,havlamak
+1164,heulen::V,urla,ulumak
+1165,blasen::V,sufla,üflemek
+1166,pfeifen::V,fluiera,düdük çalmak
+1167,schreien::V,țipa,bağırmak
+1168,schreien::V,țipa,haykırmak
+1169,stöhnen::V,geme,inlemek
+1170,zittern::V,tremura,titremek
+1171,leben::V,trăi,yaşamak
+1172,leben::V,trăi,hayatta olmak
+1173,geboren werden::V,se naște,doğmak
+1174,atmen::V,respira,solunmak
+1175,atmen::V,respira,nefes almak
+1176,trinken::V,bea,içmek
+1177,essen::V,mânca,yemek
+1178,schlucken::V,înghiți,yutmak
+1179,müde werden::V,se obosi,yorulmak
+1180,einschlafen::V,adormi,uykuya dalmak
+1181,schlafen::V,dormi,uyumak
+1182,aufwachen::V,se deștepta,uyanmak
+1183,aufstehen::V,fi se scula,kalkmak
+1184,aufstehen::V,fi se scula,yataktan kalkmak
+1185,sich erholen::V,se relaxa,dinlenmek
+1186,sich erholen::V,se destinde,dinlenmek
+1187,krank werden::V,se îmbolnăvi,hastalanmak
+1188,krank sein::V,zăcea,hasta olmak
+1189,krank sein::V,fi bolnav,hasta olmak
+1190,schmerzen::V,durea,ağrımak
+1191,husten::V,tuși,öksürmek
+1192,genesen::V,se însănătoși,şifa bulmak
+1193,sterben::V,muri,ölmek
+1194,sterben::V,muri,vefat etmek
+1195,umkommen::V,pieri,ölmek
+1196,sich bewegen::V,se mișca,hareket etmek
+1197,sich rühren::V,se mișca,kımıldanmak
+1198,sich erheben::V,se ridica,kalkmak
+1199,sich erheben::V,se ridica,ayağa kalkmak
+1200,sich setzen::V,lua loc,oturmak
+1201,sich setzen::V,se așeza,oturmak
+1202,hinfallen::V,cădea jos,yere düşmek
+1203,laufen::V,merge,yürümek
+1204,laufen::V,merge pe jos,yürümek
+1205,schreiten::V,păși,yürümek
+1206,schreiten::V,păși,adım atmak
+1207,spazierengehen::V,se plimba,gezmek
+1208,spazierengehen::V,se plimba,dolaşmak
+1209,eilen::V,fi se grăbi,seğirtmek
+1210,sich beeilen::V,se grăbi,acele etmek
+1211,sausen::V,țâșni,hızla gitmek
+1212,rennen::V,fugi,koşmak
+1213,rennen::V,alerga,koşmak
+1214,springen::V,sări,atlamak
+1215,springen::V,sări,sıçramak
+1216,klettern::V,urca,tırmanmak
+1217,klettern::V,se cățăra,tırmanmak
+1218,schaukeln::V,legăna,sallanmak
+1219,kriechen::V,se târî,sürünmek
+1220,schwimmen::V,înota,yüzmek
+1221,tauchen::V,se scufunda,dalmak
+1222,rudern::V,vâsli,kürek çekmek
+1223,rudern::V,lopăta,kürek çekmek
+1224,fahren::V,merge,gitmek
+1225,fliegen::V,zbura,uçmak
+1226,gehen::V,merge,gitmek
+1227,weggehen::V,se duce,gitmek
+1228,abfahren::V,pleca,kalkmak
+1229,anhalten::V,se opri,durmak
+1230,hineingehen::V,intra,içeri girmek
+1231,eintreten::V,intra,girmek
+1232,kommen::V,veni,gelmek
+1233,ankommen::V,sosi,varmak
+1234,ankommen::V,ajunge,varmak
+1235,zurückkommen::V,se întoarce,dönmek
+1236,bleiben::V,rămâne,kalmak
+1237,warten::V,aștepta,beklemek
+1238,erwarten::V,aștepta,beklemek
+1239,suchen::V,căuta,aramak
+1240,finden::V,găsi,bulmak
+1241,versuchen::V,încerca,denemek
+1242,vorbereiten::V,pregăti,hazırlamak
+1243,lieben::V,iubi,sevmek
+1244,mögen::V,plăcea a,beğenmek
+1245,lachen::V,râde,gülmek
+1246,rühren::V,mișca,dokunmak
+1247,rühren::V,mișca,duygulandırmak
+1248,rühren::V,înduioșa,dokunmak
+1249,rühren::V,înduioșa,duygulandırmak
+1250,weinen::V,plânge,ağlamak
+1251,schimpfen::V,înjura,küfretmek
+1252,sich ärgern::V,se supăra,kızmak
+1253,sich fürchten::V,se teme,korkmak
+1254,sich fürchten::V,fi teamă a,korkmak
+1255,fürchten::V,se teme de,korkmak
+1256,fliehen::V,fugi,kaçmak
+1257,flüchten::V,evada,kaçmak
+1258,sehen::V,vedea,görmek
+1259,anschauen::V,privi,seyretmek
+1260,ansehen::V,privi,bakmak
+1261,hören::V,auzi,duymak
+1262,hören::V,auzi,işitmek
+1263,zuhören::V,asculta,dinlemek
+1264,probieren::V,gusta,denemek
+1265,probieren::V,gusta,tadına bakmak
+1266,riechen::V,mirosi,kokusunu almak
+1267,fühlen::V,simți,duymak
+1268,fühlen::V,simți,hissetmek
+1269,fühlen::V,resimți,duymak
+1270,fühlen::V,resimți,hissetmek
+1271,scheinen::V,părea,görünmek
+1272,zu sehen sein::V,se vedea,görünmek
+1273,vernehmen::V,auzi,haber almak
+1274,frieren::V,fi frig,üşümek
+1275,tun::V,face,etmek
+1276,tun::V,face,yapmak
+1277,können::V,ști,bilmek
+1278,können::V,putea,bilmek
+1279,wollen::V,dori,istemek
+1280,anfangen::V,începe,başlamak
+1281,beenden::V,sfârși,bitirmek
+1282,beenden::V,termina,bitirmek
+1283,aufhören::V,înceta,bitmek
+1284,gelingen::V,reuși,başarmak
+1285,gelingen::V,izbuti,başarmak
+1286,geraten::V,reuși,düşmek
+1287,öffnen::V,deschide,açmak
+1288,schließen::V,închide,kapamak
+1289,stellen::V,pune,koymak
+1290,stellen::V,așeza,koymak
+1291,setzen::V,pune,koymak
+1292,setzen::V,pune,oturtmak
+1293,setzen::V,așeza,koymak
+1294,setzen::V,așeza,oturtmak
+1295,legen::V,pune,koymak
+1296,legen::V,pune,yatırmak
+1297,berühren::V,atinge,dokunmak
+1298,verbinden::V,lega,bağlamak
+1299,verbinden::V,lega,birleştirmek
+1300,bedecken::V,acoperi,örtmek
+1301,bedecken::V,acoperi,kaplamak
+1302,aufhängen::V,atârna,asmak
+1303,aufhängen::V,spânzura,asmak
+1304,anzünden::V,aprinde,yakmak
+1305,anzünden::V,aprinde,ateşlemek
+1306,aufheben::V,ridica,kaldırmak
+1307,aufheben::V,lua de jos,kaldırmak
+1308,zurücklassen::V,lăsa,geride bırakmak
+1309,zurücklassen::V,lăsa în urmă,geride bırakmak
+1310,verlieren::V,pierde,yitirmek
+1311,verlieren::V,pierde,kaybetmek
+1312,fallen lassen::V,scăpa,düşürmek
+1313,fallen lassen::V,arunca,düşürmek
+1314,machen::V,face,yapmak
+1315,herstellen::V,fabrica,yapmak
+1316,herstellen::V,fabrica,imal etmek
+1317,herstellen::V,confecționa,yapmak
+1318,herstellen::V,confecționa,imal etmek
+1319,bauen::V,clădi,kurmak
+1320,bauen::V,clădi,inşa etmek
+1321,bauen::V,construi,kurmak
+1322,bauen::V,construi,inşa etmek
+1323,reparieren::V,repara,onarmak
+1324,reparieren::V,repara,tamir etmek
+1325,verbessern::V,ameliora,düzeltmek
+1326,verbessern::V,îmbunătăți,düzeltmek
+1327,ändern::V,schimba,değiştirmek
+1328,ändern::V,modifica,değiştirmek
+1329,graben::V,săpa,kazmak
+1330,beugen::V,curba,eğmek
+1331,biegen::V,îndoi,bükmek
+1332,biegen::V,încovoia,bükmek
+1333,drehen::V,învârti,çevirmek
+1334,drehen::V,învârti,döndürmek
+1335,wenden::V,întoarce,çevirmek
+1336,umdrehen::V,învârti,çevirmek
+1337,umdrehen::V,întoarce,çevirmek
+1338,heben::V,ridica,kaldırmak
+1339,hochheben::V,ridica,yukarı kaldırmak
+1340,ergreifen::V,lua,tutmak
+1341,ergreifen::V,lua,yakalamak
+1342,ergreifen::V,apuca,tutmak
+1343,ergreifen::V,apuca,yakalamak
+1344,halten::V,ține,tutmak
+1345,drücken::V,apăsa,sıkmak
+1346,drücken::V,strânge,sıkmak
+1347,schieben::V,împinge,itmek
+1348,schieben::V,împinge,sürmek
+1349,kratzen::V,zgâria,kaşımak
+1350,lecken::V,linge,yalamak
+1351,beißen::V,mușca,ısırmak
+1352,abreißen::V,rupe,koparmak
+1353,abreißen::V,smulge,koparmak
+1354,abschneiden::V,scurta,keserek ayırmak
+1355,binden::V,lega,bağlamak
+1356,stecken::V,pune,sokmak
+1357,brechen::V,rupe,kırmak
+1358,brechen::V,frânge,kırmak
+1359,klopfen::V,ciocăni,çalmak
+1360,hauen::V,lovi,vurmak
+1361,kleben::V,lipi,yapıştırmak
+1362,reiben::V,freca,ovmak
+1363,reiben::V,freca,sürtmek
+1364,reiben::V,fricționa,ovmak
+1365,reiben::V,fricționa,sürtmek
+1366,streichen::V,unge,sürmek
+1367,schleifen::V,ascuți,bilemek
+1368,schneiden::V,tăia,kesmek
+1369,rütteln::V,zgâlțâi,sallamak
+1370,schütteln::V,scutura,sarsmak
+1371,schütteln::V,scutura,çalkamak
+1372,schwenken::V,agita,sallamak
+1373,schütten::V,vărsa,dökmek
+1374,schütten::V,vărsa,akıtmak
+1375,füllen::V,umple,doldurmak
+1376,einwickeln::V,înveli,sarmak
+1377,einwickeln::V,înfășura,sarmak
+1378,tragen::V,căra,taşımak
+1379,schleppen::V,târî,sürüklemek
+1380,ziehen::V,trage,çekmek
+1381,aufbewahren::V,păstra,saklamak
+1382,aufbewahren::V,conserva,saklamak
+1383,werfen::V,arunca,atmak
+1384,fangen::V,prinde,tutmak
+1385,fangen::V,prinde,yakalamak
+1386,packen::V,apuca,tutmak
+1387,packen::V,apuca,yakalamak
+1388,verstecken::V,ascunde,saklamak
+1389,teilen::V,împărți,bölmek
+1390,teilen::V,împărți,ayırmak
+1391,schicken::V,trimite,yollamak
+1392,schicken::V,trimite,göndermek
+1393,bringen::V,aduce,getirmek
+1394,hinzufügen::V,adăuga,katmak
+1395,hinzufügen::V,adăuga,eklemek
+1396,bekommen::V,obține,almak
+1397,bekommen::V,obține,eline geçmek
+1398,bekommen::V,dobândi,almak
+1399,bekommen::V,dobândi,eline geçmek
+1400,erhalten::V,primi,almak
+1401,erhalten::V,căpăta,almak
+1402,nehmen::V,lua,almak
+1403,wählen::V,opta,seçmek
+1404,wählen::V,alege,seçmek
+1405,auswählen::V,selecta,seçmek
+1406,auswählen::V,selecta,ayırmak
+1407,bewahren::V,păstra,korumak
+1408,behindern::V,stingheri,engellemek
+1409,verderben::V,strica,bozmak
+1410,beschädigen::V,strica,zedelemek
+1411,beschädigen::V,strica,ziyan vermek
+1412,zerbrechen::V,rupe,kırmak
+1413,zerbrechen::V,frânge,kırmak
+1414,zerreißen::V,rupe,yırtmak
+1415,zerreißen::V,sfâșia,yırtmak
+1416,zerstören::V,distruge,yıkmak
+1417,zerstören::V,distruge,tahrip etmek
+1418,verbrennen::V,arde,yakmak
+1419,verbrennen::V,incendia,yakmak
+1420,geben::V,da,vermek
+1421,reichen::V,întinde,uzatmak
+1422,schenken::V,dărui,hediye etmek
+1423,versprechen::V,făgădui,vaat etmek
+1424,wünschen::V,ura,kutlamak
+1425,loben::V,lăuda,övmek
+1426,küssen::V,săruta,öpmek
+1427,wiegen::V,legăna,sallamak
+1428,zudecken::V,acoperi,örtmek
+1429,wecken::V,trezi,uyandırmak
+1430,wecken::V,deștepta,uyandırmak
+1431,zeigen::V,arăta,göstermek
+1432,führen::V,călăuzi,gezdirmek
+1433,führen::V,călăuzi,yol göstermek
+1434,lehren::V,preda,okutmak
+1435,lehren::V,preda,öğretmek
+1436,lehren::V,învăța,okutmak
+1437,lehren::V,învăța,öğretmek
+1438,unterrichten::V,învăța,öğretmek
+1439,unterrichten::V,instrui,öğretmek
+1440,aufziehen::V,crește,yetiştirmek
+1441,leiten::V,duce,yönetmek
+1442,leiten::V,duce,idare etmek
+1443,leiten::V,conduce,yönetmek
+1444,leiten::V,conduce,idare etmek
+1445,antreiben::V,împinge,teşvik etmek
+1446,antreiben::V,încuraja,teşvik etmek
+1447,lassen::V,pune pe să,-tırmak
+1448,einladen::V,invita,davet etmek
+1449,vereinigen::V,uni,birleştirmek
+1450,vereinigen::V,întruni,birleştirmek
+1451,besuchen::V,vizita,uğramak
+1452,besuchen::V,vizita,ziyaret etmek
+1453,besuchen::V,vizita,görmeye gitmek
+1454,besuchen::V,face o vizită,uğramak
+1455,besuchen::V,face o vizită,ziyaret etmek
+1456,besuchen::V,face o vizită,görmeye gitmek
+1457,treffen::V,întâlni,rastlamak
+1458,treffen::V,întâlni,isabet etmek
+1459,sich versammeln::V,se aduna,toplanmak
+1460,spielen::V,se juca,oynamak
+1461,singen::V,cânta,söylemek
+1462,singen::V,cânta,şarkı söylemek
+1463,tanzen::V,dansa,oynamak
+1464,tanzen::V,dansa,dans etmek
+1465,sich trennen::V,se separa,ayrılmak
+1466,sich trennen::V,se despărți,ayrılmak
+1467,verlassen::V,părăsi,bırakmak
+1468,verlassen::V,părăsi,terk etmek
+1469,verlassen::V,abandona,bırakmak
+1470,verlassen::V,abandona,terk etmek
+1471,retten::V,salva,kurtarmak
+1472,bewachen::V,păzi,gözetmek
+1473,schützen::V,ocroti,korumak
+1474,schützen::V,proteja,korumak
+1475,verteidigen::V,apăra,savunmak
+1476,sich schlagen::V,se bate,dövüşmek
+1477,schießen::V,trage,ateş etmek
+1478,siegen::V,birui,yenmek
+1479,siegen::V,învinge,yenmek
+1480,ärgern::V,supăra,kızdırmak
+1481,schlagen::V,lovi,dövmek
+1482,treten::V,călca,tepmek
+1483,stechen::V,înțepa,sokmak
+1484,stechen::V,înțepa,batırmak
+1485,stechen::V,împunge,sokmak
+1486,stechen::V,împunge,batırmak
+1487,stoßen::V,împinge,itmek
+1488,stehlen::V,fura,çalmak
+1489,stören::V,deranja,bozmak
+1490,stören::V,deranja,etkilemek
+1491,belästigen::V,importuna,rahatsız etmek
+1492,verbergen::V,ascunde,saklamak
+1493,täuschen::V,amăgi,aldatmak
+1494,betrügen::V,înșela,aldatmak
+1495,betrügen::V,înșela,dolandırmak
+1496,töten::V,omorî,öldürmek
+1497,wohnen::V,sta,oturmak
+1498,wohnen::V,locui,oturmak
+1499,arbeiten::V,lucra,çalışmak
+1500,sammeln::V,aduna,toplamak
+1501,sammeln::V,colecționa,toplamak
+1502,pflücken::V,culege,koparmak
+1503,jagen::V,vâna,avlanmak
+1504,fischen::V,pescui,balık tutmak
+1505,fassen::V,prinde,tutmak
+1506,fassen::V,prinde,yakalamak
+1507,hüten::V,paște,otlatmak
+1508,treiben::V,mână,gütmek
+1509,anbinden::V,lega,bağlamak
+1510,füttern::V,da de mâncare,beslemek
+1511,melken::V,mulge,sağmak
+1512,hacken::V,toca,yarmak
+1513,hacken::V,sparge,yarmak
+1514,gießen::V,uda,sulamak
+1515,reifen::V,pârgui,olgunlaşmak
+1516,zubereiten::V,găti,hazırlamak
+1517,kochen::V,găti,pişirmek
+1518,kochen::V,găti,kaynatmak
+1519,backen::V,coace,pişirmek
+1520,backen::V,coace,fırında pişirmek
+1521,braten::V,coace,kızartmak
+1522,umrühren::V,mesteca,karıştırmak
+1523,stricken::V,împleti,örmek
+1524,nähen::V,coase,dikmek
+1525,färben::V,vopsi,boyamak
+1526,färben::V,colora,boyamak
+1527,reinigen::V,curăți,temizlemek
+1528,waschen::V,spăla,yıkamak
+1529,abwischen::V,șterge,silmek
+1530,spülen::V,clăti,çalkamak
+1531,fegen::V,mătura,süpürmek
+1532,kehren::V,mătura,süpürmek
+1533,baden::V,se scălda,yıkanmak
+1534,baden::V,se scălda,banyo yapmak
+1535,sich waschen::V,se spăla,yıkanmak
+1536,ausziehen::V,și scoate,çıkarmak
+1537,anziehen::V,îmbrăca,giymek
+1538,sich anziehen::V,se îmbrăca,giyinmek
+1539,kämmen::V,pieptăna,taramak
+1540,schmücken::V,împodobi,süslemek
+1541,sagen::V,zice,demek
+1542,sagen::V,zice,söylemek
+1543,sagen::V,spune,demek
+1544,sagen::V,spune,söylemek
+1545,sprechen::V,vorbi,konuşmak
+1546,reden::V,vorbi,konuşmak
+1547,reden::V,discuta,konuşmak
+1548,sich unterhalten::V,conversa,sohbet etmek
+1549,sich unterhalten::V,sta de vorbă,sohbet etmek
+1550,fragen::V,întreba,sormak
+1551,bitten::V,ruga,dilemek
+1552,bitten::V,ruga,rica etmek
+1553,erzählen::V,spune,bahsetmek
+1554,erzählen::V,spune,hikâye etmek
+1555,erzählen::V,povesti,bahsetmek
+1556,erzählen::V,povesti,hikâye etmek
+1557,mitteilen::V,comunica,bildirmek
+1558,mitteilen::V,înștiința,bildirmek
+1559,nennen::V,numi,adlandırmak
+1560,nennen::V,chema,adlandırmak
+1561,rufen::V,chema,çağırmak
+1562,prahlen::V,se făli,övünmek
+1563,übersetzen::V,traduce,çevirmek
+1564,übersetzen::V,traduce,tercüme etmek
+1565,denken::V,gândi,düşünmek
+1566,glauben::V,crede,inanmak
+1567,glauben::V,crede,zannetmek
+1568,bemerken::V,observa,farkına varmak
+1569,erkennen::V,cunoaște,tanımak
+1570,erkennen::V,recunoaște,tanımak
+1571,begreifen::V,pricepe,anlamak
+1572,begreifen::V,pricepe,kavramak
+1573,begreifen::V,înțelege,anlamak
+1574,begreifen::V,înțelege,kavramak
+1575,verstehen::V,înțelege,duymak
+1576,verstehen::V,înțelege,anlamak
+1577,lernen::V,învăța,öğrenmek
+1578,wissen::V,ști,bilmek
+1579,sich erinnern an::V,a-și aminti de,hatırlamak
+1580,vergessen::V,uita,unutmak
+1581,messen::V,măsura,ölçmek
+1582,zählen::V,număra,saymak
+1583,rechnen::V,calcula,hesap etmek
+1584,lesen::V,citi,okumak
+1585,malen::V,picta,resmini yapmak
+1586,zeichnen::V,desena,çizmek
+1587,schreiben::V,scrie,yazmak
+1588,besitzen::V,avea,haiz olmak
+1589,besitzen::V,avea,sahip olmak
+1590,besitzen::V,poseda,haiz olmak
+1591,besitzen::V,poseda,sahip olmak
+1592,kaufen::V,cumpăra,almak
+1593,verkaufen::V,vinde,satmak
+1594,bezahlen::V,plăti,ödemek
+1595,bezahlen::V,achita,ödemek
+1596,zahlen::V,plăti,ödemek
+1597,beherrschen::V,stăpâni,hâkim olmak
+1598,ertragen::V,răbda,dayanmak
+1599,ertragen::V,răbda,katlanmak
+1600,ertragen::V,suporta,dayanmak
+1601,ertragen::V,suporta,katlanmak

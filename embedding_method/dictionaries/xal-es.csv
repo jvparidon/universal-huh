@@ -1,0 +1,1371 @@
+,Concept_ID,xal,es
+0,Auge::N,нүдн,ojo
+1,Ohr::N,чикн,oreja
+2,Nase::N,хамр,nariz
+3,Mund::N,амн,boca
+4,Zahn::N,шүдн,diente
+5,Zunge::N,келн,lengua
+6,Lippe::N,урл,labio
+7,Wange::N,халх,mejilla
+8,Gesicht::N,нүр,cara
+9,Stirn::N,маңна,frente
+10,Haar::N,үсн,cabello
+11,Schnurrbart::N,сахл,bigote
+12,Bart::N,сахл,barba
+13,Bart::N,өргнә сахл,barba
+14,Kinn::N,өргн,barbilla
+15,Kiefer[Anatomie]::N,өргн,mandíbula
+16,Kehle::N,хол,garganta
+17,Hals::N,күзүн,cuello
+18,Genick::N,гиҗг,nuca
+19,Genick::N,гиҗг,cerviz
+20,Kopf::N,толһа,cabeza
+21,Rücken::N,нурһн,espalda
+22,Bauch::N,гесн,vientre
+23,Nabel::N,киисн,ombligo
+24,Busen::N,көкн,pecho
+25,Brust::N,чееҗ,pecho
+26,Schulter::N,ээм,hombro
+27,Arm::N,һар,brazo
+28,Ellenbogen::N,тоха,codo
+29,Hand::N,баһлцг,mano
+30,Handfläche::N,альхн,palma
+31,Finger::N,хурһн,dedo
+32,Finger::N,һарин хурһн,dedo
+33,Fingernagel::N,хумсн,uña
+34,Nagel[Anatomie]::N,хумсн,uña
+35,Zeh::N,хурһн,dedo del pie
+36,Zeh::N,көлин хурһн,dedo del pie
+37,Fuß::N,тавг,pie
+38,Ferse::N,өскә,talón
+39,Knie::N,өвдг,rodilla
+40,Oberschenkel::N,һуй,muslo
+41,Bein::N,көл,pierna
+42,Körper::N,махмуд,cuerpo
+43,Haut::N,арсн,piel
+44,Blut::N,цусн,sangre
+45,Ader::N,судцн,vena
+46,Sehne::N,шүрүсн,tendón
+47,Knochen::N,ясн,hueso
+48,Gehirn::N,экн,cerebro
+49,Gehirn::N,экн,encéfalo
+50,Herz::N,зүркн,corazón
+51,Magen::N,гесн,estómago
+52,Leber::N,элкн,hígado
+53,Atem::N,әмсхл,aliento
+54,Hunger::N,харһнлһн,hambre
+55,Träne::N,нульмсн,lágrima
+56,Geschmack::N,амтн,gusto
+57,Geruch::N,үнр,olor
+58,Schlaf::N,нөр,sueño
+59,Traum::N,зүүдн,sueño
+60,Traum::N,зүүдн,ensueño
+61,Himmel::N,теңгр,cielo
+62,Sonne::N,нарн,sol
+63,Mond::N,сар,luna
+64,Stern::N,одн,estrella
+65,Luft::N,аһар,aire
+66,Wind::N,салькн,viento
+67,Welle::N,дольган,ola
+68,Welle::N,дольган,onda
+69,Wasser::N,усн,agua
+70,Stein::N,чолун,piedra
+71,Boden::N,Һазр,suelo
+72,Erde::N,Һазр,tierra
+73,Staub::N,тоосн,polvo
+74,Rauch::N,утан,humo
+75,Funke::N,очн,chispa
+76,Feuer::N,һал,fuego
+77,Licht::N,герл,luz
+78,Schatten::N,сүүдр,sombra
+79,Wetter::N,теңгр,tiempo
+80,Nebel::N,будн,niebla
+81,Wolke::N,үүлн,nube
+82,Regen::N,хур,lluvia
+83,Schnee::N,цасн,nieve
+84,Eis::N,мөсн,hielo
+85,Frost::N,киитн,helada
+86,Kälte::N,киитн,frío
+87,Hitze::N,халун,calor
+88,Raureif::N,цаң,escarcha
+89,Raureif::N,кирү,escarcha
+90,Regenbogen::N,солңһ,arco iris
+91,Donner::N,оһтрһун дун,trueno
+92,Strömung::N,урсхл,corriente
+93,Tropfen::N,дусал,gota
+94,Schaum::N,көөсн,espuma
+95,Schmutz::N,кир,suciedad
+96,See::N,нур,lago
+97,Sumpf::N,унул,pantano
+98,Moor::N,улм,turbera
+99,Wiese::N,хадлһн,prado
+100,Wiese::N,хадлһн,pradera
+101,Wald::N,ө-модн,bosque
+102,Hügel::N,толһа,colina
+103,Anhöhe::N,хамр,cerro
+104,Berg::N,уул,monte
+105,Berg::N,уул,montaña
+106,Gipfel::N,ора,cima
+107,Gipfel::N,ора,cumbre
+108,Höhle::N,хадин көндә,cueva
+109,Höhle::N,хадин көндә,caverna
+110,Abhang::N,ташу,cuesta
+111,Abhang::N,ташу,declive
+112,Quelle::N,булг,fuente
+113,Quelle::N,булг,manantial
+114,Bach::N,һооҗур,arroyo
+115,Fluss::N,һол,río
+116,Ufer::N,көвә,orilla
+117,Küste::N,көвә,costa
+118,Küste::N,теңгсин көвә,costa
+119,Festland::N,хүүрә һазр,tierra firme
+120,Meer::N,теңгс,mar
+121,Bucht::N,цекә,cala
+122,Bucht::N,цекә,bahía
+123,Bucht::N,теңгсин цекә,cala
+124,Bucht::N,теңгсин цекә,bahía
+125,Insel::N,арл,isla
+126,Blume::N,цецг,flor
+127,Gras::N,ноһан,hierba
+128,Wurzel::N,уңг,raíz
+129,Baum::N,модн,árbol
+130,Stamm::N,шилв,tronco
+131,Stamm::N,һол модн,tronco
+132,Rinde::N,көрсн,corteza
+133,Ast::N,ац,rama
+134,Zweig::N,ац,ramo
+135,Blatt::N,хамтхасн,hoja
+136,Birke::N,хусм модн,abedul
+137,Kiefer[Baum]::N,шар харһа,pino
+138,Weide[Baum]::N,удн,sauce
+139,Tanne::N,җөөлн цаһан модн,abeto
+140,Horn::N,өвр,asta
+141,Horn::N,өвр,cuerno
+142,Feder::N,өрвлг,pluma
+143,Fell::N,арсн,piel
+144,Flügel::N,җивр,ala
+145,Klaue::N,хумсн,garra
+146,Kralle::N,тавг,uña
+147,Kralle::N,тавг,garra
+148,Schwanz::N,сүл,cola
+149,Ei::N,өндгн,huevo
+150,Nest::N,үр,nido
+151,Bau::N,нүкн,madriguera
+152,Tier::N,мал,animal
+153,Herde::N,сүрг мал,rebaño
+154,Kuh::N,үкр,vaca
+155,Bulle::N,бух,toro
+156,Pferd::N,мөрн,caballo
+157,Schaf::N,хөн,oveja
+158,Schwein::N,һаха,cerdo
+159,Hund::N,ноха,perro
+160,Katze::N,мис,gato
+161,Bär::N,аю,oso
+162,Eichhörnchen::N,кермн,ardilla
+163,Elch::N,хандһа,alce
+164,Fuchs::N,арат,zorro
+165,Hase::N,туула,liebre
+166,Maus::N,хулһн,ratón
+167,Wolf::N,чон,lobo
+168,Vogel::N,шовун,ave
+169,Vogel::N,шовун,pájaro
+170,Schwarm::N,зел,bandada
+171,Huhn::N,така,gallina
+172,Hahn::N,эр така,gallo
+173,Gans::N,һалун,oca
+174,Gans::N,һалун,ganso
+175,Adler::N,һәрд,águila
+176,Ente::N,нуһсн,pato
+177,Eule::N,һурвлһ,lechuza
+178,Kranich::N,тоһрун,grulla
+179,Krähe::N,шаазһа,corneja
+180,Kuckuck::N,эргин хуцдг,cuco
+181,Schwan::N,хун,cisne
+182,Fisch::N,заһсн,pez
+183,Barsch::N,шүрг,perca
+184,Hecht::N,цурх,lucio
+185,Schlange[Tier]::N,моһа,serpiente
+186,Wurm::N,өтн,gusano
+187,Spinne::N,аралҗн,araña
+188,Ameise::N,шорһлҗн,hormiga
+189,Laus::N,бөөсн,piojo
+190,Mücke::N,бөкүн,mosquito
+191,Fliege::N,батхн,mosca
+192,Schmetterling::N,эрвәкә,mariposa
+193,Beere::N,бөөлҗрһн,baya
+194,Apfel::N,альмн,manzana
+195,Pilz::N,теңгрин ки,seta
+196,Pilz::N,теңгрин ки,hongo
+197,Zwiebel::N,мәңгрснә толһа,cebolla
+198,Saat::N,буудян экн,siembra
+199,Korn::N,экн,grano
+200,Heu::N,өвсн,heno
+201,Schale::N,хальсн,cáscara
+202,Grube::N,нүкн,foso
+203,Falle::N,урх,trampa
+204,Falle::N,хавх,trampa
+205,Schlinge::N,бүтү,lazo
+206,Spur::N,мөр,huella
+207,Asche::N,үмсн,ceniza
+208,Dreck::N,бальчг,suciedad
+209,Eisen::N,төмр,hierro
+210,Gold::N,алтн,oro
+211,Silber::N,мөңгн,plata
+212,Silber::N,цаһан мөңгн,plata
+213,Kohle::N,нүүрсн,carbón
+214,Glas::N,шил,vidrio
+215,Glas::N,шил,cristal
+216,Lehm::N,шавр,barro
+217,Sand::N,элсн,arena
+218,Mensch::N,күн,hombre
+219,Mensch::N,күн,ser humano
+220,Mensch::N,күмн,hombre
+221,Mensch::N,күмн,ser humano
+222,Mann::N,эр,hombre
+223,Frau::N,күүкд күн,mujer
+224,Kind::N,үрн,niño
+225,Junge::N,көвүн,chico
+226,Junge::N,көвүн,muchacho
+227,Mädchen::N,бичкн күүкн,chica
+228,Mädchen::N,бичкн күүкн,muchacha
+229,Familie::N,бүл,familia
+230,Großvater::N,өвк эцк,abuelo
+231,Großvater::N,наһц эцк,abuelo
+232,Großmutter::N,эмг эк,abuela
+233,Großmutter::N,наһц эк,abuela
+234,Eltern::N,эк эцк хойр,padres
+235,Vater::N,эцк,padre
+236,Mutter::N,эк,madre
+237,Sohn::N,көвүн,hijo
+238,Tochter::N,күүкн,hija
+239,Bruder::N,дү көвүн,hermano
+240,Schwester::N,эгч,hermana
+241,Schwester::N,дү күүкн,hermana
+242,Onkel::N,авһ,tío
+243,Onkel::N,наһцх,tío
+244,Tante::N,наһц эгч,tía
+245,Ehemann::N,залу,esposo
+246,Ehefrau::N,гергн,esposa
+247,Freude::N,байр,placer
+248,Freude::N,байр,alegría
+249,Gelächter::N,инәдн,risa
+250,Gelächter::N,инәдн,carcajada
+251,Glück::N,җирһл,felicidad
+252,Glück::N,сәәхн җирһл,felicidad
+253,Kummer::N,зовлң,pena
+254,Wunsch::N,дурн,deseo
+255,Lust::N,җилвтлһн,ganas
+256,Geist::N,зөрг,mente
+257,Geist::N,зөрг,espíritu
+258,Gedanke::N,ухан,idea
+259,Gedanke::N,ухан,pensamiento
+260,Gedächtnis::N,чееҗин тодлвр,memoria
+261,Verstand::N,ухан,razón
+262,Verstand::N,ухан,entendimiento
+263,Sinn::N,учр-утх,sentido
+264,Sinn::N,учр-утх,significado
+265,Grund::N,учр,causa
+266,Grund::N,шалтан,causa
+267,Wahrheit::N,үнн,verdad
+268,Gespräch::N,күүндвүр,conversación
+269,Märchen::N,тууль,cuento
+270,Erzählung::N,келвр,cuento
+271,Erzählung::N,келвр,narración
+272,Nachricht::N,медүллһн,mensaje
+273,Neuigkeit::N,зәңг,noticia
+274,Name::N,нерн,nombre
+275,Rätsel::N,тәәлвртә тууль,acertijo
+276,Rätsel::N,тәәлвртә тууль,adivinanza
+277,Rede::N,келлһн,discurso
+278,Sprache::N,келн,lengua
+279,Stimme::N,дун,voz
+280,Wort::N,үг,palabra
+281,Zeichen::N,темдг,señal
+282,Ruf::N,дуудлһн,llamada
+283,Lärm::N,шууган,ruido
+284,Lärm::N,шууган,barullo
+285,Laut::N,ә,sonido
+286,Ton::N,дун,tono
+287,Lied::N,дун,canción
+288,Ruhe::N,амулң,calma
+289,Ruhe::N,амулң,silencio
+290,Leute::N,әмтн,gente
+291,Volk::N,улс,pueblo
+292,Arbeit::N,көдлмш,trabajo
+293,Gast::N,гиич,huésped
+294,Gast::N,гиич,invitado
+295,Geschenk::N,белг,regalo
+296,Spiel::N,наадн,juego
+297,Gesellschaft::N,олн,compañía
+298,Hilfe::N,нөкд,ayuda
+299,Hilfe::N,нөкд,socorro
+300,Freund::N,иньг,amigo
+301,Kamerad::N,үр,camarada
+302,Kamerad::N,үр,compañero
+303,Angelegenheit::N,керг,asunto
+304,Anzahl::N,то,cantidad
+305,Art::N,зүүл,tipo
+306,Art::N,зүүл,clase
+307,Stück::N,хусг,pieza
+308,Teil::N,хүв,parte
+309,Hälfte::N,өрәл,mitad
+310,Kreis::N,төгрг,círculo
+311,Kreuz::N,кирс,cruz
+312,Linie::N,зурасн,línea
+313,Strich::N,татасн,raya
+314,Strich::N,татасн,trazo
+315,Abstand::N,зә,distancia
+316,Entfernung::N,һазр,distancia
+317,Gegend::N,һазр,región
+318,Gegend::N,һазр,comarca
+319,Platz::N,зә,espacio
+320,Ort::N,бәәрн,sitio
+321,Seite::N,тал,lado
+322,Seite::N,тал,costado
+323,Seite::N,хаҗу,lado
+324,Seite::N,хаҗу,costado
+325,Seite::N,хәврһ,lado
+326,Seite::N,хәврһ,costado
+327,Mitte::N,дунд,medio
+328,Mitte::N,дунд,centro
+329,Gegenstand::N,юмн,objeto
+330,Sache::N,юмн,cosa
+331,Rand::N,зах,borde
+332,Kante::N,ирмәг,borde
+333,Ecke::N,өнцг,esquina
+334,Spitze::N,үзүр,punta
+335,Ende::N,үзүр,cabo
+336,Ende::N,үзүр,extremo
+337,Loch::N,хаһрха,agujero
+338,Loch::N,хаһрха,abertura
+339,Winkel::N,булң,ángulo
+340,Muster::N,намч,dibujo
+341,Größe::N,кемҗән,tamaño
+342,Länge::N,ут,longitud
+343,Höhe::N,өндр,altura
+344,Höhe::N,өндр,altitud
+345,Gewicht::N,күнд,peso
+346,Gewicht::N,чиңнүр,peso
+347,Menge::N,ик,cantidad
+348,Haufen::N,ова,montón
+349,Reihe::N,зерг,fila
+350,Reihe::N,зерглән,fila
+351,Boot::N,оңһц,bote
+352,Boot::N,оңһц,barca
+353,Ruder::N,хәәв,remo
+354,Schlitten::N,цан,trineo
+355,Ski::N,лыҗ,esquí
+356,Lagerfeuer::N,костёр,hoguera
+357,Last::N,күнд,carga
+358,Gang::N,йовлһн,marcha
+359,Schritt::N,ишкм,paso
+360,Norden::N,ар үзг,norte
+361,Süden::N,өмн,sur
+362,Süden::N,өмн үзг,sur
+363,Westen::N,барун,oeste
+364,Westen::N,барун үзг,oeste
+365,Osten::N,зүн,este
+366,Osten::N,зүн үзг,este
+367,Holz::N,модн,madera
+368,Brett::N,харһа,tabla
+369,Platte::N,хавтха чолун,placa
+370,Platte::N,хавтха чолун,plancha
+371,Stütze::N,тулг,sostén
+372,Stütze::N,тулг,soporte
+373,Stange::N,уньн,vara
+374,Stange::N,уньн,percha
+375,Stock::N,модн,palo
+376,Stock::N,модн,bastón
+377,Stab::N,шуург,vara
+378,Stab::N,шуург,bastón
+379,Rohr::N,турва,tubo
+380,Haus::N,гер,casa
+381,Heim::N,гер-бул,hogar
+382,Ofen::N,беш,estufa
+383,Fußboden::N,девскр,suelo
+384,Tisch::N,ширә,mesa
+385,Stuhl::N,стул,silla
+386,Wiege::N,өлгә,cuna
+387,Wiege::N,дүүҗң,cuna
+388,Bett::N,орн,cama
+389,Bett::N,орндг,cama
+390,Regal::N,таг,estantería
+391,Regal::N,тәвц,estantería
+392,Kiste::N,яршг,caja
+393,Fenster::N,терз,ventana
+394,Tür::N,үүдн,puerta
+395,Tor::N,үүдн,puerta
+396,Tor::N,өргн үүдн,puerta
+397,Tor::N,хашан үүдн,puerta
+398,Zaun::N,хаша,valla
+399,Zaun::N,хаша,cercado
+400,Dach::N,деевр,techo
+401,Dach::N,деевр,tejado
+402,Leiter::N,шат,escalera
+403,Leiter::N,давшур,escalera
+404,Besen::N,сәвүр,escoba
+405,Spaten::N,күрз,pala
+406,Schaufel::N,совг,pala
+407,Schaufel::N,совг,paleta
+408,Gabel::N,серә,tenedor
+409,Löffel::N,ухр,cuchara
+410,Messer::N,утх,cuchillo
+411,Nagel::N,хадасн,clavo
+412,Netz::N,гөлм,red
+413,Haken::N,дегә,gancho
+414,Haken::N,дегә,corchete
+415,Griff::N,иш,asa
+416,Griff::N,иш,mango
+417,Griff::N,бәрүл,asa
+418,Griff::N,бәрүл,mango
+419,Schloss::N,оньс,cerradura
+420,Bild::N,зург,imagen
+421,Figur::N,фигур,figura
+422,Puppe::N,наадһа,muñeca
+423,Beutel::N,мишг,bolsa
+424,Bündel::N,багла,haz
+425,Bündel::N,боодһа,haz
+426,Tasche::N,сумк,bolso
+427,Eimer::N,суулһ,cubo
+428,Deckel::N,бүркәсн,tapa
+429,Deckel::N,бүркәсн,tapadera
+430,Geschirr::N,сав,vajilla
+431,Geschirr::N,сав-сарх,vajilla
+432,Sack::N,мишг,saco
+433,Tasse::N,ааһ,taza
+434,Topf::N,кастрюль,olla
+435,Topf::N,кастрюль,marmita
+436,Kessel::N,хәәсн,caldera
+437,Essen::N,зоогллһн,comida
+438,Nahrung::N,теҗәл,alimento
+439,Speise::N,хот,plato
+440,Fleisch::N,махн,carne
+441,Getreide::N,хот болҗ эдлгддг цецгүдтә урһмл,cereales
+442,Brei::N,хаш,puré
+443,Brei::N,хаш,papilla
+444,Brot::N,өдмг,pan
+445,Scheibe::N,зүсм,lonja
+446,Scheibe::N,зүсм,rebanada
+447,Fett::N,өөкн,grasa
+448,Butter::N,тосн,mantequilla
+449,Öl::N,тосн,aceite
+450,Salz::N,давсн,sal
+451,Suppe::N,шөлн,sopa
+452,Honig::N,бал,miel
+453,Milch::N,үсн,leche
+454,Tee::N,цә,té
+455,Leder::N,арсн,cuero
+456,Wolle::N,утцн,lana
+457,Wolle::N,эд,lana
+458,Stoff::N,эд,tela
+459,Stoff::N,эд,tejido
+460,Nadel::N,зүн,aguja
+461,Faden::N,утцн,hilo
+462,Knopf::N,товч,botón
+463,Knoten::N,зәңгдә,nudo
+464,Farbe::N,будг,pintura
+465,Kleidung::N,хувцн,ropa
+466,Kleidung::N,хувцн,vestidos
+467,Kleidung::N,хувц-хунр,ropa
+468,Kleidung::N,хувц-хунр,vestidos
+469,Hemd::N,киилг,camisa
+470,Kragen::N,зах,cuello
+471,Ärmel::N,ханцн,manga
+472,Hose::N,шалвур,pantalón
+473,Gürtel::N,бүс,cinturón
+474,Mütze::N,махла,gorro
+475,Schuh::N,башмгуд,zapato
+476,Stiefel::N,һосн,bota
+477,Ring::N,билцг,anillo
+478,Band::N,лент,cinta
+479,Kamm::N,сам,peine
+480,Spiegel::N,толь,espejo
+481,Riemen::N,бүс,correa
+482,Schnur::N,деесн,cuerda
+483,Leine::N,бурнтг,correa
+484,Leine::N,нохан көтлвр,correa
+485,Decke::N,көнҗл,manta
+486,Kissen::N,дер,almohada
+487,Tuch::N,альчур,pañuelo
+488,Handtuch::N,полотенц,toalla
+489,Handtuch::N,һар-нүүрин альчур,toalla
+490,Kraft::N,күчн,fuerza
+491,Stärke::N,чидл,fuerza
+492,Gesundheit::N,эрүл-менд,salud
+493,Krankheit::N,өвчн,enfermedad
+494,Schmerz::N,өвдлһн,dolor
+495,Wunde::N,шав,llaga
+496,Wunde::N,шав,herida
+497,Fieber::N,безг,fiebre
+498,Arznei::N,эм,medicina
+499,Arznei::N,эм,medicamento
+500,Brücke::N,тагт,puente
+501,Brunnen::N,худг,pozo
+502,Weide::N,малын идг,pasto
+503,Pfad::N,цувг,sendero
+504,Weg::N,хаалһ,camino
+505,Straße::N,зам,vía
+506,Straße::N,зам,carretera
+507,Dorf::N,хотн,aldea
+508,Dorf::N,хотн,pueblo
+509,Stadt::N,балһсн,ciudad
+510,Brief::N,бичг,carta
+511,Buch::N,дегтр,libro
+512,Buchstabe::N,үзг,letra
+513,Buchstabe::N,үзг,carácter
+514,Zeitung::N,газет,diario
+515,Zeitung::N,газет,periódico
+516,Leben::N,җирһл,vida
+517,Tod::N,үкл,muerte
+518,Tod::N,өңгрлһн,muerte
+519,Grab::N,оршалһна нүкн,tumba
+520,Grab::N,оршалһна нүкн,sepulcro
+521,Kirche::N,чонҗ,iglesia
+522,Sünde::N,нүл,pecado
+523,Sünde::N,килнц,pecado
+524,Gott::N,бурхн,dios
+525,Arbeiter::N,көдлмшч,obrero
+526,Arbeiter::N,көдлмшч,trabajador
+527,Chef::N,толһач,jefe
+528,Meister::N,урн,maestro
+529,Arzt::N,эмч,médico
+530,Lehrer::N,багш,profesor
+531,Geld::N,мөңгн,dinero
+532,Geschäft::N,көдлмш,negocio
+533,Laden::N,лавк,tienda
+534,Preis::N,үн,precio
+535,Ware::N,эд-тавр,mercancía
+536,Nutzen::N,олз,provecho
+537,Reichtum::N,зөөр,riqueza
+538,Welt::N,орчлң,mundo
+539,Welt::N,делкә,mundo
+540,Land::N,орн-нутг,país
+541,Staat::N,государств,Estado
+542,König::N,хан,rey
+543,Macht::N,йосн,poder
+544,Macht::N,йосн,potencia
+545,Grenze::N,меҗә,frontera
+546,Krieg::N,дән,guerra
+547,Feind::N,дәәсн,enemigo
+548,Gewalt::N,күч һарһлһн,violencia
+549,Kampf::N,ноолдан,lucha
+550,Kampf::N,ноолдан,combate
+551,Kampf::N,бәрлдлһн,lucha
+552,Kampf::N,бәрлдлһн,combate
+553,Bogen[Waffe]::N,саадг,arco
+554,Pfeil::N,сумн,flecha
+555,Gewehr::N,бу,fusil
+556,Gewehr::N,бу,escopeta
+557,Fehler::N,алдг,error
+558,Lüge::N,худл,mentira
+559,Schaden::N,хорлт,daño
+560,Unglück::N,гүрм,desgracia
+561,Schuld::N,гем,culpa
+562,Schuld::N,буру,culpa
+563,Alter::N,насн,edad
+564,Schluss::N,чилгч,fin
+565,Schluss::N,чилгч,final
+566,Zeit::N,цаг,tiempo
+567,Tag::N,өдр,día
+568,Morgen::N,өрүн,mañana
+569,Mittag::N,үд,mediodía
+570,Abend::N,асхн,noche
+571,Nacht::N,сө,noche
+572,Woche::N,долан хонг,semana
+573,Monat::N,сар,mes
+574,Jahr::N,җил,año
+575,Frühling::N,хавр,primavera
+576,Sommer::N,зун,verano
+577,Herbst::N,намр,otoño
+578,Winter::N,үвл,invierno
+579,Januar::N,январь,enero
+580,Februar::N,февраль,febrero
+581,März::N,март,marzo
+582,März::N,моһа сар,marzo
+583,April::N,апрель,abril
+584,Mai::N,май,mayo
+585,Juni::N,июнь,junio
+586,Juni::N,мөчн сар,junio
+587,Juli::N,июль,julio
+588,August::N,август,agosto
+589,September::N,һаха сар,septiembre
+590,Oktober::N,октябрь,octubre
+591,November::N,ноябрь,noviembre
+592,November::N,үкр сар,noviembre
+593,Dezember::N,бар сар,diciembre
+594,Montag::N,понедельник,lunes
+595,Dienstag::N,вторник,martes
+596,Mittwoch::N,среда,miércoles
+597,Mittwoch::N,үлмҗ өдр,miércoles
+598,Donnerstag::N,четверг,jueves
+599,Donnerstag::N,пүрвә өдр,jueves
+600,Freitag::N,пятниц,viernes
+601,Samstag::N,суббот,sábado
+602,Sonntag::N,нарн өдр,domingo
+603,Sonntag::N,воскресень,domingo
+604,groß::A,ик,grande
+605,klein::A,бичкн,pequeño
+606,lang::A,ут,largo
+607,kurz::A,оһтр,corto
+608,breit::A,өргн,ancho
+609,schmal::A,уутьхн,estrecho
+610,dicht::A,нигт,denso
+611,dick[Gegenstand]::A,зузан,grueso
+612,dünn::A,нимгн,fino
+613,dünn::A,нимгн,delgado
+614,fein::A,нәрхн,fino
+615,fein::A,нәрхн,delicado
+616,fest::A,бат,firme
+617,fest::A,бат,sólido
+618,flach::A,хавтха,plano
+619,glatt::A,тегш,liso
+620,glatt::A,тиньгр,liso
+621,hart::A,хату,duro
+622,weich::A,җөөлн,muelle
+623,weich::A,җөөлкн,muelle
+624,rund::A,төгрг,redondo
+625,spitz::A,шовһр,agudo
+626,spitz::A,шовһр,apuntado
+627,scharf::A,хурц,agudo
+628,scharf::A,хурц,afilado
+629,stumpf::A,мука,sin filo
+630,schwer::A,күнд,pesado
+631,schön::A,сәәхн,bello
+632,schön::A,сәәхн,hermoso
+633,heiß::A,халун,caluroso
+634,warm::A,дулан,cálido
+635,warm::A,дулан,caliente
+636,kalt::A,киитн,frío
+637,kühl::A,серүн,fresco
+638,frisch::A,серүн,fresco
+639,feucht::A,чиигтә,húmedo
+640,nass::A,чиигтә,mojado
+641,trocken::A,хагсу,seco
+642,voll::A,дүүрң,lleno
+643,leer::A,сул,vacío
+644,leer::A,хоосн,vacío
+645,offen::A,секәтә,abierto
+646,geschlossen::A,хаалһата,cerrado
+647,sauber::A,цевр,limpio
+648,schmutzig::A,киртә,sucio
+649,roh::A,түүкә,crudo
+650,reif::A,болсн,maduro
+651,lecker::A,әмтәхн,rico
+652,lecker::A,әмтәхн,sabroso
+653,süß::A,әмтәхн,dulce
+654,bitter::A,һашун,amargo
+655,bitter::A,һашута,amargo
+656,sauer::A,ишклң,agrio
+657,hell::A,герлтә,claro
+658,dunkel::A,харңһу,oscuro
+659,schwarz::A,хар,negro
+660,weiß::A,цаһан,blanco
+661,rot::A,улан,rojo
+662,gelb::A,шар,amarillo
+663,blau::A,көк,azul
+664,grün::A,көк,verde
+665,grau::A,бор,gris
+666,bunt::A,алг,multicolor
+667,bunt::A,эрәтә,multicolor
+668,billig::A,кимд,barato
+669,teuer::A,үнтә,caro
+670,wertvoll::A,үнтә,valioso
+671,wertvoll::A,үнтә,precioso
+672,wertvoll::A,эрднь,valioso
+673,wertvoll::A,эрднь,precioso
+674,blind::A,сохр,ciego
+675,taub::A,дүлә,sordo
+676,kräftig::A,күчтә,fuerte
+677,stark::A,чаңһ,fuerte
+678,stark::A,чаңһ,vigoroso
+679,schwach::A,күчн тату,débil
+680,fett::A,тарһн,obeso
+681,schlank::A,эццн,esbelto
+682,hübsch::A,көркхн,mono
+683,hübsch::A,көркхн,guapo
+684,böse::A,уурта,malo
+685,dumm::A,тенг,tonto
+686,dumm::A,тенг,estúpido
+687,faul::A,залху,vago
+688,faul::A,залху,perezoso
+689,fleißig::A,кинән,aplicado
+690,fleißig::A,кинән,diligente
+691,fleißig::A,кинмһә,aplicado
+692,fleißig::A,кинмһә,diligente
+693,geizig::A,ховдг,avaro
+694,klug::A,ухата,sensato
+695,klug::A,ухата,inteligente
+696,geschickt::A,чадмг,hábil
+697,lieb::A,эңкр,querido
+698,lustig::A,сергмҗтә,alegre
+699,lustig::A,җирһлтә,alegre
+700,sanft::A,номһн,suave
+701,hungrig::A,өлн,hambriento
+702,hungrig::A,харһнсн,hambriento
+703,krank::A,өвчтә,enfermo
+704,krank::A,шалтгта,enfermo
+705,nackt::A,нүцкн,desnudo
+706,traurig::A,һундлта,triste
+707,lebendig::A,әмд,vivo
+708,lebendig::A,әмд,viviente
+709,gut::A,сән,bueno
+710,schlecht::A,му,malo
+711,richtig::A,зөвтә,justo
+712,richtig::A,зөвтә,correcto
+713,schlimm::A,җигшүртә,malo
+714,schlimm::A,җигшүртә,grave
+715,wahr::A,үнн,verídico
+716,wahr::A,үнн,verdadero
+717,wahr::A,мөн,verídico
+718,wahr::A,мөн,verdadero
+719,alt::A,хуучн,viejo
+720,neu::A,шин,nuevo
+721,ehemalig::A,хуучн,antiguo
+722,alt[Lebewesen]::A,көгшн,viejo
+723,jung::A,баһ,joven
+724,arm::A,угатя,pobre
+725,reich::A,байн,rico
+726,bekannt::A,таньл,conocido
+727,bekannt::A,таньдг,conocido
+728,berühmt::A,туурсн,famoso
+729,berühmt::A,туурсн,célebre
+730,fremd::A,күүнә,extraño
+731,verschieden::A,әдл биш,diverso
+732,verschieden::A,әдл биш,distinto
+733,verschieden::A,әдл биш,diferente
+734,verschieden::A,йилһәтә,diverso
+735,verschieden::A,йилһәтә,distinto
+736,verschieden::A,йилһәтә,diferente
+737,nah::A,өөрхн,cercano
+738,fern::A,хол,lejano
+739,linker::A,зүн,izquierdo
+740,rechter::A,барун,derecho
+741,anderer::A,талдан,otro
+742,erster::A,негдгч,primero
+743,zweiter::A,хойрдгч,segundo
+744,dritter::A,һурвдгч,tercero
+745,letzter::A,отхн,último
+746,allein::ADV,һанцарн,a solo
+747,auf einmal::ADV,нег дәкҗ,de una vez
+748,zusammen::ADV,хамдан,juntos
+749,lange::ADV,удан,mucho tiempo
+750,plötzlich::ADV,генткн,de repente
+751,sofort::ADV,дарунь,en seguida
+752,später::ADV,сүүлд,más tarde
+753,jetzt::ADV,ода,ahora
+754,heute::ADV,эндр,hoy
+755,morgen::ADV,маңһдур,mañana
+756,bald::ADV,дарунь,pronto
+757,bald::ADV,дарунь,en breve
+758,dann::ADV,дәкәд,luego
+759,dann::ADV,дәкәд,entonces
+760,gestern::ADV,өцклдүр,ayer
+761,einst::ADV,нег саамд,antaño
+762,damals::ADV,тиигхд,entonces
+763,danach::ADV,тегәд,después
+764,vorher::ADV,урд,antes
+765,zuerst::ADV,түрүләд,primero
+766,einmal::ADV,нег дәкҗ,una vez
+767,manchmal::ADV,зәрмдән,a veces
+768,oft::ADV,хара биш,a menudo
+769,oft::ADV,хара биш,con frecuencia
+770,oft::ADV,хатяр биш,a menudo
+771,oft::ADV,хатяр биш,con frecuencia
+772,oft::ADV,дару-дарунь,a menudo
+773,oft::ADV,дару-дарунь,con frecuencia
+774,immer::ADV,оньдинд,siempre
+775,niemals::ADV,кезә чмгн биш,jamás
+776,hier::ADV,энд,aquí
+777,hier::ADV,энүнд,aquí
+778,hierhin::ADV,нааран,acá
+779,von hier::ADV,эндәс,desde aquí
+780,dort::ADV,тенд,ahí
+781,dort::ADV,тенд,allí
+782,dorthin::ADV,тиигән,allí
+783,dorthin::ADV,тиигән,hacia allí
+784,geradeaus::ADV,шуд,todo derecho
+785,vorwärts::ADV,уралан,adelante
+786,rückwärts::ADV,гедргән,hacia atrás
+787,zurück::ADV,хәрү,atrás
+788,unten::ADV,дор,abajo
+789,hinab::ADV,дор,hacia abajo
+790,hinab::ADV,доракшан,hacia abajo
+791,oben::ADV,деер,arriba
+792,hinauf::ADV,өөдән,hacia arriba
+793,hinauf::ADV,деер,hacia arriba
+794,überall::ADV,альд болв чигн,por todas partes
+795,nicht::ADV,эс,no
+796,nicht::ADV,биш,no
+797,nicht::ADV,бичә,no
+798,ein wenig::ADV,баахн,un poco
+799,ein wenig::ADV,баахнар,un poco
+800,kaum::ADV,әрә,apenas
+801,sehr::ADV,йир,muy
+802,sehr::ADV,йир,mucho
+803,so::ADV,иигҗ,tan
+804,noch::ADV,ода чигн,aún
+805,noch::ADV,ода чигн,todavía
+806,nur::ADV,һанцхн,solamente
+807,schon::ADV,одх,ya
+808,wieder::ADV,бас,de nuevo
+809,vergebens::ADV,киидән,en vano
+810,vor::PRP,урд,antes de
+811,vor::PRP,урд,delante de
+812,hinter::PRP,ца,tras
+813,hinter::PRP,ца,detrás de
+814,unter::PRP,дор,bajo
+815,unter::PRP,дор,debajo de
+816,durch::PRP,ивт,por
+817,durch::PRP,ивт,a través de
+818,durch::PRP,дундаһур,por
+819,durch::PRP,дундаһур,a través de
+820,neben::PRP,хаҗуд,al lado de
+821,zwischen::PRP,хоорнд,entre
+822,wegen::PRP,көлтә,por
+823,wegen::PRP,көлтә,a causa de
+824,wegen::PRP,деерәс,por
+825,wegen::PRP,деерәс,a causa de
+826,dies::PRN,эн,esto
+827,das::PRN,тер,eso
+828,das::PRN,тер,esto
+829,alles::PRN,цуһар,todo
+830,ich::PRN,би,yo
+831,du::PRN,чи,tú
+832,er::PRN,тер,él
+833,wir::PRN,мадн,nosotros
+834,ihr::PRN,та,vosotros
+835,sie::PRN,тедн,ellos
+836,was::FPRN,юн,qué
+837,wer::FPRN,кен,quién
+838,wo::FADV,хама,dónde
+839,wohin::FADV,хамаран,adónde
+840,wohin::FADV,хамаран,hacia dónde
+841,wie::FADV,яһҗ,cómo
+842,wie::FADV,яһад,cómo
+843,warum::FADV,юңгад,por qué
+844,wieviel::FNUM,кедү,cuánto
+845,eins::NUM,негн,uno
+846,zwei::NUM,хойр,dos
+847,drei::NUM,һурвн,tres
+848,vier::NUM,дөрвн,cuatro
+849,fünf::NUM,тавн,cinco
+850,sechs::NUM,зурһан,seis
+851,sieben::NUM,долан,siete
+852,acht::NUM,нәәмн,ocho
+853,neun::NUM,йисн,nueve
+854,zehn::NUM,арвн,diez
+855,elf::NUM,арвн негн,once
+856,zwölf::NUM,арвн хойр,doce
+857,zwanzig::NUM,хөрн,veinte
+858,dreißig::NUM,һучн,treinta
+859,vierzig::NUM,дөчн,cuarenta
+860,fünfzig::NUM,тәвн,cincuenta
+861,sechzig::NUM,җирн,sesenta
+862,siebzig::NUM,далн,setenta
+863,achtzig::NUM,найн,ochenta
+864,neunzig::NUM,йирн,noventa
+865,hundert::NUM,зун,cien
+866,hundert::NUM,зун,ciento
+867,tausend::NUM,миңһн,mil
+868,und::CNJ,болн,y
+869,oder::CNJ,эс гиҗ,o
+870,oder::CNJ,эс гихлә,o
+871,stehen::V,зогсх,estar de pie
+872,sitzen::V,суух,estar sentado
+873,liegen::V,кевтх,yacer
+874,liegen::V,кевтх,estar acostado
+875,hängen::V,өлгәтә бәәх,pender
+876,werden::V,болх,hacerse
+877,passieren::V,болх,suceder
+878,beginnen::V,эклх,iniciarse
+879,beginnen::V,эклх,principiar
+880,enden::V,төгсх,acabar
+881,enden::V,төгсх,terminar
+882,wechseln::V,хүврх,variar
+883,wechseln::V,хүврх,alternar
+884,aufgehen[Sonne]::V,һарх,salir
+885,untergehen[Sonne]::V,орх,ponerse
+886,untergehen[Sonne]::V,орх,descender
+887,untergehen[Sonne]::V,сүүрлх,ponerse
+888,untergehen[Sonne]::V,сүүрлх,descender
+889,scheinen[Sonne]::V,герлтх,brillar
+890,donnern::V,күрҗңнх,tronar
+891,wehen::V,сальклх,soplar
+892,strömen::V,һооҗх,afluir
+893,fließen::V,урсх,fluir
+894,fließen::V,урсх,correr
+895,sich drehen::V,эргх,girar
+896,schwanken::V,дәәвлх,vacilar
+897,schwingen::V,нәәхлх,oscilar
+898,fallen::V,унх,caer
+899,fallen::V,киисх,caer
+900,brennen::V,шатх,arder
+901,brennen::V,шатх,quemar
+902,rauchen::V,ута һарһх,humear
+903,rauchen::V,ута һарһх,echar humo
+904,regnen::V,орх,llover
+905,gefrieren::V,мөстх,helarse
+906,tauen::V,хәәлх,deshelarse
+907,schmelzen::V,хәәлх,fundirse
+908,schmelzen::V,хәәлх,derretirse
+909,schmelzen::V,хәәлгдх,fundirse
+910,schmelzen::V,хәәлгдх,derretirse
+911,trocknen::V,эврх,secarse
+912,sieden::V,буслх,hervir
+913,faulen::V,үмкәрх,pudrirse
+914,verfaulen::V,илҗрх,pudrirse
+915,reißen::V,тасрх,romperse
+916,versinken::V,чивх,hundirse
+917,vergehen::V,болх,pasar
+918,erscheinen::V,һарх,aparecer
+919,verschwinden::V,уга болх,desaparecer
+920,sinken::V,татгдх,bajar
+921,abnehmen::V,хасгдх,decrecer
+922,abnehmen::V,хасгдх,disminuir
+923,zunehmen::V,өсх,crecer
+924,zunehmen::V,өсх,aumentar
+925,steigen::V,немх,subir
+926,steigen::V,немх,ascender
+927,wachsen::V,өсх,crecer
+928,wachsen::V,урһх,crecer
+929,glänzen::V,гилвкх,brillar
+930,glänzen::V,гилвкх,resplandecer
+931,funkeln::V,цәклх,chispear
+932,lärmen::V,шууглдх,hacer ruido
+933,läuten::V,хоңх,sonar
+934,läuten::V,хоңх,repicar
+935,klingeln::V,җиңнулх,tocar el timbre
+936,klirren::V,җиңнх,tintinear
+937,brausen::V,догшрхх,zumbar
+938,rauschen::V,сарҗңнх,murmurar
+939,klingen::V,ә һарх,sonar
+940,bellen::V,хуцх,ladrar
+941,heulen::V,уульх,ulular
+942,blasen::V,үләх,soplar
+943,pfeifen::V,ишкрх,silbar
+944,schreien::V,хәәкрх,gritar
+945,stöhnen::V,түңшх,gemir
+946,zittern::V,дагҗннх,temblar
+947,leben::V,бәәх,vivir
+948,geboren werden::V,төрх,nacer
+949,atmen::V,әмсхлх,respirar
+950,trinken::V,уух,beber
+951,essen::V,идх,comer
+952,schlucken::V,зальгх,tragar
+953,müde werden::V,көшх,cansarse
+954,müde werden::V,көшх,fatigarse
+955,einschlafen::V,унтх,dormirse
+956,schlafen::V,нөөрсх,dormir
+957,aufwachen::V,серх,despertarse
+958,aufstehen::V,босх,levantarse
+959,sich erholen::V,амрх,reposar
+960,sich erholen::V,амрх,descansar
+961,krank werden::V,гемтх,caer enfermo
+962,krank sein::V,шалтглх,estar enfermo
+963,schmerzen::V,өвдх,doler
+964,husten::V,ханях,toser
+965,genesen::V,эдгх,convalecer
+966,genesen::V,эдгх,restablecerse
+967,sterben::V,үкх,morir
+968,sterben::V,өңгрх,morir
+969,umkommen::V,үкх,perecer
+970,sich bewegen::V,көдлх,moverse
+971,sich bewegen::V,көндрх,moverse
+972,sich rühren::V,көндрх,rebullir
+973,sich erheben::V,босх,levantarse
+974,sich setzen::V,суух,sentarse
+975,hinfallen::V,унх,caerse
+976,hinfallen::V,киисх,caerse
+977,laufen::V,йовх,andar
+978,schreiten::V,алхх,proceder
+979,spazierengehen::V,сергҗ йовх,pasear
+980,spazierengehen::V,сергҗ йовх,pasearse
+981,eilen::V,шулудх,correr prisa
+982,sich beeilen::V,адһх,darse prisa
+983,sich beeilen::V,шамдх,darse prisa
+984,sausen::V,хурдлх,correr
+985,sausen::V,йир_хурдар_гүүх,correr
+986,sausen::V,йир_хурдар_йовх,correr
+987,rennen::V,гүүх,correr
+988,springen::V,һәрәдх,saltar
+989,klettern::V,давшх,trepar
+990,klettern::V,давшх,escalar
+991,schaukeln::V,дүүдңндх,bambolearse
+992,kriechen::V,мөлкх,reptar
+993,kriechen::V,мөлкх,arrastrarse
+994,schwimmen::V,усчх,nadar
+995,tauchen::V,булхх,bucear
+996,tauchen::V,булхх,sumergirse
+997,rudern::V,хәәвдх,remar
+998,fahren::V,йовх,ir
+999,fliegen::V,нисх,volar
+1000,gehen::V,йовх,ir
+1001,gehen::V,йовх,andar
+1002,weggehen::V,йовх,irse
+1003,weggehen::V,йовх,marcharse
+1004,weggehen::V,одх,irse
+1005,weggehen::V,одх,marcharse
+1006,weggehen::V,һарх,irse
+1007,weggehen::V,һарх,marcharse
+1008,weggehen::V,мөрлх,irse
+1009,weggehen::V,мөрлх,marcharse
+1010,abfahren::V,мордх,salir
+1011,abfahren::V,мордх,partir
+1012,anhalten::V,зогсх,parar
+1013,anhalten::V,зогсх,pararse
+1014,hineingehen::V,орх,entrar
+1015,eintreten::V,орх,entrar
+1016,kommen::V,ирх,venir
+1017,ankommen::V,ирх,llegar
+1018,zurückkommen::V,орх,volver
+1019,zurückkommen::V,орх,regresar
+1020,bleiben::V,бәәх,quedarse
+1021,warten::V,күләх,esperar
+1022,erwarten::V,күләх,esperar
+1023,suchen::V,хәәх,buscar
+1024,finden::V,олх,hallar
+1025,finden::V,олх,encontrar
+1026,versuchen::V,седх,intentar
+1027,vorbereiten::V,белдх,preparar
+1028,lieben::V,дурлх,amar
+1029,lieben::V,дурлх,querer
+1030,mögen::V,таассгдх,querer
+1031,lachen::V,инәх,reír
+1032,rühren::V,уйрах,conmover
+1033,weinen::V,уульх,llorar
+1034,schimpfen::V,харах,regañar
+1035,sich ärgern::V,уурлх,enfadarse
+1036,sich fürchten::V,әәх,tener miedo
+1037,fürchten::V,әәх,temer
+1038,fürchten::V,әәх,tener miedo a
+1039,fürchten::V,сүрдх,temer
+1040,fürchten::V,сүрдх,tener miedo a
+1041,fliehen::V,зулх,huir
+1042,flüchten::V,орһх,escaparse
+1043,flüchten::V,зулх,escaparse
+1044,sehen::V,үзх,ver
+1045,anschauen::V,харх,mirar
+1046,ansehen::V,хәләх,mirar
+1047,ansehen::V,үзх,mirar
+1048,hören::V,соңсх,oír
+1049,zuhören::V,соңсх,escuchar
+1050,probieren::V,амсх,probar
+1051,probieren::V,амсх,degustar
+1052,riechen::V,үнрчлх,oler
+1053,fühlen::V,медх,sentir
+1054,scheinen::V,болҗ медгдх,parecer
+1055,scheinen::V,миниһәр болхла,parecer
+1056,scheinen::V,болад бәәх,parecer
+1057,zu sehen sein::V,үзгдх,poder verse
+1058,vernehmen::V,соңсх,oír
+1059,vernehmen::V,соңсх,percibir
+1060,frieren::V,даарх,tener frío
+1061,tun::V,кех,hacer
+1062,können::V,чадх,poder
+1063,wollen::V,дурлх,querer
+1064,anfangen::V,эклх,iniciar
+1065,beenden::V,дуусх,acabar
+1066,beenden::V,дуусх,terminar
+1067,aufhören::V,уурх,cesar
+1068,gelingen::V,бүтх,salir bien
+1069,gelingen::V,күцәх,salir bien
+1070,geraten::V,болх,salir
+1071,geraten::V,болх,dar resultado
+1072,öffnen::V,секх,abrir
+1073,schließen::V,хаах,cerrar
+1074,stellen::V,тәвх,poner
+1075,stellen::V,тәвх,colocar
+1076,setzen::V,суулһх,poner
+1077,setzen::V,суулһх,colocar
+1078,legen::V,тәвх,poner
+1079,berühren::V,көндәх,tocar
+1080,verbinden::V,боох,unir
+1081,verbinden::V,боох,juntar
+1082,bedecken::V,хучх,tapar
+1083,bedecken::V,хучх,cubrir
+1084,bedecken::V,бүркх,tapar
+1085,bedecken::V,бүркх,cubrir
+1086,aufhängen::V,өлгх,colgar
+1087,anzünden::V,асах,encender
+1088,anzünden::V,шатах,encender
+1089,aufheben::V,өөдән өргх,recoger
+1090,zurücklassen::V,үлдәх,dejar
+1091,verlieren::V,геех,perder
+1092,fallen lassen::V,алдх,dejar caer
+1093,machen::V,кех,hacer
+1094,herstellen::V,кех,fabricar
+1095,bauen::V,тосхх,construir
+1096,reparieren::V,ясх,reparar
+1097,verbessern::V,сәәрүлх,mejorar
+1098,ändern::V,хүврәх,mudar
+1099,ändern::V,хүврәх,modificar
+1100,graben::V,малтх,cavar
+1101,beugen::V,нуһлх,doblar
+1102,beugen::V,нуһлх,inclinar
+1103,biegen::V,матилһх,doblar
+1104,drehen::V,эргүлх,volver
+1105,drehen::V,эргүлх,hacer girar
+1106,wenden::V,көмрх,volver
+1107,wenden::V,эргүлх,volver
+1108,umdrehen::V,эргүлх,revolver
+1109,heben::V,өргх,levantar
+1110,heben::V,деер өргх,levantar
+1111,hochheben::V,өргх,alzar
+1112,ergreifen::V,бәрх,coger
+1113,halten::V,бәрх,tener
+1114,drücken::V,шахх,apretar
+1115,schieben::V,түлкх,empujar
+1116,kratzen::V,мааҗх,rascar
+1117,lecken::V,долах,lamer
+1118,beißen::V,хазх,morder
+1119,abreißen::V,таслх,arrancar
+1120,abschneiden::V,тәәрх,cortar
+1121,binden::V,боох,atar
+1122,stecken::V,шаах,meter
+1123,stecken::V,хатхх,meter
+1124,brechen::V,хамхлх,romper
+1125,brechen::V,хамхлх,quebrar
+1126,klopfen::V,цокх,golpear
+1127,hauen::V,цокх,pegar
+1128,kleben::V,наах,pegar
+1129,kleben::V,наах,encolar
+1130,reiben::V,зүлгх,frotar
+1131,streichen::V,наах,untar
+1132,streichen::V,наах,recubrir
+1133,streichen::V,лашх,untar
+1134,streichen::V,лашх,recubrir
+1135,streichen::V,түркх,untar
+1136,streichen::V,түркх,recubrir
+1137,schleifen::V,хурцлх,afilar
+1138,schneiden::V,хәәчлх,cortar
+1139,rütteln::V,дәәвлүлх,agitar
+1140,schütteln::V,сегсрх,agitar
+1141,schütteln::V,сегсрх,sacudir
+1142,schwenken::V,дайлх,menear
+1143,schütten::V,кех,verter
+1144,füllen::V,дүүргх,llenar
+1145,einwickeln::V,орах,envolver
+1146,tragen::V,зөөх,llevar
+1147,schleppen::V,чирх,arrastrar
+1148,ziehen::V,татх,tirar
+1149,aufbewahren::V,хадһлх,conservar
+1150,werfen::V,хайх,echar
+1151,werfen::V,хайх,lanzar
+1152,fangen::V,бәрх,coger
+1153,fangen::V,хавлх,coger
+1154,packen::V,бәрх,agarrar
+1155,verstecken::V,дүрх,esconder
+1156,verstecken::V,бултулх,esconder
+1157,teilen::V,хувах,partir
+1158,teilen::V,хувах,dividir
+1159,schicken::V,илгәх,enviar
+1160,bringen::V,авч ирх,traer
+1161,hinzufügen::V,немх,añadir
+1162,bekommen::V,авх,obtener
+1163,bekommen::V,авх,conseguir
+1164,erhalten::V,авх ,recibir
+1165,nehmen::V,авх,tomar
+1166,wählen::V,шүүх,elegir
+1167,auswählen::V,шүүх,escoger
+1168,auswählen::V,шүүх,seleccionar
+1169,bewahren::V,хадһлх,guardar
+1170,bewahren::V,хадһлх,preservar
+1171,bewahren::V,кевтнь үлдәх,guardar
+1172,bewahren::V,кевтнь үлдәх,preservar
+1173,bewahren::V,кевтнь бәәлһх,guardar
+1174,bewahren::V,кевтнь бәәлһх,preservar
+1175,behindern::V,харшлх,estorbar
+1176,behindern::V,харшлх,obstaculizar
+1177,verderben::V,үрәх,estropear
+1178,beschädigen::V,эвдх,deteriorar
+1179,zerbrechen::V,күүлх,romper
+1180,zerbrechen::V,күүлх,quebrar
+1181,zerbrechen::V,хамхлх,romper
+1182,zerbrechen::V,хамхлх,quebrar
+1183,zerreißen::V,шуучх,desgarrar
+1184,zerreißen::V,шуучх,despedazar
+1185,zerstören::V,эвдх,destruir
+1186,zerstören::V,эвдх,destrozar
+1187,verbrennen::V,шатах,quemar
+1188,geben::V,өгх,dar
+1189,reichen::V,өгх,pasar
+1190,schenken::V,белглх,regalar
+1191,versprechen::V,амлх,prometer
+1192,wünschen::V,сә хәәх,desear
+1193,loben::V,магтх,alabar
+1194,küssen::V,үмсх,besar
+1195,wiegen::V,саатулх,mecer
+1196,zudecken::V,бүркх,tapar
+1197,zudecken::V,бүркх,cubrir
+1198,wecken::V,серүлх,despertar
+1199,zeigen::V,үзүлх,mostrar
+1200,führen::V,көтлх,guiar
+1201,führen::V,көтлх,conducir
+1202,lehren::V,заах,enseñar
+1203,lehren::V,заах,instruir
+1204,lehren::V,сурһх,enseñar
+1205,lehren::V,сурһх,instruir
+1206,unterrichten::V,сурһх,enseñar
+1207,unterrichten::V,багшлх,enseñar
+1208,aufziehen::V,өскәх,criar
+1209,leiten::V,һардх,guiar
+1210,leiten::V,һардх,dirigir
+1211,leiten::V,толһалх,guiar
+1212,leiten::V,толһалх,dirigir
+1213,antreiben::V,шамдах,impeler
+1214,antreiben::V,шамдах,impulsar
+1215,lassen::V,күч үзүлх,hacer
+1216,einladen::V,үрх,invitar
+1217,vereinigen::V,хамцулх,unir
+1218,besuchen::V,одх,visitar
+1219,besuchen::V,одх,ir a ver
+1220,treffen::V,харһх,encontrar
+1221,sich versammeln::V,цуглрх,reunirse
+1222,sich versammeln::V,цуглрх,congregarse
+1223,sich versammeln::V,хурх,reunirse
+1224,sich versammeln::V,хурх,congregarse
+1225,spielen::V,наадх,jugar
+1226,singen::V,дуулх,cantar
+1227,tanzen::V,биилх,bailar
+1228,sich trennen::V,хаһцх,separarse
+1229,verlassen::V,хайх,dejar
+1230,verlassen::V,хайх,abandonar
+1231,retten::V,әм аврх,salvar
+1232,retten::V,әәмшгәс харсх,salvar
+1233,bewachen::V,харх,vigilar
+1234,bewachen::V,манх,vigilar
+1235,schützen::V,харсх,proteger
+1236,verteidigen::V,харсх,defender
+1237,sich schlagen::V,гүвдлдх,batirse
+1238,schießen::V,хах,tirar
+1239,schießen::V,хах,disparar
+1240,siegen::V,диилх,vencer
+1241,ärgern::V,уурлулх,enojar
+1242,ärgern::V,уурлулх,enfadar
+1243,schlagen::V,цокх,pegar
+1244,schlagen::V,цокх,golpear
+1245,schlagen::V,гүвдх,pegar
+1246,schlagen::V,гүвдх,golpear
+1247,stechen::V,хатхх,pinchar
+1248,stoßen::V,түлкчкх,empujar
+1249,stehlen::V,хулхалх,robar
+1250,stehlen::V,хулхалх,hurtar
+1251,stören::V,һә болх,molestar
+1252,belästigen::V,амр эс өгх,molestar
+1253,belästigen::V,амр эс өгх,importunar
+1254,verbergen::V,нуух,ocultar
+1255,verbergen::V,нуух,esconder
+1256,verbergen::V,бултулх,ocultar
+1257,verbergen::V,бултулх,esconder
+1258,täuschen::V,меклх,engañar
+1259,betrügen::V,меклх,engañar
+1260,betrügen::V,мек һарһх,engañar
+1261,töten::V,алх,matar
+1262,wohnen::V,бәәх,vivir
+1263,wohnen::V,бәәх,habitar
+1264,arbeiten::V,көдлх,trabajar
+1265,sammeln::V,түүх,recoger
+1266,sammeln::V,түүх,coleccionar
+1267,pflücken::V,түүх,coger
+1268,pflücken::V,хурах,coger
+1269,jagen::V,аңнх,cazar
+1270,jagen::V,аңһучлх,cazar
+1271,fischen::V,заһс аңнх,pescar
+1272,fassen::V,бәрх,atrapar
+1273,fassen::V,бәрх,capturar
+1274,hüten::V,хәрүлх,guardar
+1275,treiben::V,туух,aballar
+1276,anbinden::V,уйх,atar
+1277,füttern::V,теҗәх,echar de comer
+1278,melken::V,саах,ordeñar
+1279,hacken::V,чавчх,picar
+1280,hacken::V,чавчх,cortar
+1281,gießen::V,услх,regar
+1282,reifen::V,болх,madurar
+1283,reifen::V,болвсрх,madurar
+1284,zubereiten::V,белдх,preparar
+1285,kochen::V,чанх,cocer
+1286,kochen::V,чанх,guisar
+1287,kochen::V,болһх,cocer
+1288,kochen::V,болһх,guisar
+1289,backen::V,болһх,hornear
+1290,backen::V,болһх,cocer al horno
+1291,braten::V,хуурх,asar
+1292,braten::V,хуурх,freír
+1293,umrühren::V,самрх,remover
+1294,stricken::V,өлгх,hacer punto
+1295,stricken::V,өлгх,hacer calceta
+1296,nähen::V,уйх,coser
+1297,färben::V,будх,teñir
+1298,färben::V,будх,colorear
+1299,reinigen::V,цеврлх,limpiar
+1300,waschen::V,уһах,lavar
+1301,abwischen::V,арчх,fregar
+1302,abwischen::V,арчх,limpiar
+1303,spülen::V,зәәлх,aclarar
+1304,spülen::V,зәәлх,enjuagar
+1305,fegen::V,сәвүрдх,barrer
+1306,fegen::V,сәвүрдх,pasar la escoba
+1307,kehren::V,сәвүрдх,barrer
+1308,baden::V,өөмх,bañarse
+1309,sich waschen::V,уһах,lavarse
+1310,sich waschen::V,бийән уһаҗ,lavarse
+1311,ausziehen::V,тәәлх,quitar
+1312,ausziehen::V,тәәлх,quitarse
+1313,anziehen::V,өмсх,ponerse
+1314,sich anziehen::V,хувцлх,vestirse
+1315,kämmen::V,самлх,peinar
+1316,schmücken::V,чимх,adornar
+1317,schmücken::V,кеерүлх,adornar
+1318,sagen::V,келх,decir
+1319,sprechen::V,келх,hablar
+1320,reden::V,күүндх,hablar
+1321,reden::V,күүндх,conversar
+1322,reden::V,күр_кех,hablar
+1323,reden::V,күр_кех,conversar
+1324,sich unterhalten::V,күүндх,charlar
+1325,sich unterhalten::V,күүндх,conversar
+1326,fragen::V,сурх,preguntar
+1327,bitten::V,эрх,rogar
+1328,erzählen::V,келх,contar
+1329,erzählen::V,келҗ өгх,contar
+1330,mitteilen::V,медүлх,comunicar
+1331,mitteilen::V,медүлх,participar
+1332,nennen::V,нерәдх,llamar
+1333,nennen::V,нерәдх,nombrar
+1334,nennen::V,нер өгх,llamar
+1335,nennen::V,нер өгх,nombrar
+1336,rufen::V,дуудх,llamar
+1337,prahlen::V,көөрх,jactarse
+1338,übersetzen::V,орчулх,traducir
+1339,denken::V,санх,pensar
+1340,glauben::V,шүтх,creer
+1341,glauben::V,нәәлх,creer
+1342,bemerken::V,темдглх,notar
+1343,erkennen::V,таньх,reconocer
+1344,erkennen::V,медх,reconocer
+1345,begreifen::V,медх,concebir
+1346,verstehen::V,соңсх,entender
+1347,verstehen::V,соңсх,comprender
+1348,lernen::V,сурх,aprender
+1349,wissen::V,медх,saber
+1350,sich erinnern an::V,санх,recordar
+1351,sich erinnern an::V,санх,acordarse de
+1352,vergessen::V,мартх,olvidar
+1353,messen::V,кемҗәлх,medir
+1354,zählen::V,тоолх,contar
+1355,rechnen::V,тоолх,contar
+1356,rechnen::V,тоолх,calcular
+1357,lesen::V,умшх,leer
+1358,malen::V,зурх,pintar
+1359,zeichnen::V,зурх,dibujar
+1360,schreiben::V,бичх,escribir
+1361,besitzen::V,эзлх,poseer
+1362,kaufen::V,хулдҗ авх,comprar
+1363,verkaufen::V,хулдх,vender
+1364,verkaufen::V,гүүлгх,vender
+1365,bezahlen::V,өгх,pagar
+1366,zahlen::V,өгх,pagar
+1367,beherrschen::V,эзлх,dominar
+1368,ertragen::V,даах,soportar
+1369,treten::V,,dar una patada a

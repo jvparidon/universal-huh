@@ -1,0 +1,1401 @@
+,Concept_ID,ca,tr
+0,Auge::N,ull,göz
+1,Ohr::N,orella,kulak
+2,Nase::N,nas,burun
+3,Mund::N,boca,ağız
+4,Zahn::N,dent,diş
+5,Zunge::N,llēngua,dil
+6,Lippe::N,llavi,dudak
+7,Wange::N,galta,yanak
+8,Gesicht::N,cara,yüz
+9,Stirn::N,front,alın
+10,Haar::N,cabēll,saç
+11,Schnurrbart::N,bigoti,bıyık
+12,Bart::N,barba,sakal
+13,Kinn::N,mentó,çene
+14,Kinn::N,barbeta,çene
+15,Kiefer[Anatomie]::N,queix,çene
+16,Kiefer[Anatomie]::N,mandíbula,çene
+17,Kehle::N,gola,boğaz
+18,Kehle::N,gorja,boğaz
+19,Hals::N,coll,boyun
+20,Hals::N,coll,gerdan
+21,Genick::N,nuca,ense
+22,Kopf::N,cap,baş
+23,Kopf::N,cap,kafa
+24,Rücken::N,esquena,arka
+25,Bauch::N,panxa,karın
+26,Nabel::N,llombrígol,göbek
+27,Busen::N,pit,koyun
+28,Busen::N,mama,koyun
+29,Brust::N,pit,göğüs
+30,Schulter::N,espatlla,omuz
+31,Arm::N,braç,kol
+32,Ellenbogen::N,colze,dirsek
+33,Hand::N,mà,el
+34,Handfläche::N,palma,avuç
+35,Handfläche::N,palma,el ayası
+36,Finger::N,dit,parmak
+37,Fingernagel::N,ungla,el tırnağı
+38,Nagel[Anatomie]::N,ungla,tırnak
+39,Zeh::N,dit del peu,ayak parmağı
+40,Fuß::N,peu,ayak
+41,Ferse::N,taló,topuk
+42,Knie::N,genoll,diz
+43,Oberschenkel::N,cuixa,uyluk
+44,Bein::N,cama,bacak
+45,Körper::N,cos,vücut
+46,Haut::N,pell,cilt
+47,Blut::N,sang,kan
+48,Ader::N,vena,damar
+49,Sehne::N,tendó,kiriş
+50,Knochen::N,os,kemik
+51,Gehirn::N,cervell,beyin
+52,Herz::N,cor,kalp
+53,Herz::N,cor,yürek
+54,Magen::N,estómac,mide
+55,Leber::N,fetge,karaciğer
+56,Atem::N,alè,nefes
+57,Atem::N,hàlit,nefes
+58,Hunger::N,fam,açlık
+59,Hunger::N,gana,açlık
+60,Träne::N,llàgrima,gözyaşı
+61,Geschmack::N,gust,tat
+62,Geschmack::N,gust,lezzet
+63,Geschmack::N,sabor,tat
+64,Geschmack::N,sabor,lezzet
+65,Geruch::N,olor,koku
+66,Schlaf::N,son,uyku
+67,Traum::N,somni,düş
+68,Traum::N,somni,rüya
+69,Himmel::N,celm,gök
+70,Sonne::N,sol,güneş
+71,Mond::N,lluna,ay
+72,Stern::N,estel,yıldız
+73,Stern::N,estrella,yıldız
+74,Luft::N,aire,hava
+75,Wind::N,vent,yel
+76,Wind::N,vent,rüzgâr
+77,Welle::N,ona,dalga
+78,Wasser::N,āigua,su
+79,Stein::N,pedra,taş
+80,Boden::N,sòl,yer
+81,Boden::N,sòl,zemin
+82,Erde::N,terra,toprak
+83,Staub::N,pols,toz
+84,Rauch::N,fum,duman
+85,Funke::N,guspira,kıvılcım
+86,Funke::N,centella,kıvılcım
+87,Feuer::N,foc,ateş
+88,Licht::N,llum,ışık
+89,Schatten::N,ombra,gölge
+90,Wetter::N,temps,hava
+91,Nebel::N,boira,pus
+92,Wolke::N,núvol,bulut
+93,Regen::N,pluja,yağmur
+94,Schnee::N,neu,kar
+95,Eis::N,gel,buz
+96,Eis::N,glaç,buz
+97,Frost::N,glaçada,don
+98,Kälte::N,fred,soğukluk
+99,Hitze::N,calor,sıcaklık
+100,Raureif::N,gebre,kırç
+101,Regenbogen::N,arc iris,gökkuşağı
+102,Donner::N,tro,gök gürlemesi
+103,Strömung::N,corrent,akıntı
+104,Strömung::N,corrent,cereyan
+105,Tropfen::N,gota,damla
+106,Schaum::N,escuma,köpük
+107,Schmutz::N,brutícia,çamur
+108,Schmutz::N,brutícia,pislik
+109,See::N,llac,göl
+110,Sumpf::N,pantà,batak
+111,Moor::N,pantà,cılgıt
+112,Wiese::N,prat,çimen
+113,Wiese::N,prada,çimen
+114,Wald::N,bosc,koru
+115,Wald::N,bosc,orman
+116,Hügel::N,puig,tepe
+117,Hügel::N,pujol,tepe
+118,Anhöhe::N,turó,tümsek
+119,Anhöhe::N,turó,yükseklik
+120,Berg::N,muntanya,dağ
+121,Gipfel::N,cim,zirve
+122,Höhle::N,cova,in
+123,Höhle::N,cova,mağara
+124,Abhang::N,coster,bayır
+125,Quelle::N,font,pınar
+126,Quelle::N,font,kaynak
+127,Bach::N,riera,çay
+128,Bach::N,riera,dere
+129,Fluss::N,riu,nehir
+130,Ufer::N,riba,kıyı
+131,Ufer::N,riba,sahil
+132,Küste::N,costa,kıyı
+133,Küste::N,costa,sahil
+134,Festland::N,terra ferma,kara
+135,Meer::N,mar,deniz
+136,Bucht::N,cala,koy
+137,Bucht::N,cala,körfez
+138,Bucht::N,badia,koy
+139,Bucht::N,badia,körfez
+140,Insel::N,illa,ada
+141,Blume::N,flor,çiçek
+142,Gras::N,herba,ot
+143,Gras::N,herba,çim
+144,Wurzel::N,rel,kök
+145,Wurzel::N,arrel,kök
+146,Baum::N,arbre,ağaç
+147,Stamm::N,tronc,gövde
+148,Rinde::N,escorça,kabuk
+149,Ast::N,branca,dal
+150,Ast::N,branca,budak
+151,Zweig::N,ram,dal
+152,Blatt::N,fulla,yaprak
+153,Birke::N,bedoll,huş
+154,Kiefer[Baum]::N,pi,çam
+155,Weide[Baum]::N,salze,söğüt
+156,Tanne::N,avet,çam
+157,Tanne::N,avet,köknar
+158,Horn::N,corn,boynuz
+159,Horn::N,banya,boynuz
+160,Feder::N,ploma,tüy
+161,Fell::N,pell,post
+162,Flügel::N,ala,kanat
+163,Klaue::N,urpa,pençe
+164,Kralle::N,grapa,tırnak
+165,Schwanz::N,cua,kuyruk
+166,Ei::N,ou,yumurta
+167,Nest::N,niu,yuva
+168,Bau::N,cau,in
+169,Tier::N,animāl,hayvan
+170,Herde::N,ramat,sürü
+171,Kuh::N,vaca,inek
+172,Bulle::N,toro,boğa
+173,Pferd::N,cavāll,at
+174,Pferd::N,cavāll,beygir
+175,Schaf::N,be,koyun
+176,Schaf::N,ovella,koyun
+177,Schwein::N,bacó,domuz
+178,Hund::N,ca,it
+179,Hund::N,ca,köpek
+180,Hund::N,gos,it
+181,Hund::N,gos,köpek
+182,Katze::N,gat,kedi
+183,Bär::N,ós,ayı
+184,Eichhörnchen::N,esquirol,sincap
+185,Elch::N,ant,büyük kuzey geyiği
+186,Fuchs::N,guilla,tilki
+187,Hase::N,llebre,tavşan
+188,Maus::N,ratolí,fare
+189,Maus::N,ratolí,sıçan
+190,Wolf::N,llop,kurt
+191,Vogel::N,au,kuş
+192,Vogel::N,ocēll,kuş
+193,Schwarm::N,bandada,sürü
+194,Huhn::N,gallina,tavuk
+195,Hahn::N,gall,horoz
+196,Gans::N,oca,kaz
+197,Adler::N,àguila,kartal
+198,Adler::N,àguila,karakuş
+199,Ente::N,ànec,ördek
+200,Eule::N,òliba,baykuş
+201,Eule::N,mussol,baykuş
+202,Kranich::N,grua,turna
+203,Krähe::N,cornella,karga
+204,Kuckuck::N,cucut,guguk
+205,Schwan::N,cigne,kuğu
+206,Fisch::N,peix,balık
+207,Barsch::N,perca,hani
+208,Barsch::N,perca,levrek
+209,Hecht::N,lluç,turnabalığı
+210,Schlange[Tier]::N,serp,yılan
+211,Wurm::N,cuc,kurt
+212,Wurm::N,cuc,solucan
+213,Spinne::N,aranya,örümcek
+214,Ameise::N,formiga,karınca
+215,Laus::N,poll,bit
+216,Mücke::N,mosquit,sivrisinek
+217,Fliege::N,mosca,sinek
+218,Schmetterling::N,papallona,kelebek
+219,Beere::N,baia,tane
+220,Apfel::N,poma,elma
+221,Pilz::N,bolet,mantar
+222,Zwiebel::N,ceba,soğan
+223,Saat::N,sembra,ekin
+224,Korn::N,gra,tane
+225,Heu::N,fenc,kuru ot
+226,Schale::N,closca,kabuk
+227,Grube::N,sot,çukur
+228,Grube::N,clot,çukur
+229,Falle::N,trampa,tuzak
+230,Schlinge::N,baga,ilmik
+231,Spur::N,traça,iz
+232,Asche::N,cendra,kül
+233,Dreck::N,llot,pislik
+234,Eisen::N,ferro,demir
+235,Gold::N,or,altın
+236,Silber::N,plata,gümüş
+237,Kohle::N,carbó,kömür
+238,Glas::N,vidre,cam
+239,Lehm::N,fang,balçık
+240,Lehm::N,argila,balçık
+241,Sand::N,arena,kum
+242,Mensch::N,humà,insan
+243,Mensch::N,persona,insan
+244,Mann::N,home,adam
+245,Mann::N,home,erkek
+246,Frau::N,dona,bayan
+247,Kind::N,nen,çocuk
+248,Junge::N,noi,erkek çocuk
+249,Mädchen::N,noia,kız
+250,Familie::N,família,aile
+251,Großvater::N,avi,dede
+252,Großvater::N,avi,büyükbaba
+253,Großmutter::N,àvia,nine
+254,Großmutter::N,àvia,büyükanne
+255,Eltern::N,pares,ebeveyn
+256,Eltern::N,pares,ana baba
+257,Vater::N,pare,ata
+258,Vater::N,pare,baba
+259,Mutter::N,mare,ana
+260,Mutter::N,mare,anne
+261,Sohn::N,fill,oğul
+262,Tochter::N,filla,kız
+263,Tochter::N,filla,kız evlât
+264,Bruder::N,germà,abi
+265,Bruder::N,germà,erkek kardeş
+266,Schwester::N,germana,abla
+267,Schwester::N,germana,kız kardeş
+268,Onkel::N,oncle,dayı
+269,Tante::N,tia,hala
+270,Tante::N,tia,teyze
+271,Ehemann::N,espòs,koca
+272,Ehefrau::N,muller,karı
+273,Freude::N,goig,neşe
+274,Freude::N,goig,sevinç
+275,Freude::N,alegria,neşe
+276,Freude::N,alegria,sevinç
+277,Gelächter::N,riallada,gülme
+278,Gelächter::N,riallada,kahkaha
+279,Glück::N,felicitat,mutluluk
+280,Kummer::N,pena,dert
+281,Kummer::N,pena,keder
+282,Wunsch::N,desig,arzu
+283,Wunsch::N,desig,istek
+284,Lust::N,ganes,arzu
+285,Lust::N,ganes,heves
+286,Geist::N,ment,tin
+287,Geist::N,esperit,tin
+288,Gedanke::N,pensament,fikir
+289,Gedanke::N,pensament,düşünce
+290,Gedächtnis::N,memòria,bellek
+291,Verstand::N,raó,zekâ
+292,Verstand::N,seny,zekâ
+293,Sinn::N,solta,anlam
+294,Sinn::N,sentit,anlam
+295,Grund::N,raó,sebep
+296,Grund::N,causa,sebep
+297,Wahrheit::N,veritāt,doğruluk
+298,Wahrheit::N,veritāt,gerçeklik
+299,Gespräch::N,conversa,görüşme
+300,Märchen::N,conte,masal
+301,Erzählung::N,narració,öykü
+302,Erzählung::N,narració,hikâye
+303,Nachricht::N,missatge,haber
+304,Neuigkeit::N,novetat,haber
+305,Name::N,nom,ad
+306,Name::N,nom,isim
+307,Rätsel::N,endevinalla,bilmece
+308,Rede::N,discurs,söylev
+309,Rede::N,discurs,konuşma
+310,Sprache::N,llēngua,dil
+311,Sprache::N,llēngua,lisan
+312,Stimme::N,veu,ses
+313,Wort::N,mot,kelime
+314,Wort::N,paraula,kelime
+315,Zeichen::N,signe,işaret
+316,Zeichen::N,senyal,işaret
+317,Ruf::N,crida,çağırma
+318,Lärm::N,sorōll,şamata
+319,Lärm::N,sorōll,gürültü
+320,Laut::N,so,ses
+321,Ton::N,to,ses
+322,Lied::N,cançó,türkü
+323,Ruhe::N,calma,sakinlik
+324,Ruhe::N,silenci,sakinlik
+325,Leute::N,gent,halk
+326,Leute::N,gent,insanlar
+327,Volk::N,poble,ulus
+328,Volk::N,poble,millet
+329,Arbeit::N,labor,iş
+330,Arbeit::N,labor,çalışma
+331,Arbeit::N,treball,iş
+332,Arbeit::N,treball,çalışma
+333,Gast::N,hoste,konuk
+334,Gast::N,hoste,misafir
+335,Geschenk::N,regal,hediye
+336,Geschenk::N,regal,armağan
+337,Geschenk::N,obsequi,hediye
+338,Geschenk::N,obsequi,armağan
+339,Spiel::N,joc,oyun
+340,Gesellschaft::N,companyia,çevre
+341,Gesellschaft::N,companyia,arkadaşlık
+342,Hilfe::N,ajut,yardım
+343,Freund::N,amīc,dost
+344,Freund::N,amīc,arkadaş
+345,Kamerad::N,company,arkadaş
+346,Kamerad::N,camarada,arkadaş
+347,Angelegenheit::N,afer,iş
+348,Angelegenheit::N,afer,husus
+349,Angelegenheit::N,assumpte,iş
+350,Angelegenheit::N,assumpte,husus
+351,Anzahl::N,nombre,sayı
+352,Anzahl::N,quantitat,sayı
+353,Art::N,tipus,çeşit
+354,Art::N,classe,çeşit
+355,Stück::N,peça,tane
+356,Stück::N,peça,parça
+357,Teil::N,part,kısım
+358,Hälfte::N,meitat,yarı
+359,Kreis::N,cercle,daire
+360,Kreuz::N,creu,haç
+361,Linie::N,línia,hat
+362,Linie::N,línia,çizgi
+363,Strich::N,traç,çizgi
+364,Strich::N,ratlla,çizgi
+365,Abstand::N,distància,aralık
+366,Entfernung::N,distància,mesafe
+367,Entfernung::N,distància,uzaklık
+368,Gegend::N,regió,yöre
+369,Gegend::N,contrada,yöre
+370,Platz::N,cabuda,yer
+371,Ort::N,lloc,yer
+372,Seite::N,banda,yan
+373,Seite::N,banda,taraf
+374,Seite::N,costāt,yan
+375,Seite::N,costāt,taraf
+376,Mitte::N,mig,orta
+377,Mitte::N,mig,merkez
+378,Mitte::N,centre,orta
+379,Mitte::N,centre,merkez
+380,Gegenstand::N,objecte,şey
+381,Sache::N,cosa,iş
+382,Sache::N,cosa,şey
+383,Rand::N,vora,kenar
+384,Rand::N,marge,kenar
+385,Kante::N,caire,kenar
+386,Kante::N,cantell,kenar
+387,Ecke::N,cantonada,köşe
+388,Spitze::N,punta,uç
+389,Spitze::N,punta,baş
+390,Ende::N,cap,uç
+391,Loch::N,forāt,oyuk
+392,Loch::N,forāt,delik
+393,Winkel::N,racó,köşe
+394,Muster::N,dibuix,örnek
+395,Muster::N,disseny,örnek
+396,Größe::N,grandària,büyüklük
+397,Länge::N,longitud,uzunluk
+398,Höhe::N,altura,yükseklik
+399,Höhe::N,altitud,yükseklik
+400,Gewicht::N,pes,ağırlık
+401,Menge::N,quantitat,miktar
+402,Haufen::N,pila,küme
+403,Haufen::N,pila,yığın
+404,Reihe::N,fila,sıra
+405,Boot::N,bot,kayık
+406,Boot::N,bot,sandal
+407,Boot::N,barca,kayık
+408,Boot::N,barca,sandal
+409,Ruder::N,rem,kürek
+410,Schlitten::N,trineu,kızak
+411,Ski::N,esquí,kayak
+412,Lagerfeuer::N,foc de campament,kamp ateşi
+413,Last::N,càrrega,yük
+414,Gang::N,marxa,gidiş
+415,Gang::N,marxa,yürüyüş
+416,Schritt::N,pas,adım
+417,Norden::N,nord,kuzey
+418,Süden::N,sud,güney
+419,Westen::N,oest,batı
+420,Westen::N,occident,batı
+421,Osten::N,est,doğu
+422,Osten::N,orient,doğu
+423,Holz::N,fusta,ağaç
+424,Holz::N,fusta,tahta
+425,Brett::N,taula,tahta
+426,Platte::N,placa,levha
+427,Stütze::N,suport,dayak
+428,Stütze::N,suport,destek
+429,Stange::N,vara,çubuk
+430,Stock::N,pal,sopa
+431,Stock::N,pal,değnek
+432,Stab::N,bastó,sırık
+433,Stab::N,bastó,baston
+434,Rohr::N,tub,boru
+435,Haus::N,casa,ev
+436,Heim::N,llar,ev
+437,Heim::N,llar,yurt
+438,Ofen::N,estufa,soba
+439,Fußboden::N,terra,taban
+440,Fußboden::N,terra,döşeme
+441,Tisch::N,taula,masa
+442,Stuhl::N,cadira,iskemle
+443,Stuhl::N,cadira,sandalye
+444,Wiege::N,bressol,beşik
+445,Bett::N,llit,yatak
+446,Regal::N,prestatgeria,raf
+447,Kiste::N,caixa,sandık
+448,Fenster::N,finestra,pencere
+449,Tür::N,porta,kapı
+450,Tor::N,portal,kapı
+451,Zaun::N,tanca,çit
+452,Dach::N,teulada,dam
+453,Dach::N,teulada,çatı
+454,Leiter::N,escala,merdiven
+455,Leiter::N,escala de mà,merdiven
+456,Besen::N,escombra,süpürge
+457,Spaten::N,pala,bel
+458,Schaufel::N,pala,kürek
+459,Gabel::N,forquilla,çatal
+460,Löffel::N,cullera,kaşık
+461,Messer::N,coltell,bıçak
+462,Nagel::N,clau,çivi
+463,Netz::N,filat,ağ
+464,Haken::N,ganxo,çengel
+465,Griff::N,puny,kulp
+466,Griff::N,puny,tutamak
+467,Griff::N,mànec,kulp
+468,Griff::N,mànec,tutamak
+469,Schloss::N,pany,kilit
+470,Bild::N,imatge,imaj
+471,Bild::N,imatge,resim
+472,Figur::N,figura,şekil
+473,Figur::N,figura,heykel
+474,Puppe::N,nina,kukla
+475,Beutel::N,bossa,kese
+476,Beutel::N,bossa,torba
+477,Bündel::N,feix,deste
+478,Bündel::N,paquet,deste
+479,Tasche::N,bossa,çanta
+480,Eimer::N,galleda,kova
+481,Deckel::N,tapa,kapak
+482,Deckel::N,tapadora,kapak
+483,Geschirr::N,vaixella,kap kacak
+484,Sack::N,sac,torba
+485,Sack::N,saca,torba
+486,Tasse::N,tassa,fincan
+487,Topf::N,pot,tencere
+488,Topf::N,olla,tencere
+489,Kessel::N,caldera,kazan
+490,Essen::N,àpat,yemek
+491,Essen::N,menjada,yemek
+492,Nahrung::N,aliment,gıda
+493,Nahrung::N,aliment,besin
+494,Speise::N,plat,yemek
+495,Fleisch::N,carn,et
+496,Getreide::N,cereals,tahıl
+497,Getreide::N,cereals,hububat
+498,Brei::N,puré,ezme
+499,Brot::N,pa,ekmek
+500,Scheibe::N,tall,dilim
+501,Scheibe::N,llesca,dilim
+502,Fett::N,greix,yağ
+503,Butter::N,mantega,tereyağı
+504,Öl::N,oli,yağ
+505,Öl::N,oli,akar yağ
+506,Salz::N,sal,tuz
+507,Suppe::N,sopa,çorba
+508,Honig::N,mel,bal
+509,Milch::N,llet,süt
+510,Tee::N,te,çay
+511,Leder::N,cuir,deri
+512,Leder::N,cuir,meşin
+513,Wolle::N,llana,yün
+514,Stoff::N,tela,kumaş
+515,Nadel::N,agulla,iğne
+516,Faden::N,fil,tire
+517,Faden::N,fil,iplik
+518,Knopf::N,botó,düğme
+519,Knoten::N,nus,düğüm
+520,Farbe::N,pintura,boya
+521,Kleidung::N,roba,giyim
+522,Kleidung::N,vestits,giyim
+523,Hemd::N,camisa,gömlek
+524,Kragen::N,coll,yaka
+525,Ärmel::N,màniga,yen
+526,Ärmel::N,màniga,elbise kolu
+527,Hose::N,pantalōns,pantolon
+528,Gürtel::N,cinturó,kuşak
+529,Mütze::N,gorra,bere
+530,Mütze::N,gorra,kasket
+531,Schuh::N,sabata,kundura
+532,Schuh::N,sabata,ayakkabı
+533,Stiefel::N,bota,çizme
+534,Ring::N,anell,yüzük
+535,Band::N,veta,bağ
+536,Band::N,veta,şerit
+537,Band::N,cinta,bağ
+538,Band::N,cinta,şerit
+539,Kamm::N,pinta,tarak
+540,Spiegel::N,mirāll,ayna
+541,Riemen::N,corretja,kayış
+542,Schnur::N,corda,ip
+543,Schnur::N,corda,sicim
+544,Leine::N,corretja,kayış
+545,Decke::N,manta,örtü
+546,Decke::N,manta,yorgan
+547,Decke::N,flassada,örtü
+548,Decke::N,flassada,yorgan
+549,Kissen::N,coixí,yastık
+550,Tuch::N,mocador,bez
+551,Handtuch::N,tovallola,havlu
+552,Kraft::N,força,güç
+553,Kraft::N,força,kuvvet
+554,Stärke::N,vigor,kuvvet
+555,Gesundheit::N,salut,sağlık
+556,Krankheit::N,malaltia,hastalık
+557,Schmerz::N,dolor,ağrı
+558,Schmerz::N,dolor,sancı
+559,Wunde::N,ferida,yara
+560,Fieber::N,febre,ateş
+561,Arznei::N,medicament,ilâç
+562,Brücke::N,pont,köprü
+563,Brunnen::N,pou,kuyu
+564,Brunnen::N,pou,çeşme
+565,Weide::N,pastura,otlak
+566,Pfad::N,senda,patika
+567,Pfad::N,senda,keçiyolu
+568,Pfad::N,sender,patika
+569,Pfad::N,sender,keçiyolu
+570,Weg::N,camí,yol
+571,Straße::N,carretera,yol
+572,Straße::N,carretera,cadde
+573,Dorf::N,poble,köy
+574,Stadt::N,ciutāt,kent
+575,Stadt::N,ciutāt,şehir
+576,Brief::N,carta,mektup
+577,Buch::N,llibre,kitap
+578,Buchstabe::N,lletra,harf
+579,Zeitung::N,diāri,gazete
+580,Leben::N,vida,hayat
+581,Tod::N,mort,ölüm
+582,Grab::N,tomba,kabir
+583,Kirche::N,església,kilise
+584,Sünde::N,pecat,günah
+585,Gott::N,déu,tanrı
+586,Arbeiter::N,obrer,işçi
+587,Chef::N,cap,şef
+588,Chef::N,cap,müdür
+589,Meister::N,mestre,usta
+590,Arzt::N,metge,hekim
+591,Arzt::N,metge,doktor
+592,Lehrer::N,mestre,hoca
+593,Lehrer::N,mestre,öğretmen
+594,Geld::N,dinērs,para
+595,Geschäft::N,negoci,ticaret
+596,Laden::N,tenda,dükkân
+597,Laden::N,botiga,dükkân
+598,Preis::N,preu,fiyat
+599,Ware::N,mercaderia,mal
+600,Nutzen::N,profit,fayda
+601,Reichtum::N,riquesa,servet
+602,Reichtum::N,riquesa,zenginlik
+603,Welt::N,món,dünya
+604,Land::N,país,ülke
+605,Staat::N,estat,devlet
+606,König::N,rei,kral
+607,Macht::N,poder,kudret
+608,Macht::N,poder,iktidar
+609,Macht::N,potència,kudret
+610,Macht::N,potència,iktidar
+611,Grenze::N,frontera,had
+612,Grenze::N,frontera,sınır
+613,Krieg::N,guerra,savaş
+614,Feind::N,enemic,düşman
+615,Gewalt::N,violència,zor
+616,Gewalt::N,violència,cebir
+617,Kampf::N,lluita,savaş
+618,Bogen[Waffe]::N,arc,yay
+619,Pfeil::N,fletxa,ok
+620,Gewehr::N,fusell,tüfek
+621,Gewehr::N,escopeta,tüfek
+622,Fehler::N,falta,hata
+623,Fehler::N,falta,yanlış
+624,Lüge::N,mentida,yalan
+625,Schaden::N,dany,zarar
+626,Unglück::N,desgràcia,felâket
+627,Unglück::N,desgràcia,talihsizlik
+628,Schuld::N,culpa,suç
+629,Schuld::N,culpa,kabahat
+630,Alter::N,edat,yaş
+631,Schluss::N,fi,son
+632,Schluss::N,final,son
+633,Zeit::N,temps,zaman
+634,Tag::N,dia,gün
+635,Morgen::N,matí,sabah
+636,Mittag::N,migdia,öğle
+637,Abend::N,vespre,akşam
+638,Nacht::N,nit,gece
+639,Woche::N,setmana,hafta
+640,Monat::N,mes,ay
+641,Jahr::N,any,yıl
+642,Jahr::N,any,sene
+643,Frühling::N,primavera,ilkbahar
+644,Sommer::N,estīu,yaz
+645,Herbst::N,tardor,güz
+646,Herbst::N,tardor,sonbahar
+647,Winter::N,hivērn,kış
+648,Januar::N,gener,ocak
+649,Februar::N,febrer,şubat
+650,März::N,març,mart
+651,April::N,abril,nisan
+652,Mai::N,maig,mayıs
+653,Juni::N,juny,haziran
+654,Juli::N,juliol,temmuz
+655,August::N,agost,ağustos
+656,September::N,setembre,eylül
+657,Oktober::N,octubre,ekim
+658,November::N,novembre,kasım
+659,Dezember::N,desembre,aralık
+660,Montag::N,dilluns,pazartesi
+661,Dienstag::N,dimarts,salı
+662,Mittwoch::N,dimecres,çarşamba
+663,Donnerstag::N,dijous,perşembe
+664,Freitag::N,divendres,cuma
+665,Samstag::N,dissabte,cumartesi
+666,Sonntag::N,diumenge,pazar
+667,groß::A,gros,büyük
+668,klein::A,petīt,ufak
+669,klein::A,petīt,küçük
+670,lang::A,llarg,uzun
+671,kurz::A,curt,kısa
+672,breit::A,ample,enli
+673,breit::A,ample,geniş
+674,schmal::A,estret,dar
+675,dicht::A,dens,sık
+676,dicht::A,dens,yoğun
+677,dick[Gegenstand]::A,gruixūt,kalın
+678,dick[Gegenstand]::A,gruixūt,iri
+679,dünn::A,prim,ince
+680,fein::A,fi,ince
+681,fein::A,fi,narin
+682,fest::A,ferm,sabit
+683,fest::A,ferm,sağlam
+684,fest::A,sòlid,sabit
+685,fest::A,sòlid,sağlam
+686,flach::A,pla,düz
+687,flach::A,pla,yassı
+688,glatt::A,llis,düz
+689,hart::A,dur,katı
+690,weich::A,tou,yumuşak
+691,rund::A,rodó,yuvarlak
+692,spitz::A,punxegut,sivri
+693,scharf::A,agut,keskin
+694,stumpf::A,rom,kör
+695,stumpf::A,esmussat,kör
+696,schwer::A,pesāt,ağır
+697,schön::A,bonīc,güzel
+698,heiß::A,calēnt,kızgın
+699,warm::A,càlid,sıcak
+700,kalt::A,fred,soğuk
+701,kühl::A,fresc,serin
+702,frisch::A,fresc,taze
+703,feucht::A,humit,nemli
+704,feucht::A,humit,rutubetli
+705,nass::A,mullat,yaş
+706,nass::A,mullat,ıslak
+707,trocken::A,sec,kuru
+708,voll::A,ple,dolu
+709,voll::A,ple,dolmuş
+710,leer::A,buit,boş
+711,offen::A,obert,açık
+712,geschlossen::A,tancat,kapalı
+713,sauber::A,net,pak
+714,sauber::A,net,temiz
+715,schmutzig::A,brut,pis
+716,schmutzig::A,brut,kirli
+717,roh::A,cru,çiğ
+718,reif::A,madur,olgun
+719,lecker::A,deliciós,lezzetli
+720,süß::A,dolç,tatlı
+721,süß::A,dolç,şekerli
+722,bitter::A,amarg,acı
+723,sauer::A,agre,ekşi
+724,hell::A,clar,aydınlık
+725,dunkel::A,fosc,karanlık
+726,schwarz::A,negre,kara
+727,schwarz::A,negre,siyah
+728,weiß::A,blanc,ak
+729,weiß::A,blanc,beyaz
+730,rot::A,vermēll,kırmızı
+731,gelb::A,groc,sarı
+732,blau::A,blau,mavi
+733,grün::A,verd,yeşil
+734,grau::A,gris,boz
+735,bunt::A,multicolor,renkli
+736,billig::A,barat,ucuz
+737,teuer::A,car,pahalı
+738,wertvoll::A,preciós,değerli
+739,blind::A,cec,kör
+740,taub::A,sord,sağır
+741,kräftig::A,fort,dinç
+742,kräftig::A,fort,kuvvetli
+743,kräftig::A,vigorós,dinç
+744,kräftig::A,vigorós,kuvvetli
+745,stark::A,fort,güçlü
+746,stark::A,fort,kuvvetli
+747,schwach::A,feble,zayıf
+748,schwach::A,feble,güçsüz
+749,fett::A,gras,şişman
+750,schlank::A,esvelt,narin
+751,hübsch::A,maco,güzel
+752,hübsch::A,maco,sevimli
+753,böse::A,dolent,kötü
+754,dumm::A,ximple,aptal
+755,dumm::A,estúpid,aptal
+756,faul::A,gandūl,tembel
+757,faul::A,mandrós,tembel
+758,fleißig::A,diligēnt,çalışkan
+759,geizig::A,avar,cimri
+760,klug::A,intel·ligent,zekî
+761,klug::A,intel·ligent,akıllı
+762,geschickt::A,hàbil,becerikli
+763,lieb::A,amat,sevimli
+764,lieb::A,estimat,sevimli
+765,lustig::A,alegre,neşeli
+766,sanft::A,suau,nazik
+767,hungrig::A,afamat,aç
+768,krank::A,malālt,hasta
+769,krank::A,malālt,rahatsız
+770,nackt::A,nu,çıplak
+771,traurig::A,trist,kederli
+772,traurig::A,trist,üzüntülü
+773,lebendig::A,viu,canlı
+774,gut::A,bo,iyi
+775,schlecht::A,dolēnt,kötü
+776,richtig::A,just,doğru
+777,richtig::A,correcte,doğru
+778,schlimm::A,greu,kötü
+779,wahr::A,vertader,doğru
+780,wahr::A,vertader,gerçek
+781,wahr::A,veritable,doğru
+782,wahr::A,veritable,gerçek
+783,alt::A,vell,eski
+784,neu::A,nou,yeni
+785,ehemalig::A,antic,önceki
+786,alt[Lebewesen]::A,vell,yaşlı
+787,jung::A,jove,genç
+788,arm::A,pobre,fakir
+789,reich::A,ric,zengin
+790,bekannt::A,conegut,bilinen
+791,berühmt::A,famós,ünlü
+792,berühmt::A,famós,meşhur
+793,fremd::A,estrany,yabancı
+794,verschieden::A,diferent,ayrı
+795,verschieden::A,diferent,farklı
+796,nah::A,pròxim,yakın
+797,nah::A,pròxim,bitişik
+798,fern::A,llunyà,uzak
+799,fern::A,distant,uzak
+800,linker::A,esquerre,sol
+801,rechter::A,dret,sağ
+802,anderer::A,altre,diğer
+803,erster::A,primer,ilk
+804,erster::A,primer,birinci
+805,zweiter::A,segon,ikinci
+806,dritter::A,tercer,üçüncü
+807,letzter::A,últim,son
+808,letzter::A,últim,sonuncu
+809,allein::ADV,sol,yalnız
+810,allein::ADV,sol,tek başına
+811,auf einmal::ADV,d'una vegada,birden
+812,zusammen::ADV,junt,beraber
+813,zusammen::ADV,junt,birlikte
+814,lange::ADV,molt de temps,çok
+815,lange::ADV,molt de temps,uzun
+816,plötzlich::ADV,de cop,ansızın
+817,plötzlich::ADV,de cop,birdenbire
+818,plötzlich::ADV,de sobte,ansızın
+819,plötzlich::ADV,de sobte,birdenbire
+820,sofort::ADV,de seguida,hemen
+821,sofort::ADV,de seguida,derhal
+822,später::ADV,més tard,daha sonra
+823,jetzt::ADV,ara,şimdi
+824,heute::ADV,avūi,bugün
+825,morgen::ADV,demà,yarın
+826,bald::ADV,aviāt,yakında
+827,dann::ADV,després,sonra
+828,gestern::ADV,ahir,dün
+829,einst::ADV,anteriorment,eskiden
+830,damals::ADV,llavōrs,o zamanlar
+831,damals::ADV,aleshores,o zamanlar
+832,danach::ADV,després,sonradan
+833,danach::ADV,després,ondan sonra
+834,vorher::ADV,abāns,önce
+835,vorher::ADV,abāns,önceden
+836,zuerst::ADV,primer,ilk önce
+837,einmal::ADV,una vegada,bir defa
+838,manchmal::ADV,de vegades,bazan
+839,oft::ADV,sovint,sık sık
+840,oft::ADV,sovint,çok defa
+841,immer::ADV,sempre,daima
+842,immer::ADV,sempre,her zaman
+843,niemals::ADV,no ... mai,asla değil
+844,niemals::ADV,no ... mai,hiçbir zaman
+845,hier::ADV,aquí,burada
+846,hierhin::ADV,per aquí,buraya
+847,von hier::ADV,des d'aquí,buradan
+848,dort::ADV,allí,orada
+849,dort::ADV,allí,şurada
+850,dorthin::ADV,hi,oraya
+851,dorthin::ADV,hi,şuraya
+852,geradeaus::ADV,tot dret,doğru
+853,vorwärts::ADV,endavānt,ileri
+854,rückwärts::ADV,endarrera,geri
+855,zurück::ADV,darrere,geriye
+856,unten::ADV,a baix,aşağıda
+857,hinab::ADV,cap avall,aşağıya
+858,oben::ADV,dalt,yukarıda
+859,hinauf::ADV,cap amunt,yukarı
+860,hinauf::ADV,cap amunt,yukarıya
+861,überall::ADV,pertot,her yerde
+862,überall::ADV,per tot arreu,her yerde
+863,nicht::ADV,no,-mi-
+864,nicht::ADV,no,değil
+865,ein wenig::ADV,una mica,biraz
+866,kaum::ADV,a penes,dar
+867,kaum::ADV,a penes,hemen hemen değil
+868,sehr::ADV,molt,pek
+869,sehr::ADV,molt,gayet
+870,so::ADV,així,öyle
+871,so::ADV,així,böyle
+872,noch::ADV,encara,hâlâ
+873,noch::ADV,encara,henüz
+874,nur::ADV,només,ancak
+875,nur::ADV,només,yalnız
+876,schon::ADV,ja,çoktan
+877,wieder::ADV,de nou,tekrar
+878,wieder::ADV,de nou,yeniden
+879,vergebens::ADV,en va,boşuna
+880,vor::PRP,davānt,önünde
+881,vor::PRP,enfront de,önünde
+882,hinter::PRP,darrera,arkasında
+883,unter::PRP,sota,altında
+884,durch::PRP,per,sayesinde
+885,durch::PRP,per,ortasından
+886,neben::PRP,al costāt de,yanında
+887,zwischen::PRP,entre,arasında
+888,wegen::PRP,a causa de,dolayı
+889,dies::PRN,aquest,bu
+890,das::PRN,això,o
+891,das::PRN,això,şu
+892,alles::PRN,tot,hepsi
+893,alles::PRN,tot,her şey
+894,ich::PRN,jo,ben
+895,du::PRN,tu,sen
+896,er::PRN,ell,o
+897,wir::PRN,nosaltres,biz
+898,ihr::PRN,vosaltres,siz
+899,sie::PRN,ells,onlar
+900,sie::PRN,elles,onlar
+901,was::FPRN,què,ne
+902,wer::FPRN,qui,kim
+903,wo::FADV,on,nerede
+904,wohin::FADV,cap a on,nereye
+905,wie::FADV,com,nasıl
+906,warum::FADV,per què,neden
+907,wieviel::FNUM,quant,kaç
+908,wieviel::FNUM,quant,ne kadar
+909,eins::NUM,u,bir
+910,zwei::NUM,dos,iki
+911,drei::NUM,tres,üç
+912,vier::NUM,quatre,dört
+913,fünf::NUM,cinc,beş
+914,sechs::NUM,sis,altı
+915,sieben::NUM,set,yedi
+916,acht::NUM,vuit,sekiz
+917,neun::NUM,nou,dokuz
+918,zehn::NUM,deu,on
+919,elf::NUM,onze,on bir
+920,zwölf::NUM,dotze,on iki
+921,zwanzig::NUM,vint,yirmi
+922,dreißig::NUM,trenta,otuz
+923,vierzig::NUM,quaranta,kırk
+924,fünfzig::NUM,cinquanta,elli
+925,sechzig::NUM,seixanta,altmış
+926,siebzig::NUM,setanta,yetmiş
+927,achtzig::NUM,vuitanta,seksen
+928,neunzig::NUM,noranta,doksan
+929,hundert::NUM,cent,yüz
+930,tausend::NUM,mil,bin
+931,und::CNJ,i,ve
+932,und::CNJ,i,ile
+933,oder::CNJ,o,ya
+934,oder::CNJ,o,yahut
+935,stehen::V,estar de peu,durmak
+936,sitzen::V,seure,oturmak
+937,liegen::V,jeure,yatmak
+938,hängen::V,penjar,asılı olmak
+939,werden::V,fer-se,olmak
+940,werden::V,fer-se,olunmak
+941,werden::V,posar-se,olmak
+942,werden::V,posar-se,olunmak
+943,passieren::V,succeir,olmak
+944,beginnen::V,iniciar-se,başlamak
+945,enden::V,acabar-se,bitmek
+946,enden::V,acabar-se,sona ermek
+947,enden::V,terminar-se,bitmek
+948,enden::V,terminar-se,sona ermek
+949,wechseln::V,canviar,değişmek
+950,aufgehen[Sonne]::V,sortir,doğmak
+951,untergehen[Sonne]::V,posar-se,batmak
+952,scheinen[Sonne]::V,brillar,parlamak
+953,donnern::V,tronar,gök gürlemek
+954,wehen::V,bufar,esmek
+955,strömen::V,afluir,akmak
+956,fließen::V,fluir,akmak
+957,sich drehen::V,girar,dönmek
+958,schwanken::V,vacil·lar,sallanmak
+959,schwingen::V,oscil·lar,titremek
+960,fallen::V,caure,düşmek
+961,fallen::V,tombar,düşmek
+962,brennen::V,cremar,yanmak
+963,rauchen::V,fumejar,tütmek
+964,regnen::V,ploure,yağmak
+965,gefrieren::V,gelar-se,donmak
+966,tauen::V,fondre's,erimek
+967,schmelzen::V,fondre's,erimek
+968,trocknen::V,assecar-se,kurumak
+969,sieden::V,bullir,kaynamak
+970,faulen::V,podrir-se,çürümek
+971,verfaulen::V,podrir-se,çürümek
+972,reißen::V,trencar-se,yırtılmak
+973,versinken::V,enfonsar-se,batmak
+974,vergehen::V,passar,geçmek
+975,erscheinen::V,aparèixer,görünmek
+976,verschwinden::V,desaparèixer,kaybolmak
+977,sinken::V,baixar,inmek
+978,sinken::V,descendir,inmek
+979,abnehmen::V,decréixer,azalmak
+980,zunehmen::V,augmentar,artmak
+981,zunehmen::V,augmentar,çoğalmak
+982,steigen::V,pujar,artmak
+983,steigen::V,pujar,yükselmek
+984,wachsen::V,créixer,büyümek
+985,wachsen::V,créixer,gelişmek
+986,glänzen::V,brillar,parlamak
+987,glänzen::V,resplendir,parlamak
+988,funkeln::V,espurnejar,parıldamak
+989,lärmen::V,fer soroll,gürültü yapmak
+990,läuten::V,sonar,çalmak
+991,klingeln::V,trucar,zil çalmak
+992,klirren::V,dringar,şakırdamak
+993,klirren::V,dringar,zangırdamak
+994,brausen::V,rugir,köpürmek
+995,brausen::V,rugir,kükremek
+996,rauschen::V,murmurar,fışırdamak
+997,klingen::V,sonar,tınlamak
+998,bellen::V,lladrar,havlamak
+999,heulen::V,udolar,ulumak
+1000,blasen::V,bufar,üflemek
+1001,pfeifen::V,xiular,düdük çalmak
+1002,schreien::V,cridar,bağırmak
+1003,schreien::V,cridar,haykırmak
+1004,stöhnen::V,gemegar,inlemek
+1005,zittern::V,tremolar,titremek
+1006,leben::V,vīure,yaşamak
+1007,leben::V,vīure,hayatta olmak
+1008,geboren werden::V,néixer,doğmak
+1009,atmen::V,respirar,solunmak
+1010,atmen::V,respirar,nefes almak
+1011,trinken::V,beure,içmek
+1012,essen::V,menjar,yemek
+1013,schlucken::V,empassar-se,yutmak
+1014,müde werden::V,cansar-se,yorulmak
+1015,einschlafen::V,adormir-se,uykuya dalmak
+1016,schlafen::V,dormir,uyumak
+1017,aufwachen::V,despertar-se,uyanmak
+1018,aufstehen::V,llevar-se,kalkmak
+1019,aufstehen::V,llevar-se,yataktan kalkmak
+1020,sich erholen::V,descansar,dinlenmek
+1021,krank werden::V,posar-se malalt,hastalanmak
+1022,krank sein::V,estar malalt,hasta olmak
+1023,schmerzen::V,doldre,ağrımak
+1024,husten::V,tossir,öksürmek
+1025,genesen::V,recuperar-se,şifa bulmak
+1026,sterben::V,morir,ölmek
+1027,sterben::V,morir,vefat etmek
+1028,umkommen::V,perir,ölmek
+1029,sich bewegen::V,moure's,hareket etmek
+1030,sich rühren::V,moure's,kımıldanmak
+1031,sich erheben::V,aixecar-se,kalkmak
+1032,sich erheben::V,aixecar-se,ayağa kalkmak
+1033,sich setzen::V,asseure's,oturmak
+1034,hinfallen::V,caure's,yere düşmek
+1035,laufen::V,caminar,yürümek
+1036,schreiten::V,procedir,yürümek
+1037,schreiten::V,procedir,adım atmak
+1038,spazierengehen::V,passejar,gezmek
+1039,spazierengehen::V,passejar,dolaşmak
+1040,eilen::V,anar corrent,seğirtmek
+1041,sich beeilen::V,afanyar-se,acele etmek
+1042,sausen::V,córrer,hızla gitmek
+1043,rennen::V,córrer,koşmak
+1044,springen::V,saltar,atlamak
+1045,springen::V,saltar,sıçramak
+1046,klettern::V,escalar,tırmanmak
+1047,schaukeln::V,gronxar-se,sallanmak
+1048,schaukeln::V,balancejar-se,sallanmak
+1049,kriechen::V,reptar,sürünmek
+1050,kriechen::V,arrossegar-se,sürünmek
+1051,schwimmen::V,nadar,yüzmek
+1052,tauchen::V,bussejar,dalmak
+1053,tauchen::V,submergir-se,dalmak
+1054,rudern::V,remar,kürek çekmek
+1055,fahren::V,anar,gitmek
+1056,fliegen::V,volar,uçmak
+1057,gehen::V,caminar,gitmek
+1058,weggehen::V,anar-se'n,gitmek
+1059,abfahren::V,partir,kalkmak
+1060,anhalten::V,aturar-se,durmak
+1061,hineingehen::V,entrar,içeri girmek
+1062,eintreten::V,entrar,girmek
+1063,kommen::V,venir,gelmek
+1064,ankommen::V,arribar,varmak
+1065,zurückkommen::V,tornar,dönmek
+1066,bleiben::V,quedar-se,kalmak
+1067,warten::V,esperar,beklemek
+1068,erwarten::V,esperar,beklemek
+1069,suchen::V,buscar,aramak
+1070,finden::V,trobar,bulmak
+1071,versuchen::V,intentar,denemek
+1072,vorbereiten::V,preparar,hazırlamak
+1073,lieben::V,estimar,sevmek
+1074,mögen::V,agradar a,beğenmek
+1075,lachen::V,riure,gülmek
+1076,rühren::V,commoure,dokunmak
+1077,rühren::V,commoure,duygulandırmak
+1078,rühren::V,emocionar,dokunmak
+1079,rühren::V,emocionar,duygulandırmak
+1080,weinen::V,plorar,ağlamak
+1081,schimpfen::V,renyar,küfretmek
+1082,sich ärgern::V,enfadar-se,kızmak
+1083,sich fürchten::V,tenir por,korkmak
+1084,fürchten::V,témer,korkmak
+1085,fliehen::V,fugir,kaçmak
+1086,flüchten::V,refugiar-se,kaçmak
+1087,sehen::V,veure,görmek
+1088,anschauen::V,mirar,seyretmek
+1089,ansehen::V,mirar,bakmak
+1090,hören::V,oir,duymak
+1091,hören::V,oir,işitmek
+1092,zuhören::V,escoltar,dinlemek
+1093,probieren::V,provar,denemek
+1094,probieren::V,provar,tadına bakmak
+1095,riechen::V,olorar,kokusunu almak
+1096,fühlen::V,sentīr,duymak
+1097,fühlen::V,sentīr,hissetmek
+1098,scheinen::V,semblar,görünmek
+1099,zu sehen sein::V,poder-se veure,görünmek
+1100,vernehmen::V,percebre,haber almak
+1101,frieren::V,tenir fred,üşümek
+1102,tun::V,fer,etmek
+1103,tun::V,fer,yapmak
+1104,können::V,poder,bilmek
+1105,wollen::V,voler,istemek
+1106,anfangen::V,iniciar,başlamak
+1107,beenden::V,acabar,bitirmek
+1108,aufhören::V,deixar,bitmek
+1109,gelingen::V,sortir bé,başarmak
+1110,geraten::V,sortir,düşmek
+1111,öffnen::V,obrir,açmak
+1112,schließen::V,tancar,kapamak
+1113,stellen::V,posar,koymak
+1114,stellen::V,col·locar,koymak
+1115,setzen::V,assentar,koymak
+1116,setzen::V,assentar,oturtmak
+1117,legen::V,posar,koymak
+1118,legen::V,posar,yatırmak
+1119,berühren::V,tocar,dokunmak
+1120,verbinden::V,unir,bağlamak
+1121,verbinden::V,unir,birleştirmek
+1122,verbinden::V,connectar,bağlamak
+1123,verbinden::V,connectar,birleştirmek
+1124,bedecken::V,tapar,örtmek
+1125,bedecken::V,tapar,kaplamak
+1126,bedecken::V,cobrir,örtmek
+1127,bedecken::V,cobrir,kaplamak
+1128,aufhängen::V,penjar,asmak
+1129,anzünden::V,encendre,yakmak
+1130,anzünden::V,encendre,ateşlemek
+1131,aufheben::V,aixecar,kaldırmak
+1132,zurücklassen::V,deixar,geride bırakmak
+1133,verlieren::V,pērdre,yitirmek
+1134,verlieren::V,pērdre,kaybetmek
+1135,fallen lassen::V,deixar caure,düşürmek
+1136,machen::V,fer,yapmak
+1137,herstellen::V,producir,yapmak
+1138,herstellen::V,producir,imal etmek
+1139,bauen::V,construir,kurmak
+1140,bauen::V,construir,inşa etmek
+1141,reparieren::V,reparar,onarmak
+1142,reparieren::V,reparar,tamir etmek
+1143,verbessern::V,millorar,düzeltmek
+1144,ändern::V,canviar,değiştirmek
+1145,graben::V,cavar,kazmak
+1146,beugen::V,doblegar,eğmek
+1147,biegen::V,corbar,bükmek
+1148,biegen::V,arquejar,bükmek
+1149,drehen::V,girar,çevirmek
+1150,drehen::V,girar,döndürmek
+1151,wenden::V,girar,çevirmek
+1152,umdrehen::V,voltar,çevirmek
+1153,heben::V,pujar,kaldırmak
+1154,heben::V,aixecar,kaldırmak
+1155,hochheben::V,aixecar,yukarı kaldırmak
+1156,ergreifen::V,agafar,tutmak
+1157,ergreifen::V,agafar,yakalamak
+1158,halten::V,mantenir,tutmak
+1159,drücken::V,prémer,sıkmak
+1160,drücken::V,estrènyer,sıkmak
+1161,schieben::V,empènyer,itmek
+1162,schieben::V,empènyer,sürmek
+1163,kratzen::V,raspar,kaşımak
+1164,lecken::V,llepar,yalamak
+1165,beißen::V,mossegar,ısırmak
+1166,abreißen::V,arrencar,koparmak
+1167,abschneiden::V,tallar,keserek ayırmak
+1168,binden::V,lligar,bağlamak
+1169,stecken::V,ficar,sokmak
+1170,brechen::V,trencar,kırmak
+1171,klopfen::V,trucar,çalmak
+1172,hauen::V,picar,vurmak
+1173,hauen::V,colpejar,vurmak
+1174,kleben::V,enganxar,yapıştırmak
+1175,reiben::V,fregar,ovmak
+1176,reiben::V,fregar,sürtmek
+1177,streichen::V,untar,sürmek
+1178,schleifen::V,afilar,bilemek
+1179,schleifen::V,esmolar,bilemek
+1180,schneiden::V,tallar,kesmek
+1181,rütteln::V,sacsejar,sallamak
+1182,schütteln::V,agitar,sarsmak
+1183,schütteln::V,agitar,çalkamak
+1184,schütteln::V,sacsejar,sarsmak
+1185,schütteln::V,sacsejar,çalkamak
+1186,schwenken::V,agitar,sallamak
+1187,schütten::V,abocar,dökmek
+1188,schütten::V,abocar,akıtmak
+1189,füllen::V,omplir,doldurmak
+1190,einwickeln::V,embolicar,sarmak
+1191,tragen::V,dur,taşımak
+1192,tragen::V,portar,taşımak
+1193,schleppen::V,arrossegar,sürüklemek
+1194,ziehen::V,tirar,çekmek
+1195,ziehen::V,estirar,çekmek
+1196,aufbewahren::V,conservar,saklamak
+1197,werfen::V,llançar,atmak
+1198,fangen::V,agafar,tutmak
+1199,fangen::V,agafar,yakalamak
+1200,fangen::V,atrapar,tutmak
+1201,fangen::V,atrapar,yakalamak
+1202,packen::V,engrapar,tutmak
+1203,packen::V,engrapar,yakalamak
+1204,verstecken::V,amagar,saklamak
+1205,teilen::V,dividir,bölmek
+1206,teilen::V,dividir,ayırmak
+1207,schicken::V,enviar,yollamak
+1208,schicken::V,enviar,göndermek
+1209,bringen::V,portar,getirmek
+1210,hinzufügen::V,afegir,katmak
+1211,hinzufügen::V,afegir,eklemek
+1212,bekommen::V,obtenir,almak
+1213,bekommen::V,obtenir,eline geçmek
+1214,erhalten::V,rebre,almak
+1215,nehmen::V,prendre,almak
+1216,wählen::V,triar,seçmek
+1217,wählen::V,elegir,seçmek
+1218,auswählen::V,escollir,seçmek
+1219,auswählen::V,escollir,ayırmak
+1220,auswählen::V,seleccionar,seçmek
+1221,auswählen::V,seleccionar,ayırmak
+1222,bewahren::V,conservar,korumak
+1223,behindern::V,impedir,engellemek
+1224,behindern::V,obstaculitzar,engellemek
+1225,verderben::V,espatllar,bozmak
+1226,beschädigen::V,danyar,zedelemek
+1227,beschädigen::V,danyar,ziyan vermek
+1228,beschädigen::V,destrossar,zedelemek
+1229,beschädigen::V,destrossar,ziyan vermek
+1230,zerbrechen::V,trencar,kırmak
+1231,zerreißen::V,estripar,yırtmak
+1232,zerstören::V,destruir,yıkmak
+1233,zerstören::V,destruir,tahrip etmek
+1234,verbrennen::V,cremar,yakmak
+1235,geben::V,donar,vermek
+1236,reichen::V,passar,uzatmak
+1237,schenken::V,regalar,hediye etmek
+1238,versprechen::V,prometre,vaat etmek
+1239,wünschen::V,desitjar,kutlamak
+1240,loben::V,elogiar,övmek
+1241,küssen::V,fer un petó a,öpmek
+1242,wiegen::V,bressolar,sallamak
+1243,zudecken::V,tapar,örtmek
+1244,zudecken::V,cobrir,örtmek
+1245,wecken::V,despertar,uyandırmak
+1246,zeigen::V,mostrar,göstermek
+1247,zeigen::V,ensenyar,göstermek
+1248,führen::V,guiar,gezdirmek
+1249,führen::V,guiar,yol göstermek
+1250,führen::V,conduir,gezdirmek
+1251,führen::V,conduir,yol göstermek
+1252,lehren::V,ensenyar,okutmak
+1253,lehren::V,ensenyar,öğretmek
+1254,unterrichten::V,ensenyar,öğretmek
+1255,aufziehen::V,criar,yetiştirmek
+1256,leiten::V,dirigir,yönetmek
+1257,leiten::V,dirigir,idare etmek
+1258,antreiben::V,impel·lir,teşvik etmek
+1259,lassen::V,fer,-tırmak
+1260,einladen::V,invitar,davet etmek
+1261,einladen::V,convidar,davet etmek
+1262,vereinigen::V,unir,birleştirmek
+1263,besuchen::V,visitar,uğramak
+1264,besuchen::V,visitar,ziyaret etmek
+1265,besuchen::V,visitar,görmeye gitmek
+1266,besuchen::V,anar a veure,uğramak
+1267,besuchen::V,anar a veure,ziyaret etmek
+1268,besuchen::V,anar a veure,görmeye gitmek
+1269,treffen::V,trobar,rastlamak
+1270,treffen::V,trobar,isabet etmek
+1271,sich versammeln::V,reunir-se,toplanmak
+1272,spielen::V,jugar,oynamak
+1273,singen::V,cantār,söylemek
+1274,singen::V,cantār,şarkı söylemek
+1275,tanzen::V,ballar,oynamak
+1276,tanzen::V,ballar,dans etmek
+1277,sich trennen::V,separar-se,ayrılmak
+1278,verlassen::V,deixar,bırakmak
+1279,verlassen::V,deixar,terk etmek
+1280,verlassen::V,abandonar,bırakmak
+1281,verlassen::V,abandonar,terk etmek
+1282,retten::V,salvar,kurtarmak
+1283,bewachen::V,vigilar,gözetmek
+1284,schützen::V,protegir,korumak
+1285,verteidigen::V,defensar,savunmak
+1286,sich schlagen::V,barallar-se,dövüşmek
+1287,schießen::V,tirar,ateş etmek
+1288,schießen::V,disparar,ateş etmek
+1289,siegen::V,vèncer,yenmek
+1290,ärgern::V,enfadar,kızdırmak
+1291,schlagen::V,pegar,dövmek
+1292,schlagen::V,colpejar,dövmek
+1293,treten::V,donar un cop de peu a,tepmek
+1294,stechen::V,punxar,sokmak
+1295,stechen::V,punxar,batırmak
+1296,stechen::V,apunyalar,sokmak
+1297,stechen::V,apunyalar,batırmak
+1298,stoßen::V,empènyer,itmek
+1299,stehlen::V,robar,çalmak
+1300,stören::V,molestar,bozmak
+1301,stören::V,molestar,etkilemek
+1302,belästigen::V,importunar,rahatsız etmek
+1303,verbergen::V,amagar,saklamak
+1304,verbergen::V,ocultar,saklamak
+1305,täuschen::V,enganyar,aldatmak
+1306,betrügen::V,estafar,aldatmak
+1307,betrügen::V,estafar,dolandırmak
+1308,töten::V,matar,öldürmek
+1309,wohnen::V,vīure,oturmak
+1310,wohnen::V,habitar,oturmak
+1311,arbeiten::V,treballar,çalışmak
+1312,sammeln::V,col·leccionar,toplamak
+1313,pflücken::V,collir,koparmak
+1314,jagen::V,caçar,avlanmak
+1315,fischen::V,pescar,balık tutmak
+1316,fassen::V,atrapar,tutmak
+1317,fassen::V,atrapar,yakalamak
+1318,hüten::V,pasturar,otlatmak
+1319,treiben::V,arriar,gütmek
+1320,anbinden::V,lligar,bağlamak
+1321,füttern::V,donar menjar a,beslemek
+1322,melken::V,munyir,sağmak
+1323,hacken::V,picar,yarmak
+1324,hacken::V,tallar,yarmak
+1325,gießen::V,regar,sulamak
+1326,reifen::V,madurar,olgunlaşmak
+1327,zubereiten::V,preparar,hazırlamak
+1328,kochen::V,coure,pişirmek
+1329,kochen::V,coure,kaynatmak
+1330,backen::V,coure al forn,pişirmek
+1331,backen::V,coure al forn,fırında pişirmek
+1332,braten::V,rostir,kızartmak
+1333,umrühren::V,remenar,karıştırmak
+1334,stricken::V,tricotar,örmek
+1335,stricken::V,fer punt de mitja,örmek
+1336,nähen::V,cosir,dikmek
+1337,färben::V,tenyir,boyamak
+1338,reinigen::V,netejar,temizlemek
+1339,waschen::V,rentār,yıkamak
+1340,abwischen::V,eixugar,silmek
+1341,spülen::V,esbandir,çalkamak
+1342,fegen::V,escombrar,süpürmek
+1343,kehren::V,escombrar,süpürmek
+1344,baden::V,banyar-se,yıkanmak
+1345,baden::V,banyar-se,banyo yapmak
+1346,sich waschen::V,rentār-se,yıkanmak
+1347,ausziehen::V,treure's,çıkarmak
+1348,anziehen::V,posar-se,giymek
+1349,sich anziehen::V,vestir-se,giyinmek
+1350,kämmen::V,pentinar,taramak
+1351,schmücken::V,adornar,süslemek
+1352,sagen::V,dir,demek
+1353,sagen::V,dir,söylemek
+1354,sprechen::V,parlar,konuşmak
+1355,reden::V,parlar,konuşmak
+1356,sich unterhalten::V,conversar,sohbet etmek
+1357,fragen::V,preguntar,sormak
+1358,bitten::V,demanar,dilemek
+1359,bitten::V,demanar,rica etmek
+1360,erzählen::V,contar,bahsetmek
+1361,erzählen::V,contar,hikâye etmek
+1362,erzählen::V,explicar,bahsetmek
+1363,erzählen::V,explicar,hikâye etmek
+1364,mitteilen::V,comunicar,bildirmek
+1365,nennen::V,nomenar,adlandırmak
+1366,rufen::V,cridar,çağırmak
+1367,prahlen::V,lloar-se,övünmek
+1368,prahlen::V,jactar-se,övünmek
+1369,übersetzen::V,traduir,çevirmek
+1370,übersetzen::V,traduir,tercüme etmek
+1371,denken::V,pensar,düşünmek
+1372,glauben::V,creure,inanmak
+1373,glauben::V,creure,zannetmek
+1374,bemerken::V,notar,farkına varmak
+1375,erkennen::V,reconèixer,tanımak
+1376,begreifen::V,comprendre,anlamak
+1377,begreifen::V,comprendre,kavramak
+1378,verstehen::V,entendre,duymak
+1379,verstehen::V,entendre,anlamak
+1380,lernen::V,aprendre,öğrenmek
+1381,wissen::V,saber,bilmek
+1382,sich erinnern an::V,recordar,hatırlamak
+1383,vergessen::V,oblidar,unutmak
+1384,messen::V,mesurar,ölçmek
+1385,zählen::V,comptar,saymak
+1386,rechnen::V,calcular,hesap etmek
+1387,lesen::V,llegir,okumak
+1388,malen::V,pintar,resmini yapmak
+1389,zeichnen::V,dibuixar,çizmek
+1390,schreiben::V,escrīure,yazmak
+1391,besitzen::V,posseir,haiz olmak
+1392,besitzen::V,posseir,sahip olmak
+1393,kaufen::V,comprar,almak
+1394,verkaufen::V,vendre,satmak
+1395,bezahlen::V,pagar,ödemek
+1396,zahlen::V,pagar per,ödemek
+1397,beherrschen::V,dominar,hâkim olmak
+1398,ertragen::V,aguantar,dayanmak
+1399,ertragen::V,aguantar,katlanmak

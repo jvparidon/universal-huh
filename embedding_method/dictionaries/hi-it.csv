@@ -1,0 +1,1833 @@
+,Concept_ID,hi,it
+0,Auge::N,आँख,occhio
+1,Auge::N,चक्षु,occhio
+2,Ohr::N,कान,orecchio
+3,Ohr::N,कर्ण,orecchio
+4,Nase::N,नाक,naso
+5,Nase::N,नासा,naso
+6,Mund::N,मुख,bocca
+7,Mund::N,मुँह,bocca
+8,Zahn::N,दंत,dente
+9,Zahn::N,दाँत,dente
+10,Zunge::N,जीभ,lingua
+11,Zunge::N,ज़बान,lingua
+12,Zunge::N,जिह्वा,lingua
+13,Lippe::N,ओंठ,labbro
+14,Lippe::N,होंठ,labbro
+15,Wange::N,गाल,guancia
+16,Wange::N,कपोल,guancia
+17,Gesicht::N,मुँह,viso
+18,Gesicht::N,मुँह,faccia
+19,Gesicht::N,चेहरा,viso
+20,Gesicht::N,चेहरा,faccia
+21,Stirn::N,माथा,fronte
+22,Stirn::N,मस्तक,fronte
+23,Haar::N,बाल,capello
+24,Schnurrbart::N,मूँछें,baffi
+25,Schnurrbart::N,मूँछें,mustacchi
+26,Bart::N,दाढ़ी,barba
+27,Kinn::N,चिबुक,mento
+28,Kiefer[Anatomie]::N,जबड़ा,mascella
+29,Kehle::N,गला,gola
+30,Hals::N,गला,collo
+31,Hals::N,गरदन,collo
+32,Genick::N,गरदन,nuca
+33,Genick::N,ग्रीवा,nuca
+34,Kopf::N,सिर,capo
+35,Kopf::N,सिर,testa
+36,Kopf::N,शीर्ष,capo
+37,Kopf::N,शीर्ष,testa
+38,Rücken::N,पीठ,dorso
+39,Rücken::N,पीठ,schiena
+40,Bauch::N,उदर,ventre
+41,Nabel::N,नाभि,ombelico
+42,Nabel::N,ढोंढी,ombelico
+43,Busen::N,कुच,seno
+44,Busen::N,स्तन,seno
+45,Brust::N,वक्ष,petto
+46,Schulter::N,कंधा,spalla
+47,Schulter::N,स्कंध,spalla
+48,Arm::N,बाँह,braccio
+49,Arm::N,बाज़ू,braccio
+50,Ellenbogen::N,कुहनी,gomito
+51,Hand::N,हाथ,mano
+52,Hand::N,हस्त,mano
+53,Handfläche::N,हथेली,palma
+54,Finger::N,उँगली,dito
+55,Finger::N,अँगुली,dito
+56,Fingernagel::N,नख,unghia
+57,Fingernagel::N,नाख़ून,unghia
+58,Nagel[Anatomie]::N,नख,unghia
+59,Nagel[Anatomie]::N,नाख़ून,unghia
+60,Zeh::N,उँगली,dito del piede
+61,Zeh::N,पाँव की उँगली,dito del piede
+62,Fuß::N,चरण,piede
+63,Fuß::N,पाँव,piede
+64,Ferse::N,एड़ी,tallone
+65,Ferse::N,एड़ी,calcagno
+66,Knie::N,जानु,ginocchio
+67,Knie::N,घुटना,ginocchio
+68,Oberschenkel::N,उरु,fèmore
+69,Bein::N,टाँग,gamba
+70,Körper::N,तन,corpo
+71,Körper::N,देह,corpo
+72,Körper::N,शरीर,corpo
+73,Haut::N,चर्म,pelle
+74,Haut::N,त्वचा,pelle
+75,Blut::N,लहू,sangue
+76,Blut::N,ख़ून,sangue
+77,Ader::N,रग,vena
+78,Ader::N,शिरा,vena
+79,Sehne::N,कंडरा,tèndine
+80,Sehne::N,स्नायु,tèndine
+81,Knochen::N,अस्थि,osso
+82,Gehirn::N,दिमाग़,cervello
+83,Gehirn::N,मस्तिष्क,cervello
+84,Herz::N,दिल,cuore
+85,Herz::N,हृदय,cuore
+86,Magen::N,मेदा,stòmaco
+87,Magen::N,अमाशय,stòmaco
+88,Leber::N,जिगर,fegato
+89,Leber::N,यकृत्,fegato
+90,Atem::N,दम,fiato
+91,Atem::N,दम,respiro
+92,Atem::N,साँस,fiato
+93,Atem::N,साँस,respiro
+94,Atem::N,श्वास,fiato
+95,Atem::N,श्वास,respiro
+96,Hunger::N,भूख,fame
+97,Hunger::N,क्षुधा,fame
+98,Träne::N,आँसू,làcrima
+99,Träne::N,अश्रु,làcrima
+100,Geschmack::N,स्वाद,gusto
+101,Geschmack::N,स्वाद,sapore
+102,Geschmack::N,ज़ायक़ा,gusto
+103,Geschmack::N,ज़ायक़ा,sapore
+104,Geruch::N,बू,odore
+105,Geruch::N,गंध,odore
+106,Schlaf::N,नींद,sonno
+107,Schlaf::N,निद्रा,sonno
+108,Traum::N,सपना,sogno
+109,Traum::N,स्वप्न,sogno
+110,Himmel::N,आकाश,cielo
+111,Himmel::N,आसमान,cielo
+112,Sonne::N,रवि,sole
+113,Sonne::N,सूरज,sole
+114,Sonne::N,सूर्य,sole
+115,Mond::N,चाँद,luna
+116,Mond::N,चंद्र,luna
+117,Stern::N,तारा,stella
+118,Stern::N,सितारा,stella
+119,Luft::N,हवा,aria
+120,Luft::N,वायु,aria
+121,Wind::N,पाद,vento
+122,Welle::N,लहर,onda
+123,Welle::N,तरंग,onda
+124,Wasser::N,जल,acqua
+125,Wasser::N,पानी,acqua
+126,Stein::N,पत्थर,sasso
+127,Stein::N,पत्थर,pietra
+128,Boden::N,मिट्टी,suolo
+129,Boden::N,मिट्टी,terreno
+130,Erde::N,भूमि,terra
+131,Erde::N,ज़मीन,terra
+132,Staub::N,धूल,polvere
+133,Rauch::N,धूआँ,fumo
+134,Rauch::N,धुम्र,fumo
+135,Funke::N,चिनगारी,scintilla
+136,Funke::N,स्फुलिंग,scintilla
+137,Feuer::N,आग,fuoco
+138,Feuer::N,आतिश,fuoco
+139,Feuer::N,अग्नि,fuoco
+140,Licht::N,रोशनी,luce
+141,Licht::N,प्रकाश,luce
+142,Schatten::N,छाया,ombra
+143,Schatten::N,परछाई,ombra
+144,Wetter::N,ऋतु,tempo
+145,Wetter::N,मौसम,tempo
+146,Nebel::N,धुँध,nebbia
+147,Nebel::N,कुहरा,nebbia
+148,Wolke::N,मेघ,nube
+149,Wolke::N,मेघ,nùvola
+150,Wolke::N,अभ्र,nube
+151,Wolke::N,अभ्र,nùvola
+152,Regen::N,मेंह,pioggia
+153,Regen::N,बारिश,pioggia
+154,Schnee::N,हिम,neve
+155,Schnee::N,बर्फ़,neve
+156,Eis::N,हिम,ghiaccio
+157,Eis::N,बर्फ़,ghiaccio
+158,Frost::N,ठंड,gelo
+159,Kälte::N,सर्दी,freddo
+160,Kälte::N,शीतलता,freddo
+161,Hitze::N,ताप,caldo
+162,Hitze::N,ताप,calura
+163,Hitze::N,गरमी,caldo
+164,Hitze::N,गरमी,calura
+165,Raureif::N,पाला,brina
+166,Regenbogen::N,इंद्र-धनुष,arcobaleno
+167,Donner::N,गरज,tuono
+168,Donner::N,मेघ-गर्जन,tuono
+169,Strömung::N,बहाव,corrente
+170,Strömung::N,प्रवाह,corrente
+171,Tropfen::N,बूँद,goccia
+172,Schaum::N,झाग,spuma
+173,Schaum::N,झाग,schiuma
+174,Schmutz::N,गंद,sudiciume
+175,Schmutz::N,कीचड़,sudiciume
+176,See::N,झील,lago
+177,See::N,सरोवर,lago
+178,Sumpf::N,दलदल,palude
+179,Sumpf::N,धँसान,palude
+180,Moor::N,झाबर,torbiera
+181,Moor::N,धँसान,torbiera
+182,Wiese::N,घास-स्थल,prato
+183,Wald::N,जंगल,bosco
+184,Wald::N,जंगल,foresta
+185,Hügel::N,टीला,colle
+186,Hügel::N,टीला,collina
+187,Hügel::N,पहाड़,colle
+188,Hügel::N,पहाड़,collina
+189,Anhöhe::N,टीला,altura
+190,Anhöhe::N,पहाड़ी,altura
+191,Berg::N,पहाड़,monte
+192,Berg::N,पहाड़,montagna
+193,Gipfel::N,शिखर,cima
+194,Höhle::N,गुहा,grotta
+195,Höhle::N,गुहा,caverna
+196,Höhle::N,गुफ़ा,grotta
+197,Höhle::N,गुफ़ा,caverna
+198,Abhang::N,ढाल,pendìo
+199,Abhang::N,ढलान,pendìo
+200,Quelle::N,चश्मा,sorgente
+201,Bach::N,सोता,ruscello
+202,Bach::N,नदिका,ruscello
+203,Fluss::N,नदी,fiume
+204,Fluss::N,सरिता,fiume
+205,Ufer::N,तट,riva
+206,Ufer::N,किनारा,riva
+207,Küste::N,समुद्र-तट,costa
+208,Festland::N,महाद्वीप,terraferma
+209,Meer::N,सागर,mare
+210,Meer::N,समुद्र,mare
+211,Bucht::N,खाड़ी,cala
+212,Insel::N,टापू,ìsola
+213,Insel::N,द्वीप,ìsola
+214,Blume::N,फूल,fiore
+215,Blume::N,पुष्प,fiore
+216,Gras::N,घास,erba
+217,Wurzel::N,मूल,radice
+218,Baum::N,पेड़,àlbero
+219,Baum::N,वृक्ष,àlbero
+220,Stamm::N,धड़,tronco
+221,Rinde::N,छाल,corteccia
+222,Rinde::N,वल्कल,corteccia
+223,Ast::N,डाल,ramo
+224,Ast::N,शाखा,ramo
+225,Zweig::N,टहनी,ramo
+226,Blatt::N,पत्र,foglia
+227,Blatt::N,पत्ता,foglia
+228,Birke::N,भूर्ज,betulla
+229,Kiefer[Baum]::N,पाइन-वृक्ष,pino
+230,Weide[Baum]::N,बेंत,sàlice
+231,Tanne::N,फ़र,abete
+232,Horn::N,सींग,corno
+233,Horn::N,विषाण,corno
+234,Feder::N,पर,penna
+235,Feder::N,पंख,penna
+236,Fell::N,खाल,manto
+237,Fell::N,खाल,pelame
+238,Fell::N,पशु-चर्म,manto
+239,Fell::N,पशु-चर्म,pelame
+240,Flügel::N,पंख,ala
+241,Flügel::N,डैना,ala
+242,Klaue::N,पंजा,grinfia
+243,Kralle::N,पंजा,unghia
+244,Kralle::N,पंजा,artiglio
+245,Kralle::N,नाख़ून,unghia
+246,Kralle::N,नाख़ून,artiglio
+247,Schwanz::N,पूँछ,coda
+248,Ei::N,अंडा,uovo
+249,Nest::N,नीड़,nido
+250,Nest::N,घोंसला,nido
+251,Bau::N,बिल,covo
+252,Bau::N,माँद,covo
+253,Tier::N,पशु,bestia
+254,Tier::N,पशु,animale
+255,Tier::N,जानवर,bestia
+256,Tier::N,जानवर,animale
+257,Herde::N,गल्ला,gregge
+258,Kuh::N,गौ,vacca
+259,Kuh::N,गाय,vacca
+260,Bulle::N,साँड़,toro
+261,Pferd::N,अश्व,cavallo
+262,Pferd::N,घोड़ा,cavallo
+263,Schaf::N,भेड़,pècora
+264,Schwein::N,शूकर,porco
+265,Schwein::N,शूकर,maiale
+266,Hund::N,श्वान,cane
+267,Hund::N,कुत्ता,cane
+268,Katze::N,बिल्ली,gatta
+269,Bär::N,रीछ,orso
+270,Bär::N,भालू,orso
+271,Eichhörnchen::N,गिलहरी,scoiàttolo
+272,Elch::N,एल्क,alce
+273,Fuchs::N,लोमड़ी,volpe
+274,Hase::N,खरहा,lepre
+275,Hase::N,ख़रगोश,lepre
+276,Maus::N,मूष,topo
+277,Maus::N,मूष,sorcio
+278,Maus::N,चूहा,topo
+279,Maus::N,चूहा,sorcio
+280,Wolf::N,वृक,lupo
+281,Wolf::N,भेड़िया,lupo
+282,Vogel::N,पक्षी,uccello
+283,Vogel::N,चिड़िया,uccello
+284,Schwarm::N,झुंड,stormo
+285,Huhn::N,मुर्ग़ी,gallina
+286,Hahn::N,मुर्ग़ा,gallo
+287,Gans::N,हंस,oca
+288,Gans::N,हंसिनी,oca
+289,Adler::N,उक़ाब,àquila
+290,Ente::N,बतख़,ànatra
+291,Ente::N,बत्तक,ànatra
+292,Eule::N,उल्लू,gufo
+293,Eule::N,उल्लू,civetta
+294,Kranich::N,सारस,gru
+295,Kranich::N,क्रौंंच,gru
+296,Krähe::N,काक,cornacchia
+297,Kuckuck::N,कोयल,cuccù
+298,Kuckuck::N,कोयल,cùculo
+299,Kuckuck::N,कोकिल,cuccù
+300,Kuckuck::N,कोकिल,cùculo
+301,Schwan::N,हंस,cigno
+302,Schwan::N,मराल,cigno
+303,Fisch::N,मछली,pesce
+304,Fisch::N,मत्स्य,pesce
+305,Barsch::N,पर्च,pèrsico
+306,Hecht::N,पाइक,luccio
+307,Schlange[Tier]::N,सर्प,serpente
+308,Wurm::N,कृमि,baco
+309,Wurm::N,कृमि,verme
+310,Wurm::N,कीड़ा,baco
+311,Wurm::N,कीड़ा,verme
+312,Spinne::N,लूता,ragno
+313,Spinne::N,मकड़ी,ragno
+314,Ameise::N,चींटी,formica
+315,Laus::N,जूँ,pidocchio
+316,Mücke::N,डाँस,zanzara
+317,Fliege::N,मक्खी,mosca
+318,Fliege::N,मक्षिका,mosca
+319,Schmetterling::N,तितली,farfalla
+320,Beere::N,बेरी,bacca
+321,Apfel::N,सेब,mela
+322,Pilz::N,खुंबी,fungo
+323,Zwiebel::N,प्याज़,cipolla
+324,Saat::N,बीज,semente
+325,Korn::N,दाना,grano
+326,Heu::N,मूखी घास,fieno
+327,Schale::N,बकला,buccia
+328,Schale::N,छिलका,buccia
+329,Grube::N,गड्ढा,cava
+330,Grube::N,गड्ढा,fossa
+331,Falle::N,जाल,tràppola
+332,Falle::N,फँदा,tràppola
+333,Schlinge::N,फँदा,laccio
+334,Spur::N,सुराग़,traccia
+335,Spur::N,पद-चिह्न,traccia
+336,Asche::N,राख,cenere
+337,Dreck::N,मैल,fango
+338,Dreck::N,गंदगी,fango
+339,Eisen::N,लोहा,ferro
+340,Gold::N,सोना,oro
+341,Gold::N,स्वर्ण,oro
+342,Silber::N,रजत,argento
+343,Silber::N,चाँदी,argento
+344,Kohle::N,कोयला,carbone
+345,Glas::N,काँच,vetro
+346,Lehm::N,चिकनी मिट्टी,argilla
+347,Sand::N,रेत,arena
+348,Sand::N,रेत,sabbia
+349,Sand::N,बालू,arena
+350,Sand::N,बालू,sabbia
+351,Mensch::N,मानव,uomo
+352,Mensch::N,मानव,èssere umano
+353,Mensch::N,इनसान,uomo
+354,Mensch::N,इनसान,èssere umano
+355,Mensch::N,मनुष्य,uomo
+356,Mensch::N,मनुष्य,èssere umano
+357,Mann::N,आदमी,uomo
+358,Mann::N,पुरुष,uomo
+359,Frau::N,औरत,donna
+360,Frau::N,महिला,donna
+361,Frau::N,स्त्री,donna
+362,Kind::N,बाल,bambino
+363,Kind::N,बच्चा,bambino
+364,Junge::N,लड़का,ragazzo
+365,Mädchen::N,लड़की,ragazza
+366,Mädchen::N,कुमारी,ragazza
+367,Familie::N,परिवार,famiglia
+368,Großvater::N,दादा,nonno
+369,Großmutter::N,नानी,nonna
+370,Eltern::N,माँ-बाप,genitori
+371,Eltern::N,माता-पिता,genitori
+372,Vater::N,बाप,padre
+373,Vater::N,पिता,padre
+374,Mutter::N,माँ,madre
+375,Mutter::N,माता,madre
+376,Sohn::N,बेटा,figlio
+377,Sohn::N,पुत्र,figlio
+378,Tochter::N,बेटी,figlia
+379,Tochter::N,पुत्री,figlia
+380,Bruder::N,भाई,fratello
+381,Bruder::N,भ्राता,fratello
+382,Schwester::N,बहन,sorella
+383,Schwester::N,भगिनी,sorella
+384,Onkel::N,ताऊ,zio
+385,Onkel::N,काका,zio
+386,Tante::N,बूआ,zia
+387,Tante::N,फूफी,zia
+388,Tante::N,ख़ाला,zia
+389,Ehemann::N,पति,marito
+390,Ehemann::N,शौहर,marito
+391,Ehefrau::N,बीवी,moglie
+392,Freude::N,आनंद,gioia
+393,Freude::N,आनंद,piacere
+394,Freude::N,प्रसन्नता,gioia
+395,Freude::N,प्रसन्नता,piacere
+396,Gelächter::N,हँसी,risata
+397,Gelächter::N,क़हक़हा,risata
+398,Glück::N,आनंद,felicità
+399,Glück::N,ख़ुशी,felicità
+400,Kummer::N,शोक,afflizione
+401,Kummer::N,दुःख,afflizione
+402,Wunsch::N,इच्छा,desiderio
+403,Wunsch::N,अभिलाषा,desiderio
+404,Lust::N,चाह,voglia
+405,Lust::N,कामना,voglia
+406,Geist::N,जान,mente
+407,Geist::N,जान,spìrito
+408,Geist::N,प्राण,mente
+409,Geist::N,प्राण,spìrito
+410,Gedanke::N,विचार,idea
+411,Gedanke::N,विचार,pensiero
+412,Gedächtnis::N,याददाश्त,memoria
+413,Gedächtnis::N,स्मरण-शक्ति,memoria
+414,Verstand::N,समझ,intelletto
+415,Verstand::N,अक़्ल,intelletto
+416,Verstand::N,बुद्धि,intelletto
+417,Sinn::N,अर्थ,senso
+418,Sinn::N,अर्थ,significato
+419,Grund::N,वजह,causa
+420,Grund::N,वजह,motivo
+421,Grund::N,वजह,ragione
+422,Grund::N,कारण,causa
+423,Grund::N,कारण,motivo
+424,Grund::N,कारण,ragione
+425,Wahrheit::N,सत्य,verità
+426,Wahrheit::N,सच्चाई,verità
+427,Gespräch::N,चर्चा,discorso
+428,Gespräch::N,चर्चा,conversazione
+429,Gespräch::N,वार्ता,discorso
+430,Gespräch::N,वार्ता,conversazione
+431,Gespräch::N,बात-चीत,discorso
+432,Gespräch::N,बात-चीत,conversazione
+433,Märchen::N,क़िस्सा,fiaba
+434,Märchen::N,क़िस्सा,fàvola
+435,Erzählung::N,कथा,racconto
+436,Erzählung::N,कथा,narrazione
+437,Erzählung::N,कहानी,racconto
+438,Erzählung::N,कहानी,narrazione
+439,Nachricht::N,सूचना,messaggio
+440,Nachricht::N,समाचार,messaggio
+441,Neuigkeit::N,ख़बर,notizia
+442,Neuigkeit::N,समाचार,notizia
+443,Name::N,नाम,nome
+444,Rätsel::N,पहेली,indovinello
+445,Rede::N,वचन,discorso
+446,Rede::N,भाषण,discorso
+447,Sprache::N,भाषा,lingua
+448,Sprache::N,भाषा,linguaggio
+449,Sprache::N,ज़बान,lingua
+450,Sprache::N,ज़बान,linguaggio
+451,Stimme::N,स्वर,voce
+452,Stimme::N,आवाज़,voce
+453,Wort::N,शब्द,parola
+454,Wort::N,लफ़्ज़,parola
+455,Zeichen::N,निशान,segno
+456,Zeichen::N,निशान,segnale
+457,Ruf::N,पुकार,chiamata
+458,Ruf::N,आह्वान,chiamata
+459,Lärm::N,शोर,chiasso
+460,Lärm::N,शोर,strèpito
+461,Lärm::N,हुल्लड़,chiasso
+462,Lärm::N,हुल्लड़,strèpito
+463,Laut::N,स्वर,suono
+464,Laut::N,ध्वनि,suono
+465,Ton::N,सुर,tono
+466,Ton::N,स्वर,tono
+467,Lied::N,गीत,canto
+468,Lied::N,गीत,canzone
+469,Ruhe::N,आराम,calma
+470,Ruhe::N,आराम,tranquillità
+471,Ruhe::N,ख़ामोशी,calma
+472,Ruhe::N,ख़ामोशी,tranquillità
+473,Leute::N,लोग,gente
+474,Volk::N,क़ौम,pòpolo
+475,Volk::N,प्रजा,pòpolo
+476,Arbeit::N,काम,lavoro
+477,Gast::N,अतिथि,òspite
+478,Gast::N,अतिथि,invitato
+479,Gast::N,मेहमान,òspite
+480,Gast::N,मेहमान,invitato
+481,Geschenk::N,उपहार,regalo
+482,Geschenk::N,तोहफ़ा,regalo
+483,Spiel::N,खेल,gioco
+484,Spiel::N,क्रीड़ा,gioco
+485,Gesellschaft::N,साथ,compagnìa
+486,Hilfe::N,मदद,aiuto
+487,Hilfe::N,मदद,soccorso
+488,Hilfe::N,सहायता,aiuto
+489,Hilfe::N,सहायता,soccorso
+490,Freund::N,मित्र,amico
+491,Kamerad::N,साथी,camerata
+492,Kamerad::N,कामरेड,camerata
+493,Angelegenheit::N,बात,affare
+494,Angelegenheit::N,बात,faccenda
+495,Angelegenheit::N,मामला,affare
+496,Angelegenheit::N,मामला,faccenda
+497,Anzahl::N,तादाद,nùmero
+498,Anzahl::N,तादाद,quantità
+499,Anzahl::N,संख्या,nùmero
+500,Anzahl::N,संख्या,quantità
+501,Art::N,तरह,tipo
+502,Art::N,तरह,specie
+503,Art::N,क़िस्म,tipo
+504,Art::N,क़िस्म,specie
+505,Stück::N,फाँक,pezzo
+506,Stück::N,टुकड़ा,pezzo
+507,Teil::N,भाग,parte
+508,Teil::N,हिस्सा,parte
+509,Hälfte::N,अर्धभाग,metà
+510,Kreis::N,चक्कर,cìrcolo
+511,Kreuz::N,सलीब,croce
+512,Kreuz::N,क्रूस,croce
+513,Linie::N,लाइन,lìnea
+514,Strich::N,लकीर,tratto
+515,Abstand::N,अंतर,distanza
+516,Abstand::N,फ़ासला,distanza
+517,Entfernung::N,दूरी,distanza
+518,Entfernung::N,दूरी,lontananza
+519,Entfernung::N,फ़ासला,distanza
+520,Entfernung::N,फ़ासला,lontananza
+521,Gegend::N,इलाक़ा,regione
+522,Platz::N,जगह,posto
+523,Platz::N,जगह,spazio
+524,Platz::N,स्थान,posto
+525,Platz::N,स्थान,spazio
+526,Ort::N,स्थल,luogo
+527,Ort::N,स्थल,località
+528,Ort::N,स्थान,luogo
+529,Ort::N,स्थान,località
+530,Seite::N,ओर,lato
+531,Seite::N,ओर,parte
+532,Seite::N,तरफ़,lato
+533,Seite::N,तरफ़,parte
+534,Mitte::N,बीच,mezzo
+535,Mitte::N,बीच,centro
+536,Mitte::N,मध्य,mezzo
+537,Mitte::N,मध्य,centro
+538,Gegenstand::N,चीज़,oggetto
+539,Gegenstand::N,पदार्थ,oggetto
+540,Sache::N,चीज़,cosa
+541,Sache::N,वस्तु,cosa
+542,Rand::N,छोर,orlo
+543,Rand::N,छोर,bordo
+544,Rand::N,उपांत,orlo
+545,Rand::N,उपांत,bordo
+546,Kante::N,कोर,spìgolo
+547,Kante::N,किनारा,spìgolo
+548,Ecke::N,कोना,canto
+549,Ecke::N,नुक्कड़,canto
+550,Spitze::N,नोक,punta
+551,Ende::N,छोर,capo
+552,Ende::N,छोर,estremità
+553,Ende::N,सिरा,capo
+554,Ende::N,सिरा,estremità
+555,Loch::N,छेद,buco
+556,Loch::N,सूराख़,buco
+557,Winkel::N,कोण,àngolo
+558,Winkel::N,कोना,àngolo
+559,Muster::N,नमूना,disegno
+560,Muster::N,डिज़ाइन,disegno
+561,Größe::N,परिमाण,taglia
+562,Größe::N,परिमाण,grandezza
+563,Größe::N,विस्तार,taglia
+564,Größe::N,विस्तार,grandezza
+565,Länge::N,लंबाई,lunghezza
+566,Höhe::N,ऊँचाई,altezza
+567,Höhe::N,उच्चता,altezza
+568,Gewicht::N,भार,peso
+569,Gewicht::N,वज़न,peso
+570,Menge::N,मात्रा,quantità
+571,Haufen::N,ढेर,cùmulo
+572,Haufen::N,ढेर,mucchio
+573,Haufen::N,अंबार,cùmulo
+574,Haufen::N,अंबार,mucchio
+575,Reihe::N,क़तार,fila
+576,Reihe::N,पंक्ति,fila
+577,Boot::N,नाव,barca
+578,Boot::N,नाव,battello
+579,Boot::N,नौका,barca
+580,Boot::N,नौका,battello
+581,Ruder::N,चप्पू,remo
+582,Schlitten::N,बर्फ़-गाड़ी,slitta
+583,Ski::N,स्की,sci
+584,Lagerfeuer::N,अलाव,falò
+585,Lagerfeuer::N,अलाव,fuoco di bivacco
+586,Lagerfeuer::N,कैंप-फ़ायर,falò
+587,Lagerfeuer::N,कैंप-फ़ायर,fuoco di bivacco
+588,Last::N,भार,càrico
+589,Gang::N,चाल,andata
+590,Schritt::N,डग,passo
+591,Schritt::N,क़दम,passo
+592,Norden::N,उत्तर,nord
+593,Norden::N,उत्तर,settentrione
+594,Süden::N,दक्खिन,sud
+595,Süden::N,दक्खिन,meridione
+596,Westen::N,पश्चिम,òvest
+597,Westen::N,पश्चिम,occidente
+598,Osten::N,पूरब,est
+599,Osten::N,पूरब,oriente
+600,Holz::N,काठ,legno
+601,Holz::N,काष्ठ,legno
+602,Brett::N,पटरा,asse
+603,Brett::N,पटरा,tàvola
+604,Brett::N,तख़्ता,asse
+605,Brett::N,तख़्ता,tàvola
+606,Platte::N,फलक,lastra
+607,Platte::N,फलक,piastra
+608,Platte::N,तख़्ता,lastra
+609,Platte::N,तख़्ता,piastra
+610,Stütze::N,टेक,supporto
+611,Stütze::N,थूनी,supporto
+612,Stange::N,छड़,sbarra
+613,Stange::N,छड़,pèrtica
+614,Stange::N,बाँस,sbarra
+615,Stange::N,बाँस,pèrtica
+616,Stock::N,लाठी,verga
+617,Stock::N,लाठी,bastone
+618,Stock::N,लाठी,bacchetta
+619,Stab::N,लग्गा,asta
+620,Rohr::N,नल,tubo
+621,Haus::N,घर,casa
+622,Haus::N,मकान,casa
+623,Heim::N,घर,casa
+624,Heim::N,गृह,casa
+625,Ofen::N,चूल्हा,stufa
+626,Fußboden::N,फ़र्श,pavimento
+627,Tisch::N,मेज़,tàvolo
+628,Stuhl::N,कुरसी,sedia
+629,Wiege::N,पालना,culla
+630,Wiege::N,हिंडोला,culla
+631,Bett::N,खाट,letto
+632,Bett::N,पलंग,letto
+633,Regal::N,शेल्फ़,scaffale
+634,Kiste::N,पेटी,cassa
+635,Kiste::N,डिब्बा,cassa
+636,Fenster::N,खिड़की,finestra
+637,Tür::N,द्वार,porta
+638,Tür::N,दरवाज़ा,porta
+639,Tor::N,फाटक,portone
+640,Zaun::N,बाड़ा,recinto
+641,Dach::N,छत,tetto
+642,Dach::N,छप्पर,tetto
+643,Leiter::N,सीढ़ी,scala
+644,Leiter::N,सीढ़ी,scala a pioli
+645,Besen::N,झाड़ू,scopa
+646,Besen::N,बुहारी,scopa
+647,Spaten::N,कुदाल,vanga
+648,Schaufel::N,बेलचा,pala
+649,Schaufel::N,फावड़ा,pala
+650,Gabel::N,काँटा,forchetta
+651,Löffel::N,चम्मच,cucchiaio
+652,Messer::N,छुरा,coltello
+653,Messer::N,चाक़ू,coltello
+654,Nagel::N,कील,chiodo
+655,Nagel::N,मेख़,chiodo
+656,Netz::N,जाल,rete
+657,Haken::N,अंकुश,uncino
+658,Griff::N,मूठ,mànico
+659,Griff::N,मूठ,maniglia
+660,Griff::N,हत्था,mànico
+661,Griff::N,हत्था,maniglia
+662,Schloss::N,ताला,serratura
+663,Bild::N,चित्र,quadro
+664,Bild::N,चित्र,immàgine
+665,Figur::N,मूर्ति,figura
+666,Puppe::N,पुतली,bàmbola
+667,Puppe::N,गुड़िया,bàmbola
+668,Beutel::N,झोला,borsa
+669,Beutel::N,झोला,sacchetto
+670,Bündel::N,पुलिंदा,fascio
+671,Bündel::N,पुलिंदा,fagotto
+672,Tasche::N,बेग,borsa
+673,Tasche::N,बस्ता,borsa
+674,Eimer::N,बाल्टी,secchio
+675,Deckel::N,ढक्कन,coperchio
+676,Geschirr::N,बरतन-भाँड़े,stoviglie
+677,Sack::N,बोरा,sacco
+678,Tasse::N,प्याला,tazza
+679,Topf::N,देग़चा,pèntola
+680,Kessel::N,देग़,paiolo
+681,Kessel::N,देग़,calderone
+682,Kessel::N,बटलोई,paiolo
+683,Kessel::N,बटलोई,calderone
+684,Essen::N,खाना,pasto
+685,Essen::N,खाना,mangiare
+686,Nahrung::N,भोजन,cibo
+687,Nahrung::N,भोजन,alimento
+688,Speise::N,खाना,piatto
+689,Speise::N,व्यंजन,piatto
+690,Fleisch::N,मांस,carne
+691,Fleisch::N,गोश्त,carne
+692,Getreide::N,अनाज,cereali
+693,Brei::N,भरता,purè
+694,Brei::N,भरता,pappa
+695,Brei::N,दलिया,purè
+696,Brei::N,दलिया,pappa
+697,Brot::N,रोटी,pane
+698,Scheibe::N,कतला,fetta
+699,Scheibe::N,कतला,trancia
+700,Fett::N,वसा,grasso
+701,Fett::N,चरबी,grasso
+702,Butter::N,मक्खन,burro
+703,Öl::N,तेल,olio
+704,Salz::N,नमक,sale
+705,Suppe::N,सूप,zuppa
+706,Suppe::N,सूप,minestra
+707,Suppe::N,शोरबा,zuppa
+708,Suppe::N,शोरबा,minestra
+709,Honig::N,शहद,miele
+710,Milch::N,दूध,latte
+711,Tee::N,चाय,tè
+712,Leder::N,चमड़ा,pelle
+713,Wolle::N,ऊन,lana
+714,Stoff::N,कपड़ा,panno
+715,Stoff::N,कपड़ा,tessuto
+716,Nadel::N,सूई,ago
+717,Faden::N,डोरा,filo
+718,Knopf::N,बटन,bottone
+719,Knopf::N,घुंडी,bottone
+720,Knoten::N,गाँठ,nodo
+721,Knoten::N,गुत्थी,nodo
+722,Farbe::N,रंग,pittura
+723,Farbe::N,वर्ण,pittura
+724,Kleidung::N,पहनावा,vestiti
+725,Kleidung::N,पहनावा,vestiario
+726,Hemd::N,कुरता,camicia
+727,Hemd::N,क़मीज़,camicia
+728,Kragen::N,गरदनी,bàvero
+729,Kragen::N,गरदनी,colletto
+730,Kragen::N,गरेबान,bàvero
+731,Kragen::N,गरेबान,colletto
+732,Ärmel::N,आस्तीन,mànica
+733,Hose::N,पैंट,calzoni
+734,Hose::N,पतलून,calzoni
+735,Gürtel::N,पेटी,cintura
+736,Gürtel::N,मेखला,cintura
+737,Mütze::N,टोपी,berretto
+738,Schuh::N,जूता,scarpa
+739,Stiefel::N,बूट,stivale
+740,Ring::N,अँगूठी,anello
+741,Band::N,पट्टी,nastro
+742,Band::N,पट्टी,fettuccia
+743,Kamm::N,कंघी,pèttine
+744,Spiegel::N,आईना,specchio
+745,Spiegel::N,दर्पण,specchio
+746,Riemen::N,तसमा,cinghia
+747,Riemen::N,पट्टा,cinghia
+748,Schnur::N,डोरी,corda
+749,Schnur::N,सुतली,corda
+750,Leine::N,रस्सी,guinzaglio
+751,Decke::N,रज़ाई,coperta
+752,Kissen::N,तकिया,cuscino
+753,Kissen::N,तकिया,guanciale
+754,Kissen::N,गाद्दा,cuscino
+755,Kissen::N,गाद्दा,guanciale
+756,Tuch::N,रूमाल,fazzoletto
+757,Tuch::N,वस्त्र,fazzoletto
+758,Handtuch::N,अँगोछा,asciugamano
+759,Kraft::N,ज़ोर,forza
+760,Kraft::N,शक्ति,forza
+761,Stärke::N,बल,forza
+762,Stärke::N,बल,vigore
+763,Stärke::N,बल,fortezza
+764,Stärke::N,ताक़त,forza
+765,Stärke::N,ताक़त,vigore
+766,Stärke::N,ताक़त,fortezza
+767,Gesundheit::N,स्वास्थ्य,salute
+768,Gesundheit::N,तंदुरुस्ती,salute
+769,Krankheit::N,रोग,malattìa
+770,Krankheit::N,बीमारी,malattìa
+771,Schmerz::N,दर्द,dolore
+772,Schmerz::N,पीड़ा,dolore
+773,Wunde::N,घाव,piaga
+774,Wunde::N,घाव,ferita
+775,Wunde::N,ज़ख़्म,piaga
+776,Wunde::N,ज़ख़्म,ferita
+777,Fieber::N,ज्वर,febbre
+778,Fieber::N,बुख़ार,febbre
+779,Arznei::N,दवा,fàrmaco
+780,Arznei::N,दवा,medicina
+781,Arznei::N,औषाधि,fàrmaco
+782,Arznei::N,औषाधि,medicina
+783,Brücke::N,पुल,ponte
+784,Brücke::N,सेतु,ponte
+785,Brunnen::N,कुआँ,pozzo
+786,Weide::N,चरागाह,pàscolo
+787,Pfad::N,पथ,sentiero
+788,Pfad::N,पगडंडी,sentiero
+789,Weg::N,मार्ग,via
+790,Weg::N,मार्ग,cammino
+791,Straße::N,राह,strada
+792,Straße::N,रास्ता,strada
+793,Dorf::N,गाँव,paese
+794,Dorf::N,गाँव,villaggio
+795,Dorf::N,ग्राम,paese
+796,Dorf::N,ग्राम,villaggio
+797,Stadt::N,शहर,città
+798,Brief::N,ख़त,lèttera
+799,Brief::N,पत्र,lèttera
+800,Brief::N,चिट्ठी,lèttera
+801,Buch::N,किताब,libro
+802,Buch::N,पुस्तक,libro
+803,Buchstabe::N,अक्षर,lèttera
+804,Zeitung::N,अख़बार,giornale
+805,Zeitung::N,समाचार-पत्र,giornale
+806,Leben::N,जीवन,vita
+807,Leben::N,ज़िंदगी,vita
+808,Tod::N,मौत,morte
+809,Tod::N,मृत्यु,morte
+810,Grab::N,क़ब्र,tomba
+811,Grab::N,क़ब्र,sepolcro
+812,Kirche::N,चर्च,chiesa
+813,Kirche::N,गिरजा,chiesa
+814,Sünde::N,पाप,peccato
+815,Sünde::N,गुनाह,peccato
+816,Gott::N,देव,dio
+817,Gott::N,ईश्वर,dio
+818,Arbeiter::N,मज़दूर,operaio
+819,Arbeiter::N,मज़दूर,lavoratore
+820,Chef::N,अध्यक्ष,capo
+821,Chef::N,अध्यक्ष,padrone
+822,Meister::N,शिल्पज्ञ,mastro
+823,Meister::N,शिल्पज्ञ,maestro
+824,Arzt::N,वैद्य,mèdico
+825,Arzt::N,वैद्य,dottore
+826,Arzt::N,डॉक्टर,mèdico
+827,Arzt::N,डॉक्टर,dottore
+828,Arzt::N,चिकित्सक,mèdico
+829,Arzt::N,चिकित्सक,dottore
+830,Lehrer::N,शिक्षक,professore
+831,Lehrer::N,अध्यापक,professore
+832,Geld::N,धन,soldi
+833,Geld::N,धन,denaro
+834,Geld::N,पैसा,soldi
+835,Geld::N,पैसा,denaro
+836,Geschäft::N,सौदा,affare
+837,Geschäft::N,सौदा,negozio
+838,Geschäft::N,व्यापार,affare
+839,Geschäft::N,व्यापार,negozio
+840,Laden::N,दुकान,negozio
+841,Preis::N,दाम,prezzo
+842,Preis::N,मूल्य,prezzo
+843,Ware::N,माल,merce
+844,Ware::N,पण्य,merce
+845,Nutzen::N,लाभ,ùtile
+846,Nutzen::N,लाभ,profitto
+847,Nutzen::N,फ़ायदा,ùtile
+848,Nutzen::N,फ़ायदा,profitto
+849,Reichtum::N,धन,ricchezza
+850,Reichtum::N,दौलत,ricchezza
+851,Welt::N,विश्व,mondo
+852,Welt::N,दुनिया,mondo
+853,Land::N,देश,paese
+854,Land::N,मुल्क,paese
+855,Staat::N,राज्य,Stato
+856,Staat::N,राष्ट्र,Stato
+857,König::N,राजा,re
+858,König::N,बादशाह,re
+859,Macht::N,शासन,potere
+860,Macht::N,सत्ता,potere
+861,Grenze::N,सरहद,confine
+862,Grenze::N,सरहद,frontiera
+863,Krieg::N,जंग,guerra
+864,Krieg::N,युद्ध,guerra
+865,Feind::N,शत्रु,nemico
+866,Feind::N,दुश्मन,nemico
+867,Gewalt::N,हिंसा,violenza
+868,Kampf::N,लड़ाई,lotta
+869,Kampf::N,संघर्ष,lotta
+870,Bogen[Waffe]::N,कमान,arco
+871,Pfeil::N,बान,freccia
+872,Gewehr::N,बंदूक़,fucile
+873,Fehler::N,भूल,errore
+874,Fehler::N,भूल,sbaglio
+875,Fehler::N,ग़लती,errore
+876,Fehler::N,ग़लती,sbaglio
+877,Lüge::N,झूठ,bugìa
+878,Lüge::N,झूठ,menzogna
+879,Lüge::N,असत्य,bugìa
+880,Lüge::N,असत्य,menzogna
+881,Schaden::N,हानि,danno
+882,Schaden::N,नुक़सान,danno
+883,Unglück::N,मुसीबत,sfortuna
+884,Unglück::N,विपात्ति,sfortuna
+885,Schuld::N,दोष,colpa
+886,Schuld::N,क़सूर,colpa
+887,Alter::N,आयु,età
+888,Alter::N,उम्र,età
+889,Schluss::N,अंत,fine
+890,Schluss::N,समाप्ति,fine
+891,Zeit::N,काल,tempo
+892,Zeit::N,वक़्त,tempo
+893,Tag::N,दिन,giorno
+894,Tag::N,दिन,giornata
+895,Tag::N,रोज़,giorno
+896,Tag::N,रोज़,giornata
+897,Morgen::N,सुबह,mattina
+898,Mittag::N,दोपहर,mezzogiorno
+899,Mittag::N,मध्याह्न,mezzogiorno
+900,Abend::N,शाम,sera
+901,Abend::N,शाम,serata
+902,Abend::N,संध्या,sera
+903,Abend::N,संध्या,serata
+904,Nacht::N,रात,notte
+905,Nacht::N,रात्रि,notte
+906,Woche::N,हफ़्ता,settimana
+907,Monat::N,मास,mese
+908,Monat::N,महीना,mese
+909,Jahr::N,बरस,anno
+910,Jahr::N,वर्ष,anno
+911,Frühling::N,वसंत,primavera
+912,Sommer::N,गरमी,estate
+913,Sommer::N,ग्रीष्म,estate
+914,Herbst::N,शरत्,autunno
+915,Herbst::N,पतझड़,autunno
+916,Winter::N,जाड़ा,inverno
+917,Winter::N,सर्दियाँ,inverno
+918,Januar::N,जनवरी,gennaio
+919,Februar::N,फ़रवरी,febbraio
+920,März::N,मार्च,marzo
+921,April::N,अप्रैल,aprile
+922,Mai::N,मई,maggio
+923,Juni::N,जून,giugno
+924,Juli::N,जुलाई,luglio
+925,August::N,अगस्त,agosto
+926,September::N,सितंबर,settembre
+927,Oktober::N,अक्तूबर,ottobre
+928,November::N,नवंबर,novembre
+929,Dezember::N,दिसंबर,dicembre
+930,Montag::N,पीर,lunedì
+931,Montag::N,सोमवार,lunedì
+932,Dienstag::N,मंगलवार,martedì
+933,Mittwoch::N,बुधवार,mercoledì
+934,Donnerstag::N,गुरुवार,giovedì
+935,Donnerstag::N,बृहस्पतिवार,giovedì
+936,Freitag::N,शुक्रवार,venerdì
+937,Samstag::N,सनीचर,sàbato
+938,Samstag::N,शनिवार,sàbato
+939,Sonntag::N,इतवार,domenica
+940,Sonntag::N,रविवार,domenica
+941,groß::A,बड़ा,grande
+942,klein::A,कम,pìccolo
+943,klein::A,छोटा,pìccolo
+944,lang::A,लंबा,lungo
+945,lang::A,दीर्घ,lungo
+946,kurz::A,लधु,corto
+947,kurz::A,छोटा,corto
+948,breit::A,चौड़ा,largo
+949,schmal::A,तंग,stretto
+950,schmal::A,सँकरा,stretto
+951,dicht::A,सघन,denso
+952,dick[Gegenstand]::A,मोटा,spesso
+953,dünn::A,महीन,sottile
+954,dünn::A,बारीक,sottile
+955,fein::A,कोमल,fine
+956,fein::A,कोमल,delicato
+957,fein::A,सूक्ष्म,fine
+958,fein::A,सूक्ष्म,delicato
+959,fest::A,दृढ़,sodo
+960,fest::A,दृढ़,fisso
+961,fest::A,मज़बूत,sodo
+962,fest::A,मज़बूत,fisso
+963,flach::A,चपटा,piano
+964,flach::A,चपटा,piatto
+965,glatt::A,चौरस,liscio
+966,glatt::A,चिकना,liscio
+967,hart::A,कठोर,duro
+968,hart::A,सख़्त,duro
+969,weich::A,नरम,molle
+970,weich::A,मुलायम,molle
+971,rund::A,गोल,rotondo
+972,rund::A,वर्तुल,rotondo
+973,spitz::A,नुकीला,aguzzo
+974,spitz::A,नुकीला,appuntito
+975,scharf::A,पैना,affilato
+976,scharf::A,पैना,tagliente
+977,stumpf::A,भोथरा,smussato
+978,schwer::A,भारी,pesante
+979,schwer::A,वज़नी,pesante
+980,schön::A,सुंदर,bello
+981,heiß::A,उष्ण,caldo
+982,heiß::A,उष्ण,bollente
+983,warm::A,गरम,caldo
+984,kalt::A,सर्द,freddo
+985,kühl::A,ठंडा,fresco
+986,frisch::A,तर,fresco
+987,frisch::A,ताज़ा,fresco
+988,feucht::A,नम,ùmido
+989,feucht::A,भीगा,ùmido
+990,nass::A,गीला,bagnato
+991,trocken::A,सूखा,secco
+992,trocken::A,ख़ुश्क,secco
+993,voll::A,भरा,pieno
+994,voll::A,पूरा,pieno
+995,leer::A,ख़ाली,vuoto
+996,offen::A,खुला,aperto
+997,geschlossen::A,बंद,chiuso
+998,sauber::A,साफ़,netto
+999,sauber::A,साफ़,pulito
+1000,sauber::A,सुथरा,netto
+1001,sauber::A,सुथरा,pulito
+1002,schmutzig::A,गंदा,sporco
+1003,schmutzig::A,गंदा,sùdicio
+1004,roh::A,कच्चा,crudo
+1005,reif::A,पक्व,maturo
+1006,reif::A,पक्का,maturo
+1007,lecker::A,मज़ेदार,ghiotto
+1008,lecker::A,मज़ेदार,squisito
+1009,lecker::A,स्वादिष्ट,ghiotto
+1010,lecker::A,स्वादिष्ट,squisito
+1011,süß::A,मीठा,dolce
+1012,bitter::A,कटु,amaro
+1013,bitter::A,कड़वा,amaro
+1014,sauer::A,खट्टा,aspro
+1015,sauer::A,खट्टा,acerbo
+1016,hell::A,रोशन,chiaro
+1017,dunkel::A,अँधेरा,buio
+1018,dunkel::A,अँधेरा,oscuro
+1019,schwarz::A,काला,nero
+1020,schwarz::A,स्याह,nero
+1021,weiß::A,सफ़ेद,bianco
+1022,rot::A,लाल,rosso
+1023,rot::A,सुर्ख़,rosso
+1024,gelb::A,पीला,giallo
+1025,gelb::A,ज़र्द,giallo
+1026,blau::A,नीला,blu
+1027,blau::A,नीला,azzurro
+1028,blau::A,आसमानी,blu
+1029,blau::A,आसमानी,azzurro
+1030,grün::A,हरा,verde
+1031,grau::A,धूसर,grigio
+1032,bunt::A,रंगीन,variopinto
+1033,bunt::A,बहुरंगा,variopinto
+1034,billig::A,सस्ता,a buon prezzo
+1035,billig::A,सस्ता,a buon mercato
+1036,teuer::A,महँगा,caro
+1037,wertvoll::A,क़ीमती,prezioso
+1038,wertvoll::A,मूल्यवान्,prezioso
+1039,blind::A,अंधा,cieco
+1040,taub::A,बहरा,sordo
+1041,kräftig::A,ताक़तवर,forte
+1042,kräftig::A,ताक़तवर,robusto
+1043,kräftig::A,शक्तिशाली,forte
+1044,kräftig::A,शक्तिशाली,robusto
+1045,stark::A,प्रबल,forte
+1046,stark::A,प्रबल,vigoroso
+1047,stark::A,बलवान्,forte
+1048,stark::A,बलवान्,vigoroso
+1049,schwach::A,कमज़ोर,dèbole
+1050,fett::A,मोटा,grasso
+1051,fett::A,मांसल,grasso
+1052,schlank::A,पतला,snello
+1053,schlank::A,पतला,slanciato
+1054,schlank::A,छरहरा,snello
+1055,schlank::A,छरहरा,slanciato
+1056,hübsch::A,सुंदर,bello
+1057,hübsch::A,सुंदर,carino
+1058,hübsch::A,ख़ूबसूरत,bello
+1059,hübsch::A,ख़ूबसूरत,carino
+1060,böse::A,पापी,cattivo
+1061,böse::A,दुष्ट,cattivo
+1062,dumm::A,मूर्ख,stùpido
+1063,dumm::A,बुद्धू,stùpido
+1064,faul::A,आलसी,pigro
+1065,faul::A,सुस्त,pigro
+1066,fleißig::A,मेहनती,diligente
+1067,fleißig::A,परिश्रमी,diligente
+1068,geizig::A,कृपण,avaro
+1069,geizig::A,कंजूस,avaro
+1070,klug::A,समझदार,intelligente
+1071,klug::A,होशियार,intelligente
+1072,klug::A,अक़्लमंद,intelligente
+1073,geschickt::A,किशल,àbile
+1074,lieb::A,प्रिय,caro
+1075,lieb::A,प्यारा,caro
+1076,lustig::A,हँसमुख,gaio
+1077,lustig::A,हँसमुख,allegro
+1078,lustig::A,ख़ुशदिल,gaio
+1079,lustig::A,ख़ुशदिल,allegro
+1080,sanft::A,नम्र,dolce
+1081,hungrig::A,भूखा,affamato
+1082,krank::A,बीमार,malato
+1083,krank::A,बीमार,infermo
+1084,krank::A,अस्वस्थ,malato
+1085,krank::A,अस्वस्थ,infermo
+1086,nackt::A,नग्न,nudo
+1087,traurig::A,उदास,triste
+1088,traurig::A,रंजीदा,triste
+1089,lebendig::A,जीता,vivo
+1090,lebendig::A,ज़िंदा,vivo
+1091,gut::A,अच्छा,buono
+1092,schlecht::A,बुरा,cattivo
+1093,schlecht::A,ख़राब,cattivo
+1094,richtig::A,ठीक,giusto
+1095,schlimm::A,बुरा,grave
+1096,schlimm::A,अप्रिय,grave
+1097,wahr::A,सच,vero
+1098,alt::A,पुराना,vecchio
+1099,neu::A,नया,nuovo
+1100,ehemalig::A,भूतपूर्व,vecchio
+1101,ehemalig::A,भूतपूर्व,d'una_volta
+1102,alt[Lebewesen]::A,बूढ़ा,anziano
+1103,alt[Lebewesen]::A,वृद्ध,anziano
+1104,jung::A,जवान,giovane
+1105,arm::A,ग़रीब,pòvero
+1106,reich::A,धनी,ricco
+1107,reich::A,अमीर,ricco
+1108,bekannt::A,मालूम,noto
+1109,bekannt::A,मालूम,conosciuto
+1110,berühmt::A,मशहूर,famoso
+1111,berühmt::A,मशहूर,cèlebre
+1112,berühmt::A,प्रसिद्ध,famoso
+1113,berühmt::A,प्रसिद्ध,cèlebre
+1114,fremd::A,विदेशी,estràneo
+1115,fremd::A,विदेशी,straniero
+1116,fremd::A,अपरिचित,estràneo
+1117,fremd::A,अपरिचित,straniero
+1118,verschieden::A,अलग,diverso
+1119,verschieden::A,अलग,differente
+1120,verschieden::A,भिन्न,diverso
+1121,verschieden::A,भिन्न,differente
+1122,nah::A,नज़दीकी,vicino
+1123,nah::A,नज़दीकी,propinquo
+1124,fern::A,दूर,lontano
+1125,fern::A,दूरस्थ,lontano
+1126,linker::A,बायाँ,sinistro
+1127,rechter::A,दायाँ,destro
+1128,rechter::A,दाहिना,destro
+1129,anderer::A,अन्य,altro
+1130,anderer::A,दूसरा,altro
+1131,erster::A,पहला,primo
+1132,erster::A,प्रथम,primo
+1133,zweiter::A,दूसरा,secondo
+1134,zweiter::A,द्वितीय,secondo
+1135,dritter::A,तीसरा,terzo
+1136,letzter::A,अंतिम,ùltimo
+1137,letzter::A,आख़िरी,ùltimo
+1138,allein::ADV,तनहा,solo
+1139,allein::ADV,तनहा,da solo
+1140,allein::ADV,अकेले,solo
+1141,allein::ADV,अकेले,da solo
+1142,auf einmal::ADV,वक़्त में,insieme
+1143,zusammen::ADV,एक साथ,insieme
+1144,zusammen::ADV,साथ साथ,insieme
+1145,lange::ADV,देर तक,a lungo
+1146,plötzlich::ADV,सहसा,all'improvviso
+1147,plötzlich::ADV,अचानक,all'improvviso
+1148,sofort::ADV,तुरंत,sùbito
+1149,sofort::ADV,तुरंत,all'istante
+1150,später::ADV,बाद को,più tardi
+1151,später::ADV,बाद में,più tardi
+1152,jetzt::ADV,अब,ora
+1153,jetzt::ADV,अब,adesso
+1154,jetzt::ADV,अभी,ora
+1155,jetzt::ADV,अभी,adesso
+1156,heute::ADV,आज,oggi
+1157,morgen::ADV,कल,domani
+1158,bald::ADV,जल्दी,presto
+1159,bald::ADV,जल्दी,tra poco
+1160,dann::ADV,तब,allora
+1161,gestern::ADV,कल,ieri
+1162,einst::ADV,एक दिन,prima
+1163,einst::ADV,एक दिन,un tempo
+1164,einst::ADV,पहले कभी,prima
+1165,einst::ADV,पहले कभी,un tempo
+1166,damals::ADV,उस समय,allora
+1167,damals::ADV,उन दिनों,allora
+1168,danach::ADV,इसके बाद,poi
+1169,danach::ADV,इसके बाद,dopo
+1170,danach::ADV,इसके पश्चात्,poi
+1171,danach::ADV,इसके पश्चात्,dopo
+1172,vorher::ADV,पहले,prima
+1173,vorher::ADV,पेशतर,prima
+1174,zuerst::ADV,पहले,prima
+1175,zuerst::ADV,पहले,dapprima
+1176,einmal::ADV,एक बार,una volta
+1177,einmal::ADV,एक दफ़ा,una volta
+1178,manchmal::ADV,कभी कभी,talvolta
+1179,manchmal::ADV,कभी कभी,qualche volta
+1180,oft::ADV,अक्सर,spesso
+1181,immer::ADV,सदा,sempre
+1182,immer::ADV,हमेशा,sempre
+1183,niemals::ADV,कभी नहीं,non mai
+1184,niemals::ADV,कदापि नहीं,non mai
+1185,hier::ADV,इधर,qua
+1186,hier::ADV,यहाँ,qua
+1187,hierhin::ADV,इधर को,qua
+1188,hierhin::ADV,यहाँ को,qua
+1189,von hier::ADV,यहाँ से,ne
+1190,von hier::ADV,यहाँ से,da qui
+1191,dort::ADV,उधर,lì
+1192,dort::ADV,वहाँ,lì
+1193,dorthin::ADV,उधर को,là
+1194,dorthin::ADV,वहाँ को,là
+1195,geradeaus::ADV,सीधे,diritto
+1196,vorwärts::ADV,आगे,avanti
+1197,vorwärts::ADV,आगे को,avanti
+1198,rückwärts::ADV,पीछे को,all'indietro
+1199,zurück::ADV,वापस,di indietro
+1200,unten::ADV,नीचे,giù
+1201,unten::ADV,नीचे,sotto
+1202,hinab::ADV,नीचे को,giù
+1203,hinab::ADV,नीचे को,in giù
+1204,oben::ADV,ऊपर,su
+1205,oben::ADV,ऊपर,sopra
+1206,hinauf::ADV,ऊपर को,in sù
+1207,hinauf::ADV,ऊपर को,in alto
+1208,überall::ADV,हर जगह,dappertutto
+1209,überall::ADV,हर स्थान,dappertutto
+1210,nicht::ADV,न,non
+1211,nicht::ADV,नहीं,non
+1212,ein wenig::ADV,कुछ,un po'
+1213,ein wenig::ADV,कुछ,un poco
+1214,ein wenig::ADV,ज़रा,un po'
+1215,ein wenig::ADV,ज़रा,un poco
+1216,ein wenig::ADV,थोड़ा,un po'
+1217,ein wenig::ADV,थोड़ा,un poco
+1218,kaum::ADV,लगभग नहीं,a appena
+1219,kaum::ADV,बराबर नहीं,a appena
+1220,sehr::ADV,बहुत,molto
+1221,so::ADV,ऐसा,così
+1222,so::ADV,ऐसा,tanto
+1223,noch::ADV,अभी तक,ancora
+1224,nur::ADV,केवल,solo
+1225,nur::ADV,केवल,soltanto
+1226,nur::ADV,सिर्फ़,solo
+1227,nur::ADV,सिर्फ़,soltanto
+1228,schon::ADV,चुकना,già
+1229,wieder::ADV,फिर,di nuovo
+1230,wieder::ADV,दुबारा,di nuovo
+1231,vergebens::ADV,व्यर्थ,invano
+1232,vor::PRP,के आगे,davanti a
+1233,vor::PRP,के सामने,davanti a
+1234,hinter::PRP,के पीछे,dietro
+1235,unter::PRP,के तले,sotto
+1236,unter::PRP,के नीचे,sotto
+1237,durch::PRP,के पार,per
+1238,durch::PRP,के पार,attraverso
+1239,neben::PRP,के पास,a accanto a
+1240,neben::PRP,की बग़ल में,a accanto a
+1241,zwischen::PRP,के बीच,fra
+1242,wegen::PRP,के कारण,a causa di
+1243,wegen::PRP,की वजह से,a causa di
+1244,dies::PRN,यह,ciò
+1245,dies::PRN,यह,questo
+1246,das::PRN,वह,ciò
+1247,das::PRN,वह,quello
+1248,alles::PRN,सब,tutto
+1249,alles::PRN,सब कुछ,tutto
+1250,ich::PRN,मैं,ìo
+1251,du::PRN,तू,tu
+1252,er::PRN,यह,lui
+1253,er::PRN,यह,egli
+1254,wir::PRN,हम,noi
+1255,ihr::PRN,तुम,voi
+1256,sie::PRN,ये,loro
+1257,was::FPRN,क्या,che
+1258,was::FPRN,क्या,che cosa
+1259,wer::FPRN,कौन,chi
+1260,wo::FADV,किधर,dove
+1261,wohin::FADV,किधर,dove
+1262,wie::FADV,कैसे,come
+1263,warum::FADV,क्यों,perche
+1264,wieviel::FNUM,कितना,quanto
+1265,eins::NUM,एक,uno
+1266,zwei::NUM,दो,due
+1267,drei::NUM,तीन,tre
+1268,vier::NUM,चार,quattro
+1269,fünf::NUM,पाँच,cinque
+1270,sechs::NUM,छह,sei
+1271,sieben::NUM,सात,sette
+1272,acht::NUM,आठ,otto
+1273,neun::NUM,नौ,nove
+1274,zehn::NUM,दस,dieci
+1275,elf::NUM,ग्यारह,ùndici
+1276,zwölf::NUM,बारह,dodici
+1277,zwanzig::NUM,बीस,venti
+1278,dreißig::NUM,तीस,trenta
+1279,vierzig::NUM,चालीस,quaranta
+1280,fünfzig::NUM,पचास,cinquanta
+1281,sechzig::NUM,साठ,sessanta
+1282,siebzig::NUM,सत्तर,settanta
+1283,achtzig::NUM,अस्सी,ottanta
+1284,neunzig::NUM,नव्वे,novanta
+1285,hundert::NUM,सौ,cento
+1286,tausend::NUM,हज़ार,mille
+1287,und::CNJ,और,e
+1288,oder::CNJ,या,o
+1289,stehen::V,खड़ा होना,stare in piedi
+1290,sitzen::V,बैठना,sedere
+1291,sitzen::V,बैठना,stare seduto
+1292,liegen::V,लेटना,giacere
+1293,hängen::V,लटकना,pèndere
+1294,hängen::V,लटकना,èssere appeso
+1295,werden::V,बनना,farsi
+1296,werden::V,बनना,diventare
+1297,passieren::V,होना,succèdere
+1298,beginnen::V,आरंभ होना,cominciare
+1299,beginnen::V,प्रारंभ होना,cominciare
+1300,enden::V,अंत होना,finire
+1301,enden::V,अंत होना,terminare
+1302,enden::V,ख़तम होना,finire
+1303,enden::V,ख़तम होना,terminare
+1304,wechseln::V,बदलना,variare
+1305,wechseln::V,बदलना,cambiare
+1306,aufgehen[Sonne]::V,चढ़ना,sòrgere
+1307,aufgehen[Sonne]::V,चढ़ना,spuntare
+1308,aufgehen[Sonne]::V,उदित होना,sòrgere
+1309,aufgehen[Sonne]::V,उदित होना,spuntare
+1310,untergehen[Sonne]::V,अस्त हो जाना,tramontare
+1311,scheinen[Sonne]::V,रोशनी देना,splèndere
+1312,donnern::V,गरजना,tonare
+1313,wehen::V,चलना,soffiare
+1314,strömen::V,बहना,fluire
+1315,strömen::V,प्रवाहित होना,fluire
+1316,fließen::V,बहना,fluire
+1317,fließen::V,बहना,scorrere
+1318,fließen::V,प्रवाहित होना,fluire
+1319,fließen::V,प्रवाहित होना,scorrere
+1320,sich drehen::V,घूमना,girarsi
+1321,schwanken::V,हिलना,oscillare
+1322,schwanken::V,हिलना,barcollare
+1323,schwingen::V,हिलना,vibrare
+1324,schwingen::V,हिलना,oscillare
+1325,fallen::V,गिरना,cadere
+1326,brennen::V,जलना,àrdere
+1327,brennen::V,जलना,bruciare
+1328,rauchen::V,धुआँ उड़ाना,fumare
+1329,regnen::V,बरसना,piòvere
+1330,gefrieren::V,जमना,gelarsi
+1331,gefrieren::V,जमना,congelarsi
+1332,tauen::V,गलना,sciògliersi
+1333,tauen::V,पिघलना,sciògliersi
+1334,schmelzen::V,गलना,fòndere
+1335,schmelzen::V,गलना,sciògliersi
+1336,schmelzen::V,पिघलना,fòndere
+1337,schmelzen::V,पिघलना,sciògliersi
+1338,trocknen::V,सूखना,asciugarsi
+1339,sieden::V,उबलना,bollire
+1340,faulen::V,गलना,marcire
+1341,faulen::V,सड़ना,marcire
+1342,verfaulen::V,गलना,imputridire
+1343,verfaulen::V,सड़ना,imputridire
+1344,reißen::V,फटना,strapparsi
+1345,versinken::V,डूबना,affondare
+1346,vergehen::V,बीतना,passare
+1347,vergehen::V,गुज़रना,passare
+1348,erscheinen::V,दिखाई देना,apparire
+1349,erscheinen::V,दिखाई देना,comparire
+1350,verschwinden::V,ग़ायब होना,sparire
+1351,verschwinden::V,ग़ायब होना,scomparire
+1352,sinken::V,घटना,calare
+1353,sinken::V,घटना,scendere
+1354,sinken::V,उतरना,calare
+1355,sinken::V,उतरना,scendere
+1356,abnehmen::V,घटना,diminuire
+1357,zunehmen::V,बढ़ना,aumentare
+1358,steigen::V,बढ़ना,salire
+1359,steigen::V,बढ़ना,montare
+1360,wachsen::V,उगना,crescere
+1361,glänzen::V,चमकना,splèndere
+1362,funkeln::V,जगमगाना,brillare
+1363,funkeln::V,जगमगाना,scintillare
+1364,funkeln::V,टिमटिमाना,brillare
+1365,funkeln::V,टिमटिमाना,scintillare
+1366,lärmen::V,शोर मचाना,strepitare
+1367,lärmen::V,शोर मचाना,fare chiasso
+1368,läuten::V,बजना,suonare
+1369,klingeln::V,बजना,suonare
+1370,klirren::V,झनझनाना,tintinnare
+1371,brausen::V,साँय-साँय करना,rombare
+1372,brausen::V,साँय-साँय करना,rumoreggiare
+1373,rauschen::V,सरसराना,frusciare
+1374,klingen::V,बजना,suonare
+1375,bellen::V,भौंकना,latrare
+1376,bellen::V,भौंकना,abbaiare
+1377,heulen::V,गुर्राना,urlare
+1378,heulen::V,गुर्राना,ululare
+1379,blasen::V,फूँकना,soffiare
+1380,pfeifen::V,सीटी देना,fischiare
+1381,schreien::V,चिल्लाना,gridare
+1382,stöhnen::V,कराहना,gèmere
+1383,stöhnen::V,आहें भरना,gèmere
+1384,zittern::V,काँपना,tremare
+1385,leben::V,जीना,vìvere
+1386,geboren werden::V,पैदा होना,nàscere
+1387,atmen::V,साँस लेना,respirare
+1388,trinken::V,पीना,bere
+1389,essen::V,खाना,mangiare
+1390,schlucken::V,निगलना,inghiottire
+1391,müde werden::V,थकना,stancarsi
+1392,müde werden::V,उकताना,stancarsi
+1393,einschlafen::V,सो जाना,addormentarsi
+1394,schlafen::V,सोना,dormire
+1395,aufwachen::V,जागना,svegliarsi
+1396,aufstehen::V,उठना,levarsi
+1397,sich erholen::V,सुस्ताना,riposarsi
+1398,sich erholen::V,आराम करना,riposarsi
+1399,krank werden::V,बीमार पड़ना,ammalarsi
+1400,krank sein::V,बीमार होना,èssere malato
+1401,schmerzen::V,दुखना,dolere
+1402,schmerzen::V,दर्द करना,dolere
+1403,husten::V,खाँसना,tossire
+1404,genesen::V,ठीक हो जाना,guarire
+1405,genesen::V,स्वस्थ हो जाना,guarire
+1406,sterben::V,मरना,morire
+1407,umkommen::V,मरना,perire
+1408,sich bewegen::V,चलना,agitarsi
+1409,sich bewegen::V,हिलना,agitarsi
+1410,sich rühren::V,हिलना,muòversi
+1411,sich erheben::V,उठना,alzarsi
+1412,sich setzen::V,बैठना,sedersi
+1413,hinfallen::V,गिरना,cadere
+1414,laufen::V,चलना,camminare
+1415,laufen::V,चलना,andare a piedi
+1416,schreiten::V,क़दम जाना,andare
+1417,schreiten::V,क़दम जाना,procedere
+1418,spazierengehen::V,सैर करना,passeggiare
+1419,spazierengehen::V,सैर करना,andare a passeggio
+1420,eilen::V,तेज़ी से जाना,andare in fretta
+1421,eilen::V,शीघ्रता से चलना,andare in fretta
+1422,sich beeilen::V,जल्दी करना,affrettarsi
+1423,sich beeilen::V,शीघ्रता करना,affrettarsi
+1424,sausen::V,बड़ी तेज़ी से चलना,volare
+1425,sausen::V,बड़ी तेज़ी से चलना,correre
+1426,rennen::V,भागना,correre
+1427,rennen::V,दौड़ना,correre
+1428,springen::V,उछलना,saltare
+1429,klettern::V,चढ़ना,arrampicarsi
+1430,schaukeln::V,झूलना,fare l'altalena
+1431,kriechen::V,रेंगना,strisciare
+1432,schwimmen::V,तैरना,nuotare
+1433,tauchen::V,डूबना,tuffarsi
+1434,tauchen::V,डूबना,immèrgersi
+1435,rudern::V,खेना,remare
+1436,rudern::V,चप्पू चलाना,remare
+1437,fahren::V,चलना,andare
+1438,fahren::V,चलना,viaggiare
+1439,fahren::V,यात्रा करना,andare
+1440,fahren::V,यात्रा करना,viaggiare
+1441,fliegen::V,उड़ना,volare
+1442,gehen::V,जाना,andare
+1443,weggehen::V,चला जाना,andàrsene
+1444,weggehen::V,चला जाना,andare via
+1445,weggehen::V,बाहर जाना,andàrsene
+1446,weggehen::V,बाहर जाना,andare via
+1447,abfahren::V,छूटना,partire
+1448,abfahren::V,रवाना होना,partire
+1449,anhalten::V,रुकना,fermarsi
+1450,anhalten::V,खड़ा होना,fermarsi
+1451,hineingehen::V,घुसना,entrare
+1452,hineingehen::V,अंदर जाना,entrare
+1453,eintreten::V,प्रवेश करना,entrare
+1454,kommen::V,आना,venire
+1455,ankommen::V,पहुँचना,arrivare
+1456,zurückkommen::V,लौटना,ritornare
+1457,zurückkommen::V,वापस आना,ritornare
+1458,bleiben::V,रहना,restare
+1459,bleiben::V,रहना,rimanere
+1460,bleiben::V,रुकना,restare
+1461,bleiben::V,रुकना,rimanere
+1462,warten::V,इंतज़ार करना,aspettare
+1463,erwarten::V,प्रतीक्षा करना,attèndere
+1464,suchen::V,ढूँढ़ना,cercare
+1465,finden::V,पाना,trovare
+1466,finden::V,ढूँढ़ निकालना,trovare
+1467,versuchen::V,कोशिश करना,tentare
+1468,vorbereiten::V,तैयार करना,preparare
+1469,lieben::V,प्यार करना,amare
+1470,mögen::V,पसंद होना,piacere a
+1471,mögen::V,पसंद होना,volere bene a
+1472,lachen::V,हँसना,rìdere
+1473,rühren::V,छूना,commuòvere
+1474,weinen::V,रोना,piàngere
+1475,schimpfen::V,गाली देना,imprecare
+1476,sich ärgern::V,चिढ़ना,stizzirsi
+1477,sich ärgern::V,चिढ़ना,arrabbiarsi
+1478,sich ärgern::V,नाराज़ होना,stizzirsi
+1479,sich ärgern::V,नाराज़ होना,arrabbiarsi
+1480,sich fürchten::V,डरना,avere paura
+1481,sich fürchten::V,भय खाना,avere paura
+1482,fürchten::V,डरना से,temere
+1483,fürchten::V,भय खाना से,temere
+1484,fliehen::V,भागना,fuggire
+1485,flüchten::V,निकल भागना,sfuggire
+1486,sehen::V,देखना,vedere
+1487,anschauen::V,देखना,guardare
+1488,ansehen::V,दृष्टि डालना पर,guardare
+1489,hören::V,सुनना,udire
+1490,hören::V,सुनना,sentire
+1491,zuhören::V,सुनना,ascoltare
+1492,probieren::V,चखना,degustare
+1493,probieren::V,चखना,assaggiare
+1494,riechen::V,सूँघना,sentire
+1495,fühlen::V,महसूस करना,sentire
+1496,scheinen::V,लगना,parere
+1497,scheinen::V,लगना,sembrare
+1498,zu sehen sein::V,दिखाई देना,vedersi
+1499,vernehmen::V,सुनना,sentire
+1500,vernehmen::V,सुनना,percepire
+1501,frieren::V,ठंड लगना,aver freddo
+1502,frieren::V,सर्दी लगना,aver freddo
+1503,tun::V,करना,fare
+1504,können::V,सकना,sapere
+1505,können::V,जानना,sapere
+1506,wollen::V,चाहना,volere
+1507,anfangen::V,शुरू करना,iniziare
+1508,anfangen::V,शुरू करना,cominciare
+1509,beenden::V,ख़त्म करना,finire
+1510,beenden::V,ख़त्म करना,terminare
+1511,beenden::V,समाप्त करना,finire
+1512,beenden::V,समाप्त करना,terminare
+1513,aufhören::V,बंद जाना,finire
+1514,aufhören::V,बंद जाना,cessare
+1515,aufhören::V,समाप्त जाना,finire
+1516,aufhören::V,समाप्त जाना,cessare
+1517,gelingen::V,बनना,riuscire
+1518,gelingen::V,अच्छा होना,riuscire
+1519,geraten::V,बन पड़ना,stare
+1520,öffnen::V,खोलना,aprire
+1521,schließen::V,बंद करना,chiùdere
+1522,stellen::V,रखना,porre
+1523,stellen::V,रखना,mettere
+1524,setzen::V,रखना,porre
+1525,setzen::V,रखना,mettere
+1526,setzen::V,बिठाना,porre
+1527,setzen::V,बिठाना,mettere
+1528,legen::V,रखना,posare
+1529,legen::V,रखना,mettere
+1530,legen::V,लिटाना,posare
+1531,legen::V,लिटाना,mettere
+1532,berühren::V,छूना,toccare
+1533,berühren::V,स्पर्श करना,toccare
+1534,verbinden::V,बाँधना,unire
+1535,verbinden::V,बाँधना,congiùngere
+1536,bedecken::V,ढकना,coprire
+1537,bedecken::V,ढकना,ricoprire
+1538,aufhängen::V,लटकाना,attaccare
+1539,anzünden::V,जलाना,accèndere
+1540,anzünden::V,जलाना,incendiare
+1541,aufheben::V,उठाना,raccògliere
+1542,zurücklassen::V,पीछे छोड़ना,lasciare
+1543,zurücklassen::V,पीछे छोड़ना,lasciare indietro
+1544,verlieren::V,खोना,pèrdere
+1545,verlieren::V,गँवाना,pèrdere
+1546,fallen lassen::V,गिराना,lasciare cadere
+1547,machen::V,करना,fare
+1548,machen::V,बनाना,fare
+1549,herstellen::V,बनाना,produrre
+1550,herstellen::V,बनाना,fabbricare
+1551,herstellen::V,तैयार करना,produrre
+1552,herstellen::V,तैयार करना,fabbricare
+1553,bauen::V,बनाना,costruire
+1554,bauen::V,निर्माण करना,costruire
+1555,reparieren::V,मरम्मत करना,riparare
+1556,verbessern::V,सुधारना,migliorare
+1557,ändern::V,बदलना,mutare
+1558,ändern::V,बदलना,cambiare
+1559,ändern::V,परीवर्तन करना,mutare
+1560,ändern::V,परीवर्तन करना,cambiare
+1561,graben::V,खोदना,scavare
+1562,beugen::V,झुकाना,chinare
+1563,beugen::V,झुकाना,flettere
+1564,biegen::V,झुकाना,tòrcere
+1565,drehen::V,फेरना,girare
+1566,drehen::V,घुमाना,girare
+1567,wenden::V,पलटना,girare
+1568,wenden::V,पलटना,voltare
+1569,wenden::V,मोड़ना,girare
+1570,wenden::V,मोड़ना,voltare
+1571,umdrehen::V,घुमाना,rivoltare
+1572,heben::V,उठाना,levare
+1573,heben::V,ऊँचा करना,levare
+1574,hochheben::V,उठाना,levare
+1575,hochheben::V,उठाना,sollevare
+1576,hochheben::V,ऊपर को उठाना,levare
+1577,hochheben::V,ऊपर को उठाना,sollevare
+1578,ergreifen::V,पकड़ना,afferrare
+1579,ergreifen::V,हाथ में लेना,afferrare
+1580,halten::V,धरना,tenere
+1581,halten::V,पकड़ना,tenere
+1582,drücken::V,दबाना,premere
+1583,schieben::V,सरकाना,spìngere
+1584,schieben::V,खिसकाना,spìngere
+1585,kratzen::V,खुरचना,grattare
+1586,kratzen::V,खुरचना,graffiare
+1587,kratzen::V,खुजलाना,grattare
+1588,kratzen::V,खुजलाना,graffiare
+1589,lecken::V,चाटना,leccare
+1590,beißen::V,काटना,mòrdere
+1591,abreißen::V,तोड़ना,staccarsi
+1592,abreißen::V,तोड़ना,strapparsi
+1593,abschneiden::V,काट करना,tagliare
+1594,binden::V,बाँधना,legare
+1595,binden::V,बाँधना,bendare
+1596,stecken::V,खोंसना,ficcare
+1597,brechen::V,तोड़ना,rompere
+1598,klopfen::V,खटखटाना,bàttere
+1599,hauen::V,ठोकना,picchiare
+1600,kleben::V,चिपकाना,incollare
+1601,reiben::V,घिसना,fregare
+1602,reiben::V,रगड़ना,fregare
+1603,streichen::V,लगाना,spalmare
+1604,schleifen::V,तेज़ करना,arrotare
+1605,schneiden::V,कतरना,tagliare
+1606,rütteln::V,झकझोरना,scuòtere
+1607,schütteln::V,हिलाना,agitare
+1608,schütteln::V,हिलाना,scuòtere
+1609,schwenken::V,घुमाना,agitare
+1610,schwenken::V,घुमाना,sventolare
+1611,schütten::V,उँडेलना,versare
+1612,füllen::V,भरना,riempire
+1613,füllen::V,ठूसना,riempire
+1614,einwickeln::V,लपेटना,involtare
+1615,tragen::V,ढोना,portare
+1616,schleppen::V,घसीटना,trainare
+1617,schleppen::V,घसीटना,trascinare
+1618,ziehen::V,खींचना,tirare
+1619,aufbewahren::V,रखना,custodire
+1620,aufbewahren::V,रखना,conservare
+1621,werfen::V,फेंकना,gettare
+1622,werfen::V,फेंकना,lanciare
+1623,fangen::V,पकड़ना,prèndere
+1624,fangen::V,पकड़ना,acchiappare
+1625,packen::V,पकड़ना,pigliare
+1626,packen::V,पकड़ना,afferrare
+1627,verstecken::V,छिपाना,nascondere
+1628,teilen::V,बाँटना,divìdere
+1629,schicken::V,भेजना,inviare
+1630,bringen::V,लाना,portare
+1631,bringen::V,लाना,apportare
+1632,hinzufügen::V,जोड़ना,aggiùngere
+1633,bekommen::V,पाना,ricevere
+1634,erhalten::V,पाना,ricevere
+1635,erhalten::V,मिलना,ricevere
+1636,nehmen::V,लेना,prèndere
+1637,wählen::V,चुनना,elèggere
+1638,wählen::V,चुनना,scegliere
+1639,auswählen::V,चुनना,scegliere
+1640,bewahren::V,बनाए रखना,conservare
+1641,behindern::V,रोकना,impedire
+1642,verderben::V,ख़राब करना,guastare
+1643,beschädigen::V,नुक़सान पहुँचाना,danneggiare
+1644,zerbrechen::V,तोड़ना,rompere
+1645,zerbrechen::V,तोड़ना,spezzare
+1646,zerreißen::V,तोड़ना,stracciare
+1647,zerstören::V,नष्ट करना,distrùggere
+1648,zerstören::V,बरबाद करना,distrùggere
+1649,verbrennen::V,जलाना,bruciare
+1650,geben::V,देना,dare
+1651,reichen::V,थमाना,pòrgere
+1652,schenken::V,भेंट देना,regalare
+1653,versprechen::V,वादा करना,promettere
+1654,wünschen::V,कामना करना,augurare
+1655,loben::V,तारीफ़ करना,lodare
+1656,küssen::V,चूमना,baciare
+1657,wiegen::V,झुलाना,cullare
+1658,wiegen::V,झुलाना,dondolare
+1659,zudecken::V,ढकना,coprire
+1660,wecken::V,जगाना,svegliare
+1661,zeigen::V,दिखाना,indicare
+1662,führen::V,रास्ता दिखाना,guidare
+1663,führen::V,रास्ता दिखाना,condurre
+1664,lehren::V,पढ़ाना,insegnare
+1665,unterrichten::V,सिखाना,istruire
+1666,unterrichten::V,सिखाना,insegnare
+1667,aufziehen::V,पालना,allevare
+1668,leiten::V,संचालन करना,avviare
+1669,leiten::V,संचालन करना,dirìgere
+1670,antreiben::V,हड़बड़ाना,incitare
+1671,lassen::V,-आना,fare
+1672,lassen::V,कराना,fare
+1673,einladen::V,बुलाना,invitare
+1674,vereinigen::V,मिलाना,unire
+1675,vereinigen::V,संयुक्त करना,unire
+1676,besuchen::V,मिलना से,visitare
+1677,besuchen::V,मिलना से,far vìsita a
+1678,besuchen::V,मिलने जाना से,visitare
+1679,besuchen::V,मिलने जाना से,far vìsita a
+1680,treffen::V,मिलना,incontrare
+1681,sich versammeln::V,इकट्ठा होना,rinunirsi
+1682,spielen::V,खेलना,giocare
+1683,singen::V,गाना,cantare
+1684,tanzen::V,नाचना,danzare
+1685,sich trennen::V,अलग होना,separarsi
+1686,verlassen::V,छोड़ना,lasciare
+1687,verlassen::V,छोड़ना,abbandonare
+1688,retten::V,बचाना,salvare
+1689,bewachen::V,आँख रखना पर,custodire
+1690,schützen::V,रक्षा करना,protèggere
+1691,verteidigen::V,रक्षा करना,difèndere
+1692,sich schlagen::V,हाथापाई करना,bàttersi
+1693,schießen::V,गोली मारना,sparare
+1694,siegen::V,जीतना,vìncere
+1695,siegen::V,विजय पाना,vìncere
+1696,ärgern::V,चिढ़ाना,stizzire
+1697,schlagen::V,मारना,bàttere
+1698,treten::V,ठोकर मारना,calciare
+1699,stechen::V,भेदना,pùngere
+1700,stechen::V,भोंकना,pùngere
+1701,stoßen::V,धक्का देना,urtare
+1702,stoßen::V,धक्का देना,spìngere
+1703,stoßen::V,झटका देना,urtare
+1704,stoßen::V,झटका देना,spìngere
+1705,stehlen::V,चोरी करना,rubare
+1706,stören::V,बुरा लगना,disturbare
+1707,belästigen::V,तंग करना,molestare
+1708,belästigen::V,तंग करना,importunare
+1709,verbergen::V,लुकाना,celare
+1710,verbergen::V,लुकाना,nascondere
+1711,täuschen::V,धोखा देना,ingannare
+1712,betrügen::V,धोखा देना,frodare
+1713,betrügen::V,धोखा देना,truffare
+1714,töten::V,मारना,uccìdere
+1715,töten::V,मार डालना,uccìdere
+1716,wohnen::V,रहना,abitare
+1717,arbeiten::V,काम करना,lavorare
+1718,sammeln::V,जमा करना,raccògliere
+1719,sammeln::V,जमा करना,collezionare
+1720,pflücken::V,चुनना,cògliere
+1721,pflücken::V,तोड़ना,cògliere
+1722,jagen::V,आखेट करना,cacciare
+1723,jagen::V,शिकार करना,cacciare
+1724,fischen::V,मछली पकड़ना,pescare
+1725,fassen::V,पकड़ना,catturare
+1726,fassen::V,पकड़ना,acchiappare
+1727,hüten::V,चराना,pascolare
+1728,treiben::V,हाँकना,spìngere
+1729,anbinden::V,बाँधना,legare
+1730,anbinden::V,बाँधना,attaccare
+1731,füttern::V,खिलाना,dar da mangiare a
+1732,melken::V,दुहना,mùngere
+1733,hacken::V,काटना,tritare
+1734,hacken::V,काटना,spaccare
+1735,gießen::V,सींचना,annaffiare
+1736,reifen::V,पकना,maturare
+1737,zubereiten::V,पकाना,preparare
+1738,kochen::V,पकाना,cuòcere
+1739,kochen::V,राँधना,cuòcere
+1740,backen::V,पकाना,cuòcere
+1741,backen::V,पकाना,cuòcere al forno
+1742,braten::V,तलना,frìggere
+1743,braten::V,तलना,arrostire
+1744,braten::V,भूनना,frìggere
+1745,braten::V,भूनना,arrostire
+1746,umrühren::V,फेंटना,mescolare
+1747,stricken::V,बुनना,llavorare a maglia
+1748,nähen::V,सीना,cucire
+1749,färben::V,रँगना,tìngere
+1750,reinigen::V,साफ़ करना,pulire
+1751,reinigen::V,साफ़ करना,nettare
+1752,reinigen::V,शुद्ध करना,pulire
+1753,reinigen::V,शुद्ध करना,nettare
+1754,waschen::V,धोना,lavare
+1755,abwischen::V,पोंछ्ना,asciugare
+1756,spülen::V,माँजना,lavare
+1757,spülen::V,माँजना,sciacquare
+1758,spülen::V,खँगालना,lavare
+1759,spülen::V,खँगालना,sciacquare
+1760,fegen::V,बुहारना,spazzare
+1761,kehren::V,झाड़ना,spazzare
+1762,baden::V,स्नान करना,bagnarsi
+1763,baden::V,स्नान करना,fare il bagno
+1764,sich waschen::V,नहाना,lavarsi
+1765,sich waschen::V,हाथ-मुँह धोना,lavarsi
+1766,ausziehen::V,उतारना,tògliersi
+1767,anziehen::V,पहनना,mettersi
+1768,anziehen::V,पहनना,indossare
+1769,sich anziehen::V,कपड़े पहनना,vestirsi
+1770,kämmen::V,कंघी करना,pettinare
+1771,schmücken::V,सजाना,ornare
+1772,schmücken::V,सजाना,decorare
+1773,schmücken::V,सँवारना,ornare
+1774,schmücken::V,सँवारना,decorare
+1775,sagen::V,कहना,dire
+1776,sagen::V,बताना,dire
+1777,sprechen::V,बोलना,parlare
+1778,reden::V,बोलना,parlare
+1779,reden::V,बात करना,parlare
+1780,sich unterhalten::V,बात करना,conversare
+1781,sich unterhalten::V,बातचीत करना,conversare
+1782,fragen::V,पूछ्ना,chièdere
+1783,fragen::V,पूछ्ना,domandare
+1784,fragen::V,प्रश्न करना,chièdere
+1785,fragen::V,प्रश्न करना,domandare
+1786,bitten::V,माँगना से,pregare
+1787,erzählen::V,बताना,narrare
+1788,erzählen::V,बताना,raccontare
+1789,mitteilen::V,ख़बर देना,comunicare
+1790,mitteilen::V,सूचना देना,comunicare
+1791,nennen::V,नाम देना,nominare
+1792,rufen::V,बुलाना,chiamare
+1793,prahlen::V,शेख़ी बघारना,vantarsi
+1794,übersetzen::V,अनुवाद करना,tradurre
+1795,denken::V,सोचना,pensare
+1796,glauben::V,विश्वास करना,credere
+1797,bemerken::V,ध्यान देना पर,notare
+1798,bemerken::V,ध्यान देना पर,osservare
+1799,erkennen::V,पहचानना,riconoscere
+1800,begreifen::V,समझना,capire
+1801,begreifen::V,समझना,comprèndere
+1802,verstehen::V,सुनना,intèndere
+1803,verstehen::V,सुनना,comprèndere
+1804,lernen::V,पढ़ना,imparare
+1805,lernen::V,पढ़ना,apprèndere
+1806,wissen::V,जानना,sapere
+1807,wissen::V,मालूम होना,sapere
+1808,sich erinnern an::V,याद करना,ricordare
+1809,sich erinnern an::V,याद करना,ricordarsi di
+1810,vergessen::V,भूलना,dimenticare
+1811,vergessen::V,बिसारना,dimenticare
+1812,messen::V,नापना,misurare
+1813,zählen::V,गिनना,contare
+1814,rechnen::V,गणना करना,contare
+1815,rechnen::V,गणना करना,calcolare
+1816,rechnen::V,हिसाब करना,contare
+1817,rechnen::V,हिसाब करना,calcolare
+1818,lesen::V,पढ़ना,lèggere
+1819,malen::V,कींचना,dipìngere
+1820,zeichnen::V,चित्र कींचना,disegnare
+1821,schreiben::V,लिखना,scrìvere
+1822,besitzen::V,मालिक होना,possedere
+1823,besitzen::V,स्वामी होना,possedere
+1824,kaufen::V,ख़रीदना,comprare
+1825,kaufen::V,ख़रीदना,acquistare
+1826,verkaufen::V,बेचना,vendere
+1827,bezahlen::V,चुकाना,pagare
+1828,bezahlen::V,अदा करना,pagare
+1829,zahlen::V,अदा करना,pagare
+1830,beherrschen::V,शासन करना पर,dominare
+1831,ertragen::V,सहना,sopportare

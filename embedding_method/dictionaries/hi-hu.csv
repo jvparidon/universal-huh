@@ -1,0 +1,1796 @@
+,Concept_ID,hi,hu
+0,Auge::N,आँख,szem
+1,Auge::N,चक्षु,szem
+2,Ohr::N,कान,fül
+3,Ohr::N,कर्ण,fül
+4,Nase::N,नाक,orr
+5,Nase::N,नासा,orr
+6,Mund::N,मुख,száj
+7,Mund::N,मुँह,száj
+8,Zahn::N,दंत,fog
+9,Zahn::N,दाँत,fog
+10,Zunge::N,जीभ,nyelv
+11,Zunge::N,ज़बान,nyelv
+12,Zunge::N,जिह्वा,nyelv
+13,Lippe::N,ओंठ,ajak
+14,Lippe::N,होंठ,ajak
+15,Wange::N,गाल,orca
+16,Wange::N,कपोल,orca
+17,Gesicht::N,मुँह,arc
+18,Gesicht::N,चेहरा,arc
+19,Stirn::N,माथा,homlok
+20,Stirn::N,मस्तक,homlok
+21,Haar::N,बाल,haj
+22,Schnurrbart::N,मूँछें,bajusz
+23,Bart::N,दाढ़ी,szakáll
+24,Kinn::N,चिबुक,áll
+25,Kiefer[Anatomie]::N,जबड़ा,állkapocs
+26,Kehle::N,गला,gége
+27,Kehle::N,गला,torok
+28,Hals::N,गला,nyak
+29,Hals::N,गरदन,nyak
+30,Genick::N,गरदन,tarkó
+31,Genick::N,ग्रीवा,tarkó
+32,Kopf::N,सिर,fő
+33,Kopf::N,सिर,fej
+34,Kopf::N,शीर्ष,fő
+35,Kopf::N,शीर्ष,fej
+36,Rücken::N,पीठ,hát
+37,Bauch::N,उदर,has
+38,Nabel::N,नाभि,köldök
+39,Nabel::N,ढोंढी,köldök
+40,Busen::N,कुच,mell
+41,Busen::N,कुच,kebel
+42,Busen::N,स्तन,mell
+43,Busen::N,स्तन,kebel
+44,Brust::N,वक्ष,mell
+45,Schulter::N,कंधा,váll
+46,Schulter::N,स्कंध,váll
+47,Arm::N,बाँह,kar
+48,Arm::N,बाज़ू,kar
+49,Ellenbogen::N,कुहनी,könyök
+50,Hand::N,हाथ,kéz
+51,Hand::N,हस्त,kéz
+52,Handfläche::N,हथेली,tenyér
+53,Finger::N,उँगली,ujj
+54,Finger::N,अँगुली,ujj
+55,Fingernagel::N,नख,köröm
+56,Fingernagel::N,नाख़ून,köröm
+57,Nagel[Anatomie]::N,नख,köröm
+58,Nagel[Anatomie]::N,नाख़ून,köröm
+59,Zeh::N,उँगली,lábujj
+60,Zeh::N,पाँव की उँगली,lábujj
+61,Fuß::N,चरण,láb
+62,Fuß::N,पाँव,láb
+63,Ferse::N,एड़ी,sarok
+64,Knie::N,जानु,térd
+65,Knie::N,घुटना,térd
+66,Oberschenkel::N,उरु,comb
+67,Bein::N,टाँग,láb
+68,Bein::N,टाँग,lábszár
+69,Körper::N,तन,test
+70,Körper::N,देह,test
+71,Körper::N,शरीर,test
+72,Haut::N,चर्म,bőr
+73,Haut::N,त्वचा,bőr
+74,Blut::N,लहू,vér
+75,Blut::N,ख़ून,vér
+76,Ader::N,रग,ér
+77,Ader::N,शिरा,ér
+78,Sehne::N,कंडरा,ín
+79,Sehne::N,स्नायु,ín
+80,Knochen::N,अस्थि,csont
+81,Gehirn::N,दिमाग़,agy
+82,Gehirn::N,दिमाग़,agyvelő
+83,Gehirn::N,मस्तिष्क,agy
+84,Gehirn::N,मस्तिष्क,agyvelő
+85,Herz::N,दिल,szív
+86,Herz::N,हृदय,szív
+87,Magen::N,मेदा,gyomor
+88,Magen::N,अमाशय,gyomor
+89,Leber::N,जिगर,máj
+90,Leber::N,यकृत्,máj
+91,Atem::N,दम,lehelet
+92,Atem::N,दम,lélegzet
+93,Atem::N,साँस,lehelet
+94,Atem::N,साँस,lélegzet
+95,Atem::N,श्वास,lehelet
+96,Atem::N,श्वास,lélegzet
+97,Hunger::N,भूख,éhség
+98,Hunger::N,क्षुधा,éhség
+99,Träne::N,आँसू,könny
+100,Träne::N,अश्रु,könny
+101,Geschmack::N,स्वाद,íz
+102,Geschmack::N,ज़ायक़ा,íz
+103,Geruch::N,बू,szag
+104,Geruch::N,गंध,szag
+105,Schlaf::N,नींद,álom
+106,Schlaf::N,नींद,alvás
+107,Schlaf::N,निद्रा,álom
+108,Schlaf::N,निद्रा,alvás
+109,Traum::N,सपना,álom
+110,Traum::N,स्वप्न,álom
+111,Himmel::N,आकाश,ég
+112,Himmel::N,आकाश,menny
+113,Himmel::N,आसमान,ég
+114,Himmel::N,आसमान,menny
+115,Sonne::N,रवि,nap
+116,Sonne::N,सूरज,nap
+117,Sonne::N,सूर्य,nap
+118,Mond::N,चाँद,hold
+119,Mond::N,चंद्र,hold
+120,Stern::N,तारा,csillag
+121,Stern::N,सितारा,csillag
+122,Luft::N,हवा,levegő
+123,Luft::N,वायु,levegő
+124,Wind::N,पाद,szél
+125,Welle::N,लहर,hullám
+126,Welle::N,तरंग,hullám
+127,Wasser::N,जल,víz
+128,Wasser::N,पानी,víz
+129,Stein::N,पत्थर,kő
+130,Boden::N,मिट्टी,föld
+131,Boden::N,मिट्टी,talaj
+132,Erde::N,भूमि,föld
+133,Erde::N,ज़मीन,föld
+134,Staub::N,धूल,por
+135,Rauch::N,धूआँ,füst
+136,Rauch::N,धुम्र,füst
+137,Funke::N,चिनगारी,szikra
+138,Funke::N,स्फुलिंग,szikra
+139,Feuer::N,आग,tűz
+140,Feuer::N,आतिश,tűz
+141,Feuer::N,अग्नि,tűz
+142,Licht::N,रोशनी,fény
+143,Licht::N,प्रकाश,fény
+144,Schatten::N,छाया,árnyék
+145,Schatten::N,परछाई,árnyék
+146,Wetter::N,ऋतु,idő
+147,Wetter::N,ऋतु,időjárás
+148,Wetter::N,मौसम,idő
+149,Wetter::N,मौसम,időjárás
+150,Nebel::N,धुँध,köd
+151,Nebel::N,कुहरा,köd
+152,Wolke::N,मेघ,felhő
+153,Wolke::N,अभ्र,felhő
+154,Regen::N,मेंह,eső
+155,Regen::N,बारिश,eső
+156,Schnee::N,हिम,hó
+157,Schnee::N,बर्फ़,hó
+158,Eis::N,हिम,jég
+159,Eis::N,बर्फ़,jég
+160,Frost::N,ठंड,fagy
+161,Kälte::N,सर्दी,hideg
+162,Kälte::N,शीतलता,hideg
+163,Hitze::N,ताप,hő
+164,Hitze::N,ताप,hőség
+165,Hitze::N,गरमी,hő
+166,Hitze::N,गरमी,hőség
+167,Raureif::N,पाला,zúzmara
+168,Regenbogen::N,इंद्र-धनुष,szivárvány
+169,Donner::N,गरज,dörgés
+170,Donner::N,गरज,mennydörgés
+171,Donner::N,मेघ-गर्जन,dörgés
+172,Donner::N,मेघ-गर्जन,mennydörgés
+173,Strömung::N,बहाव,áramlat
+174,Strömung::N,प्रवाह,áramlat
+175,Tropfen::N,बूँद,csepp
+176,Schaum::N,झाग,hab
+177,Schaum::N,झाग,tajték
+178,Schmutz::N,गंद,piszok
+179,Schmutz::N,कीचड़,piszok
+180,See::N,झील,tó
+181,See::N,सरोवर,tó
+182,Sumpf::N,दलदल,mocsár
+183,Sumpf::N,धँसान,mocsár
+184,Moor::N,झाबर,láp
+185,Moor::N,धँसान,láp
+186,Wiese::N,घास-स्थल,rét
+187,Wiese::N,घास-स्थल,mező
+188,Wald::N,जंगल,erdő
+189,Hügel::N,टीला,domb
+190,Hügel::N,पहाड़,domb
+191,Anhöhe::N,टीला,magaslat
+192,Anhöhe::N,पहाड़ी,magaslat
+193,Berg::N,पहाड़,hegy
+194,Gipfel::N,शिखर,csúcs
+195,Höhle::N,गुहा,barlang
+196,Höhle::N,गुफ़ा,barlang
+197,Abhang::N,ढाल,lejtő
+198,Abhang::N,ढलान,lejtő
+199,Quelle::N,चश्मा,forrás
+200,Bach::N,सोता,patak
+201,Bach::N,नदिका,patak
+202,Fluss::N,नदी,folyó
+203,Fluss::N,सरिता,folyó
+204,Ufer::N,तट,part
+205,Ufer::N,किनारा,part
+206,Küste::N,समुद्र-तट,tengerpart
+207,Festland::N,महाद्वीप,szárazföld
+208,Meer::N,सागर,tenger
+209,Meer::N,समुद्र,tenger
+210,Bucht::N,खाड़ी,öböl
+211,Insel::N,टापू,sziget
+212,Insel::N,द्वीप,sziget
+213,Blume::N,फूल,virág
+214,Blume::N,पुष्प,virág
+215,Gras::N,घास,fű
+216,Wurzel::N,मूल,gyökér
+217,Baum::N,पेड़,fa
+218,Baum::N,वृक्ष,fa
+219,Stamm::N,धड़,tő
+220,Stamm::N,धड़,törzs
+221,Rinde::N,छाल,kéreg
+222,Rinde::N,वल्कल,kéreg
+223,Ast::N,डाल,ág
+224,Ast::N,शाखा,ág
+225,Zweig::N,टहनी,gally
+226,Blatt::N,पत्र,levél
+227,Blatt::N,पत्ता,levél
+228,Birke::N,भूर्ज,nyír
+229,Kiefer[Baum]::N,पाइन-वृक्ष,fenyő
+230,Weide[Baum]::N,बेंत,fűz
+231,Tanne::N,फ़र,fenyő
+232,Horn::N,सींग,szarv
+233,Horn::N,विषाण,szarv
+234,Feder::N,पर,toll
+235,Feder::N,पंख,toll
+236,Fell::N,खाल,szőr
+237,Fell::N,खाल,bunda
+238,Fell::N,पशु-चर्म,szőr
+239,Fell::N,पशु-चर्म,bunda
+240,Flügel::N,पंख,szárny
+241,Flügel::N,डैना,szárny
+242,Klaue::N,पंजा,köröm
+243,Kralle::N,पंजा,karom
+244,Kralle::N,नाख़ून,karom
+245,Schwanz::N,पूँछ,farok
+246,Ei::N,अंडा,tojás
+247,Nest::N,नीड़,fészek
+248,Nest::N,घोंसला,fészek
+249,Bau::N,बिल,odú
+250,Bau::N,माँद,odú
+251,Tier::N,पशु,állat
+252,Tier::N,जानवर,állat
+253,Herde::N,गल्ला,nyáj
+254,Herde::N,गल्ला,csorda
+255,Kuh::N,गौ,tehén
+256,Kuh::N,गाय,tehén
+257,Bulle::N,साँड़,bika
+258,Pferd::N,अश्व,ló
+259,Pferd::N,घोड़ा,ló
+260,Schaf::N,भेड़,juh
+261,Schaf::N,भेड़,birka
+262,Schwein::N,शूकर,sertés
+263,Hund::N,श्वान,eb
+264,Hund::N,श्वान,kutya
+265,Hund::N,कुत्ता,eb
+266,Hund::N,कुत्ता,kutya
+267,Katze::N,बिल्ली,macska
+268,Bär::N,रीछ,medve
+269,Bär::N,भालू,medve
+270,Eichhörnchen::N,गिलहरी,mókus
+271,Elch::N,एल्क,jávorszarvas
+272,Fuchs::N,लोमड़ी,róka
+273,Hase::N,खरहा,nyúl
+274,Hase::N,ख़रगोश,nyúl
+275,Maus::N,मूष,egér
+276,Maus::N,चूहा,egér
+277,Wolf::N,वृक,farkas
+278,Wolf::N,भेड़िया,farkas
+279,Vogel::N,पक्षी,madár
+280,Vogel::N,चिड़िया,madár
+281,Schwarm::N,झुंड,raj
+282,Huhn::N,मुर्ग़ी,tyúk
+283,Hahn::N,मुर्ग़ा,kakas
+284,Gans::N,हंस,lúd
+285,Gans::N,हंस,liba
+286,Gans::N,हंसिनी,lúd
+287,Gans::N,हंसिनी,liba
+288,Adler::N,उक़ाब,sas
+289,Ente::N,बतख़,kacsa
+290,Ente::N,बत्तक,kacsa
+291,Eule::N,उल्लू,bagoly
+292,Kranich::N,सारस,daru
+293,Kranich::N,क्रौंंच,daru
+294,Krähe::N,काक,varjú
+295,Kuckuck::N,कोयल,kakukk
+296,Kuckuck::N,कोकिल,kakukk
+297,Schwan::N,हंस,hattyú
+298,Schwan::N,मराल,hattyú
+299,Fisch::N,मछली,hal
+300,Fisch::N,मत्स्य,hal
+301,Barsch::N,पर्च,sügér
+302,Hecht::N,पाइक,csuka
+303,Schlange[Tier]::N,सर्प,kígyó
+304,Wurm::N,कृमि,kukac
+305,Wurm::N,कीड़ा,kukac
+306,Spinne::N,लूता,pók
+307,Spinne::N,मकड़ी,pók
+308,Ameise::N,चींटी,hangya
+309,Laus::N,जूँ,tetű
+310,Mücke::N,डाँस,szúnyog
+311,Fliege::N,मक्खी,légy
+312,Fliege::N,मक्षिका,légy
+313,Schmetterling::N,तितली,lepke
+314,Schmetterling::N,तितली,pillangó
+315,Beere::N,बेरी,bogyó
+316,Apfel::N,सेब,alma
+317,Pilz::N,खुंबी,gomba
+318,Zwiebel::N,प्याज़,hagyma
+319,Saat::N,बीज,vetőmag
+320,Korn::N,दाना,mag
+321,Korn::N,दाना,szem
+322,Heu::N,मूखी घास,széna
+323,Schale::N,बकला,héj
+324,Schale::N,छिलका,héj
+325,Grube::N,गड्ढा,verem
+326,Falle::N,जाल,csapda
+327,Falle::N,फँदा,csapda
+328,Schlinge::N,फँदा,tőr
+329,Spur::N,सुराग़,nyom
+330,Spur::N,पद-चिह्न,nyom
+331,Asche::N,राख,hamu
+332,Dreck::N,मैल,sár
+333,Dreck::N,मैल,piszok
+334,Dreck::N,गंदगी,sár
+335,Dreck::N,गंदगी,piszok
+336,Eisen::N,लोहा,vas
+337,Gold::N,सोना,arany
+338,Gold::N,स्वर्ण,arany
+339,Silber::N,रजत,ezüst
+340,Silber::N,चाँदी,ezüst
+341,Kohle::N,कोयला,szén
+342,Glas::N,काँच,üveg
+343,Lehm::N,चिकनी मिट्टी,agyag
+344,Lehm::N,चिकनी मिट्टी,vályog
+345,Sand::N,रेत,homok
+346,Sand::N,बालू,homok
+347,Mensch::N,मानव,ember
+348,Mensch::N,इनसान,ember
+349,Mensch::N,मनुष्य,ember
+350,Mann::N,आदमी,úr
+351,Mann::N,आदमी,férfi
+352,Mann::N,पुरुष,úr
+353,Mann::N,पुरुष,férfi
+354,Frau::N,औरत,nő
+355,Frau::N,औरत,asszony
+356,Frau::N,महिला,nő
+357,Frau::N,महिला,asszony
+358,Frau::N,स्त्री,nő
+359,Frau::N,स्त्री,asszony
+360,Kind::N,बाल,gyerek
+361,Kind::N,बाल,gyermek
+362,Kind::N,बच्चा,gyerek
+363,Kind::N,बच्चा,gyermek
+364,Junge::N,लड़का,fiú
+365,Mädchen::N,लड़की,lány
+366,Mädchen::N,कुमारी,lány
+367,Familie::N,परिवार,család
+368,Großvater::N,दादा,nagyapa
+369,Großmutter::N,नानी,nagyanya
+370,Eltern::N,माँ-बाप,szülők
+371,Eltern::N,माता-पिता,szülők
+372,Vater::N,बाप,apa
+373,Vater::N,बाप,atya
+374,Vater::N,पिता,apa
+375,Vater::N,पिता,atya
+376,Mutter::N,माँ,anya
+377,Mutter::N,माता,anya
+378,Sohn::N,बेटा,fiú
+379,Sohn::N,पुत्र,fiú
+380,Tochter::N,बेटी,lány
+381,Tochter::N,पुत्री,lány
+382,Bruder::N,भाई,fivér
+383,Bruder::N,भाई,testvér
+384,Bruder::N,भ्राता,fivér
+385,Bruder::N,भ्राता,testvér
+386,Schwester::N,बहन,nővér
+387,Schwester::N,बहन,lánytestvér
+388,Schwester::N,भगिनी,nővér
+389,Schwester::N,भगिनी,lánytestvér
+390,Onkel::N,ताऊ,nagybácsi
+391,Onkel::N,काका,nagybácsi
+392,Tante::N,बूआ,nagynéni
+393,Tante::N,फूफी,nagynéni
+394,Tante::N,ख़ाला,nagynéni
+395,Ehemann::N,पति,férj
+396,Ehemann::N,शौहर,férj
+397,Ehefrau::N,बीवी,feleség
+398,Freude::N,आनंद,öröm
+399,Freude::N,प्रसन्नता,öröm
+400,Gelächter::N,हँसी,nevetés
+401,Gelächter::N,हँसी,hahotázás
+402,Gelächter::N,क़हक़हा,nevetés
+403,Gelächter::N,क़हक़हा,hahotázás
+404,Glück::N,आनंद,boldogság
+405,Glück::N,ख़ुशी,boldogság
+406,Kummer::N,शोक,bánat
+407,Kummer::N,दुःख,bánat
+408,Wunsch::N,इच्छा,óhaj
+409,Wunsch::N,अभिलाषा,óhaj
+410,Lust::N,चाह,kedv
+411,Lust::N,कामना,kedv
+412,Geist::N,जान,elme
+413,Geist::N,जान,szellem
+414,Geist::N,प्राण,elme
+415,Geist::N,प्राण,szellem
+416,Gedanke::N,विचार,gondolat
+417,Gedächtnis::N,याददाश्त,emlékezet
+418,Gedächtnis::N,स्मरण-शक्ति,emlékezet
+419,Verstand::N,समझ,ész
+420,Verstand::N,समझ,értelem
+421,Verstand::N,अक़्ल,ész
+422,Verstand::N,अक़्ल,értelem
+423,Verstand::N,बुद्धि,ész
+424,Verstand::N,बुद्धि,értelem
+425,Sinn::N,अर्थ,értelem
+426,Grund::N,वजह,ok
+427,Grund::N,वजह,alap
+428,Grund::N,कारण,ok
+429,Grund::N,कारण,alap
+430,Wahrheit::N,सत्य,igaz
+431,Wahrheit::N,सत्य,igazság
+432,Wahrheit::N,सच्चाई,igaz
+433,Wahrheit::N,सच्चाई,igazság
+434,Gespräch::N,चर्चा,beszélgetés
+435,Gespräch::N,वार्ता,beszélgetés
+436,Gespräch::N,बात-चीत,beszélgetés
+437,Märchen::N,क़िस्सा,mese
+438,Erzählung::N,कथा,elbeszélés
+439,Erzählung::N,कहानी,elbeszélés
+440,Nachricht::N,सूचना,hír
+441,Nachricht::N,सूचना,híradás
+442,Nachricht::N,समाचार,hír
+443,Nachricht::N,समाचार,híradás
+444,Neuigkeit::N,ख़बर,újság
+445,Neuigkeit::N,समाचार,újság
+446,Name::N,नाम,név
+447,Rätsel::N,पहेली,rejtvény
+448,Rede::N,वचन,beszéd
+449,Rede::N,वचन,szónoklat
+450,Rede::N,भाषण,beszéd
+451,Rede::N,भाषण,szónoklat
+452,Sprache::N,भाषा,nyelv
+453,Sprache::N,ज़बान,nyelv
+454,Stimme::N,स्वर,hang
+455,Stimme::N,आवाज़,hang
+456,Wort::N,शब्द,szó
+457,Wort::N,लफ़्ज़,szó
+458,Zeichen::N,निशान,jel
+459,Ruf::N,पुकार,kiáltás
+460,Ruf::N,आह्वान,kiáltás
+461,Lärm::N,शोर,zaj
+462,Lärm::N,हुल्लड़,zaj
+463,Laut::N,स्वर,hang
+464,Laut::N,ध्वनि,hang
+465,Ton::N,सुर,hang
+466,Ton::N,स्वर,hang
+467,Lied::N,गीत,dal
+468,Lied::N,गीत,ének
+469,Ruhe::N,आराम,csend
+470,Ruhe::N,आराम,nyugalom
+471,Ruhe::N,ख़ामोशी,csend
+472,Ruhe::N,ख़ामोशी,nyugalom
+473,Leute::N,लोग,emberek
+474,Volk::N,क़ौम,nép
+475,Volk::N,प्रजा,nép
+476,Arbeit::N,काम,dolog
+477,Gast::N,अतिथि,vendég
+478,Gast::N,मेहमान,vendég
+479,Geschenk::N,उपहार,ajándék
+480,Geschenk::N,तोहफ़ा,ajándék
+481,Spiel::N,खेल,játék
+482,Spiel::N,क्रीड़ा,játék
+483,Gesellschaft::N,साथ,társaság
+484,Hilfe::N,मदद,segítség
+485,Hilfe::N,सहायता,segítség
+486,Freund::N,मित्र,barát
+487,Kamerad::N,साथी,társ
+488,Kamerad::N,कामरेड,társ
+489,Angelegenheit::N,बात,ügy
+490,Angelegenheit::N,मामला,ügy
+491,Anzahl::N,तादाद,szám
+492,Anzahl::N,संख्या,szám
+493,Art::N,तरह,faj
+494,Art::N,तरह,fajta
+495,Art::N,क़िस्म,faj
+496,Art::N,क़िस्म,fajta
+497,Stück::N,फाँक,darab
+498,Stück::N,टुकड़ा,darab
+499,Teil::N,भाग,rész
+500,Teil::N,हिस्सा,rész
+501,Hälfte::N,अर्धभाग,fél
+502,Kreis::N,चक्कर,kör
+503,Kreuz::N,सलीब,kereszt
+504,Kreuz::N,क्रूस,kereszt
+505,Linie::N,लाइन,vonal
+506,Strich::N,लकीर,vonás
+507,Abstand::N,अंतर,köz
+508,Abstand::N,फ़ासला,köz
+509,Entfernung::N,दूरी,távolság
+510,Entfernung::N,फ़ासला,távolság
+511,Gegend::N,इलाक़ा,táj
+512,Gegend::N,इलाक़ा,vidék
+513,Platz::N,जगह,hely
+514,Platz::N,स्थान,hely
+515,Ort::N,स्थल,hely
+516,Ort::N,स्थान,hely
+517,Seite::N,ओर,fél
+518,Seite::N,ओर,oldal
+519,Seite::N,तरफ़,fél
+520,Seite::N,तरफ़,oldal
+521,Mitte::N,बीच,közép
+522,Mitte::N,मध्य,közép
+523,Gegenstand::N,चीज़,tárgy
+524,Gegenstand::N,पदार्थ,tárgy
+525,Sache::N,चीज़,dolog
+526,Sache::N,वस्तु,dolog
+527,Rand::N,छोर,szél
+528,Rand::N,छोर,perem
+529,Rand::N,छोर,szegély
+530,Rand::N,उपांत,szél
+531,Rand::N,उपांत,perem
+532,Rand::N,उपांत,szegély
+533,Kante::N,कोर,él
+534,Kante::N,किनारा,él
+535,Ecke::N,कोना,sarok
+536,Ecke::N,कोना,szöglet
+537,Ecke::N,नुक्कड़,sarok
+538,Ecke::N,नुक्कड़,szöglet
+539,Spitze::N,नोक,csúcs
+540,Ende::N,छोर,vég
+541,Ende::N,सिरा,vég
+542,Loch::N,छेद,lyuk
+543,Loch::N,सूराख़,lyuk
+544,Winkel::N,कोण,szög
+545,Winkel::N,कोना,szög
+546,Muster::N,नमूना,minta
+547,Muster::N,डिज़ाइन,minta
+548,Größe::N,परिमाण,nagyság
+549,Größe::N,विस्तार,nagyság
+550,Länge::N,लंबाई,hossz
+551,Länge::N,लंबाई,hosszúság
+552,Höhe::N,ऊँचाई,magasság
+553,Höhe::N,उच्चता,magasság
+554,Gewicht::N,भार,súly
+555,Gewicht::N,वज़न,súly
+556,Menge::N,मात्रा,sokaság
+557,Menge::N,मात्रा,mennyiség
+558,Haufen::N,ढेर,halom
+559,Haufen::N,अंबार,halom
+560,Reihe::N,क़तार,sor
+561,Reihe::N,पंक्ति,sor
+562,Boot::N,नाव,csónak
+563,Boot::N,नौका,csónak
+564,Ruder::N,चप्पू,evező
+565,Schlitten::N,बर्फ़-गाड़ी,szánkó
+566,Ski::N,स्की,sí
+567,Lagerfeuer::N,अलाव,tábortűz
+568,Lagerfeuer::N,कैंप-फ़ायर,tábortűz
+569,Last::N,भार,teher
+570,Gang::N,चाल,járás
+571,Schritt::N,डग,lépés
+572,Schritt::N,क़दम,lépés
+573,Norden::N,उत्तर,észak
+574,Süden::N,दक्खिन,dél
+575,Westen::N,पश्चिम,nyugat
+576,Osten::N,पूरब,kelet
+577,Holz::N,काठ,fa
+578,Holz::N,काष्ठ,fa
+579,Brett::N,पटरा,deszka
+580,Brett::N,तख़्ता,deszka
+581,Platte::N,फलक,lap
+582,Platte::N,फलक,lemez
+583,Platte::N,तख़्ता,lap
+584,Platte::N,तख़्ता,lemez
+585,Stütze::N,टेक,támasz
+586,Stütze::N,टेक,támaszték
+587,Stütze::N,थूनी,támasz
+588,Stütze::N,थूनी,támaszték
+589,Stange::N,छड़,rúd
+590,Stange::N,छड़,pózna
+591,Stange::N,बाँस,rúd
+592,Stange::N,बाँस,pózna
+593,Stock::N,लाठी,pálca
+594,Stab::N,लग्गा,bot
+595,Rohr::N,नल,cső
+596,Haus::N,घर,ház
+597,Haus::N,मकान,ház
+598,Heim::N,घर,otthon
+599,Heim::N,गृह,otthon
+600,Ofen::N,चूल्हा,kályha
+601,Fußboden::N,फ़र्श,padló
+602,Tisch::N,मेज़,asztal
+603,Stuhl::N,कुरसी,szék
+604,Wiege::N,पालना,bölcső
+605,Wiege::N,हिंडोला,bölcső
+606,Bett::N,खाट,ágy
+607,Bett::N,पलंग,ágy
+608,Regal::N,शेल्फ़,polc
+609,Regal::N,शेल्फ़,állvány
+610,Kiste::N,पेटी,láda
+611,Kiste::N,डिब्बा,láda
+612,Fenster::N,खिड़की,ablak
+613,Tür::N,द्वार,ajtó
+614,Tür::N,दरवाज़ा,ajtó
+615,Tor::N,फाटक,kapu
+616,Zaun::N,बाड़ा,kerítés
+617,Dach::N,छत,tető
+618,Dach::N,छप्पर,tető
+619,Leiter::N,सीढ़ी,létra
+620,Besen::N,झाड़ू,seprű
+621,Besen::N,बुहारी,seprű
+622,Spaten::N,कुदाल,ásó
+623,Schaufel::N,बेलचा,lapát
+624,Schaufel::N,फावड़ा,lapát
+625,Gabel::N,काँटा,villa
+626,Löffel::N,चम्मच,kanál
+627,Messer::N,छुरा,kés
+628,Messer::N,चाक़ू,kés
+629,Nagel::N,कील,szeg
+630,Nagel::N,मेख़,szeg
+631,Netz::N,जाल,háló
+632,Haken::N,अंकुश,kampó
+633,Griff::N,मूठ,nyél
+634,Griff::N,मूठ,fogantyú
+635,Griff::N,हत्था,nyél
+636,Griff::N,हत्था,fogantyú
+637,Schloss::N,ताला,zár
+638,Bild::N,चित्र,kép
+639,Figur::N,मूर्ति,alak
+640,Puppe::N,पुतली,bábu
+641,Puppe::N,गुड़िया,bábu
+642,Beutel::N,झोला,zacskó
+643,Bündel::N,पुलिंदा,köteg
+644,Tasche::N,बेग,táska
+645,Tasche::N,बस्ता,táska
+646,Eimer::N,बाल्टी,vödör
+647,Deckel::N,ढक्कन,fedő
+648,Deckel::N,ढक्कन,fedél
+649,Geschirr::N,बरतन-भाँड़े,edény
+650,Sack::N,बोरा,zsák
+651,Tasse::N,प्याला,csésze
+652,Topf::N,देग़चा,fazék
+653,Kessel::N,देग़,üst
+654,Kessel::N,देग़,bogrács
+655,Kessel::N,बटलोई,üst
+656,Kessel::N,बटलोई,bogrács
+657,Essen::N,खाना,evés
+658,Essen::N,खाना,étkezés
+659,Nahrung::N,भोजन,ennivaló
+660,Speise::N,खाना,étel
+661,Speise::N,व्यंजन,étel
+662,Fleisch::N,मांस,hús
+663,Fleisch::N,गोश्त,hús
+664,Getreide::N,अनाज,gabona
+665,Brei::N,भरता,pép
+666,Brei::N,भरता,kása
+667,Brei::N,दलिया,pép
+668,Brei::N,दलिया,kása
+669,Brot::N,रोटी,kenyér
+670,Scheibe::N,कतला,szelet
+671,Fett::N,वसा,háj
+672,Fett::N,वसा,zsír
+673,Fett::N,चरबी,háj
+674,Fett::N,चरबी,zsír
+675,Butter::N,मक्खन,vaj
+676,Öl::N,तेल,olaj
+677,Salz::N,नमक,só
+678,Suppe::N,सूप,leves
+679,Suppe::N,शोरबा,leves
+680,Honig::N,शहद,méz
+681,Milch::N,दूध,tej
+682,Tee::N,चाय,tea
+683,Leder::N,चमड़ा,bőr
+684,Wolle::N,ऊन,gyapjú
+685,Stoff::N,कपड़ा,szövet
+686,Nadel::N,सूई,tű
+687,Faden::N,डोरा,fonál
+688,Knopf::N,बटन,gomb
+689,Knopf::N,घुंडी,gomb
+690,Knoten::N,गाँठ,csomó
+691,Knoten::N,गुत्थी,csomó
+692,Farbe::N,रंग,szín
+693,Farbe::N,रंग,festék
+694,Farbe::N,वर्ण,szín
+695,Farbe::N,वर्ण,festék
+696,Kleidung::N,पहनावा,ruha
+697,Kleidung::N,पहनावा,ruházat
+698,Hemd::N,कुरता,ing
+699,Hemd::N,क़मीज़,ing
+700,Kragen::N,गरदनी,gallér
+701,Kragen::N,गरेबान,gallér
+702,Ärmel::N,आस्तीन,ujj
+703,Hose::N,पैंट,gatya
+704,Hose::N,पैंट,nadrág
+705,Hose::N,पतलून,gatya
+706,Hose::N,पतलून,nadrág
+707,Gürtel::N,पेटी,öv
+708,Gürtel::N,मेखला,öv
+709,Mütze::N,टोपी,sapka
+710,Schuh::N,जूता,cipő
+711,Stiefel::N,बूट,csizma
+712,Ring::N,अँगूठी,gyűrű
+713,Band::N,पट्टी,szalag
+714,Kamm::N,कंघी,fésű
+715,Spiegel::N,आईना,tükör
+716,Spiegel::N,दर्पण,tükör
+717,Riemen::N,तसमा,szíj
+718,Riemen::N,पट्टा,szíj
+719,Schnur::N,डोरी,zsinór
+720,Schnur::N,सुतली,zsinór
+721,Leine::N,रस्सी,póráz
+722,Decke::N,रज़ाई,takaró
+723,Kissen::N,तकिया,párna
+724,Kissen::N,गाद्दा,párna
+725,Tuch::N,रूमाल,kendő
+726,Tuch::N,वस्त्र,kendő
+727,Handtuch::N,अँगोछा,törülköző
+728,Kraft::N,ज़ोर,erő
+729,Kraft::N,शक्ति,erő
+730,Stärke::N,बल,erő
+731,Stärke::N,बल,erősség
+732,Stärke::N,ताक़त,erő
+733,Stärke::N,ताक़त,erősség
+734,Gesundheit::N,स्वास्थ्य,egészség
+735,Gesundheit::N,तंदुरुस्ती,egészség
+736,Krankheit::N,रोग,kór
+737,Krankheit::N,रोग,betegség
+738,Krankheit::N,बीमारी,kór
+739,Krankheit::N,बीमारी,betegség
+740,Schmerz::N,दर्द,fájdalom
+741,Schmerz::N,पीड़ा,fájdalom
+742,Wunde::N,घाव,seb
+743,Wunde::N,ज़ख़्म,seb
+744,Fieber::N,ज्वर,láz
+745,Fieber::N,बुख़ार,láz
+746,Arznei::N,दवा,orvosság
+747,Arznei::N,दवा,gyógyszer
+748,Arznei::N,औषाधि,orvosság
+749,Arznei::N,औषाधि,gyógyszer
+750,Brücke::N,पुल,híd
+751,Brücke::N,सेतु,híd
+752,Brunnen::N,कुआँ,kút
+753,Weide::N,चरागाह,legelő
+754,Pfad::N,पथ,ösvény
+755,Pfad::N,पगडंडी,ösvény
+756,Weg::N,मार्ग,út
+757,Straße::N,राह,út
+758,Straße::N,रास्ता,út
+759,Dorf::N,गाँव,falu
+760,Dorf::N,ग्राम,falu
+761,Stadt::N,शहर,város
+762,Brief::N,ख़त,levél
+763,Brief::N,पत्र,levél
+764,Brief::N,चिट्ठी,levél
+765,Buch::N,किताब,könyv
+766,Buch::N,पुस्तक,könyv
+767,Buchstabe::N,अक्षर,betű
+768,Zeitung::N,अख़बार,újság
+769,Zeitung::N,अख़बार,hírlap
+770,Zeitung::N,समाचार-पत्र,újság
+771,Zeitung::N,समाचार-पत्र,hírlap
+772,Leben::N,जीवन,élet
+773,Leben::N,ज़िंदगी,élet
+774,Tod::N,मौत,halál
+775,Tod::N,मृत्यु,halál
+776,Grab::N,क़ब्र,sír
+777,Kirche::N,चर्च,templom
+778,Kirche::N,गिरजा,templom
+779,Sünde::N,पाप,bűn
+780,Sünde::N,पाप,vétek
+781,Sünde::N,गुनाह,bűn
+782,Sünde::N,गुनाह,vétek
+783,Gott::N,देव,isten
+784,Gott::N,ईश्वर,isten
+785,Arbeiter::N,मज़दूर,munkás
+786,Chef::N,अध्यक्ष,főnök
+787,Meister::N,शिल्पज्ञ,mester
+788,Arzt::N,वैद्य,orvos
+789,Arzt::N,डॉक्टर,orvos
+790,Arzt::N,चिकित्सक,orvos
+791,Lehrer::N,शिक्षक,tanár
+792,Lehrer::N,शिक्षक,tanító
+793,Lehrer::N,अध्यापक,tanár
+794,Lehrer::N,अध्यापक,tanító
+795,Geld::N,धन,pénz
+796,Geld::N,पैसा,pénz
+797,Geschäft::N,सौदा,üzlet
+798,Geschäft::N,व्यापार,üzlet
+799,Laden::N,दुकान,bolt
+800,Preis::N,दाम,ár
+801,Preis::N,मूल्य,ár
+802,Ware::N,माल,áru
+803,Ware::N,पण्य,áru
+804,Nutzen::N,लाभ,haszon
+805,Nutzen::N,फ़ायदा,haszon
+806,Reichtum::N,धन,gazdagság
+807,Reichtum::N,दौलत,gazdagság
+808,Welt::N,विश्व,világ
+809,Welt::N,दुनिया,világ
+810,Land::N,देश,ország
+811,Land::N,मुल्क,ország
+812,Staat::N,राज्य,állam
+813,Staat::N,राष्ट्र,állam
+814,König::N,राजा,király
+815,König::N,बादशाह,király
+816,Macht::N,शासन,hatalom
+817,Macht::N,सत्ता,hatalom
+818,Grenze::N,सरहद,határ
+819,Krieg::N,जंग,háború
+820,Krieg::N,युद्ध,háború
+821,Feind::N,शत्रु,ellenség
+822,Feind::N,दुश्मन,ellenség
+823,Gewalt::N,हिंसा,erőszak
+824,Kampf::N,लड़ाई,harc
+825,Kampf::N,संघर्ष,harc
+826,Bogen[Waffe]::N,कमान,íj
+827,Pfeil::N,बान,nyíl
+828,Gewehr::N,बंदूक़,puska
+829,Gewehr::N,बंदूक़,fegyver
+830,Fehler::N,भूल,hiba
+831,Fehler::N,ग़लती,hiba
+832,Lüge::N,झूठ,hazugság
+833,Lüge::N,असत्य,hazugság
+834,Schaden::N,हानि,kár
+835,Schaden::N,नुक़सान,kár
+836,Unglück::N,मुसीबत,csapás
+837,Unglück::N,मुसीबत,balszerencse
+838,Unglück::N,विपात्ति,csapás
+839,Unglück::N,विपात्ति,balszerencse
+840,Schuld::N,दोष,bűn
+841,Schuld::N,क़सूर,bűn
+842,Alter::N,आयु,kor
+843,Alter::N,उम्र,kor
+844,Schluss::N,अंत,vég
+845,Schluss::N,अंत,befejezés
+846,Schluss::N,समाप्ति,vég
+847,Schluss::N,समाप्ति,befejezés
+848,Zeit::N,काल,idő
+849,Zeit::N,वक़्त,idő
+850,Tag::N,दिन,nap
+851,Tag::N,रोज़,nap
+852,Morgen::N,सुबह,reggel
+853,Mittag::N,दोपहर,dél
+854,Mittag::N,मध्याह्न,dél
+855,Abend::N,शाम,este
+856,Abend::N,संध्या,este
+857,Nacht::N,रात,éj
+858,Nacht::N,रात,éjszaka
+859,Nacht::N,रात्रि,éj
+860,Nacht::N,रात्रि,éjszaka
+861,Woche::N,हफ़्ता,hét
+862,Monat::N,मास,hó
+863,Monat::N,मास,hónap
+864,Monat::N,महीना,hó
+865,Monat::N,महीना,hónap
+866,Jahr::N,बरस,év
+867,Jahr::N,वर्ष,év
+868,Frühling::N,वसंत,tavasz
+869,Sommer::N,गरमी,nyár
+870,Sommer::N,ग्रीष्म,nyár
+871,Herbst::N,शरत्,ősz
+872,Herbst::N,पतझड़,ősz
+873,Winter::N,जाड़ा,tél
+874,Winter::N,सर्दियाँ,tél
+875,Januar::N,जनवरी,január
+876,Februar::N,फ़रवरी,február
+877,März::N,मार्च,március
+878,April::N,अप्रैल,április
+879,Mai::N,मई,május
+880,Juni::N,जून,június
+881,Juli::N,जुलाई,július
+882,August::N,अगस्त,augusztus
+883,September::N,सितंबर,szeptember
+884,Oktober::N,अक्तूबर,október
+885,November::N,नवंबर,november
+886,Dezember::N,दिसंबर,december
+887,Montag::N,पीर,hétfő
+888,Montag::N,सोमवार,hétfő
+889,Dienstag::N,मंगलवार,kedd
+890,Mittwoch::N,बुधवार,szerda
+891,Donnerstag::N,गुरुवार,csütörtök
+892,Donnerstag::N,बृहस्पतिवार,csütörtök
+893,Freitag::N,शुक्रवार,péntek
+894,Samstag::N,सनीचर,szombat
+895,Samstag::N,शनिवार,szombat
+896,Sonntag::N,इतवार,vasárnap
+897,Sonntag::N,रविवार,vasárnap
+898,groß::A,बड़ा,nagy
+899,klein::A,कम,pici
+900,klein::A,कम,kicsi
+901,klein::A,छोटा,pici
+902,klein::A,छोटा,kicsi
+903,lang::A,लंबा,hosszú
+904,lang::A,दीर्घ,hosszú
+905,kurz::A,लधु,rövid
+906,kurz::A,छोटा,rövid
+907,breit::A,चौड़ा,széles
+908,schmal::A,तंग,keskeny
+909,schmal::A,सँकरा,keskeny
+910,dicht::A,सघन,sűrű
+911,dick[Gegenstand]::A,मोटा,vastag
+912,dünn::A,महीन,vékony
+913,dünn::A,बारीक,vékony
+914,fein::A,कोमल,vékony
+915,fein::A,सूक्ष्म,vékony
+916,fest::A,दृढ़,szilárd
+917,fest::A,मज़बूत,szilárd
+918,flach::A,चपटा,sík
+919,flach::A,चपटा,lapos
+920,glatt::A,चौरस,sima
+921,glatt::A,चिकना,sima
+922,hart::A,कठोर,kemény
+923,hart::A,सख़्त,kemény
+924,weich::A,नरम,puha
+925,weich::A,मुलायम,puha
+926,rund::A,गोल,kerek
+927,rund::A,वर्तुल,kerek
+928,spitz::A,नुकीला,hegyes
+929,scharf::A,पैना,éles
+930,stumpf::A,भोथरा,tompa
+931,stumpf::A,भोथरा,életlen
+932,schwer::A,भारी,nehéz
+933,schwer::A,भारी,súlyos
+934,schwer::A,वज़नी,nehéz
+935,schwer::A,वज़नी,súlyos
+936,schön::A,सुंदर,szép
+937,heiß::A,उष्ण,forró
+938,warm::A,गरम,meleg
+939,kalt::A,सर्द,hideg
+940,kühl::A,ठंडा,hűs
+941,kühl::A,ठंडा,hűvös
+942,frisch::A,तर,üde
+943,frisch::A,तर,friss
+944,frisch::A,ताज़ा,üde
+945,frisch::A,ताज़ा,friss
+946,feucht::A,नम,nedves
+947,feucht::A,भीगा,nedves
+948,nass::A,गीला,vizes
+949,trocken::A,सूखा,száraz
+950,trocken::A,ख़ुश्क,száraz
+951,voll::A,भरा,telt
+952,voll::A,पूरा,telt
+953,leer::A,ख़ाली,üres
+954,offen::A,खुला,nyílt
+955,offen::A,खुला,nyitott
+956,geschlossen::A,बंद,zárt
+957,geschlossen::A,बंद,csukott
+958,sauber::A,साफ़,tiszta
+959,sauber::A,सुथरा,tiszta
+960,schmutzig::A,गंदा,piszkos
+961,schmutzig::A,गंदा,szennyes
+962,roh::A,कच्चा,nyers
+963,reif::A,पक्व,érett
+964,reif::A,पक्का,érett
+965,lecker::A,मज़ेदार,finom
+966,lecker::A,स्वादिष्ट,finom
+967,süß::A,मीठा,édes
+968,bitter::A,कटु,keserű
+969,bitter::A,कड़वा,keserű
+970,sauer::A,खट्टा,savanyú
+971,hell::A,रोशन,világos
+972,dunkel::A,अँधेरा,sötét
+973,schwarz::A,काला,fekete
+974,schwarz::A,स्याह,fekete
+975,weiß::A,सफ़ेद,fehér
+976,rot::A,लाल,vörös
+977,rot::A,सुर्ख़,vörös
+978,gelb::A,पीला,sárga
+979,gelb::A,ज़र्द,sárga
+980,blau::A,नीला,kék
+981,blau::A,आसमानी,kék
+982,grün::A,हरा,zöld
+983,grau::A,धूसर,ősz
+984,grau::A,धूसर,szürke
+985,bunt::A,रंगीन,tarka
+986,bunt::A,रंगीन,színes
+987,bunt::A,बहुरंगा,tarka
+988,bunt::A,बहुरंगा,színes
+989,billig::A,सस्ता,olcsó
+990,teuer::A,महँगा,drága
+991,wertvoll::A,क़ीमती,értékes
+992,wertvoll::A,मूल्यवान्,értékes
+993,blind::A,अंधा,vak
+994,taub::A,बहरा,süket
+995,kräftig::A,ताक़तवर,erős
+996,kräftig::A,शक्तिशाली,erős
+997,stark::A,प्रबल,erős
+998,stark::A,बलवान्,erős
+999,schwach::A,कमज़ोर,gyenge
+1000,schwach::A,कमज़ोर,erőtlen
+1001,fett::A,मोटा,hájas
+1002,fett::A,मांसल,hájas
+1003,schlank::A,पतला,karcsú
+1004,schlank::A,छरहरा,karcsú
+1005,hübsch::A,सुंदर,csinos
+1006,hübsch::A,ख़ूबसूरत,csinos
+1007,böse::A,पापी,rossz
+1008,böse::A,पापी,gonosz
+1009,böse::A,दुष्ट,rossz
+1010,böse::A,दुष्ट,gonosz
+1011,dumm::A,मूर्ख,buta
+1012,dumm::A,मूर्ख,ostoba
+1013,dumm::A,बुद्धू,buta
+1014,dumm::A,बुद्धू,ostoba
+1015,faul::A,आलसी,lusta
+1016,faul::A,सुस्त,lusta
+1017,fleißig::A,मेहनती,szorgalmas
+1018,fleißig::A,परिश्रमी,szorgalmas
+1019,geizig::A,कृपण,fukar
+1020,geizig::A,कृपण,fösvény
+1021,geizig::A,कंजूस,fukar
+1022,geizig::A,कंजूस,fösvény
+1023,klug::A,समझदार,okos
+1024,klug::A,समझदार,eszes
+1025,klug::A,होशियार,okos
+1026,klug::A,होशियार,eszes
+1027,klug::A,अक़्लमंद,okos
+1028,klug::A,अक़्लमंद,eszes
+1029,geschickt::A,किशल,ügyes
+1030,lieb::A,प्रिय,drága
+1031,lieb::A,प्रिय,kedves
+1032,lieb::A,प्यारा,drága
+1033,lieb::A,प्यारा,kedves
+1034,lustig::A,हँसमुख,víg
+1035,lustig::A,हँसमुख,vidám
+1036,lustig::A,ख़ुशदिल,víg
+1037,lustig::A,ख़ुशदिल,vidám
+1038,sanft::A,नम्र,enyhe
+1039,hungrig::A,भूखा,éhes
+1040,krank::A,बीमार,beteg
+1041,krank::A,अस्वस्थ,beteg
+1042,nackt::A,नग्न,csupasz
+1043,nackt::A,नग्न,meztelen
+1044,traurig::A,उदास,bús
+1045,traurig::A,उदास,szomorú
+1046,traurig::A,रंजीदा,bús
+1047,traurig::A,रंजीदा,szomorú
+1048,lebendig::A,जीता,élő
+1049,lebendig::A,ज़िंदा,élő
+1050,gut::A,अच्छा,jó
+1051,schlecht::A,बुरा,rossz
+1052,schlecht::A,ख़राब,rossz
+1053,richtig::A,ठीक,helyes
+1054,schlimm::A,बुरा,rossz
+1055,schlimm::A,अप्रिय,rossz
+1056,wahr::A,सच,igaz
+1057,alt::A,पुराना,ó
+1058,alt::A,पुराना,régi
+1059,neu::A,नया,új
+1060,ehemalig::A,भूतपूर्व,volt
+1061,ehemalig::A,भूतपूर्व,egykori
+1062,alt[Lebewesen]::A,बूढ़ा,öreg
+1063,alt[Lebewesen]::A,वृद्ध,öreg
+1064,jung::A,जवान,fiatal
+1065,arm::A,ग़रीब,szegény
+1066,reich::A,धनी,gazdag
+1067,reich::A,अमीर,gazdag
+1068,bekannt::A,मालूम,ismert
+1069,bekannt::A,मालूम,ismeretes
+1070,berühmt::A,मशहूर,híres
+1071,berühmt::A,प्रसिद्ध,híres
+1072,fremd::A,विदेशी,idegen
+1073,fremd::A,अपरिचित,idegen
+1074,verschieden::A,अलग,különböző
+1075,verschieden::A,भिन्न,különböző
+1076,nah::A,नज़दीकी,közeli
+1077,fern::A,दूर,távoli
+1078,fern::A,दूरस्थ,távoli
+1079,linker::A,बायाँ,bal
+1080,rechter::A,दायाँ,jobb
+1081,rechter::A,दाहिना,jobb
+1082,anderer::A,अन्य,más
+1083,anderer::A,अन्य,másik
+1084,anderer::A,दूसरा,más
+1085,anderer::A,दूसरा,másik
+1086,erster::A,पहला,első
+1087,erster::A,प्रथम,első
+1088,zweiter::A,दूसरा,második
+1089,zweiter::A,द्वितीय,második
+1090,dritter::A,तीसरा,harmadik
+1091,letzter::A,अंतिम,utolsó
+1092,letzter::A,आख़िरी,utolsó
+1093,allein::ADV,तनहा,egyedül
+1094,allein::ADV,अकेले,egyedül
+1095,auf einmal::ADV,वक़्त में,egyszerre
+1096,zusammen::ADV,एक साथ,együtt
+1097,zusammen::ADV,एक साथ,összesen
+1098,zusammen::ADV,साथ साथ,együtt
+1099,zusammen::ADV,साथ साथ,összesen
+1100,lange::ADV,देर तक,sokáig
+1101,lange::ADV,देर तक,hosszan
+1102,plötzlich::ADV,सहसा,hirtelen
+1103,plötzlich::ADV,सहसा,egyszerre
+1104,plötzlich::ADV,अचानक,hirtelen
+1105,plötzlich::ADV,अचानक,egyszerre
+1106,sofort::ADV,तुरंत,rögtön
+1107,sofort::ADV,तुरंत,tüstént
+1108,später::ADV,बाद को,későn
+1109,später::ADV,बाद में,későn
+1110,jetzt::ADV,अब,most
+1111,jetzt::ADV,अभी,most
+1112,heute::ADV,आज,ma
+1113,morgen::ADV,कल,holnap
+1114,bald::ADV,जल्दी,majd
+1115,bald::ADV,जल्दी,nemsokára
+1116,dann::ADV,तब,akkor
+1117,gestern::ADV,कल,tegnap
+1118,einst::ADV,एक दिन,hajdan
+1119,einst::ADV,पहले कभी,hajdan
+1120,damals::ADV,उस समय,akkor
+1121,damals::ADV,उस समय,akkoriban
+1122,damals::ADV,उन दिनों,akkor
+1123,damals::ADV,उन दिनों,akkoriban
+1124,danach::ADV,इसके बाद,azután
+1125,danach::ADV,इसके पश्चात्,azután
+1126,vorher::ADV,पहले,előbb
+1127,vorher::ADV,पेशतर,előbb
+1128,zuerst::ADV,पहले,először
+1129,einmal::ADV,एक बार,egyszer
+1130,einmal::ADV,एक दफ़ा,egyszer
+1131,manchmal::ADV,कभी कभी,néha
+1132,manchmal::ADV,कभी कभी,olykor
+1133,oft::ADV,अक्सर,sokszor
+1134,immer::ADV,सदा,mindig
+1135,immer::ADV,हमेशा,mindig
+1136,niemals::ADV,कभी नहीं,sohasem
+1137,niemals::ADV,कदापि नहीं,sohasem
+1138,hier::ADV,इधर,itt
+1139,hier::ADV,यहाँ,itt
+1140,hierhin::ADV,इधर को,erre
+1141,hierhin::ADV,यहाँ को,erre
+1142,von hier::ADV,यहाँ से,innen
+1143,dort::ADV,उधर,ott
+1144,dort::ADV,वहाँ,ott
+1145,dorthin::ADV,उधर को,oda
+1146,dorthin::ADV,वहाँ को,oda
+1147,geradeaus::ADV,सीधे,egyenesen
+1148,vorwärts::ADV,आगे,előre
+1149,vorwärts::ADV,आगे को,előre
+1150,rückwärts::ADV,पीछे को,hátrafelé
+1151,zurück::ADV,वापस,hátra
+1152,zurück::ADV,वापस,vissza
+1153,unten::ADV,नीचे,alul
+1154,hinab::ADV,नीचे को,le
+1155,hinab::ADV,नीचे को,lefelé
+1156,oben::ADV,ऊपर,fenn
+1157,oben::ADV,ऊपर,felül
+1158,hinauf::ADV,ऊपर को,fel
+1159,hinauf::ADV,ऊपर को,felfelé
+1160,überall::ADV,हर जगह,mindenütt
+1161,überall::ADV,हर स्थान,mindenütt
+1162,nicht::ADV,न,nem
+1163,nicht::ADV,नहीं,nem
+1164,ein wenig::ADV,कुछ,egy kicsit
+1165,ein wenig::ADV,ज़रा,egy kicsit
+1166,ein wenig::ADV,थोड़ा,egy kicsit
+1167,kaum::ADV,लगभग नहीं,alig
+1168,kaum::ADV,बराबर नहीं,alig
+1169,sehr::ADV,बहुत,nagyon
+1170,so::ADV,ऐसा,úgy
+1171,noch::ADV,अभी तक,még
+1172,nur::ADV,केवल,csak
+1173,nur::ADV,केवल,csupán
+1174,nur::ADV,सिर्फ़,csak
+1175,nur::ADV,सिर्फ़,csupán
+1176,schon::ADV,चुकना,már
+1177,wieder::ADV,फिर,ismét
+1178,wieder::ADV,फिर,megint
+1179,wieder::ADV,दुबारा,ismét
+1180,wieder::ADV,दुबारा,megint
+1181,vergebens::ADV,व्यर्थ,hiába
+1182,vor::PRP,के आगे,előtt
+1183,vor::PRP,के सामने,előtt
+1184,hinter::PRP,के पीछे,mögött
+1185,unter::PRP,के तले,alatt
+1186,unter::PRP,के नीचे,alatt
+1187,durch::PRP,के पार,át
+1188,durch::PRP,के पार,keresztül
+1189,neben::PRP,के पास,mellett
+1190,neben::PRP,की बग़ल में,mellett
+1191,zwischen::PRP,के बीच,között
+1192,wegen::PRP,के कारण,miatt
+1193,wegen::PRP,के कारण,végett
+1194,wegen::PRP,की वजह से,miatt
+1195,wegen::PRP,की वजह से,végett
+1196,dies::PRN,यह,ez
+1197,das::PRN,वह,az
+1198,alles::PRN,सब,minden
+1199,alles::PRN,सब कुछ,minden
+1200,ich::PRN,मैं,én
+1201,du::PRN,तू,te
+1202,er::PRN,यह,ő
+1203,wir::PRN,हम,mi
+1204,ihr::PRN,तुम,ti
+1205,sie::PRN,ये,ők
+1206,was::FPRN,क्या,mi
+1207,wer::FPRN,कौन,ki
+1208,wo::FADV,किधर,hol
+1209,wohin::FADV,किधर,hova
+1210,wie::FADV,कैसे,hogy
+1211,wie::FADV,कैसे,hogyan
+1212,warum::FADV,क्यों,miért
+1213,wieviel::FNUM,कितना,hány
+1214,wieviel::FNUM,कितना,mennyi
+1215,eins::NUM,एक,egy
+1216,zwei::NUM,दो,kettő
+1217,drei::NUM,तीन,három
+1218,vier::NUM,चार,négy
+1219,fünf::NUM,पाँच,öt
+1220,sechs::NUM,छह,hat
+1221,sieben::NUM,सात,hét
+1222,acht::NUM,आठ,nyolc
+1223,neun::NUM,नौ,kilenc
+1224,zehn::NUM,दस,tíz
+1225,elf::NUM,ग्यारह,tizenegy
+1226,zwölf::NUM,बारह,tizenkettő
+1227,zwanzig::NUM,बीस,húsz
+1228,dreißig::NUM,तीस,harminc
+1229,vierzig::NUM,चालीस,negyven
+1230,fünfzig::NUM,पचास,ötven
+1231,sechzig::NUM,साठ,hatvan
+1232,siebzig::NUM,सत्तर,hetven
+1233,achtzig::NUM,अस्सी,nyolcvan
+1234,neunzig::NUM,नव्वे,kilencven
+1235,hundert::NUM,सौ,száz
+1236,tausend::NUM,हज़ार,ezer
+1237,und::CNJ,और,és
+1238,und::CNJ,और,meg
+1239,oder::CNJ,या,vagy
+1240,stehen::V,खड़ा होना,áll
+1241,sitzen::V,बैठना,ül
+1242,liegen::V,लेटना,fekszik
+1243,hängen::V,लटकना,függ
+1244,werden::V,बनना,lesz
+1245,passieren::V,होना,történik
+1246,beginnen::V,आरंभ होना,kezdődik
+1247,beginnen::V,प्रारंभ होना,kezdődik
+1248,enden::V,अंत होना,végződik
+1249,enden::V,अंत होना,befejeződik
+1250,enden::V,ख़तम होना,végződik
+1251,enden::V,ख़तम होना,befejeződik
+1252,wechseln::V,बदलना,változik
+1253,aufgehen[Sonne]::V,चढ़ना,kel
+1254,aufgehen[Sonne]::V,उदित होना,kel
+1255,untergehen[Sonne]::V,अस्त हो जाना,lemegy
+1256,scheinen[Sonne]::V,रोशनी देना,süt
+1257,donnern::V,गरजना,dörög
+1258,wehen::V,चलना,fúj
+1259,strömen::V,बहना,áramlik
+1260,strömen::V,प्रवाहित होना,áramlik
+1261,fließen::V,बहना,folyik
+1262,fließen::V,प्रवाहित होना,folyik
+1263,sich drehen::V,घूमना,forog
+1264,schwanken::V,हिलना,inog
+1265,schwanken::V,हिलना,ingadozik
+1266,schwingen::V,हिलना,leng
+1267,fallen::V,गिरना,esik
+1268,brennen::V,जलना,ég
+1269,rauchen::V,धुआँ उड़ाना,füstöl
+1270,regnen::V,बरसना,esik
+1271,gefrieren::V,जमना,megfagy
+1272,tauen::V,गलना,olvad
+1273,tauen::V,पिघलना,olvad
+1274,schmelzen::V,गलना,olvad
+1275,schmelzen::V,गलना,elolvad
+1276,schmelzen::V,पिघलना,olvad
+1277,schmelzen::V,पिघलना,elolvad
+1278,trocknen::V,सूखना,szárad
+1279,sieden::V,उबलना,forr
+1280,faulen::V,गलना,rothad
+1281,faulen::V,सड़ना,rothad
+1282,verfaulen::V,गलना,elrothad
+1283,verfaulen::V,गलना,megrothad
+1284,verfaulen::V,सड़ना,elrothad
+1285,verfaulen::V,सड़ना,megrothad
+1286,reißen::V,फटना,szakad
+1287,versinken::V,डूबना,süllyed
+1288,versinken::V,डूबना,elsüllyed
+1289,vergehen::V,बीतना,múlik
+1290,vergehen::V,बीतना,elmúlik
+1291,vergehen::V,गुज़रना,múlik
+1292,vergehen::V,गुज़रना,elmúlik
+1293,erscheinen::V,दिखाई देना,feltűnik
+1294,erscheinen::V,दिखाई देना,megjelenik
+1295,verschwinden::V,ग़ायब होना,letűnik
+1296,sinken::V,घटना,süllyed
+1297,sinken::V,उतरना,süllyed
+1298,abnehmen::V,घटना,apad
+1299,abnehmen::V,घटना,csökken
+1300,zunehmen::V,बढ़ना,növekszik
+1301,zunehmen::V,बढ़ना,gyarapszik
+1302,steigen::V,बढ़ना,emelkedik
+1303,wachsen::V,उगना,nő
+1304,wachsen::V,उगना,terem
+1305,wachsen::V,उगना,növekszik
+1306,glänzen::V,चमकना,ragyog
+1307,glänzen::V,चमकना,fénylik
+1308,funkeln::V,जगमगाना,csillog
+1309,funkeln::V,जगमगाना,tündöklik
+1310,funkeln::V,टिमटिमाना,csillog
+1311,funkeln::V,टिमटिमाना,tündöklik
+1312,lärmen::V,शोर मचाना,lármázik
+1313,läuten::V,बजना,cseng
+1314,klingeln::V,बजना,csenget
+1315,klirren::V,झनझनाना,csörömpöl
+1316,brausen::V,साँय-साँय करना,zúg
+1317,brausen::V,साँय-साँय करना,morajlik
+1318,rauschen::V,सरसराना,zúg
+1319,klingen::V,बजना,hangzik
+1320,bellen::V,भौंकना,ugat
+1321,heulen::V,गुर्राना,bőg
+1322,heulen::V,गुर्राना,üvölt
+1323,blasen::V,फूँकना,fúj
+1324,pfeifen::V,सीटी देना,fütyül
+1325,schreien::V,चिल्लाना,kiált
+1326,schreien::V,चिल्लाना,kiabál
+1327,stöhnen::V,कराहना,nyög
+1328,stöhnen::V,आहें भरना,nyög
+1329,zittern::V,काँपना,remeg
+1330,zittern::V,काँपना,reszket
+1331,leben::V,जीना,él
+1332,geboren werden::V,पैदा होना,születik
+1333,atmen::V,साँस लेना,lélegzik
+1334,trinken::V,पीना,iszik
+1335,essen::V,खाना,eszik
+1336,schlucken::V,निगलना,nyel
+1337,müde werden::V,थकना,elfárad
+1338,müde werden::V,थकना,kifárad
+1339,müde werden::V,उकताना,elfárad
+1340,müde werden::V,उकताना,kifárad
+1341,einschlafen::V,सो जाना,elalszik
+1342,schlafen::V,सोना,alszik
+1343,aufwachen::V,जागना,felébred
+1344,aufstehen::V,उठना,felkel
+1345,sich erholen::V,सुस्ताना,pihen
+1346,sich erholen::V,आराम करना,pihen
+1347,krank werden::V,बीमार पड़ना,megbetegedik
+1348,krank werden::V,बीमार पड़ना,belebetegszik
+1349,krank sein::V,बीमार होना,betegeskedik
+1350,schmerzen::V,दुखना,fáj
+1351,schmerzen::V,दर्द करना,fáj
+1352,husten::V,खाँसना,köhög
+1353,genesen::V,ठीक हो जाना,meggyógyul
+1354,genesen::V,स्वस्थ हो जाना,meggyógyul
+1355,sterben::V,मरना,hal
+1356,umkommen::V,मरना,elpusztul
+1357,sich bewegen::V,चलना,mozog
+1358,sich bewegen::V,हिलना,mozog
+1359,sich rühren::V,हिलना,mozdul
+1360,sich erheben::V,उठना,feláll
+1361,sich erheben::V,उठना,felemelkedik
+1362,sich setzen::V,बैठना,ül
+1363,sich setzen::V,बैठना,leül
+1364,hinfallen::V,गिरना,bukik
+1365,hinfallen::V,गिरना,elesik
+1366,laufen::V,चलना,jár
+1367,schreiten::V,क़दम जाना,lép
+1368,spazierengehen::V,सैर करना,sétál
+1369,eilen::V,तेज़ी से जाना,siet
+1370,eilen::V,शीघ्रता से चलना,siet
+1371,sich beeilen::V,जल्दी करना,siet
+1372,sich beeilen::V,शीघ्रता करना,siet
+1373,sausen::V,बड़ी तेज़ी से चलना,robog
+1374,rennen::V,भागना,fut
+1375,rennen::V,भागना,szalad
+1376,rennen::V,दौड़ना,fut
+1377,rennen::V,दौड़ना,szalad
+1378,springen::V,उछलना,ugrik
+1379,klettern::V,चढ़ना,kúszik
+1380,schaukeln::V,झूलना,hintázik
+1381,kriechen::V,रेंगना,kúszik
+1382,schwimmen::V,तैरना,úszik
+1383,tauchen::V,डूबना,merül
+1384,rudern::V,खेना,evez
+1385,rudern::V,चप्पू चलाना,evez
+1386,fahren::V,चलना,jár
+1387,fahren::V,चलना,megy
+1388,fahren::V,चलना,utazik
+1389,fahren::V,यात्रा करना,jár
+1390,fahren::V,यात्रा करना,megy
+1391,fahren::V,यात्रा करना,utazik
+1392,fliegen::V,उड़ना,száll
+1393,gehen::V,जाना,megy
+1394,weggehen::V,चला जाना,elmegy
+1395,weggehen::V,बाहर जाना,elmegy
+1396,abfahren::V,छूटना,indul
+1397,abfahren::V,रवाना होना,indul
+1398,anhalten::V,रुकना,megáll
+1399,anhalten::V,खड़ा होना,megáll
+1400,hineingehen::V,घुसना,bemegy
+1401,hineingehen::V,अंदर जाना,bemegy
+1402,eintreten::V,प्रवेश करना,belép
+1403,kommen::V,आना,jön
+1404,ankommen::V,पहुँचना,érkezik
+1405,ankommen::V,पहुँचना,megérkezik
+1406,zurückkommen::V,लौटना,visszajön
+1407,zurückkommen::V,वापस आना,visszajön
+1408,bleiben::V,रहना,marad
+1409,bleiben::V,रहना,megmarad
+1410,bleiben::V,रुकना,marad
+1411,bleiben::V,रुकना,megmarad
+1412,warten::V,इंतज़ार करना,vár
+1413,warten::V,इंतज़ार करना,várakozik
+1414,erwarten::V,प्रतीक्षा करना,vár
+1415,erwarten::V,प्रतीक्षा करना,megvár
+1416,suchen::V,ढूँढ़ना,kutat
+1417,finden::V,पाना,talál
+1418,finden::V,ढूँढ़ निकालना,talál
+1419,versuchen::V,कोशिश करना,megpróbál
+1420,versuchen::V,कोशिश करना,megkísérel
+1421,vorbereiten::V,तैयार करना,előkészít
+1422,lieben::V,प्यार करना,szeret
+1423,mögen::V,पसंद होना,szeret
+1424,lachen::V,हँसना,nevet
+1425,rühren::V,छूना,mozdít
+1426,weinen::V,रोना,sír
+1427,schimpfen::V,गाली देना,szid
+1428,schimpfen::V,गाली देना,szitkozódik
+1429,sich ärgern::V,चिढ़ना,mérgelődik
+1430,sich ärgern::V,चिढ़ना,bosszankodik
+1431,sich ärgern::V,नाराज़ होना,mérgelődik
+1432,sich ärgern::V,नाराज़ होना,bosszankodik
+1433,sich fürchten::V,डरना,fél
+1434,sich fürchten::V,डरना,retteg
+1435,sich fürchten::V,भय खाना,fél
+1436,sich fürchten::V,भय खाना,retteg
+1437,fürchten::V,डरना से,fél
+1438,fürchten::V,भय खाना से,fél
+1439,fliehen::V,भागना,menekül
+1440,flüchten::V,निकल भागना,elmenekül
+1441,sehen::V,देखना,néz
+1442,anschauen::V,देखना,megnéz
+1443,ansehen::V,दृष्टि डालना पर,néz
+1444,ansehen::V,दृष्टि डालना पर,ránéz
+1445,ansehen::V,दृष्टि डालना पर,megnéz
+1446,hören::V,सुनना,hall
+1447,zuhören::V,सुनना,hallgat
+1448,zuhören::V,सुनना,meghallgat
+1449,probieren::V,चखना,kóstol
+1450,probieren::V,चखना,megkóstol
+1451,riechen::V,सूँघना,szagol
+1452,fühlen::V,महसूस करना,érez
+1453,scheinen::V,लगना,tűnik
+1454,scheinen::V,लगना,látszik
+1455,zu sehen sein::V,दिखाई देना,mutatkozik
+1456,vernehmen::V,सुनना,hall
+1457,frieren::V,ठंड लगना,fázik
+1458,frieren::V,सर्दी लगना,fázik
+1459,tun::V,करना,csinál
+1460,tun::V,करना,cselekszik
+1461,können::V,सकना,tud
+1462,können::V,जानना,tud
+1463,wollen::V,चाहना,akar
+1464,anfangen::V,शुरू करना,kezd
+1465,beenden::V,ख़त्म करना,befejez
+1466,beenden::V,समाप्त करना,befejez
+1467,aufhören::V,बंद जाना,megszűnik
+1468,aufhören::V,समाप्त जाना,megszűnik
+1469,gelingen::V,बनना,sikerül
+1470,gelingen::V,अच्छा होना,sikerül
+1471,geraten::V,बन पड़ना,kerül
+1472,geraten::V,बन पड़ना,jut
+1473,öffnen::V,खोलना,nyit
+1474,öffnen::V,खोलना,kinyit
+1475,schließen::V,बंद करना,csuk
+1476,schließen::V,बंद करना,becsuk
+1477,stellen::V,रखना,állít
+1478,stellen::V,रखना,helyez
+1479,setzen::V,रखना,ültet
+1480,setzen::V,रखना,helyez
+1481,setzen::V,बिठाना,ültet
+1482,setzen::V,बिठाना,helyez
+1483,legen::V,रखना,tesz
+1484,legen::V,रखना,fektet
+1485,legen::V,लिटाना,tesz
+1486,legen::V,लिटाना,fektet
+1487,berühren::V,छूना,érint
+1488,berühren::V,स्पर्श करना,érint
+1489,verbinden::V,बाँधना,beköt
+1490,verbinden::V,बाँधना,összeköt
+1491,bedecken::V,ढकना,betakar
+1492,bedecken::V,ढकना,beborít
+1493,aufhängen::V,लटकाना,felakaszt
+1494,anzünden::V,जलाना,gyújt
+1495,anzünden::V,जलाना,meggyújt
+1496,aufheben::V,उठाना,felemel
+1497,zurücklassen::V,पीछे छोड़ना,hátrahagy
+1498,verlieren::V,खोना,veszít
+1499,verlieren::V,खोना,elveszít
+1500,verlieren::V,गँवाना,veszít
+1501,verlieren::V,गँवाना,elveszít
+1502,fallen lassen::V,गिराना,elejt
+1503,machen::V,करना,tesz
+1504,machen::V,करना,csinál
+1505,machen::V,बनाना,tesz
+1506,machen::V,बनाना,csinál
+1507,herstellen::V,बनाना,gyárt
+1508,herstellen::V,बनाना,előállít
+1509,herstellen::V,तैयार करना,gyárt
+1510,herstellen::V,तैयार करना,előállít
+1511,bauen::V,बनाना,épít
+1512,bauen::V,निर्माण करना,épít
+1513,reparieren::V,मरम्मत करना,javít
+1514,reparieren::V,मरम्मत करना,kijavít
+1515,reparieren::V,मरम्मत करना,megjavít
+1516,verbessern::V,सुधारना,megjavít
+1517,ändern::V,बदलना,változtat
+1518,ändern::V,बदलना,megváltoztat
+1519,ändern::V,परीवर्तन करना,változtat
+1520,ändern::V,परीवर्तन करना,megváltoztat
+1521,graben::V,खोदना,ás
+1522,beugen::V,झुकाना,meghajt
+1523,biegen::V,झुकाना,hajlít
+1524,drehen::V,फेरना,forgat
+1525,drehen::V,घुमाना,forgat
+1526,wenden::V,पलटना,fordít
+1527,wenden::V,पलटना,megfordít
+1528,wenden::V,मोड़ना,fordít
+1529,wenden::V,मोड़ना,megfordít
+1530,umdrehen::V,घुमाना,megfordít
+1531,umdrehen::V,घुमाना,megforgat
+1532,heben::V,उठाना,emel
+1533,heben::V,ऊँचा करना,emel
+1534,hochheben::V,उठाना,felemel
+1535,hochheben::V,ऊपर को उठाना,felemel
+1536,ergreifen::V,पकड़ना,megfog
+1537,ergreifen::V,हाथ में लेना,megfog
+1538,halten::V,धरना,tart
+1539,halten::V,पकड़ना,tart
+1540,drücken::V,दबाना,nyom
+1541,drücken::V,दबाना,megnyom
+1542,schieben::V,सरकाना,tol
+1543,schieben::V,खिसकाना,tol
+1544,kratzen::V,खुरचना,vakar
+1545,kratzen::V,खुजलाना,vakar
+1546,lecken::V,चाटना,nyal
+1547,beißen::V,काटना,harap
+1548,abreißen::V,तोड़ना,letép
+1549,abschneiden::V,काट करना,levág
+1550,binden::V,बाँधना,köt
+1551,binden::V,बाँधना,kötöz
+1552,stecken::V,खोंसना,dug
+1553,brechen::V,तोड़ना,tör
+1554,brechen::V,तोड़ना,eltör
+1555,klopfen::V,खटखटाना,kopogtat
+1556,hauen::V,ठोकना,vág
+1557,hauen::V,ठोकना,levág
+1558,kleben::V,चिपकाना,tapaszt
+1559,reiben::V,घिसना,dörzsöl
+1560,reiben::V,घिसना,súrol
+1561,reiben::V,रगड़ना,dörzsöl
+1562,reiben::V,रगड़ना,súrol
+1563,streichen::V,लगाना,simít
+1564,schleifen::V,तेज़ करना,fen
+1565,schleifen::V,तेज़ करना,csiszol
+1566,schleifen::V,तेज़ करना,köszörül
+1567,schneiden::V,कतरना,vág
+1568,schneiden::V,कतरना,szel
+1569,schneiden::V,कतरना,metsz
+1570,rütteln::V,झकझोरना,ráz
+1571,schütteln::V,हिलाना,ráz
+1572,schütteln::V,हिलाना,megráz
+1573,schwenken::V,घुमाना,lóbál
+1574,schwenken::V,घुमाना,lobogtat
+1575,schütten::V,उँडेलना,önt
+1576,füllen::V,भरना,tölt
+1577,füllen::V,भरना,megtölt
+1578,füllen::V,ठूसना,tölt
+1579,füllen::V,ठूसना,megtölt
+1580,einwickeln::V,लपेटना,becsavar
+1581,tragen::V,ढोना,hord
+1582,schleppen::V,घसीटना,vonszol
+1583,ziehen::V,खींचना,húz
+1584,aufbewahren::V,रखना,megőriz
+1585,werfen::V,फेंकना,dob
+1586,werfen::V,फेंकना,hajít
+1587,fangen::V,पकड़ना,fog
+1588,packen::V,पकड़ना,megragad
+1589,verstecken::V,छिपाना,eldug
+1590,verstecken::V,छिपाना,elrejt
+1591,teilen::V,बाँटना,oszt
+1592,teilen::V,बाँटना,megoszt
+1593,schicken::V,भेजना,küld
+1594,bringen::V,लाना,hoz
+1595,bringen::V,लाना,visz
+1596,hinzufügen::V,जोड़ना,hozzáad
+1597,bekommen::V,पाना,kap
+1598,bekommen::V,पाना,megkap
+1599,erhalten::V,पाना,kap
+1600,erhalten::V,पाना,megkap
+1601,erhalten::V,मिलना,kap
+1602,erhalten::V,मिलना,megkap
+1603,nehmen::V,लेना,vesz
+1604,wählen::V,चुनना,választ
+1605,auswählen::V,चुनना,kiválaszt
+1606,bewahren::V,बनाए रखना,megtart
+1607,behindern::V,रोकना,akadályoz
+1608,behindern::V,रोकना,gátol
+1609,verderben::V,ख़राब करना,elront
+1610,beschädigen::V,नुक़सान पहुँचाना,rongál
+1611,zerbrechen::V,तोड़ना,eltör
+1612,zerbrechen::V,तोड़ना,széttör
+1613,zerbrechen::V,तोड़ना,kettétör
+1614,zerreißen::V,तोड़ना,eltép
+1615,zerreißen::V,तोड़ना,széttép
+1616,zerstören::V,नष्ट करना,elpusztít
+1617,zerstören::V,बरबाद करना,elpusztít
+1618,verbrennen::V,जलाना,éget
+1619,verbrennen::V,जलाना,eléget
+1620,geben::V,देना,ad
+1621,reichen::V,थमाना,nyújt
+1622,schenken::V,भेंट देना,ajándékoz
+1623,versprechen::V,वादा करना,ígér
+1624,wünschen::V,कामना करना,kíván
+1625,loben::V,तारीफ़ करना,dicsér
+1626,küssen::V,चूमना,csókol
+1627,wiegen::V,झुलाना,ringat
+1628,zudecken::V,ढकना,betakar
+1629,wecken::V,जगाना,kelt
+1630,wecken::V,जगाना,ébreszt
+1631,zeigen::V,दिखाना,mutat
+1632,führen::V,रास्ता दिखाना,visz
+1633,führen::V,रास्ता दिखाना,vezet
+1634,lehren::V,पढ़ाना,tanít
+1635,unterrichten::V,सिखाना,tanít
+1636,aufziehen::V,पालना,felnevel
+1637,leiten::V,संचालन करना,vezet
+1638,leiten::V,संचालन करना,vezérel
+1639,antreiben::V,हड़बड़ाना,hajt
+1640,lassen::V,-आना,-tat
+1641,lassen::V,-आना,-at
+1642,lassen::V,कराना,-tat
+1643,lassen::V,कराना,-at
+1644,einladen::V,बुलाना,meghív
+1645,vereinigen::V,मिलाना,egyesít
+1646,vereinigen::V,संयुक्त करना,egyesít
+1647,besuchen::V,मिलना से,látogat
+1648,besuchen::V,मिलने जाना से,látogat
+1649,treffen::V,मिलना,talál
+1650,sich versammeln::V,इकट्ठा होना,gyülekezik
+1651,sich versammeln::V,इकट्ठा होना,összegyűlik
+1652,spielen::V,खेलना,játszik
+1653,singen::V,गाना,énekel
+1654,tanzen::V,नाचना,táncol
+1655,sich trennen::V,अलग होना,elválik
+1656,verlassen::V,छोड़ना,elhagy
+1657,retten::V,बचाना,ment
+1658,bewachen::V,आँख रखना पर,őriz
+1659,schützen::V,रक्षा करना,óv
+1660,schützen::V,रक्षा करना,véd
+1661,verteidigen::V,रक्षा करना,véd
+1662,sich schlagen::V,हाथापाई करना,verekszik
+1663,schießen::V,गोली मारना,lő
+1664,siegen::V,जीतना,győz
+1665,siegen::V,विजय पाना,győz
+1666,ärgern::V,चिढ़ाना,bosszant
+1667,schlagen::V,मारना,üt
+1668,schlagen::V,मारना,ver
+1669,treten::V,ठोकर मारना,rúg
+1670,stechen::V,भेदना,döf
+1671,stechen::V,भेदना,szúr
+1672,stechen::V,भोंकना,döf
+1673,stechen::V,भोंकना,szúr
+1674,stoßen::V,धक्का देना,lök
+1675,stoßen::V,झटका देना,lök
+1676,stehlen::V,चोरी करना,lop
+1677,stören::V,बुरा लगना,zavar
+1678,belästigen::V,तंग करना,zaklat
+1679,verbergen::V,लुकाना,rejt
+1680,verbergen::V,लुकाना,elrejt
+1681,täuschen::V,धोखा देना,megtéveszt
+1682,betrügen::V,धोखा देना,csal
+1683,töten::V,मारना,öl
+1684,töten::V,मार डालना,öl
+1685,wohnen::V,रहना,lakik
+1686,arbeiten::V,काम करना,dolgozik
+1687,sammeln::V,जमा करना,szed
+1688,sammeln::V,जमा करना,gyűjt
+1689,pflücken::V,चुनना,szed
+1690,pflücken::V,तोड़ना,szed
+1691,jagen::V,आखेट करना,vadászik
+1692,jagen::V,शिकार करना,vadászik
+1693,fischen::V,मछली पकड़ना,halászik
+1694,fassen::V,पकड़ना,fog
+1695,hüten::V,चराना,őriz
+1696,hüten::V,चराना,legeltet
+1697,treiben::V,हाँकना,hajt
+1698,anbinden::V,बाँधना,köt
+1699,füttern::V,खिलाना,etet
+1700,melken::V,दुहना,fej
+1701,hacken::V,काटना,vág
+1702,gießen::V,सींचना,öntöz
+1703,reifen::V,पकना,érik
+1704,zubereiten::V,पकाना,elkészít
+1705,kochen::V,पकाना,főz
+1706,kochen::V,राँधना,főz
+1707,backen::V,पकाना,süt
+1708,braten::V,तलना,süt
+1709,braten::V,भूनना,süt
+1710,umrühren::V,फेंटना,megkever
+1711,stricken::V,बुनना,köt
+1712,nähen::V,सीना,varr
+1713,färben::V,रँगना,fest
+1714,reinigen::V,साफ़ करना,tisztít
+1715,reinigen::V,शुद्ध करना,tisztít
+1716,waschen::V,धोना,mos
+1717,abwischen::V,पोंछ्ना,letöröl
+1718,spülen::V,माँजना,mosogat
+1719,spülen::V,खँगालना,mosogat
+1720,fegen::V,बुहारना,söpör
+1721,kehren::V,झाड़ना,söpör
+1722,baden::V,स्नान करना,fürdik
+1723,sich waschen::V,नहाना,mosdik
+1724,sich waschen::V,नहाना,mosakszik
+1725,sich waschen::V,हाथ-मुँह धोना,mosdik
+1726,sich waschen::V,हाथ-मुँह धोना,mosakszik
+1727,ausziehen::V,उतारना,levesz
+1728,anziehen::V,पहनना,felölt
+1729,anziehen::V,पहनना,felvesz
+1730,sich anziehen::V,कपड़े पहनना,öltözik
+1731,sich anziehen::V,कपड़े पहनना,felöltözik
+1732,kämmen::V,कंघी करना,fésül
+1733,schmücken::V,सजाना,díszít
+1734,schmücken::V,सँवारना,díszít
+1735,sagen::V,कहना,mond
+1736,sagen::V,बताना,mond
+1737,sprechen::V,बोलना,beszél
+1738,reden::V,बोलना,beszél
+1739,reden::V,बात करना,beszél
+1740,sich unterhalten::V,बात करना,beszélget
+1741,sich unterhalten::V,बातचीत करना,beszélget
+1742,fragen::V,पूछ्ना,kérdez
+1743,fragen::V,प्रश्न करना,kérdez
+1744,bitten::V,माँगना से,kér
+1745,erzählen::V,बताना,mesél
+1746,erzählen::V,बताना,elbeszél
+1747,mitteilen::V,ख़बर देना,közöl
+1748,mitteilen::V,सूचना देना,közöl
+1749,nennen::V,नाम देना,hív
+1750,nennen::V,नाम देना,nevez
+1751,rufen::V,बुलाना,hív
+1752,prahlen::V,शेख़ी बघारना,dicsekszik
+1753,übersetzen::V,अनुवाद करना,fordít
+1754,denken::V,सोचना,gondol
+1755,glauben::V,विश्वास करना,hisz
+1756,bemerken::V,ध्यान देना पर,észrevesz
+1757,erkennen::V,पहचानना,ráismer
+1758,erkennen::V,पहचानना,felismer
+1759,begreifen::V,समझना,felfog
+1760,verstehen::V,सुनना,ért
+1761,verstehen::V,सुनना,megért
+1762,lernen::V,पढ़ना,tanul
+1763,lernen::V,पढ़ना,megtanul
+1764,wissen::V,जानना,tud
+1765,wissen::V,मालूम होना,tud
+1766,sich erinnern an::V,याद करना,emlékszik
+1767,vergessen::V,भूलना,felejt
+1768,vergessen::V,भूलना,elfelejt
+1769,vergessen::V,बिसारना,felejt
+1770,vergessen::V,बिसारना,elfelejt
+1771,messen::V,नापना,mér
+1772,messen::V,नापना,megmér
+1773,zählen::V,गिनना,számol
+1774,zählen::V,गिनना,megszámol
+1775,rechnen::V,गणना करना,számít
+1776,rechnen::V,हिसाब करना,számít
+1777,lesen::V,पढ़ना,olvas
+1778,malen::V,कींचना,fest
+1779,zeichnen::V,चित्र कींचना,rajzol
+1780,schreiben::V,लिखना,ír
+1781,besitzen::V,मालिक होना,birtokol
+1782,besitzen::V,स्वामी होना,birtokol
+1783,kaufen::V,ख़रीदना,vesz
+1784,kaufen::V,ख़रीदना,megvesz
+1785,verkaufen::V,बेचना,elad
+1786,bezahlen::V,चुकाना,fizet
+1787,bezahlen::V,चुकाना,kifizet
+1788,bezahlen::V,अदा करना,fizet
+1789,bezahlen::V,अदा करना,kifizet
+1790,zahlen::V,अदा करना,fizet
+1791,zahlen::V,अदा करना,megfizet
+1792,beherrschen::V,शासन करना पर,ural
+1793,ertragen::V,सहना,elbír
+1794,ertragen::V,सहना,elvisel

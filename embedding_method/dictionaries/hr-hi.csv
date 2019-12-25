@@ -1,0 +1,1879 @@
+,Concept_ID,hr,hi
+0,Auge::N,oko,आँख
+1,Auge::N,oko,चक्षु
+2,Ohr::N,uho,कान
+3,Ohr::N,uho,कर्ण
+4,Nase::N,nos,नाक
+5,Nase::N,nos,नासा
+6,Mund::N,usta,मुख
+7,Mund::N,usta,मुँह
+8,Zahn::N,zub,दंत
+9,Zahn::N,zub,दाँत
+10,Zunge::N,jezik,जीभ
+11,Zunge::N,jezik,ज़बान
+12,Zunge::N,jezik,जिह्वा
+13,Lippe::N,usna,ओंठ
+14,Lippe::N,usna,होंठ
+15,Wange::N,obraz,गाल
+16,Wange::N,obraz,कपोल
+17,Gesicht::N,lice,मुँह
+18,Gesicht::N,lice,चेहरा
+19,Stirn::N,čelo,माथा
+20,Stirn::N,čelo,मस्तक
+21,Haar::N,kosa,बाल
+22,Schnurrbart::N,brkovi,मूँछें
+23,Bart::N,brada,दाढ़ी
+24,Kinn::N,brada,चिबुक
+25,Kinn::N,podbradak,चिबुक
+26,Kiefer[Anatomie]::N,čeljust,जबड़ा
+27,Kehle::N,grlo,गला
+28,Hals::N,vrat,गला
+29,Hals::N,vrat,गरदन
+30,Genick::N,zatiljak,गरदन
+31,Genick::N,zatiljak,ग्रीवा
+32,Kopf::N,glava,सिर
+33,Kopf::N,glava,शीर्ष
+34,Rücken::N,leđa,पीठ
+35,Rücken::N,hrbat,पीठ
+36,Bauch::N,trbuh,उदर
+37,Nabel::N,pupak,नाभि
+38,Nabel::N,pupak,ढोंढी
+39,Busen::N,sisa,कुच
+40,Busen::N,sisa,स्तन
+41,Busen::N,njedra,कुच
+42,Busen::N,njedra,स्तन
+43,Brust::N,prsa,वक्ष
+44,Schulter::N,rame,कंधा
+45,Schulter::N,rame,स्कंध
+46,Schulter::N,pleći,कंधा
+47,Schulter::N,pleći,स्कंध
+48,Arm::N,ruka,बाँह
+49,Arm::N,ruka,बाज़ू
+50,Ellenbogen::N,lakat,कुहनी
+51,Hand::N,ruka,हाथ
+52,Hand::N,ruka,हस्त
+53,Handfläche::N,dlan,हथेली
+54,Finger::N,prst,उँगली
+55,Finger::N,prst,अँगुली
+56,Fingernagel::N,nokat,नख
+57,Fingernagel::N,nokat,नाख़ून
+58,Nagel[Anatomie]::N,nokat,नख
+59,Nagel[Anatomie]::N,nokat,नाख़ून
+60,Zeh::N,nozni prst,उँगली
+61,Zeh::N,nozni prst,पाँव की उँगली
+62,Fuß::N,noga,चरण
+63,Fuß::N,noga,पाँव
+64,Fuß::N,stopalo,चरण
+65,Fuß::N,stopalo,पाँव
+66,Ferse::N,peta,एड़ी
+67,Knie::N,koljeno,जानु
+68,Knie::N,koljeno,घुटना
+69,Oberschenkel::N,bedro,उरु
+70,Bein::N,noga,टाँग
+71,Körper::N,tijelo,तन
+72,Körper::N,tijelo,देह
+73,Körper::N,tijelo,शरीर
+74,Haut::N,put,चर्म
+75,Haut::N,put,त्वचा
+76,Haut::N,koža,चर्म
+77,Haut::N,koža,त्वचा
+78,Blut::N,krv,लहू
+79,Blut::N,krv,ख़ून
+80,Ader::N,žila,रग
+81,Ader::N,žila,शिरा
+82,Sehne::N,tetiva,कंडरा
+83,Sehne::N,tetiva,स्नायु
+84,Knochen::N,kost,अस्थि
+85,Herz::N,srce,दिल
+86,Herz::N,srce,हृदय
+87,Magen::N,stomak,मेदा
+88,Magen::N,stomak,अमाशय
+89,Magen::N,želudac,मेदा
+90,Magen::N,želudac,अमाशय
+91,Leber::N,jetra,जिगर
+92,Leber::N,jetra,यकृत्
+93,Atem::N,dah,दम
+94,Atem::N,dah,साँस
+95,Atem::N,dah,श्वास
+96,Hunger::N,glad,भूख
+97,Hunger::N,glad,क्षुधा
+98,Träne::N,suza,आँसू
+99,Träne::N,suza,अश्रु
+100,Geschmack::N,ukus,स्वाद
+101,Geschmack::N,ukus,ज़ायक़ा
+102,Geruch::N,njuh,बू
+103,Geruch::N,njuh,गंध
+104,Geruch::N,miris,बू
+105,Geruch::N,miris,गंध
+106,Schlaf::N,san,नींद
+107,Schlaf::N,san,निद्रा
+108,Traum::N,san,सपना
+109,Traum::N,san,स्वप्न
+110,Himmel::N,nebo,आकाश
+111,Himmel::N,nebo,आसमान
+112,Sonne::N,sunce,रवि
+113,Sonne::N,sunce,सूरज
+114,Sonne::N,sunce,सूर्य
+115,Mond::N,mjesec,चाँद
+116,Mond::N,mjesec,चंद्र
+117,Stern::N,zvijezda,तारा
+118,Stern::N,zvijezda,सितारा
+119,Luft::N,zrak,हवा
+120,Luft::N,zrak,वायु
+121,Wind::N,vjetar,पाद
+122,Welle::N,val,लहर
+123,Welle::N,val,तरंग
+124,Welle::N,talas,लहर
+125,Welle::N,talas,तरंग
+126,Wasser::N,voda,जल
+127,Wasser::N,voda,पानी
+128,Stein::N,kamen,पत्थर
+129,Boden::N,tlo,मिट्टी
+130,Boden::N,zemlja,मिट्टी
+131,Erde::N,zemlja,भूमि
+132,Erde::N,zemlja,ज़मीन
+133,Staub::N,prah,धूल
+134,Staub::N,prašina,धूल
+135,Rauch::N,dim,धूआँ
+136,Rauch::N,dim,धुम्र
+137,Funke::N,iskra,चिनगारी
+138,Funke::N,iskra,स्फुलिंग
+139,Funke::N,varnica,चिनगारी
+140,Funke::N,varnica,स्फुलिंग
+141,Feuer::N,vatra,आग
+142,Feuer::N,vatra,आतिश
+143,Feuer::N,vatra,अग्नि
+144,Licht::N,svjetlo,रोशनी
+145,Licht::N,svjetlo,प्रकाश
+146,Schatten::N,hlad,छाया
+147,Schatten::N,hlad,परछाई
+148,Schatten::N,sjena,छाया
+149,Schatten::N,sjena,परछाई
+150,Wetter::N,vrijeme,ऋतु
+151,Wetter::N,vrijeme,मौसम
+152,Nebel::N,magla,धुँध
+153,Nebel::N,magla,कुहरा
+154,Wolke::N,oblak,मेघ
+155,Wolke::N,oblak,अभ्र
+156,Regen::N,kiša,मेंह
+157,Regen::N,kiša,बारिश
+158,Schnee::N,snijeg,हिम
+159,Schnee::N,snijeg,बर्फ़
+160,Eis::N,led,हिम
+161,Eis::N,led,बर्फ़
+162,Frost::N,mraz,ठंड
+163,Kälte::N,studen,सर्दी
+164,Kälte::N,studen,शीतलता
+165,Kälte::N,hladnoća,सर्दी
+166,Kälte::N,hladnoća,शीतलता
+167,Hitze::N,vrućina,ताप
+168,Hitze::N,vrućina,गरमी
+169,Raureif::N,inje,पाला
+170,Regenbogen::N,duga,इंद्र-धनुष
+171,Donner::N,grom,गरज
+172,Donner::N,grom,मेघ-गर्जन
+173,Donner::N,grmljavina,गरज
+174,Donner::N,grmljavina,मेघ-गर्जन
+175,Strömung::N,struja,बहाव
+176,Strömung::N,struja,प्रवाह
+177,Strömung::N,strujanje,बहाव
+178,Strömung::N,strujanje,प्रवाह
+179,Tropfen::N,kap,बूँद
+180,Tropfen::N,kaplja,बूँद
+181,Schaum::N,pjena,झाग
+182,Schmutz::N,nečistoća,गंद
+183,Schmutz::N,nečistoća,कीचड़
+184,Schmutz::N,prljavština,गंद
+185,Schmutz::N,prljavština,कीचड़
+186,See::N,jezero,झील
+187,See::N,jezero,सरोवर
+188,Sumpf::N,bara,दलदल
+189,Sumpf::N,bara,धँसान
+190,Moor::N,močvara,झाबर
+191,Moor::N,močvara,धँसान
+192,Wiese::N,livada,घास-स्थल
+193,Wald::N,šuma,जंगल
+194,Hügel::N,brijeg,टीला
+195,Hügel::N,brijeg,पहाड़
+196,Hügel::N,brežuljak,टीला
+197,Hügel::N,brežuljak,पहाड़
+198,Anhöhe::N,uzvišica,टीला
+199,Anhöhe::N,uzvišica,पहाड़ी
+200,Berg::N,brdo,पहाड़
+201,Gipfel::N,vrh,शिखर
+202,Höhle::N,pećina,गुहा
+203,Höhle::N,pećina,गुफ़ा
+204,Höhle::N,spilja,गुहा
+205,Höhle::N,spilja,गुफ़ा
+206,Abhang::N,obronak,ढाल
+207,Abhang::N,obronak,ढलान
+208,Abhang::N,nizbrdica,ढाल
+209,Abhang::N,nizbrdica,ढलान
+210,Quelle::N,izvor,चश्मा
+211,Quelle::N,vrelo,चश्मा
+212,Bach::N,potok,सोता
+213,Bach::N,potok,नदिका
+214,Fluss::N,rijeka,नदी
+215,Fluss::N,rijeka,सरिता
+216,Ufer::N,obala,तट
+217,Ufer::N,obala,किनारा
+218,Küste::N,obala,समुद्र-तट
+219,Küste::N,morska obala,समुद्र-तट
+220,Festland::N,kopno,महाद्वीप
+221,Meer::N,more,सागर
+222,Meer::N,more,समुद्र
+223,Bucht::N,zaliv,खाड़ी
+224,Insel::N,ada,टापू
+225,Insel::N,ada,द्वीप
+226,Insel::N,otok,टापू
+227,Insel::N,otok,द्वीप
+228,Blume::N,cvijet,फूल
+229,Blume::N,cvijet,पुष्प
+230,Gras::N,trava,घास
+231,Wurzel::N,korijen,मूल
+232,Baum::N,drvo,पेड़
+233,Baum::N,drvo,वृक्ष
+234,Baum::N,stablo,पेड़
+235,Baum::N,stablo,वृक्ष
+236,Stamm::N,deblo,धड़
+237,Stamm::N,stablo,धड़
+238,Rinde::N,kora,छाल
+239,Rinde::N,kora,वल्कल
+240,Ast::N,grana,डाल
+241,Ast::N,grana,शाखा
+242,Zweig::N,grana,टहनी
+243,Blatt::N,list,पत्र
+244,Blatt::N,list,पत्ता
+245,Birke::N,breza,भूर्ज
+246,Kiefer[Baum]::N,bor,पाइन-वृक्ष
+247,Weide[Baum]::N,iva,बेंत
+248,Weide[Baum]::N,vŕba,बेंत
+249,Tanne::N,jela,फ़र
+250,Horn::N,rog,सींग
+251,Horn::N,rog,विषाण
+252,Feder::N,pero,पर
+253,Feder::N,pero,पंख
+254,Fell::N,koža,खाल
+255,Fell::N,koža,पशु-चर्म
+256,Flügel::N,krilo,पंख
+257,Flügel::N,krilo,डैना
+258,Klaue::N,papak,पंजा
+259,Kralle::N,pandža,पंजा
+260,Kralle::N,pandža,नाख़ून
+261,Schwanz::N,rep,पूँछ
+262,Ei::N,jaje,अंडा
+263,Nest::N,gnijezdo,नीड़
+264,Nest::N,gnijezdo,घोंसला
+265,Bau::N,jazbina,बिल
+266,Bau::N,jazbina,माँद
+267,Tier::N,životinja,पशु
+268,Tier::N,životinja,जानवर
+269,Herde::N,krdo,गल्ला
+270,Herde::N,stado,गल्ला
+271,Kuh::N,krava,गौ
+272,Kuh::N,krava,गाय
+273,Bulle::N,bik,साँड़
+274,Pferd::N,konj,अश्व
+275,Pferd::N,konj,घोड़ा
+276,Schaf::N,ovca,भेड़
+277,Schwein::N,svinja,शूकर
+278,Hund::N,pas,श्वान
+279,Hund::N,pas,कुत्ता
+280,Hund::N,pseto,श्वान
+281,Hund::N,pseto,कुत्ता
+282,Katze::N,mačka,बिल्ली
+283,Bär::N,medvjed,रीछ
+284,Bär::N,medvjed,भालू
+285,Eichhörnchen::N,vjeverica,गिलहरी
+286,Elch::N,los,एल्क
+287,Fuchs::N,lisica,लोमड़ी
+288,Hase::N,zec,खरहा
+289,Hase::N,zec,ख़रगोश
+290,Maus::N,miš,मूष
+291,Maus::N,miš,चूहा
+292,Wolf::N,vuk,वृक
+293,Wolf::N,vuk,भेड़िया
+294,Wolf::N,kurjak,वृक
+295,Wolf::N,kurjak,भेड़िया
+296,Vogel::N,ptica,पक्षी
+297,Vogel::N,ptica,चिड़िया
+298,Schwarm::N,roj,झुंड
+299,Schwarm::N,jato,झुंड
+300,Huhn::N,kokoš,मुर्ग़ी
+301,Hahn::N,kokot,मुर्ग़ा
+302,Hahn::N,pijevac,मुर्ग़ा
+303,Gans::N,guska,हंस
+304,Gans::N,guska,हंसिनी
+305,Adler::N,orao,उक़ाब
+306,Ente::N,patka,बतख़
+307,Ente::N,patka,बत्तक
+308,Eule::N,sova,उल्लू
+309,Kranich::N,ždral,सारस
+310,Kranich::N,ždral,क्रौंंच
+311,Krähe::N,vrana,काक
+312,Kuckuck::N,kukavica,कोयल
+313,Kuckuck::N,kukavica,कोकिल
+314,Schwan::N,labud,हंस
+315,Schwan::N,labud,मराल
+316,Fisch::N,riba,मछली
+317,Fisch::N,riba,मत्स्य
+318,Barsch::N,grgeč,पर्च
+319,Hecht::N,štuka,पाइक
+320,Schlange[Tier]::N,guja,सर्प
+321,Schlange[Tier]::N,zmija,सर्प
+322,Wurm::N,crv,कृमि
+323,Wurm::N,crv,कीड़ा
+324,Spinne::N,pauk,लूता
+325,Spinne::N,pauk,मकड़ी
+326,Ameise::N,mrav,चींटी
+327,Laus::N,uš,जूँ
+328,Mücke::N,komarac,डाँस
+329,Fliege::N,muha,मक्खी
+330,Fliege::N,muha,मक्षिका
+331,Schmetterling::N,leptir,तितली
+332,Beere::N,boba,बेरी
+333,Beere::N,bobica,बेरी
+334,Apfel::N,jabuka,सेब
+335,Pilz::N,pečurka,खुंबी
+336,Zwiebel::N,luk,प्याज़
+337,Zwiebel::N,kapula,प्याज़
+338,Saat::N,sjemenje,बीज
+339,Korn::N,zrno,दाना
+340,Heu::N,sijeno,मूखी घास
+341,Schale::N,kora,बकला
+342,Schale::N,kora,छिलका
+343,Schale::N,ljuska,बकला
+344,Schale::N,ljuska,छिलका
+345,Grube::N,jama,गड्ढा
+346,Falle::N,zamka,जाल
+347,Falle::N,zamka,फँदा
+348,Falle::N,klopka,जाल
+349,Falle::N,klopka,फँदा
+350,Schlinge::N,uzao,फँदा
+351,Schlinge::N,petlja,फँदा
+352,Spur::N,trag,सुराग़
+353,Spur::N,trag,पद-चिह्न
+354,Spur::N,slijed,सुराग़
+355,Spur::N,slijed,पद-चिह्न
+356,Asche::N,pepeo,राख
+357,Dreck::N,blato,मैल
+358,Dreck::N,blato,गंदगी
+359,Eisen::N,željezo,लोहा
+360,Gold::N,zlato,सोना
+361,Gold::N,zlato,स्वर्ण
+362,Silber::N,srebro,रजत
+363,Silber::N,srebro,चाँदी
+364,Kohle::N,ugalj,कोयला
+365,Kohle::N,ugljen,कोयला
+366,Glas::N,staklo,काँच
+367,Lehm::N,glina,चिकनी मिट्टी
+368,Lehm::N,ilovača,चिकनी मिट्टी
+369,Sand::N,pijesak,रेत
+370,Sand::N,pijesak,बालू
+371,Mensch::N,čovjek,मानव
+372,Mensch::N,čovjek,इनसान
+373,Mensch::N,čovjek,मनुष्य
+374,Mann::N,muškarac,आदमी
+375,Mann::N,muškarac,पुरुष
+376,Frau::N,žena,औरत
+377,Frau::N,žena,महिला
+378,Frau::N,žena,स्त्री
+379,Kind::N,čedo,बाल
+380,Kind::N,čedo,बच्चा
+381,Kind::N,dijete,बाल
+382,Kind::N,dijete,बच्चा
+383,Junge::N,momče,लड़का
+384,Junge::N,dječak,लड़का
+385,Mädchen::N,djevojka,लड़की
+386,Mädchen::N,djevojka,कुमारी
+387,Mädchen::N,djevojčica,लड़की
+388,Mädchen::N,djevojčica,कुमारी
+389,Familie::N,obitelj,परिवार
+390,Familie::N,porodica,परिवार
+391,Großvater::N,djed,दादा
+392,Großmutter::N,baka,नानी
+393,Eltern::N,roditelji,माँ-बाप
+394,Eltern::N,roditelji,माता-पिता
+395,Vater::N,otac,बाप
+396,Vater::N,otac,पिता
+397,Mutter::N,majka,माँ
+398,Mutter::N,majka,माता
+399,Sohn::N,sin,बेटा
+400,Sohn::N,sin,पुत्र
+401,Tochter::N,kći,बेटी
+402,Tochter::N,kći,पुत्री
+403,Tochter::N,kćerka,बेटी
+404,Tochter::N,kćerka,पुत्री
+405,Bruder::N,brat,भाई
+406,Bruder::N,brat,भ्राता
+407,Schwester::N,sestra,बहन
+408,Schwester::N,sestra,भगिनी
+409,Onkel::N,čika,ताऊ
+410,Onkel::N,čika,काका
+411,Onkel::N,ujak,ताऊ
+412,Onkel::N,ujak,काका
+413,Tante::N,ujna,बूआ
+414,Tante::N,ujna,फूफी
+415,Tante::N,ujna,ख़ाला
+416,Tante::N,tetka,बूआ
+417,Tante::N,tetka,फूफी
+418,Tante::N,tetka,ख़ाला
+419,Ehemann::N,muž,पति
+420,Ehemann::N,muž,शौहर
+421,Ehemann::N,suprug,पति
+422,Ehemann::N,suprug,शौहर
+423,Ehefrau::N,žena,बीवी
+424,Ehefrau::N,supruga,बीवी
+425,Freude::N,radost,आनंद
+426,Freude::N,radost,प्रसन्नता
+427,Gelächter::N,grohot,हँसी
+428,Gelächter::N,grohot,क़हक़हा
+429,Glück::N,sreća,आनंद
+430,Glück::N,sreća,ख़ुशी
+431,Kummer::N,jad,शोक
+432,Kummer::N,jad,दुःख
+433,Kummer::N,briga,शोक
+434,Kummer::N,briga,दुःख
+435,Wunsch::N,želja,इच्छा
+436,Wunsch::N,želja,अभिलाषा
+437,Lust::N,volja,चाह
+438,Lust::N,volja,कामना
+439,Geist::N,duh,जान
+440,Geist::N,duh,प्राण
+441,Gedanke::N,misao,विचार
+442,Gedächtnis::N,pamćenje,याददाश्त
+443,Gedächtnis::N,pamćenje,स्मरण-शक्ति
+444,Verstand::N,um,समझ
+445,Verstand::N,um,अक़्ल
+446,Verstand::N,um,बुद्धि
+447,Verstand::N,razum,समझ
+448,Verstand::N,razum,अक़्ल
+449,Verstand::N,razum,बुद्धि
+450,Sinn::N,smisao,अर्थ
+451,Sinn::N,značenje,अर्थ
+452,Grund::N,razlog,वजह
+453,Grund::N,razlog,कारण
+454,Wahrheit::N,istina,सत्य
+455,Wahrheit::N,istina,सच्चाई
+456,Gespräch::N,razgovor,चर्चा
+457,Gespräch::N,razgovor,वार्ता
+458,Gespräch::N,razgovor,बात-चीत
+459,Märchen::N,bajka,क़िस्सा
+460,Erzählung::N,priča,कथा
+461,Erzählung::N,priča,कहानी
+462,Erzählung::N,pripovijest,कथा
+463,Erzählung::N,pripovijest,कहानी
+464,Nachricht::N,vijest,सूचना
+465,Nachricht::N,vijest,समाचार
+466,Neuigkeit::N,novost,ख़बर
+467,Neuigkeit::N,novost,समाचार
+468,Name::N,ime,नाम
+469,Rätsel::N,zagonetka,पहेली
+470,Rede::N,govor,वचन
+471,Rede::N,govor,भाषण
+472,Rede::N,besjeda,वचन
+473,Rede::N,besjeda,भाषण
+474,Sprache::N,jezik,भाषा
+475,Sprache::N,jezik,ज़बान
+476,Stimme::N,glas,स्वर
+477,Stimme::N,glas,आवाज़
+478,Wort::N,riječ,शब्द
+479,Wort::N,riječ,लफ़्ज़
+480,Zeichen::N,znak,निशान
+481,Ruf::N,povik,पुकार
+482,Ruf::N,povik,आह्वान
+483,Ruf::N,poklik,पुकार
+484,Ruf::N,poklik,आह्वान
+485,Lärm::N,buka,शोर
+486,Lärm::N,buka,हुल्लड़
+487,Lärm::N,galama,शोर
+488,Lärm::N,galama,हुल्लड़
+489,Laut::N,zvuk,स्वर
+490,Laut::N,zvuk,ध्वनि
+491,Ton::N,ton,सुर
+492,Ton::N,ton,स्वर
+493,Lied::N,pjesma,गीत
+494,Ruhe::N,tišina,आराम
+495,Ruhe::N,tišina,ख़ामोशी
+496,Ruhe::N,počinak,आराम
+497,Ruhe::N,počinak,ख़ामोशी
+498,Leute::N,ljudi,लोग
+499,Volk::N,puk,क़ौम
+500,Volk::N,puk,प्रजा
+501,Volk::N,narod,क़ौम
+502,Volk::N,narod,प्रजा
+503,Arbeit::N,rad,काम
+504,Arbeit::N,posao,काम
+505,Gast::N,gost,अतिथि
+506,Gast::N,gost,मेहमान
+507,Geschenk::N,dar,उपहार
+508,Geschenk::N,dar,तोहफ़ा
+509,Geschenk::N,poklon,उपहार
+510,Geschenk::N,poklon,तोहफ़ा
+511,Spiel::N,igra,खेल
+512,Spiel::N,igra,क्रीड़ा
+513,Gesellschaft::N,društvo,साथ
+514,Gesellschaft::N,kompanija,साथ
+515,Hilfe::N,pomoć,मदद
+516,Hilfe::N,pomoć,सहायता
+517,Freund::N,prijatelj,मित्र
+518,Kamerad::N,drug,साथी
+519,Kamerad::N,drug,कामरेड
+520,Kamerad::N,drugar,साथी
+521,Kamerad::N,drugar,कामरेड
+522,Angelegenheit::N,posao,बात
+523,Angelegenheit::N,posao,मामला
+524,Anzahl::N,broj,तादाद
+525,Anzahl::N,broj,संख्या
+526,Anzahl::N,brojnost,तादाद
+527,Anzahl::N,brojnost,संख्या
+528,Art::N,vid,तरह
+529,Art::N,vid,क़िस्म
+530,Art::N,vrst,तरह
+531,Art::N,vrst,क़िस्म
+532,Stück::N,komad,फाँक
+533,Stück::N,komad,टुकड़ा
+534,Teil::N,dio,भाग
+535,Teil::N,dio,हिस्सा
+536,Hälfte::N,polovina,अर्धभाग
+537,Kreis::N,krug,चक्कर
+538,Kreuz::N,križ,सलीब
+539,Kreuz::N,križ,क्रूस
+540,Linie::N,crta,लाइन
+541,Strich::N,crta,लकीर
+542,Abstand::N,razmak,अंतर
+543,Abstand::N,razmak,फ़ासला
+544,Abstand::N,odstojanje,अंतर
+545,Abstand::N,odstojanje,फ़ासला
+546,Entfernung::N,udaljenost,दूरी
+547,Entfernung::N,udaljenost,फ़ासला
+548,Gegend::N,kraj,इलाक़ा
+549,Gegend::N,predeo,इलाक़ा
+550,Platz::N,mjesto,जगह
+551,Platz::N,mjesto,स्थान
+552,Ort::N,mjesto,स्थल
+553,Ort::N,mjesto,स्थान
+554,Seite::N,bok,ओर
+555,Seite::N,bok,तरफ़
+556,Seite::N,strana,ओर
+557,Seite::N,strana,तरफ़
+558,Mitte::N,sredina,बीच
+559,Mitte::N,sredina,मध्य
+560,Gegenstand::N,predmet,चीज़
+561,Gegenstand::N,predmet,पदार्थ
+562,Sache::N,posao,चीज़
+563,Sache::N,posao,वस्तु
+564,Rand::N,rub,छोर
+565,Rand::N,rub,उपांत
+566,Rand::N,kraj,छोर
+567,Rand::N,kraj,उपांत
+568,Kante::N,brid,कोर
+569,Kante::N,brid,किनारा
+570,Kante::N,ivica,कोर
+571,Kante::N,ivica,किनारा
+572,Ecke::N,ugao,कोना
+573,Ecke::N,ugao,नुक्कड़
+574,Spitze::N,vrh,नोक
+575,Spitze::N,šiljak,नोक
+576,Ende::N,konac,छोर
+577,Ende::N,konac,सिरा
+578,Loch::N,rupa,छेद
+579,Loch::N,rupa,सूराख़
+580,Winkel::N,kut,कोण
+581,Winkel::N,kut,कोना
+582,Winkel::N,ugao,कोण
+583,Winkel::N,ugao,कोना
+584,Muster::N,uzor,नमूना
+585,Muster::N,uzor,डिज़ाइन
+586,Größe::N,veličina,परिमाण
+587,Größe::N,veličina,विस्तार
+588,Länge::N,duljina,लंबाई
+589,Höhe::N,visina,ऊँचाई
+590,Höhe::N,visina,उच्चता
+591,Gewicht::N,težina,भार
+592,Gewicht::N,težina,वज़न
+593,Menge::N,mnoštvo,मात्रा
+594,Menge::N,količina,मात्रा
+595,Haufen::N,hrpa,ढेर
+596,Haufen::N,hrpa,अंबार
+597,Haufen::N,gomila,ढेर
+598,Haufen::N,gomila,अंबार
+599,Reihe::N,red,क़तार
+600,Reihe::N,red,पंक्ति
+601,Boot::N,čun,नाव
+602,Boot::N,čun,नौका
+603,Boot::N,čamac,नाव
+604,Boot::N,čamac,नौका
+605,Ruder::N,veslo,चप्पू
+606,Schlitten::N,saone,बर्फ़-गाड़ी
+607,Ski::N,ski,स्की
+608,Ski::N,smučka,स्की
+609,Lagerfeuer::N,logorska vatra,अलाव
+610,Lagerfeuer::N,logorska vatra,कैंप-फ़ायर
+611,Last::N,tovar,भार
+612,Gang::N,hod,चाल
+613,Schritt::N,korak,डग
+614,Schritt::N,korak,क़दम
+615,Norden::N,sjever,उत्तर
+616,Süden::N,jug,दक्खिन
+617,Westen::N,zapad,पश्चिम
+618,Osten::N,istok,पूरब
+619,Holz::N,drvo,काठ
+620,Holz::N,drvo,काष्ठ
+621,Brett::N,daska,पटरा
+622,Brett::N,daska,तख़्ता
+623,Platte::N,ploča,फलक
+624,Platte::N,ploča,तख़्ता
+625,Stütze::N,potpora,टेक
+626,Stütze::N,potpora,थूनी
+627,Stange::N,motka,छड़
+628,Stange::N,motka,बाँस
+629,Stock::N,štap,लाठी
+630,Stock::N,palica,लाठी
+631,Stab::N,štap,लग्गा
+632,Stab::N,šipka,लग्गा
+633,Rohr::N,cijev,नल
+634,Haus::N,kuća,घर
+635,Haus::N,kuća,मकान
+636,Heim::N,dom,घर
+637,Heim::N,dom,गृह
+638,Ofen::N,peć,चूल्हा
+639,Fußboden::N,pod,फ़र्श
+640,Tisch::N,stol,मेज़
+641,Tisch::N,trpeza,मेज़
+642,Stuhl::N,stolac,कुरसी
+643,Stuhl::N,stolica,कुरसी
+644,Wiege::N,kolijevka,पालना
+645,Wiege::N,kolijevka,हिंडोला
+646,Bett::N,krevet,खाट
+647,Bett::N,krevet,पलंग
+648,Bett::N,postelja,खाट
+649,Bett::N,postelja,पलंग
+650,Regal::N,polica,शेल्फ़
+651,Kiste::N,sanduk,पेटी
+652,Kiste::N,sanduk,डिब्बा
+653,Fenster::N,prozor,खिड़की
+654,Tür::N,vrata,द्वार
+655,Tür::N,vrata,दरवाज़ा
+656,Tor::N,vrata,फाटक
+657,Tor::N,kapija,फाटक
+658,Zaun::N,plot,बाड़ा
+659,Zaun::N,ograda,बाड़ा
+660,Dach::N,krov,छत
+661,Dach::N,krov,छप्पर
+662,Leiter::N,ljestve,सीढ़ी
+663,Leiter::N,ljestvice,सीढ़ी
+664,Besen::N,metla,झाड़ू
+665,Besen::N,metla,बुहारी
+666,Spaten::N,ašov,कुदाल
+667,Schaufel::N,lopata,बेलचा
+668,Schaufel::N,lopata,फावड़ा
+669,Gabel::N,viljuška,काँटा
+670,Löffel::N,žlica,चम्मच
+671,Messer::N,nož,छुरा
+672,Messer::N,nož,चाक़ू
+673,Nagel::N,čavao,कील
+674,Nagel::N,čavao,मेख़
+675,Netz::N,mreža,जाल
+676,Haken::N,kuka,अंकुश
+677,Griff::N,držak,मूठ
+678,Griff::N,držak,हत्था
+679,Griff::N,ručica,मूठ
+680,Griff::N,ručica,हत्था
+681,Schloss::N,brava,ताला
+682,Bild::N,slika,चित्र
+683,Figur::N,figura,मूर्ति
+684,Puppe::N,lutka,पुतली
+685,Puppe::N,lutka,गुड़िया
+686,Beutel::N,kesa,झोला
+687,Bündel::N,snop,पुलिंदा
+688,Bündel::N,svežanj,पुलिंदा
+689,Tasche::N,torba,बेग
+690,Tasche::N,torba,बस्ता
+691,Tasche::N,taška,बेग
+692,Tasche::N,taška,बस्ता
+693,Eimer::N,kabao,बाल्टी
+694,Deckel::N,poklopac,ढक्कन
+695,Geschirr::N,suđe,बरतन-भाँड़े
+696,Geschirr::N,posuđe,बरतन-भाँड़े
+697,Sack::N,džak,बोरा
+698,Sack::N,vreća,बोरा
+699,Tasse::N,šalica,प्याला
+700,Topf::N,lonac,देग़चा
+701,Kessel::N,kazan,देग़
+702,Kessel::N,kazan,बटलोई
+703,Essen::N,obrok,खाना
+704,Nahrung::N,hrana,भोजन
+705,Speise::N,jelo,खाना
+706,Speise::N,jelo,व्यंजन
+707,Fleisch::N,meso,मांस
+708,Fleisch::N,meso,गोश्त
+709,Getreide::N,žito,अनाज
+710,Getreide::N,žitarice,अनाज
+711,Brei::N,kaša,भरता
+712,Brei::N,kaša,दलिया
+713,Brot::N,kruh,रोटी
+714,Scheibe::N,kriška,कतला
+715,Fett::N,mast,वसा
+716,Fett::N,mast,चरबी
+717,Fett::N,salo,वसा
+718,Fett::N,salo,चरबी
+719,Butter::N,buter,मक्खन
+720,Butter::N,maslac,मक्खन
+721,Öl::N,ulje,तेल
+722,Salz::N,sol,नमक
+723,Suppe::N,supa,सूप
+724,Suppe::N,supa,शोरबा
+725,Honig::N,med,शहद
+726,Milch::N,mlijeko,दूध
+727,Tee::N,čaj,चाय
+728,Leder::N,koža,चमड़ा
+729,Wolle::N,vuna,ऊन
+730,Stoff::N,štof,कपड़ा
+731,Stoff::N,tkanina,कपड़ा
+732,Nadel::N,igla,सूई
+733,Faden::N,nit,डोरा
+734,Faden::N,konac,डोरा
+735,Knopf::N,dugme,बटन
+736,Knopf::N,dugme,घुंडी
+737,Knoten::N,čvor,गाँठ
+738,Knoten::N,čvor,गुत्थी
+739,Knoten::N,uzao,गाँठ
+740,Knoten::N,uzao,गुत्थी
+741,Farbe::N,farba,रंग
+742,Farbe::N,farba,वर्ण
+743,Kleidung::N,odjeća,पहनावा
+744,Hemd::N,košulja,कुरता
+745,Hemd::N,košulja,क़मीज़
+746,Kragen::N,ovratnik,गरदनी
+747,Kragen::N,ovratnik,गरेबान
+748,Ärmel::N,rukav,आस्तीन
+749,Hose::N,hlače,पैंट
+750,Hose::N,hlače,पतलून
+751,Gürtel::N,pas,पेटी
+752,Gürtel::N,pas,मेखला
+753,Gürtel::N,pojas,पेटी
+754,Gürtel::N,pojas,मेखला
+755,Mütze::N,kapa,टोपी
+756,Schuh::N,cipela,जूता
+757,Stiefel::N,čizma,बूट
+758,Ring::N,prsten,अँगूठी
+759,Band::N,vrpca,पट्टी
+760,Kamm::N,češalj,कंघी
+761,Spiegel::N,zrcalo,आईना
+762,Spiegel::N,zrcalo,दर्पण
+763,Spiegel::N,ogledalo,आईना
+764,Spiegel::N,ogledalo,दर्पण
+765,Riemen::N,kaiš,तसमा
+766,Riemen::N,kaiš,पट्टा
+767,Riemen::N,remen,तसमा
+768,Riemen::N,remen,पट्टा
+769,Schnur::N,vrpca,डोरी
+770,Schnur::N,vrpca,सुतली
+771,Leine::N,uzica,रस्सी
+772,Decke::N,ćebe,रज़ाई
+773,Decke::N,pokrivač,रज़ाई
+774,Kissen::N,jastuk,तकिया
+775,Kissen::N,jastuk,गाद्दा
+776,Tuch::N,rubac,रूमाल
+777,Tuch::N,rubac,वस्त्र
+778,Tuch::N,marama,रूमाल
+779,Tuch::N,marama,वस्त्र
+780,Handtuch::N,ručnik,अँगोछा
+781,Kraft::N,snaga,ज़ोर
+782,Kraft::N,snaga,शक्ति
+783,Stärke::N,jakost,बल
+784,Stärke::N,jakost,ताक़त
+785,Gesundheit::N,zdravlje,स्वास्थ्य
+786,Gesundheit::N,zdravlje,तंदुरुस्ती
+787,Krankheit::N,bolest,रोग
+788,Krankheit::N,bolest,बीमारी
+789,Schmerz::N,bol,दर्द
+790,Schmerz::N,bol,पीड़ा
+791,Wunde::N,rana,घाव
+792,Wunde::N,rana,ज़ख़्म
+793,Fieber::N,groznica,ज्वर
+794,Fieber::N,groznica,बुख़ार
+795,Arznei::N,lijek,दवा
+796,Arznei::N,lijek,औषाधि
+797,Brücke::N,most,पुल
+798,Brücke::N,most,सेतु
+799,Brücke::N,ćuprija,पुल
+800,Brücke::N,ćuprija,सेतु
+801,Brunnen::N,bunar,कुआँ
+802,Brunnen::N,zdenac,कुआँ
+803,Weide::N,paša,चरागाह
+804,Weide::N,pašnjak,चरागाह
+805,Pfad::N,staza,पथ
+806,Pfad::N,staza,पगडंडी
+807,Weg::N,put,मार्ग
+808,Straße::N,drum,राह
+809,Straße::N,drum,रास्ता
+810,Straße::N,cesta,राह
+811,Straße::N,cesta,रास्ता
+812,Dorf::N,selo,गाँव
+813,Dorf::N,selo,ग्राम
+814,Stadt::N,grad,शहर
+815,Stadt::N,varoš,शहर
+816,Brief::N,list,ख़त
+817,Brief::N,list,पत्र
+818,Brief::N,list,चिट्ठी
+819,Brief::N,pismo,ख़त
+820,Brief::N,pismo,पत्र
+821,Brief::N,pismo,चिट्ठी
+822,Buch::N,knjiga,किताब
+823,Buch::N,knjiga,पुस्तक
+824,Buchstabe::N,slovo,अक्षर
+825,Zeitung::N,novine,अख़बार
+826,Zeitung::N,novine,समाचार-पत्र
+827,Leben::N,život,जीवन
+828,Leben::N,život,ज़िंदगी
+829,Tod::N,smrt,मौत
+830,Tod::N,smrt,मृत्यु
+831,Grab::N,raka,क़ब्र
+832,Kirche::N,crkva,चर्च
+833,Kirche::N,crkva,गिरजा
+834,Sünde::N,grijeh,पाप
+835,Sünde::N,grijeh,गुनाह
+836,Gott::N,bog,देव
+837,Gott::N,bog,ईश्वर
+838,Arbeiter::N,radnik,मज़दूर
+839,Chef::N,šef,अध्यक्ष
+840,Meister::N,majstor,शिल्पज्ञ
+841,Arzt::N,liječnik,वैद्य
+842,Arzt::N,liječnik,डॉक्टर
+843,Arzt::N,liječnik,चिकित्सक
+844,Lehrer::N,učitelj,शिक्षक
+845,Lehrer::N,učitelj,अध्यापक
+846,Geld::N,novac,धन
+847,Geld::N,novac,पैसा
+848,Geschäft::N,posao,सौदा
+849,Geschäft::N,posao,व्यापार
+850,Geschäft::N,trgovina,सौदा
+851,Geschäft::N,trgovina,व्यापार
+852,Laden::N,dućan,दुकान
+853,Preis::N,cijena,दाम
+854,Preis::N,cijena,मूल्य
+855,Ware::N,roba,माल
+856,Ware::N,roba,पण्य
+857,Nutzen::N,korist,लाभ
+858,Nutzen::N,korist,फ़ायदा
+859,Reichtum::N,bogatstvo,धन
+860,Reichtum::N,bogatstvo,दौलत
+861,Welt::N,svijet,विश्व
+862,Welt::N,svijet,दुनिया
+863,Land::N,zemlja,देश
+864,Land::N,zemlja,मुल्क
+865,Staat::N,država,राज्य
+866,Staat::N,država,राष्ट्र
+867,König::N,kralj,राजा
+868,König::N,kralj,बादशाह
+869,Macht::N,moć,शासन
+870,Macht::N,moć,सत्ता
+871,Macht::N,vlast,शासन
+872,Macht::N,vlast,सत्ता
+873,Grenze::N,granica,सरहद
+874,Krieg::N,rat,जंग
+875,Krieg::N,rat,युद्ध
+876,Feind::N,neprijatelj,शत्रु
+877,Feind::N,neprijatelj,दुश्मन
+878,Gewalt::N,sila,हिंसा
+879,Gewalt::N,nasilje,हिंसा
+880,Kampf::N,boj,लड़ाई
+881,Kampf::N,boj,संघर्ष
+882,Kampf::N,borba,लड़ाई
+883,Kampf::N,borba,संघर्ष
+884,Bogen[Waffe]::N,luk,कमान
+885,Pfeil::N,strijela,बान
+886,Gewehr::N,puška,बंदूक़
+887,Fehler::N,pogreška,भूल
+888,Fehler::N,pogreška,ग़लती
+889,Fehler::N,griješka,भूल
+890,Fehler::N,griješka,ग़लती
+891,Lüge::N,laž,झूठ
+892,Lüge::N,laž,असत्य
+893,Schaden::N,šteta,हानि
+894,Schaden::N,šteta,नुक़सान
+895,Unglück::N,nesreća,मुसीबत
+896,Unglück::N,nesreća,विपात्ति
+897,Schuld::N,krivnja,दोष
+898,Schuld::N,krivnja,क़सूर
+899,Alter::N,dob,आयु
+900,Alter::N,dob,उम्र
+901,Schluss::N,kraj,अंत
+902,Schluss::N,kraj,समाप्ति
+903,Schluss::N,konac,अंत
+904,Schluss::N,konac,समाप्ति
+905,Zeit::N,doba,काल
+906,Zeit::N,doba,वक़्त
+907,Zeit::N,vrijeme,काल
+908,Zeit::N,vrijeme,वक़्त
+909,Tag::N,dan,दिन
+910,Tag::N,dan,रोज़
+911,Morgen::N,jutro,सुबह
+912,Mittag::N,podne,दोपहर
+913,Mittag::N,podne,मध्याह्न
+914,Abend::N,veče,शाम
+915,Abend::N,veče,संध्या
+916,Abend::N,večer,शाम
+917,Abend::N,večer,संध्या
+918,Nacht::N,noć,रात
+919,Nacht::N,noć,रात्रि
+920,Woche::N,sedmica,हफ़्ता
+921,Monat::N,mjesec,मास
+922,Monat::N,mjesec,महीना
+923,Jahr::N,godina,बरस
+924,Jahr::N,godina,वर्ष
+925,Frühling::N,proljeće,वसंत
+926,Sommer::N,ljeto,गरमी
+927,Sommer::N,ljeto,ग्रीष्म
+928,Herbst::N,jesen,शरत्
+929,Herbst::N,jesen,पतझड़
+930,Winter::N,zima,जाड़ा
+931,Winter::N,zima,सर्दियाँ
+932,Januar::N,januar,जनवरी
+933,Januar::N,siječanj,जनवरी
+934,Februar::N,veljača,फ़रवरी
+935,Februar::N,februar,फ़रवरी
+936,März::N,mart,मार्च
+937,März::N,ožujak,मार्च
+938,April::N,april,अप्रैल
+939,April::N,travanj,अप्रैल
+940,Mai::N,maj,मई
+941,Mai::N,svibanj,मई
+942,Juni::N,juni,जून
+943,Juni::N,lipanj,जून
+944,Juli::N,juli,जुलाई
+945,Juli::N,srpanj,जुलाई
+946,August::N,august,अगस्त
+947,August::N,kolovoz,अगस्त
+948,September::N,rujan,सितंबर
+949,September::N,septembar,सितंबर
+950,Oktober::N,oktobar,अक्तूबर
+951,Oktober::N,listopad,अक्तूबर
+952,November::N,studeni,नवंबर
+953,November::N,novembar,नवंबर
+954,Dezember::N,prosinac,दिसंबर
+955,Montag::N,ponedjeljak,पीर
+956,Montag::N,ponedjeljak,सोमवार
+957,Montag::N,ponedjeljnik,पीर
+958,Montag::N,ponedjeljnik,सोमवार
+959,Dienstag::N,utorak,मंगलवार
+960,Dienstag::N,utornik,मंगलवार
+961,Mittwoch::N,srijeda,बुधवार
+962,Donnerstag::N,četvrtak,गुरुवार
+963,Donnerstag::N,četvrtak,बृहस्पतिवार
+964,Freitag::N,petak,शुक्रवार
+965,Samstag::N,subota,सनीचर
+966,Samstag::N,subota,शनिवार
+967,Sonntag::N,nedjelja,इतवार
+968,Sonntag::N,nedjelja,रविवार
+969,groß::A,velik,बड़ा
+970,klein::A,mali,कम
+971,klein::A,mali,छोटा
+972,klein::A,malen,कम
+973,klein::A,malen,छोटा
+974,lang::A,dug,लंबा
+975,lang::A,dug,दीर्घ
+976,lang::A,dugačak,लंबा
+977,lang::A,dugačak,दीर्घ
+978,kurz::A,kratak,लधु
+979,kurz::A,kratak,छोटा
+980,breit::A,širok,चौड़ा
+981,schmal::A,uski,तंग
+982,schmal::A,uski,सँकरा
+983,schmal::A,uzak,तंग
+984,schmal::A,uzak,सँकरा
+985,dicht::A,gust,सघन
+986,dick[Gegenstand]::A,debeo,मोटा
+987,dünn::A,tanak,महीन
+988,dünn::A,tanak,बारीक
+989,fein::A,fin,कोमल
+990,fein::A,fin,सूक्ष्म
+991,fein::A,tanak,कोमल
+992,fein::A,tanak,सूक्ष्म
+993,fest::A,čvrst,दृढ़
+994,fest::A,čvrst,मज़बूत
+995,flach::A,ravan,चपटा
+996,flach::A,plosnat,चपटा
+997,glatt::A,gladak,चौरस
+998,glatt::A,gladak,चिकना
+999,hart::A,tvrd,कठोर
+1000,hart::A,tvrd,सख़्त
+1001,weich::A,mek,नरम
+1002,weich::A,mek,मुलायम
+1003,weich::A,mekan,नरम
+1004,weich::A,mekan,मुलायम
+1005,rund::A,okrugao,गोल
+1006,rund::A,okrugao,वर्तुल
+1007,spitz::A,oštar,नुकीला
+1008,spitz::A,šiljast,नुकीला
+1009,scharf::A,oštar,पैना
+1010,scharf::A,bridak,पैना
+1011,stumpf::A,tup,भोथरा
+1012,schwer::A,težak,भारी
+1013,schwer::A,težak,वज़नी
+1014,schön::A,krasan,सुंदर
+1015,heiß::A,vruć,उष्ण
+1016,warm::A,topao,गरम
+1017,kalt::A,hladan,सर्द
+1018,kühl::A,hladan,ठंडा
+1019,frisch::A,svjež,तर
+1020,frisch::A,svjež,ताज़ा
+1021,feucht::A,vlažan,नम
+1022,feucht::A,vlažan,भीगा
+1023,nass::A,mokar,गीला
+1024,trocken::A,suh,सूखा
+1025,trocken::A,suh,ख़ुश्क
+1026,voll::A,pun,भरा
+1027,voll::A,pun,पूरा
+1028,leer::A,prazan,ख़ाली
+1029,offen::A,otvoren,खुला
+1030,geschlossen::A,zatvoren,बंद
+1031,sauber::A,čist,साफ़
+1032,sauber::A,čist,सुथरा
+1033,schmutzig::A,nečist,गंदा
+1034,schmutzig::A,blatan,गंदा
+1035,roh::A,sirov,कच्चा
+1036,reif::A,zreo,पक्व
+1037,reif::A,zreo,पक्का
+1038,lecker::A,tečan,मज़ेदार
+1039,lecker::A,tečan,स्वादिष्ट
+1040,lecker::A,ukusan,मज़ेदार
+1041,lecker::A,ukusan,स्वादिष्ट
+1042,süß::A,sladak,मीठा
+1043,bitter::A,gorak,कटु
+1044,bitter::A,gorak,कड़वा
+1045,sauer::A,kiseo,खट्टा
+1046,hell::A,vedar,रोशन
+1047,hell::A,svijetao,रोशन
+1048,dunkel::A,taman,अँधेरा
+1049,schwarz::A,crn,काला
+1050,schwarz::A,crn,स्याह
+1051,weiß::A,bio,सफ़ेद
+1052,weiß::A,bijel,सफ़ेद
+1053,rot::A,crven,लाल
+1054,rot::A,crven,सुर्ख़
+1055,gelb::A,žut,पीला
+1056,gelb::A,žut,ज़र्द
+1057,blau::A,plav,नीला
+1058,blau::A,plav,आसमानी
+1059,blau::A,modar,नीला
+1060,blau::A,modar,आसमानी
+1061,grün::A,zelen,हरा
+1062,grau::A,siv,धूसर
+1063,bunt::A,šaren,रंगीन
+1064,bunt::A,šaren,बहुरंगा
+1065,billig::A,jeftin,सस्ता
+1066,teuer::A,skup,महँगा
+1067,wertvoll::A,vrijedan,क़ीमती
+1068,wertvoll::A,vrijedan,मूल्यवान्
+1069,wertvoll::A,dragocjen,क़ीमती
+1070,wertvoll::A,dragocjen,मूल्यवान्
+1071,blind::A,slijep,अंधा
+1072,taub::A,gluh,बहरा
+1073,kräftig::A,snažan,ताक़तवर
+1074,kräftig::A,snažan,शक्तिशाली
+1075,stark::A,jak,प्रबल
+1076,stark::A,jak,बलवान्
+1077,stark::A,snažan,प्रबल
+1078,stark::A,snažan,बलवान्
+1079,schwach::A,slab,कमज़ोर
+1080,fett::A,pretio,मोटा
+1081,fett::A,pretio,मांसल
+1082,schlank::A,vitak,पतला
+1083,schlank::A,vitak,छरहरा
+1084,hübsch::A,zgodan,सुंदर
+1085,hübsch::A,zgodan,ख़ूबसूरत
+1086,böse::A,zao,पापी
+1087,böse::A,zao,दुष्ट
+1088,böse::A,opak,पापी
+1089,böse::A,opak,दुष्ट
+1090,dumm::A,glup,मूर्ख
+1091,dumm::A,glup,बुद्धू
+1092,faul::A,lijen,आलसी
+1093,faul::A,lijen,सुस्त
+1094,fleißig::A,radin,मेहनती
+1095,fleißig::A,radin,परिश्रमी
+1096,fleißig::A,marljiv,मेहनती
+1097,fleißig::A,marljiv,परिश्रमी
+1098,geizig::A,škrt,कृपण
+1099,geizig::A,škrt,कंजूस
+1100,klug::A,razborit,समझदार
+1101,klug::A,razborit,होशियार
+1102,klug::A,razborit,अक़्लमंद
+1103,geschickt::A,vješt,किशल
+1104,lieb::A,drag,प्रिय
+1105,lieb::A,drag,प्यारा
+1106,lustig::A,veseo,हँसमुख
+1107,lustig::A,veseo,ख़ुशदिल
+1108,sanft::A,blag,नम्र
+1109,hungrig::A,gladan,भूखा
+1110,krank::A,bolestan,बीमार
+1111,krank::A,bolestan,अस्वस्थ
+1112,nackt::A,nag,नग्न
+1113,traurig::A,tužan,उदास
+1114,traurig::A,tužan,रंजीदा
+1115,traurig::A,žalostan,उदास
+1116,traurig::A,žalostan,रंजीदा
+1117,lebendig::A,živ,जीता
+1118,lebendig::A,živ,ज़िंदा
+1119,gut::A,dobar,अच्छा
+1120,schlecht::A,loš,बुरा
+1121,schlecht::A,loš,ख़राब
+1122,schlecht::A,rđav,बुरा
+1123,schlecht::A,rđav,ख़राब
+1124,richtig::A,tačan,ठीक
+1125,richtig::A,ispravan,ठीक
+1126,schlimm::A,zao,बुरा
+1127,schlimm::A,zao,अप्रिय
+1128,schlimm::A,zločest,बुरा
+1129,schlimm::A,zločest,अप्रिय
+1130,wahr::A,istinit,सच
+1131,alt::A,star,पुराना
+1132,neu::A,nov,नया
+1133,ehemalig::A,bivši,भूतपूर्व
+1134,alt[Lebewesen]::A,star,बूढ़ा
+1135,alt[Lebewesen]::A,star,वृद्ध
+1136,jung::A,mlad,जवान
+1137,arm::A,ubog,ग़रीब
+1138,arm::A,siromašan,ग़रीब
+1139,reich::A,bogat,धनी
+1140,reich::A,bogat,अमीर
+1141,bekannt::A,poznat,मालूम
+1142,berühmt::A,čuven,मशहूर
+1143,berühmt::A,čuven,प्रसिद्ध
+1144,berühmt::A,slavan,मशहूर
+1145,berühmt::A,slavan,प्रसिद्ध
+1146,fremd::A,tuđ,विदेशी
+1147,fremd::A,tuđ,अपरिचित
+1148,fremd::A,stran,विदेशी
+1149,fremd::A,stran,अपरिचित
+1150,verschieden::A,razan,अलग
+1151,verschieden::A,razan,भिन्न
+1152,verschieden::A,različan,अलग
+1153,verschieden::A,različan,भिन्न
+1154,nah::A,blizak,नज़दीकी
+1155,fern::A,dalek,दूर
+1156,fern::A,dalek,दूरस्थ
+1157,fern::A,daljnji,दूर
+1158,fern::A,daljnji,दूरस्थ
+1159,linker::A,lijevi,बायाँ
+1160,rechter::A,desni,दायाँ
+1161,rechter::A,desni,दाहिना
+1162,anderer::A,drugi,अन्य
+1163,anderer::A,drugi,दूसरा
+1164,anderer::A,drugačiji,अन्य
+1165,anderer::A,drugačiji,दूसरा
+1166,erster::A,prvi,पहला
+1167,erster::A,prvi,प्रथम
+1168,zweiter::A,drugi,दूसरा
+1169,zweiter::A,drugi,द्वितीय
+1170,dritter::A,treći,तीसरा
+1171,letzter::A,zadnji,अंतिम
+1172,letzter::A,zadnji,आख़िरी
+1173,allein::ADV,sam,तनहा
+1174,allein::ADV,sam,अकेले
+1175,auf einmal::ADV,istodobno,वक़्त में
+1176,zusammen::ADV,skupa,एक साथ
+1177,zusammen::ADV,skupa,साथ साथ
+1178,zusammen::ADV,zajedno,एक साथ
+1179,zusammen::ADV,zajedno,साथ साथ
+1180,lange::ADV,dugo,देर तक
+1181,plötzlich::ADV,naglo,सहसा
+1182,plötzlich::ADV,naglo,अचानक
+1183,plötzlich::ADV,iznenada,सहसा
+1184,plötzlich::ADV,iznenada,अचानक
+1185,sofort::ADV,odmah,तुरंत
+1186,später::ADV,kasnije,बाद को
+1187,später::ADV,kasnije,बाद में
+1188,jetzt::ADV,sad,अब
+1189,jetzt::ADV,sad,अभी
+1190,jetzt::ADV,sada,अब
+1191,jetzt::ADV,sada,अभी
+1192,heute::ADV,danas,आज
+1193,morgen::ADV,sutra,कल
+1194,bald::ADV,skoro,जल्दी
+1195,bald::ADV,doskora,जल्दी
+1196,dann::ADV,zatim,तब
+1197,gestern::ADV,juče,कल
+1198,gestern::ADV,jučer,कल
+1199,einst::ADV,negda,एक दिन
+1200,einst::ADV,negda,पहले कभी
+1201,einst::ADV,nekada,एक दिन
+1202,einst::ADV,nekada,पहले कभी
+1203,damals::ADV,tada,उस समय
+1204,damals::ADV,tada,उन दिनों
+1205,damals::ADV,onda,उस समय
+1206,damals::ADV,onda,उन दिनों
+1207,danach::ADV,poslije,इसके बाद
+1208,danach::ADV,poslije,इसके पश्चात्
+1209,danach::ADV,nakon toga,इसके बाद
+1210,danach::ADV,nakon toga,इसके पश्चात्
+1211,vorher::ADV,prije,पहले
+1212,vorher::ADV,prije,पेशतर
+1213,vorher::ADV,prije toga,पहले
+1214,vorher::ADV,prije toga,पेशतर
+1215,zuerst::ADV,prvo,पहले
+1216,zuerst::ADV,najprije,पहले
+1217,einmal::ADV,jednom,एक बार
+1218,einmal::ADV,jednom,एक दफ़ा
+1219,einmal::ADV,jedanput,एक बार
+1220,einmal::ADV,jedanput,एक दफ़ा
+1221,manchmal::ADV,katkad,कभी कभी
+1222,manchmal::ADV,katkada,कभी कभी
+1223,oft::ADV,često,अक्सर
+1224,immer::ADV,vazda,सदा
+1225,immer::ADV,vazda,हमेशा
+1226,immer::ADV,uvijek,सदा
+1227,immer::ADV,uvijek,हमेशा
+1228,niemals::ADV,nikad,कभी नहीं
+1229,niemals::ADV,nikad,कदापि नहीं
+1230,niemals::ADV,nikada,कभी नहीं
+1231,niemals::ADV,nikada,कदापि नहीं
+1232,hier::ADV,tu,इधर
+1233,hier::ADV,tu,यहाँ
+1234,hier::ADV,ovdje,इधर
+1235,hier::ADV,ovdje,यहाँ
+1236,hierhin::ADV,amo,इधर को
+1237,hierhin::ADV,amo,यहाँ को
+1238,hierhin::ADV,ovamo,इधर को
+1239,hierhin::ADV,ovamo,यहाँ को
+1240,von hier::ADV,odavde,यहाँ से
+1241,dort::ADV,ondje,उधर
+1242,dort::ADV,ondje,वहाँ
+1243,dorthin::ADV,onamo,उधर को
+1244,dorthin::ADV,onamo,वहाँ को
+1245,geradeaus::ADV,ravno,सीधे
+1246,vorwärts::ADV,naprijed,आगे
+1247,vorwärts::ADV,naprijed,आगे को
+1248,rückwärts::ADV,natrag,पीछे को
+1249,zurück::ADV,nazad,वापस
+1250,zurück::ADV,natrag,वापस
+1251,unten::ADV,dolje,नीचे
+1252,hinab::ADV,nizbrdo,नीचे को
+1253,oben::ADV,gore,ऊपर
+1254,hinauf::ADV,uzbrdo,ऊपर को
+1255,überall::ADV,svuda,हर जगह
+1256,überall::ADV,svuda,हर स्थान
+1257,überall::ADV,svagdje,हर जगह
+1258,überall::ADV,svagdje,हर स्थान
+1259,nicht::ADV,ne,न
+1260,nicht::ADV,ne,नहीं
+1261,ein wenig::ADV,malo,कुछ
+1262,ein wenig::ADV,malo,ज़रा
+1263,ein wenig::ADV,malo,थोड़ा
+1264,kaum::ADV,tek,लगभग नहीं
+1265,kaum::ADV,tek,बराबर नहीं
+1266,kaum::ADV,jedva,लगभग नहीं
+1267,kaum::ADV,jedva,बराबर नहीं
+1268,sehr::ADV,jako,बहुत
+1269,sehr::ADV,veoma,बहुत
+1270,so::ADV,tako,ऐसा
+1271,so::ADV,ovako,ऐसा
+1272,noch::ADV,još,अभी तक
+1273,nur::ADV,samo,केवल
+1274,nur::ADV,samo,सिर्फ़
+1275,schon::ADV,već,चुकना
+1276,wieder::ADV,opet,फिर
+1277,wieder::ADV,opet,दुबारा
+1278,wieder::ADV,ponovo,फिर
+1279,wieder::ADV,ponovo,दुबारा
+1280,vergebens::ADV,uzalud,व्यर्थ
+1281,vergebens::ADV,zabadava,व्यर्थ
+1282,vor::PRP,pred,के आगे
+1283,vor::PRP,pred,के सामने
+1284,vor::PRP,ispred,के आगे
+1285,vor::PRP,ispred,के सामने
+1286,hinter::PRP,za,के पीछे
+1287,hinter::PRP,iza,के पीछे
+1288,unter::PRP,pod,के तले
+1289,unter::PRP,pod,के नीचे
+1290,unter::PRP,ispod,के तले
+1291,unter::PRP,ispod,के नीचे
+1292,durch::PRP,po,के पार
+1293,durch::PRP,kroz,के पार
+1294,neben::PRP,kraj,के पास
+1295,neben::PRP,kraj,की बग़ल में
+1296,neben::PRP,pored,के पास
+1297,neben::PRP,pored,की बग़ल में
+1298,neben::PRP,pokraj,के पास
+1299,neben::PRP,pokraj,की बग़ल में
+1300,zwischen::PRP,među,के बीच
+1301,zwischen::PRP,između,के बीच
+1302,wegen::PRP,radi,के कारण
+1303,wegen::PRP,radi,की वजह से
+1304,wegen::PRP,zbog,के कारण
+1305,wegen::PRP,zbog,की वजह से
+1306,dies::PRN,ovo,यह
+1307,das::PRN,to,वह
+1308,das::PRN,ono,वह
+1309,alles::PRN,sve,सब
+1310,alles::PRN,sve,सब कुछ
+1311,ich::PRN,ja,मैं
+1312,du::PRN,ti,तू
+1313,er::PRN,on,यह
+1314,wir::PRN,mi,हम
+1315,ihr::PRN,vi,तुम
+1316,sie::PRN,oni,ये
+1317,was::FPRN,što,क्या
+1318,wer::FPRN,tko,कौन
+1319,wo::FADV,gdje,किधर
+1320,wohin::FADV,kuda,किधर
+1321,wohin::FADV,kamo,किधर
+1322,wie::FADV,kako,कैसे
+1323,warum::FADV,zašto,क्यों
+1324,wieviel::FNUM,koliko,कितना
+1325,eins::NUM,jedan,एक
+1326,zwei::NUM,dva,दो
+1327,drei::NUM,tri,तीन
+1328,vier::NUM,četiri,चार
+1329,fünf::NUM,pet,पाँच
+1330,sechs::NUM,šest,छह
+1331,sieben::NUM,sedam,सात
+1332,acht::NUM,osam,आठ
+1333,neun::NUM,devet,नौ
+1334,zehn::NUM,deset,दस
+1335,elf::NUM,jedanaest,ग्यारह
+1336,zwölf::NUM,dvanaest,बारह
+1337,zwanzig::NUM,dvadeset,बीस
+1338,dreißig::NUM,trideset,तीस
+1339,vierzig::NUM,četrdeset,चालीस
+1340,fünfzig::NUM,pedeset,पचास
+1341,sechzig::NUM,šezdeset,साठ
+1342,siebzig::NUM,sedamdeset,सत्तर
+1343,achtzig::NUM,osamdeset,अस्सी
+1344,neunzig::NUM,devetdeset,नव्वे
+1345,hundert::NUM,sto,सौ
+1346,tausend::NUM,tisuća,हज़ार
+1347,und::CNJ,i,और
+1348,und::CNJ,te,और
+1349,oder::CNJ,ili,या
+1350,stehen::V,stajati,खड़ा होना
+1351,sitzen::V,sjediti,बैठना
+1352,liegen::V,ležati,लेटना
+1353,hängen::V,visiti,लटकना
+1354,werden::V,postati,बनना
+1355,werden::V,činiti se,बनना
+1356,passieren::V,desiti se,होना
+1357,passieren::V,dogoditi se,होना
+1358,beginnen::V,početi,आरंभ होना
+1359,beginnen::V,početi,प्रारंभ होना
+1360,enden::V,prestati,अंत होना
+1361,enden::V,prestati,ख़तम होना
+1362,enden::V,svršiti se,अंत होना
+1363,enden::V,svršiti se,ख़तम होना
+1364,wechseln::V,mijenjati se,बदलना
+1365,aufgehen[Sonne]::V,izići,चढ़ना
+1366,aufgehen[Sonne]::V,izići,उदित होना
+1367,untergehen[Sonne]::V,zaći,अस्त हो जाना
+1368,scheinen[Sonne]::V,sijati,रोशनी देना
+1369,donnern::V,grmjeti,गरजना
+1370,wehen::V,duhati,चलना
+1371,strömen::V,strujati,बहना
+1372,strömen::V,strujati,प्रवाहित होना
+1373,fließen::V,teći,बहना
+1374,fließen::V,teći,प्रवाहित होना
+1375,sich drehen::V,obrtati se,घूमना
+1376,sich drehen::V,vrtjeti se,घूमना
+1377,schwanken::V,teturati,हिलना
+1378,schwanken::V,kolebati se,हिलना
+1379,schwingen::V,njihati,हिलना
+1380,schwingen::V,titrati,हिलना
+1381,fallen::V,padati,गिरना
+1382,brennen::V,gorjeti,जलना
+1383,rauchen::V,dimiti se,धुआँ उड़ाना
+1384,regnen::V,kišiti,बरसना
+1385,regnen::V,daždjeti,बरसना
+1386,gefrieren::V,smrznuti se,जमना
+1387,tauen::V,kopnjeti,गलना
+1388,tauen::V,kopnjeti,पिघलना
+1389,tauen::V,kraviti se,गलना
+1390,tauen::V,kraviti se,पिघलना
+1391,schmelzen::V,topiti se,गलना
+1392,schmelzen::V,topiti se,पिघलना
+1393,trocknen::V,sušiti se,सूखना
+1394,sieden::V,kipjeti,उबलना
+1395,sieden::V,ključati,उबलना
+1396,faulen::V,gnjiti,गलना
+1397,faulen::V,gnjiti,सड़ना
+1398,verfaulen::V,sagnjiti,गलना
+1399,verfaulen::V,sagnjiti,सड़ना
+1400,reißen::V,otrgnuti se,फटना
+1401,versinken::V,tonuti,डूबना
+1402,versinken::V,propasti,डूबना
+1403,vergehen::V,prolaziti,बीतना
+1404,vergehen::V,prolaziti,गुज़रना
+1405,erscheinen::V,pojaviti se,दिखाई देना
+1406,verschwinden::V,nestati,ग़ायब होना
+1407,verschwinden::V,izgubiti se,ग़ायब होना
+1408,sinken::V,trgnuti,घटना
+1409,sinken::V,trgnuti,उतरना
+1410,sinken::V,spustiti se,घटना
+1411,sinken::V,spustiti se,उतरना
+1412,abnehmen::V,opasti,घटना
+1413,zunehmen::V,povećati se,बढ़ना
+1414,steigen::V,uzići,बढ़ना
+1415,steigen::V,nadoći,बढ़ना
+1416,wachsen::V,rasti,उगना
+1417,glänzen::V,blistati,चमकना
+1418,glänzen::V,sjati se,चमकना
+1419,funkeln::V,svjetlucati,जगमगाना
+1420,funkeln::V,svjetlucati,टिमटिमाना
+1421,lärmen::V,bučati,शोर मचाना
+1422,lärmen::V,galamiti,शोर मचाना
+1423,läuten::V,zvoniti,बजना
+1424,klingeln::V,zvoniti,बजना
+1425,klirren::V,zvečati,झनझनाना
+1426,brausen::V,hujati,साँय-साँय करना
+1427,rauschen::V,šumiti,सरसराना
+1428,rauschen::V,šuškati,सरसराना
+1429,klingen::V,zvučati,बजना
+1430,bellen::V,lajati,भौंकना
+1431,heulen::V,zavijati,गुर्राना
+1432,blasen::V,puhati,फूँकना
+1433,pfeifen::V,fućkati,सीटी देना
+1434,schreien::V,vikati,चिल्लाना
+1435,schreien::V,kričati,चिल्लाना
+1436,stöhnen::V,stenjati,कराहना
+1437,stöhnen::V,stenjati,आहें भरना
+1438,zittern::V,drhtati,काँपना
+1439,zittern::V,trepetati,काँपना
+1440,leben::V,živjeti,जीना
+1441,geboren werden::V,roditi se,पैदा होना
+1442,atmen::V,disati,साँस लेना
+1443,trinken::V,piti,पीना
+1444,essen::V,jesti,खाना
+1445,schlucken::V,gutati,निगलना
+1446,müde werden::V,umoriti se,थकना
+1447,müde werden::V,umoriti se,उकताना
+1448,einschlafen::V,usnuti,सो जाना
+1449,einschlafen::V,zaspati,सो जाना
+1450,schlafen::V,spati,सोना
+1451,aufwachen::V,probuditi se,जागना
+1452,aufstehen::V,ustati,उठना
+1453,sich erholen::V,odmoriti se,सुस्ताना
+1454,sich erholen::V,odmoriti se,आराम करना
+1455,krank werden::V,oboljeti se,बीमार पड़ना
+1456,krank werden::V,razboljeti se,बीमार पड़ना
+1457,krank sein::V,bolovati,बीमार होना
+1458,schmerzen::V,boljeti,दुखना
+1459,schmerzen::V,boljeti,दर्द करना
+1460,husten::V,kašljati,खाँसना
+1461,genesen::V,ozdraviti,ठीक हो जाना
+1462,genesen::V,ozdraviti,स्वस्थ हो जाना
+1463,genesen::V,oporaviti se,ठीक हो जाना
+1464,genesen::V,oporaviti se,स्वस्थ हो जाना
+1465,sterben::V,umrijeti,मरना
+1466,umkommen::V,skapati,मरना
+1467,sich bewegen::V,gibati se,चलना
+1468,sich bewegen::V,gibati se,हिलना
+1469,sich bewegen::V,kretati se,चलना
+1470,sich bewegen::V,kretati se,हिलना
+1471,sich rühren::V,maknuti se,हिलना
+1472,sich erheben::V,dići se,उठना
+1473,sich setzen::V,sjesti,बैठना
+1474,hinfallen::V,pasti,गिरना
+1475,laufen::V,hodati,चलना
+1476,schreiten::V,stupati,क़दम जाना
+1477,spazierengehen::V,šetati se,सैर करना
+1478,eilen::V,hitati,तेज़ी से जाना
+1479,eilen::V,hitati,शीघ्रता से चलना
+1480,sich beeilen::V,požuriti se,जल्दी करना
+1481,sich beeilen::V,požuriti se,शीघ्रता करना
+1482,sausen::V,juriti,बड़ी तेज़ी से चलना
+1483,rennen::V,trčati,भागना
+1484,rennen::V,trčati,दौड़ना
+1485,springen::V,skakati,उछलना
+1486,klettern::V,popeti se,चढ़ना
+1487,klettern::V,penjati se,चढ़ना
+1488,schaukeln::V,ljuljati se,झूलना
+1489,kriechen::V,puzati,रेंगना
+1490,kriechen::V,gmizati,रेंगना
+1491,schwimmen::V,plivati,तैरना
+1492,tauchen::V,roniti,डूबना
+1493,tauchen::V,gnjuriti,डूबना
+1494,rudern::V,veslati,खेना
+1495,rudern::V,veslati,चप्पू चलाना
+1496,fahren::V,voziti se,चलना
+1497,fahren::V,voziti se,यात्रा करना
+1498,fliegen::V,letjeti,उड़ना
+1499,fliegen::V,lijetati,उड़ना
+1500,gehen::V,ići,जाना
+1501,weggehen::V,otići,चला जाना
+1502,weggehen::V,otići,बाहर जाना
+1503,abfahren::V,krenuti,छूटना
+1504,abfahren::V,krenuti,रवाना होना
+1505,abfahren::V,otputovati,छूटना
+1506,abfahren::V,otputovati,रवाना होना
+1507,anhalten::V,stati,रुकना
+1508,anhalten::V,stati,खड़ा होना
+1509,anhalten::V,zaustaviti,रुकना
+1510,anhalten::V,zaustaviti,खड़ा होना
+1511,hineingehen::V,ulaziti,घुसना
+1512,hineingehen::V,ulaziti,अंदर जाना
+1513,eintreten::V,ući,प्रवेश करना
+1514,kommen::V,doći,आना
+1515,ankommen::V,stići,पहुँचना
+1516,zurückkommen::V,vratiti se,लौटना
+1517,zurückkommen::V,vratiti se,वापस आना
+1518,zurückkommen::V,povratiti se,लौटना
+1519,zurückkommen::V,povratiti se,वापस आना
+1520,bleiben::V,ostati,रहना
+1521,bleiben::V,ostati,रुकना
+1522,warten::V,čekati,इंतज़ार करना
+1523,erwarten::V,očekivati,प्रतीक्षा करना
+1524,suchen::V,tražiti,ढूँढ़ना
+1525,finden::V,naći,पाना
+1526,finden::V,naći,ढूँढ़ निकालना
+1527,versuchen::V,pokušati,कोशिश करना
+1528,vorbereiten::V,spremiti,तैयार करना
+1529,vorbereiten::V,pripremiti,तैयार करना
+1530,lieben::V,voljeti,प्यार करना
+1531,mögen::V,voljeti,पसंद होना
+1532,lachen::V,smijati se,हँसना
+1533,rühren::V,taknuti,छूना
+1534,weinen::V,plakati,रोना
+1535,schimpfen::V,psovati,गाली देना
+1536,sich ärgern::V,ljutiti se,चिढ़ना
+1537,sich ärgern::V,ljutiti se,नाराज़ होना
+1538,sich fürchten::V,bojati se,डरना
+1539,sich fürchten::V,bojati se,भय खाना
+1540,fürchten::V,bojati se,डरना से
+1541,fürchten::V,bojati se,भय खाना से
+1542,fliehen::V,pobjeći,भागना
+1543,flüchten::V,utjeći,निकल भागना
+1544,sehen::V,vidjeti,देखना
+1545,anschauen::V,ogledati,देखना
+1546,ansehen::V,gledati,दृष्टि डालना पर
+1547,hören::V,čuti,सुनना
+1548,zuhören::V,slušati,सुनना
+1549,probieren::V,probati,चखना
+1550,riechen::V,osjećati miris,सूँघना
+1551,fühlen::V,osjećati,महसूस करना
+1552,scheinen::V,činiti se,लगना
+1553,zu sehen sein::V,biti vidljiv,दिखाई देना
+1554,vernehmen::V,saznati,सुनना
+1555,frieren::V,zima je,ठंड लगना
+1556,frieren::V,zima je,सर्दी लगना
+1557,tun::V,raditi,करना
+1558,können::V,moći,सकना
+1559,können::V,moći,जानना
+1560,wollen::V,htjeti,चाहना
+1561,anfangen::V,početi,शुरू करना
+1562,beenden::V,svršiti,ख़त्म करना
+1563,beenden::V,svršiti,समाप्त करना
+1564,beenden::V,dovršiti,ख़त्म करना
+1565,beenden::V,dovršiti,समाप्त करना
+1566,aufhören::V,prestati,बंद जाना
+1567,aufhören::V,prestati,समाप्त जाना
+1568,gelingen::V,uspjeti,बनना
+1569,gelingen::V,uspjeti,अच्छा होना
+1570,geraten::V,desiti se,बन पड़ना
+1571,öffnen::V,otvoriti,खोलना
+1572,schließen::V,zatvoriti,बंद करना
+1573,stellen::V,metnuti,रखना
+1574,stellen::V,postaviti,रखना
+1575,setzen::V,posaditi,रखना
+1576,setzen::V,posaditi,बिठाना
+1577,legen::V,polagati,रखना
+1578,legen::V,polagati,लिटाना
+1579,berühren::V,doticati,छूना
+1580,berühren::V,doticati,स्पर्श करना
+1581,berühren::V,dodirivati,छूना
+1582,berühren::V,dodirivati,स्पर्श करना
+1583,verbinden::V,spojiti,बाँधना
+1584,verbinden::V,zavezati,बाँधना
+1585,bedecken::V,pokriti,ढकना
+1586,aufhängen::V,objesiti,लटकाना
+1587,anzünden::V,upaliti,जलाना
+1588,anzünden::V,zapaliti,जलाना
+1589,aufheben::V,podići,उठाना
+1590,aufheben::V,podignuti,उठाना
+1591,zurücklassen::V,ostaviti,पीछे छोड़ना
+1592,zurücklassen::V,pustiti natrag,पीछे छोड़ना
+1593,verlieren::V,izgubiti,खोना
+1594,verlieren::V,izgubiti,गँवाना
+1595,fallen lassen::V,ispustiti,गिराना
+1596,machen::V,uraditi,करना
+1597,machen::V,uraditi,बनाना
+1598,machen::V,načiniti,करना
+1599,machen::V,načiniti,बनाना
+1600,machen::V,napraviti,करना
+1601,machen::V,napraviti,बनाना
+1602,herstellen::V,proizvesti,बनाना
+1603,herstellen::V,proizvesti,तैयार करना
+1604,bauen::V,graditi,बनाना
+1605,bauen::V,graditi,निर्माण करना
+1606,reparieren::V,popraviti,मरम्मत करना
+1607,verbessern::V,poboljšati,सुधारना
+1608,ändern::V,promijeniti,बदलना
+1609,ändern::V,promijeniti,परीवर्तन करना
+1610,graben::V,kopati,खोदना
+1611,graben::V,kopkati,खोदना
+1612,beugen::V,saviti,झुकाना
+1613,biegen::V,saviti,झुकाना
+1614,biegen::V,sagnuti,झुकाना
+1615,drehen::V,vrtjeti,फेरना
+1616,drehen::V,vrtjeti,घुमाना
+1617,wenden::V,obrnuti,पलटना
+1618,wenden::V,obrnuti,मोड़ना
+1619,umdrehen::V,okrenuti,घुमाना
+1620,umdrehen::V,prevŕnuti,घुमाना
+1621,heben::V,dizati,उठाना
+1622,heben::V,dizati,ऊँचा करना
+1623,hochheben::V,dignuti,उठाना
+1624,hochheben::V,dignuti,ऊपर को उठाना
+1625,ergreifen::V,uhvatiti,पकड़ना
+1626,ergreifen::V,uhvatiti,हाथ में लेना
+1627,ergreifen::V,prihvatiti,पकड़ना
+1628,ergreifen::V,prihvatiti,हाथ में लेना
+1629,halten::V,držati,धरना
+1630,halten::V,držati,पकड़ना
+1631,drücken::V,pritiskivati,दबाना
+1632,schieben::V,gurati,सरकाना
+1633,schieben::V,gurati,खिसकाना
+1634,kratzen::V,česati,खुरचना
+1635,kratzen::V,česati,खुजलाना
+1636,kratzen::V,grepsti,खुरचना
+1637,kratzen::V,grepsti,खुजलाना
+1638,lecken::V,lizati,चाटना
+1639,beißen::V,ujesti,काटना
+1640,beißen::V,gristi,काटना
+1641,abreißen::V,otkinuti,तोड़ना
+1642,abschneiden::V,odrezati,काट करना
+1643,binden::V,vezati,बाँधना
+1644,stecken::V,turiti,खोंसना
+1645,brechen::V,slomiti,तोड़ना
+1646,klopfen::V,lupati,खटखटाना
+1647,klopfen::V,kucati,खटखटाना
+1648,hauen::V,tući,ठोकना
+1649,hauen::V,udarati,ठोकना
+1650,kleben::V,lijepiti,चिपकाना
+1651,reiben::V,trti,घिसना
+1652,reiben::V,trti,रगड़ना
+1653,streichen::V,namazati,लगाना
+1654,schleifen::V,brusiti,तेज़ करना
+1655,schneiden::V,rezati,कतरना
+1656,rütteln::V,drmati,झकझोरना
+1657,schütteln::V,tresti,हिलाना
+1658,schwenken::V,mahati,घुमाना
+1659,schütten::V,sipati,उँडेलना
+1660,schütten::V,lijevati,उँडेलना
+1661,füllen::V,napuniti,भरना
+1662,füllen::V,napuniti,ठूसना
+1663,einwickeln::V,umotati,लपेटना
+1664,einwickeln::V,zamotati,लपेटना
+1665,tragen::V,nositi,ढोना
+1666,schleppen::V,tegliti,घसीटना
+1667,ziehen::V,vući,खींचना
+1668,aufbewahren::V,čuvati,रखना
+1669,werfen::V,bacati,फेंकना
+1670,fangen::V,loviti,पकड़ना
+1671,fangen::V,hvatati,पकड़ना
+1672,packen::V,ščepati,पकड़ना
+1673,packen::V,zgrabiti,पकड़ना
+1674,verstecken::V,sakriti,छिपाना
+1675,teilen::V,podijeliti,बाँटना
+1676,schicken::V,slati,भेजना
+1677,bringen::V,donijeti,लाना
+1678,hinzufügen::V,dodati,जोड़ना
+1679,hinzufügen::V,pridati,जोड़ना
+1680,bekommen::V,dobiti,पाना
+1681,erhalten::V,primiti,पाना
+1682,erhalten::V,primiti,मिलना
+1683,nehmen::V,uzeti,लेना
+1684,wählen::V,izabrati,चुनना
+1685,auswählen::V,odabrati,चुनना
+1686,bewahren::V,sačuvati,बनाए रखना
+1687,behindern::V,smetati,रोकना
+1688,verderben::V,pokvariti,ख़राब करना
+1689,beschädigen::V,oštetiti,नुक़सान पहुँचाना
+1690,zerbrechen::V,razbiti,तोड़ना
+1691,zerbrechen::V,prelomiti,तोड़ना
+1692,zerreißen::V,poderati,तोड़ना
+1693,zerreißen::V,rastrgnuti,तोड़ना
+1694,zerstören::V,razoriti,नष्ट करना
+1695,zerstören::V,razoriti,बरबाद करना
+1696,zerstören::V,razrušiti,नष्ट करना
+1697,zerstören::V,razrušiti,बरबाद करना
+1698,verbrennen::V,spaliti,जलाना
+1699,verbrennen::V,sagorjeti,जलाना
+1700,geben::V,dati,देना
+1701,reichen::V,pružiti,थमाना
+1702,schenken::V,darivati,भेंट देना
+1703,versprechen::V,obećati,वादा करना
+1704,wünschen::V,željeti,कामना करना
+1705,loben::V,hvaliti,तारीफ़ करना
+1706,küssen::V,ljubiti,चूमना
+1707,wiegen::V,njihati,झुलाना
+1708,wiegen::V,ljuljati,झुलाना
+1709,zudecken::V,pokriti,ढकना
+1710,wecken::V,probuditi,जगाना
+1711,zeigen::V,pokazati,दिखाना
+1712,führen::V,voditi,रास्ता दिखाना
+1713,lehren::V,učiti,पढ़ाना
+1714,unterrichten::V,poučiti,सिखाना
+1715,aufziehen::V,uzgajati,पालना
+1716,leiten::V,upravljati,संचालन करना
+1717,antreiben::V,natjeravati,हड़बड़ाना
+1718,lassen::V,dati,-आना
+1719,lassen::V,dati,कराना
+1720,einladen::V,pozvati,बुलाना
+1721,vereinigen::V,ujediniti,मिलाना
+1722,vereinigen::V,ujediniti,संयुक्त करना
+1723,besuchen::V,posjetiti,मिलना से
+1724,besuchen::V,posjetiti,मिलने जाना से
+1725,treffen::V,sresti,मिलना
+1726,sich versammeln::V,okupiti se,इकट्ठा होना
+1727,spielen::V,igrati se,खेलना
+1728,singen::V,pjevati,गाना
+1729,tanzen::V,plesati,नाचना
+1730,sich trennen::V,razići se,अलग होना
+1731,verlassen::V,ostaviti,छोड़ना
+1732,verlassen::V,napustiti,छोड़ना
+1733,retten::V,spasiti,बचाना
+1734,bewachen::V,čuvati,आँख रखना पर
+1735,bewachen::V,stražariti,आँख रखना पर
+1736,schützen::V,čuvati,रक्षा करना
+1737,verteidigen::V,obraniti,रक्षा करना
+1738,sich schlagen::V,biti se,हाथापाई करना
+1739,sich schlagen::V,udariti se,हाथापाई करना
+1740,schießen::V,pucati,गोली मारना
+1741,schießen::V,strijeljati,गोली मारना
+1742,siegen::V,pobijediti,जीतना
+1743,siegen::V,pobijediti,विजय पाना
+1744,ärgern::V,ljutiti,चिढ़ाना
+1745,schlagen::V,biti,मारना
+1746,schlagen::V,udariti,मारना
+1747,treten::V,šutnuti,ठोकर मारना
+1748,stechen::V,ubosti,भेदना
+1749,stechen::V,ubosti,भोंकना
+1750,stoßen::V,gurnuti,धक्का देना
+1751,stoßen::V,gurnuti,झटका देना
+1752,stehlen::V,ukrasti,चोरी करना
+1753,stören::V,smetati,बुरा लगना
+1754,belästigen::V,smetati,तंग करना
+1755,belästigen::V,dosaditi,तंग करना
+1756,verbergen::V,skriti,लुकाना
+1757,täuschen::V,obmanuti,धोखा देना
+1758,betrügen::V,prevarati,धोखा देना
+1759,töten::V,ubiti,मारना
+1760,töten::V,ubiti,मार डालना
+1761,wohnen::V,stanovati,रहना
+1762,arbeiten::V,raditi,काम करना
+1763,sammeln::V,sabrati,जमा करना
+1764,pflücken::V,ubrati,चुनना
+1765,pflücken::V,ubrati,तोड़ना
+1766,jagen::V,loviti,आखेट करना
+1767,jagen::V,loviti,शिकार करना
+1768,fischen::V,ribati,मछली पकड़ना
+1769,fischen::V,loviti ribu,मछली पकड़ना
+1770,fassen::V,uloviti,पकड़ना
+1771,hüten::V,pasti,चराना
+1772,treiben::V,goniti,हाँकना
+1773,anbinden::V,privezati,बाँधना
+1774,füttern::V,hraniti,खिलाना
+1775,melken::V,musti,दुहना
+1776,hacken::V,sjeckati,काटना
+1777,gießen::V,politi,सींचना
+1778,reifen::V,sazreti,पकना
+1779,zubereiten::V,prigotoviti,पकाना
+1780,kochen::V,kuhati,पकाना
+1781,kochen::V,kuhati,राँधना
+1782,backen::V,peći,पकाना
+1783,braten::V,peći,तलना
+1784,braten::V,peći,भूनना
+1785,braten::V,pržiti,तलना
+1786,braten::V,pržiti,भूनना
+1787,umrühren::V,promiješati,फेंटना
+1788,stricken::V,plesti,बुनना
+1789,nähen::V,šiti,सीना
+1790,färben::V,obojiti,रँगना
+1791,reinigen::V,očistiti,साफ़ करना
+1792,reinigen::V,očistiti,शुद्ध करना
+1793,reinigen::V,počistiti,साफ़ करना
+1794,reinigen::V,počistiti,शुद्ध करना
+1795,waschen::V,prati,धोना
+1796,abwischen::V,otrti,पोंछ्ना
+1797,spülen::V,isprati,माँजना
+1798,spülen::V,isprati,खँगालना
+1799,spülen::V,oplakati,माँजना
+1800,spülen::V,oplakati,खँगालना
+1801,fegen::V,mesti,बुहारना
+1802,fegen::V,pomesti,बुहारना
+1803,kehren::V,mesti,झाड़ना
+1804,baden::V,kupati se,स्नान करना
+1805,sich waschen::V,umiti se,नहाना
+1806,sich waschen::V,umiti se,हाथ-मुँह धोना
+1807,sich waschen::V,prati se,नहाना
+1808,sich waschen::V,prati se,हाथ-मुँह धोना
+1809,ausziehen::V,svući,उतारना
+1810,anziehen::V,obući,पहनना
+1811,sich anziehen::V,obući se,कपड़े पहनना
+1812,kämmen::V,češljati,कंघी करना
+1813,schmücken::V,uresiti,सजाना
+1814,schmücken::V,uresiti,सँवारना
+1815,schmücken::V,nakititi,सजाना
+1816,schmücken::V,nakititi,सँवारना
+1817,sagen::V,reći,कहना
+1818,sagen::V,reći,बताना
+1819,sagen::V,kazati,कहना
+1820,sagen::V,kazati,बताना
+1821,sprechen::V,govoriti,बोलना
+1822,reden::V,govoriti,बोलना
+1823,reden::V,govoriti,बात करना
+1824,reden::V,besjediti,बोलना
+1825,reden::V,besjediti,बात करना
+1826,sich unterhalten::V,razgovarati se,बात करना
+1827,sich unterhalten::V,razgovarati se,बातचीत करना
+1828,fragen::V,pitati,पूछ्ना
+1829,fragen::V,pitati,प्रश्न करना
+1830,bitten::V,moliti,माँगना से
+1831,erzählen::V,ispričati,बताना
+1832,erzählen::V,pripovjediti,बताना
+1833,mitteilen::V,saopćiti,ख़बर देना
+1834,mitteilen::V,saopćiti,सूचना देना
+1835,nennen::V,nazvati,नाम देना
+1836,rufen::V,zvati,बुलाना
+1837,rufen::V,dozvati,बुलाना
+1838,prahlen::V,hvalisati se,शेख़ी बघारना
+1839,übersetzen::V,prevesti,अनुवाद करना
+1840,denken::V,misliti,सोचना
+1841,glauben::V,vjerovati,विश्वास करना
+1842,bemerken::V,zapaziti,ध्यान देना पर
+1843,bemerken::V,primijetiti,ध्यान देना पर
+1844,erkennen::V,prepoznati,पहचानना
+1845,begreifen::V,pojmiti,समझना
+1846,begreifen::V,shvatiti,समझना
+1847,verstehen::V,razabrati,सुनना
+1848,lernen::V,učiti se,पढ़ना
+1849,wissen::V,znati,जानना
+1850,wissen::V,znati,मालूम होना
+1851,sich erinnern an::V,sjetiti se,याद करना
+1852,vergessen::V,zaboraviti,भूलना
+1853,vergessen::V,zaboraviti,बिसारना
+1854,messen::V,mjeriti,नापना
+1855,zählen::V,brojiti,गिनना
+1856,rechnen::V,računati,गणना करना
+1857,rechnen::V,računati,हिसाब करना
+1858,lesen::V,čitati,पढ़ना
+1859,malen::V,slikati,कींचना
+1860,zeichnen::V,crtati,चित्र कींचना
+1861,schreiben::V,pisati,लिखना
+1862,besitzen::V,imati,मालिक होना
+1863,besitzen::V,imati,स्वामी होना
+1864,besitzen::V,posjedovati,मालिक होना
+1865,besitzen::V,posjedovati,स्वामी होना
+1866,kaufen::V,kupiti,ख़रीदना
+1867,verkaufen::V,prodati,बेचना
+1868,verkaufen::V,raspačati,बेचना
+1869,bezahlen::V,platiti,चुकाना
+1870,bezahlen::V,platiti,अदा करना
+1871,zahlen::V,plaćati,अदा करना
+1872,beherrschen::V,vladati,शासन करना पर
+1873,beherrschen::V,gospodariti,शासन करना पर
+1874,ertragen::V,trpjeti,सहना
+1875,ertragen::V,podnijeti,सहना
+1876,Gehirn::N,,दिमाग़
+1877,Gehirn::N,,मस्तिष्क

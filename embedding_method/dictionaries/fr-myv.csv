@@ -1,0 +1,1380 @@
+,Concept_ID,fr,myv
+0,Auge::N,œil,сельме
+1,Ohr::N,oreille,пиле
+2,Nase::N,nez,судо
+3,Mund::N,bouche,курго
+4,Zahn::N,dent,пей
+5,Zunge::N,langue,кель
+6,Lippe::N,lèvre,турва
+7,Wange::N,joue,чамабока
+8,Wange::N,joue,чамаумарь
+9,Gesicht::N,face,чама
+10,Gesicht::N,visage,чама
+11,Stirn::N,front,коня
+12,Haar::N,cheveu,черь
+13,Schnurrbart::N,moustache,ус
+14,Schnurrbart::N,moustache,муюк
+15,Bart::N,barbe,сакал
+16,Kinn::N,menton,уло
+17,Kiefer[Anatomie]::N,mâchoire,пейпакар
+18,Kiefer[Anatomie]::N,mâchoire,пейловажа
+19,Kehle::N,gorge,кирьгапарь
+20,Hals::N,cou,кирьга
+21,Genick::N,nuque,човонь
+22,Kopf::N,tête,пря
+23,Rücken::N,dos,копорь
+24,Bauch::N,ventre,пеке
+25,Nabel::N,nombril,почо
+26,Busen::N,sein,поте
+27,Brust::N,poitrine,меште
+28,Schulter::N,épaule,лавтов
+29,Arm::N,bras,кедь
+30,Ellenbogen::N,coude,кенерепакарь
+31,Hand::N,main,кедь
+32,Handfläche::N,paume,кедькуншка
+33,Handfläche::N,paume,кедьлапушка
+34,Finger::N,doigt,сур
+35,Fingernagel::N,ongle,кенже
+36,Nagel[Anatomie]::N,ongle,кенже
+37,Zeh::N,orteil,пильге сур
+38,Zeh::N,doigt de pied,пильге сур
+39,Fuß::N,pied,пильге
+40,Ferse::N,talon,кочкаря
+41,Knie::N,genou,эле
+42,Knie::N,genou,эзне
+43,Knie::N,genou,кумажа
+44,Oberschenkel::N,cuisse,качо
+45,Bein::N,jambe,пильге
+46,Körper::N,corps,рунго
+47,Haut::N,peau,киське
+48,Blut::N,sang,верь
+49,Ader::N,veine,сан
+50,Sehne::N,tendon,коське сан
+51,Knochen::N,os,пакарь
+52,Gehirn::N,cerveau,удем
+53,Herz::N,cœur,седей
+54,Magen::N,estomac,пеке
+55,Leber::N,foie,максо
+56,Atem::N,haleine,лексема
+57,Atem::N,haleine,оймень таргсема
+58,Hunger::N,faim,вачочи
+59,Träne::N,larme,селведь
+60,Geschmack::N,goût,тансть
+61,Geschmack::N,saveur,тансть
+62,Geruch::N,odeur,чине
+63,Schlaf::N,sommeil,удома
+64,Traum::N,songe,он
+65,Himmel::N,ciel,менель
+66,Sonne::N,soleil,чи
+67,Mond::N,lune,ков
+68,Stern::N,étoile,теште
+69,Luft::N,air,кошт
+70,Wind::N,vent,варма
+71,Welle::N,vague,толкун
+72,Wasser::N,eau,ведь
+73,Stein::N,pierre,кев
+74,Boden::N,sol,мода
+75,Boden::N,terrain,мода
+76,Erde::N,terre,мастор
+77,Staub::N,poussière,пуль
+78,Rauch::N,fumée,качамо
+79,Funke::N,étincelle,сятко
+80,Feuer::N,feu,тол
+81,Licht::N,lumière,валдо
+82,Schatten::N,ombre,сулей
+83,Schatten::N,ombre,сулейкс
+84,Wetter::N,temps,ушо
+85,Nebel::N,brume,сув
+86,Nebel::N,brouillard,сув
+87,Wolke::N,nuage,пель
+88,Regen::N,pluie,пиземс
+89,Schnee::N,neige,лов
+90,Eis::N,glace,эй
+91,Frost::N,gel,кельме
+92,Frost::N,gelée,кельме
+93,Kälte::N,froid,якшамо
+94,Hitze::N,chaleur,пси
+95,Raureif::N,givre,лекш
+96,Regenbogen::N,arc-en-ciel,пурьгинечирьке
+97,Regenbogen::N,arc-en-ciel,пурьгинеёнкс
+98,Donner::N,tonnerre,пурьгине
+99,Strömung::N,courant,чудема
+100,Strömung::N,courant,чудевкс
+101,Tropfen::N,goutte,петнявкс
+102,Schaum::N,écume,чов
+103,Schaum::N,mousse,чов
+104,Schmutz::N,boue,рудаз
+105,Schmutz::N,saleté,рудаз
+106,See::N,lac,эрьке
+107,Sumpf::N,marais,чей
+108,Sumpf::N,marécage,чей
+109,Moor::N,tourbière,чей
+110,Wiese::N,pré,луга
+111,Wald::N,bois,вирь
+112,Wald::N,forêt,вирь
+113,Hügel::N,coteau,губорь
+114,Hügel::N,coteau,пандыне
+115,Hügel::N,colline,губорь
+116,Hügel::N,colline,пандыне
+117,Anhöhe::N,éminence,губорь
+118,Anhöhe::N,éminence,пандыне
+119,Anhöhe::N,élévation,губорь
+120,Anhöhe::N,élévation,пандыне
+121,Berg::N,mont,пандо
+122,Berg::N,montagne,пандо
+123,Gipfel::N,cime,пря
+124,Gipfel::N,sommet,пря
+125,Höhle::N,caverne,пещера
+126,Abhang::N,pente,пандочама
+127,Abhang::N,versant,пандочама
+128,Quelle::N,source,ушодкс
+129,Quelle::N,fontaine,ушодкс
+130,Bach::N,ruisseau,чудикерькс
+131,Fluss::N,fleuve,лей
+132,Fluss::N,rivière,лей
+133,Ufer::N,bord,чире
+134,Ufer::N,rivage,чире
+135,Küste::N,côte,лейчире
+136,Festland::N,terre ferme,мода
+137,Meer::N,mer,моря
+138,Bucht::N,baie,усия
+139,Insel::N,île,усия
+140,Blume::N,fleur,цеця
+141,Gras::N,herbe,тикше
+142,Wurzel::N,racine,юр
+143,Wurzel::N,racine,ундокс
+144,Baum::N,arbre,чувто
+145,Stamm::N,tronc,рунго
+146,Rinde::N,écorce,суд
+147,Rinde::N,écorce,керь
+148,Ast::N,branche,морго
+149,Zweig::N,rameau,тарад
+150,Blatt::N,feuille,лопа
+151,Birke::N,bouleau,килей
+152,Kiefer[Baum]::N,pin,пиче
+153,Weide[Baum]::N,saule,каль
+154,Tanne::N,sapin,куз
+155,Horn::N,corne,сюро
+156,Feder::N,plume,толга
+157,Fell::N,peau,пона
+158,Flügel::N,aile,сёлмо
+159,Klaue::N,serre,кенже
+160,Kralle::N,ongle,кенже
+161,Kralle::N,griffe,кенже
+162,Schwanz::N,queue,пуло
+163,Ei::N,œuf,ал
+164,Nest::N,nid,пизэ
+165,Bau::N,terrier,варя
+166,Bau::N,terrier,пизе
+167,Tier::N,animal,ракша
+168,Herde::N,troupeau,стада
+169,Kuh::N,vache,скал
+170,Bulle::N,taureau,бука
+171,Pferd::N,cheval,лишме
+172,Schaf::N,mouton,реве
+173,Schwein::N,porc,туво
+174,Schwein::N,cochon,туво
+175,Hund::N,chien,пине
+176,Hund::N,chien,киска
+177,Katze::N,chat,псака
+178,Bär::N,ours,овто
+179,Eichhörnchen::N,écureuil,ур
+180,Elch::N,élan,сярдо
+181,Fuchs::N,renard,ривезь
+182,Hase::N,lièvre,нумоло
+183,Maus::N,souris,чеерь
+184,Wolf::N,loup,верьгиз
+185,Vogel::N,oiseau,нармунь
+186,Schwarm::N,nuée,полк
+187,Schwarm::N,nuée,стада
+188,Schwarm::N,volée,полк
+189,Schwarm::N,volée,стада
+190,Huhn::N,poule,сараз
+191,Hahn::N,coq,атякш
+192,Gans::N,oie,гала
+193,Gans::N,oie,мацей
+194,Adler::N,aigle,куцькан
+195,Adler::N,aigle,тумоатякш
+196,Ente::N,canard,яксярго
+197,Eule::N,hibou,корж
+198,Kranich::N,grue,карго
+199,Krähe::N,corneille,варака
+200,Kuckuck::N,coucou,куко
+201,Schwan::N,cygne,локсей
+202,Fisch::N,poisson,кал
+203,Barsch::N,perche,окунь
+204,Hecht::N,brochet,щука
+205,Schlange[Tier]::N,serpent,гуй
+206,Wurm::N,ver,сукс
+207,Spinne::N,araignée,шанжав
+208,Ameise::N,fourmi,коткудав
+209,Laus::N,pou,сий
+210,Mücke::N,moucheron,сеське
+211,Fliege::N,mouche,карво
+212,Schmetterling::N,papillon,нимиляв
+213,Beere::N,baie,умарь
+214,Apfel::N,pomme,умарь
+215,Pilz::N,champignon,панго
+216,Zwiebel::N,oignon,чурька
+217,Saat::N,semence,видьметь
+218,Korn::N,grain,сюро
+219,Heu::N,foin,тикше
+220,Schale::N,pelure,кедь
+221,Schale::N,pelure,ваткавкс
+222,Grube::N,fosse,латко
+223,Falle::N,piège,тувор
+224,Falle::N,piège,кундамка
+225,Schlinge::N,lacs,килькш
+226,Spur::N,trace,челькс
+227,Spur::N,trace,пильгеки
+228,Asche::N,cendre,кулов
+229,Dreck::N,crotte,рудаз
+230,Eisen::N,fer,кшни
+231,Gold::N,or,сырне
+232,Silber::N,argent,сия
+233,Kohle::N,charbon,сэдь
+234,Kohle::N,charbon,уголия
+235,Glas::N,verre,сулика
+236,Lehm::N,glaise,сёвонь
+237,Sand::N,sable,човар
+238,Mensch::N,homme,ломань
+239,Mann::N,homme,аля
+240,Mann::N,homme,цёраломань
+241,Frau::N,femme,ава
+242,Kind::N,enfant,эйкакш
+243,Junge::N,garçon,цёрыне
+244,Mädchen::N,fille,тейтерне
+245,Mädchen::N,jeune fille,тейтерне
+246,Familie::N,famille,семия
+247,Großvater::N,grand-père,покштя
+248,Großmutter::N,grand-mère,баба
+249,Eltern::N,parents,тетят-ават
+250,Vater::N,père,тетя
+251,Mutter::N,mère,ава
+252,Sohn::N,fils,цёра
+253,Tochter::N,fille,тейтерь
+254,Bruder::N,frère,леля
+255,Bruder::N,frère,ялакс
+256,Schwester::N,sœur,сазор
+257,Onkel::N,oncle,леля
+258,Tante::N,tante,патя
+259,Ehemann::N,mari,мирде
+260,Ehemann::N,époux,мирде
+261,Ehefrau::N,femme,ни
+262,Ehefrau::N,épouse,ни
+263,Freude::N,joie,кеняркс
+264,Freude::N,plaisir,кеняркс
+265,Gelächter::N,rires,ракамо
+266,Gelächter::N,rires,пейдема
+267,Glück::N,bonheur,уцяска
+268,Kummer::N,peine,рискс
+269,Kummer::N,peine,мелявкс
+270,Kummer::N,chagrin,рискс
+271,Kummer::N,chagrin,мелявкс
+272,Wunsch::N,désir,мель
+273,Wunsch::N,désir,бажамо
+274,Lust::N,envie,бажамо
+275,Geist::N,esprit,ойме
+276,Gedanke::N,idée,мель
+277,Gedanke::N,pensée,мель
+278,Gedächtnis::N,mémoire,мель
+279,Verstand::N,raison,прев
+280,Sinn::N,sens,толк
+281,Sinn::N,sens,смысла
+282,Grund::N,cause,тувтал
+283,Grund::N,raison,тувтал
+284,Wahrheit::N,vérité,видечи
+285,Gespräch::N,conversation,кортнема
+286,Märchen::N,conte,ёвкс
+287,Märchen::N,conte de fées,ёвкс
+288,Erzählung::N,conte,ёвтнема
+289,Erzählung::N,narration,ёвтнема
+290,Nachricht::N,message,куля
+291,Neuigkeit::N,nouvelle,куля
+292,Name::N,nom,лем
+293,Rätsel::N,énigme,содамоёвкс
+294,Rätsel::N,devinette,содамоёвкс
+295,Rede::N,parole,кортамо
+296,Rede::N,discours,кортамо
+297,Sprache::N,langue,кель
+298,Sprache::N,langage,кель
+299,Stimme::N,voix,ваигель
+300,Wort::N,mot,вал
+301,Zeichen::N,signe,теште
+302,Ruf::N,cri,тердема
+303,Ruf::N,appel,тердема
+304,Lärm::N,bruit,шалнома
+305,Laut::N,son,вайгель
+306,Ton::N,ton,гайнема
+307,Lied::N,chant,моро
+308,Lied::N,chanson,моро
+309,Ruhe::N,calme,оймамо
+310,Ruhe::N,tranquillité,оймамо
+311,Leute::N,gens,ломанть
+312,Volk::N,peuple,народ
+313,Arbeit::N,travail,тев
+314,Gast::N,hôte,инже
+315,Gast::N,invité,инже
+316,Geschenk::N,cadeau,казне
+317,Geschenk::N,présent,казне
+318,Spiel::N,jeu,налксема
+319,Gesellschaft::N,compagnie,община
+320,Hilfe::N,aide,лездамо
+321,Hilfe::N,secours,лездамо
+322,Freund::N,ami,оя
+323,Freund::N,ami,ялга
+324,Kamerad::N,copain,оя
+325,Kamerad::N,copain,ялга
+326,Kamerad::N,camarade,оя
+327,Kamerad::N,camarade,ялга
+328,Angelegenheit::N,affaire,тев
+329,Anzahl::N,nombre,ламоксчи
+330,Art::N,sorte,вид
+331,Art::N,espèce,вид
+332,Stück::N,morceau,пакш
+333,Stück::N,morceau,пелькс
+334,Teil::N,part,часть
+335,Teil::N,part,пелькс
+336,Teil::N,partie,часть
+337,Teil::N,partie,пелькс
+338,Hälfte::N,moitié,пель
+339,Hälfte::N,moitié,пелькс
+340,Kreis::N,cercle,кирькс
+341,Kreuz::N,croix,крёст
+342,Linie::N,ligne,кикс
+343,Strich::N,trait,межа
+344,Abstand::N,écart,ютко
+345,Entfernung::N,distance,ютко
+346,Gegend::N,région,тарка
+347,Gegend::N,région,пертьпелькс
+348,Gegend::N,contrée,тарка
+349,Gegend::N,contrée,пертьпелькс
+350,Platz::N,place,васолкс
+351,Ort::N,lieu,тарка
+352,Ort::N,endroit,тарка
+353,Seite::N,côté,ён
+354,Seite::N,côté,чире
+355,Mitte::N,milieu,куншка
+356,Gegenstand::N,objet,предмет
+357,Sache::N,chose,тев
+358,Sache::N,chose,веща
+359,Rand::N,bord,пе
+360,Rand::N,bord,чире
+361,Kante::N,arête,ирдез
+362,Ecke::N,coin,ужо
+363,Ecke::N,tournant,ужо
+364,Spitze::N,cime,пряне
+365,Spitze::N,cime,пе
+366,Spitze::N,pointe,пряне
+367,Spitze::N,pointe,пе
+368,Ende::N,bout,пе
+369,Loch::N,trou,варя
+370,Winkel::N,coin,ужо
+371,Winkel::N,réduit,ужо
+372,Muster::N,dessin,сёрма
+373,Größe::N,grandeur,сэрь
+374,Größe::N,grandeur,покшолма
+375,Länge::N,longueur,кувалмо
+376,Höhe::N,hauteur,сэрь
+377,Höhe::N,hauteur,пандо
+378,Höhe::N,altitude,сэрь
+379,Höhe::N,altitude,пандо
+380,Gewicht::N,poids,сталмо
+381,Menge::N,quantité,лововкс
+382,Haufen::N,tas,мар
+383,Haufen::N,tas,валявкс
+384,Reihe::N,file,ряд
+385,Reihe::N,rangée,ряд
+386,Boot::N,canot,венч
+387,Boot::N,bateau,венч
+388,Ruder::N,rame,милё
+389,Ruder::N,aviron,милё
+390,Schlitten::N,traîneau,нурдт
+391,Ski::N,ski,сокс
+392,Lagerfeuer::N,feu de camp,толбандя
+393,Last::N,charge,сталмо
+394,Last::N,charge,кандома
+395,Last::N,fardeau,сталмо
+396,Last::N,fardeau,кандома
+397,Gang::N,tour,молема
+398,Gang::N,tour,якамо
+399,Gang::N,marche,молема
+400,Gang::N,marche,якамо
+401,Schritt::N,pas,эскелькс
+402,Norden::N,nord,якшамо ёнкс
+403,Süden::N,sud,лембе ёнкс
+404,Westen::N,ouest,чивалгома
+405,Westen::N,occident,чивалгома
+406,Osten::N,est,чилисема
+407,Osten::N,orient,чилисема
+408,Holz::N,bois,чувто
+409,Brett::N,planche,лаз
+410,Platte::N,plaque,плита
+411,Stütze::N,appui,неже
+412,Stütze::N,soutien,неже
+413,Stange::N,barre,олга
+414,Stange::N,perche,олга
+415,Stock::N,canne,мандо
+416,Stab::N,bâton,олога
+417,Rohr::N,tube,турба
+418,Rohr::N,tuyau,турба
+419,Haus::N,maison,кудо
+420,Heim::N,maison,кудо
+421,Ofen::N,poêle,каштомо
+422,Fußboden::N,plancher,киякс
+423,Tisch::N,table,столь
+424,Stuhl::N,chaise,стул
+425,Wiege::N,berceau,лавсь
+426,Wiege::N,berceau,нурямот
+427,Bett::N,lit,ацамо
+428,Regal::N,étagère,лався
+429,Regal::N,étagère,лавсяланго
+430,Kiste::N,caisse,горобия
+431,Kiste::N,caisse,сундук
+432,Fenster::N,fenêtre,вальма
+433,Tür::N,porte,кенкш
+434,Tor::N,porte,ортат
+435,Tor::N,portail,ортат
+436,Zaun::N,clôture,пирявт
+437,Zaun::N,clôture,пирвякс
+438,Dach::N,toit,кудопря
+439,Leiter::N,échelle,кузтема
+440,Besen::N,balai,тенсть
+441,Spaten::N,bêche,койме
+442,Schaufel::N,pelle,кече
+443,Schaufel::N,pelle,келей койме
+444,Gabel::N,fourchette,сянгине
+445,Löffel::N,cuiller,пенч
+446,Messer::N,couteau,пеель
+447,Nagel::N,clou,эске
+448,Netz::N,filet,алтыма
+449,Haken::N,croc,кечказ
+450,Haken::N,crochet,кечказ
+451,Griff::N,prise,кедне
+452,Griff::N,manche,кедне
+453,Schloss::N,serrure,замок
+454,Schloss::N,serrure,панжома
+455,Bild::N,image,картина
+456,Bild::N,tableau,картина
+457,Figur::N,figure,рунго
+458,Puppe::N,poupée,няка
+459,Beutel::N,sac,кескав
+460,Beutel::N,petit sac,кескав
+461,Bündel::N,paquet,керькс
+462,Bündel::N,faisceau,керькс
+463,Tasche::N,sac,юдма
+464,Eimer::N,seau,ведра
+465,Deckel::N,couvercle,велькс
+466,Geschirr::N,vaisselle,кедьге
+467,Sack::N,sac,кескав
+468,Tasse::N,tasse,чакш
+469,Topf::N,pot,кастрюля
+470,Topf::N,marmite,кастрюля
+471,Kessel::N,chaudron,котёл
+472,Essen::N,repas,ярсамо
+473,Essen::N,manger,ярсамо
+474,Nahrung::N,nourriture,ярсамопель
+475,Speise::N,plat,ярсамопель
+476,Fleisch::N,viande,сывель
+477,Getreide::N,blé,сюро
+478,Getreide::N,céréales,сюро
+479,Brei::N,purée,каша
+480,Brei::N,bouillie,каша
+481,Brot::N,pain,кши
+482,Scheibe::N,tranche,кочом
+483,Scheibe::N,tranche,сускомо
+484,Fett::N,graisse,куя
+485,Butter::N,beurre,ой
+486,Öl::N,huile,ой
+487,Salz::N,sel,сал
+488,Suppe::N,soupe,ям
+489,Suppe::N,potage,ям
+490,Honig::N,miel,медь
+491,Milch::N,lait,ловсо
+492,Tee::N,thé,чай
+493,Leder::N,cuir,киське
+494,Wolle::N,laine,пона
+495,Stoff::N,tissu,коцт
+496,Stoff::N,étoffe,коцт
+497,Nadel::N,aiguille,салмукс
+498,Faden::N,fil,суре
+499,Knopf::N,bouton,пов
+500,Knoten::N,nœud,сюлмо
+501,Farbe::N,peinture,артомапель
+502,Kleidung::N,vêtements,оршамот
+503,Kleidung::N,habillement,оршамот
+504,Hemd::N,chemise,панар
+505,Kragen::N,col,сиве
+506,Ärmel::N,manche,ожа
+507,Hose::N,pantalon,понкст
+508,Gürtel::N,ceinture,каркс
+509,Mütze::N,bonnet,чапка
+510,Mütze::N,casquette,чапка
+511,Schuh::N,soulier,туфля
+512,Schuh::N,chaussure,туфля
+513,Stiefel::N,botte,кем
+514,Ring::N,bague,суркс
+515,Band::N,ruban,лента
+516,Kamm::N,peigne,сурсеме
+517,Spiegel::N,glace,чавачамо
+518,Spiegel::N,miroir,чавачамо
+519,Riemen::N,lanière,кшнань каркс
+520,Riemen::N,courroie,кшнань каркс
+521,Schnur::N,corde,пикс
+522,Schnur::N,ficelle,пикс
+523,Leine::N,laisse,ведьме
+524,Decke::N,couverture,вельтямо
+525,Kissen::N,oreiller,тодов
+526,Tuch::N,drap,паця
+527,Tuch::N,fichu,паця
+528,Handtuch::N,serviette,нардамо
+529,Handtuch::N,essuie-mains,нардамо
+530,Kraft::N,force,вий
+531,Stärke::N,vigueur,виевчи
+532,Gesundheit::N,santé,шумбрачи
+533,Krankheit::N,maladie,орма
+534,Krankheit::N,maladie,сэредема
+535,Schmerz::N,douleur,сэредькс
+536,Wunde::N,plaie,керявкс
+537,Wunde::N,blessure,керявкс
+538,Fieber::N,fièvre,маштыкс
+539,Arznei::N,remède,ормаменькс
+540,Arznei::N,médecine,ормаменькс
+541,Brücke::N,pont,сэдь
+542,Brücke::N,pont,мадамо
+543,Brunnen::N,puits,лисьма
+544,Weide::N,pâturage,ракшань ванома тарка
+545,Pfad::N,sentier,ян
+546,Weg::N,voie,ки
+547,Weg::N,chemin,ки
+548,Straße::N,route,ки
+549,Dorf::N,village,веле
+550,Stadt::N,cité,ош
+551,Stadt::N,ville,ош
+552,Brief::N,lettre,сёрма
+553,Buch::N,livre,книга
+554,Buchstabe::N,lettre,буква
+555,Buchstabe::N,caractère,буква
+556,Zeitung::N,journal,газета
+557,Leben::N,vie,эрямо
+558,Tod::N,mort,кулома
+559,Grab::N,tombe,калмо
+560,Kirche::N,église,церькова
+561,Sünde::N,péché,чумочи
+562,Gott::N,dieu,паз
+563,Arbeiter::N,ouvrier,робочей
+564,Arbeiter::N,travailleur,робочей
+565,Chef::N,chef,прявт
+566,Chef::N,patron,прявт
+567,Meister::N,maître,кол тевень тенця
+568,Arzt::N,médecin,врач
+569,Lehrer::N,professeur,учитель
+570,Lehrer::N,professeur,тонавтыця
+571,Lehrer::N,instituteur,учитель
+572,Lehrer::N,instituteur,тонавтыця
+573,Geld::N,argent,ярмак
+574,Geschäft::N,affaire,ладязь тев
+575,Geschäft::N,commerce,ладязь тев
+576,Laden::N,magasin,лавка
+577,Laden::N,boutique,лавка
+578,Preis::N,prix,питне
+579,Ware::N,marchandise,миевкс
+580,Ware::N,marchandise,рамавкс
+581,Nutzen::N,profit,паро
+582,Nutzen::N,profit,лезэ
+583,Reichtum::N,richesse,сюпавчи
+584,Welt::N,monde,мир
+585,Welt::N,monde,мастор ланго
+586,Land::N,pays,мастор
+587,Staat::N,État,государства
+588,König::N,roi,король
+589,Macht::N,pouvoir,азорксчи
+590,Macht::N,puissance,азорксчи
+591,Grenze::N,frontière,буен тешкс
+592,Krieg::N,guerre,война
+593,Feind::N,ennemi,душман
+594,Gewalt::N,violence,нарьгамо
+595,Kampf::N,lutte,тюрема
+596,Kampf::N,combat,тюрема
+597,Bogen[Waffe]::N,arc,нал
+598,Pfeil::N,flèche,нал
+599,Gewehr::N,fusil,ружия
+600,Gewehr::N,fusil,винтовка
+601,Fehler::N,faute,ильведькс
+602,Fehler::N,faute,ильведевкс
+603,Fehler::N,erreur,ильведькс
+604,Fehler::N,erreur,ильведевкс
+605,Lüge::N,mensonge,манчема
+606,Lüge::N,mensonge,кенгелема
+607,Schaden::N,dégât,зыян
+608,Schaden::N,dommage,зыян
+609,Unglück::N,malheur,зыян
+610,Schuld::N,faute,чумочи
+611,Schuld::N,culpabilité,чумочи
+612,Alter::N,âge,шка
+613,Schluss::N,fin,пе
+614,Zeit::N,temps,шка
+615,Zeit::N,temps,пинге
+616,Tag::N,jour,чи
+617,Tag::N,journée,чи
+618,Morgen::N,matin,валске
+619,Morgen::N,matinée,валске
+620,Mittag::N,midi,чикуншка
+621,Abend::N,soir,чокшнэ
+622,Abend::N,soirée,чокшнэ
+623,Nacht::N,nuit,ве
+624,Woche::N,semaine,недля
+625,Monat::N,mois,ков
+626,Jahr::N,an,ие
+627,Jahr::N,année,ие
+628,Frühling::N,printemps,тундо
+629,Sommer::N,été,кизэ
+630,Herbst::N,automne,сёксь
+631,Winter::N,hiver,теле
+632,Januar::N,janvier,якшамков
+633,Februar::N,février,февраль
+634,März::N,mars,март
+635,April::N,avril,апрель
+636,Mai::N,mai,май
+637,Juni::N,juin,июнь
+638,Juli::N,juillet,июль
+639,August::N,août,август
+640,September::N,septembre,сентября
+641,Oktober::N,octobre,октября
+642,November::N,novembre,ноября
+643,Dezember::N,décembre,декабря
+644,Montag::N,lundi,пондельник
+645,Dienstag::N,mardi,овторник
+646,Mittwoch::N,mercredi,серёда
+647,Donnerstag::N,jeudi,цетьверьг
+648,Freitag::N,vendredi,пеця
+649,Samstag::N,samedi,субута
+650,Samstag::N,samedi,шлямочи
+651,Sonntag::N,dimanche,недлячи
+652,groß::A,grand,ине
+653,groß::A,grand,покш
+654,klein::A,petit,вишка
+655,lang::A,long,кувака
+656,kurz::A,court,нурькине
+657,breit::A,large,келей
+658,schmal::A,étroit,теине
+659,dicht::A,dense,тусто
+660,dick[Gegenstand]::A,épais,эчке
+661,dünn::A,mince,човине
+662,fein::A,fin,човине
+663,fein::A,menu,човине
+664,fest::A,ferme,кеме
+665,fest::A,solide,кеме
+666,flach::A,plat,лапужа
+667,glatt::A,poli,валаня
+668,glatt::A,lisse,валаня
+669,hart::A,dur,калгодо
+670,weich::A,mou,чевте
+671,rund::A,rond,кеверь
+672,spitz::A,aigu,пшти
+673,spitz::A,pointu,пшти
+674,scharf::A,tranchant,пшти
+675,stumpf::A,mousse,ношка
+676,stumpf::A,émoussé,ношка
+677,schwer::A,lourd,стака
+678,schwer::A,pesant,стака
+679,schön::A,beau,мазый
+680,heiß::A,chaud,пси
+681,heiß::A,très chaud,пси
+682,warm::A,chaud,лембе
+683,kalt::A,froid,якшамо
+684,kühl::A,frais,экше
+685,frisch::A,frais,свежа
+686,feucht::A,humide,летьке
+687,nass::A,mouillé,начко
+688,trocken::A,sec,коське
+689,voll::A,plein,пешксе
+690,voll::A,rempli,пешксе
+691,leer::A,vide,чаво
+692,offen::A,ouvert,панжадо
+693,offen::A,ouvert,виде
+694,geschlossen::A,clos,пекстазь
+695,geschlossen::A,clos,сёлгозь
+696,geschlossen::A,fermé,пекстазь
+697,geschlossen::A,fermé,сёлгозь
+698,sauber::A,net,ванькс
+699,sauber::A,propre,ванькс
+700,schmutzig::A,sale,ливезев
+701,schmutzig::A,crasseux,ливезев
+702,roh::A,cru,верек
+703,roh::A,brut,верек
+704,reif::A,mûr,кенерезь
+705,lecker::A,délicieux,тантей
+706,lecker::A,appétissant,тантей
+707,süß::A,doux,ламбамо
+708,bitter::A,amer,сэпей
+709,sauer::A,aigre,чапамо
+710,hell::A,clair,валдо
+711,dunkel::A,sombre,чопода
+712,schwarz::A,noir,раужо
+713,weiß::A,blanc,ашо
+714,rot::A,rouge,якстере
+715,gelb::A,jaune,ожо
+716,blau::A,bleu,сэнь
+717,grün::A,vert,пиже
+718,grau::A,gris,шержев
+719,bunt::A,multicolore,сёрмав
+720,billig::A,bon marché,аволь питней
+721,teuer::A,cher,питней
+722,wertvoll::A,précieux,питней
+723,blind::A,aveugle,сокор
+724,taub::A,sourd,амариця
+725,kräftig::A,fort,пек виев
+726,kräftig::A,vigoureux,пек виев
+727,stark::A,fort,виев
+728,stark::A,puissant,виев
+729,schwach::A,faible,лавшо
+730,fett::A,gras,куя
+731,schlank::A,svelte,виде ронга
+732,hübsch::A,joli,мазый
+733,böse::A,mauvais,кежей
+734,dumm::A,sot,чавола
+735,dumm::A,sot,превтеме
+736,dumm::A,bête,чавола
+737,dumm::A,bête,превтеме
+738,faul::A,fainéant,нузякс
+739,faul::A,paresseux,нузякс
+740,fleißig::A,appliqué,мелень путыця
+741,geizig::A,avare,скупой
+742,klug::A,intelligent,превей
+743,geschickt::A,habile,маштозь теезь
+744,lieb::A,cher,вадря
+745,lieb::A,gentil,вадря
+746,lustig::A,gai,весёла
+747,lustig::A,joyeux,весёла
+748,sanft::A,doux,сэтьме
+749,hungrig::A,affamé,вачо
+750,krank::A,malade,сэредиця
+751,nackt::A,nu,штапо
+752,traurig::A,triste,нусманя
+753,lebendig::A,vivant,эриця
+754,gut::A,bon,паро
+755,schlecht::A,mauvais,берянь
+756,richtig::A,juste,виде
+757,richtig::A,correct,виде
+758,schlimm::A,grave,берянь
+759,schlimm::A,mauvais,берянь
+760,wahr::A,vrai,алкуксонь
+761,wahr::A,véritable,алкуксонь
+762,alt::A,vieux,ташто
+763,neu::A,neuf,од
+764,neu::A,nouveau,од
+765,ehemalig::A,ancien,икелень
+766,alt[Lebewesen]::A,âgé,сыре
+767,alt[Lebewesen]::A,vieux,сыре
+768,jung::A,jeune,од
+769,arm::A,pauvre,кажов
+770,reich::A,riche,сюпав
+771,bekannt::A,connu,содавикс
+772,berühmt::A,fameux,содавикс
+773,berühmt::A,célèbre,содавикс
+774,fremd::A,étranger,лия
+775,fremd::A,étranger,асодавикс
+776,verschieden::A,différent,эрьва
+777,nah::A,lié,а васолонь
+778,nah::A,proche,а васолонь
+779,fern::A,éloigné,умонь
+780,fern::A,éloigné,кезэрень
+781,fern::A,lointain,умонь
+782,fern::A,lointain,кезэрень
+783,linker::A,gauche,керш
+784,rechter::A,droit,вить
+785,anderer::A,autre,лия
+786,erster::A,premier,васень
+787,erster::A,premier,васенце
+788,zweiter::A,second,омбоце
+789,zweiter::A,deuxième,омбоце
+790,dritter::A,troisième,колмоце
+791,letzter::A,dernier,меельце
+792,allein::ADV,seul,башка
+793,allein::ADV,seul,ськамонзо
+794,auf einmal::ADV,à la fois,вейсэ
+795,zusammen::ADV,ensemble,вейс
+796,zusammen::ADV,ensemble,вейсэ
+797,lange::ADV,longtemps,кувать
+798,plötzlich::ADV,tout à coup,апак учо
+799,sofort::ADV,immédiatement,курок
+800,sofort::ADV,immédiatement,нейке
+801,später::ADV,plus tard,мейле
+802,jetzt::ADV,maintenant,ней
+803,heute::ADV,aujourd'hui,течи
+804,morgen::ADV,demain,ванды
+805,bald::ADV,bientôt,курок
+806,dann::ADV,puis,мейле
+807,dann::ADV,puis,седе мейле
+808,dann::ADV,ensuite,мейле
+809,dann::ADV,ensuite,седе мейле
+810,gestern::ADV,hier,исяк
+811,einst::ADV,jadis,весть
+812,einst::ADV,jadis,зярдо-бути
+813,einst::ADV,autrefois,весть
+814,einst::ADV,autrefois,зярдо-бути
+815,damals::ADV,alors,сестэ
+816,damals::ADV,à l'époque,сестэ
+817,danach::ADV,après,мейле
+818,danach::ADV,après,седе мейле
+819,danach::ADV,ensuite,мейле
+820,danach::ADV,ensuite,седе мейле
+821,vorher::ADV,auparavant,васняяк
+822,zuerst::ADV,d'abord,васня
+823,zuerst::ADV,premièrement,васня
+824,einmal::ADV,une fois,весть
+825,manchmal::ADV,parfois,лиясто
+826,manchmal::ADV,quelquefois,лиясто
+827,oft::ADV,souvent,сеетьстэ
+828,immer::ADV,toujours,свал
+829,niemals::ADV,ne ... jamais,а зярдояк
+830,hier::ADV,ici,тесэ
+831,hierhin::ADV,par ici,тей
+832,von hier::ADV,d'ici,тестэ
+833,dort::ADV,là,тосо
+834,dort::ADV,là-bas,тосо
+835,dorthin::ADV,y,тов
+836,dorthin::ADV,par là,тов
+837,geradeaus::ADV,tout droit,витьстэ
+838,vorwärts::ADV,en avant,икелев
+839,rückwärts::ADV,en arrière,мекев
+840,zurück::ADV,de retour,мекев
+841,unten::ADV,en bas,ало
+842,unten::ADV,au-dessous,ало
+843,hinab::ADV,en bas,алов
+844,hinab::ADV,vers le bas,алов
+845,oben::ADV,dessus,вере
+846,oben::ADV,en haut,вере
+847,hinauf::ADV,en haut,верев
+848,hinauf::ADV,vers le haut,верев
+849,überall::ADV,partout,эрьва косо
+850,nicht::ADV,ne ... pas,а
+851,ein wenig::ADV,un peu,аламошка
+852,kaum::ADV,à peine,ансяк
+853,sehr::ADV,très,пек
+854,sehr::ADV,très,вельть
+855,so::ADV,si,истя
+856,so::ADV,ainsi,истя
+857,noch::ADV,encore,таго
+858,nur::ADV,seulement,ансяк
+859,nur::ADV,ne ... que,ансяк
+860,schon::ADV,déjà,уш
+861,wieder::ADV,de nouveau,таго
+862,vergebens::ADV,en vain,стяко
+863,vor::PRP,devant,икеле
+864,hinter::PRP,derrière,вельде
+865,unter::PRP,sous,ало
+866,unter::PRP,au-dessous de,ало
+867,durch::PRP,par,пачк
+868,durch::PRP,à travers,пачк
+869,neben::PRP,à côté de,вакссо
+870,zwischen::PRP,entre,ютксо
+871,wegen::PRP,à cause de,кис
+872,wegen::PRP,à cause de,коряс
+873,wegen::PRP,à cause de,кувалт
+874,dies::PRN,ceci,те
+875,das::PRN,ce,те
+876,das::PRN,ce,тона
+877,das::PRN,cela,те
+878,das::PRN,cela,тона
+879,alles::PRN,tout,весе
+880,alles::PRN,tout,весемесь
+881,ich::PRN,je,мон
+882,ich::PRN,moi,мон
+883,du::PRN,tu,тон
+884,du::PRN,toi,тон
+885,er::PRN,il,сон
+886,er::PRN,lui,сон
+887,wir::PRN,nous,минь
+888,ihr::PRN,vous,тынь
+889,sie::PRN,ils,сынь
+890,sie::PRN,elles,сынь
+891,was::FPRN,que,мезе
+892,was::FPRN,quoi,мезе
+893,wer::FPRN,qui,ки
+894,wo::FADV,où,косо
+895,wohin::FADV,où,ков
+896,wohin::FADV,où,козо
+897,wie::FADV,comment,кода
+898,warum::FADV,pourquoi,мекс
+899,wieviel::FNUM,combien,зяро
+900,eins::NUM,un,вейке
+901,zwei::NUM,deux,кавто
+902,drei::NUM,trois,колмо
+903,vier::NUM,quatre,ниле
+904,fünf::NUM,cinq,вете
+905,sechs::NUM,six,кото
+906,sieben::NUM,sept,сисем
+907,acht::NUM,huit,кавксо
+908,neun::NUM,neuf,вейксэ
+909,zehn::NUM,dix,кемень
+910,elf::NUM,onze,кевейкее
+911,zwölf::NUM,douze,кемгавтово
+912,zwanzig::NUM,vingt,комсь
+913,dreißig::NUM,trente,колоньгемень
+914,vierzig::NUM,quarante,ниленьгемень
+915,fünfzig::NUM,cinquante,ведьгемень
+916,sechzig::NUM,soixante,кодгемень
+917,siebzig::NUM,soixante-dix,сизьгемень
+918,achtzig::NUM,quatre-vingt,кавксоньгемень
+919,neunzig::NUM,quatre-vingt-dix,вейксэньгемень
+920,hundert::NUM,cent,сядо
+921,tausend::NUM,mille,тыща
+922,und::CNJ,et,ды
+923,oder::CNJ,ou,или
+924,stehen::V,être debout,аштемс стядо
+925,sitzen::V,être assis,аштемс озадо
+926,liegen::V,être couché,мадезь аштемс
+927,hängen::V,pendre,нурьгемс
+928,werden::V,devenir,арамс
+929,passieren::V,se passer,лисэмс
+930,beginnen::V,commencer,ушодомс
+931,enden::V,finir,лоткамс
+932,enden::V,se terminer,лоткамс
+933,wechseln::V,changer,полавтнемс
+934,wechseln::V,alterner,полавтнемс
+935,aufgehen[Sonne]::V,se lever,лисемс
+936,aufgehen[Sonne]::V,se lever,стямс
+937,untergehen[Sonne]::V,se coucher,валгомс
+938,scheinen[Sonne]::V,briller,валдомтомс
+939,donnern::V,tonner,цярномс
+940,donnern::V,tonner,галдордомс
+941,wehen::V,souffler,пувамс
+942,strömen::V,affluer,чудемс
+943,fließen::V,couler,чудемс
+944,sich drehen::V,tourner,велямс
+945,schwanken::V,osciller,лыкамс
+946,schwanken::V,osciller,якамс
+947,schwanken::V,chanceler,лыкамс
+948,schwanken::V,chanceler,якамс
+949,schwingen::V,vibrer,нурсемс
+950,schwingen::V,vibrer,лыкамс
+951,schwingen::V,osciller,нурсемс
+952,schwingen::V,osciller,лыкамс
+953,fallen::V,tomber,прамс
+954,fallen::V,tomber,сяворемс
+955,brennen::V,brûler,паломс
+956,brennen::V,flamber,паломс
+957,rauchen::V,fumer,качадомс
+958,regnen::V,pleuvoir,пиземс
+959,gefrieren::V,geler,кельмемс
+960,tauen::V,dégeler,соламс
+961,schmelzen::V,fondre,соламс
+962,trocknen::V,sécher,коськемс
+963,sieden::V,bouillir,лакамс
+964,sieden::V,bouillir,пиксемс
+965,faulen::V,pourrir,наксадомс
+966,faulen::V,se putréfier,наксадомс
+967,verfaulen::V,pourrir,наксадомс
+968,reißen::V,rompre,сезневемс
+969,reißen::V,se déchirer,сезневемс
+970,versinken::V,s'enfoncer,ваямс
+971,vergehen::V,passer,ютамс
+972,erscheinen::V,apparaître,лисемс
+973,verschwinden::V,disparaître,ёмамс
+974,sinken::V,descendre,явамс
+975,sinken::V,s'abaisser,явамс
+976,abnehmen::V,diminuer,киремемс
+977,zunehmen::V,augmenter,ламолгадомс
+978,zunehmen::V,augmenter,раштамс
+979,steigen::V,monter,куземс
+980,steigen::V,monter,кепсевемс
+981,wachsen::V,croître,касомс
+982,glänzen::V,briller,цитнемс
+983,funkeln::V,étinceler,пиндолдомс
+984,funkeln::V,étinceler,цивтёрдомс
+985,lärmen::V,faire du bruit,шалномс
+986,läuten::V,sonner,гайгезевемс
+987,klingeln::V,sonner,чавомс баягас
+988,klirren::V,cliqueter,калдордомс
+989,klirren::V,cliqueter,кальцяемс
+990,brausen::V,mugir,лакамс
+991,rauschen::V,bruire,лажномс
+992,klingen::V,sonner,гайгемс
+993,bellen::V,aboyer,онгомс
+994,heulen::V,hurler,урномс
+995,blasen::V,souffler,пувамс
+996,pfeifen::V,siffler,вешкемс
+997,schreien::V,crier,пижнемс
+998,stöhnen::V,gémir,кувсемс
+999,zittern::V,trembler,тарномс
+1000,leben::V,vivre,эрямс
+1001,geboren werden::V,naître,чачомс
+1002,atmen::V,respirer,лексемс
+1003,trinken::V,boire,симемс
+1004,essen::V,manger,ярсамс
+1005,schlucken::V,avaler,нилемс
+1006,schlucken::V,avaler,порнемс
+1007,müde werden::V,se lasser,сиземс
+1008,müde werden::V,se fatiguer,сиземс
+1009,einschlafen::V,s'endormir,матедевемс
+1010,schlafen::V,dormir,удомс
+1011,aufwachen::V,se réveiller,сыргоземс
+1012,aufstehen::V,se lever,стямс
+1013,sich erholen::V,se reposer,оймсемс
+1014,sich erholen::V,se détendre,оймсемс
+1015,krank werden::V,tomber malade,сэредезевемс
+1016,krank sein::V,être malade,сэредемс
+1017,schmerzen::V,faire mal,сэредемс
+1018,husten::V,tousser,козомс
+1019,genesen::V,guérir,пичкамс
+1020,genesen::V,se remettre,пичкамс
+1021,sterben::V,mourir,куломс
+1022,umkommen::V,périr,чавовомс
+1023,umkommen::V,périr,ёмамс
+1024,sich bewegen::V,bouger,шаштомс
+1025,sich rühren::V,broncher,сыргамс
+1026,sich erheben::V,se lever,куземс
+1027,sich setzen::V,s'asseoir,озамс
+1028,hinfallen::V,tomber,прамс
+1029,hinfallen::V,tomber,сяворемс
+1030,laufen::V,marcher,якамс
+1031,laufen::V,aller à pied,якамс
+1032,schreiten::V,marcher,эскелямс
+1033,schreiten::V,marcher,молемс
+1034,spazierengehen::V,se promener,якамс
+1035,eilen::V,courir,эрзкалемс
+1036,eilen::V,courir,капшамс
+1037,sich beeilen::V,se hâter,капшамс
+1038,sich beeilen::V,se dépêcher,капшамс
+1039,sausen::V,filer,ливтямс
+1040,rennen::V,courir,чийнемс
+1041,rennen::V,courir,ардтнемс
+1042,springen::V,sauter,кирнявтнемс
+1043,klettern::V,grimper,куземс
+1044,schaukeln::V,se balancer,нурямс
+1045,kriechen::V,ramper,ёзмолдомс
+1046,schwimmen::V,nager,уемс
+1047,tauchen::V,plonger,чопавтомс
+1048,tauchen::V,plonger,чопавтнемс
+1049,rudern::V,ramer,миледемс
+1050,fahren::V,aller,ардомс
+1051,fahren::V,rouler,ардомс
+1052,fliegen::V,voler,ливтямс
+1053,gehen::V,aller,туемс
+1054,gehen::V,aller,молемс
+1055,weggehen::V,s'en aller,туемс
+1056,abfahren::V,partir,туемс
+1057,anhalten::V,s'arrêter,лоткамс
+1058,hineingehen::V,entrer,совамс
+1059,eintreten::V,entrer,совамс
+1060,eintreten::V,entrer,эскельдямс
+1061,kommen::V,venir,самс
+1062,ankommen::V,arriver,самс
+1063,ankommen::V,arriver,пачкодемс
+1064,zurückkommen::V,revenir,велявтомс
+1065,bleiben::V,rester,кадовомс
+1066,bleiben::V,demeurer,кадовомс
+1067,warten::V,attendre,учомс
+1068,erwarten::V,attendre,учомс
+1069,suchen::V,chercher,вешнемс
+1070,finden::V,trouver,муемс
+1071,versuchen::V,essayer,варштамс
+1072,vorbereiten::V,préparer,анокстамс
+1073,lieben::V,aimer,вечкемс
+1074,mögen::V,aimer,вечкемс
+1075,mögen::V,vouloir,вечкемс
+1076,lachen::V,rire,пейдемс
+1077,rühren::V,toucher,токамс седейс
+1078,rühren::V,attendrir,токамс седейс
+1079,weinen::V,pleurer,авардемс
+1080,schimpfen::V,gronder,сёвномс
+1081,sich ärgern::V,se fâcher,кежиявтнемс
+1082,sich fürchten::V,avoir peur,пелемс
+1083,fürchten::V,craindre,пелемс
+1084,fürchten::V,avoir peur de,пелемс
+1085,fliehen::V,fuir,оргодемс
+1086,flüchten::V,s'enfuir,ворьгодемс
+1087,flüchten::V,s'enfuir,чадомс
+1088,sehen::V,voir,неемс
+1089,anschauen::V,regarder,ваномс
+1090,ansehen::V,regarder,ваномс
+1091,hören::V,entendre,марямс
+1092,zuhören::V,écouter,кунсоломс
+1093,probieren::V,goûter,варшамс
+1094,riechen::V,sentir,никсемс
+1095,fühlen::V,sentir,марямс
+1096,scheinen::V,sembler,марявомс
+1097,scheinen::V,paraître,марявомс
+1098,zu sehen sein::V,se voir,неявомс
+1099,zu sehen sein::V,être visible,неявомс
+1100,vernehmen::V,entendre,марямс
+1101,vernehmen::V,percevoir,марямс
+1102,frieren::V,avoir froid,кельмемс
+1103,tun::V,faire,теемс
+1104,können::V,savoir,маштомс
+1105,können::V,pouvoir,маштомс
+1106,wollen::V,vouloir,бажамс
+1107,anfangen::V,commencer,кармамс
+1108,beenden::V,finir,прядомс
+1109,beenden::V,terminer,прядомс
+1110,aufhören::V,cesser,лоткамс
+1111,aufhören::V,arrêter,лоткамс
+1112,gelingen::V,réussir,удаламс
+1113,geraten::V,réussir,лисемс
+1114,öffnen::V,ouvrir,панжомс
+1115,schließen::V,fermer,пекстамс
+1116,schließen::V,fermer,сёлгомс
+1117,schließen::V,fermer,конямс
+1118,stellen::V,poser,аравтомс
+1119,stellen::V,mettre,аравтомс
+1120,setzen::V,placer,ойсевтемс
+1121,setzen::V,placer,озавтнемс
+1122,legen::V,placer,путомс
+1123,berühren::V,toucher,токамс
+1124,verbinden::V,lier,содомс
+1125,bedecken::V,couvrir,вельтямс
+1126,aufhängen::V,accrocher,понгавтомс
+1127,anzünden::V,allumer,кирвастемс
+1128,aufheben::V,ramasser,кепедемс
+1129,zurücklassen::V,laisser,кадомс
+1130,verlieren::V,perdre,ёмавтомс
+1131,fallen lassen::V,lâcher,правтомс
+1132,fallen lassen::V,laisser tomber,правтомс
+1133,machen::V,faire,теемс
+1134,herstellen::V,produire,анокстамс
+1135,herstellen::V,fabriquer,анокстамс
+1136,bauen::V,bâtir,путомс
+1137,bauen::V,construire,путомс
+1138,reparieren::V,réparer,витемс
+1139,verbessern::V,améliorer,паролгавтомс
+1140,verbessern::V,améliorer,вадрялгавтомс
+1141,ändern::V,changer,полавтомс
+1142,ändern::V,modifier,полавтомс
+1143,graben::V,creuser,чувомс
+1144,graben::V,creuser,таргамс
+1145,beugen::V,plier,мендемс
+1146,beugen::V,ployer,мендемс
+1147,biegen::V,courber,комавтомс
+1148,drehen::V,tordre,чаравтомс
+1149,drehen::V,tordre,велявтнемс
+1150,drehen::V,tourner,чаравтомс
+1151,drehen::V,tourner,велявтнемс
+1152,wenden::V,retourner,велявтомс
+1153,umdrehen::V,tourner,велявтомс
+1154,heben::V,soulever,кепедемс
+1155,hochheben::V,lever,кепедемс
+1156,ergreifen::V,saisir,кундамс
+1157,ergreifen::V,prendre,кундамс
+1158,halten::V,tenir,кирдемс
+1159,drücken::V,presser,нуемс
+1160,schieben::V,pousser,шаштомс
+1161,kratzen::V,gratter,ангордамс
+1162,kratzen::V,égratigner,ангордамс
+1163,lecken::V,lécher,нолсемс
+1164,beißen::V,mordre,сускомс
+1165,abreißen::V,arracher,сеземс
+1166,abschneiden::V,couper,печкемс
+1167,binden::V,lier,кодамс
+1168,binden::V,lier,сюлмамс
+1169,binden::V,attacher,кодамс
+1170,binden::V,attacher,сюлмамс
+1171,stecken::V,enfoncer,сялгомс
+1172,brechen::V,rompre,синдемс
+1173,brechen::V,rompre,калавтомс
+1174,klopfen::V,frapper,калтаямс
+1175,hauen::V,frapper,чавомс
+1176,kleben::V,coller,педявтнемс
+1177,reiben::V,frotter,ёзамс
+1178,streichen::V,empâter,вадемс
+1179,schleifen::V,affiler,човамс
+1180,schleifen::V,aiguiser,човамс
+1181,schneiden::V,couper,керямс
+1182,schneiden::V,trancher,керямс
+1183,rütteln::V,cahoter,чукамс
+1184,rütteln::V,cahoter,лыкавтомс
+1185,schütteln::V,secouer,чукамс
+1186,schwenken::V,agiter,яхолемс
+1187,schütten::V,verser,каямс
+1188,füllen::V,remplir,пештямс
+1189,einwickeln::V,envelopper,тапарямс
+1190,tragen::V,porter,кандомс
+1191,schleppen::V,traîner,ускомс
+1192,ziehen::V,tirer,ускомс
+1193,aufbewahren::V,garder,ванстомс
+1194,aufbewahren::V,conserver,ванстомс
+1195,werfen::V,jeter,ёртомс
+1196,werfen::V,lancer,ёртомс
+1197,fangen::V,attraper,кундамс
+1198,packen::V,agripper,кундамс
+1199,verstecken::V,cacher,кекшемс
+1200,teilen::V,diviser,явомс
+1201,schicken::V,envoyer,кучомс
+1202,bringen::V,apporter,кандомс
+1203,hinzufügen::V,ajouter,путомс
+1204,hinzufügen::V,ajouter,максомс
+1205,bekommen::V,obtenir,саемс
+1206,erhalten::V,recevoir,саемс
+1207,nehmen::V,prendre,саемс
+1208,wählen::V,choisir,кочкамс
+1209,auswählen::V,choisir,кочкамс
+1210,auswählen::V,sélectionner,кочкамс
+1211,bewahren::V,préserver,ванстомс
+1212,behindern::V,gêner,кирдемс
+1213,verderben::V,gâter,коламс
+1214,verderben::V,corrompre,коламс
+1215,beschädigen::V,endommager,теемс зыян
+1216,zerbrechen::V,casser,коламс
+1217,zerreißen::V,déchirer,сеземс
+1218,zerstören::V,détruire,калавтомс
+1219,verbrennen::V,brûler,пултамс
+1220,geben::V,donner,максомс
+1221,reichen::V,tendre,максомс
+1222,schenken::V,offrir,каземс
+1223,versprechen::V,promettre,алтамс
+1224,wünschen::V,souhaiter,арсемс
+1225,loben::V,louer,шнамс
+1226,küssen::V,embrasser,палсемс
+1227,wiegen::V,bercer,нурсемс
+1228,zudecken::V,couvrir,тавадомс
+1229,zudecken::V,couvrir,вельтямс
+1230,wecken::V,éveiller,стявтомс
+1231,wecken::V,réveiller,стявтомс
+1232,zeigen::V,montrer,невтемс
+1233,zeigen::V,faire voir,невтемс
+1234,führen::V,guider,ветямс
+1235,lehren::V,apprendre,тонавтомс
+1236,unterrichten::V,instruire,тонавтомс
+1237,aufziehen::V,élever,трямс
+1238,aufziehen::V,élever,кастомс
+1239,leiten::V,diriger,ветямс
+1240,leiten::V,diriger,азоркстамс
+1241,leiten::V,conduire,ветямс
+1242,leiten::V,conduire,азоркстамс
+1243,antreiben::V,pousser,ветямс
+1244,lassen::V,faire,кармавтомс
+1245,einladen::V,inviter,тердемс
+1246,vereinigen::V,unir,вейсэндямс
+1247,vereinigen::V,unir,вейс путомс
+1248,vereinigen::V,unir,вейс пурнамс
+1249,vereinigen::V,réunir,вейсэндямс
+1250,vereinigen::V,réunir,вейс путомс
+1251,vereinigen::V,réunir,вейс пурнамс
+1252,besuchen::V,visiter,варштамс
+1253,besuchen::V,aller voir,варштамс
+1254,treffen::V,rencontrer,вастомс
+1255,sich versammeln::V,s'assembler,промокшномс
+1256,spielen::V,jouer,налксемс
+1257,singen::V,chanter,морамс
+1258,tanzen::V,danser,киштемс
+1259,sich trennen::V,se séparer,явомс
+1260,verlassen::V,quitter,кадомс
+1261,retten::V,sauver,идемс
+1262,bewachen::V,garder,ванстомс
+1263,schützen::V,protéger,аштемс
+1264,verteidigen::V,défendre,ваномс
+1265,sich schlagen::V,se taper,тюремс
+1266,schießen::V,tirer,ледемс
+1267,siegen::V,vaincre,изнямс
+1268,ärgern::V,agacer,кежейгавтомс
+1269,schlagen::V,battre,токамс
+1270,schlagen::V,frapper,токамс
+1271,treten::V,botter,тапамс
+1272,treten::V,donner un coup de pied à,тапамс
+1273,stechen::V,piquer,пупамс
+1274,stoßen::V,heurter,тулкадемс
+1275,stehlen::V,voler,саламс
+1276,stören::V,gêner,пирямс ки
+1277,stören::V,déranger,пирямс ки
+1278,belästigen::V,molester,а максомс
+1279,belästigen::V,molester,а кадомс оймамо
+1280,belästigen::V,importuner,а максомс
+1281,belästigen::V,importuner,а кадомс оймамо
+1282,verbergen::V,cacher,сёпомс
+1283,verbergen::V,cacher,кекшемс
+1284,verbergen::V,dissimuler,сёпомс
+1285,verbergen::V,dissimuler,кекшемс
+1286,täuschen::V,abuser,манямс
+1287,täuschen::V,tromper,манямс
+1288,betrügen::V,duper,манчемс
+1289,betrügen::V,frauder,манчемс
+1290,töten::V,tuer,чавномс
+1291,töten::V,tuer,маштнемс
+1292,wohnen::V,habiter,эрямс
+1293,wohnen::V,demeurer,эрямс
+1294,arbeiten::V,travailler,важодемс
+1295,sammeln::V,collectionner,пурнамс
+1296,pflücken::V,cueillir,ноцковтнемс
+1297,jagen::V,chasser,кундамс
+1298,fischen::V,pêcher,калонь кундамс
+1299,fassen::V,capturer,кундамс
+1300,hüten::V,garder,ваномс
+1301,treiben::V,mener,панемс
+1302,anbinden::V,attacher,сюлмамс
+1303,füttern::V,faire manger,андомс
+1304,melken::V,traire,потявтомс
+1305,hacken::V,fendre,лазномс
+1306,gießen::V,arroser,валомс
+1307,reifen::V,mûrir,кенеремс
+1308,zubereiten::V,préparer,анокстамс
+1309,kochen::V,cuire,пидемс
+1310,backen::V,cuire,пидемс
+1311,braten::V,rôtir,пуштамс
+1312,umrühren::V,remuer,човорямс
+1313,stricken::V,tricoter,кодамс
+1314,nähen::V,coudre,стамс
+1315,färben::V,teindre,артомс
+1316,reinigen::V,nettoyer,урядамс
+1317,waschen::V,laver,муськемс
+1318,abwischen::V,essuyer,нардамс
+1319,spülen::V,rincer,ёрвалдомс
+1320,fegen::V,balayer,тенсемс
+1321,kehren::V,balayer,тенсемс
+1322,baden::V,se baigner,экшелямс
+1323,sich waschen::V,se laver,шлямс
+1324,ausziehen::V,ôter,кайсевтемс
+1325,ausziehen::V,enlever,кайсевтемс
+1326,anziehen::V,mettre,оршамс
+1327,sich anziehen::V,s'habiller,оршамс
+1328,kämmen::V,peigner,судрямс
+1329,schmücken::V,orner,мазылгавтомс
+1330,schmücken::V,orner,наряжамс
+1331,schmücken::V,décorer,мазылгавтомс
+1332,schmücken::V,décorer,наряжамс
+1333,sagen::V,dire,меремс
+1334,sprechen::V,parler,кортамс
+1335,reden::V,parler,кортамс
+1336,sich unterhalten::V,bavarder,кортнемс
+1337,sich unterhalten::V,s'entretenir,кортнемс
+1338,fragen::V,demander,кевкстемс
+1339,bitten::V,prier,вешемс
+1340,erzählen::V,raconter,ёвтнемс
+1341,mitteilen::V,communiquer,ёвтамс
+1342,nennen::V,nommer,лемдемс
+1343,nennen::V,nommer,путомс лем
+1344,nennen::V,appeler,лемдемс
+1345,nennen::V,appeler,путомс лем
+1346,rufen::V,appeler,тердемс
+1347,rufen::V,appeler,серьгедемс
+1348,prahlen::V,se vanter,шнамс пря
+1349,übersetzen::V,traduire,ютавтомс
+1350,denken::V,penser,арсемс
+1351,glauben::V,croire,кемемс
+1352,bemerken::V,remarquer,неемс
+1353,bemerken::V,apercevoir,неемс
+1354,erkennen::V,reconnaître,содамс
+1355,begreifen::V,concevoir,пачкодемс
+1356,verstehen::V,entendre,чарькодемс
+1357,verstehen::V,comprendre,чарькодемс
+1358,lernen::V,apprendre,тонавтнемс
+1359,wissen::V,savoir,содамс
+1360,sich erinnern an::V,se souvenir de,ледстямс
+1361,vergessen::V,oublier,стувтомс
+1362,messen::V,mesurer,онкстнемс
+1363,zählen::V,compter,ловомс
+1364,rechnen::V,calculer,ловомс
+1365,lesen::V,lire,ловномс
+1366,malen::V,peindre,рисовамс
+1367,zeichnen::V,dessiner,рисовамс
+1368,schreiben::V,écrire,сёрмадомс
+1369,besitzen::V,posséder,улемс
+1370,besitzen::V,posséder,улемс азорокс
+1371,kaufen::V,acheter,рамамс
+1372,verkaufen::V,vendre,миемс
+1373,bezahlen::V,payer,пандомс
+1374,zahlen::V,payer,пандомс
+1375,beherrschen::V,dominer,азоркстамс
+1376,beherrschen::V,maîtriser,азоркстамс
+1377,ertragen::V,tolérer,кирдемс
+1378,ertragen::V,supporter,кирдемс

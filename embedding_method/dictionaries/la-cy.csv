@@ -1,0 +1,1266 @@
+,Concept_ID,la,cy
+0,Auge::N,oculus,llygad
+1,Ohr::N,auris,clust
+2,Nase::N,nasus,trwyn
+3,Mund::N,os,ceg
+4,Zahn::N,dens,dant
+5,Zunge::N,lingua,tafod
+6,Lippe::N,labrum,gwefus
+7,Wange::N,gena,boch
+8,Gesicht::N,vultus,wyneb
+9,Stirn::N,frons,talcen
+10,Haar::N,capillus,blew
+11,Schnurrbart::N,barba labri superioris,mwstas
+12,Bart::N,barba,barf
+13,Kinn::N,mentum,gên
+14,Kiefer[Anatomie]::N,mala,gên
+15,Kehle::N,iugulums,gwddf
+16,Hals::N,collum,gwddf
+17,Genick::N,cervices,gwar
+18,Genick::N,cervices,gwegil
+19,Kopf::N,caput,pen
+20,Rücken::N,tergum,cefn
+21,Bauch::N,venter,bol
+22,Nabel::N,umbilicus,bogail
+23,Busen::N,sinus,bron
+24,Brust::N,pectus,brest
+25,Schulter::N,umerus,ysgwydd
+26,Arm::N,bracchium,braich
+27,Ellenbogen::N,cubitum,penelin
+28,Hand::N,manus,llaw
+29,Handfläche::N,palma,palf
+30,Finger::N,digitus,bys
+31,Fingernagel::N,unguiculus,ewin
+32,Nagel[Anatomie]::N,unguis,ewin
+33,Zeh::N,digitus,bys troed
+34,Fuß::N,pes,troed
+35,Ferse::N,calx,sawdl
+36,Knie::N,genu,glin
+37,Oberschenkel::N,femur,clun
+38,Bein::N,crus,coes
+39,Körper::N,corpus,corff
+40,Haut::N,cutis,croen
+41,Haut::N,pellis,croen
+42,Blut::N,sanguis,gwaed
+43,Ader::N,vena,gwythïen
+44,Sehne::N,nervus,gewyn
+45,Knochen::N,os,asgwrn
+46,Gehirn::N,cerebrum,ymennydd
+47,Herz::N,cor,calon
+48,Herz::N,animus,calon
+49,Magen::N,stomachus,cylla
+50,Magen::N,stomachus,stumog
+51,Leber::N,iecur,iau
+52,Atem::N,spiritus,anadl
+53,Hunger::N,fames,newyn
+54,Träne::N,lacrima,deigryn
+55,Geschmack::N,sapor,cyflas
+56,Geschmack::N,gustus,cyflas
+57,Geruch::N,odor,aroglau
+58,Schlaf::N,somnus,cwsg
+59,Traum::N,somnium,breuddwyd
+60,Himmel::N,caelum,awyr
+61,Sonne::N,sol,haul
+62,Mond::N,luna,lleuad
+63,Stern::N,sidus,seren
+64,Stern::N,stella,seren
+65,Luft::N,aer,awyr
+66,Wind::N,ventus,gwynt
+67,Welle::N,unda,ton
+68,Wasser::N,aqua,dŵr
+69,Stein::N,lapis,carreg
+70,Boden::N,solum,llawr
+71,Erde::N,terra,pridd
+72,Staub::N,pulvis,llwch
+73,Rauch::N,fumus,mwg
+74,Funke::N,scintilla,gwreichioni
+75,Feuer::N,ignis,tân
+76,Licht::N,lux,golau
+77,Licht::N,lumen,golau
+78,Schatten::N,umbra,cysgod
+79,Wetter::N,caelum,tywydd
+80,Wetter::N,tempestas,tywydd
+81,Nebel::N,nebula,niwl
+82,Wolke::N,nubes,cwmwl
+83,Regen::N,imber,glaw
+84,Regen::N,pluvia,glaw
+85,Schnee::N,nix,ôd
+86,Schnee::N,nix,eira
+87,Eis::N,glacies,iâ
+88,Frost::N,gelu,rhew
+89,Kälte::N,frigus,oerni
+90,Kälte::N,frigus,annwyd
+91,Hitze::N,calor,gwres
+92,Hitze::N,aestus,gwres
+93,Raureif::N,pruina,barrug
+94,Regenbogen::N,arcus,enfys
+95,Donner::N,tonitrus,tyrfau
+96,Strömung::N,fluctus,cerrynt
+97,Tropfen::N,gutta,dafn
+98,Tropfen::N,gutta,diferyn
+99,Schaum::N,spuma,ewyn
+100,Schmutz::N,sordes,baw
+101,Schmutz::N,sordes,budreddi
+102,Schmutz::N,squalor,baw
+103,Schmutz::N,squalor,budreddi
+104,See::N,lacus,llyn
+105,Sumpf::N,palus,cors
+106,Moor::N,palus,rhos
+107,Wiese::N,pratum,dôl
+108,Wald::N,silva,coedwig
+109,Hügel::N,collis,bryn
+110,Anhöhe::N,specula,bryn
+111,Berg::N,mons,mynydd
+112,Gipfel::N,vertex,copa
+113,Höhle::N,caverna,ogof
+114,Höhle::N,spelunca,ogof
+115,Abhang::N,declivum,llethr
+116,Quelle::N,fons,tarddiad
+117,Quelle::N,fons,ffynhonnell
+118,Bach::N,rivus,nant
+119,Bach::N,rivus,afonig
+120,Bach::N,rivus,cornant
+121,Fluss::N,flumen,afon
+122,Ufer::N,ripa,glan
+123,Küste::N,litus,traeth
+124,Küste::N,litus,arfordir
+125,Festland::N,continens,tir
+126,Meer::N,mare,môr
+127,Bucht::N,sinus,bae
+128,Insel::N,insula,ynys
+129,Blume::N,flos,blodyn
+130,Gras::N,herba,glaswellt
+131,Gras::N,gramen,glaswellt
+132,Wurzel::N,radix,gwreiddyn
+133,Baum::N,arbor,coeden
+134,Stamm::N,truncus,colfen
+135,Stamm::N,truncus,boncyff
+136,Rinde::N,cortex,rhisgl
+137,Ast::N,ramus,cangen
+138,Zweig::N,ramus,cainc
+139,Zweig::N,ramus,cangen
+140,Blatt::N,folium,deilen
+141,Birke::N,betulla,bedwen
+142,Kiefer[Baum]::N,pinus,pinwydden
+143,Weide[Baum]::N,salix,helygen
+144,Tanne::N,abies,ffynidwydden
+145,Horn::N,cornu,corn
+146,Feder::N,penna,plufyn
+147,Fell::N,pellis,ffwr
+148,Flügel::N,ala,adain
+149,Klaue::N,unguis,crafanc
+150,Kralle::N,unguis,ewin
+151,Schwanz::N,cauda,cwt
+152,Schwanz::N,cauda,cynffon
+153,Ei::N,ovum,wy
+154,Nest::N,nidus,nyth
+155,Bau::N,cavum,ffau
+156,Bau::N,latibulum,ffau
+157,Tier::N,bestia,anifail
+158,Herde::N,grex,praidd
+159,Herde::N,grex,diadell
+160,Kuh::N,vacca,buwch
+161,Bulle::N,taurus,tarw
+162,Pferd::N,equus,ceffyl
+163,Schaf::N,ovis,dafad
+164,Schwein::N,sus,mochyn
+165,Schwein::N,porcus,mochyn
+166,Hund::N,canis,ci
+167,Katze::N,felis,cath
+168,Bär::N,ursus,arth
+169,Eichhörnchen::N,sciurus,gwiwer
+170,Elch::N,alces,elc
+171,Fuchs::N,vulpes,cadno
+172,Hase::N,lepus,ysgyfarnog
+173,Maus::N,mus,llygoden
+174,Wolf::N,lupus,blaidd
+175,Vogel::N,avis,aderyn
+176,Schwarm::N,examen,haid
+177,Huhn::N,gallina,cyw
+178,Hahn::N,gallus,ceiliog
+179,Gans::N,anser,gŵydd
+180,Adler::N,aquila,eryr
+181,Ente::N,anas,hwyad
+182,Eule::N,ulula,tylluan
+183,Eule::N,noctua,tylluan
+184,Kranich::N,grus,garan
+185,Kranich::N,grus,crychydd
+186,Krähe::N,cornix,brân
+187,Kuckuck::N,cuculus,cog
+188,Kuckuck::N,cuculus,cwcw
+189,Schwan::N,olor,alarch
+190,Schwan::N,cycnus,alarch
+191,Fisch::N,piscis,pysgod
+192,Barsch::N,perca,draenog
+193,Hecht::N,esox,penhwyad
+194,Schlange[Tier]::N,serpens,neidr
+195,Wurm::N,vermis,abwydyn
+196,Wurm::N,vermis,pryf genwair
+197,Spinne::N,aranea,cor
+198,Spinne::N,aranea,pryf copyn
+199,Ameise::N,formica,morgrugyn
+200,Laus::N,pediculus,lleuen
+201,Mücke::N,culex,gwybedyn
+202,Fliege::N,musca,cleren
+203,Schmetterling::N,papilio,glöyn byw
+204,Schmetterling::N,papilio,iâr fach yr haf
+205,Beere::N,baca,aeronen
+206,Apfel::N,malum,afal
+207,Pilz::N,fungus,madarch
+208,Zwiebel::N,cepa,nionyn
+209,Zwiebel::N,cepa,winwnsyn
+210,Saat::N,seges,had
+211,Korn::N,granum,grawn
+212,Heu::N,faenum,gwair
+213,Schale::N,putamen,croen
+214,Schale::N,putamen,plisgyn
+215,Grube::N,fovea,pwll
+216,Grube::N,fovea,pydew
+217,Falle::N,pedica,magl
+218,Schlinge::N,laqueus,cwlwm rhedeg
+219,Spur::N,vestigium,ôl
+220,Asche::N,cinis,lludw
+221,Dreck::N,lutum,baw
+222,Dreck::N,lutum,budreddi
+223,Eisen::N,ferrum,haearn
+224,Gold::N,aurum,aur
+225,Silber::N,argentum,arian
+226,Kohle::N,carbo,glo
+227,Glas::N,vitrum,gwydr
+228,Lehm::N,lutum,clai
+229,Sand::N,arena,tywod
+230,Mensch::N,homo,dyn
+231,Mann::N,vir,dyn
+232,Frau::N,mulier,merch
+233,Frau::N,mulier,gwraig
+234,Kind::N,puer,plentyn
+235,Kind::N,infans,plentyn
+236,Junge::N,puer,hogyn
+237,Junge::N,puer,bachgen
+238,Mädchen::N,puella,merch
+239,Mädchen::N,puella,geneth
+240,Familie::N,familia,teulu
+241,Familie::N,familia,tylwyth
+242,Großvater::N,avus,taid
+243,Großvater::N,avus,tad-cu
+244,Großmutter::N,avia,nain
+245,Großmutter::N,avia,mam-gu
+246,Eltern::N,parentes,rhieni
+247,Vater::N,pater,tad
+248,Mutter::N,mater,mam
+249,Sohn::N,filius,mab
+250,Tochter::N,filia,merch
+251,Bruder::N,frater,brawd
+252,Schwester::N,soror,chwaer
+253,Onkel::N,patruus,ewythr
+254,Onkel::N,avunculus,ewythr
+255,Tante::N,amita,modryb
+256,Ehemann::N,maritus,gŵr
+257,Ehefrau::N,uxor,gwraig
+258,Freude::N,gaudium,gorfoledd
+259,Freude::N,laetitia,gorfoledd
+260,Gelächter::N,risus,chwerthin
+261,Glück::N,felicitas,hapusrwydd
+262,Kummer::N,aegritudo,galar
+263,Wunsch::N,voluntas,dymuniad
+264,Wunsch::N,desiderium,dymuniad
+265,Lust::N,libido,chwant
+266,Lust::N,voluptas,chwant
+267,Geist::N,mens,ysbryd
+268,Geist::N,animus,ysbryd
+269,Gedanke::N,sententia,meddwl
+270,Gedächtnis::N,memoria,cof
+271,Verstand::N,ratio,meddwl
+272,Verstand::N,ingenium,meddwl
+273,Sinn::N,sensus,ystyr
+274,Grund::N,causa,achos
+275,Grund::N,causa,rheswm
+276,Wahrheit::N,veritas,gwir
+277,Wahrheit::N,veritas,gwirionedd
+278,Gespräch::N,sermo,sgwrs
+279,Märchen::N,fabula,chwedl werin
+280,Erzählung::N,fabula,stori
+281,Erzählung::N,narratio,stori
+282,Nachricht::N,nuntius,neges
+283,Neuigkeit::N,novitas,newydd
+284,Name::N,nomen,enw
+285,Rätsel::N,aenigma,pos
+286,Rede::N,oratio,araith
+287,Sprache::N,lingua,iaith
+288,Stimme::N,vox,llais
+289,Wort::N,verbum,gair
+290,Wort::N,vocabulum,gair
+291,Zeichen::N,signum,arwydd
+292,Ruf::N,clamor,galwad
+293,Lärm::N,strepitus,trwst
+294,Laut::N,sonus,sain
+295,Ton::N,sonus,tôn
+296,Lied::N,carmen,cân
+297,Ruhe::N,quies,tawelwch
+298,Leute::N,homines,pobl
+299,Volk::N,populus,pobl
+300,Arbeit::N,labor,gwaith
+301,Gast::N,hospes,gwestai
+302,Gast::N,conviva,gwestai
+303,Geschenk::N,munus,rhodd
+304,Geschenk::N,munus,anrheg
+305,Spiel::N,ludus,chwarae
+306,Gesellschaft::N,societas,cwmni
+307,Hilfe::N,auxilium,cymorth
+308,Hilfe::N,subsidium,cymorth
+309,Freund::N,amicus,cyfaill
+310,Kamerad::N,socius,cydymaith
+311,Angelegenheit::N,res,pwnc
+312,Anzahl::N,numerus,cyfrif
+313,Art::N,genus,bath
+314,Stück::N,frustum,darn
+315,Stück::N,fragmentum,darn
+316,Teil::N,pars,rhan
+317,Hälfte::N,dimidium,hanner
+318,Kreis::N,orbis,cylch
+319,Kreis::N,circus,cylch
+320,Kreuz::N,crux,croes
+321,Linie::N,linea,llinell
+322,Strich::N,lineamentum,strôc
+323,Strich::N,lineamentum,trawiad
+324,Abstand::N,intervallum,bwlch
+325,Abstand::N,intervallum,pellter
+326,Entfernung::N,spatium,pellter
+327,Gegend::N,loca,cylch
+328,Gegend::N,regio,cylch
+329,Platz::N,locus,lle
+330,Ort::N,locus,lle
+331,Seite::N,latus,ochr
+332,Mitte::N,medium,canol
+333,Gegenstand::N,res,eitem
+334,Sache::N,res,peth
+335,Rand::N,margo,cwr
+336,Rand::N,margo,ymyl
+337,Kante::N,angulus,min
+338,Kante::N,angulus,ymyl
+339,Ecke::N,angulus,cornel
+340,Spitze::N,cacumen,blaen
+341,Ende::N,caput,pen
+342,Loch::N,foramen,twll
+343,Winkel::N,angulus,congl
+344,Muster::N,exemplum,patrwm
+345,Größe::N,magnitudo,maint
+346,Größe::N,magnitudo,maintioli
+347,Länge::N,longitudo,hyd
+348,Höhe::N,altitudo,uchder
+349,Gewicht::N,pondus,pwysau
+350,Menge::N,copia,swm
+351,Menge::N,copia,maint
+352,Haufen::N,acervus,pentwr
+353,Reihe::N,ordo,rhes
+354,Boot::N,navicula,cwch
+355,Ruder::N,remus,rhwyf
+356,Schlitten::N,sclodia,sled
+357,Schlitten::N,sclodia,car llusg
+358,Ski::N,narta,sgi
+359,Lagerfeuer::N,ignis,coelcerth
+360,Last::N,onus,llwyth
+361,Gang::N,cursus,tro
+362,Schritt::N,gradus,cam
+363,Norden::N,septentriones,gogledd
+364,Süden::N,meridies,de
+365,Westen::N,occidens,gorllewin
+366,Osten::N,oriens,dwyrain
+367,Holz::N,lignum,pren
+368,Brett::N,tabula,bwrdd
+369,Brett::N,tabula,astell
+370,Platte::N,lamina,llech
+371,Stütze::N,adminiculum,ateg
+372,Stütze::N,adminiculum,cynhalydd
+373,Stange::N,pertica,polyn
+374,Stock::N,baculum,ffon
+375,Stock::N,baculum,brigyn
+376,Stab::N,scipio,ffon
+377,Rohr::N,tubus,pibell
+378,Haus::N,aedes,tŷ
+379,Heim::N,domicilium,cartref
+380,Ofen::N,fornax,stof
+381,Fußboden::N,solum,llawr
+382,Tisch::N,mensa,bwrdd
+383,Stuhl::N,sella,cadair
+384,Wiege::N,cunae,crud
+385,Bett::N,lectus,gwely
+386,Regal::N,foruli,silff
+387,Kiste::N,cista,bocs
+388,Kiste::N,cista,blwch
+389,Fenster::N,fenestra,ffenestr
+390,Tür::N,ianua,drws
+391,Tor::N,porta,porth
+392,Zaun::N,saepes,ffens
+393,Dach::N,tectum,to
+394,Leiter::N,scalae,ysgol
+395,Besen::N,scopae,ysgub
+396,Spaten::N,pala,rhaw
+397,Schaufel::N,pala,rhaw
+398,Gabel::N,fuscinula,fforc
+399,Löffel::N,coclear,llwy
+400,Messer::N,culter,cyllell
+401,Nagel::N,clavus,hoel
+402,Netz::N,rete,gwe
+403,Netz::N,rete,rhwyd
+404,Haken::N,hamus,bach
+405,Griff::N,manubrium,carn
+406,Schloss::N,claustra,clo
+407,Bild::N,tabula,llun
+408,Bild::N,tabula,pictiwr
+409,Bild::N,pictura,llun
+410,Bild::N,pictura,pictiwr
+411,Figur::N,statunculum,ffigur
+412,Puppe::N,pupa,dol
+413,Beutel::N,sacculus,cwd
+414,Bündel::N,fascis,bwndel
+415,Bündel::N,fascis,coflaid
+416,Tasche::N,sacculus,cod
+417,Eimer::N,situla,bwced
+418,Eimer::N,situla,cunnog
+419,Deckel::N,operculum,caead
+420,Geschirr::N,vasa,llestri
+421,Sack::N,saccus,sach
+422,Tasse::N,pocillum,cwpan
+423,Topf::N,olla,pot
+424,Topf::N,olla,crochan
+425,Kessel::N,aenum,tegell
+426,Essen::N,cena,pryd o fwyd
+427,Nahrung::N,cibus,bwyd
+428,Nahrung::N,alimenta,bwyd
+429,Speise::N,cibus,saig
+430,Fleisch::N,caro,cig
+431,Getreide::N,frumentum,ŷd
+432,Getreide::N,frumentum,llafur
+433,Brei::N,puls,uwd
+434,Brot::N,panis,bara
+435,Scheibe::N,frustum,tafell
+436,Fett::N,pingue,saim
+437,Fett::N,pingue,braster
+438,Butter::N,butȳrum,ymenyn
+439,Öl::N,oleum,olew
+440,Salz::N,sal,halen
+441,Suppe::N,ius,cawl
+442,Honig::N,mel,mêl
+443,Milch::N,lac,llaeth
+444,Milch::N,lac,llefrith
+445,Tee::N,thea,te
+446,Leder::N,corium,lledr
+447,Wolle::N,lana,gwlân
+448,Stoff::N,textum,lliain
+449,Stoff::N,textum,brethyn
+450,Nadel::N,acus,nodwydd
+451,Faden::N,filum,edau
+452,Faden::N,filum,edefyn
+453,Knopf::N,bulla,botwm
+454,Knoten::N,nodus,cwlwm
+455,Farbe::N,pigmentum,paent
+456,Kleidung::N,vestimenta,dillad
+457,Kleidung::N,vestimenta,gwisgoedd
+458,Hemd::N,tunica,crys
+459,Kragen::N,collare,coler
+460,Ärmel::N,manica,llawes
+461,Hose::N,bracae,trowsus
+462,Gürtel::N,cingulum,gwregys
+463,Mütze::N,pilleus,cap
+464,Schuh::N,calceus,esgid
+465,Stiefel::N,pero,botasen
+466,Stiefel::N,caliga,botasen
+467,Ring::N,anulus,modrwy
+468,Band::N,redimiculum,rhuban
+469,Kamm::N,pecten,crib
+470,Spiegel::N,speculum,drych
+471,Riemen::N,lorum,strap
+472,Schnur::N,linum,llinyn
+473,Leine::N,retinaculum,tennyn
+474,Decke::N,lodix,blanced
+475,Decke::N,lodix,gwrthban
+476,Kissen::N,pulvinus,clustog
+477,Kissen::N,pulvinus,gobennydd
+478,Tuch::N,velum,sgarff
+479,Handtuch::N,mantele,tywel
+480,Handtuch::N,mantele,lliain sychu
+481,Kraft::N,vis,grym
+482,Stärke::N,robur,nerth
+483,Stärke::N,robur,cryfder
+484,Gesundheit::N,valetudo,iechyd
+485,Krankheit::N,morbus,afiechyd
+486,Krankheit::N,morbus,anhwylder
+487,Schmerz::N,dolor,poen
+488,Schmerz::N,dolor,gwayw
+489,Wunde::N,vulnus,clwyf
+490,Fieber::N,febris,twymyn
+491,Arznei::N,remedium,meddyginiaeth
+492,Brücke::N,pons,pont
+493,Brunnen::N,puteus,ffynnon
+494,Weide::N,pascua,porfa
+495,Pfad::N,semita,llwybr
+496,Weg::N,iter,ffordd
+497,Straße::N,via,heol
+498,Straße::N,via,ffordd
+499,Dorf::N,vicus,pentref
+500,Stadt::N,urbs,tref
+501,Stadt::N,oppidum,tref
+502,Brief::N,epistula,llythyr
+503,Buch::N,liber,llyfr
+504,Buchstabe::N,littera,llythyren
+505,Zeitung::N,diurnum,papur newydd
+506,Leben::N,vita,bywyd
+507,Tod::N,mors,marwolaeth
+508,Grab::N,sepulcrum,bedd
+509,Kirche::N,ecclesia,eglwys
+510,Sünde::N,peccatum,pechod
+511,Gott::N,deus,duw
+512,Arbeiter::N,operarius,gweithiwr
+513,Chef::N,praefectus,pennaeth
+514,Meister::N,magister,meistr
+515,Arzt::N,medicus,meddyg
+516,Lehrer::N,magister,athro
+517,Geld::N,aes,pres
+518,Geld::N,aes,arian
+519,Geld::N,pecunia,pres
+520,Geld::N,pecunia,arian
+521,Geschäft::N,negotium,busnes
+522,Laden::N,taberna,siop
+523,Preis::N,pretium,pris
+524,Ware::N,merx,nwydd
+525,Nutzen::N,utilitas,elw
+526,Nutzen::N,utilitas,budd
+527,Reichtum::N,opes,cyfoeth
+528,Reichtum::N,divitiae,cyfoeth
+529,Welt::N,mundus,byd
+530,Land::N,terra,gwlad
+531,Staat::N,res publica,gwladwriaeth
+532,König::N,rex,brenin
+533,Macht::N,potestas,grym
+534,Macht::N,potestas,awdurdod
+535,Grenze::N,limes,ffin
+536,Grenze::N,limes,goror
+537,Krieg::N,bellum,rhyfel
+538,Feind::N,inimicus,gelyn
+539,Gewalt::N,vis,ffyrnigrwydd
+540,Kampf::N,pugna,brwydr
+541,Bogen[Waffe]::N,arcus,bwa
+542,Pfeil::N,sagitta,saeth
+543,Gewehr::N,sclopetum,dryll
+544,Fehler::N,error,gwall
+545,Fehler::N,error,camgymeriad
+546,Lüge::N,mendacium,celwydd
+547,Lüge::N,mendacium,anwiredd
+548,Schaden::N,damnum,niwed
+549,Schaden::N,damnum,difrod
+550,Schaden::N,detrimentum,niwed
+551,Schaden::N,detrimentum,difrod
+552,Unglück::N,miseria,anffawd
+553,Unglück::N,calamitas,anffawd
+554,Schuld::N,culpa,bai
+555,Alter::N,aetas,oed
+556,Schluss::N,finis,diwedd
+557,Zeit::N,tempus,amser
+558,Tag::N,dies,dydd
+559,Tag::N,dies,diwrnod
+560,Morgen::N,mane,bore
+561,Mittag::N,meridies,nawn
+562,Abend::N,vesper,noswaith
+563,Nacht::N,nox,nos
+564,Woche::N,septimana,wythnos
+565,Monat::N,mensis,mis
+566,Jahr::N,annus,blwyddyn
+567,Frühling::N,ver,gwanwyn
+568,Sommer::N,aestas,haf
+569,Herbst::N,autumnus,hydref
+570,Winter::N,hiems,gaeaf
+571,Januar::N,Ianuarius,Ionawr
+572,Februar::N,Februarius,Chwefror
+573,März::N,Martius,Mawrth
+574,April::N,Aprilis,Ebrill
+575,Mai::N,Maius,Mai
+576,Juni::N,Iunius,Mehefin
+577,Juli::N,Iulius,Gorffennaf
+578,August::N,Augustus,Awst
+579,September::N,September,Medi
+580,Oktober::N,Octobris,Hydref
+581,November::N,Novembris,Tachwedd
+582,Dezember::N,December,Rhagfyr
+583,Montag::N,dies lunae,dydd Llun
+584,Dienstag::N,dies Martis ,dydd Mawrth
+585,Mittwoch::N,dies Mercurii,dydd Mercher
+586,Donnerstag::N,dies Iovis,dydd Iau
+587,Freitag::N,dies Veneris,dydd Gwener
+588,Samstag::N,dies Saturni,dydd Sadwrn
+589,Sonntag::N,dominicus,dydd Sul
+590,Sonntag::N,dies solis,dydd Sul
+591,groß::A,magnus,mawr
+592,klein::A,parvus,bach
+593,lang::A,longus,hir
+594,kurz::A,brevis,byr
+595,kurz::A,brevis,cwta
+596,breit::A,latus,llydan
+597,schmal::A,angustus,cul
+598,dicht::A,densus,dwys
+599,dick[Gegenstand]::A,crassus,trwchus
+600,dünn::A,tenuis,tenau
+601,fein::A,subtilis,main
+602,fest::A,solidus,cadarn
+603,fest::A,stabilis,cadarn
+604,flach::A,planus,gwastad
+605,glatt::A,levis,llyfn
+606,hart::A,durus,caled
+607,weich::A,mollis,meddal
+608,rund::A,rotundus,crwn
+609,spitz::A,acutus,pigfain
+610,scharf::A,acer,miniog
+611,stumpf::A,hebes,pŵl
+612,schwer::A,gravis,trwm
+613,schön::A,pulcher,teg
+614,schön::A,pulcher,hardd
+615,schön::A,pulcher,prydferth
+616,schön::A,formosus,teg
+617,schön::A,formosus,hardd
+618,schön::A,formosus,prydferth
+619,heiß::A,fervidus,poeth
+620,warm::A,calidus,twym
+621,warm::A,calidus,cynnes
+622,kalt::A,frigidus,oer
+623,kühl::A,frigidus,oeraidd
+624,frisch::A,recens,iach
+625,feucht::A,umidus,llaith
+626,nass::A,madidus,gwlyb
+627,trocken::A,aridus,sych
+628,voll::A,plenus,llawn
+629,leer::A,vacuus,gwag
+630,offen::A,apertus,agored
+631,geschlossen::A,clausus,caead
+632,geschlossen::A,clausus,caeëdig
+633,sauber::A,lautus,glân
+634,schmutzig::A,sordidus,budr
+635,schmutzig::A,sordidus,brwnt
+636,roh::A,crudus,amrwd
+637,reif::A,maturus,aeddfed
+638,lecker::A,delicatus,blasus
+639,lecker::A,delicatus,danteithiol
+640,süß::A,dulcis,melys
+641,bitter::A,amarus,chwerw
+642,bitter::A,acerbus,chwerw
+643,sauer::A,acidus,sur
+644,hell::A,clarus,disglair
+645,dunkel::A,obscurus,tywyll
+646,schwarz::A,niger,du
+647,weiß::A,albus,gwyn
+648,rot::A,ruber,coch
+649,gelb::A,flavus,melyn
+650,blau::A,caeruleus,glas
+651,grün::A,viridis,gwyrdd
+652,grau::A,canus,llwyd
+653,bunt::A,varius,lliwgar
+654,billig::A,vilis,rhad
+655,teuer::A,carus,drud
+656,wertvoll::A,pretiosus,gwerthfawr
+657,blind::A,caecus,dall
+658,taub::A,surdus,byddar
+659,kräftig::A,robustus,nerthol
+660,kräftig::A,robustus,grymus
+661,stark::A,firmus,cryf
+662,stark::A,firmus,cadarn
+663,stark::A,validus,cryf
+664,stark::A,validus,cadarn
+665,schwach::A,debilis,gwan
+666,schwach::A,infirmus,gwan
+667,fett::A,crassus,tew
+668,schlank::A,procerus,main
+669,hübsch::A,pulcher,tlws
+670,böse::A,improbus,drwg
+671,dumm::A,stultus,twp
+672,dumm::A,stupidus,twp
+673,faul::A,piger,diog
+674,fleißig::A,sedulus,dyfal
+675,geizig::A,avarus,crintach
+676,geizig::A,avarus,cybyddlyd
+677,klug::A,prudens,deallus
+678,geschickt::A,sollers,medrus
+679,geschickt::A,sollers,deheuig
+680,lieb::A,carus,hoff
+681,lieb::A,carus,annwyl
+682,lustig::A,iocosus,llon
+683,sanft::A,clemens,mwyn
+684,hungrig::A,impastus,newynog
+685,krank::A,aeger,sâl
+686,krank::A,aeger,gwael
+687,nackt::A,nudus,noeth
+688,traurig::A,maestus,trist
+689,lebendig::A,vivus,yn fyw
+690,gut::A,bonus,da
+691,schlecht::A,malus,drwg
+692,schlecht::A,malus,gwael
+693,richtig::A,rectus,cywir
+694,schlimm::A,malus,enbyd
+695,wahr::A,verus,gwir
+696,alt::A,antiquus,hen
+697,neu::A,novus,newydd
+698,ehemalig::A,pristinus,blaenorol
+699,alt[Lebewesen]::A,vetus,oedrannus
+700,jung::A,iuvenis,ifanc
+701,arm::A,pauper,tlawd
+702,reich::A,dives,cyfoethog
+703,bekannt::A,notus,cynefin
+704,bekannt::A,notus,cyfarwydd
+705,berühmt::A,celeber,enwog
+706,berühmt::A,illustris,enwog
+707,fremd::A,peregrinus,estron
+708,verschieden::A,varius,gwahanol
+709,nah::A,propinquus,agos
+710,fern::A,longinquus,pell
+711,linker::A,sinister,aswy
+712,linker::A,sinister,chwith
+713,rechter::A,dexter,de
+714,rechter::A,dexter,deau
+715,anderer::A,alius,arall
+716,erster::A,primus,cyntaf
+717,zweiter::A,secundus,ail
+718,dritter::A,tertius,trydydd
+719,letzter::A,ultimus,olaf
+720,allein::ADV,solum,unig
+721,allein::ADV,solum,ar ei ben ei hun
+722,auf einmal::ADV,simul,ar yr un pryd
+723,zusammen::ADV,una,ynghyd
+724,zusammen::ADV,una,gyda'i gilydd
+725,lange::ADV,diu,amser hir
+726,plötzlich::ADV,subito,yn sydyn
+727,plötzlich::ADV,repente,yn sydyn
+728,sofort::ADV,statim,ar unwaith
+729,später::ADV,postea,yn ddiweddarach
+730,jetzt::ADV,nunc,yn awr
+731,heute::ADV,hodie,heddiw
+732,morgen::ADV,cras,yfory
+733,bald::ADV,mox,yn fuan
+734,bald::ADV,mox,gyda hyn
+735,dann::ADV,deinde,yna
+736,dann::ADV,deinde,y pryd hwnnw
+737,gestern::ADV,heri,ddoe
+738,einst::ADV,olim,gynt
+739,damals::ADV,tum,ar y pryd
+740,damals::ADV,tum,bryd hynny
+741,danach::ADV,postea,wedyn
+742,vorher::ADV,antea,o'r blaen
+743,zuerst::ADV,primo,yn gyntaf
+744,einmal::ADV,semel,unwaith
+745,manchmal::ADV,interdum,weithiau
+746,manchmal::ADV,interdum,ar brydiau
+747,oft::ADV,saepe,yn aml
+748,oft::ADV,saepe,yn fynych
+749,immer::ADV,semper,bob amser
+750,niemals::ADV,numquam,ni ... byth
+751,niemals::ADV,numquam,ni ... erioed
+752,hier::ADV,hic,yma
+753,hierhin::ADV,huc,hyd yma
+754,von hier::ADV,hinc,oddi yma
+755,dort::ADV,ibi,acw
+756,dorthin::ADV,eo,tuag yno
+757,geradeaus::ADV,recte,syth ymlaen
+758,vorwärts::ADV,porro,ymlaen
+759,rückwärts::ADV,retro,yn ôl
+760,zurück::ADV,retro,yn ôl
+761,unten::ADV,infra,isod
+762,unten::ADV,infra,oddi tanodd
+763,hinab::ADV,pessum,i lawr
+764,hinab::ADV,pessum,i waered
+765,oben::ADV,supra,fry
+766,hinauf::ADV,sursum,i fyny
+767,hinauf::ADV,sursum,i'r lan
+768,überall::ADV,ubique,ym mhobman
+769,nicht::ADV,non,ni
+770,nicht::ADV,non,nid
+771,ein wenig::ADV,paulum,tipyn
+772,ein wenig::ADV,paulum,ychydig
+773,kaum::ADV,vix,prin
+774,kaum::ADV,aegre,prin
+775,sehr::ADV,valde,iawn
+776,sehr::ADV,magnopere,iawn
+777,so::ADV,ita,fel
+778,so::ADV,ita,felly
+779,noch::ADV,etiam,eto
+780,nur::ADV,solum,yn unig
+781,nur::ADV,tantum,yn unig
+782,schon::ADV,iam,eisoes
+783,schon::ADV,iam,yn barod
+784,wieder::ADV,rursus,drachefn
+785,vergebens::ADV,frustra,yn ofer
+786,vor::PRP,ante,o flaen
+787,hinter::PRP,post,ar ôl
+788,unter::PRP,sub,islaw
+789,durch::PRP,per,trwy
+790,neben::PRP,iuxta,ar bwys
+791,zwischen::PRP,inter,rhwng
+792,zwischen::PRP,inter,cydrhwng
+793,wegen::PRP,propter,o achos
+794,wegen::PRP,propter,oherwydd
+795,dies::PRN,hoc,hyn
+796,das::PRN,id,hynny
+797,alles::PRN,omnia,popeth
+798,ich::PRN,ego,fi
+799,du::PRN,tu,ti
+800,er::PRN,is,fe
+801,er::PRN,ille,fe
+802,wir::PRN,nos,ni
+803,ihr::PRN,vos,chi
+804,sie::PRN,ii,hwy
+805,sie::PRN,illi,hwy
+806,was::FPRN,quid,pa beth
+807,wer::FPRN,quis,pwy
+808,wo::FADV,ubi,ble
+809,wo::FADV,ubi,ym mha le
+810,wohin::FADV,quo,i ble
+811,wohin::FADV,quo,i ba le
+812,wie::FADV,quomodo,sut
+813,warum::FADV,cur,pam
+814,wieviel::FNUM,quantum,faint
+815,eins::NUM,unus,un
+816,zwei::NUM,duo,dau
+817,drei::NUM,tres,tri
+818,vier::NUM,quattuor,pedwar
+819,fünf::NUM,quinque,pump
+820,sechs::NUM,sex,chwech
+821,sieben::NUM,septem,saith
+822,acht::NUM,octo,wyth
+823,neun::NUM,novem,naw
+824,zehn::NUM,decem,deg
+825,elf::NUM,undecim,un ar ddeg
+826,zwölf::NUM,duodecim,deuddeg
+827,zwölf::NUM,duodecim,un deg dau
+828,zwanzig::NUM,viginti,ugain
+829,dreißig::NUM,triginta,tri deg
+830,dreißig::NUM,triginta,deg ar hugain
+831,vierzig::NUM,quadraginta,deugain
+832,fünfzig::NUM,quinquaginta,hanner cant
+833,sechzig::NUM,sexaginta,chwe deg
+834,siebzig::NUM,septuaginta,saith deg
+835,siebzig::NUM,septuaginta,deg a thrigain
+836,achtzig::NUM,octoginta,wyth deg
+837,achtzig::NUM,octoginta,pedar ugain
+838,neunzig::NUM,nonaginta,naw deg
+839,neunzig::NUM,nonaginta,deg a phedwar ugain
+840,hundert::NUM,centum,cant
+841,tausend::NUM,mille,mil
+842,und::CNJ,et,a
+843,und::CNJ,-que,a
+844,oder::CNJ,vel,neu
+845,stehen::V,stare,sefyll
+846,sitzen::V,sedere,eistedd
+847,liegen::V,iacere,gorwedd
+848,hängen::V,pendere,hongian
+849,werden::V,fieri,dod yn
+850,werden::V,fieri,mynd yn
+851,passieren::V,accidere,digwydd
+852,beginnen::V,incipere,cychwyn
+853,enden::V,finem habere,gorffen
+854,wechseln::V,mutari,newid
+855,aufgehen[Sonne]::V,oriri,codi
+856,untergehen[Sonne]::V,occidere,machlud
+857,scheinen[Sonne]::V,lucere,tywynnu
+858,donnern::V,tonare,taranu
+859,wehen::V,flare,chwythu
+860,strömen::V,fluere,ffrydio
+861,fließen::V,manare,llifo
+862,sich drehen::V,torqueri,troi
+863,sich drehen::V,torqueri,cylchdroi
+864,schwanken::V,vacillare,siglo
+865,schwingen::V,vibrare,siglo
+866,fallen::V,cadere,cwympo
+867,brennen::V,ardere,llosgi
+868,rauchen::V,fumare,mygu
+869,regnen::V,pluere,glawio
+870,gefrieren::V,congelari,rhewi
+871,tauen::V,rorare,toddi
+872,tauen::V,rorare,meirioli
+873,schmelzen::V,liquescere,toddi
+874,trocknen::V,arescere,sychu
+875,sieden::V,fervere,berwi
+876,faulen::V,putescere,pydru
+877,faulen::V,putescere,braenu
+878,verfaulen::V,putescere,pydru
+879,verfaulen::V,putescere,dadfeilio
+880,reißen::V,scindi,clecian
+881,reißen::V,scindi,torri'n glats
+882,versinken::V,mergi,suddo
+883,vergehen::V,praeterire,myned heibio
+884,vergehen::V,praeterire,pasio
+885,erscheinen::V,apparere,ymddangos
+886,verschwinden::V,discedere,diflannu
+887,sinken::V,labi,syrthio
+888,abnehmen::V,deminui,lleihau
+889,zunehmen::V,augeri,cynyddu
+890,steigen::V,augescere,codi
+891,wachsen::V,crescere,tyfu
+892,glänzen::V,splendere,disgleirio
+893,funkeln::V,micare,pefrio
+894,lärmen::V,strepere,cadw sŵn
+895,lärmen::V,strepere,gwneud twrw
+896,läuten::V,sonare,canu
+897,klingeln::V,tinnire,canu
+898,klingeln::V,tinnire,seinio
+899,klirren::V,crepare,tincian
+900,brausen::V,saevire,rhuo
+901,rauschen::V,crepare,siffrwd
+902,rauschen::V,crepare,chwithrwd
+903,klingen::V,sonare,seinio
+904,bellen::V,latrare,cyfarth
+905,heulen::V,ululare,udo
+906,heulen::V,ululare,oernadu
+907,blasen::V,flare,chwythu
+908,pfeifen::V,sibilare,chwibanu
+909,schreien::V,clamare,gweiddi
+910,schreien::V,clamare,bloeddio
+911,stöhnen::V,gemere,griddfan
+912,zittern::V,tremere,crynu
+913,zittern::V,trepidare,crynu
+914,leben::V,vivere,byw
+915,geboren werden::V,nasci,cael eich geni
+916,atmen::V,spirare,anadlu
+917,trinken::V,bibere,yfed
+918,essen::V,edere,bwyta
+919,schlucken::V,devorare,llyncu
+920,müde werden::V,fatigari,blino
+921,einschlafen::V,obdormiscere,mynd i gysgu
+922,einschlafen::V,obdormiscere,syrthio i gysgu
+923,schlafen::V,dormire,huno
+924,schlafen::V,dormire,cysgu
+925,aufwachen::V,expergisci,dihuno
+926,aufstehen::V,exsurgere,codi
+927,sich erholen::V,se reficere,ymlacio
+928,sich erholen::V,se reficere,dadflino
+929,krank werden::V,aegrescere,mynd yn sâl
+930,krank werden::V,aegrescere,mynd yn wael
+931,krank sein::V,aegrotare,gwaelu
+932,schmerzen::V,dolere,brifo
+933,husten::V,tussire,pesychu
+934,genesen::V,convalescere,gwella
+935,genesen::V,convalescere,cael yn ôl
+936,sterben::V,mori,marw
+937,umkommen::V,perire,trengi
+938,sich bewegen::V,se movere,symud
+939,sich rühren::V,micare,syflyd
+940,sich erheben::V,surgere,codi
+941,sich setzen::V,considere,eistedd
+942,hinfallen::V,cadere,cwympo
+943,laufen::V,vadere,cerdded
+944,schreiten::V,gradi,camu
+945,spazierengehen::V,ambulare,mynd am dro
+946,eilen::V,properare,rhuthro
+947,sich beeilen::V,festinare,brysio
+948,sausen::V,currere,rhuthro
+949,rennen::V,currere,rhedeg
+950,springen::V,salire,llamu
+951,springen::V,salire,neidio
+952,klettern::V,niti,dringo
+953,schaukeln::V,oscillare,siglo
+954,kriechen::V,repere,cropian
+955,kriechen::V,serpere,cropian
+956,schwimmen::V,nare,nofio
+957,schwimmen::V,natare,nofio
+958,tauchen::V,mergere,plymio
+959,tauchen::V,mergere,ymsuddo
+960,rudern::V,remigare,rhwyfo
+961,fahren::V,vehi,gyrru
+962,fahren::V,vehi,dreifio
+963,fliegen::V,volare,hedfan
+964,gehen::V,ire,mynd
+965,gehen::V,vadere,mynd
+966,weggehen::V,abire,mynd
+967,weggehen::V,abire,ymadael
+968,weggehen::V,discedere,mynd
+969,weggehen::V,discedere,ymadael
+970,abfahren::V,proficisci,ymadael
+971,anhalten::V,consistere,stopio
+972,hineingehen::V,inire,mynd i mewn
+973,hineingehen::V,ingredi,mynd i mewn
+974,eintreten::V,intrare,mynd i
+975,kommen::V,venire,dod
+976,ankommen::V,advenire,cyrraedd
+977,zurückkommen::V,revenire,dychwelyd
+978,bleiben::V,manere,aros
+979,bleiben::V,manere,sefyll
+980,warten::V,opperiri,aros
+981,warten::V,opperiri,disgwyl
+982,erwarten::V,opperiri,disgwyl
+983,erwarten::V,expectare,disgwyl
+984,suchen::V,quaerere,chwilio am
+985,finden::V,reperire,darganfod
+986,versuchen::V,conari,profi
+987,versuchen::V,conari,ceisio
+988,versuchen::V,temptare,profi
+989,versuchen::V,temptare,ceisio
+990,vorbereiten::V,parare,paratoi
+991,lieben::V,amare,caru
+992,mögen::V,amare,hoffi
+993,lachen::V,ridere,chwerthin
+994,rühren::V,commovere,cynhyrfu
+995,weinen::V,flere,wylo
+996,weinen::V,flere,llefain
+997,schimpfen::V,increpare,grwgnach
+998,sich ärgern::V,indignari,gofidio
+999,sich fürchten::V,vereri,ofni
+1000,fürchten::V,timere,arswydo
+1001,fliehen::V,fugere,ffoi
+1002,flüchten::V,effugere,dianc
+1003,sehen::V,videre,gweld
+1004,anschauen::V,aspectare,syllu
+1005,anschauen::V,aspectare,edrych
+1006,ansehen::V,spectare,gwylio
+1007,hören::V,audire,clywed
+1008,zuhören::V,auscultare,gwrando
+1009,probieren::V,gustare,profi
+1010,riechen::V,olfacere,arogli
+1011,fühlen::V,sentire,teimlo
+1012,fühlen::V,sentire,clywed
+1013,scheinen::V,videri,ymddangos
+1014,zu sehen sein::V,conspici,dod i'r golwg
+1015,vernehmen::V,comperire,clywed sôn am
+1016,frieren::V,algere,bod yn oer
+1017,tun::V,facere,gwneud
+1018,können::V,posse,gallu
+1019,wollen::V,velle,bod mewn angen
+1020,anfangen::V,incipere,dechrau
+1021,beenden::V,finire,darfod
+1022,beenden::V,finire,gorffen
+1023,aufhören::V,desistere,peidio
+1024,gelingen::V,contingere,llwyddo
+1025,geraten::V,evenire,diweddu
+1026,öffnen::V,aperire,agor
+1027,schließen::V,claudere,cau
+1028,stellen::V,sistere,gosod
+1029,setzen::V,ponere,gosod
+1030,legen::V,ponere,gosod
+1031,berühren::V,tangere,cyffwrdd
+1032,verbinden::V,iungere,cysylltu
+1033,bedecken::V,tegere,gorchuddio
+1034,bedecken::V,operire,gorchuddio
+1035,aufhängen::V,suspendere,crogi
+1036,aufhängen::V,suspendere,hongian
+1037,anzünden::V,accendere,cynnau
+1038,anzünden::V,inflammare,cynnau
+1039,aufheben::V,tollere,codi
+1040,zurücklassen::V,relinquere,gadael
+1041,verlieren::V,perdere,colli
+1042,verlieren::V,amittere,colli
+1043,fallen lassen::V,dimittere,gollwng
+1044,machen::V,facere,gwneud
+1045,herstellen::V,fabricare,cynhyrchu
+1046,bauen::V,construere,adeiladu
+1047,reparieren::V,reparare,trwsio
+1048,reparieren::V,reparare,atgyweirio
+1049,verbessern::V,emendare,diwygio
+1050,ändern::V,mutare,altro
+1051,graben::V,fodere,palu
+1052,graben::V,fodere,cloddio
+1053,beugen::V,flectere,plygu
+1054,biegen::V,curvare,plygu
+1055,drehen::V,torquere,troelli
+1056,wenden::V,vertere,troi
+1057,umdrehen::V,convertere,troi
+1058,heben::V,tollere,codi
+1059,hochheben::V,levare,dyrchafu
+1060,ergreifen::V,capessere,gafael
+1061,halten::V,tenere,dal
+1062,drücken::V,premere,pwyso
+1063,drücken::V,premere,gwasgu
+1064,schieben::V,promovere,gwthio
+1065,kratzen::V,radere,crafu
+1066,lecken::V,lambere,llyfu
+1067,beißen::V,mordere,cnoi
+1068,beißen::V,mordere,brathu
+1069,abreißen::V,avellere,tynnu ymaith
+1070,abschneiden::V,desecare,torri
+1071,binden::V,ligare,clymu
+1072,stecken::V,inserere,plannu
+1073,brechen::V,rumpere,torri
+1074,klopfen::V,pultare,taro
+1075,hauen::V,ferire,taro
+1076,kleben::V,agglutinare,gludio
+1077,reiben::V,terere,rhwbio
+1078,streichen::V,oblinere,taenu
+1079,schleifen::V,acuere,hogi
+1080,schneiden::V,secare,torri
+1081,rütteln::V,quassare,ysgytio
+1082,schütteln::V,quatere,siglo
+1083,schütteln::V,quatere,ysgwyd
+1084,schwenken::V,ventilare,siglo
+1085,schütten::V,fundere,tywallt
+1086,füllen::V,complere,llenwi
+1087,einwickeln::V,involvere,lapio
+1088,tragen::V,ferre,cludo
+1089,tragen::V,portare,cludo
+1090,schleppen::V,pertrahere,llusgo
+1091,ziehen::V,trahere,tynnu
+1092,aufbewahren::V,asservare,cadw
+1093,werfen::V,iacere,taflu
+1094,fangen::V,capere,dal
+1095,packen::V,capessere,cipio
+1096,packen::V,capessere,crafangu
+1097,verstecken::V,abdere,celu
+1098,verstecken::V,abdere,cuddio
+1099,teilen::V,partiri,rhannu
+1100,teilen::V,dividere,rhannu
+1101,schicken::V,mittere,anfon
+1102,bringen::V,apportare,dod â
+1103,hinzufügen::V,addere,chwanegu
+1104,bekommen::V,adipisci,cael
+1105,erhalten::V,accipere,derbyn
+1106,nehmen::V,sumere,cymryd
+1107,wählen::V,eligere,dewis
+1108,auswählen::V,deligere,dethol
+1109,bewahren::V,conservare,cadw
+1110,behindern::V,impedire,atal
+1111,behindern::V,impedire,rhwystro
+1112,verderben::V,corrumpere,difetha
+1113,beschädigen::V,laedere,niweidio
+1114,zerbrechen::V,rumpere,torri
+1115,zerbrechen::V,frangere,torri
+1116,zerreißen::V,discindere,rhwygo
+1117,zerstören::V,delere,dinistrio
+1118,verbrennen::V,urere,llosgi
+1119,verbrennen::V,cremare,llosgi
+1120,geben::V,dare,rhoi
+1121,reichen::V,praebere,estyn
+1122,schenken::V,donare,rhoddi
+1123,schenken::V,largiri,rhoddi
+1124,versprechen::V,polliceri,addo
+1125,versprechen::V,promittere,addo
+1126,loben::V,laudare,canmol
+1127,küssen::V,osculari,cusanu
+1128,zudecken::V,tegere,gorchuddio
+1129,wecken::V,excitare,deffro
+1130,zeigen::V,monstrare,dangos
+1131,führen::V,ducere,arwain
+1132,lehren::V,docere,dysgu
+1133,unterrichten::V,instituere,hyfforddi
+1134,aufziehen::V,nutrire,dod i fyny
+1135,leiten::V,ducere,arwain
+1136,antreiben::V,incitare,annog
+1137,lassen::V,iubere,gadael
+1138,einladen::V,invitare,gwahodd
+1139,vereinigen::V,coniungere,uno
+1140,vereinigen::V,coniungere,cyfuno
+1141,besuchen::V,visere,ymweld â
+1142,treffen::V,convenire,cwrdd
+1143,treffen::V,convenire,cyfarfod
+1144,sich versammeln::V,convenire,casglu
+1145,sich versammeln::V,convenire,cynnull
+1146,spielen::V,ludere,chwarae
+1147,singen::V,cantare,canu
+1148,tanzen::V,saltare,dawnsio
+1149,sich trennen::V,digredi,ymwahanu
+1150,sich trennen::V,discedere,ymwahanu
+1151,verlassen::V,deserere,gadael
+1152,verlassen::V,relinquere,gadael
+1153,retten::V,servare,achub
+1154,bewachen::V,custodire,gwarchod
+1155,schützen::V,tueri,noddi
+1156,schützen::V,tutari,noddi
+1157,verteidigen::V,defendere,amddiffyn
+1158,sich schlagen::V,luctari,ffraeo
+1159,sich schlagen::V,luctari,terfysgu
+1160,schießen::V,iaculari,saethu
+1161,siegen::V,vincere,ennill
+1162,ärgern::V,irritare,cythruddo
+1163,schlagen::V,ferire,curo
+1164,treten::V,calcare,cicio
+1165,stechen::V,pungere,pigo
+1166,stoßen::V,tundere,gwthio
+1167,stehlen::V,furari,dwyn
+1168,stehlen::V,furari,lladrata
+1169,stören::V,turbare,aflonyddu
+1170,belästigen::V,obtundere,trafferthu
+1171,verbergen::V,celare,cuddio
+1172,verbergen::V,occultare,cuddio
+1173,täuschen::V,fallere,twyllo
+1174,betrügen::V,fraudare,hocedu
+1175,töten::V,necare,lladd
+1176,töten::V,caedere,lladd
+1177,wohnen::V,habitare,byw
+1178,arbeiten::V,laborare,gweithio
+1179,sammeln::V,colligere,casglu
+1180,pflücken::V,carpere,casglu
+1181,jagen::V,venari,hela
+1182,fischen::V,piscari,pysgota
+1183,fassen::V,capere,dal
+1184,hüten::V,custodire,bugeilio
+1185,treiben::V,agere,gyrru
+1186,anbinden::V,alligare,clymu
+1187,füttern::V,nutrire,porthi
+1188,melken::V,mulgere,godro
+1189,hacken::V,findere,torri
+1190,gießen::V,rigare,dyfrhau
+1191,reifen::V,maturescere,aeddfedu
+1192,zubereiten::V,apparare,coginio
+1193,kochen::V,coquere,berwi
+1194,backen::V,coquere,pobi
+1195,backen::V,coquere,crasu
+1196,braten::V,torrere,ffrio
+1197,umrühren::V,commovere,cyffroi
+1198,stricken::V,texere,gwau
+1199,nähen::V,suere,gwnïo
+1200,färben::V,tingere,lliwio
+1201,reinigen::V,purgare,glanhau
+1202,waschen::V,lavare,golchi
+1203,abwischen::V,abstergere,sychu
+1204,spülen::V,perluere,streulio
+1205,fegen::V,verrere,ysgubo
+1206,kehren::V,purgare,ysgubo
+1207,baden::V,lavari,cael bath
+1208,sich waschen::V,lavari,ymolchi
+1209,ausziehen::V,exuere,tynnu
+1210,anziehen::V,induere,gwisgo
+1211,sich anziehen::V,vestiri,ymwisgo
+1212,kämmen::V,pectere,cribo
+1213,schmücken::V,ornare,harddu
+1214,schmücken::V,ornare,addurno
+1215,schmücken::V,decorare,harddu
+1216,schmücken::V,decorare,addurno
+1217,sagen::V,dicere,dweud
+1218,sprechen::V,fari,llefaru
+1219,reden::V,loqui,siarad
+1220,sich unterhalten::V,colloqui,sgwrsio
+1221,sich unterhalten::V,disputare,sgwrsio
+1222,fragen::V,rogare,gofyn
+1223,fragen::V,quaerere,gofyn
+1224,bitten::V,orare,gofyn am
+1225,bitten::V,rogare,gofyn am
+1226,erzählen::V,narrare,dweud
+1227,mitteilen::V,communicare,cyfleu
+1228,nennen::V,appellare,enwi
+1229,rufen::V,vocare,galw
+1230,prahlen::V,gloriari,brolio
+1231,prahlen::V,gloriari,ymffrostio
+1232,übersetzen::V,vertere,cyfieithu
+1233,denken::V,cogitare,meddwl
+1234,glauben::V,credere,credu
+1235,glauben::V,credere,coelio
+1236,bemerken::V,animadvertere,sylwi
+1237,erkennen::V,cognoscere,adnabod
+1238,begreifen::V,comprehendere,amgyffred
+1239,verstehen::V,intellegere,deall
+1240,lernen::V,discere,dysgu
+1241,wissen::V,scire,gwybod
+1242,sich erinnern an::V,meminisse,cofio
+1243,vergessen::V,oblivisci,anghofio
+1244,messen::V,metiri,mesur
+1245,zählen::V,numerare,cyfrif
+1246,rechnen::V,reri,cyfrifo
+1247,rechnen::V,calculare,cyfrifo
+1248,lesen::V,legere,darllen
+1249,malen::V,pingere,peintio
+1250,zeichnen::V,scribere,tynnu
+1251,schreiben::V,scribere,ysgrifennu
+1252,besitzen::V,possidere,meddu
+1253,kaufen::V,emere,prynu
+1254,verkaufen::V,vendere,gwerthu
+1255,bezahlen::V,pendere,talu am
+1256,zahlen::V,solvere,talu
+1257,beherrschen::V,regere,rheoli
+1258,beherrschen::V,regere,llywodraethu
+1259,beherrschen::V,imperare,rheoli
+1260,beherrschen::V,imperare,llywodraethu
+1261,ertragen::V,tolerare,dioddef
+1262,ertragen::V,sustinere,dioddef
+1263,wünschen::V,,dymuno
+1264,wiegen::V,,siglo

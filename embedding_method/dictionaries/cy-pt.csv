@@ -1,0 +1,1451 @@
+,Concept_ID,cy,pt
+0,Auge::N,llygad,olho
+1,Ohr::N,clust,orelha
+2,Nase::N,trwyn,nariz
+3,Mund::N,ceg,boca
+4,Zahn::N,dant,dente
+5,Zunge::N,tafod,língua
+6,Lippe::N,gwefus,lábio
+7,Wange::N,boch,face
+8,Gesicht::N,wyneb,cara
+9,Gesicht::N,wyneb,rosto
+10,Stirn::N,talcen,testa
+11,Haar::N,blew,cabelo
+12,Schnurrbart::N,mwstas,bigode
+13,Bart::N,barf,barba
+14,Kinn::N,gên,queixo
+15,Kiefer[Anatomie]::N,gên,maxila
+16,Kiefer[Anatomie]::N,gên,mandíbula
+17,Kehle::N,gwddf,garganta
+18,Hals::N,gwddf,colo
+19,Hals::N,gwddf,pescoço
+20,Genick::N,gwar,nuca
+21,Genick::N,gwegil,nuca
+22,Kopf::N,pen,cabeça
+23,Rücken::N,cefn,dorso
+24,Rücken::N,cefn,costas
+25,Bauch::N,bol,ventre
+26,Bauch::N,bol,barriga
+27,Nabel::N,bogail,umbigo
+28,Busen::N,bron,seio
+29,Brust::N,brest,peito
+30,Schulter::N,ysgwydd,ombro
+31,Arm::N,braich,braço
+32,Ellenbogen::N,penelin,cotovelo
+33,Hand::N,llaw,mão
+34,Handfläche::N,palf,palma
+35,Handfläche::N,palf,palma da mão
+36,Finger::N,bys,dedo
+37,Fingernagel::N,ewin,unha
+38,Nagel[Anatomie]::N,ewin,unha
+39,Zeh::N,bys troed,dedo do pé
+40,Fuß::N,troed,pé
+41,Ferse::N,sawdl,calcanhar
+42,Knie::N,glin,joelho
+43,Oberschenkel::N,clun,coxa
+44,Bein::N,coes,perna
+45,Körper::N,corff,corpo
+46,Haut::N,croen,pele
+47,Blut::N,gwaed,sangue
+48,Ader::N,gwythïen,veia
+49,Sehne::N,gewyn,tendão
+50,Knochen::N,asgwrn,osso
+51,Gehirn::N,ymennydd,cérebro
+52,Herz::N,calon,coração
+53,Magen::N,cylla,estômago
+54,Magen::N,stumog,estômago
+55,Leber::N,iau,fígado
+56,Atem::N,anadl,fôlego
+57,Hunger::N,newyn,fome
+58,Träne::N,deigryn,lágrima
+59,Geschmack::N,cyflas,gosto
+60,Geruch::N,aroglau,odor
+61,Geruch::N,aroglau,cheiro
+62,Schlaf::N,cwsg,sono
+63,Traum::N,breuddwyd,sonho
+64,Himmel::N,awyr,céu
+65,Sonne::N,haul,sol
+66,Mond::N,lleuad,lua
+67,Stern::N,seren,estrela
+68,Luft::N,awyr,ar
+69,Wind::N,gwynt,vento
+70,Welle::N,ton,onda
+71,Wasser::N,dŵr,água
+72,Stein::N,carreg,pedra
+73,Boden::N,llawr,solo
+74,Erde::N,pridd,terra
+75,Staub::N,llwch,pó
+76,Rauch::N,mwg,fumo
+77,Funke::N,gwreichioni,faísca
+78,Funke::N,gwreichioni,centelha
+79,Feuer::N,tân,fogo
+80,Licht::N,golau,luz
+81,Schatten::N,cysgod,sombra
+82,Wetter::N,tywydd,tempo
+83,Nebel::N,niwl,nevoeiro
+84,Wolke::N,cwmwl,nuvem
+85,Regen::N,glaw,chuva
+86,Schnee::N,ôd,neve
+87,Schnee::N,eira,neve
+88,Eis::N,iâ,gelo
+89,Frost::N,rhew,gelo
+90,Frost::N,rhew,geada
+91,Kälte::N,oerni,frio
+92,Kälte::N,annwyd,frio
+93,Hitze::N,gwres,ardor
+94,Raureif::N,barrug,geada
+95,Regenbogen::N,enfys,arco-iris
+96,Donner::N,tyrfau,trovão
+97,Strömung::N,cerrynt,corrente
+98,Tropfen::N,dafn,gota
+99,Tropfen::N,diferyn,gota
+100,Schaum::N,ewyn,espuma
+101,Schmutz::N,baw,sujidade
+102,Schmutz::N,baw,imundície
+103,Schmutz::N,budreddi,sujidade
+104,Schmutz::N,budreddi,imundície
+105,See::N,llyn,lago
+106,Sumpf::N,cors,charco
+107,Sumpf::N,cors,pântano
+108,Moor::N,rhos,pântano
+109,Wiese::N,dôl,prado
+110,Wald::N,coedwig,bosque
+111,Wald::N,coedwig,floresta
+112,Hügel::N,bryn,colina
+113,Anhöhe::N,bryn,alto
+114,Anhöhe::N,bryn,outeiro
+115,Berg::N,mynydd,monte
+116,Berg::N,mynydd,montanha
+117,Gipfel::N,copa,pico
+118,Höhle::N,ogof,caverna
+119,Abhang::N,llethr,encosta
+120,Quelle::N,tarddiad,fonte
+121,Quelle::N,ffynhonnell,fonte
+122,Bach::N,nant,regato
+123,Bach::N,nant,ribeiro
+124,Bach::N,afonig,regato
+125,Bach::N,afonig,ribeiro
+126,Bach::N,cornant,regato
+127,Bach::N,cornant,ribeiro
+128,Fluss::N,afon,rio
+129,Ufer::N,glan,beira
+130,Küste::N,traeth,costa
+131,Küste::N,arfordir,costa
+132,Festland::N,tir,terra firme
+133,Meer::N,môr,mar
+134,Bucht::N,bae,baía
+135,Insel::N,ynys,ilha
+136,Blume::N,blodyn,flor
+137,Gras::N,glaswellt,erva
+138,Wurzel::N,gwreiddyn,raiz
+139,Baum::N,coeden,árvore
+140,Stamm::N,colfen,tronco
+141,Stamm::N,boncyff,tronco
+142,Rinde::N,rhisgl,casca
+143,Ast::N,cangen,ramo
+144,Zweig::N,cainc,galho
+145,Zweig::N,cangen,galho
+146,Blatt::N,deilen,folha
+147,Birke::N,bedwen,bétula
+148,Kiefer[Baum]::N,pinwydden,pinheiro
+149,Weide[Baum]::N,helygen,salgueiro
+150,Tanne::N,ffynidwydden,abeto
+151,Horn::N,corn,corno
+152,Horn::N,corn,chifre
+153,Feder::N,plufyn,pena
+154,Fell::N,ffwr,pele
+155,Flügel::N,adain,asa
+156,Klaue::N,crafanc,pata
+157,Kralle::N,ewin,unha
+158,Kralle::N,ewin,garra
+159,Schwanz::N,cwt,rabo
+160,Schwanz::N,cwt,cauda
+161,Schwanz::N,cynffon,rabo
+162,Schwanz::N,cynffon,cauda
+163,Ei::N,wy,ovo
+164,Nest::N,nyth,ninho
+165,Bau::N,ffau,toca
+166,Bau::N,ffau,covil
+167,Tier::N,anifail,animal
+168,Herde::N,praidd,rebanho
+169,Herde::N,diadell,rebanho
+170,Kuh::N,buwch,vaca
+171,Bulle::N,tarw,touro
+172,Pferd::N,ceffyl,cavalo
+173,Schaf::N,dafad,ovelha
+174,Schwein::N,mochyn,porco
+175,Hund::N,ci,cão
+176,Katze::N,cath,gata
+177,Bär::N,arth,urso
+178,Eichhörnchen::N,gwiwer,esquilo
+179,Elch::N,elc,alce
+180,Fuchs::N,cadno,raposa
+181,Hase::N,ysgyfarnog,lebre
+182,Maus::N,llygoden,rato
+183,Wolf::N,blaidd,lobo
+184,Vogel::N,aderyn,ave
+185,Vogel::N,aderyn,pássaro
+186,Schwarm::N,haid,bando
+187,Schwarm::N,haid,enxame
+188,Huhn::N,cyw,galinha
+189,Hahn::N,ceiliog,galo
+190,Gans::N,gŵydd,ganso
+191,Adler::N,eryr,águia
+192,Ente::N,hwyad,pata
+193,Eule::N,tylluan,mocho
+194,Eule::N,tylluan,coruja
+195,Kranich::N,garan,grou
+196,Kranich::N,crychydd,grou
+197,Krähe::N,brân,gralha
+198,Kuckuck::N,cog,cuco
+199,Kuckuck::N,cwcw,cuco
+200,Schwan::N,alarch,cisne
+201,Fisch::N,pysgod,peixe
+202,Barsch::N,draenog,perca
+203,Hecht::N,penhwyad,lúcio
+204,Schlange[Tier]::N,neidr,serpente
+205,Wurm::N,abwydyn,verme
+206,Wurm::N,pryf genwair,verme
+207,Spinne::N,cor,aranha
+208,Spinne::N,pryf copyn,aranha
+209,Ameise::N,morgrugyn,formiga
+210,Laus::N,lleuen,piolho
+211,Mücke::N,gwybedyn,mosquito
+212,Fliege::N,cleren,mosca
+213,Schmetterling::N,glöyn byw,borboleta
+214,Schmetterling::N,iâr fach yr haf,borboleta
+215,Beere::N,aeronen,bago
+216,Apfel::N,afal,maçã
+217,Pilz::N,madarch,fungo
+218,Pilz::N,madarch,cogumelo
+219,Zwiebel::N,nionyn,cebola
+220,Zwiebel::N,winwnsyn,cebola
+221,Saat::N,had,sementeira
+222,Korn::N,grawn,grão
+223,Heu::N,gwair,feno
+224,Schale::N,croen,casca
+225,Schale::N,plisgyn,casca
+226,Grube::N,pwll,cova
+227,Grube::N,pwll,fossa
+228,Grube::N,pydew,cova
+229,Grube::N,pydew,fossa
+230,Falle::N,magl,armadilha
+231,Schlinge::N,cwlwm rhedeg,laço
+232,Spur::N,ôl,pista
+233,Spur::N,ôl,vestígio
+234,Asche::N,lludw,cinza
+235,Dreck::N,baw,sujidade
+236,Dreck::N,budreddi,sujidade
+237,Eisen::N,haearn,ferro
+238,Gold::N,aur,ouro
+239,Silber::N,arian,prata
+240,Kohle::N,glo,carvão
+241,Glas::N,gwydr,vidro
+242,Lehm::N,clai,barro
+243,Lehm::N,clai,argila
+244,Sand::N,tywod,areia
+245,Mensch::N,dyn,homem
+246,Mensch::N,dyn,pessoa
+247,Mann::N,dyn,homem
+248,Frau::N,merch,mulher
+249,Frau::N,gwraig,mulher
+250,Kind::N,plentyn,filho
+251,Kind::N,plentyn,criança
+252,Junge::N,hogyn,rapaz
+253,Junge::N,hogyn,menino
+254,Junge::N,bachgen,rapaz
+255,Junge::N,bachgen,menino
+256,Mädchen::N,merch,menina
+257,Mädchen::N,merch,rapariga
+258,Mädchen::N,geneth,menina
+259,Mädchen::N,geneth,rapariga
+260,Familie::N,teulu,família
+261,Familie::N,tylwyth,família
+262,Großvater::N,taid,avô
+263,Großvater::N,tad-cu,avô
+264,Großmutter::N,nain,avó
+265,Großmutter::N,mam-gu,avó
+266,Eltern::N,rhieni,pais
+267,Vater::N,tad,pai
+268,Mutter::N,mam,mãe
+269,Sohn::N,mab,filho
+270,Tochter::N,merch,filha
+271,Bruder::N,brawd,irmão
+272,Schwester::N,chwaer,irmã
+273,Onkel::N,ewythr,tio
+274,Tante::N,modryb,tia
+275,Ehemann::N,gŵr,esposo
+276,Ehefrau::N,gwraig,esposa
+277,Freude::N,gorfoledd,prazer
+278,Freude::N,gorfoledd,alegria
+279,Gelächter::N,chwerthin,risada
+280,Gelächter::N,chwerthin,gargalhada
+281,Glück::N,hapusrwydd,felicidade
+282,Kummer::N,galar,aflição
+283,Kummer::N,galar,desgosto
+284,Wunsch::N,dymuniad,desejo
+285,Lust::N,chwant,vontade
+286,Geist::N,ysbryd,mente
+287,Geist::N,ysbryd,espírito
+288,Gedanke::N,meddwl,ideia
+289,Gedanke::N,meddwl,pensamento
+290,Gedächtnis::N,cof,memória
+291,Verstand::N,meddwl,razão
+292,Verstand::N,meddwl,inteligência
+293,Sinn::N,ystyr,sentido
+294,Sinn::N,ystyr,significado
+295,Grund::N,achos,causa
+296,Grund::N,achos,motivo
+297,Grund::N,rheswm,causa
+298,Grund::N,rheswm,motivo
+299,Wahrheit::N,gwir,verdade
+300,Wahrheit::N,gwirionedd,verdade
+301,Gespräch::N,sgwrs,conversa
+302,Gespräch::N,sgwrs,conversação
+303,Märchen::N,chwedl werin,conto
+304,Erzählung::N,stori,conto
+305,Erzählung::N,stori,narrativa
+306,Nachricht::N,neges,mensagem
+307,Neuigkeit::N,newydd,notícia
+308,Neuigkeit::N,newydd,novidade
+309,Name::N,enw,nome
+310,Rätsel::N,pos,adivinha
+311,Rede::N,araith,oração
+312,Rede::N,araith,discurso
+313,Sprache::N,iaith,língua
+314,Stimme::N,llais,voz
+315,Wort::N,gair,palavra
+316,Zeichen::N,arwydd,marca
+317,Ruf::N,galwad,grito
+318,Ruf::N,galwad,chamada
+319,Lärm::N,trwst,ruído
+320,Lärm::N,trwst,barulho
+321,Laut::N,sain,som
+322,Ton::N,tôn,tom
+323,Lied::N,cân,canção
+324,Ruhe::N,tawelwch,calma
+325,Ruhe::N,tawelwch,silêncio
+326,Leute::N,pobl,gente
+327,Leute::N,pobl,pessoas
+328,Volk::N,pobl,povo
+329,Volk::N,pobl,nação
+330,Arbeit::N,gwaith,trabalho
+331,Gast::N,gwestai,hóspede
+332,Gast::N,gwestai,convidado
+333,Geschenk::N,rhodd,prenda
+334,Geschenk::N,rhodd,presente
+335,Geschenk::N,anrheg,prenda
+336,Geschenk::N,anrheg,presente
+337,Spiel::N,chwarae,jogo
+338,Gesellschaft::N,cwmni,companhia
+339,Hilfe::N,cymorth,ajuda
+340,Hilfe::N,cymorth,socorro
+341,Freund::N,cyfaill,amigo
+342,Kamerad::N,cydymaith,camarada
+343,Angelegenheit::N,pwnc,assunto
+344,Anzahl::N,cyfrif,número
+345,Anzahl::N,cyfrif,quantidade
+346,Art::N,bath,tipo
+347,Art::N,bath,espécie
+348,Stück::N,darn,pedaço
+349,Teil::N,rhan,peça
+350,Teil::N,rhan,parte
+351,Hälfte::N,hanner,metade
+352,Kreis::N,cylch,círculo
+353,Kreuz::N,croes,cruz
+354,Linie::N,llinell,linha
+355,Strich::N,strôc,traço
+356,Strich::N,trawiad,traço
+357,Abstand::N,bwlch,distância
+358,Abstand::N,pellter,distância
+359,Entfernung::N,pellter,distância
+360,Gegend::N,cylch,área
+361,Gegend::N,cylch,região
+362,Platz::N,lle,lugar
+363,Ort::N,lle,sítio
+364,Seite::N,ochr,lado
+365,Mitte::N,canol,meio
+366,Gegenstand::N,eitem,objecto
+367,Sache::N,peth,coisa
+368,Rand::N,cwr,bordo
+369,Rand::N,cwr,margem
+370,Rand::N,ymyl,bordo
+371,Rand::N,ymyl,margem
+372,Kante::N,min,borda
+373,Kante::N,min,aresta
+374,Kante::N,ymyl,borda
+375,Kante::N,ymyl,aresta
+376,Ecke::N,cornel,esquina
+377,Spitze::N,blaen,ponta
+378,Ende::N,pen,cabo
+379,Ende::N,pen,extremo
+380,Loch::N,twll,furo
+381,Loch::N,twll,buraco
+382,Winkel::N,congl,canto
+383,Winkel::N,congl,ângulo
+384,Muster::N,patrwm,padrão
+385,Muster::N,patrwm,desenho
+386,Größe::N,maint,tamanho
+387,Größe::N,maintioli,tamanho
+388,Länge::N,hyd,comprimento
+389,Höhe::N,uchder,altura
+390,Höhe::N,uchder,altitude
+391,Gewicht::N,pwysau,peso
+392,Menge::N,swm,quantidade
+393,Menge::N,maint,quantidade
+394,Haufen::N,pentwr,pilha
+395,Reihe::N,rhes,fila
+396,Boot::N,cwch,barco
+397,Ruder::N,rhwyf,remo
+398,Schlitten::N,sled,trenó
+399,Schlitten::N,car llusg,trenó
+400,Ski::N,sgi,esqui
+401,Lagerfeuer::N,coelcerth,fogueira
+402,Last::N,llwyth,carga
+403,Gang::N,tro,curso
+404,Gang::N,tro,caminhada
+405,Schritt::N,cam,passo
+406,Norden::N,gogledd,norte
+407,Süden::N,de,sul
+408,Westen::N,gorllewin,oeste
+409,Westen::N,gorllewin,ocidente
+410,Osten::N,dwyrain,este
+411,Osten::N,dwyrain,leste
+412,Osten::N,dwyrain,oriente
+413,Holz::N,pren,madeira
+414,Brett::N,bwrdd,tábua
+415,Brett::N,bwrdd,prancha
+416,Brett::N,astell,tábua
+417,Brett::N,astell,prancha
+418,Platte::N,llech,laje
+419,Platte::N,llech,chapa
+420,Stütze::N,ateg,apoio
+421,Stütze::N,ateg,suporte
+422,Stütze::N,cynhalydd,apoio
+423,Stütze::N,cynhalydd,suporte
+424,Stange::N,polyn,vara
+425,Stange::N,polyn,barra
+426,Stock::N,ffon,pau
+427,Stock::N,ffon,bengala
+428,Stock::N,brigyn,pau
+429,Stock::N,brigyn,bengala
+430,Stab::N,ffon,bastão
+431,Rohr::N,pibell,cano
+432,Haus::N,tŷ,casa
+433,Heim::N,cartref,lar
+434,Heim::N,cartref,casa
+435,Ofen::N,stof,estufa
+436,Ofen::N,stof,aquecedor
+437,Fußboden::N,llawr,piso
+438,Tisch::N,bwrdd,mesa
+439,Stuhl::N,cadair,cadeira
+440,Wiege::N,crud,berço
+441,Bett::N,gwely,cama
+442,Regal::N,silff,estante
+443,Regal::N,silff,prateleira
+444,Kiste::N,bocs,caixa
+445,Kiste::N,blwch,caixa
+446,Fenster::N,ffenestr,janela
+447,Tür::N,drws,porta
+448,Tor::N,porth,portão
+449,Zaun::N,ffens,cerca
+450,Zaun::N,ffens,vedação
+451,Dach::N,to,telhado
+452,Leiter::N,ysgol,escada
+453,Leiter::N,ysgol,escada móvel
+454,Besen::N,ysgub,vassoura
+455,Spaten::N,rhaw,pá
+456,Schaufel::N,rhaw,pá
+457,Gabel::N,fforc,garfo
+458,Löffel::N,llwy,colher
+459,Messer::N,cyllell,faca
+460,Nagel::N,hoel,cravo
+461,Netz::N,gwe,rede
+462,Netz::N,rhwyd,rede
+463,Haken::N,bach,gancho
+464,Griff::N,carn,asa
+465,Griff::N,carn,cabo
+466,Schloss::N,clo,fechadura
+467,Bild::N,llun,imagem
+468,Bild::N,pictiwr,imagem
+469,Figur::N,ffigur,figura
+470,Puppe::N,dol,boneca
+471,Beutel::N,cwd,saco
+472,Beutel::N,cwd,bolsa
+473,Bündel::N,bwndel,fardo
+474,Bündel::N,coflaid,fardo
+475,Tasche::N,cod,saco
+476,Tasche::N,cod,bolso
+477,Eimer::N,bwced,balde
+478,Eimer::N,cunnog,balde
+479,Deckel::N,caead,tampa
+480,Geschirr::N,llestri,louça
+481,Sack::N,sach,saca
+482,Tasse::N,cwpan,chávena
+483,Topf::N,pot,tacho
+484,Topf::N,pot,panela
+485,Topf::N,crochan,tacho
+486,Topf::N,crochan,panela
+487,Kessel::N,tegell,caldeira
+488,Essen::N,pryd o fwyd,refeição
+489,Nahrung::N,bwyd,comida
+490,Nahrung::N,bwyd,alimento
+491,Speise::N,saig,prato
+492,Fleisch::N,cig,carne
+493,Getreide::N,ŷd,cereais
+494,Getreide::N,llafur,cereais
+495,Brei::N,uwd,puré
+496,Brot::N,bara,pão
+497,Scheibe::N,tafell,fatia
+498,Fett::N,saim,banha
+499,Fett::N,saim,gordura
+500,Fett::N,braster,banha
+501,Fett::N,braster,gordura
+502,Butter::N,ymenyn,manteiga
+503,Öl::N,olew,azeite
+504,Salz::N,halen,sal
+505,Suppe::N,cawl,sopa
+506,Suppe::N,cawl,caldo
+507,Honig::N,mêl,mel
+508,Milch::N,llaeth,leite
+509,Milch::N,llefrith,leite
+510,Tee::N,te,chá
+511,Leder::N,lledr,couro
+512,Wolle::N,gwlân,lã
+513,Stoff::N,lliain,pano
+514,Stoff::N,lliain,tecido
+515,Stoff::N,brethyn,pano
+516,Stoff::N,brethyn,tecido
+517,Nadel::N,nodwydd,agulha
+518,Faden::N,edau,fio
+519,Faden::N,edefyn,fio
+520,Knopf::N,botwm,botão
+521,Knoten::N,cwlwm,nó
+522,Farbe::N,paent,corante
+523,Kleidung::N,dillad,roupa
+524,Kleidung::N,dillad,vestuário
+525,Kleidung::N,gwisgoedd,roupa
+526,Kleidung::N,gwisgoedd,vestuário
+527,Hemd::N,crys,camisa
+528,Kragen::N,coler,gola
+529,Ärmel::N,llawes,manga
+530,Hose::N,trowsus,calça
+531,Gürtel::N,gwregys,cinto
+532,Mütze::N,cap,boné
+533,Mütze::N,cap,barrete
+534,Schuh::N,esgid,sapato
+535,Stiefel::N,botasen,bota
+536,Ring::N,modrwy,anel
+537,Band::N,rhuban,fita
+538,Band::N,rhuban,faixa
+539,Kamm::N,crib,pente
+540,Spiegel::N,drych,espelho
+541,Riemen::N,strap,correia
+542,Schnur::N,llinyn,corda
+543,Schnur::N,llinyn,cordel
+544,Leine::N,tennyn,trela
+545,Decke::N,blanced,cobertor
+546,Decke::N,gwrthban,cobertor
+547,Kissen::N,clustog,almofada
+548,Kissen::N,gobennydd,almofada
+549,Tuch::N,sgarff,pano
+550,Handtuch::N,tywel,toalha
+551,Handtuch::N,lliain sychu,toalha
+552,Kraft::N,grym,força
+553,Stärke::N,nerth,força
+554,Stärke::N,cryfder,força
+555,Gesundheit::N,iechyd,saúde
+556,Krankheit::N,afiechyd,doença
+557,Krankheit::N,afiechyd,enfermidade
+558,Krankheit::N,anhwylder,doença
+559,Krankheit::N,anhwylder,enfermidade
+560,Schmerz::N,poen,dor
+561,Schmerz::N,gwayw,dor
+562,Wunde::N,clwyf,chaga
+563,Wunde::N,clwyf,ferida
+564,Fieber::N,twymyn,febre
+565,Arznei::N,meddyginiaeth,remédio
+566,Brücke::N,pont,ponte
+567,Brunnen::N,ffynnon,poço
+568,Weide::N,porfa,pastagem
+569,Pfad::N,llwybr,senda
+570,Pfad::N,llwybr,trilho
+571,Weg::N,ffordd,caminho
+572,Straße::N,heol,via
+573,Straße::N,heol,estrada
+574,Straße::N,ffordd,via
+575,Straße::N,ffordd,estrada
+576,Dorf::N,pentref,aldeia
+577,Stadt::N,tref,cidade
+578,Brief::N,llythyr,carta
+579,Buch::N,llyfr,livro
+580,Buchstabe::N,llythyren,letra
+581,Zeitung::N,papur newydd,jornal
+582,Leben::N,bywyd,vida
+583,Tod::N,marwolaeth,morte
+584,Grab::N,bedd,túmulo
+585,Grab::N,bedd,sepultura
+586,Kirche::N,eglwys,igreja
+587,Sünde::N,pechod,pecado
+588,Gott::N,duw,deus
+589,Arbeiter::N,gweithiwr,operário
+590,Arbeiter::N,gweithiwr,trabalhador
+591,Chef::N,pennaeth,chefe
+592,Chef::N,pennaeth,patrão
+593,Meister::N,meistr,mestre
+594,Arzt::N,meddyg,médico
+595,Lehrer::N,athro,professor
+596,Geld::N,pres,dinheiro
+597,Geld::N,arian,dinheiro
+598,Geschäft::N,busnes,negócio
+599,Laden::N,siop,loja
+600,Preis::N,pris,preço
+601,Ware::N,nwydd,mercadoria
+602,Nutzen::N,elw,proveito
+603,Nutzen::N,budd,proveito
+604,Reichtum::N,cyfoeth,riqueza
+605,Welt::N,byd,mundo
+606,Land::N,gwlad,país
+607,Staat::N,gwladwriaeth,Estado
+608,König::N,brenin,rei
+609,Macht::N,grym,poder
+610,Macht::N,grym,potência
+611,Macht::N,awdurdod,poder
+612,Macht::N,awdurdod,potência
+613,Grenze::N,ffin,fronteira
+614,Grenze::N,goror,fronteira
+615,Krieg::N,rhyfel,guerra
+616,Feind::N,gelyn,inimigo
+617,Gewalt::N,ffyrnigrwydd,violência
+618,Kampf::N,brwydr,luta
+619,Kampf::N,brwydr,combate
+620,Bogen[Waffe]::N,bwa,arco
+621,Pfeil::N,saeth,seta
+622,Pfeil::N,saeth,flecha
+623,Gewehr::N,dryll,espingarda
+624,Fehler::N,gwall,erro
+625,Fehler::N,gwall,falha
+626,Fehler::N,camgymeriad,erro
+627,Fehler::N,camgymeriad,falha
+628,Lüge::N,celwydd,mentira
+629,Lüge::N,anwiredd,mentira
+630,Schaden::N,niwed,dano
+631,Schaden::N,niwed,estrago
+632,Schaden::N,difrod,dano
+633,Schaden::N,difrod,estrago
+634,Unglück::N,anffawd,desgraça
+635,Schuld::N,bai,culpa
+636,Alter::N,oed,idade
+637,Schluss::N,diwedd,fim
+638,Zeit::N,amser,tempo
+639,Tag::N,dydd,dia
+640,Tag::N,diwrnod,dia
+641,Morgen::N,bore,manhã
+642,Mittag::N,nawn,meio-dia
+643,Abend::N,noswaith,noite
+644,Abend::N,noswaith,tardinha
+645,Nacht::N,nos,noite
+646,Woche::N,wythnos,semana
+647,Monat::N,mis,mês
+648,Jahr::N,blwyddyn,ano
+649,Frühling::N,gwanwyn,primavera
+650,Sommer::N,haf,verão
+651,Herbst::N,hydref,outono
+652,Winter::N,gaeaf,inverno
+653,Januar::N,Ionawr,Janeiro
+654,Februar::N,Chwefror,Fevereiro
+655,März::N,Mawrth,Março
+656,April::N,Ebrill,Abril
+657,Mai::N,Mai,Maio
+658,Juni::N,Mehefin,Junho
+659,Juli::N,Gorffennaf,Julho
+660,August::N,Awst,Agosto
+661,September::N,Medi,Setembro
+662,Oktober::N,Hydref,Outubro
+663,November::N,Tachwedd,Novembro
+664,Dezember::N,Rhagfyr,Dezembro
+665,Montag::N,dydd Llun,segunda-feira
+666,Dienstag::N,dydd Mawrth,terça-feira
+667,Mittwoch::N,dydd Mercher,quarta-feira
+668,Donnerstag::N,dydd Iau,quinta-feira
+669,Freitag::N,dydd Gwener,sexta-feira
+670,Samstag::N,dydd Sadwrn,sábado
+671,Sonntag::N,dydd Sul,domingo
+672,groß::A,mawr,grande
+673,klein::A,bach,pequeno
+674,lang::A,hir,comprido
+675,kurz::A,byr,curto
+676,kurz::A,cwta,curto
+677,breit::A,llydan,largo
+678,schmal::A,cul,estreito
+679,dicht::A,dwys,denso
+680,dick[Gegenstand]::A,trwchus,grosso
+681,dünn::A,tenau,delgado
+682,fein::A,main,fino
+683,fein::A,main,subtil
+684,fest::A,cadarn,firme
+685,fest::A,cadarn,sólido
+686,flach::A,gwastad,plano
+687,glatt::A,llyfn,liso
+688,hart::A,caled,duro
+689,weich::A,meddal,mole
+690,rund::A,crwn,redondo
+691,spitz::A,pigfain,agudo
+692,scharf::A,miniog,afiado
+693,stumpf::A,pŵl,rombo
+694,schwer::A,trwm,pesado
+695,schön::A,teg,belo
+696,schön::A,teg,bonito
+697,schön::A,hardd,belo
+698,schön::A,hardd,bonito
+699,schön::A,prydferth,belo
+700,schön::A,prydferth,bonito
+701,heiß::A,poeth,quente
+702,warm::A,twym,quente
+703,warm::A,cynnes,quente
+704,kalt::A,oer,frio
+705,kühl::A,oeraidd,fresco
+706,frisch::A,iach,fresco
+707,feucht::A,llaith,húmido
+708,nass::A,gwlyb,molhado
+709,trocken::A,sych,seco
+710,voll::A,llawn,cheio
+711,leer::A,gwag,vazio
+712,offen::A,agored,aberto
+713,geschlossen::A,caead,fechado
+714,geschlossen::A,caeëdig,fechado
+715,sauber::A,glân,limpo
+716,schmutzig::A,budr,sujo
+717,schmutzig::A,brwnt,sujo
+718,roh::A,amrwd,cru
+719,reif::A,aeddfed,maduro
+720,lecker::A,blasus,delicioso
+721,lecker::A,danteithiol,delicioso
+722,süß::A,melys,doce
+723,bitter::A,chwerw,amargo
+724,sauer::A,sur,azedo
+725,hell::A,disglair,claro
+726,dunkel::A,tywyll,escuro
+727,dunkel::A,tywyll,sombrio
+728,schwarz::A,du,preto
+729,weiß::A,gwyn,branco
+730,rot::A,coch,vermelho
+731,gelb::A,melyn,amarelo
+732,blau::A,glas,azul
+733,grün::A,gwyrdd,verde
+734,grau::A,llwyd,cinzento
+735,bunt::A,lliwgar,colorido
+736,billig::A,rhad,barato
+737,teuer::A,drud,caro
+738,wertvoll::A,gwerthfawr,valioso
+739,wertvoll::A,gwerthfawr,precioso
+740,blind::A,dall,cego
+741,taub::A,byddar,surdo
+742,kräftig::A,nerthol,forte
+743,kräftig::A,nerthol,poderoso
+744,kräftig::A,grymus,forte
+745,kräftig::A,grymus,poderoso
+746,stark::A,cryf,forte
+747,stark::A,cryf,robusto
+748,stark::A,cadarn,forte
+749,stark::A,cadarn,robusto
+750,schwach::A,gwan,débil
+751,fett::A,tew,gordo
+752,schlank::A,main,esbelto
+753,hübsch::A,tlws,giro
+754,hübsch::A,tlws,bonito
+755,böse::A,drwg,mau
+756,dumm::A,twp,parvo
+757,dumm::A,twp,estúpido
+758,faul::A,diog,preguiçoso
+759,fleißig::A,dyfal,aplicado
+760,fleißig::A,dyfal,diligente
+761,geizig::A,crintach,avarento
+762,geizig::A,cybyddlyd,avarento
+763,klug::A,deallus,prudente
+764,klug::A,deallus,inteligente
+765,geschickt::A,medrus,hábil
+766,geschickt::A,deheuig,hábil
+767,lieb::A,hoff,caro
+768,lieb::A,hoff,querido
+769,lieb::A,annwyl,caro
+770,lieb::A,annwyl,querido
+771,lustig::A,llon,alegre
+772,sanft::A,mwyn,suave
+773,sanft::A,mwyn,brando
+774,hungrig::A,newynog,faminto
+775,krank::A,sâl,doente
+776,krank::A,sâl,enfermo
+777,krank::A,gwael,doente
+778,krank::A,gwael,enfermo
+779,nackt::A,noeth,nu
+780,nackt::A,noeth,despido
+781,traurig::A,trist,triste
+782,lebendig::A,yn fyw,vivo
+783,gut::A,da,bom
+784,schlecht::A,drwg,mau
+785,schlecht::A,drwg,ruim
+786,schlecht::A,gwael,mau
+787,schlecht::A,gwael,ruim
+788,richtig::A,cywir,justo
+789,richtig::A,cywir,correcto
+790,schlimm::A,enbyd,mau
+791,schlimm::A,enbyd,grave
+792,wahr::A,gwir,verdadeiro
+793,alt::A,hen,velho
+794,alt::A,hen,antigo
+795,neu::A,newydd,novo
+796,ehemalig::A,blaenorol,antigo
+797,alt[Lebewesen]::A,oedrannus,velho
+798,jung::A,ifanc,jovem
+799,arm::A,tlawd,pobre
+800,reich::A,cyfoethog,rico
+801,bekannt::A,cynefin,conhecido
+802,bekannt::A,cyfarwydd,conhecido
+803,berühmt::A,enwog,famoso
+804,berühmt::A,enwog,célebre
+805,fremd::A,estron,alheio
+806,fremd::A,estron,estranho
+807,verschieden::A,gwahanol,diverso
+808,verschieden::A,gwahanol,diferente
+809,nah::A,agos,próximo
+810,fern::A,pell,remoto
+811,fern::A,pell,distante
+812,linker::A,aswy,esquerdo
+813,linker::A,chwith,esquerdo
+814,rechter::A,de,direito
+815,rechter::A,deau,direito
+816,anderer::A,arall,outro
+817,erster::A,cyntaf,primeiro
+818,zweiter::A,ail,segundo
+819,dritter::A,trydydd,terceiro
+820,letzter::A,olaf,final
+821,letzter::A,olaf,último
+822,allein::ADV,unig,só
+823,allein::ADV,ar ei ben ei hun,só
+824,auf einmal::ADV,ar yr un pryd,de vez
+825,zusammen::ADV,ynghyd,juntos
+826,zusammen::ADV,gyda'i gilydd,juntos
+827,lange::ADV,amser hir,muito tempo
+828,plötzlich::ADV,yn sydyn,de repente
+829,sofort::ADV,ar unwaith,imediatamente
+830,später::ADV,yn ddiweddarach,mais tarde
+831,jetzt::ADV,yn awr,agora
+832,heute::ADV,heddiw,hoje
+833,morgen::ADV,yfory,amanhã
+834,bald::ADV,yn fuan,logo
+835,bald::ADV,yn fuan,breve
+836,bald::ADV,gyda hyn,logo
+837,bald::ADV,gyda hyn,breve
+838,dann::ADV,yna,então
+839,dann::ADV,yna,depois
+840,dann::ADV,y pryd hwnnw,então
+841,dann::ADV,y pryd hwnnw,depois
+842,gestern::ADV,ddoe,ontem
+843,einst::ADV,gynt,antigamente
+844,damals::ADV,ar y pryd,então
+845,damals::ADV,bryd hynny,então
+846,danach::ADV,wedyn,logo
+847,danach::ADV,wedyn,depois
+848,vorher::ADV,o'r blaen,antes
+849,zuerst::ADV,yn gyntaf,primeiro
+850,einmal::ADV,unwaith,uma vez
+851,manchmal::ADV,weithiau,às vezes
+852,manchmal::ADV,ar brydiau,às vezes
+853,oft::ADV,yn aml,muitas vezes
+854,oft::ADV,yn fynych,muitas vezes
+855,immer::ADV,bob amser,sempre
+856,niemals::ADV,ni ... byth,nunca
+857,niemals::ADV,ni ... erioed,nunca
+858,hier::ADV,yma,cá
+859,hier::ADV,yma,aqui
+860,hierhin::ADV,hyd yma,para cá
+861,von hier::ADV,oddi yma,daqui
+862,dort::ADV,acw,lá
+863,dort::ADV,acw,ali
+864,dorthin::ADV,tuag yno,lá
+865,dorthin::ADV,tuag yno,para lá
+866,geradeaus::ADV,syth ymlaen,em frente
+867,vorwärts::ADV,ymlaen,avante
+868,rückwärts::ADV,yn ôl,para trás
+869,zurück::ADV,yn ôl,atrás
+870,unten::ADV,isod,debaixo
+871,unten::ADV,isod,em baixo
+872,unten::ADV,oddi tanodd,debaixo
+873,unten::ADV,oddi tanodd,em baixo
+874,hinab::ADV,i lawr,para baixo
+875,hinab::ADV,i waered,para baixo
+876,oben::ADV,fry,em cima
+877,hinauf::ADV,i fyny,para cima
+878,hinauf::ADV,i'r lan,para cima
+879,überall::ADV,ym mhobman,em toda parte
+880,nicht::ADV,ni,não
+881,nicht::ADV,nid,não
+882,ein wenig::ADV,tipyn,um pouco
+883,ein wenig::ADV,tipyn,um bocado
+884,ein wenig::ADV,ychydig,um pouco
+885,ein wenig::ADV,ychydig,um bocado
+886,kaum::ADV,prin,apenas
+887,sehr::ADV,iawn,muito
+888,so::ADV,fel,tão
+889,so::ADV,fel,assim
+890,so::ADV,felly,tão
+891,so::ADV,felly,assim
+892,noch::ADV,eto,ainda
+893,nur::ADV,yn unig,só
+894,nur::ADV,yn unig,apenas
+895,nur::ADV,yn unig,somente
+896,schon::ADV,eisoes,já
+897,schon::ADV,yn barod,já
+898,wieder::ADV,drachefn,outra vez
+899,vergebens::ADV,yn ofer,em vão
+900,vor::PRP,o flaen,diante de
+901,hinter::PRP,ar ôl,atrás de
+902,unter::PRP,islaw,sob
+903,unter::PRP,islaw,debaixo de
+904,durch::PRP,trwy,por
+905,durch::PRP,trwy,através de
+906,neben::PRP,ar bwys,junto de
+907,neben::PRP,ar bwys,ao lado de
+908,zwischen::PRP,rhwng,entre
+909,zwischen::PRP,cydrhwng,entre
+910,wegen::PRP,o achos,por
+911,wegen::PRP,o achos,por causa de
+912,wegen::PRP,oherwydd,por
+913,wegen::PRP,oherwydd,por causa de
+914,dies::PRN,hyn,isto
+915,das::PRN,hynny,isso
+916,das::PRN,hynny,aquilo
+917,alles::PRN,popeth,todo
+918,ich::PRN,fi,eu
+919,du::PRN,ti,tu
+920,er::PRN,fe,ele
+921,wir::PRN,ni,nós
+922,ihr::PRN,chi,vós
+923,ihr::PRN,chi,vocês
+924,sie::PRN,hwy,eles
+925,was::FPRN,pa beth,quê
+926,wer::FPRN,pwy,quem
+927,wo::FADV,ble,onde
+928,wo::FADV,ym mha le,onde
+929,wohin::FADV,i ble,aonde
+930,wohin::FADV,i ble,para onde
+931,wohin::FADV,i ba le,aonde
+932,wohin::FADV,i ba le,para onde
+933,wie::FADV,sut,como
+934,warum::FADV,pam,porquê
+935,warum::FADV,pam,por que
+936,wieviel::FNUM,faint,quanto
+937,eins::NUM,un,um
+938,zwei::NUM,dau,dois
+939,drei::NUM,tri,três
+940,vier::NUM,pedwar,quatro
+941,fünf::NUM,pump,cinco
+942,sechs::NUM,chwech,seis
+943,sieben::NUM,saith,sete
+944,acht::NUM,wyth,oito
+945,neun::NUM,naw,nove
+946,zehn::NUM,deg,dez
+947,elf::NUM,un ar ddeg,onze
+948,zwölf::NUM,deuddeg,doze
+949,zwölf::NUM,un deg dau,doze
+950,zwanzig::NUM,ugain,vinte
+951,dreißig::NUM,tri deg,trinta
+952,dreißig::NUM,deg ar hugain,trinta
+953,vierzig::NUM,deugain,quarenta
+954,fünfzig::NUM,hanner cant,cinquenta
+955,sechzig::NUM,chwe deg,sessenta
+956,siebzig::NUM,saith deg,setenta
+957,siebzig::NUM,deg a thrigain,setenta
+958,achtzig::NUM,wyth deg,oitenta
+959,achtzig::NUM,pedar ugain,oitenta
+960,neunzig::NUM,naw deg,noventa
+961,neunzig::NUM,deg a phedwar ugain,noventa
+962,hundert::NUM,cant,cem
+963,hundert::NUM,cant,cento
+964,tausend::NUM,mil,mil
+965,und::CNJ,a,e
+966,oder::CNJ,neu,ou
+967,stehen::V,sefyll,estar em pé
+968,sitzen::V,eistedd,estar sentado
+969,liegen::V,gorwedd,jazer
+970,liegen::V,gorwedd,estar deitado
+971,hängen::V,hongian,pender
+972,hängen::V,hongian,estar pendurado
+973,werden::V,dod yn,tornar-se
+974,werden::V,mynd yn,tornar-se
+975,passieren::V,digwydd,acontecer
+976,beginnen::V,cychwyn,começar
+977,enden::V,gorffen,acabar
+978,enden::V,gorffen,terminar
+979,wechseln::V,newid,variar
+980,wechseln::V,newid,alternar
+981,aufgehen[Sonne]::V,codi,nascer
+982,untergehen[Sonne]::V,machlud,pôr-se
+983,scheinen[Sonne]::V,tywynnu,brilhar
+984,donnern::V,taranu,trovejar
+985,wehen::V,chwythu,soprar
+986,strömen::V,ffrydio,correr
+987,fließen::V,llifo,fluir
+988,sich drehen::V,troi,girar
+989,sich drehen::V,cylchdroi,girar
+990,schwanken::V,siglo,oscilar
+991,schwingen::V,siglo,vibrar
+992,fallen::V,cwympo,cair
+993,brennen::V,llosgi,arder
+994,rauchen::V,mygu,fumegar
+995,regnen::V,glawio,chover
+996,gefrieren::V,rhewi,gelar
+997,gefrieren::V,rhewi,congelar
+998,tauen::V,toddi,derreter
+999,tauen::V,toddi,descongelar
+1000,tauen::V,meirioli,derreter
+1001,tauen::V,meirioli,descongelar
+1002,schmelzen::V,toddi,fundir-se
+1003,trocknen::V,sychu,secar
+1004,sieden::V,berwi,ferver
+1005,faulen::V,pydru,estragar-se
+1006,faulen::V,braenu,estragar-se
+1007,verfaulen::V,pydru,apodrecer
+1008,verfaulen::V,dadfeilio,apodrecer
+1009,reißen::V,clecian,romper-se
+1010,reißen::V,torri'n glats,romper-se
+1011,versinken::V,suddo,afundar-se
+1012,vergehen::V,myned heibio,passar
+1013,vergehen::V,pasio,passar
+1014,erscheinen::V,ymddangos,aparecer
+1015,verschwinden::V,diflannu,desaparecer
+1016,sinken::V,syrthio,descer
+1017,abnehmen::V,lleihau,diminuir
+1018,abnehmen::V,lleihau,decrescer
+1019,zunehmen::V,cynyddu,crescer
+1020,zunehmen::V,cynyddu,aumentar
+1021,steigen::V,codi,subir
+1022,wachsen::V,tyfu,crescer
+1023,glänzen::V,disgleirio,brilhar
+1024,funkeln::V,pefrio,cintilar
+1025,lärmen::V,cadw sŵn,fazer barulho
+1026,lärmen::V,gwneud twrw,fazer barulho
+1027,läuten::V,canu,chocalhar
+1028,klingeln::V,canu,tocar
+1029,klingeln::V,seinio,tocar
+1030,klirren::V,tincian,tinir
+1031,brausen::V,rhuo,bramar
+1032,rauschen::V,siffrwd,murmurar
+1033,rauschen::V,siffrwd,rumorejar
+1034,rauschen::V,chwithrwd,murmurar
+1035,rauschen::V,chwithrwd,rumorejar
+1036,klingen::V,seinio,soar
+1037,bellen::V,cyfarth,ladrar
+1038,heulen::V,udo,uivar
+1039,heulen::V,oernadu,uivar
+1040,blasen::V,chwythu,soprar
+1041,pfeifen::V,chwibanu,assobiar
+1042,schreien::V,gweiddi,gritar
+1043,schreien::V,bloeddio,gritar
+1044,stöhnen::V,griddfan,gemer
+1045,zittern::V,crynu,tremer
+1046,leben::V,byw,viver
+1047,geboren werden::V,cael eich geni,nascer
+1048,atmen::V,anadlu,respirar
+1049,trinken::V,yfed,beber
+1050,essen::V,bwyta,comer
+1051,schlucken::V,llyncu,engolir
+1052,müde werden::V,blino,cansar-se
+1053,einschlafen::V,mynd i gysgu,adormecer
+1054,einschlafen::V,syrthio i gysgu,adormecer
+1055,schlafen::V,huno,dormir
+1056,schlafen::V,cysgu,dormir
+1057,aufwachen::V,dihuno,acordar
+1058,aufstehen::V,codi,levantar-se
+1059,sich erholen::V,ymlacio,descansar
+1060,sich erholen::V,dadflino,descansar
+1061,krank werden::V,mynd yn sâl,adoecer
+1062,krank werden::V,mynd yn sâl,ficar doente
+1063,krank werden::V,mynd yn wael,adoecer
+1064,krank werden::V,mynd yn wael,ficar doente
+1065,krank sein::V,gwaelu,estar doente
+1066,schmerzen::V,brifo,doer
+1067,husten::V,pesychu,tossir
+1068,genesen::V,gwella,convalescer
+1069,genesen::V,cael yn ôl,convalescer
+1070,sterben::V,marw,morrer
+1071,umkommen::V,trengi,perecer
+1072,sich bewegen::V,symud,mover-se
+1073,sich rühren::V,syflyd,mexer-se
+1074,sich erheben::V,codi,levantar-se
+1075,sich setzen::V,eistedd,sentar-se
+1076,hinfallen::V,cwympo,cair
+1077,laufen::V,cerdded,andar
+1078,laufen::V,cerdded,caminhar
+1079,schreiten::V,camu,andar
+1080,schreiten::V,camu,caminhar
+1081,spazierengehen::V,mynd am dro,passear
+1082,eilen::V,rhuthro,apressar-se
+1083,sich beeilen::V,brysio,apressar-se
+1084,sich beeilen::V,brysio,despachar-se
+1085,sausen::V,rhuthro,correr
+1086,rennen::V,rhedeg,correr
+1087,springen::V,llamu,saltar
+1088,springen::V,neidio,saltar
+1089,klettern::V,dringo,trepar
+1090,schaukeln::V,siglo,baloiçar
+1091,kriechen::V,cropian,rastejar
+1092,kriechen::V,cropian,arrastar-se
+1093,schwimmen::V,nofio,nadar
+1094,tauchen::V,plymio,mergulhar
+1095,tauchen::V,ymsuddo,mergulhar
+1096,rudern::V,rhwyfo,remar
+1097,fahren::V,gyrru,ir
+1098,fahren::V,dreifio,ir
+1099,fliegen::V,hedfan,voar
+1100,gehen::V,mynd,ir
+1101,gehen::V,mynd,andar
+1102,weggehen::V,mynd,partir
+1103,weggehen::V,mynd,ir-se embora
+1104,weggehen::V,ymadael,partir
+1105,weggehen::V,ymadael,ir-se embora
+1106,abfahren::V,ymadael,sair
+1107,abfahren::V,ymadael,partir
+1108,anhalten::V,stopio,parar
+1109,hineingehen::V,mynd i mewn,entrar
+1110,eintreten::V,mynd i,entrar
+1111,kommen::V,dod,vir
+1112,ankommen::V,cyrraedd,chegar
+1113,zurückkommen::V,dychwelyd,voltar
+1114,zurückkommen::V,dychwelyd,regressar
+1115,bleiben::V,aros,ficar
+1116,bleiben::V,aros,permanecer
+1117,bleiben::V,sefyll,ficar
+1118,bleiben::V,sefyll,permanecer
+1119,warten::V,aros,esperar
+1120,warten::V,disgwyl,esperar
+1121,erwarten::V,disgwyl,esperar
+1122,erwarten::V,disgwyl,aguardar
+1123,suchen::V,chwilio am,buscar
+1124,suchen::V,chwilio am,procurar
+1125,finden::V,darganfod,achar
+1126,finden::V,darganfod,encontrar
+1127,versuchen::V,profi,tentar
+1128,versuchen::V,ceisio,tentar
+1129,vorbereiten::V,paratoi,preparar
+1130,lieben::V,caru,amar
+1131,lieben::V,caru,querer
+1132,mögen::V,hoffi,gostar de
+1133,lachen::V,chwerthin,rir
+1134,lachen::V,chwerthin,rir-se
+1135,rühren::V,cynhyrfu,comover
+1136,weinen::V,wylo,chorar
+1137,weinen::V,llefain,chorar
+1138,schimpfen::V,grwgnach,ralhar
+1139,sich ärgern::V,gofidio,zangar-se
+1140,sich fürchten::V,ofni,ter medo de
+1141,sich fürchten::V,ofni,ter receio de
+1142,fürchten::V,arswydo,temer
+1143,fürchten::V,arswydo,recear
+1144,fliehen::V,ffoi,fugir
+1145,flüchten::V,dianc,refugiar-se
+1146,sehen::V,gweld,ver
+1147,anschauen::V,syllu,olhar
+1148,anschauen::V,edrych,olhar
+1149,ansehen::V,gwylio,mirar
+1150,hören::V,clywed,ouvir
+1151,zuhören::V,gwrando,escutar
+1152,probieren::V,profi,provar
+1153,probieren::V,profi,saborear
+1154,riechen::V,arogli,cheirar
+1155,fühlen::V,teimlo,sentir
+1156,fühlen::V,clywed,sentir
+1157,scheinen::V,ymddangos,parecer
+1158,zu sehen sein::V,dod i'r golwg,estar à vista
+1159,vernehmen::V,clywed sôn am,ouvir
+1160,frieren::V,bod yn oer,ter frio
+1161,tun::V,gwneud,fazer
+1162,können::V,gallu,saber
+1163,wollen::V,bod mewn angen,querer
+1164,anfangen::V,dechrau,iniciar
+1165,beenden::V,darfod,acabar
+1166,beenden::V,darfod,terminar
+1167,beenden::V,gorffen,acabar
+1168,beenden::V,gorffen,terminar
+1169,aufhören::V,peidio,cessar
+1170,aufhören::V,peidio,desistir
+1171,gelingen::V,llwyddo,sair bem
+1172,gelingen::V,llwyddo,dar bom resultado
+1173,geraten::V,diweddu,sair
+1174,geraten::V,diweddu,dar resultado
+1175,öffnen::V,agor,abrir
+1176,schließen::V,cau,fechar
+1177,stellen::V,gosod,pôr
+1178,stellen::V,gosod,colocar
+1179,setzen::V,gosod,pôr
+1180,setzen::V,gosod,meter
+1181,legen::V,gosod,pôr
+1182,legen::V,gosod,meter
+1183,berühren::V,cyffwrdd,tocar
+1184,verbinden::V,cysylltu,unir
+1185,verbinden::V,cysylltu,ligar
+1186,bedecken::V,gorchuddio,cobrir
+1187,aufhängen::V,crogi,pendurar
+1188,aufhängen::V,hongian,pendurar
+1189,anzünden::V,cynnau,acender
+1190,aufheben::V,codi,apanhar
+1191,aufheben::V,codi,levantar
+1192,zurücklassen::V,gadael,deixar
+1193,verlieren::V,colli,perder
+1194,fallen lassen::V,gollwng,deixar cair
+1195,machen::V,gwneud,fazer
+1196,herstellen::V,cynhyrchu,produzir
+1197,bauen::V,adeiladu,edificar
+1198,bauen::V,adeiladu,construir
+1199,reparieren::V,trwsio,reparar
+1200,reparieren::V,trwsio,consertar
+1201,reparieren::V,atgyweirio,reparar
+1202,reparieren::V,atgyweirio,consertar
+1203,verbessern::V,diwygio,melhorar
+1204,ändern::V,altro,mudar
+1205,ändern::V,altro,alterar
+1206,graben::V,palu,cavar
+1207,graben::V,cloddio,cavar
+1208,beugen::V,plygu,curvar
+1209,biegen::V,plygu,vergar
+1210,drehen::V,troelli,girar
+1211,wenden::V,troi,virar
+1212,wenden::V,troi,voltar
+1213,umdrehen::V,troi,virar
+1214,umdrehen::V,troi,revolver
+1215,heben::V,codi,levantar
+1216,hochheben::V,dyrchafu,erguer
+1217,hochheben::V,dyrchafu,levantar
+1218,ergreifen::V,gafael,apanhar
+1219,halten::V,dal,segurar
+1220,drücken::V,pwyso,apertar
+1221,drücken::V,gwasgu,apertar
+1222,schieben::V,gwthio,empurrar
+1223,kratzen::V,crafu,raspar
+1224,lecken::V,llyfu,lamber
+1225,beißen::V,cnoi,morder
+1226,beißen::V,brathu,morder
+1227,abreißen::V,tynnu ymaith,arrancar
+1228,abschneiden::V,torri,talhar
+1229,binden::V,clymu,ligar
+1230,stecken::V,plannu,meter
+1231,stecken::V,plannu,enfiar
+1232,brechen::V,torri,romper
+1233,brechen::V,torri,quebrar
+1234,klopfen::V,taro,bater
+1235,hauen::V,taro,bater
+1236,kleben::V,gludio,colar
+1237,reiben::V,rhwbio,esfregar
+1238,streichen::V,taenu,barrar
+1239,schleifen::V,hogi,afiar
+1240,schneiden::V,torri,cortar
+1241,rütteln::V,ysgytio,sacudir
+1242,schütteln::V,siglo,abanar
+1243,schütteln::V,siglo,sacudir
+1244,schütteln::V,ysgwyd,abanar
+1245,schütteln::V,ysgwyd,sacudir
+1246,schwenken::V,siglo,agitar
+1247,schütten::V,tywallt,deitar
+1248,füllen::V,llenwi,encher
+1249,einwickeln::V,lapio,envolver
+1250,einwickeln::V,lapio,embrulhar
+1251,tragen::V,cludo,levar
+1252,tragen::V,cludo,trazer
+1253,schleppen::V,llusgo,arrastar
+1254,ziehen::V,tynnu,puxar
+1255,aufbewahren::V,cadw,guardar
+1256,aufbewahren::V,cadw,conservar
+1257,werfen::V,taflu,lançar
+1258,fangen::V,dal,apanhar
+1259,packen::V,cipio,agarrar
+1260,packen::V,crafangu,agarrar
+1261,verstecken::V,celu,esconder
+1262,verstecken::V,cuddio,esconder
+1263,teilen::V,rhannu,partir
+1264,teilen::V,rhannu,dividir
+1265,schicken::V,anfon,enviar
+1266,bringen::V,dod â,trazer
+1267,hinzufügen::V,chwanegu,acrescentar
+1268,bekommen::V,cael,obter
+1269,erhalten::V,derbyn,receber
+1270,nehmen::V,cymryd,tomar
+1271,wählen::V,dewis,eleger
+1272,wählen::V,dewis,escolher
+1273,auswählen::V,dethol,escolher
+1274,auswählen::V,dethol,seleccionar
+1275,bewahren::V,cadw,guardar
+1276,bewahren::V,cadw,conservar
+1277,behindern::V,atal,impedir
+1278,behindern::V,rhwystro,impedir
+1279,verderben::V,difetha,estragar
+1280,verderben::V,difetha,corromper
+1281,beschädigen::V,niweidio,danificar
+1282,zerbrechen::V,torri,romper
+1283,zerbrechen::V,torri,quebrar
+1284,zerreißen::V,rhwygo,rasgar
+1285,zerstören::V,dinistrio,destruir
+1286,verbrennen::V,llosgi,queimar
+1287,geben::V,rhoi,dar
+1288,reichen::V,estyn,passar
+1289,schenken::V,rhoddi,oferecer
+1290,versprechen::V,addo,prometer
+1291,wünschen::V,dymuno,desejar
+1292,loben::V,canmol,louvar
+1293,küssen::V,cusanu,beijar
+1294,wiegen::V,siglo,embalar
+1295,zudecken::V,gorchuddio,tapar
+1296,zudecken::V,gorchuddio,cobrir
+1297,wecken::V,deffro,acordar
+1298,wecken::V,deffro,despertar
+1299,zeigen::V,dangos,mostrar
+1300,führen::V,arwain,guiar
+1301,führen::V,arwain,conduzir
+1302,lehren::V,dysgu,ensinar
+1303,unterrichten::V,hyfforddi,instruir
+1304,aufziehen::V,dod i fyny,criar
+1305,leiten::V,arwain,dirigir
+1306,leiten::V,arwain,conduzir
+1307,antreiben::V,annog,impelir
+1308,lassen::V,gadael,fazer
+1309,einladen::V,gwahodd,convidar
+1310,vereinigen::V,uno,unir
+1311,vereinigen::V,uno,reunir
+1312,vereinigen::V,cyfuno,unir
+1313,vereinigen::V,cyfuno,reunir
+1314,besuchen::V,ymweld â,ir ver
+1315,besuchen::V,ymweld â,visitar
+1316,treffen::V,cwrdd,encontrar
+1317,treffen::V,cyfarfod,encontrar
+1318,sich versammeln::V,casglu,reunir-se
+1319,sich versammeln::V,cynnull,reunir-se
+1320,spielen::V,chwarae,jogar
+1321,spielen::V,chwarae,brincar
+1322,singen::V,canu,cantar
+1323,tanzen::V,dawnsio,bailar
+1324,sich trennen::V,ymwahanu,apartar-se
+1325,verlassen::V,gadael,deixar
+1326,verlassen::V,gadael,abandonar
+1327,retten::V,achub,salvar
+1328,bewachen::V,gwarchod,vigiar
+1329,bewachen::V,gwarchod,guardar
+1330,schützen::V,noddi,proteger
+1331,verteidigen::V,amddiffyn,defender
+1332,sich schlagen::V,ffraeo,brigar
+1333,sich schlagen::V,ffraeo,bater-se
+1334,sich schlagen::V,terfysgu,brigar
+1335,sich schlagen::V,terfysgu,bater-se
+1336,schießen::V,saethu,disparar
+1337,siegen::V,ennill,vencer
+1338,ärgern::V,cythruddo,irritar
+1339,ärgern::V,cythruddo,aborrecer
+1340,schlagen::V,curo,bater
+1341,treten::V,cicio,pisar
+1342,stechen::V,pigo,picar
+1343,stoßen::V,gwthio,empurrar
+1344,stehlen::V,dwyn,furtar
+1345,stehlen::V,lladrata,furtar
+1346,stören::V,aflonyddu,perturbar
+1347,belästigen::V,trafferthu,incomodar
+1348,belästigen::V,trafferthu,importunar
+1349,verbergen::V,cuddio,ocultar
+1350,verbergen::V,cuddio,esconder
+1351,täuschen::V,twyllo,iludir
+1352,täuschen::V,twyllo,enganar
+1353,betrügen::V,hocedu,burlar
+1354,betrügen::V,hocedu,enganar
+1355,töten::V,lladd,matar
+1356,wohnen::V,byw,morar
+1357,arbeiten::V,gweithio,trabalhar
+1358,sammeln::V,casglu,recolher
+1359,sammeln::V,casglu,coleccionar
+1360,pflücken::V,casglu,colher
+1361,jagen::V,hela,caçar
+1362,fischen::V,pysgota,pescar
+1363,fassen::V,dal,apanhar
+1364,hüten::V,bugeilio,guardar
+1365,treiben::V,gyrru,conduzir
+1366,anbinden::V,clymu,atar
+1367,füttern::V,porthi,dar de comer a
+1368,melken::V,godro,ordenhar
+1369,hacken::V,torri,rachar
+1370,gießen::V,dyfrhau,regar
+1371,reifen::V,aeddfedu,amadurecer
+1372,zubereiten::V,coginio,preparar
+1373,kochen::V,berwi,cozer
+1374,backen::V,pobi,cozer
+1375,backen::V,crasu,cozer
+1376,braten::V,ffrio,assar
+1377,braten::V,ffrio,fritar
+1378,umrühren::V,cyffroi,remexer
+1379,stricken::V,gwau,tricotar
+1380,stricken::V,gwau,fazer malha
+1381,nähen::V,gwnïo,coser
+1382,nähen::V,gwnïo,costurar
+1383,färben::V,lliwio,tingir
+1384,färben::V,lliwio,colorir
+1385,reinigen::V,glanhau,limpar
+1386,reinigen::V,glanhau,purificar
+1387,waschen::V,golchi,lavar
+1388,abwischen::V,sychu,limpar
+1389,abwischen::V,sychu,esfregar
+1390,spülen::V,streulio,lavar
+1391,spülen::V,streulio,enxaguar
+1392,fegen::V,ysgubo,varrer
+1393,kehren::V,ysgubo,varrer
+1394,baden::V,cael bath,banhar
+1395,baden::V,cael bath,tomar banho
+1396,sich waschen::V,ymolchi,lavar-se
+1397,ausziehen::V,tynnu,despir
+1398,anziehen::V,gwisgo,vestir
+1399,sich anziehen::V,ymwisgo,vestir-se
+1400,kämmen::V,cribo,pentear
+1401,schmücken::V,harddu,adornar
+1402,schmücken::V,addurno,adornar
+1403,sagen::V,dweud,dizer
+1404,sprechen::V,llefaru,falar
+1405,reden::V,siarad,falar
+1406,sich unterhalten::V,sgwrsio,conversar
+1407,fragen::V,gofyn,perguntar
+1408,bitten::V,gofyn am,pedir
+1409,erzählen::V,dweud,contar
+1410,mitteilen::V,cyfleu,comunicar
+1411,mitteilen::V,cyfleu,participar
+1412,nennen::V,enwi,nomear
+1413,nennen::V,enwi,apelidar
+1414,rufen::V,galw,chamar
+1415,prahlen::V,brolio,gabar-se
+1416,prahlen::V,brolio,vangloriar-se
+1417,prahlen::V,ymffrostio,gabar-se
+1418,prahlen::V,ymffrostio,vangloriar-se
+1419,übersetzen::V,cyfieithu,traduzir
+1420,denken::V,meddwl,pensar
+1421,glauben::V,credu,crer
+1422,glauben::V,coelio,crer
+1423,bemerken::V,sylwi,notar
+1424,bemerken::V,sylwi,observar
+1425,erkennen::V,adnabod,reconhecer
+1426,begreifen::V,amgyffred,apreender
+1427,begreifen::V,amgyffred,compreender
+1428,verstehen::V,deall,entender
+1429,verstehen::V,deall,compreender
+1430,lernen::V,dysgu,aprender
+1431,wissen::V,gwybod,saber
+1432,sich erinnern an::V,cofio,lembrar-se de
+1433,sich erinnern an::V,cofio,recordar-se de
+1434,vergessen::V,anghofio,esquecer
+1435,messen::V,mesur,medir
+1436,zählen::V,cyfrif,contar
+1437,rechnen::V,cyfrifo,calcular
+1438,lesen::V,darllen,ler
+1439,malen::V,peintio,pintar
+1440,zeichnen::V,tynnu,desenhar
+1441,schreiben::V,ysgrifennu,escrever
+1442,besitzen::V,meddu,possuir
+1443,kaufen::V,prynu,comprar
+1444,verkaufen::V,gwerthu,vender
+1445,bezahlen::V,talu am,pagar
+1446,zahlen::V,talu,pagar
+1447,beherrschen::V,rheoli,imperar
+1448,beherrschen::V,llywodraethu,imperar
+1449,ertragen::V,dioddef,suportar

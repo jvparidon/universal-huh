@@ -1,0 +1,1270 @@
+,Concept_ID,is,da
+0,Auge::N,auga,øje
+1,Ohr::N,eyra,øre
+2,Nase::N,nef,næse
+3,Mund::N,munnur,mund
+4,Zahn::N,tönn,tand
+5,Zunge::N,tunga,tunge
+6,Lippe::N,vör,læbe
+7,Wange::N,kinn,kind
+8,Wange::N,vangi,kind
+9,Gesicht::N,andlit,ansigt
+10,Stirn::N,enni,pande
+11,Haar::N,hár,hår
+12,Schnurrbart::N,yfirskegg,overskæg
+13,Bart::N,skegg,skæg
+14,Kinn::N,haka,hage
+15,Kiefer[Anatomie]::N,kjálki,kæbe
+16,Kiefer[Anatomie]::N,skoltur,kæbe
+17,Kehle::N,kverk,strube
+18,Hals::N,háls,hals
+19,Genick::N,hnakki,nakke
+20,Kopf::N,höfuð,hoved
+21,Rücken::N,hryggur,ryg
+22,Bauch::N,kviður,mave
+23,Nabel::N,nafli,navle
+24,Busen::N,barmur,barm
+25,Brust::N,brjóst,bryst
+26,Schulter::N,öxl,skulder
+27,Arm::N,armur,arm
+28,Ellenbogen::N,olnbogi,albue
+29,Hand::N,hönd,hånd
+30,Handfläche::N,lófi,håndflade
+31,Finger::N,fingur,finger
+32,Fingernagel::N,fingurnögl,fingernegl
+33,Nagel[Anatomie]::N,nögl,negl
+34,Zeh::N,tá,tå
+35,Fuß::N,fótur,fod
+36,Ferse::N,hæll,hæl
+37,Knie::N,kné,knæ
+38,Oberschenkel::N,læri,lår
+39,Bein::N,fótleggur,ben
+40,Körper::N,búkur,krop
+41,Körper::N,búkur,legeme
+42,Körper::N,líkami,krop
+43,Körper::N,líkami,legeme
+44,Haut::N,húð,hud
+45,Haut::N,skinn,hud
+46,Blut::N,blóð,blod
+47,Ader::N,æð,åre
+48,Sehne::N,sin,sene
+49,Knochen::N,bein,ben
+50,Gehirn::N,heili,hjerne
+51,Herz::N,hjarta,hjerte
+52,Magen::N,magi,mave
+53,Leber::N,lifur,lever
+54,Atem::N,andi,ånde
+55,Atem::N,andardráttur,ånde
+56,Hunger::N,hungur,sult
+57,Träne::N,tár,tåre
+58,Geschmack::N,smekkur,smag
+59,Geruch::N,lykt,lugt
+60,Schlaf::N,svefn,søvn
+61,Traum::N,draumur,drøm
+62,Himmel::N,himinn,himmel
+63,Sonne::N,sól,sol
+64,Mond::N,tungl,måne
+65,Stern::N,stjarna,stjerne
+66,Luft::N,loft,luft
+67,Wind::N,vindur,vind
+68,Welle::N,alda,bølge
+69,Welle::N,bylgja,bølge
+70,Wasser::N,vatn,vand
+71,Stein::N,steinn,sten
+72,Boden::N,botn,jord
+73,Erde::N,jörð,jord
+74,Staub::N,ryk,støv
+75,Staub::N,duft,støv
+76,Rauch::N,reykur,røg
+77,Funke::N,neisti,gnist
+78,Feuer::N,eldur,ild
+79,Licht::N,ljós,lys
+80,Schatten::N,skuggi,skygge
+81,Wetter::N,veður,vejr
+82,Nebel::N,þoka,tåge
+83,Wolke::N,ský,sky
+84,Regen::N,regn,regn
+85,Schnee::N,snjór,sne
+86,Eis::N,ís,is
+87,Frost::N,frost,frost
+88,Kälte::N,kuldi,kulde
+89,Hitze::N,hiti,hede
+90,Raureif::N,hrím,rimfrost
+91,Regenbogen::N,regnbogi,regnbue
+92,Donner::N,þruma,torden
+93,Strömung::N,straumur,strømning
+94,Tropfen::N,dropi,dråbe
+95,Schaum::N,froða,skum
+96,Schmutz::N,óhreinindi,snavs
+97,See::N,stöðuvatn,sø
+98,Sumpf::N,fen,sump
+99,Moor::N,mýri,mose
+100,Wiese::N,engi,eng
+101,Wald::N,skógur,skov
+102,Hügel::N,hæð,høj
+103,Hügel::N,hæð,bakke
+104,Hügel::N,hóll,høj
+105,Hügel::N,hóll,bakke
+106,Anhöhe::N,hæð,høj
+107,Anhöhe::N,hæð,bakke
+108,Anhöhe::N,hóll,høj
+109,Anhöhe::N,hóll,bakke
+110,Berg::N,fell,bjerg
+111,Berg::N,fjall,bjerg
+112,Gipfel::N,tindur,top
+113,Höhle::N,hellir,hule
+114,Abhang::N,hlíð,skrænt
+115,Abhang::N,hlíð,skråning
+116,Abhang::N,brekka,skrænt
+117,Abhang::N,brekka,skråning
+118,Quelle::N,lind,kilde
+119,Quelle::N,uppspretta,kilde
+120,Bach::N,lækur,bæk
+121,Fluss::N,á,flod
+122,Fluss::N,fljót,flod
+123,Ufer::N,árbakki,bred
+124,Ufer::N,sjávarbakki,bred
+125,Küste::N,strönd,kyst
+126,Festland::N,meginland,fastland
+127,Meer::N,haf,hav
+128,Meer::N,sjór,hav
+129,Bucht::N,vík,bugt
+130,Insel::N,eyja,ø
+131,Blume::N,blóm,blomst
+132,Gras::N,gras,græs
+133,Wurzel::N,rót,rod
+134,Baum::N,tré,træ
+135,Stamm::N,stofn,stamme
+136,Rinde::N,börkur,bark
+137,Ast::N,grein,gren
+138,Zweig::N,angi,kvist
+139,Zweig::N,kvistur,kvist
+140,Blatt::N,blað,blad
+141,Birke::N,birki,birk
+142,Kiefer[Baum]::N,fura,fyrretræ
+143,Weide[Baum]::N,víðir,piletræ
+144,Tanne::N,greni,gran
+145,Horn::N,horn,horn
+146,Feder::N,fjöður,fjer
+147,Fell::N,skinn,skind
+148,Flügel::N,vængur,vinge
+149,Klaue::N,kló,klov
+150,Kralle::N,kló,klo
+151,Schwanz::N,rófa,hale
+152,Schwanz::N,skott,hale
+153,Ei::N,egg,æg
+154,Nest::N,hreiður,rede
+155,Bau::N,greni,bo
+156,Bau::N,bæli,bo
+157,Tier::N,dýr,dyr
+158,Herde::N,hjörð,flok
+159,Kuh::N,kýr,ko
+160,Bulle::N,boli,tyr
+161,Pferd::N,hestur,hest
+162,Schaf::N,kind,får
+163,Schwein::N,svín,gris
+164,Hund::N,hundur,hund
+165,Katze::N,köttur,kat
+166,Bär::N,björn,bjørn
+167,Eichhörnchen::N,íkorni,egern
+168,Elch::N,elgur,elg
+169,Fuchs::N,refur,ræv
+170,Hase::N,héri,hare
+171,Maus::N,mús,mus
+172,Wolf::N,úlfur,ulv
+173,Vogel::N,fugl,fugl
+174,Schwarm::N,sægur,sværm
+175,Huhn::N,hæna,høne
+176,Hahn::N,hani,hane
+177,Gans::N,gæs,gås
+178,Adler::N,örn,ørn
+179,Ente::N,önd,and
+180,Eule::N,uggla,ugle
+181,Kranich::N,trana,trane
+182,Krähe::N,kráka,krage
+183,Kuckuck::N,gaukur,gøg
+184,Schwan::N,svanur,svane
+185,Fisch::N,fiskur,fisk
+186,Barsch::N,aborri,aborre
+187,Hecht::N,gedda,gedde
+188,Schlange[Tier]::N,naðra,slange
+189,Wurm::N,ormur,orm
+190,Spinne::N,kónguló,edderkop
+191,Ameise::N,maur,myre
+192,Laus::N,lús,lus
+193,Mücke::N,mý,myg
+194,Mücke::N,mýfluga,myg
+195,Fliege::N,fluga,flue
+196,Schmetterling::N,fiðrildi,sommerfugl
+197,Beere::N,ber,bær
+198,Apfel::N,epli,æble
+199,Pilz::N,sveppur,svamp
+200,Zwiebel::N,laukur,løg
+201,Saat::N,fræ,sæd
+202,Saat::N,útsæði,sæd
+203,Korn::N,korn,korn
+204,Heu::N,hey,hø
+205,Schale::N,hýði,skræl
+206,Grube::N,gryfja,grav
+207,Falle::N,gildra,fælde
+208,Schlinge::N,snara,snare
+209,Spur::N,spor,spor
+210,Asche::N,aska,aske
+211,Dreck::N,óþverri,snavs
+212,Eisen::N,járn,jern
+213,Gold::N,gull,guld
+214,Silber::N,silfur,sølv
+215,Kohle::N,kol,kul
+216,Glas::N,gler,glas
+217,Lehm::N,leir,ler
+218,Sand::N,sandur,sand
+219,Mensch::N,maður,mennesge
+220,Mensch::N,manneskja,mennesge
+221,Mann::N,maður,mand
+222,Mann::N,karlmaður,mand
+223,Frau::N,kona,kvinde
+224,Kind::N,barn,barn
+225,Kind::N,krakki,barn
+226,Junge::N,drengur,dreng
+227,Mädchen::N,stelpa,pige
+228,Familie::N,fjölskylda,familie
+229,Großvater::N,afi,bedstefar
+230,Großmutter::N,amma,bedstemor
+231,Eltern::N,foreldrar,forældre
+232,Vater::N,faðir,far
+233,Mutter::N,móðir,mor
+234,Sohn::N,sonur,søn
+235,Tochter::N,dóttir,datter
+236,Bruder::N,bróðir,bror
+237,Schwester::N,systir,søster
+238,Onkel::N,föðurbróðir,onkel
+239,Tante::N,frænka,tante
+240,Tante::N,móðursystir,tante
+241,Ehemann::N,eiginmaður,ægtemand
+242,Ehefrau::N,eiginkona,hustru
+243,Freude::N,gleði,glæde
+244,Gelächter::N,hlátur,latter
+245,Glück::N,gæfa,lykke
+246,Kummer::N,sorg,sorg
+247,Wunsch::N,ósk,ønske
+248,Lust::N,fýsn,lyst
+249,Lust::N,löngun,lyst
+250,Geist::N,andi,ånd
+251,Gedanke::N,hugsun,tanke
+252,Gedächtnis::N,minni,hukommelse
+253,Verstand::N,vit,forstand
+254,Sinn::N,merking,mening
+255,Sinn::N,merking,betydning
+256,Grund::N,ástæða,grund
+257,Wahrheit::N,sannleikur,sandhed
+258,Gespräch::N,samtal,samtale
+259,Märchen::N,ævintýri,eventyr
+260,Erzählung::N,saga,fortælling
+261,Nachricht::N,frétt,efterretning
+262,Neuigkeit::N,frétt,nyhed
+263,Name::N,nafn,navn
+264,Rätsel::N,gáta,gåde
+265,Rede::N,ræða,tale
+266,Sprache::N,mál,sprog
+267,Sprache::N,tungumál,sprog
+268,Stimme::N,rödd,stemme
+269,Wort::N,orð,ord
+270,Zeichen::N,tákn,tegn
+271,Zeichen::N,merki,tegn
+272,Ruf::N,kall,råb
+273,Lärm::N,hávaði,larm
+274,Laut::N,hljóð,lyd
+275,Ton::N,tónn,tone
+276,Lied::N,ljóð,sang
+277,Lied::N,söngur,sang
+278,Ruhe::N,ró,ro
+279,Ruhe::N,ró,hvile
+280,Ruhe::N,kyrrð,ro
+281,Ruhe::N,kyrrð,hvile
+282,Leute::N,fólk,folk
+283,Leute::N,fólk,mennesker
+284,Volk::N,þjóð,folk
+285,Arbeit::N,vinna,arbejde
+286,Gast::N,gestur,gæst
+287,Geschenk::N,gjöf,gave
+288,Spiel::N,leikur,leg
+289,Gesellschaft::N,selskapur,selskab
+290,Hilfe::N,hjálp,hjælp
+291,Freund::N,vinur,ven
+292,Kamerad::N,félagi,kammerat
+293,Angelegenheit::N,mál,sag
+294,Angelegenheit::N,mál,anliggende
+295,Angelegenheit::N,málefni,sag
+296,Angelegenheit::N,málefni,anliggende
+297,Anzahl::N,tala,antal
+298,Anzahl::N,fjöldi,antal
+299,Art::N,tegund,art
+300,Stück::N,biti,stykke
+301,Stück::N,stykki,stykke
+302,Teil::N,hluti,del
+303,Teil::N,partur,del
+304,Hälfte::N,helmingur,halvdel
+305,Kreis::N,hringur,cirkel
+306,Kreuz::N,kross,kors
+307,Kreuz::N,kross,kryds
+308,Kreuz::N,krossmark,kors
+309,Kreuz::N,krossmark,kryds
+310,Linie::N,lína,linie
+311,Strich::N,strik,streg
+312,Abstand::N,millibil,afstand
+313,Entfernung::N,fjarlægð,afstand
+314,Gegend::N,hérað,egn
+315,Platz::N,pláss,plads
+316,Ort::N,staður,sted
+317,Seite::N,hlið,side
+318,Mitte::N,miðja,midte
+319,Gegenstand::N,hlutur,genstand
+320,Sache::N,mál,sag
+321,Rand::N,brún,rand
+322,Kante::N,rönd,kant
+323,Ecke::N,horn,hjørne
+324,Spitze::N,oddur,spids
+325,Ende::N,endi,ende
+326,Loch::N,gat,hul
+327,Loch::N,hola,hul
+328,Winkel::N,skot,vinkel
+329,Winkel::N,krókur,vinkel
+330,Muster::N,munstur,mønster
+331,Größe::N,stærð,størrelse
+332,Länge::N,lengd,længde
+333,Höhe::N,hæð,højde
+334,Gewicht::N,vigt,vægt
+335,Gewicht::N,þyngd,vægt
+336,Menge::N,magn,mængde
+337,Haufen::N,hrúga,bunke
+338,Haufen::N,haugur,bunke
+339,Reihe::N,röð,række
+340,Boot::N,bátur,båd
+341,Ruder::N,ár,åre
+342,Schlitten::N,sleði,kælk
+343,Schlitten::N,sleði,slæde
+344,Ski::N,skíði,ski
+345,Lagerfeuer::N,varðeldur,lejrbål
+346,Last::N,byrði,last
+347,Last::N,byrði,byrde
+348,Last::N,farmur,last
+349,Last::N,farmur,byrde
+350,Gang::N,ganga,gang
+351,Schritt::N,skref,skridt
+352,Norden::N,norður,nord
+353,Süden::N,suður,syd
+354,Westen::N,vestur,vest
+355,Osten::N,austur,øst
+356,Holz::N,viður,træ
+357,Brett::N,fjöl,bræt
+358,Platte::N,flötur,plade
+359,Stütze::N,stoð,støtte
+360,Stange::N,stöng,stang
+361,Stock::N,prik,stok
+362,Stock::N,stafur,stok
+363,Stab::N,prik,stav
+364,Stab::N,stafur,stav
+365,Rohr::N,rör,rør
+366,Rohr::N,pípa,rør
+367,Haus::N,hús,hus
+368,Heim::N,heimili,hjem
+369,Ofen::N,ofn,ovn
+370,Fußboden::N,gólf,gulv
+371,Tisch::N,borð,bord
+372,Stuhl::N,stóll,stol
+373,Wiege::N,vagga,vugge
+374,Bett::N,rúm,seng
+375,Bett::N,hvíla,seng
+376,Regal::N,hilla,reol
+377,Kiste::N,kassi,kasse
+378,Fenster::N,gluggi,vindue
+379,Tür::N,dyr,dør
+380,Tür::N,hurð,dør
+381,Tor::N,hlið,port
+382,Zaun::N,girðing,stakit
+383,Zaun::N,limgarður,stakit
+384,Dach::N,þak,tag
+385,Leiter::N,stigi,stige
+386,Besen::N,sópur,kost
+387,Spaten::N,spaði,spade
+388,Schaufel::N,skófla,skovl
+389,Gabel::N,gaffall,gaffel
+390,Löffel::N,skeið,ske
+391,Messer::N,hnífur,kniv
+392,Nagel::N,nögl,søm
+393,Netz::N,net,net
+394,Haken::N,krókur,krog
+395,Griff::N,tak,tag
+396,Griff::N,tak,håndtag
+397,Schloss::N,lás,lås
+398,Bild::N,mynd,billede
+399,Figur::N,stytta,figur
+400,Puppe::N,brúða,dukke
+401,Beutel::N,poki,pose
+402,Beutel::N,baggi,pose
+403,Bündel::N,böggull,bylt
+404,Bündel::N,böggull,bundt
+405,Tasche::N,veski,taske
+406,Eimer::N,fata,spand
+407,Deckel::N,lok,låg
+408,Geschirr::N,leirtau,husgeråd
+409,Sack::N,sekkur,sæk
+410,Tasse::N,bolli,kop
+411,Topf::N,pottur,gryde
+412,Kessel::N,ketill,kedel
+413,Essen::N,matur,måltid
+414,Nahrung::N,fæða,mad
+415,Nahrung::N,fæða,næring
+416,Speise::N,réttur,ret
+417,Speise::N,matarréttur,ret
+418,Fleisch::N,kjöt,kød
+419,Getreide::N,korn,korn
+420,Brei::N,grautur,grød
+421,Brot::N,brauð,brød
+422,Scheibe::N,sneið,skive
+423,Fett::N,fita,fedt
+424,Butter::N,smjör,smør
+425,Öl::N,olía,olie
+426,Salz::N,salt,salt
+427,Suppe::N,súpa,suppe
+428,Honig::N,hunang,honning
+429,Milch::N,mjólk,mælk
+430,Tee::N,te,te
+431,Leder::N,skinn,skind
+432,Wolle::N,ull,uld
+433,Stoff::N,dúkur,stof
+434,Nadel::N,nál,nål
+435,Faden::N,þráður,tråd
+436,Knopf::N,tala,knap
+437,Knopf::N,hnappur,knap
+438,Knoten::N,hnútur,knude
+439,Farbe::N,málning,farve
+440,Kleidung::N,búningur,påklædning
+441,Kleidung::N,klæðnaður,påklædning
+442,Hemd::N,skyrta,skjorte
+443,Kragen::N,kragi,krave
+444,Kragen::N,flibbi,krave
+445,Ärmel::N,ermi,ærme
+446,Hose::N,buxur,bukser
+447,Gürtel::N,belti,bælte
+448,Mütze::N,húfa,hue
+449,Schuh::N,skór,sko
+450,Stiefel::N,stígvél,støvle
+451,Ring::N,hringur,ring
+452,Band::N,band,bånd
+453,Kamm::N,greiða,kam
+454,Spiegel::N,spegill,spejl
+455,Riemen::N,ól,rem
+456,Riemen::N,reim,rem
+457,Schnur::N,snúra,snor
+458,Leine::N,band,snor
+459,Decke::N,teppi,tæppe
+460,Kissen::N,koddi,pude
+461,Tuch::N,klútur,sjaltørklæde
+462,Handtuch::N,þurrka,håndklæde
+463,Handtuch::N,handklæði,håndklæde
+464,Kraft::N,afl,kraft
+465,Kraft::N,kraftur,kraft
+466,Stärke::N,styrkur,styrke
+467,Gesundheit::N,heilsa,sundhed
+468,Gesundheit::N,heilbrigði,sundhed
+469,Krankheit::N,sjúkdómur,sygdom
+470,Schmerz::N,sársauki,smerte
+471,Wunde::N,sár,sår
+472,Fieber::N,hitasótt,feber
+473,Arznei::N,lyf,medicin
+474,Arznei::N,lyf,lægemiddel
+475,Brücke::N,brú,bro
+476,Brunnen::N,brunnur,brønd
+477,Weide::N,hagi,græsgang
+478,Pfad::N,stígur,sti
+479,Weg::N,vegur,vej
+480,Straße::N,gata,gade
+481,Straße::N,stræti,gade
+482,Dorf::N,þorp,landsby
+483,Stadt::N,borg,by
+484,Brief::N,bréf,brev
+485,Buch::N,bók,bog
+486,Buchstabe::N,bókstafur,bogstav
+487,Zeitung::N,dagblað,avis
+488,Leben::N,líf,liv
+489,Tod::N,dauði,død
+490,Grab::N,gröf,grav
+491,Kirche::N,kirkja,kirke
+492,Sünde::N,synd,synd
+493,Gott::N,guð,gud
+494,Arbeiter::N,verkamaður,arbejder
+495,Chef::N,yfirmaður,chef
+496,Meister::N,meistari,mester
+497,Arzt::N,læknir,læge
+498,Lehrer::N,kennari,lærer
+499,Geld::N,peningar,penge
+500,Geschäft::N,viðskipti,forretning
+501,Laden::N,búð,butik
+502,Laden::N,búð,forretning
+503,Laden::N,verslun,butik
+504,Laden::N,verslun,forretning
+505,Preis::N,verð,pris
+506,Ware::N,vara,vare
+507,Nutzen::N,gagn,nytte
+508,Reichtum::N,auður,rigdom
+509,Welt::N,veröld,verden
+510,Land::N,land,land
+511,Staat::N,ríki,stat
+512,König::N,konungur,konge
+513,Macht::N,vald,magt
+514,Grenze::N,landamæri,grænse
+515,Krieg::N,stríð,krig
+516,Feind::N,fjandmaður,fjende
+517,Gewalt::N,ofbeldi,vold
+518,Kampf::N,bardagi,kamp
+519,Bogen[Waffe]::N,bogi,bue
+520,Pfeil::N,ör,pil
+521,Gewehr::N,byssa,gevær
+522,Fehler::N,villa,fejl
+523,Lüge::N,lygi,løgn
+524,Schaden::N,skemmd,skade
+525,Unglück::N,óhamingja,uheld
+526,Unglück::N,óhamingja,ulykke
+527,Schuld::N,sök,skyld
+528,Alter::N,aldur,alder
+529,Schluss::N,lok,slut
+530,Schluss::N,lok,slutning
+531,Schluss::N,endir,slut
+532,Schluss::N,endir,slutning
+533,Zeit::N,tími,tid
+534,Tag::N,dagur,dag
+535,Morgen::N,morgunn,morgen
+536,Mittag::N,hádegi,middag
+537,Abend::N,kvöld,aften
+538,Nacht::N,nótt,nat
+539,Woche::N,vika,uge
+540,Monat::N,mánuður,måned
+541,Jahr::N,ár,år
+542,Frühling::N,vor,forår
+543,Sommer::N,sumar,sommer
+544,Herbst::N,haust,efterår
+545,Winter::N,vetur,vinter
+546,Januar::N,janúar,januar
+547,Februar::N,február,februar
+548,März::N,mars,marts
+549,April::N,apríl,april
+550,Mai::N,maí,maj
+551,Juni::N,júní,juni
+552,Juli::N,júlí,juli
+553,August::N,ágúst,august
+554,September::N,september,september
+555,Oktober::N,október,oktober
+556,November::N,nóvember,november
+557,Dezember::N,desember,december
+558,Montag::N,mánudagur,mandag
+559,Dienstag::N,þriðjudagur,tirsdag
+560,Mittwoch::N,miðvikudagur,onsdag
+561,Donnerstag::N,fimmtudagur,torsdag
+562,Freitag::N,föstudagur,fredag
+563,Samstag::N,laugardagur,lørdag
+564,Sonntag::N,sunnudagur,søndag
+565,groß::A,stór,stor
+566,klein::A,lítill,lille
+567,lang::A,langur,lang
+568,kurz::A,stuttur,kort
+569,breit::A,breiður,bred
+570,schmal::A,mjór,smal
+571,dicht::A,þéttur,tæt
+572,dick[Gegenstand]::A,þykkur,tyk
+573,dünn::A,þunnur,tynd
+574,fein::A,fíngerður,fin
+575,fest::A,fastur,fast
+576,flach::A,flatur,flad
+577,glatt::A,háll,glat
+578,glatt::A,sléttur,glat
+579,hart::A,harður,hård
+580,weich::A,mjúkur,blød
+581,rund::A,kringlóttur,rund
+582,spitz::A,oddhvass,spids
+583,scharf::A,beittur,skarp
+584,stumpf::A,bitlaus,sløv
+585,stumpf::A,bitlaus,stump
+586,schwer::A,þungur,tung
+587,schön::A,fagur,skøn
+588,schön::A,fallegur,skøn
+589,heiß::A,heitur,hed
+590,warm::A,hlýr,varm
+591,warm::A,heitur,varm
+592,kalt::A,kaldur,kold
+593,kühl::A,svalur,kølig
+594,frisch::A,frískur,frisk
+595,feucht::A,rakur,fugtig
+596,feucht::A,þvalur,fugtig
+597,nass::A,votur,våd
+598,nass::A,blautur,våd
+599,trocken::A,þurr,tør
+600,voll::A,fullur,fuld
+601,leer::A,tómur,tom
+602,offen::A,opinn,åben
+603,geschlossen::A,lokaður,lukket
+604,sauber::A,þrifinn,ren
+605,schmutzig::A,óhreinn,snavset
+606,schmutzig::A,sóðalegur,snavset
+607,roh::A,hrár,rå
+608,reif::A,þroskaður,moden
+609,lecker::A,ljúffengur,lækker
+610,süß::A,sætur,sød
+611,bitter::A,beiskur,bitter
+612,sauer::A,súr,sur
+613,hell::A,bjartur,lys
+614,dunkel::A,dimmur,mørk
+615,schwarz::A,svartur,sort
+616,weiß::A,hvítur,hvid
+617,rot::A,rauður,rød
+618,gelb::A,gulur,gul
+619,blau::A,blár,blå
+620,grün::A,grænn,grøn
+621,grau::A,grár,grå
+622,bunt::A,marglitur,broget
+623,billig::A,ódýr,billig
+624,teuer::A,dýr,dyr
+625,wertvoll::A,verðmætur,værdifuld
+626,blind::A,blindur,blind
+627,taub::A,heyrnarlaus,døv
+628,kräftig::A,öflugur,kraftig
+629,stark::A,sterkur,stærk
+630,schwach::A,veill,svag
+631,fett::A,feitur,fed
+632,schlank::A,grannur,slank
+633,schlank::A,spengilegur,slank
+634,hübsch::A,snotur,køn
+635,hübsch::A,laglegur,køn
+636,böse::A,illur,ond
+637,böse::A,illur,slem
+638,böse::A,vondur,ond
+639,böse::A,vondur,slem
+640,dumm::A,heimskur,dum
+641,faul::A,latur,doven
+642,fleißig::A,iðinn,flittig
+643,geizig::A,nískur,gerrig
+644,klug::A,hygginn,klog
+645,geschickt::A,fimur,dygtig
+646,geschickt::A,fimur,behændig
+647,geschickt::A,laginn,dygtig
+648,geschickt::A,laginn,behændig
+649,lieb::A,kær,rar
+650,lieb::A,ljúfur,rar
+651,lustig::A,kátur,lystig
+652,sanft::A,blíður,blid
+653,hungrig::A,soltinn,sulten
+654,hungrig::A,hungraður,sulten
+655,krank::A,sjúkur,syg
+656,nackt::A,nakinn,nøgen
+657,traurig::A,dapur,bedrøvet
+658,traurig::A,hryggur,bedrøvet
+659,lebendig::A,lifandi,levende
+660,gut::A,góður,god
+661,schlecht::A,slæmur,dårlig
+662,schlecht::A,lélegur,dårlig
+663,richtig::A,réttur,rigtig
+664,schlimm::A,slæmur,slem
+665,wahr::A,sannur,sand
+666,alt::A,gamall,gammel
+667,neu::A,nýr,ny
+668,ehemalig::A,fyrrverandi,forhenværende
+669,alt[Lebewesen]::A,gamall,gammel
+670,jung::A,ungur,ung
+671,arm::A,vesall,fattig
+672,arm::A,fátækur,fattig
+673,reich::A,ríkur,rig
+674,reich::A,auðugur,rig
+675,bekannt::A,kunnugur,kendt
+676,berühmt::A,frægur,berømt
+677,fremd::A,framandi,fremmed
+678,fremd::A,ókunnugur,fremmed
+679,verschieden::A,ýmis,forskellig
+680,nah::A,nálægur,nær
+681,fern::A,fjarri,fjern
+682,fern::A,fjarlægur,fjern
+683,linker::A,vinstri,venstre
+684,rechter::A,hægri,højre
+685,anderer::A,annar,anden
+686,erster::A,fyrsti,første
+687,zweiter::A,annar,anden
+688,dritter::A,þriðji,tredje
+689,letzter::A,síðasti,sidste
+690,allein::ADV,einn,alene
+691,allein::ADV,aleinn,alene
+692,auf einmal::ADV,allt í einu,på én gang
+693,zusammen::ADV,saman,sammen
+694,lange::ADV,lengi,længe
+695,plötzlich::ADV,skyndilega,pludselig
+696,sofort::ADV,strax,straks
+697,sofort::ADV,þegar í stað,straks
+698,später::ADV,seinna,senere
+699,jetzt::ADV,nú,nu
+700,jetzt::ADV,núna,nu
+701,heute::ADV,í dag,i dag
+702,morgen::ADV,á morgun,i morgen
+703,bald::ADV,brátt,snart
+704,bald::ADV,bráðum,snart
+705,dann::ADV,svo,så
+706,dann::ADV,síðan,så
+707,gestern::ADV,í gær,i går
+708,einst::ADV,forðum,engang
+709,damals::ADV,þá,dengang
+710,damals::ADV,á þeim tímum,dengang
+711,danach::ADV,á eftir því,derefter
+712,vorher::ADV,áður,før
+713,vorher::ADV,áður,forud
+714,zuerst::ADV,fyrst,først
+715,einmal::ADV,einu sinni,en gang
+716,manchmal::ADV,stundum,sommetider
+717,oft::ADV,oft,ofte
+718,immer::ADV,alltaf,altid
+719,immer::ADV,sífellt,altid
+720,niemals::ADV,aldrei,aldrig
+721,hier::ADV,hér,her
+722,hierhin::ADV,hingað,hid
+723,hierhin::ADV,hingað,herhen
+724,von hier::ADV,héðan,herfra
+725,dort::ADV,þar,der
+726,dort::ADV,þarna,der
+727,dorthin::ADV,þangað,derhen
+728,geradeaus::ADV,beint áfram,lige ud
+729,vorwärts::ADV,áfram,fremad
+730,rückwärts::ADV,aftur á bak,baglæns
+731,zurück::ADV,aftur,tilbage
+732,zurück::ADV,til baka,tilbage
+733,unten::ADV,niðri,nede
+734,unten::ADV,niðri,forneden
+735,unten::ADV,fyrir neðan,nede
+736,unten::ADV,fyrir neðan,forneden
+737,hinab::ADV,niður,ned
+738,hinab::ADV,niður,nedad
+739,hinab::ADV,niður eftir,ned
+740,hinab::ADV,niður eftir,nedad
+741,oben::ADV,uppi,oppe
+742,oben::ADV,uppi,ovenpå
+743,hinauf::ADV,upp,op
+744,hinauf::ADV,upp,opad
+745,hinauf::ADV,upp eftir,op
+746,hinauf::ADV,upp eftir,opad
+747,überall::ADV,alls staðar,overalt
+748,nicht::ADV,ekki,ikke
+749,ein wenig::ADV,dálítið,lidt
+750,kaum::ADV,varla,knap
+751,kaum::ADV,varla,næppe
+752,kaum::ADV,tæplega,knap
+753,kaum::ADV,tæplega,næppe
+754,sehr::ADV,mjög,meget
+755,so::ADV,svo,så
+756,so::ADV,þannig,så
+757,noch::ADV,enn,endnu
+758,noch::ADV,ennþá,endnu
+759,nur::ADV,bara,kun
+760,nur::ADV,bara,bare
+761,nur::ADV,aðeins,kun
+762,nur::ADV,aðeins,bare
+763,schon::ADV,nú þegar,alt
+764,schon::ADV,nú þegar,allerede
+765,wieder::ADV,aftur,igen
+766,wieder::ADV,að nýju,igen
+767,vergebens::ADV,árangurslaust,forgæves
+768,vor::PRP,fyrir,foran
+769,vor::PRP,fyrir,uden for
+770,hinter::PRP,bak við,bag
+771,hinter::PRP,bak við,bagved
+772,hinter::PRP,aftur fyrir,bag
+773,hinter::PRP,aftur fyrir,bagved
+774,unter::PRP,undir,under
+775,durch::PRP,gegnum,gennem
+776,durch::PRP,gegnum,igennem
+777,neben::PRP,hjá,ved siden af
+778,neben::PRP,við hliðina á,ved siden af
+779,zwischen::PRP,milli,mellem
+780,zwischen::PRP,á milli,mellem
+781,wegen::PRP,vegna,på grund af
+782,dies::PRN,þetta,dette
+783,das::PRN,það,det
+784,alles::PRN,allt,alt
+785,ich::PRN,ég,jeg
+786,du::PRN,þú,du
+787,er::PRN,hann,han
+788,wir::PRN,við,vi
+789,ihr::PRN,þið,I
+790,sie::PRN,þær,de
+791,sie::PRN,þeir,de
+792,was::FPRN,hvað,hvad
+793,wer::FPRN,hver,hvem
+794,wo::FADV,hvar,hvor
+795,wohin::FADV,hvert,hvorhen
+796,wie::FADV,hvernig,hvordan
+797,warum::FADV,hvers vegna,hvorfor
+798,wieviel::FNUM,hve mikill,hvor meget
+799,eins::NUM,einn,én
+800,zwei::NUM,tveir,to
+801,drei::NUM,þrír,tre
+802,vier::NUM,fjórir,fire
+803,fünf::NUM,fimm,fem
+804,sechs::NUM,sex,seks
+805,sieben::NUM,sjö,syv
+806,acht::NUM,átta,otte
+807,neun::NUM,níu,ni
+808,zehn::NUM,tíu,ti
+809,elf::NUM,ellefu,elleve
+810,zwölf::NUM,tólf,tolv
+811,zwanzig::NUM,tuttugu,tyve
+812,dreißig::NUM,þrjátíu,tredive
+813,vierzig::NUM,fjörutíu,fyrre
+814,vierzig::NUM,fjörutíu,fyrretyve
+815,fünfzig::NUM,fimmtíu,halvtreds
+816,sechzig::NUM,sextíu,tres
+817,siebzig::NUM,sjötíu,halvfjerds
+818,achtzig::NUM,áttatíu,firs
+819,neunzig::NUM,níutíu,halvfems
+820,hundert::NUM,hundrað,hundrede
+821,tausend::NUM,þúsund,tusind
+822,und::CNJ,og,og
+823,oder::CNJ,eða,eller
+824,stehen::V,standa,stå
+825,sitzen::V,sitja,sidde
+826,liegen::V,liggja,ligge
+827,hängen::V,hanga,hænge
+828,werden::V,verða,blive
+829,passieren::V,gerast,ske
+830,passieren::V,gerast,hænde
+831,beginnen::V,byrja,begynde
+832,enden::V,enda,ende
+833,enden::V,lykta,ende
+834,wechseln::V,skipta,veksle
+835,aufgehen[Sonne]::V,koma upp,gå op
+836,aufgehen[Sonne]::V,koma upp,stå op
+837,untergehen[Sonne]::V,ganga til viðar,gå ned
+838,scheinen[Sonne]::V,skína,skinne
+839,donnern::V,þruma,tordne
+840,wehen::V,blása,blæse
+841,strömen::V,streyma,strømme
+842,fließen::V,fljóta,flyde
+843,sich drehen::V,snúast,dreje sig
+844,schwanken::V,riða,vakle
+845,schwanken::V,rugga,vakle
+846,schwingen::V,sveiflast,svinge
+847,fallen::V,falla,falde
+848,brennen::V,brenna,brænde
+849,rauchen::V,reykja,ryge
+850,regnen::V,rigna,regne
+851,gefrieren::V,frjósa,fryse
+852,tauen::V,þiðna,tø
+853,schmelzen::V,bráðna,smelte
+854,trocknen::V,þorna,tørre
+855,sieden::V,sjóða,koge
+856,faulen::V,rotna,rådne
+857,verfaulen::V,rotna,rådne
+858,reißen::V,rifna,briste
+859,versinken::V,sökkva,synke
+860,versinken::V,sökkva,synke ned
+861,vergehen::V,líða,forløbe
+862,erscheinen::V,birtast,vise sig
+863,verschwinden::V,hverfa,forsvinde
+864,sinken::V,síga,synke
+865,abnehmen::V,lækka,aftage
+866,abnehmen::V,minnka,aftage
+867,zunehmen::V,aukast,tiltage
+868,steigen::V,stíga,stige
+869,wachsen::V,vaxa,gro
+870,wachsen::V,vaxa,vokse
+871,glänzen::V,glóa,glinse
+872,glänzen::V,glampa,glinse
+873,funkeln::V,leiftra,tindre
+874,lärmen::V,hafa hátt,larme
+875,läuten::V,hringja,ringe
+876,klingeln::V,hringja,ringe
+877,klirren::V,glamra,klirre
+878,klirren::V,skrölta,klirre
+879,brausen::V,ólga,bruse
+880,rauschen::V,suða,suse
+881,klingen::V,hljóma,lyde
+882,klingen::V,hljóma,klinge
+883,bellen::V,gelta,gø
+884,heulen::V,væla,hyle
+885,heulen::V,ýlfra,hyle
+886,blasen::V,blása,blæse
+887,pfeifen::V,blístra,fløjte
+888,schreien::V,æpa,skrige
+889,stöhnen::V,stynja,stønne
+890,zittern::V,titra,dirre
+891,zittern::V,titra,skælve
+892,zittern::V,skjálfa,dirre
+893,zittern::V,skjálfa,skælve
+894,leben::V,lifa,leve
+895,geboren werden::V,fæðast,fødes
+896,atmen::V,anda,ånde
+897,atmen::V,draga andann,ånde
+898,trinken::V,drekka,drikke
+899,essen::V,borða,spise
+900,schlucken::V,kingja,synke
+901,müde werden::V,þreytast,blive træt
+902,einschlafen::V,sofna,falde i søvn
+903,schlafen::V,sofa,sove
+904,aufwachen::V,vakna,vågne
+905,aufstehen::V,fara á fætur,stå op
+906,sich erholen::V,hvíla sig,komme sig
+907,krank werden::V,veikjast,blive syg
+908,krank werden::V,verða veikur,blive syg
+909,krank sein::V,vera veikur,være syg
+910,schmerzen::V,kenna til,smerte
+911,husten::V,hósta,hoste
+912,genesen::V,batna,komme sig
+913,genesen::V,frískast,komme sig
+914,sterben::V,deyja,dø
+915,umkommen::V,farast,omkomme
+916,sich bewegen::V,bifast,bevæge sig
+917,sich rühren::V,hreyfast,røre på sig
+918,sich erheben::V,standa upp,rejse sig
+919,sich setzen::V,setjast,sætte sig
+920,hinfallen::V,detta,
+921,laufen::V,labba,løbe
+922,schreiten::V,ganga,skride
+923,spazierengehen::V,ganga sér til skemmtunar,gå en tur
+924,eilen::V,fara hratt,ile
+925,sich beeilen::V,flýta sér,skynde sig
+926,sausen::V,þjóta,suse
+927,rennen::V,hlaupa,løbe
+928,rennen::V,hlaupa,rende
+929,springen::V,stökkva,hoppe
+930,springen::V,stökkva,springe
+931,klettern::V,klifra,klatre
+932,schaukeln::V,róla,gynge
+933,schaukeln::V,rugga,gynge
+934,kriechen::V,skríða,krybe
+935,schwimmen::V,synda,svømme
+936,tauchen::V,kafa,dykke
+937,rudern::V,róa,ro
+938,fahren::V,aka,køre
+939,fahren::V,fara,køre
+940,fliegen::V,fljúga,flyve
+941,gehen::V,fara,gå
+942,gehen::V,ganga,gå
+943,weggehen::V,fara burt,gå bort
+944,weggehen::V,ganga burt,gå bort
+945,abfahren::V,aka burt,køre bort
+946,anhalten::V,stöðva,standse
+947,hineingehen::V,ganga inn,gå ind
+948,eintreten::V,koma inn,træde ind
+949,eintreten::V,ganga inn,træde ind
+950,kommen::V,koma,komme
+951,ankommen::V,koma til,ankomme
+952,zurückkommen::V,koma til baka,komme tilbage
+953,bleiben::V,haldast,blive
+954,bleiben::V,haldast,forblive
+955,bleiben::V,vera kyrr,blive
+956,bleiben::V,vera kyrr,forblive
+957,warten::V,bíða,vente
+958,erwarten::V,búast við,vente
+959,erwarten::V,búast við,afvente
+960,erwarten::V,eiga von á,vente
+961,erwarten::V,eiga von á,afvente
+962,suchen::V,leita,søge
+963,finden::V,finna,finde
+964,versuchen::V,reyna,forsøge
+965,vorbereiten::V,undirbúa,forberede
+966,lieben::V,elska,elske
+967,mögen::V,þykja gott,holde af
+968,mögen::V,þykja gott,kunne lide
+969,mögen::V,falla í geð,holde af
+970,mögen::V,falla í geð,kunne lide
+971,lachen::V,hlæja,le
+972,rühren::V,snerta,røre
+973,weinen::V,gráta,græde
+974,schimpfen::V,skammast,skænde
+975,sich ärgern::V,sárna,ærgre sig
+976,sich ärgern::V,gremjast,ærgre sig
+977,sich fürchten::V,óttast,være bange
+978,fürchten::V,óttast,være bange for
+979,fliehen::V,flýja,flygte
+980,flüchten::V,strjúka,flygte
+981,sehen::V,sjá,se
+982,anschauen::V,horfa á,se på
+983,anschauen::V,horfa á,betragte
+984,ansehen::V,líta á,anse
+985,hören::V,heyra,høre
+986,zuhören::V,hlusta,høre til
+987,probieren::V,smakka,smage
+988,probieren::V,smakka,smage på
+989,riechen::V,þefa,lugte
+990,fühlen::V,finna til,føle
+991,scheinen::V,virðast,synes
+992,zu sehen sein::V,vera að sjá,synes
+993,vernehmen::V,heyra,erfare
+994,vernehmen::V,greina,erfare
+995,frieren::V,frjósa,fryse
+996,tun::V,gera,gøre
+997,können::V,geta,kunne
+998,wollen::V,ætla,ville
+999,wollen::V,vilja,ville
+1000,anfangen::V,hefja,begynde
+1001,beenden::V,enda,afslutte
+1002,beenden::V,ljúka,afslutte
+1003,aufhören::V,lykta,ophøre
+1004,aufhören::V,lykta,holde op
+1005,gelingen::V,heppnast,lykkes
+1006,geraten::V,lukkast,blive
+1007,öffnen::V,opna,åbne
+1008,schließen::V,loka,lukke
+1009,stellen::V,láta,stille
+1010,stellen::V,setja,stille
+1011,setzen::V,láta,sætte
+1012,setzen::V,setja,sætte
+1013,legen::V,láta,lægge
+1014,legen::V,leggja,lægge
+1015,berühren::V,koma við,berøre
+1016,verbinden::V,sameina,forbinde
+1017,bedecken::V,hylja,dække
+1018,bedecken::V,hylja,bedække
+1019,aufhängen::V,hengja,hænge
+1020,aufhängen::V,hengja,hænge op
+1021,aufhängen::V,hengja upp,hænge
+1022,aufhängen::V,hengja upp,hænge op
+1023,anzünden::V,kveikja í,tænde
+1024,anzünden::V,kveikja í,antænde
+1025,aufheben::V,taka upp,løfte
+1026,aufheben::V,taka upp,tage op
+1027,aufheben::V,lyfta upp,løfte
+1028,aufheben::V,lyfta upp,tage op
+1029,zurücklassen::V,skilja eftir,lade tilbage
+1030,verlieren::V,týna,miste
+1031,verlieren::V,glata,miste
+1032,fallen lassen::V,missa,tabe
+1033,fallen lassen::V,missa,droppe
+1034,machen::V,búa til,gøre
+1035,herstellen::V,framleiða,fremstille
+1036,bauen::V,smíða,bygge
+1037,bauen::V,byggja,bygge
+1038,reparieren::V,gera við,reparere
+1039,verbessern::V,bæta,rette
+1040,verbessern::V,bæta,forbedre
+1041,ändern::V,breyta,ændre
+1042,graben::V,grafa,grave
+1043,beugen::V,beygja,bøje
+1044,biegen::V,sveigja,bøje
+1045,drehen::V,snúa,dreje
+1046,wenden::V,snúa,vende
+1047,wenden::V,venda,vende
+1048,umdrehen::V,venda,dreje om
+1049,umdrehen::V,snúa við,dreje om
+1050,heben::V,hefja,hæve
+1051,hochheben::V,lyfta upp,løfte
+1052,ergreifen::V,grípa,gribe fat i
+1053,halten::V,rúma,holde
+1054,halten::V,halda,holde
+1055,drücken::V,þjá,trykke
+1056,drücken::V,þrýsta,trykke
+1057,schieben::V,ýta,skyde
+1058,schieben::V,ýta,skubbe
+1059,kratzen::V,klóra,klø
+1060,kratzen::V,klóra,kradse
+1061,lecken::V,sleikja,slikke
+1062,beißen::V,bíta,bide
+1063,abreißen::V,rífa af,rive af
+1064,abreißen::V,rífa frá,rive af
+1065,abschneiden::V,skera af,skære af
+1066,abschneiden::V,klippa af,skære af
+1067,binden::V,binda,binde
+1068,stecken::V,stinga,stikke
+1069,brechen::V,brjóta,brække
+1070,klopfen::V,berja,banke
+1071,klopfen::V,klappa,banke
+1072,hauen::V,berja,hugge
+1073,hauen::V,höggva,hugge
+1074,kleben::V,líma,klistre
+1075,reiben::V,núa,gnide
+1076,streichen::V,smyrja,smøre
+1077,schleifen::V,slípa,slibe
+1078,schneiden::V,skera,skære
+1079,schneiden::V,skera,klippe
+1080,schneiden::V,klippa,skære
+1081,schneiden::V,klippa,klippe
+1082,rütteln::V,skaka,ruske
+1083,schütteln::V,hrista,ryste
+1084,schwenken::V,sveifla,svinge
+1085,schütten::V,hella,hælde
+1086,füllen::V,fylla,fylde
+1087,einwickeln::V,vefja inn í,pakke ind
+1088,tragen::V,bera,bære
+1089,schleppen::V,draga,slæbe
+1090,ziehen::V,toga,trække
+1091,ziehen::V,draga,trække
+1092,aufbewahren::V,geyma,opbevare
+1093,werfen::V,kasta,kaste
+1094,fangen::V,grípa,fange
+1095,packen::V,þrífa í,gribe
+1096,verstecken::V,fela,gemme
+1097,teilen::V,deila,dele
+1098,schicken::V,senda,sende
+1099,bringen::V,færa,bringe
+1100,bringen::V,flytja,bringe
+1101,hinzufügen::V,bæta við,tilføje
+1102,bekommen::V,hljóta,få
+1103,bekommen::V,ná,få
+1104,erhalten::V,fá,få
+1105,nehmen::V,taka,tage
+1106,wählen::V,velja,vælge
+1107,auswählen::V,velja úr,udvælge
+1108,bewahren::V,gæta,bevare
+1109,bewahren::V,vernda,bevare
+1110,behindern::V,varna,hindre
+1111,behindern::V,varna,forhindre
+1112,verderben::V,spilla,ødelægge
+1113,beschädigen::V,skemma,beskadige
+1114,zerbrechen::V,brjóta,brække itu
+1115,zerreißen::V,rífa,rive itu
+1116,zerreißen::V,rífa sundur,rive itu
+1117,zerstören::V,rífa niður,ødelægge
+1118,verbrennen::V,brenna,brænde
+1119,geben::V,gefa,give
+1120,reichen::V,rétta,række
+1121,schenken::V,gefa,forære
+1122,versprechen::V,lofa,love
+1123,versprechen::V,heita,love
+1124,wünschen::V,óska,ønske
+1125,loben::V,lofa,rose
+1126,loben::V,hrósa,rose
+1127,küssen::V,kyssa,kysse
+1128,wiegen::V,rugga,vugge
+1129,zudecken::V,þekja,dække til
+1130,zudecken::V,breiða yfir,dække til
+1131,wecken::V,vekja,vække
+1132,zeigen::V,sýna,vise
+1133,führen::V,leiða,føre
+1134,lehren::V,kenna,lære
+1135,unterrichten::V,fræða,undervise
+1136,aufziehen::V,ala upp,opdrage
+1137,leiten::V,stjórna,lede
+1138,antreiben::V,hvetja,skynde på
+1139,lassen::V,láta,få til at
+1140,einladen::V,bjóða heim,indbyde
+1141,einladen::V,bjóða heim,invitere
+1142,vereinigen::V,sameina,forene
+1143,besuchen::V,heimsækja,besøge
+1144,treffen::V,hitta,møde
+1145,sich versammeln::V,safnast saman,forsamles
+1146,spielen::V,leika sér,lege
+1147,spielen::V,leika sér,spille
+1148,singen::V,syngja,synge
+1149,tanzen::V,dansa,danse
+1150,sich trennen::V,skiljast,skilles
+1151,verlassen::V,yfirgefa,forlade
+1152,retten::V,bjarga,redde
+1153,bewachen::V,gæta,bevogte
+1154,bewachen::V,hafa vörð á,bevogte
+1155,schützen::V,vernda,skærme
+1156,schützen::V,vernda,beskytte
+1157,verteidigen::V,verja,forsvare
+1158,sich schlagen::V,slást,slås
+1159,sich schlagen::V,berjast,slås
+1160,schießen::V,skjóta,skyde
+1161,siegen::V,sigra,sejre
+1162,ärgern::V,ergja,ærgre
+1163,ärgern::V,skaprauna,ærgre
+1164,schlagen::V,slá,slå
+1165,schlagen::V,lemja,slå
+1166,treten::V,sparka,sparke
+1167,stechen::V,stinga,stikke
+1168,stoßen::V,hrinda,støde
+1169,stehlen::V,stela,stjæle
+1170,stören::V,trufla,forstyrre
+1171,belästigen::V,ónáða,genere
+1172,belästigen::V,ónáða,ulejlige
+1173,verbergen::V,leyna,skjule
+1174,täuschen::V,gabba,villede
+1175,täuschen::V,blekkja,villede
+1176,betrügen::V,svíkja,bedrage
+1177,betrügen::V,blekkja,bedrage
+1178,töten::V,drepa,dræbe
+1179,wohnen::V,búa,bo
+1180,arbeiten::V,vinna,arbejde
+1181,sammeln::V,safna,samle
+1182,pflücken::V,tína,plukke
+1183,pflücken::V,reyta,plukke
+1184,jagen::V,veiða,jage
+1185,fischen::V,fiska,fiske
+1186,fassen::V,veiða,fange
+1187,hüten::V,gæta,vogte
+1188,hüten::V,vakta,vogte
+1189,treiben::V,reka,drive
+1190,anbinden::V,binda við,binde fast
+1191,anbinden::V,binda fast,binde fast
+1192,füttern::V,fóðra,fodre
+1193,melken::V,mjólka,malke
+1194,hacken::V,höggva,hakke
+1195,gießen::V,hella,hælde
+1196,reifen::V,þroskast,modne
+1197,zubereiten::V,elda,tilberede
+1198,zubereiten::V,tilbúa,tilberede
+1199,kochen::V,sjóða,koge
+1200,backen::V,baka,bage
+1201,braten::V,steikja,stege
+1202,umrühren::V,hræra í,røre om
+1203,stricken::V,prjóna,strikke
+1204,nähen::V,sauma,sy
+1205,färben::V,lita,farve
+1206,reinigen::V,hreinsa,rense
+1207,reinigen::V,hreinsa,gøre ren
+1208,waschen::V,þvo,vaske
+1209,abwischen::V,þerra,tørre af
+1210,spülen::V,skola,skylle
+1211,spülen::V,þvo upp,skylle
+1212,fegen::V,sópa,feje
+1213,fegen::V,hreinsa,feje
+1214,kehren::V,sópa,feje
+1215,baden::V,baða sig,bade
+1216,sich waschen::V,þvo sér,vaske sig
+1217,ausziehen::V,fara úr,tage af
+1218,anziehen::V,fara í,tage på
+1219,sich anziehen::V,klæðast,klæde sig på
+1220,kämmen::V,greiða,rede
+1221,kämmen::V,greiða,frisere
+1222,schmücken::V,prýða,pynte
+1223,schmücken::V,prýða,smykke
+1224,schmücken::V,skreyta,pynte
+1225,schmücken::V,skreyta,smykke
+1226,sagen::V,segja,sige
+1227,sprechen::V,tala,snakke
+1228,reden::V,ræða,tale
+1229,reden::V,ræða,snakke
+1230,sich unterhalten::V,spjalla,snakke sammen
+1231,sich unterhalten::V,ræðast við,snakke sammen
+1232,fragen::V,spyrja,spørge
+1233,bitten::V,biðja,bede
+1234,erzählen::V,segja frá,berette
+1235,erzählen::V,segja frá,fortælle
+1236,mitteilen::V,tilkynna,meddele
+1237,nennen::V,nefna,nævne
+1238,rufen::V,kalla,råbe
+1239,prahlen::V,gorta,prale
+1240,übersetzen::V,þýða,oversætte
+1241,denken::V,hugsa,tænke
+1242,glauben::V,trúa,tro
+1243,bemerken::V,taka eftir,bemærke
+1244,bemerken::V,taka eftir,lægge mærke til
+1245,erkennen::V,þekkja,genkende
+1246,begreifen::V,skilja,begribe
+1247,verstehen::V,skilja,forstå
+1248,lernen::V,læra,lære
+1249,wissen::V,vita,vide
+1250,sich erinnern an::V,minnast,mindes
+1251,sich erinnern an::V,minnast,huske på
+1252,vergessen::V,gleyma,glemme
+1253,messen::V,mæla,måle
+1254,zählen::V,telja,tælle
+1255,rechnen::V,reikna,regne
+1256,lesen::V,lesa,læse
+1257,malen::V,mála,male
+1258,zeichnen::V,teikna,tegne
+1259,schreiben::V,skrifa,skrive
+1260,besitzen::V,hafa,eje
+1261,besitzen::V,hafa,besidde
+1262,kaufen::V,kaupa,købe
+1263,verkaufen::V,selja,sælge
+1264,bezahlen::V,borga,betale
+1265,zahlen::V,borga,betale
+1266,beherrschen::V,hafa á valdi sínu,beherske
+1267,ertragen::V,þola,tåle
+1268,ertragen::V,þola,udholde

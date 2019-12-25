@@ -1,0 +1,2476 @@
+,Concept_ID,lv,ta
+0,Auge::N,син,கண்
+1,Auge::N,acs,கண்
+2,Ohr::N,пель,காது
+3,Ohr::N,auss,காது
+4,Nase::N,ныр,மூக்கு
+5,Nase::N,deguns,மூக்கு
+6,Mund::N,вом,வாய்
+7,Mund::N,mute,வாய்
+8,Zahn::N,пинь,பல்
+9,Zahn::N,zobs,பல்
+10,Zunge::N,кыв,நாக்கு
+11,Zunge::N,mēle,நாக்கு
+12,Lippe::N,вом дор,உதடு
+13,Lippe::N,lūpa,உதடு
+14,Wange::N,бан,கன்னம்
+15,Wange::N,vaigs,கன்னம்
+16,Gesicht::N,чужӧм,முகம்
+17,Gesicht::N,seja,முகம்
+18,Gesicht::N,ģīmis,முகம்
+19,Stirn::N,плеш,முன்னெற்றி
+20,Stirn::N,кымӧс,முன்னெற்றி
+21,Stirn::N,piere,முன்னெற்றி
+22,Haar::N,си,முடி
+23,Haar::N,юрси,முடி
+24,Haar::N,mats,முடி
+25,Schnurrbart::N,ус,மீசை
+26,Schnurrbart::N,пыртсим,மீசை
+27,Schnurrbart::N,ūsas,மீசை
+28,Bart::N,тош,தாடி
+29,Bart::N,bārda,தாடி
+30,Kinn::N,тшӧка,கீழதாடை
+31,Kinn::N,zods,கீழதாடை
+32,Kinn::N,smakrs,கீழதாடை
+33,Kiefer[Anatomie]::N,черлы,தாடை
+34,Kiefer[Anatomie]::N,алака лы,தாடை
+35,Kiefer[Anatomie]::N,вомкӧтш лы,தாடை
+36,Kiefer[Anatomie]::N,žoklis,தாடை
+37,Kehle::N,голя,தொண்டை
+38,Kehle::N,rīkle,தொண்டை
+39,Hals::N,сьылі,கழுத்து
+40,Hals::N,kakls,கழுத்து
+41,Genick::N,юрбӧр,கழுத்து
+42,Genick::N,балябӧж,கழுத்து
+43,Genick::N,sprands,கழுத்து
+44,Kopf::N,юр,தலை
+45,Kopf::N,galva,தலை
+46,Rücken::N,мыш,முதுகு
+47,Rücken::N,mugura,முதுகு
+48,Bauch::N,рушку,வயிறு
+49,Bauch::N,vēders,வயிறு
+50,Nabel::N,гӧг,தொப்புள்
+51,Nabel::N,naba,தொப்புள்
+52,Busen::N,морӧс,மார்பகம்
+53,Busen::N,krūts,மார்பகம்
+54,Brust::N,морӧс, மார்பு
+55,Brust::N,krūts, மார்பு
+56,Schulter::N,пельпом,தோள்பட்டை
+57,Schulter::N,plecs,தோள்பட்டை
+58,Arm::N,ки,கரம்
+59,Arm::N,roka,கரம்
+60,Arm::N,delms,கரம்
+61,Ellenbogen::N,гырддза,முழங்கை
+62,Ellenbogen::N,elkonis,முழங்கை
+63,Hand::N,ки,கை
+64,Hand::N,roka,கை
+65,Hand::N,plauksta,கை
+66,Handfläche::N,ки пыдӧс,உள்ளங்கை
+67,Handfläche::N,delna,உள்ளங்கை
+68,Handfläche::N,plauksta,உள்ளங்கை
+69,Finger::N,чунь,விரல்
+70,Finger::N,pirksts,விரல்
+71,Fingernagel::N,гыж,விரல் நகம்
+72,Fingernagel::N,nags,விரல் நகம்
+73,Nagel[Anatomie]::N,гыж,நகம்
+74,Nagel[Anatomie]::N,nags,நகம்
+75,Zeh::N,кок чунь,கால்விரல்
+76,Zeh::N,pirksts,கால்விரல்
+77,Fuß::N,кок,கால்
+78,Fuß::N,kāja,கால்
+79,Ferse::N,кокбӧр,குதிகால்
+80,Ferse::N,papēdis,குதிகால்
+81,Knie::N,пидзӧс,முழங்கால்
+82,Knie::N,celis,முழங்கால்
+83,Oberschenkel::N,лядьвей,தொடை
+84,Oberschenkel::N,бек,தொடை
+85,Oberschenkel::N,ciska,தொடை
+86,Oberschenkel::N,augšstilbs,தொடை
+87,Bein::N,кок,கால்
+88,Bein::N,kāja,கால்
+89,Körper::N,туша,உடல்
+90,Körper::N,вывтыр,உடல்
+91,Körper::N,miesa,உடல்
+92,Körper::N,ķermenis,உடல்
+93,Haut::N,ку,சருமம்
+94,Haut::N,āda,சருமம்
+95,Blut::N,вир,இரத்தம்
+96,Blut::N,asins,இரத்தம்
+97,Ader::N,сӧн,நாளம்
+98,Ader::N,asinsvads,நாளம்
+99,Sehne::N,вез,தசைநார்
+100,Sehne::N,dzīsla,தசைநார்
+101,Knochen::N,лы,எலுமபு
+102,Knochen::N,kauls,எலுமபு
+103,Gehirn::N,вем,மூனை
+104,Gehirn::N,smadzenes,மூனை
+105,Herz::N,сьӧлӧм,இதயம
+106,Herz::N,sirds,இதயம
+107,Magen::N,кынӧм,வயிறு
+108,Magen::N,kuņģis,வயிறு
+109,Leber::N,мус,கல்லீரல்
+110,Leber::N,aknas,கல்லீரல்
+111,Atem::N,лов,மூச்சு
+112,Atem::N,elpa,மூச்சு
+113,Hunger::N,тшыг,பசி
+114,Hunger::N,bads,பசி
+115,Hunger::N,izsalkums,பசி
+116,Träne::N,синва,கண்ணீர்
+117,Träne::N,asara,கண்ணீர்
+118,Geschmack::N,кӧр,நறுமணம்
+119,Geschmack::N,чӧсмӧс,நறுமணம்
+120,Geschmack::N,garša,நறுமணம்
+121,Geruch::N,зын,துர்நாற்றம்
+122,Geruch::N,дук,துர்நாற்றம்
+123,Geruch::N,smaka,துர்நாற்றம்
+124,Schlaf::N,узьӧм,தூக்கம்
+125,Schlaf::N,miegs,தூக்கம்
+126,Traum::N,вӧт,கனவு
+127,Traum::N,вӧтасьӧм,கனவு
+128,Traum::N,sapnis,கனவு
+129,Himmel::N,енэж,வானம்
+130,Himmel::N,debess,வானம்
+131,Sonne::N,шонді,சூரியன்
+132,Sonne::N,saule,சூரியன்
+133,Mond::N,тӧлысь,சந்திரன்
+134,Mond::N,mēness,சந்திரன்
+135,Stern::N,кодзув,நட்சத்திரம்
+136,Stern::N,zvaigzne,நட்சத்திரம்
+137,Luft::N,сынӧд,காறறு
+138,Luft::N,gaiss,காறறு
+139,Wind::N,тӧв,காற்று
+140,Wind::N,vējš,காற்று
+141,Welle::N,гы,அலை
+142,Welle::N,vilnis,அலை
+143,Wasser::N,ва,நீர்
+144,Wasser::N,ūdens,நீர்
+145,Stein::N,из,கல்
+146,Stein::N,akmens,கல்
+147,Boden::N,му,தரை
+148,Boden::N,augsne,தரை
+149,Erde::N,му,மண்
+150,Erde::N,му-ва,மண்
+151,Erde::N,zeme,மண்
+152,Staub::N,бус,தூசி
+153,Staub::N,putekļi,தூசி
+154,Rauch::N,тшын,புகை
+155,Rauch::N,dūmi,புகை
+156,Funke::N,кинь,தீப்பொறி
+157,Funke::N,би кинь,தீப்பொறி
+158,Funke::N,dzirkstele,தீப்பொறி
+159,Feuer::N,би,தீ
+160,Feuer::N,uguns,தீ
+161,Licht::N,югӧр,வெளிச்சம்
+162,Licht::N,gaisma,வெளிச்சம்
+163,Schatten::N,вуджӧр,நிழல்
+164,Schatten::N,ēna,நிழல்
+165,Wetter::N,поводдя,வானிலை
+166,Wetter::N,laiks,வானிலை
+167,Nebel::N,ру,பனிமூட்டம்
+168,Nebel::N,онь,பனிமூட்டம்
+169,Nebel::N,migla,பனிமூட்டம்
+170,Wolke::N,кымӧр,மேகம்
+171,Wolke::N,mākonis,மேகம்
+172,Regen::N,зэр,மழை
+173,Regen::N,lietus,மழை
+174,Schnee::N,лым,உறைபனி
+175,Schnee::N,sniegs,உறைபனி
+176,Eis::N,йи,பனிக்கட்டி
+177,Eis::N,ledus,பனிக்கட்டி
+178,Frost::N,кӧдзыд,உறைபனி
+179,Frost::N,sals,உறைபனி
+180,Kälte::N,кӧдзыд,குளிர்ந்த
+181,Kälte::N,saltums,குளிர்ந்த
+182,Kälte::N,aukstums,குளிர்ந்த
+183,Hitze::N,пӧсь,சூடு
+184,Hitze::N,гожӧд,சூடு
+185,Hitze::N,karstums,சூடு
+186,Raureif::N,пуж,உறைபனி வெண்திரை
+187,Raureif::N,гыӧр,உறைபனி வெண்திரை
+188,Raureif::N,sarma,உறைபனி வெண்திரை
+189,Regenbogen::N,ӧшкамӧшка,வானவில்
+190,Regenbogen::N,varavīksne,வானவில்
+191,Donner::N,гым,இடி
+192,Donner::N,pērkons,இடி
+193,Strömung::N,ва ныр,நீரோட்டம்
+194,Strömung::N,визувтӧм,நீரோட்டம்
+195,Strömung::N,straume,நீரோட்டம்
+196,Strömung::N,strāvojums,நீரோட்டம்
+197,Tropfen::N,войт,துளி
+198,Tropfen::N,lāse,துளி
+199,Schaum::N,быг,நுரை
+200,Schaum::N,быгзьӧм,நுரை
+201,Schaum::N,putas,நுரை
+202,Schmutz::N,няйт,அழுக்கு
+203,Schmutz::N,dubļi,அழுக்கு
+204,See::N,ты,ஏரி
+205,See::N,ezers,ஏரி
+206,Sumpf::N,гыбад,சதுப்பு நிலம்
+207,Sumpf::N,кад,சதுப்பு நிலம்
+208,Sumpf::N,dumbrājs,சதுப்பு நிலம்
+209,Sumpf::N,staignājs,சதுப்பு நிலம்
+210,Moor::N,нюр,முட்புதற்காடு
+211,Moor::N,purvs,முட்புதற்காடு
+212,Moor::N,muklājs,முட்புதற்காடு
+213,Wiese::N,видз,பசும் புல்தரை
+214,Wiese::N,pļava,பசும் புல்தரை
+215,Wald::N,вӧр,காடு
+216,Wald::N,mežs,காடு
+217,Hügel::N,дзиб,குன்று
+218,Hügel::N,мыльк,குன்று
+219,Hügel::N,нӧрыс,குன்று
+220,Hügel::N,paugurs,குன்று
+221,Anhöhe::N,мыльк,பதுக்கை
+222,Anhöhe::N,нӧрыс,பதுக்கை
+223,Anhöhe::N,paugurs,பதுக்கை
+224,Berg::N,чой,மலை
+225,Berg::N,керӧс,மலை
+226,Berg::N,kalns,மலை
+227,Gipfel::N,чук,உச்சி மாநாடு
+228,Gipfel::N,virsotne,உச்சி மாநாடு
+229,Höhle::N,рудӧг,குகை
+230,Höhle::N,ala,குகை
+231,Abhang::N,ньывк,சரிவு
+232,Abhang::N,бокша,சரிவு
+233,Abhang::N,nogāze,சரிவு
+234,Quelle::N,ӧшмӧс,மூலம்
+235,Quelle::N,avots,மூலம்
+236,Bach::N,шор,ஓடை
+237,Bach::N,urga,ஓடை
+238,Bach::N,strauts,ஓடை
+239,Fluss::N,ю,ஆறு
+240,Fluss::N,upe,ஆறு
+241,Ufer::N,вадор,நீர்க்கரை
+242,Ufer::N,krasts,நீர்க்கரை
+243,Küste::N,вадор,கடற்கரை
+244,Küste::N,piekraste,கடற்கரை
+245,Festland::N,му,நிலம்
+246,Festland::N,sauszeme,நிலம்
+247,Meer::N,саридз,கடல்
+248,Meer::N,jūra,கடல்
+249,Bucht::N,куръя,சிறுகுடா
+250,Bucht::N,līcis,சிறுகுடா
+251,Insel::N,ді,தீவு
+252,Insel::N,sala,தீவு
+253,Blume::N,дзоридз,பூ
+254,Blume::N,puķe,பூ
+255,Blume::N,zieds,பூ
+256,Gras::N,турун,புல்தரை
+257,Gras::N,zāle,புல்தரை
+258,Wurzel::N,вуж,வேர்
+259,Wurzel::N,sakne,வேர்
+260,Baum::N,пу,மரம்
+261,Baum::N,koks,மரம்
+262,Stamm::N,пучер,அடிமரம்
+263,Stamm::N,stumbrs,அடிமரம்
+264,Rinde::N,кырсь,பட்டை
+265,Rinde::N,кырсь,மரப்பட்டை
+266,Rinde::N,miza,பட்டை
+267,Rinde::N,miza,மரப்பட்டை
+268,Ast::N,ув,கினை
+269,Ast::N,zars,கினை
+270,Zweig::N,вож,குச்சி
+271,Zweig::N,nozare,குச்சி
+272,Blatt::N,кор,இலை
+273,Blatt::N,lapa,இலை
+274,Birke::N,кыдз,பிர்ச் மரம்
+275,Birke::N,bērzs,பிர்ச் மரம்
+276,Kiefer[Baum]::N,пожӧм,தேவதாரு மரம்
+277,Kiefer[Baum]::N,priede,தேவதாரு மரம்
+278,Weide[Baum]::N,бадь,மர வகைகளுள் ஒன்று
+279,Weide[Baum]::N,kārkls,மர வகைகளுள் ஒன்று
+280,Tanne::N,коз,சாதிக்கய்
+281,Tanne::N,egle,சாதிக்கய்
+282,Horn::N,сюр,கொம்பு
+283,Horn::N,rags,கொம்பு
+284,Feder::N,гӧн,இறகு
+285,Feder::N,тывборд,இறகு
+286,Feder::N,spalva,இறகு
+287,Fell::N,ку,மென்முடி
+288,Fell::N,āda,மென்முடி
+289,Flügel::N,борд,இறக்கை
+290,Flügel::N,spārns,இறக்கை
+291,Klaue::N,гыж,நகம்
+292,Klaue::N,nags,நகம்
+293,Kralle::N,гыж,நகம்
+294,Kralle::N,nags,நகம்
+295,Schwanz::N,бӧж,வால்
+296,Schwanz::N,ļipa,வால்
+297,Ei::N,кольк,முட்டை
+298,Ei::N,ola,முட்டை
+299,Nest::N,поз,கூடு
+300,Nest::N,ligzda,கூடு
+301,Bau::N,горс,குகை
+302,Bau::N,пырмӧс,குகை
+303,Bau::N,гу,குகை
+304,Bau::N,ala,குகை
+305,Tier::N,пемӧс,விலங்கு
+306,Tier::N,dzīvnieks,விலங்கு
+307,Herde::N,стада,கூட்டம்
+308,Herde::N,кельӧб,கூட்டம்
+309,Herde::N,ganāmpulks,கூட்டம்
+310,Kuh::N,мӧс,பசு
+311,Kuh::N,govs,பசு
+312,Bulle::N,ӧш,காளை
+313,Bulle::N,bullis,காளை
+314,Pferd::N,вӧв,குதிரை
+315,Pferd::N,zirgs,குதிரை
+316,Schaf::N,ыж,செம்மறிஆடு
+317,Schaf::N,aita,செம்மறிஆடு
+318,Schwein::N,порсь,பன்றி
+319,Schwein::N,cūka,பன்றி
+320,Hund::N,пон,நாய்
+321,Hund::N,suns,நாய்
+322,Katze::N,кань,பூனை
+323,Katze::N,kaķis,பூனை
+324,Bär::N,ош,கரடி
+325,Bär::N,lācis,கரடி
+326,Eichhörnchen::N,ур,அணில்
+327,Eichhörnchen::N,vāvere,அணில்
+328,Elch::N,йӧра,கடம்பை
+329,Elch::N,alnis,கடம்பை
+330,Fuchs::N,руч,நரி
+331,Fuchs::N,lapsa,நரி
+332,Hase::N,кӧч,முயல்
+333,Hase::N,zaķis,முயல்
+334,Maus::N,шыр,எலி
+335,Maus::N,pele,எலி
+336,Wolf::N,кӧин,ஓநாய்
+337,Wolf::N,vilks,ஓநாய்
+338,Vogel::N,кай,பறவை
+339,Vogel::N,лэбач,பறவை
+340,Vogel::N,putns,பறவை
+341,Schwarm::N,чукӧр,தொகுதி
+342,Schwarm::N,spiets,தொகுதி
+343,Huhn::N,курӧг,கோழிக்குஞசு
+344,Huhn::N,vista,கோழிக்குஞசு
+345,Hahn::N,петук,சேவல்
+346,Hahn::N,gailis,சேவல்
+347,Gans::N,дзодзӧг,பெண் வாத்து
+348,Gans::N,zoss,பெண் வாத்து
+349,Adler::N,кутш,பருநது
+350,Adler::N,ērglis,பருநது
+351,Ente::N,утка,வாத்து
+352,Ente::N,pīle,வாத்து
+353,Eule::N,сюзь,ஆந்தை
+354,Eule::N,pūce,ஆந்தை
+355,Kranich::N,тури,நாரை
+356,Kranich::N,dzērve,நாரை
+357,Krähe::N,рака,காகம்
+358,Krähe::N,vārna,காகம்
+359,Kuckuck::N,кӧк,குயில்
+360,Kuckuck::N,dzeguze,குயில்
+361,Schwan::N,юсь,அன்னம்
+362,Schwan::N,gulbis,அன்னம்
+363,Fisch::N,чери,மீன்
+364,Fisch::N,zivs,மீன்
+365,Barsch::N,ёкыш,பேர்ச்
+366,Barsch::N,asaris,பேர்ச்
+367,Hecht::N,сир,கோலாச்சி மீன்
+368,Hecht::N,līdaka,கோலாச்சி மீன்
+369,Schlange[Tier]::N,кый,பாம்பு
+370,Schlange[Tier]::N,čūska,பாம்பு
+371,Wurm::N,номыр,புழு
+372,Wurm::N,tārps,புழு
+373,Spinne::N,черань,சிலந்தி
+374,Spinne::N,zirneklis,சிலந்தி
+375,Ameise::N,кодзувкот,எறும்பு
+376,Ameise::N,skudra,எறும்பு
+377,Laus::N,той,பேன்
+378,Laus::N,uts,பேன்
+379,Mücke::N,ном,கொசுவினப்பூச்சி
+380,Mücke::N,ods,கொசுவினப்பூச்சி
+381,Fliege::N,гут,ஈ
+382,Fliege::N,muša,ஈ
+383,Schmetterling::N,бобув,வண்ணத்துப்பூச்சி
+384,Schmetterling::N,tauriņš,வண்ணத்துப்பூச்சி
+385,Beere::N,тусь,சதைப்பழம்
+386,Beere::N,вотӧс,சதைப்பழம்
+387,Beere::N,oga,சதைப்பழம்
+388,Apfel::N,яблӧг,ஆப்பிள பழம்
+389,Apfel::N,ābols,ஆப்பிள பழம்
+390,Pilz::N,тшак,காளான்
+391,Pilz::N,sēne,காளான்
+392,Zwiebel::N,луккок,வெங்காயம்
+393,Zwiebel::N,йӧнгыль,வெங்காயம்
+394,Zwiebel::N,sīpols,வெங்காயம்
+395,Saat::N,тусь,விதை
+396,Saat::N,кӧйдыс,விதை
+397,Saat::N,sēkla,விதை
+398,Korn::N,тусь,தானியம்
+399,Korn::N,grauds,தானியம்
+400,Heu::N,турун,வைக்கோல்
+401,Heu::N,siens,வைக்கோல்
+402,Schale::N,кор,தோல்
+403,Schale::N,čaula,தோல்
+404,Schale::N,čaumala,தோல்
+405,Grube::N,гу,குழி
+406,Grube::N,bedre,குழி
+407,Falle::N,лэч,பொறி
+408,Falle::N,slazds,பொறி
+409,Falle::N,lamatas,பொறி
+410,Schlinge::N,лэч,கண்ணி
+411,Schlinge::N,cilpa,கண்ணி
+412,Spur::N,туй,சுவடு
+413,Spur::N,pēda,சுவடு
+414,Asche::N,пӧм,சாம்பல்
+415,Asche::N,pelni,சாம்பல்
+416,Dreck::N,няйт,அழுக்கு
+417,Dreck::N,dubļi,அழுக்கு
+418,Eisen::N,кӧрт,இரும்பு
+419,Eisen::N,dzelzs,இரும்பு
+420,Gold::N,зарни,தங்கம்
+421,Gold::N,zelts,தங்கம்
+422,Silber::N,эзысь,வெள்ளி
+423,Silber::N,sudrabs,வெள்ளி
+424,Kohle::N,шом,நிலக்கரி
+425,Kohle::N,ogle,நிலக்கரி
+426,Glas::N,стеклӧ,கண்ணாடி
+427,Glas::N,stikls,கண்ணாடி
+428,Lehm::N,сёй,களிமண்
+429,Lehm::N,māls,களிமண்
+430,Sand::N,лыа,மணல்
+431,Sand::N,smiltis,மணல்
+432,Mensch::N,морт,மனிதர்கள்
+433,Mensch::N,cilvēks,மனிதர்கள்
+434,Mann::N,аймӧрт,மனிதன்
+435,Mann::N,мужичӧй,மனிதன்
+436,Mann::N,vīrietis,மனிதன்
+437,Frau::N,ань,பெண்
+438,Frau::N,нывбаба,பெண்
+439,Frau::N,sieviete,பெண்
+440,Kind::N,кага,குழந்தை
+441,Kind::N,bērns,குழந்தை
+442,Junge::N,пи,பையன்
+443,Junge::N,zēns,பையன்
+444,Junge::N,puika,பையன்
+445,Junge::N,puisis,பையன்
+446,Mädchen::N,ныв,சிறுமி
+447,Mädchen::N,meiča,சிறுமி
+448,Mädchen::N,skuķis,சிறுமி
+449,Mädchen::N,meitene,சிறுமி
+450,Familie::N,семья,குடும்பம்
+451,Familie::N,ģimene,குடும்பம்
+452,Großvater::N,пӧль,தாத்தா
+453,Großvater::N,vecaistēvs,தாத்தா
+454,Großmutter::N,баб,பாட்டி
+455,Großmutter::N,vecāmāte,பாட்டி
+456,Eltern::N,ай-мам,பெற்றோர்
+457,Eltern::N,бать-мам,பெற்றோர்
+458,Eltern::N,vecāki,பெற்றோர்
+459,Vater::N,бать,தந்தை
+460,Vater::N,ай,தந்தை
+461,Vater::N,tēvs,தந்தை
+462,Mutter::N,мам,தாய்
+463,Mutter::N,māte,தாய்
+464,Sohn::N,пи,மகன்
+465,Sohn::N,dēls,மகன்
+466,Tochter::N,ныв,மகள்
+467,Tochter::N,meita,மகள்
+468,Bruder::N,вок,சகோதரன்
+469,Bruder::N,brālis,சகோதரன்
+470,Schwester::N,чой,அக்கா
+471,Schwester::N,māsa,அக்கா
+472,Onkel::N,дядь,தாய் மாமன்
+473,Onkel::N,tēvocis,தாய் மாமன்
+474,Tante::N,тьӧт,அத்தை
+475,Tante::N,tante,அத்தை
+476,Ehemann::N,верӧс,கணவன்
+477,Ehemann::N,vīrs,கணவன்
+478,Ehefrau::N,гӧтыр,மனைவி
+479,Ehefrau::N,sieva,மனைவி
+480,Freude::N,радлун,கொண்டாட்டம்
+481,Freude::N,prieks,கொண்டாட்டம்
+482,Gelächter::N,серам,சிரிப்பு
+483,Gelächter::N,smiekli,சிரிப்பு
+484,Glück::N,шуд,மகிழ்ச்சி
+485,Glück::N,laime,மகிழ்ச்சி
+486,Kummer::N,шог,துயரம்
+487,Kummer::N,bēdas,துயரம்
+488,Kummer::N,raizes,துயரம்
+489,Wunsch::N,кӧсйӧм,விருப்பம்
+490,Wunsch::N,vēlme,விருப்பம்
+491,Wunsch::N,vēlējums,விருப்பம்
+492,Lust::N,кыскӧм,விருப்பம்
+493,Lust::N,радейтӧм,விருப்பம்
+494,Lust::N,kāre,விருப்பம்
+495,Geist::N,лов,ஆன்மா
+496,Geist::N,gars,ஆன்மா
+497,Gedanke::N,мӧвп,எண்ணம்
+498,Gedanke::N,doma,எண்ணம்
+499,Gedächtnis::N,паметь,ஞாபகம்
+500,Gedächtnis::N,atmiņa,ஞாபகம்
+501,Verstand::N,вежӧр,மனம்
+502,Verstand::N,prāts,மனம்
+503,Sinn::N,мог,அர்த்தம்
+504,Sinn::N,вежӧртас,அர்த்தம்
+505,Sinn::N,nozīme,அர்த்தம்
+506,Grund::N,помка,காரணம்
+507,Grund::N,pamats,காரணம்
+508,Grund::N,iemesls,காரணம்
+509,Wahrheit::N,збыль,உண்நை
+510,Wahrheit::N,збыльтор,உண்நை
+511,Wahrheit::N,taisnība,உண்நை
+512,Wahrheit::N,patiesība,உண்நை
+513,Gespräch::N,сёрни,பெசு
+514,Gespräch::N,saruna,பெசு
+515,Märchen::N,мойд,நம்பத்தகாத கதை
+516,Märchen::N,pasaka,நம்பத்தகாத கதை
+517,Erzählung::N,висьт,கதை
+518,Erzählung::N,stāsts,கதை
+519,Erzählung::N,nostāsts,கதை
+520,Nachricht::N,юӧртӧм,செய்தி
+521,Nachricht::N,ziņa,செய்தி
+522,Neuigkeit::N,выльтор,செய்தி
+523,Neuigkeit::N,jaunums,செய்தி
+524,Name::N,ним,பெயர்
+525,Name::N,vārds,பெயர்
+526,Rätsel::N,нӧдкыв,புதிர்
+527,Rätsel::N,mīkla,புதிர்
+528,Rede::N,сёрни,பேச்சு
+529,Rede::N,runa,பேச்சு
+530,Sprache::N,кыв,மொழி
+531,Sprache::N,valoda,மொழி
+532,Stimme::N,гӧлӧс,குரல்
+533,Stimme::N,вом шы,குரல்
+534,Stimme::N,balss,குரல்
+535,Wort::N,кыв,வார்த்தை
+536,Wort::N,vārds,வார்த்தை
+537,Zeichen::N,пас,குறி
+538,Zeichen::N,zīme,குறி
+539,Ruf::N,чукӧстчӧм,அழைப்பு
+540,Ruf::N,корӧм,அழைப்பு
+541,Ruf::N,sauciens,அழைப்பு
+542,Lärm::N,шы,சத்தம்
+543,Lärm::N,зык,சத்தம்
+544,Lärm::N,зычитӧм,சத்தம்
+545,Lärm::N,troksnis,சத்தம்
+546,Laut::N,шы,ஒலி
+547,Laut::N,skaņa,ஒலி
+548,Ton::N,шы,குரல்
+549,Ton::N,tonis,குரல்
+550,Lied::N,сьылан,பாட்டு
+551,Lied::N,сьыланкыв,பாட்டு
+552,Lied::N,dziesma,பாட்டு
+553,Ruhe::N,чӧв,அமைதி
+554,Ruhe::N,miers,அமைதி
+555,Leute::N,йӧз,மக்கள்
+556,Leute::N,войтыр,மக்கள்
+557,Leute::N,ļaudis,மக்கள்
+558,Leute::N,cilvēki,மக்கள்
+559,Volk::N,йӧз,மக்கள்
+560,Volk::N,войтыр,மக்கள்
+561,Volk::N,tauta,மக்கள்
+562,Arbeit::N,удж,வேலை
+563,Arbeit::N,darbs,வேலை
+564,Gast::N,гӧсть,விருந்தாளி
+565,Gast::N,viešņa,விருந்தாளி
+566,Gast::N,ciemiņš,விருந்தாளி
+567,Geschenk::N,козин,பரிசுப் பொருள்
+568,Geschenk::N,dāvana,பரிசுப் பொருள்
+569,Spiel::N,ворсан,விளையாட்டு
+570,Spiel::N,rotaļa,விளையாட்டு
+571,Gesellschaft::N,котыр,சமுதாயம்
+572,Gesellschaft::N,biedrība,சமுதாயம்
+573,Gesellschaft::N,kompānija,சமுதாயம்
+574,Hilfe::N,отсӧг,உதவி
+575,Hilfe::N,palīdzība,உதவி
+576,Freund::N,ёрт,நண்பன்
+577,Freund::N,draugs,நண்பன்
+578,Kamerad::N,ёрт,உடனிருப்பவன்
+579,Kamerad::N,biedrs,உடனிருப்பவன்
+580,Angelegenheit::N,мог,செய்தி
+581,Angelegenheit::N,делӧ,செய்தி
+582,Angelegenheit::N,darīšana,செய்தி
+583,Anzahl::N,лыд,எண்ணிக்கை
+584,Anzahl::N,тшӧт,எண்ணிக்கை
+585,Anzahl::N,skaits,எண்ணிக்கை
+586,Anzahl::N,daudzums,எண்ணிக்கை
+587,Art::N,сикас,வகை
+588,Art::N,suga,வகை
+589,Art::N,šķira,வகை
+590,Stück::N,тор,துண்டம்
+591,Stück::N,gabals,துண்டம்
+592,Teil::N,юкӧн,பகுதி
+593,Teil::N,daļa,பகுதி
+594,Hälfte::N,пӧв,பாதி
+595,Hälfte::N,джын,பாதி
+596,Hälfte::N,puse,பாதி
+597,Kreis::N,кытш,வட்டம்
+598,Kreis::N,aplis,வட்டம்
+599,Kreis::N,riņķis,வட்டம்
+600,Kreuz::N,перна,சிலுவை
+601,Kreuz::N,крест,சிலுவை
+602,Kreuz::N,krusts,சிலுவை
+603,Linie::N,визь,கோடு
+604,Linie::N,līnija,கோடு
+605,Strich::N,визь,வாத நோய்
+606,Strich::N,svītra,வாத நோய்
+607,Abstand::N,кост,இடைவெளி
+608,Abstand::N,коласт,இடைவெளி
+609,Abstand::N,atstarpe,இடைவெளி
+610,Entfernung::N,ылна,தூரம்
+611,Entfernung::N,attālums,தூரம்
+612,Entfernung::N,atstatums,தூரம்
+613,Gegend::N,му-ва,வட்டாரம்
+614,Gegend::N,apvidus,வட்டாரம்
+615,Gegend::N,apgabals,வட்டாரம்
+616,Platz::N,ылдӧс,வெற்றிடம்
+617,Platz::N,йир,வெற்றிடம்
+618,Platz::N,гӧгӧртас,வெற்றிடம்
+619,Platz::N,vieta,வெற்றிடம்
+620,Ort::N,ин,இடம்
+621,Ort::N,места,இடம்
+622,Ort::N,vieta,இடம்
+623,Seite::N,бок,பக்கம்
+624,Seite::N,ӧтарладор,பக்கம்
+625,Seite::N,sāns,பக்கம்
+626,Mitte::N,шӧр,இடைப்பகுதி
+627,Mitte::N,vidus,இடைப்பகுதி
+628,Gegenstand::N,кӧлуй,உருப்படி
+629,Gegenstand::N,priekšmets,உருப்படி
+630,Sache::N,добра,பொருள்
+631,Sache::N,lieta,பொருள்
+632,Rand::N,дор,தொங்கு
+633,Rand::N,mala,தொங்கு
+634,Rand::N,apmale,தொங்கு
+635,Kante::N,дор,விளிம்பு
+636,Kante::N,šķautne,விளிம்பு
+637,Ecke::N,пельӧс,மூலை
+638,Ecke::N,kakts,மூலை
+639,Ecke::N,stūris,மூலை
+640,Spitze::N,йыв,முனை
+641,Spitze::N,smaile,முனை
+642,Spitze::N,galotne,முனை
+643,Ende::N,пом,முடிவு
+644,Ende::N,gals,முடிவு
+645,Ende::N,uzgalis,முடிவு
+646,Loch::N,розь,துளை
+647,Loch::N,caurums,துளை
+648,Winkel::N,пельӧс,கோணம்
+649,Winkel::N,leņķis,கோணம்
+650,Muster::N,сер,பாங்கு
+651,Muster::N,piemērs,பாங்கு
+652,Größe::N,ыджда,அளவு
+653,Größe::N,lielums,அளவு
+654,Länge::N,кузьта,நீளம்
+655,Länge::N,garums,நீளம்
+656,Höhe::N,джуджда,உயரம்
+657,Höhe::N,augstums,உயரம்
+658,Gewicht::N,сьӧкта,எடை
+659,Gewicht::N,сьӧкталун,எடை
+660,Gewicht::N,svars,எடை
+661,Gewicht::N,smagums,எடை
+662,Menge::N,лун,தொகை
+663,Menge::N,числӧ,தொகை
+664,Menge::N,masa,தொகை
+665,Menge::N,daudzums,தொகை
+666,Haufen::N,чукӧр,குவியல்
+667,Haufen::N,čupa,குவியல்
+668,Haufen::N,grēda,குவியல்
+669,Haufen::N,kaudze,குவியல்
+670,Reihe::N,рад,வரிசை
+671,Reihe::N,rinda,வரிசை
+672,Reihe::N,virkne,வரிசை
+673,Boot::N,пыж,படகு
+674,Boot::N,laiva,படகு
+675,Ruder::N,пелыс,துடுப்பு
+676,Ruder::N,ӧпаснӧй,துடுப்பு
+677,Ruder::N,airis,துடுப்பு
+678,Ruder::N,irklis,துடுப்பு
+679,Schlitten::N,дадь,சகடையிலா வண்டி
+680,Schlitten::N,ragavas,சகடையிலா வண்டி
+681,Ski::N,лызь,பனிச் சறுக்கல்
+682,Ski::N,slēpe,பனிச் சறுக்கல்
+683,Lagerfeuer::N,бипур,மூட்டம்
+684,Lagerfeuer::N,ugunskurs,மூட்டம்
+685,Last::N,сьӧкыдтор,பாரம்
+686,Last::N,krava,பாரம்
+687,Gang::N,мунӧм,நடை
+688,Gang::N,ветлӧм,நடை
+689,Gang::N,eja,நடை
+690,Gang::N,gājums,நடை
+691,Schritt::N,воськов,காலடி
+692,Schritt::N,воськовтӧм,காலடி
+693,Schritt::N,solis,காலடி
+694,Norden::N,войвыв,வடக்கு
+695,Norden::N,ziemeļi,வடக்கு
+696,Süden::N,лунвыв,தெற்கு
+697,Süden::N,dienvidi,தெற்கு
+698,Westen::N,рытыв,மேற்கு திசை
+699,Westen::N,rietumi,மேற்கு திசை
+700,Osten::N,асыв,கிழக்கு
+701,Osten::N,austrumi,கிழக்கு
+702,Holz::N,пу,மரக்கட்டை
+703,Holz::N,koks,மரக்கட்டை
+704,Holz::N,koksne,மரக்கட்டை
+705,Brett::N,пӧв,பலகை
+706,Brett::N,dēlis,பலகை
+707,Platte::N,плита,பலகம்
+708,Platte::N,plate,பலகம்
+709,Platte::N,plāksne,பலகம்
+710,Stütze::N,пыкӧд,அடைப்புகன்
+711,Stütze::N,мыджӧд,அடைப்புகன்
+712,Stütze::N,balsts,அடைப்புகன்
+713,Stütze::N,atspaids,அடைப்புகன்
+714,Stange::N,потш,கம்பம்
+715,Stange::N,maikste,கம்பம்
+716,Stock::N,бедь,குச்சி
+717,Stock::N,boze,குச்சி
+718,Stock::N,spieķis,குச்சி
+719,Stab::N,зир,கம்பு
+720,Stab::N,zizlis,கம்பு
+721,Rohr::N,труба,குழாய்
+722,Rohr::N,caurule,குழாய்
+723,Haus::N,керка,வீடு
+724,Haus::N,māja,வீடு
+725,Heim::N,горт,வீடு
+726,Heim::N,mājas,வீடு
+727,Ofen::N,пач,அடுப்பு
+728,Ofen::N,krāsns,அடுப்பு
+729,Fußboden::N,джодж,தரை
+730,Fußboden::N,grīda,தரை
+731,Tisch::N,пызан,மேசை
+732,Tisch::N,galds,மேசை
+733,Stuhl::N,улӧс,நாற்காலி
+734,Stuhl::N,krēsls,நாற்காலி
+735,Wiege::N,зыбка,தொட்டில்
+736,Wiege::N,šūpulis,தொட்டில்
+737,Bett::N,вольпась,படுக்கை
+738,Bett::N,gulta,படுக்கை
+739,Regal::N,джадж,அலமாரி
+740,Regal::N,plaukts,அலமாரி
+741,Kiste::N,куд,பெட்டி
+742,Kiste::N,ящик,பெட்டி
+743,Kiste::N,kaste,பெட்டி
+744,Kiste::N,šķirsts,பெட்டி
+745,Fenster::N,ӧшинь,சாளரம்
+746,Fenster::N,logs,சாளரம்
+747,Tür::N,ӧдзӧс,கதவு
+748,Tür::N,durvis,கதவு
+749,Tor::N,дзиръя,வாசற்கதவு
+750,Tor::N,vārti,வாசற்கதவு
+751,Zaun::N,потшӧс,வேலி
+752,Zaun::N,žogs,வேலி
+753,Dach::N,вевт,கூரை
+754,Dach::N,jumts,கூரை
+755,Leiter::N,пос,ஏணி
+756,Leiter::N,kāpnes,ஏணி
+757,Leiter::N,redeles,ஏணி
+758,Besen::N,рос,விளக்குமாறு
+759,Besen::N,slota,விளக்குமாறு
+760,Spaten::N,зыр,மண்வெட்டி
+761,Spaten::N,lāpsta,மண்வெட்டி
+762,Schaufel::N,тэльӧб,அடிதண்டா
+763,Schaufel::N,liekšķere,அடிதண்டா
+764,Gabel::N,вилки,முட்கரண்டி
+765,Gabel::N,dakšiņa,முட்கரண்டி
+766,Löffel::N,пань,கரண்டி
+767,Löffel::N,karote,கரண்டி
+768,Messer::N,пурт,கத்தி
+769,Messer::N,nazis,கத்தி
+770,Nagel::N,тув,ஆணி
+771,Nagel::N,кӧрт тув,ஆணி
+772,Nagel::N,nagla,ஆணி
+773,Netz::N,тыв,வலை
+774,Netz::N,tīkls,வலை
+775,Haken::N,крук,கொக்கி
+776,Haken::N,āķis,கொக்கி
+777,Haken::N,kāsis,கொக்கி
+778,Haken::N,krampis,கொக்கி
+779,Griff::N,нуд,கைப்பிடி
+780,Griff::N,kāts,கைப்பிடி
+781,Griff::N,rokturis,கைப்பிடி
+782,Schloss::N,томан,பூட்டு
+783,Schloss::N,aizslēgs,பூட்டு
+784,Bild::N,серпас,படம்
+785,Bild::N,glezna,படம்
+786,Figur::N,пертас,எண்ணிக்கை
+787,Figur::N,вежньӧг,எண்ணிக்கை
+788,Figur::N,figūra,எண்ணிக்கை
+789,Puppe::N,акань,பொம்மை
+790,Puppe::N,lelle,பொம்மை
+791,Beutel::N,мешӧк,பை
+792,Beutel::N,kule,பை
+793,Beutel::N,maisiņš,பை
+794,Bündel::N,кӧртӧд,பொதி
+795,Bündel::N,sainis,பொதி
+796,Tasche::N,сумка,பை
+797,Tasche::N,soma,பை
+798,Eimer::N,ведра,வாளி
+799,Eimer::N,spainis,வாளி
+800,Deckel::N,пӧдан,உறை
+801,Deckel::N,тупкӧд,உறை
+802,Deckel::N,vāks,உறை
+803,Geschirr::N,дозмук,பாத்திரம்
+804,Geschirr::N,тасьті-пань,பாத்திரம்
+805,Geschirr::N,trauki,பாத்திரம்
+806,Sack::N,мешӧк,பை
+807,Sack::N,maiss,பை
+808,Tasse::N,бекар,கிண்ணம்
+809,Tasse::N,тасьті,கிண்ணம்
+810,Tasse::N,tase,கிண்ணம்
+811,Topf::N,гырнич,பானை
+812,Topf::N,pods,பானை
+813,Kessel::N,пӧрт,கெண்டி
+814,Kessel::N,katls,கெண்டி
+815,Essen::N,сёйӧм,உணவருந்துதல்
+816,Essen::N,ēdiens,உணவருந்துதல்
+817,Nahrung::N,сёян,உணவு
+818,Nahrung::N,barība,உணவு
+819,Speise::N,сёян,உணவு வகை
+820,Speise::N,сёянтор,உணவு வகை
+821,Speise::N,ēdiens,உணவு வகை
+822,Fleisch::N,яй,இறைச்சி
+823,Fleisch::N,gaļa,இறைச்சி
+824,Getreide::N,нянь,மக்காச்சோளம்
+825,Getreide::N,labība,மக்காச்சோளம்
+826,Brei::N,рок,கஞ்சி
+827,Brei::N,putra,கஞ்சி
+828,Brei::N,biezenis,கஞ்சி
+829,Brot::N,нянь,ரொட்டி
+830,Brot::N,maize,ரொட்டி
+831,Scheibe::N,шӧрӧм,துண்டு
+832,Scheibe::N,чӧлан,துண்டு
+833,Scheibe::N,šķēle,துண்டு
+834,Scheibe::N,rieciens,துண்டு
+835,Fett::N,гос,கொழுப்பு
+836,Fett::N,тшог,கொழுப்பு
+837,Fett::N,tauki,கொழுப்பு
+838,Butter::N,вый,வெண்ணெய்
+839,Butter::N,sviests,வெண்ணெய்
+840,Öl::N,вый,எண்ணெய்
+841,Öl::N,eļļa,எண்ணெய்
+842,Salz::N,сов,உப்பு
+843,Salz::N,sāls,உப்பு
+844,Suppe::N,шыд,ரசம்
+845,Suppe::N,zupa,ரசம்
+846,Honig::N,ма,தேன்
+847,Honig::N,medus,தேன்
+848,Milch::N,йӧв,பால்
+849,Milch::N,piens,பால்
+850,Tee::N,чай,தெனீர்
+851,Tee::N,tēja,தெனீர்
+852,Leder::N,ку,பதம் செய்யப்பட்ட தோல்
+853,Leder::N,āda,பதம் செய்யப்பட்ட தோல்
+854,Wolle::N,вурун,கம்பளி
+855,Wolle::N,vilna,கம்பளி
+856,Stoff::N,дӧра,துணி
+857,Stoff::N,drāna,துணி
+858,Stoff::N,audums,துணி
+859,Nadel::N,ем,ஊசி
+860,Nadel::N,adata,ஊசி
+861,Faden::N,сунис,நூல்
+862,Faden::N,diegs,நூல்
+863,Faden::N,pavediens,நூல்
+864,Knopf::N,кизь,பொத்தான்
+865,Knopf::N,poga,பொத்தான்
+866,Knoten::N,гӧрӧд,முடிச்சு
+867,Knoten::N,mezgls,முடிச்சு
+868,Farbe::N,краска,வண்ணக் குழம்பு
+869,Farbe::N,вап,வண்ணக் குழம்பு
+870,Farbe::N,krāsa,வண்ணக் குழம்பு
+871,Kleidung::N,паськӧм,ஆடைகள்
+872,Kleidung::N,tērps,ஆடைகள்
+873,Kleidung::N,drēbes,ஆடைகள்
+874,Hemd::N,дӧрӧм,சட்டை
+875,Hemd::N,krekls,சட்டை
+876,Kragen::N,воротник,கழுத்துப் பட்டை
+877,Kragen::N,apkakle,கழுத்துப் பட்டை
+878,Ärmel::N,сос,சட்டைக்கை
+879,Ärmel::N,piedurkne,சட்டைக்கை
+880,Hose::N,гач,கால்சட்டை
+881,Hose::N,bikses,கால்சட்டை
+882,Gürtel::N,вӧнь,பெல்ட்
+883,Gürtel::N,josta,பெல்ட்
+884,Mütze::N,шапка,தொப்பி
+885,Mütze::N,cepure,தொப்பி
+886,Schuh::N,башмак,காலணி
+887,Schuh::N,ботинки,காலணி
+888,Schuh::N,kurpe,காலணி
+889,Stiefel::N,сапӧг,காலணி
+890,Stiefel::N,zābaks,காலணி
+891,Ring::N,кытш,மோதிரம்
+892,Ring::N,gredzens,மோதிரம்
+893,Band::N,лента,நாடா
+894,Band::N,вундас,நாடா
+895,Band::N,lente,நாடா
+896,Kamm::N,сынан,கீப்பு
+897,Kamm::N,ķemme,கீப்பு
+898,Spiegel::N,рӧмпӧштан,ஆடி
+899,Spiegel::N,рӧмпӧштан,கண்ணாடி
+900,Spiegel::N,spogulis,ஆடி
+901,Spiegel::N,spogulis,கண்ணாடி
+902,Riemen::N,тасма,வார்
+903,Riemen::N,siksna,வார்
+904,Schnur::N,гез,கயிறு
+905,Schnur::N,aukla,கயிறு
+906,Leine::N,юргез,தோல்வார்
+907,Leine::N,saite,தோல்வார்
+908,Decke::N,эшкын,போர்வை
+909,Decke::N,шебрас,போர்வை
+910,Decke::N,sega,போர்வை
+911,Kissen::N,юрлӧс,தலையணை
+912,Kissen::N,spilvens,தலையணை
+913,Tuch::N,чышъян,துணி
+914,Tuch::N,vadmala,துணி
+915,Handtuch::N,ки чышкӧд,தண்டு
+916,Handtuch::N,кизьчышъян,தண்டு
+917,Handtuch::N,dvielis,தண்டு
+918,Kraft::N,этш,நிர்பந்தம்
+919,Kraft::N,эбӧс,நிர்பந்தம்
+920,Kraft::N,spēks,நிர்பந்தம்
+921,Stärke::N,ёнлун,பலம்
+922,Stärke::N,чорыдлун,பலம்
+923,Stärke::N,stiprums,பலம்
+924,Gesundheit::N,дзоньвидзалун,ஆரோக்கியம்
+925,Gesundheit::N,veselība,ஆரோக்கியம்
+926,Krankheit::N,висьӧм,நோய்
+927,Krankheit::N,slimība,நோய்
+928,Schmerz::N,висьӧм,வலி
+929,Schmerz::N,sāpes,வலி
+930,Wunde::N,дой,காயம்
+931,Wunde::N,brūce,காயம்
+932,Wunde::N,jēlums,காயம்
+933,Fieber::N,жар,காய்ச்சல்
+934,Fieber::N,drudzis,காய்ச்சல்
+935,Fieber::N,karstums,காய்ச்சல்
+936,Arznei::N,лекарство,மருந்து
+937,Arznei::N,зелля,மருந்து
+938,Arznei::N,zāles,மருந்து
+939,Arznei::N,medikaments,மருந்து
+940,Brücke::N,пос,பாலம்
+941,Brücke::N,tilts,பாலம்
+942,Brunnen::N,юкмӧс,கேணி
+943,Brunnen::N,aka,கேணி
+944,Weide::N,пӧскӧтина,மேய்ச்சல் நிலம்
+945,Weide::N,ganības,மேய்ச்சல் நிலம்
+946,Pfad::N,туй,நடை வழி
+947,Pfad::N,кыснан,நடை வழி
+948,Pfad::N,taka,நடை வழி
+949,Weg::N,туй,வழி
+950,Weg::N,ceļš,வழி
+951,Straße::N,туй,சாலை
+952,Straße::N,iela,சாலை
+953,Dorf::N,сикт,கிராமம்
+954,Dorf::N,ciems,கிராமம்
+955,Stadt::N,кар,நகரம்
+956,Stadt::N,pilsēta,நகரம்
+957,Brief::N,письмӧ,கடிதம்
+958,Brief::N,vēstule,கடிதம்
+959,Buch::N,небӧг,புத்தகம்
+960,Buch::N,grāmata,புத்தகம்
+961,Buchstabe::N,шыпас,எழத்து
+962,Buchstabe::N,burts,எழத்து
+963,Zeitung::N,газет,செய்தித்தாள்
+964,Zeitung::N,avīze,செய்தித்தாள்
+965,Zeitung::N,laikraksts,செய்தித்தாள்
+966,Leben::N,лов,வாழ்க்கை
+967,Leben::N,олӧм,வாழ்க்கை
+968,Leben::N,dzīve,வாழ்க்கை
+969,Tod::N,кулӧм,மரணம்
+970,Tod::N,nāve,மரணம்
+971,Grab::N,гу,சமாதி
+972,Grab::N,kaps,சமாதி
+973,Kirche::N,вичко,தேவாலயம்
+974,Kirche::N,baznīca,தேவாலயம்
+975,Sünde::N,мыж,பாவம்
+976,Sünde::N,grēks,பாவம்
+977,Gott::N,ен,கடவுள்
+978,Gott::N,dievs,கடவுள்
+979,Arbeiter::N,уджалысь,தொழிலாளி
+980,Arbeiter::N,strādnieks,தொழிலாளி
+981,Chef::N,юралысь,மேலாளர்
+982,Chef::N,веськӧдлысь,மேலாளர்
+983,Chef::N,šefs,மேலாளர்
+984,Chef::N,vadītajs,மேலாளர்
+985,Chef::N,priekšnieks,மேலாளர்
+986,Meister::N,вӧчысь,தலைவன்
+987,Meister::N,meistars,தலைவன்
+988,Arzt::N,врач,மருத்துவர்
+989,Arzt::N,бурдӧдысь,மருத்துவர்
+990,Arzt::N,ārsts,மருத்துவர்
+991,Lehrer::N,велӧдысь,ஆசிரியர்
+992,Lehrer::N,skolotājs,ஆசிரியர்
+993,Geld::N,сьӧм,பணம்
+994,Geld::N,nauda,பணம்
+995,Geschäft::N,удж,வாணிபம்
+996,Geschäft::N,bizness,வாணிபம்
+997,Geschäft::N,darījums,வாணிபம்
+998,Laden::N,вузасянін,கடை
+999,Laden::N,bode,கடை
+1000,Laden::N,veikals,கடை
+1001,Preis::N,дон,விலை
+1002,Preis::N,cena,விலை
+1003,Ware::N,тӧвар,சாமன்கள்
+1004,Ware::N,prece,சாமன்கள்
+1005,Nutzen::N,воӧм,இலாபம்
+1006,Nutzen::N,выгӧда,இலாபம்
+1007,Nutzen::N,labums,இலாபம்
+1008,Reichtum::N,озырлун,சொத்து
+1009,Reichtum::N,bagātība,சொத்து
+1010,Welt::N,енкӧла,உலகம்
+1011,Welt::N,pasaule,உலகம்
+1012,Land::N,му,நாடு
+1013,Land::N,zeme,நாடு
+1014,Staat::N,канму,நாடு
+1015,Staat::N,государство,நாடு
+1016,Staat::N,valsts,நாடு
+1017,König::N,кан,அரசன்
+1018,König::N,ķēniņš,அரசன்
+1019,König::N,karalis,அரசன்
+1020,Macht::N,каналӧм,அதிகாரம்
+1021,Macht::N,vara,அதிகாரம்
+1022,Grenze::N,су,எல்லை
+1023,Grenze::N,суйӧр,எல்லை
+1024,Grenze::N,robeža,எல்லை
+1025,Krieg::N,ожман,போர்
+1026,Krieg::N,karš,போர்
+1027,Feind::N,враг,எதிரி
+1028,Feind::N,вӧрӧг,எதிரி
+1029,Feind::N,ienaidnieks,எதிரி
+1030,Gewalt::N,мырдöналöм,வன்முறை
+1031,Gewalt::N,vara,வன்முறை
+1032,Gewalt::N,vardarbība,வன்முறை
+1033,Kampf::N,вермасьӧм,போராட்டம்
+1034,Kampf::N,cīņa,போராட்டம்
+1035,Bogen[Waffe]::N,ньӧввуж,வில்
+1036,Bogen[Waffe]::N,loks,வில்
+1037,Pfeil::N,ньӧв,அம்பு
+1038,Pfeil::N,bulta,அம்பு
+1039,Gewehr::N,пишшаль,துப்பாக்கி
+1040,Gewehr::N,šautene,துப்பாக்கி
+1041,Fehler::N,сорсьӧм,தவறு
+1042,Fehler::N,дзугсьӧм,தவறு
+1043,Fehler::N,kļūda,தவறு
+1044,Lüge::N,пӧръясьӧм,பொய்
+1045,Lüge::N,ылӧдлӧм,பொய்
+1046,Lüge::N,meli,பொய்
+1047,Schaden::N,лёк,சேதாரம்
+1048,Schaden::N,изъян,சேதாரம்
+1049,Schaden::N,пакӧсьт,சேதாரம்
+1050,Schaden::N,bojājums,சேதாரம்
+1051,Schaden::N,kaitējums,சேதாரம்
+1052,Unglück::N,шог,இடையூறு
+1053,Unglück::N,kļūme,இடையூறு
+1054,Unglück::N,klizma,இடையூறு
+1055,Unglück::N,nelaime,இடையூறு
+1056,Schuld::N,мыж,குற்றம்
+1057,Schuld::N,vaina,குற்றம்
+1058,Alter::N,арлыд,வயது
+1059,Alter::N,vecums,வயது
+1060,Schluss::N,пом,முடிவு
+1061,Schluss::N,beigas,முடிவு
+1062,Zeit::N,кад,காலம்
+1063,Zeit::N,laiks,காலம்
+1064,Tag::N,лун,நாள்
+1065,Tag::N,diena,நாள்
+1066,Morgen::N,асыв,காலை நேரம்
+1067,Morgen::N,rīts,காலை நேரம்
+1068,Mittag::N,лун шӧр,மதியம்
+1069,Mittag::N,pusdiena,மதியம்
+1070,Abend::N,рыт,மாலைப் பொழுது
+1071,Abend::N,vakars,மாலைப் பொழுது
+1072,Nacht::N,вой,இரவு
+1073,Nacht::N,nakts,இரவு
+1074,Woche::N,вежон,வாரம்
+1075,Woche::N,nedēļa,வாரம்
+1076,Monat::N,тӧлысь,மாதம்
+1077,Monat::N,mēnesis,மாதம்
+1078,Jahr::N,во,வருடம்
+1079,Jahr::N,gads,வருடம்
+1080,Frühling::N,тулыс,வசந்தம்
+1081,Frühling::N,pavasaris,வசந்தம்
+1082,Sommer::N,гожӧм,கோடை
+1083,Sommer::N,vasara,கோடை
+1084,Herbst::N,ар,இலையுதிர் காலம்
+1085,Herbst::N,rudens,இலையுதிர் காலம்
+1086,Winter::N,тӧв,குளிர்காலம்
+1087,Winter::N,ziema,குளிர்காலம்
+1088,Januar::N,тӧв шӧр,ஜனவரி
+1089,Januar::N,janvāris,ஜனவரி
+1090,Februar::N,урасьӧм,பிபரவரி மாதம்
+1091,Februar::N,februāris,பிபரவரி மாதம்
+1092,März::N,рака,மார்ச் மாதம்
+1093,März::N,marts,மார்ச் மாதம்
+1094,April::N,кос му,ஏப்ரல் மாதம்
+1095,April::N,aprīlis,ஏப்ரல் மாதம்
+1096,Mai::N,ода-кора,மே மாதம்
+1097,Mai::N,maijs,மே மாதம்
+1098,Juni::N,лӧддза-номъя,ஜூன் மாதம்
+1099,Juni::N,jūnijs,ஜூன் மாதம்
+1100,Juli::N,сора,ஜூலை மாதம்
+1101,Juli::N,jūlijs,ஜூலை மாதம்
+1102,August::N,моз,ஆகஸ்ட் மாதம்
+1103,August::N,augusts,ஆகஸ்ட் மாதம்
+1104,September::N,кӧч,செப்டம்பர் மாதம்
+1105,September::N,septembris,செப்டம்பர் மாதம்
+1106,Oktober::N,йирым,அக்டோபர் மாதம்
+1107,Oktober::N,oktobris,அக்டோபர் மாதம்
+1108,November::N,вӧльгым,நவம்பர் மாதம்
+1109,November::N,novembris,நவம்பர் மாதம்
+1110,Dezember::N,ӧшым,டிசம்பர்
+1111,Dezember::N,decembris,டிசம்பர்
+1112,Montag::N,выльлун,திங்கட் கிழமை
+1113,Montag::N,pirmdiena,திங்கட் கிழமை
+1114,Dienstag::N,воторник,செவ்வாய்க்கிழமை
+1115,Dienstag::N,otrdiena,செவ்வாய்க்கிழமை
+1116,Mittwoch::N,середа,புதன் கிழமை
+1117,Mittwoch::N,trešdiena,புதன் கிழமை
+1118,Donnerstag::N,четверг,வியாழக் கிழமை
+1119,Donnerstag::N,ceturtdiena,வியாழக் கிழமை
+1120,Freitag::N,пекнича,வெள்ளிக்கிழமை
+1121,Freitag::N,piektdiena,வெள்ளிக்கிழமை
+1122,Samstag::N,субӧта,சனிக்கிழமை
+1123,Samstag::N,sestdiena,சனிக்கிழமை
+1124,Sonntag::N,вӧскресенньӧ,ஞாயிறுக் கிழமை
+1125,Sonntag::N,svētdiena,ஞாயிறுக் கிழமை
+1126,groß::A,ыджыд,பெரிய
+1127,groß::A,dižs,பெரிய
+1128,groß::A,liels,பெரிய
+1129,klein::A,ичӧт,சிறிய
+1130,klein::A,mazs,சிறிய
+1131,lang::A,кузь,நீண்ட
+1132,lang::A,garš,நீண்ட
+1133,kurz::A,дженьыд,குட்டையான
+1134,kurz::A,īss,குட்டையான
+1135,breit::A,ота,அகலமான
+1136,breit::A,паськыд,அகலமான
+1137,breit::A,plats,அகலமான
+1138,schmal::A,оттӧм,குறுகலான
+1139,schmal::A,tievs,குறுகலான
+1140,dicht::A,сук,அடர்த்தியான
+1141,dicht::A,blīvs,அடர்த்தியான
+1142,dick[Gegenstand]::A,кыз,தடித்த
+1143,dick[Gegenstand]::A,biezs,தடித்த
+1144,dünn::A,вӧсни,சன்னமான
+1145,dünn::A,вӧсньыд,சன்னமான
+1146,dünn::A,plāns,சன்னமான
+1147,fein::A,посни,மெல்லிய
+1148,fein::A,smalks,மெல்லிய
+1149,fest::A,зумыд,உறுதியாள
+1150,fest::A,tvirts,உறுதியாள
+1151,fest::A,noturīgs,உறுதியாள
+1152,flach::A,плавкӧс,தட்டையான
+1153,flach::A,тшӧтшкӧс,தட்டையான
+1154,flach::A,lēzens,தட்டையான
+1155,flach::A,līdzens,தட்டையான
+1156,glatt::A,вольк,வழுவழுப்பான
+1157,glatt::A,мольыд,வழுவழுப்பான
+1158,glatt::A,gluds,வழுவழுப்பான
+1159,glatt::A,slidens,வழுவழுப்பான
+1160,hart::A,зумыд,கடினமான
+1161,hart::A,ciets,கடினமான
+1162,weich::A,небыд,மென்மையான
+1163,weich::A,mīksts,மென்மையான
+1164,rund::A,гӧгрӧс,உருண்டையான
+1165,rund::A,apaļš,உருண்டையான
+1166,spitz::A,ёсь йыла,திகந்தமாக
+1167,spitz::A,smails,திகந்தமாக
+1168,scharf::A,ёсь,கூரான
+1169,scharf::A,ass,கூரான
+1170,stumpf::A,ныж,உளம் திறந்த
+1171,stumpf::A,truls,உளம் திறந்த
+1172,stumpf::A,strups,உளம் திறந்த
+1173,schwer::A,сьӧкыд,கனமான
+1174,schwer::A,smags,கனமான
+1175,schön::A,мича,அழகான
+1176,schön::A,лӧсьыд,அழகான
+1177,schön::A,daiļš,அழகான
+1178,schön::A,skaists,அழகான
+1179,heiß::A,пӧсь,சூடான
+1180,heiß::A,karsts,சூடான
+1181,warm::A,шоныд,இதமான
+1182,warm::A,silts,இதமான
+1183,kalt::A,кӧдзыд,குளிர்ச்சியான
+1184,kalt::A,salts,குளிர்ச்சியான
+1185,kalt::A,auksts,குளிர்ச்சியான
+1186,kühl::A,юзыд,குளிர்ச்சியான
+1187,kühl::A,ыркыд,குளிர்ச்சியான
+1188,kühl::A,vēss,குளிர்ச்சியான
+1189,kühl::A,dzestrs,குளிர்ச்சியான
+1190,frisch::A,выль,சுத்தமான
+1191,frisch::A,svaigs,சுத்தமான
+1192,feucht::A,уль,ஈரமான
+1193,feucht::A,mitrs,ஈரமான
+1194,feucht::A,drēgns,ஈரமான
+1195,nass::A,ва,ஈரமான
+1196,nass::A,slapjš,ஈரமான
+1197,trocken::A,кос,உலர்ந்த
+1198,trocken::A,sauss,உலர்ந்த
+1199,voll::A,кыз,நிரம்பிய
+1200,voll::A,pilns,நிரம்பிய
+1201,leer::A,куш,காலியான
+1202,leer::A,тыртӧм,காலியான
+1203,leer::A,tukšs,காலியான
+1204,offen::A,восьса,திறந்த
+1205,offen::A,vaļējs,திறந்த
+1206,offen::A,atvērts,திறந்த
+1207,geschlossen::A,пӧдса,மூடப்பட்ட
+1208,geschlossen::A,slēgts,மூடப்பட்ட
+1209,sauber::A,сӧстӧм,சுத்தமான
+1210,sauber::A,tīrs,சுத்தமான
+1211,sauber::A,spodrs,சுத்தமான
+1212,schmutzig::A,няйт,அழக்கான
+1213,schmutzig::A,netīrs,அழக்கான
+1214,schmutzig::A,dubļains,அழக்கான
+1215,roh::A,уль,கச்சா
+1216,roh::A,jēls,கச்சா
+1217,reif::A,кисьмӧм,பழுத்த
+1218,reif::A,gatavs,பழுத்த
+1219,reif::A,nobriedis,பழுத்த
+1220,lecker::A,чӧскыд,சுவைமிக்க
+1221,lecker::A,gards,சுவைமிக்க
+1222,lecker::A,garšīgs,சுவைமிக்க
+1223,süß::A,юмов,இனிப்பான
+1224,süß::A,чӧскыд,இனிப்பான
+1225,süß::A,salds,இனிப்பான
+1226,bitter::A,курыд,கசப்பான
+1227,bitter::A,sūrs,கசப்பான
+1228,bitter::A,rūgts,கசப்பான
+1229,sauer::A,шома,புளிப்பாக
+1230,sauer::A,skābs,புளிப்பாக
+1231,hell::A,югыд,பளபளப்பான
+1232,hell::A,gaišs,பளபளப்பான
+1233,dunkel::A,пемыд,கருமையான
+1234,dunkel::A,tumšs,கருமையான
+1235,schwarz::A,сьӧд,கருப்பு வண்ண
+1236,schwarz::A,melns,கருப்பு வண்ண
+1237,weiß::A,еджыд,வெண்மையன
+1238,weiß::A,balts,வெண்மையன
+1239,rot::A,гӧрд,சிவப்பு
+1240,rot::A,sarkans,சிவப்பு
+1241,gelb::A,виж,மஞ்சள் வண்ணம்
+1242,gelb::A,dzeltens,மஞ்சள் வண்ணம்
+1243,blau::A,лӧз,நீல வண்ண
+1244,blau::A,zils,நீல வண்ண
+1245,grün::A,веж,பச்சை வண்ண
+1246,grün::A,турунвиж,பச்சை வண்ண
+1247,grün::A,zaļš,பச்சை வண்ண
+1248,grau::A,руд,சாம்பல் நிற
+1249,grau::A,pelēks,சாம்பல் நிற
+1250,bunt::A,сера,வண்ண மயமான
+1251,bunt::A,raibs,வண்ண மயமான
+1252,bunt::A,krāsains,வண்ண மயமான
+1253,billig::A,донтӧг,மலிவான
+1254,billig::A,lēts,மலிவான
+1255,teuer::A,дона,விலை அதிகமான
+1256,teuer::A,dārgs,விலை அதிகமான
+1257,wertvoll::A,дона,மதிப்புள்ள
+1258,wertvoll::A,vērtīgs,மதிப்புள்ள
+1259,blind::A,синтӧм,பார்வையற்ற
+1260,blind::A,akls,பார்வையற்ற
+1261,taub::A,пельтӧм,செவிடான
+1262,taub::A,kurls,செவிடான
+1263,kräftig::A,вынйӧра,வலிமையான
+1264,kräftig::A,spēcīgs,வலிமையான
+1265,stark::A,ён,பலமான
+1266,stark::A,вына,பலமான
+1267,stark::A,stiprs,பலமான
+1268,schwach::A,жеб,பலவீனமான
+1269,schwach::A,vājš,பலவீனமான
+1270,fett::A,госа,பருமனாக
+1271,fett::A,brangs,பருமனாக
+1272,schlank::A,веськыд,ஒல்லியான
+1273,schlank::A,slaids,ஒல்லியான
+1274,hübsch::A,мича,அழகிய
+1275,hübsch::A,лӧсьыд,அழகிய
+1276,hübsch::A,glīts,அழகிய
+1277,böse::A,лёк,கேடு விளைவிக்கும்
+1278,böse::A,ļauns,கேடு விளைவிக்கும்
+1279,böse::A,negants,கேடு விளைவிக்கும்
+1280,dumm::A,йӧй,முட்டாள்தனமான
+1281,dumm::A,вежӧртӧм,முட்டாள்தனமான
+1282,dumm::A,stulbs,முட்டாள்தனமான
+1283,dumm::A,muļķīgs,முட்டாள்தனமான
+1284,faul::A,дыш,சோம்பலான
+1285,faul::A,slinks,சோம்பலான
+1286,fleißig::A,зільысь,ஊக்கந்தளராத
+1287,fleißig::A,čakls,ஊக்கந்தளராத
+1288,fleißig::A,cītīgs,ஊக்கந்தளராத
+1289,geizig::A,топыд,கஞேசத்தனமான
+1290,geizig::A,skops,கஞேசத்தனமான
+1291,geizig::A,sīksts,கஞேசத்தனமான
+1292,klug::A,юра,சாதுரியமான
+1293,klug::A,вежӧра,சாதுரியமான
+1294,klug::A,gudrs,சாதுரியமான
+1295,geschickt::A,кипода,திறமையள்ள
+1296,geschickt::A,кужысь,திறமையள்ள
+1297,geschickt::A,manīgs,திறமையள்ள
+1298,lieb::A,муса,அன்புக்குரிய
+1299,lieb::A,мича,அன்புக்குரிய
+1300,lieb::A,лӧсьыд,அன்புக்குரிய
+1301,lieb::A,mīļš,அன்புக்குரிய
+1302,lustig::A,кыпыд,களிப்புமிக்க
+1303,lustig::A,jautrs,களிப்புமிக்க
+1304,sanft::A,мелі,சாதுவான
+1305,sanft::A,liegs,சாதுவான
+1306,hungrig::A,тшыг,பசியுடன்
+1307,hungrig::A,izsalcis,பசியுடன்
+1308,krank::A,висьысь,நோயுற்று
+1309,krank::A,slims,நோயுற்று
+1310,nackt::A,пасьтӧм,ஆடையற்ற
+1311,nackt::A,pliks,ஆடையற்ற
+1312,traurig::A,гажтӧм,சோகமான
+1313,traurig::A,bēdīgs,சோகமான
+1314,traurig::A,skumīgs,சோகமான
+1315,lebendig::A,ловъя,பிழைப்பு
+1316,lebendig::A,dzīvs,பிழைப்பு
+1317,gut::A,бур,நல்ல
+1318,gut::A,labs,நல்ல
+1319,schlecht::A,лёк,கெட்ட
+1320,schlecht::A,омӧль,கெட்ட
+1321,schlecht::A,slikts,கெட்ட
+1322,richtig::A,инӧд,சரியான
+1323,richtig::A,riktīgs,சரியான
+1324,schlimm::A,омӧль,அருவருப்பான
+1325,schlimm::A,туйтӧм,அருவருப்பான
+1326,schlimm::A,nelāgs,அருவருப்பான
+1327,schlimm::A,nejauks,அருவருப்பான
+1328,wahr::A,абу ылӧг,உண்மையான
+1329,wahr::A,īsts,உண்மையான
+1330,wahr::A,patiess,உண்மையான
+1331,alt::A,важ,பழைய
+1332,alt::A,sens,பழைய
+1333,alt::A,vęcs,பழைய
+1334,neu::A,выль,புதிய
+1335,neu::A,jauns,புதிய
+1336,ehemalig::A,вӧвлӧм,முன்நாள்
+1337,ehemalig::A,bijušais,முன்நாள்
+1338,alt[Lebewesen]::A,пӧрысь,வயதான
+1339,alt[Lebewesen]::A,vecs,வயதான
+1340,jung::A,том,இளமையான
+1341,jung::A,jauns,இளமையான
+1342,arm::A,гӧль,ஏழ்மையான
+1343,arm::A,nabags,ஏழ்மையான
+1344,reich::A,озыр,செல்வம் படைத்த
+1345,reich::A,bagāts,செல்வம் படைத்த
+1346,bekannt::A,тӧдса,பழக்கப்பட்ட
+1347,bekannt::A,zināms,பழக்கப்பட்ட
+1348,bekannt::A,pazīstams,பழக்கப்பட்ட
+1349,berühmt::A,нималан,புகழ்பெற்ற
+1350,berühmt::A,кывсян,புகழ்பெற்ற
+1351,berühmt::A,slavens,புகழ்பெற்ற
+1352,fremd::A,йӧз,அயல் நாட்டு
+1353,fremd::A,svešs,அயல் நாட்டு
+1354,verschieden::A,абу ӧткодь,வித்தியாசமான
+1355,verschieden::A,разнӧй,வித்தியாசமான
+1356,verschieden::A,dažāds,வித்தியாசமான
+1357,nah::A,матыс,பக்கத்தில் உள்ள
+1358,nah::A,tuvs,பக்கத்தில் உள்ள
+1359,fern::A,ылі,தொலை தூரத்தில்
+1360,fern::A,tāls,தொலை தூரத்தில்
+1361,linker::A,шуйга,மீந்திருக்கும்
+1362,linker::A,kreisais,மீந்திருக்கும்
+1363,rechter::A,веськыд,வலதுபக்கம்
+1364,rechter::A,labais,வலதுபக்கம்
+1365,anderer::A,мукӧд,மற்ற
+1366,anderer::A,otrs,மற்ற
+1367,erster::A,медводдза,முதனமையான
+1368,erster::A,pirmais,முதனமையான
+1369,zweiter::A,мӧд,இரண்டாவது
+1370,zweiter::A,otrais,இரண்டாவது
+1371,dritter::A,коймӧд,மூன்றாவது
+1372,dritter::A,trešais,மூன்றாவது
+1373,letzter::A,бӧръя,கடைசி
+1374,letzter::A,beidzamais,கடைசி
+1375,allein::ADV,ӧтка,தனியாக
+1376,allein::ADV,viens pats,தனியாக
+1377,auf einmal::ADV,ӧтпырйӧ,தடீரென்று
+1378,auf einmal::ADV,reizē,தடீரென்று
+1379,zusammen::ADV,тшӧтш,சேர்ந்து
+1380,zusammen::ADV,kopā,சேர்ந்து
+1381,zusammen::ADV,vienviet,சேர்ந்து
+1382,lange::ADV,дыр,அதிக நோம்
+1383,lange::ADV,ilgi,அதிக நோம்
+1384,plötzlich::ADV,друг,தடீரென்று
+1385,plötzlich::ADV,pēkšņi,தடீரென்று
+1386,sofort::ADV,дзик пыр,உடனடியாக
+1387,sofort::ADV,tūlīt,உடனடியாக
+1388,später::ADV,сэсся,பிறகு
+1389,später::ADV,vēlāk,பிறகு
+1390,jetzt::ADV,ӧні,இப்பொழது
+1391,jetzt::ADV,tagad,இப்பொழது
+1392,heute::ADV,талун,இன்று
+1393,heute::ADV,šodien,இன்று
+1394,morgen::ADV,аски,நாளைக்கு
+1395,morgen::ADV,rīt,நாளைக்கு
+1396,bald::ADV,регыд,சீக்கிரம்
+1397,bald::ADV,drīz,சீக்கிரம்
+1398,dann::ADV,бӧрын,அப்பொழுது
+1399,dann::ADV,бӧрти,அப்பொழுது
+1400,dann::ADV,tad,அப்பொழுது
+1401,gestern::ADV,тӧнлун,நேற்று
+1402,gestern::ADV,vakar,நேற்று
+1403,einst::ADV,ӧтчыд,ஒரே முறை
+1404,einst::ADV,ӧтпыр,ஒரே முறை
+1405,einst::ADV,citreiz,ஒரே முறை
+1406,damals::ADV,сэки,அப்பொழுது
+1407,damals::ADV,toreiz,அப்பொழுது
+1408,danach::ADV,сэсся,பிற்பாடு
+1409,danach::ADV,pēc tam,பிற்பாடு
+1410,vorher::ADV,войдӧр,முன்பாக
+1411,vorher::ADV,iepriekš,முன்பாக
+1412,vorher::ADV,pirms tam,முன்பாக
+1413,zuerst::ADV,войдӧр,முதலில்
+1414,zuerst::ADV,vis'pirms,முதலில்
+1415,einmal::ADV,ӧтчыдысь,ஒரே முறை
+1416,einmal::ADV,reiz,ஒரே முறை
+1417,einmal::ADV,vienreiz,ஒரே முறை
+1418,manchmal::ADV,корсюрӧ,சில நேரங்களில்
+1419,manchmal::ADV,dažkārt,சில நேரங்களில்
+1420,oft::ADV,тшӧкыда,அடிக்கடி
+1421,oft::ADV,bieži,அடிக்கடி
+1422,immer::ADV,век,எப்பொழுதும்
+1423,immer::ADV,allaž,எப்பொழுதும்
+1424,immer::ADV,vien'mēr,எப்பொழுதும்
+1425,niemals::ADV,оз некор,ஒருபோதும் இல்லை
+1426,niemals::ADV,nemūžam,ஒருபோதும் இல்லை
+1427,hier::ADV,со,இங்கே
+1428,hier::ADV,тонӧ,இங்கே
+1429,hier::ADV,te,இங்கே
+1430,hier::ADV,šeit,இங்கே
+1431,hierhin::ADV,татчӧ,இவ்விடத்திற்கு
+1432,hierhin::ADV,талань,இவ்விடத்திற்கு
+1433,hierhin::ADV,šurp,இவ்விடத்திற்கு
+1434,hierhin::ADV,uz šejieni,இவ்விடத்திற்கு
+1435,von hier::ADV,тасянь,இனி
+1436,von hier::ADV,no šejienes,இனி
+1437,dort::ADV,сэні,அங்கே
+1438,dort::ADV,tur,அங்கே
+1439,dorthin::ADV,сэтчӧ,அவ்விடத்திற்கு
+1440,dorthin::ADV,turp,அவ்விடத்திற்கு
+1441,dorthin::ADV,uz turieni,அவ்விடத்திற்கு
+1442,geradeaus::ADV,веськыда,முன்னாலிருக்கும்
+1443,geradeaus::ADV,taisni uz priekšu,முன்னாலிருக்கும்
+1444,vorwärts::ADV,водзӧ,முன்புறமாக
+1445,vorwärts::ADV,uz priekšu,முன்புறமாக
+1446,rückwärts::ADV,бӧрӧ,பின்னோக்கி
+1447,rückwärts::ADV,atmuguriski,பின்னோக்கி
+1448,zurück::ADV,бӧр,பின்பக்கம்
+1449,zurück::ADV,atpakāļ,பின்பக்கம்
+1450,unten::ADV,улын,கீழாக
+1451,unten::ADV,уліын,கீழாக
+1452,unten::ADV,lejā,கீழாக
+1453,unten::ADV,apakšā,கீழாக
+1454,hinab::ADV,улӧ,கீழ் நோக்கி
+1455,hinab::ADV,увлан,கீழ் நோக்கி
+1456,hinab::ADV,uz leju,கீழ் நோக்கி
+1457,oben::ADV,вылын,மேலே
+1458,oben::ADV,выліын,மேலே
+1459,oben::ADV,virsū,மேலே
+1460,hinauf::ADV,выліӧ,மேலே
+1461,hinauf::ADV,augšā,மேலே
+1462,hinauf::ADV,uz augšu,மேலே
+1463,überall::ADV,быдлаын,எல்லா இடத்திலும்
+1464,überall::ADV,visur,எல்லா இடத்திலும்
+1465,nicht::ADV,oз,இல்லை
+1466,nicht::ADV,ne,இல்லை
+1467,ein wenig::ADV,неуна,கொஞ்சம்
+1468,ein wenig::ADV,drusku,கொஞ்சம்
+1469,kaum::ADV,мырдэм,அரிதாக
+1470,kaum::ADV,diezin vai,அரிதாக
+1471,sehr::ADV,зэв,மிக்க
+1472,sehr::ADV,ļoti,மிக்க
+1473,sehr::ADV,gaužām,மிக்க
+1474,so::ADV,тадз,மிகவும்
+1475,so::ADV,сідз,மிகவும்
+1476,so::ADV,tā,மிகவும்
+1477,so::ADV,tik,மிகவும்
+1478,noch::ADV,на,இப்பொழுதும்
+1479,noch::ADV,нӧшта,இப்பொழுதும்
+1480,noch::ADV,vēl,இப்பொழுதும்
+1481,nur::ADV,куш,மட்டும்
+1482,nur::ADV,сӧмын,மட்டும்
+1483,nur::ADV,vien,மட்டும்
+1484,nur::ADV,tikai,மட்டும்
+1485,schon::ADV,нин,ஏற்கனவே
+1486,schon::ADV,jau,ஏற்கனவே
+1487,wieder::ADV,бара,மறுபடியும்
+1488,wieder::ADV,atkal,மறுபடியும்
+1489,vergebens::ADV,весьшӧрӧ,வீண்
+1490,vergebens::ADV,velti,வீண்
+1491,vor::PRP,водзын,முன்
+1492,vor::PRP,priekš,முன்
+1493,hinter::PRP,бӧрнын,பின்பக்கம்
+1494,hinter::PRP,aiz,பின்பக்கம்
+1495,unter::PRP,улын,கீழே
+1496,unter::PRP,zem,கீழே
+1497,durch::PRP,пыр,ஊடே
+1498,durch::PRP,пырыс,ஊடே
+1499,durch::PRP,caur,ஊடே
+1500,durch::PRP,cauri,ஊடே
+1501,neben::PRP,бердын,அடுத்து
+1502,neben::PRP,līdzās,அடுத்து
+1503,zwischen::PRP,костын,இடையில்
+1504,zwischen::PRP,starp,இடையில்
+1505,wegen::PRP,вӧсна,ஏனெனில்
+1506,wegen::PRP,pēc,ஏனெனில்
+1507,dies::PRN,тайӧ,இது
+1508,dies::PRN,šis,இது
+1509,das::PRN,ciйö,அது
+1510,das::PRN,tas,அது
+1511,alles::PRN,став,ஒவ்வொன்றும்
+1512,alles::PRN,viss,ஒவ்வொன்றும்
+1513,ich::PRN,ме,நான்
+1514,ich::PRN,es,நான்
+1515,du::PRN,тэ,நீ
+1516,du::PRN,tu,நீ
+1517,er::PRN,сійӧ,அவன்
+1518,er::PRN,viņš,அவன்
+1519,wir::PRN,ми,நாம்
+1520,wir::PRN,ми,நாங்கள்
+1521,wir::PRN,mēs,நாம்
+1522,wir::PRN,mēs,நாங்கள்
+1523,ihr::PRN,тi,நீங்கள்
+1524,ihr::PRN,jūs,நீங்கள்
+1525,sie::PRN,найö,அவர்கள்
+1526,sie::PRN,viņi,அவர்கள்
+1527,sie::PRN,viņas,அவர்கள்
+1528,was::FPRN,мый,என்ன
+1529,was::FPRN,kas,என்ன
+1530,wer::FPRN,код,யார்
+1531,wer::FPRN,kas,யார்
+1532,wo::FADV,кыті,எங்கே
+1533,wo::FADV,kur,எங்கே
+1534,wohin::FADV,кытчӧ,எதற்கு
+1535,wohin::FADV,kurp,எதற்கு
+1536,wohin::FADV,uz kurieni,எதற்கு
+1537,wie::FADV,кыдзи,எப்படி
+1538,wie::FADV,kā,எப்படி
+1539,warum::FADV,мыйла,ஏன்
+1540,warum::FADV,kāpēc,ஏன்
+1541,wieviel::FNUM,кымын,எவ்வளவு
+1542,wieviel::FNUM,cik,எவ்வளவு
+1543,eins::NUM,ӧтик,ஒன்று
+1544,eins::NUM,viens,ஒன்று
+1545,zwei::NUM,кык,இரண்டு
+1546,zwei::NUM,divi,இரண்டு
+1547,drei::NUM,куим,மூன்று
+1548,drei::NUM,trīs,மூன்று
+1549,vier::NUM,нель,நான்கு
+1550,vier::NUM,četri,நான்கு
+1551,fünf::NUM,вит,ஐந்து
+1552,fünf::NUM,pieci,ஐந்து
+1553,sechs::NUM,квайт,ஆறு
+1554,sechs::NUM,seši,ஆறு
+1555,sieben::NUM,сизим,ஏழு
+1556,sieben::NUM,septiņi,ஏழு
+1557,acht::NUM,кӧкъямыс,எட்டு
+1558,acht::NUM,astoņi,எட்டு
+1559,neun::NUM,ӧкмыс,ஒன்பது
+1560,neun::NUM,deviņi,ஒன்பது
+1561,zehn::NUM,дас,பத்து
+1562,zehn::NUM,desmit,பத்து
+1563,elf::NUM,дас ӧтик,பதினொன்று
+1564,elf::NUM,vienpadsmit,பதினொன்று
+1565,zwölf::NUM,дас кык,பன்னிரண்டு
+1566,zwölf::NUM,divpadsmit,பன்னிரண்டு
+1567,zwanzig::NUM,кызь,இருபது
+1568,zwanzig::NUM,divdesmit,இருபது
+1569,dreißig::NUM,комын,முப்பது
+1570,dreißig::NUM,trīsdesmit,முப்பது
+1571,vierzig::NUM,нелямын,நாற்பது
+1572,vierzig::NUM,četrdesmit,நாற்பது
+1573,fünfzig::NUM,ветымын,ஐமபது
+1574,fünfzig::NUM,piecdesmit,ஐமபது
+1575,sechzig::NUM,квайтымын,அறுபது
+1576,sechzig::NUM,sešdesmit,அறுபது
+1577,siebzig::NUM,сизимдас,எழுபது
+1578,siebzig::NUM,septiņdesmit,எழுபது
+1579,achtzig::NUM,кӧкъямысдас,எண்பது
+1580,achtzig::NUM,astoņdesmit,எண்பது
+1581,neunzig::NUM,ӧкмысдас,தொன்னூறு
+1582,neunzig::NUM,deviņdesmit,தொன்னூறு
+1583,hundert::NUM,сё,நூறு
+1584,hundert::NUM,simt,நூறு
+1585,tausend::NUM,сюрс,ஆயிரம்
+1586,tausend::NUM,tūkstoš,ஆயிரம்
+1587,und::CNJ,и,மற்றும்
+1588,und::CNJ,un,மற்றும்
+1589,oder::CNJ,либӧ,அல்லது
+1590,oder::CNJ,jeb,அல்லது
+1591,stehen::V,сулавны,நில்
+1592,stehen::V,stāvēt,நில்
+1593,sitzen::V,пукавны,உட்கார்
+1594,sitzen::V,sēdēt,உட்கார்
+1595,liegen::V,куйлыны,படு
+1596,liegen::V,gulēt,படு
+1597,hängen::V,ӧшавны,தொங்கச் செய்
+1598,hängen::V,karāties,தொங்கச் செய்
+1599,werden::V,лоны,ஆகு
+1600,werden::V,tapt,ஆகு
+1601,passieren::V,лоны,நிகழ்
+1602,passieren::V,notikt,நிகழ்
+1603,beginnen::V,кутчысьны,ஆரம்பி
+1604,beginnen::V,кутны,ஆரம்பி
+1605,beginnen::V,sākties,ஆரம்பி
+1606,enden::V,помасьны,முடி
+1607,enden::V,beigties,முடி
+1608,wechseln::V,вежсьыны,மாற்று
+1609,wechseln::V,mainīties,மாற்று
+1610,aufgehen[Sonne]::V,петны,உயர எழு
+1611,aufgehen[Sonne]::V,lēkt,உயர எழு
+1612,aufgehen[Sonne]::V,uzlēkt,உயர எழு
+1613,untergehen[Sonne]::V,пуксьыны,பொறுத்து
+1614,untergehen[Sonne]::V,noiet,பொறுத்து
+1615,untergehen[Sonne]::V,rietēt,பொறுத்து
+1616,scheinen[Sonne]::V,югъявны,பிரகாசி
+1617,scheinen[Sonne]::V,югвидзны,பிரகாசி
+1618,scheinen[Sonne]::V,spīdēt,பிரகாசி
+1619,donnern::V,гымавны,இடி
+1620,donnern::V,dārdēt,இடி
+1621,wehen::V,пӧльтны,வீசு
+1622,wehen::V,pūst,வீசு
+1623,strömen::V,киссьыны,பாயதல்
+1624,strömen::V,līt,பாயதல்
+1625,strömen::V,plūst,பாயதல்
+1626,fließen::V,визувтны,நீரோட்டம் போக்கில் போ
+1627,fließen::V,tecēt,நீரோட்டம் போக்கில் போ
+1628,sich drehen::V,бергавны,சுழல்
+1629,sich drehen::V,grozīties,சுழல்
+1630,schwanken::V,легны,தள்ளாடு
+1631,schwanken::V,лайкъявны,தள்ளாடு
+1632,schwanken::V,līgoties,தள்ளாடு
+1633,schwanken::V,grīļoties,தள்ளாடு
+1634,schwingen::V,лайкъявны,ஆடு
+1635,schwingen::V,люллявны,ஆடு
+1636,schwingen::V,vēzēties,ஆடு
+1637,fallen::V,усьны,விழு
+1638,fallen::V,krist,விழு
+1639,brennen::V,сотчыны,எரி
+1640,brennen::V,degt,எரி
+1641,rauchen::V,тшынӧдны,பகை பிடி
+1642,rauchen::V,dūmot,பகை பிடி
+1643,regnen::V,зэрны,மழை பெய்
+1644,regnen::V,līt,மழை பெய்
+1645,gefrieren::V,кынмыны,உறைந்துவிடு
+1646,gefrieren::V,sasalt,உறைந்துவிடு
+1647,tauen::V,сывны,உருகு
+1648,tauen::V,kust,உருகு
+1649,schmelzen::V,сывны,உருகு
+1650,schmelzen::V,kust,உருகு
+1651,schmelzen::V,nokust,உருகு
+1652,trocknen::V,косьмыны,உலர்த்து
+1653,trocknen::V,žūt,உலர்த்து
+1654,trocknen::V,kaltēties,உலர்த்து
+1655,sieden::V,пуны,கொதிக்க வை
+1656,sieden::V,virt,கொதிக்க வை
+1657,sieden::V,vārīties,கொதிக்க வை
+1658,faulen::V,сісьмыны,அழுகச் செய்
+1659,faulen::V,pūt,அழுகச் செய்
+1660,faulen::V,trudēt,அழுகச் செய்
+1661,verfaulen::V,сісьмыны,அழுகச் செய்
+1662,verfaulen::V,sapūt,அழுகச் செய்
+1663,verfaulen::V,satrūdēt,அழுகச் செய்
+1664,reißen::V,орны,திடீரென அறு
+1665,reißen::V,plīst,திடீரென அறு
+1666,reißen::V,satrūkt,திடீரென அறு
+1667,versinken::V,вӧйны,மூழ்கு
+1668,versinken::V,grimt,மூழ்கு
+1669,versinken::V,nogrimt,மூழ்கு
+1670,vergehen::V,кольны,கடந்துசெல்
+1671,vergehen::V,ордйыны,கடந்துசெல்
+1672,vergehen::V,paiet,கடந்துசெல்
+1673,erscheinen::V,петкӧдчыны,தோன்றச்
+1674,erscheinen::V,parādīties,தோன்றச்
+1675,verschwinden::V,бырны,மறைந்து போ
+1676,verschwinden::V,nozust,மறைந்து போ
+1677,sinken::V,вӧйны,பதைவுறு
+1678,sinken::V,kristies,பதைவுறு
+1679,abnehmen::V,чинны,குறை
+1680,abnehmen::V,noplakt,குறை
+1681,abnehmen::V,mazināties,குறை
+1682,zunehmen::V,содны,உயர்த்து
+1683,zunehmen::V,ыдждыны,உயர்த்து
+1684,zunehmen::V,pieaugt,உயர்த்து
+1685,zunehmen::V,pieņemties,உயர்த்து
+1686,steigen::V,лыбны,உயர எழு
+1687,steigen::V,kāpt,உயர எழு
+1688,wachsen::V,быдмыны,வளர்
+1689,wachsen::V,augt,வளர்
+1690,glänzen::V,югъявны,மிளிர்
+1691,glänzen::V,дзирдавны,மிளிர்
+1692,glänzen::V,zaigot,மிளிர்
+1693,glänzen::V,laistīties,மிளிர்
+1694,funkeln::V,югъявны,பிரகாசி
+1695,funkeln::V,дзирдавны,பிரகாசி
+1696,funkeln::V,mirdzēt,பிரகாசி
+1697,funkeln::V,dzirkstēt,பிரகாசி
+1698,lärmen::V,жувгыны,கொம்பு
+1699,lärmen::V,ыугыны,கொம்பு
+1700,lärmen::V,шумитны,கொம்பு
+1701,lärmen::V,ālēties,கொம்பு
+1702,lärmen::V,trokšņot,கொம்பு
+1703,läuten::V,жургыны,மணியொலியிசை
+1704,läuten::V,zvanīt,மணியொலியிசை
+1705,klingeln::V,звӧнитны,மணி அடி
+1706,klingeln::V,zvanīt,மணி அடி
+1707,klirren::V,гольскöдчыны,கிலுங்கு
+1708,klirren::V,tinkšķēt,கிலுங்கு
+1709,klirren::V,džinkstēt,கிலுங்கு
+1710,brausen::V,буавны,இரைதல்
+1711,brausen::V,krākt,இரைதல்
+1712,brausen::V,brāzmot,இரைதல்
+1713,rauschen::V,кышакывны,சலசலப்பு
+1714,rauschen::V,šalkt,சலசலப்பு
+1715,klingen::V,шыавны,சிலம்புதல்
+1716,klingen::V,юргыны,சிலம்புதல்
+1717,klingen::V,skanēt,சிலம்புதல்
+1718,klingen::V,izklausīties,சிலம்புதல்
+1719,bellen::V,увтны,குரை
+1720,bellen::V,riet,குரை
+1721,heulen::V,омлявны,ஊளையிடு
+1722,heulen::V,вурзавны,ஊளையிடு
+1723,heulen::V,kaukt,ஊளையிடு
+1724,heulen::V,gaudot,ஊளையிடு
+1725,blasen::V,пӧльтны,ஊது
+1726,blasen::V,pūst,ஊது
+1727,pfeifen::V,шутьлявны,சீழ்க்கை எழப்பு
+1728,pfeifen::V,svilpt,சீழ்க்கை எழப்பு
+1729,pfeifen::V,svilpot,சீழ்க்கை எழப்பு
+1730,schreien::V,горзыны,கூச்சலிடு
+1731,schreien::V,brēkt,கூச்சலிடு
+1732,schreien::V,kliegt,கூச்சலிடு
+1733,stöhnen::V,ымзыны,வேதனை
+1734,stöhnen::V,vaidēt,வேதனை
+1735,zittern::V,тіравны,நடுங்கு
+1736,zittern::V,drebēt,நடுங்கு
+1737,leben::V,овны,உயிருடனிரு
+1738,leben::V,dzīvot,உயிருடனிரு
+1739,geboren werden::V,чужны,பிற
+1740,geboren werden::V,dzimt,பிற
+1741,atmen::V,кашкыны,சுவாசி
+1742,atmen::V,пошиктыны,சுவாசி
+1743,atmen::V,elpot,சுவாசி
+1744,trinken::V,юны,குடி
+1745,trinken::V,dzert,குடி
+1746,essen::V,сёйны,சாப்பிடு
+1747,essen::V,ēst,சாப்பிடு
+1748,schlucken::V,ньылавны,முழுங்கு
+1749,schlucken::V,rīt,முழுங்கு
+1750,müde werden::V,мудзны,கையயர்தல்
+1751,müde werden::V,nokust,கையயர்தல்
+1752,einschlafen::V,ланьтны,தூங்க
+1753,einschlafen::V,унмовсьны,தூங்க
+1754,einschlafen::V,iemigt,தூங்க
+1755,einschlafen::V,aizmigt,தூங்க
+1756,schlafen::V,узьны,தூங்கு
+1757,schlafen::V,gulēt,தூங்கு
+1758,aufwachen::V,садьмыны,எழுப்பு
+1759,aufwachen::V,mosties,எழுப்பு
+1760,aufstehen::V,чеччыны,எழுந்திரு
+1761,aufstehen::V,celties,எழுந்திரு
+1762,sich erholen::V,шойччыны,இளைப்பாறு
+1763,sich erholen::V,atžirgt,இளைப்பாறு
+1764,sich erholen::V,atpūsties,இளைப்பாறு
+1765,krank werden::V,висьмыны,விழுதல்
+1766,krank werden::V,sasirgt,விழுதல்
+1767,krank sein::V,висьны,நருக்கலாயிருக்க
+1768,krank sein::V,slimot,நருக்கலாயிருக்க
+1769,schmerzen::V,висьны,நோவுறு
+1770,schmerzen::V,sāpēt,நோவுறு
+1771,schmerzen::V,smelgt,நோவுறு
+1772,husten::V,кызны,இருமு
+1773,husten::V,klepot,இருமு
+1774,genesen::V,бурдны,குணம் அடை
+1775,genesen::V,veseļoties,குணம் அடை
+1776,sterben::V,кувны,மரணமடை
+1777,sterben::V,mirt,மரணமடை
+1778,sterben::V,nomirt,மரணமடை
+1779,umkommen::V,кувны,நசி
+1780,umkommen::V,apsprāgt,நசி
+1781,umkommen::V,aiziet bojā,நசி
+1782,sich bewegen::V,вӧрзьыны,நகர்த்து
+1783,sich bewegen::V,virzīties,நகர்த்து
+1784,sich rühren::V,вӧрны,அசை
+1785,sich rühren::V,вӧрӧдчыны,அசை
+1786,sich rühren::V,sagrozīties,அசை
+1787,sich erheben::V,сувтны,எழுந்து நில்
+1788,sich erheben::V,piecelties,எழுந்து நில்
+1789,sich setzen::V,пуксьыны,உட்கார்
+1790,sich setzen::V,sēsties,உட்கார்
+1791,hinfallen::V,усьны,விழு
+1792,hinfallen::V,sabirt,விழு
+1793,hinfallen::V,pakrist,விழு
+1794,laufen::V,мyнны,நட
+1795,laufen::V,iet,நட
+1796,laufen::V,skraidīt,நட
+1797,schreiten::V,восьлавны,கவடுவைத்தல்
+1798,schreiten::V,soļot,கவடுவைத்தல்
+1799,spazierengehen::V,гуляйтны,உலவு
+1800,spazierengehen::V,staigāt,உலவு
+1801,spazierengehen::V,pastaigāties,உலவு
+1802,eilen::V,тэрмасьны,விரைந்து
+1803,eilen::V,traukt,விரைந்து
+1804,sich beeilen::V,тэрмасьны,அவசரப்படுத்து
+1805,sich beeilen::V,steigties,அவசரப்படுத்து
+1806,sich beeilen::V,pasteigties,அவசரப்படுத்து
+1807,sausen::V,тӧвзьыны,விரைந்து செல்
+1808,sausen::V,drāzt,விரைந்து செல்
+1809,sausen::V,brāzties,விரைந்து செல்
+1810,rennen::V,котӧртны,ஓடு
+1811,rennen::V,skriet,ஓடு
+1812,springen::V,чеччавны,குதி
+1813,springen::V,lēkt,குதி
+1814,klettern::V,кышасьны,ஏறு
+1815,klettern::V,кавшасьны,ஏறு
+1816,klettern::V,kāpt,ஏறு
+1817,klettern::V,rāpties,ஏறு
+1818,schaukeln::V,гычасьны,தள்ளாடு
+1819,schaukeln::V,šūpoties,தள்ளாடு
+1820,schaukeln::V,zvalstīties,தள்ளாடு
+1821,kriechen::V,кыссьыны,மெதுவாக நடந்து செல்
+1822,kriechen::V,līst,மெதுவாக நடந்து செல்
+1823,kriechen::V,rāpot,மெதுவாக நடந்து செல்
+1824,schwimmen::V,уявны,நீந்து
+1825,schwimmen::V,peldēt,நீந்து
+1826,tauchen::V,сунавны,மூழ்கி நீச்சலடி
+1827,tauchen::V,gremdēties,மூழ்கி நீச்சலடி
+1828,rudern::V,пелысасьны,துடுப்புப் போடு
+1829,rudern::V,airēt,துடுப்புப் போடு
+1830,rudern::V,irties,துடுப்புப் போடு
+1831,fahren::V,мунны,ஓட்டு
+1832,fahren::V,braukt,ஓட்டு
+1833,fliegen::V,лэбны,பற
+1834,fliegen::V,lidot,பற
+1835,fliegen::V,laisties,பற
+1836,gehen::V,мyнны,போ
+1837,gehen::V,iet,போ
+1838,weggehen::V,мунавны,விலகிச் செல்
+1839,weggehen::V,aiziet,விலகிச் செல்
+1840,abfahren::V,мӧдӧдчыны,புறப்பட்டுச் செல்
+1841,abfahren::V,atiet,புறப்பட்டுச் செல்
+1842,abfahren::V,aizbraukt,புறப்பட்டுச் செல்
+1843,anhalten::V,джӧмдыны,நின்றுவிடு
+1844,anhalten::V,apstāties,நின்றுவிடு
+1845,hineingehen::V,пырны,மறையச் செய்
+1846,hineingehen::V,ieiet,மறையச் செய்
+1847,eintreten::V,пырны,நுழை
+1848,eintreten::V,ienākt,நுழை
+1849,kommen::V,воны,வா
+1850,kommen::V,локны,வா
+1851,kommen::V,nākt,வா
+1852,ankommen::V,воны,வநது சேர்
+1853,ankommen::V,локны,வநது சேர்
+1854,ankommen::V,nonākt,வநது சேர்
+1855,ankommen::V,ierasties,வநது சேர்
+1856,zurückkommen::V,косны,திரும்பி வா
+1857,zurückkommen::V,бергӧдчыны,திரும்பி வா
+1858,zurückkommen::V,atgriezties,திரும்பி வா
+1859,bleiben::V,кольны,இரு
+1860,bleiben::V,palikt,இரு
+1861,warten::V,виччысьны,தாமதி
+1862,warten::V,gaidīt,தாமதி
+1863,erwarten::V,виччысьны,எதிர்நோக்கு
+1864,erwarten::V,sagaidīt,எதிர்நோக்கு
+1865,suchen::V,корсьны,தேடு
+1866,suchen::V,meklēt,தேடு
+1867,finden::V,казявны,கண்டுபிடி
+1868,finden::V,rast,கண்டுபிடி
+1869,finden::V,atrast,கண்டுபிடி
+1870,versuchen::V,заводитчывны,முயற்சி செய்
+1871,versuchen::V,mēģināt,முயற்சி செய்
+1872,vorbereiten::V,дасьтыны,ஆயத்தம் செய்
+1873,vorbereiten::V,gatavot,ஆயத்தம் செய்
+1874,vorbereiten::V,sagatavot,ஆயத்தம் செய்
+1875,lieben::V,радейтны,அன்பு செலுத்து
+1876,lieben::V,mīlēt,அன்பு செலுத்து
+1877,mögen::V,радейтны,விரும்பு
+1878,mögen::V,gribēties,விரும்பு
+1879,lachen::V,серавны,சிரி
+1880,lachen::V,серавлыны,சிரி
+1881,lachen::V,smiet,சிரி
+1882,lachen::V,smieties,சிரி
+1883,rühren::V,нормӧдны,இதயத்தைத் தொடு
+1884,rühren::V,aizgrābt,இதயத்தைத் தொடு
+1885,weinen::V,бӧрдны,அழு
+1886,weinen::V,raudāt,அழு
+1887,schimpfen::V,видчыны,சாபமிடு
+1888,schimpfen::V,rāties,சாபமிடு
+1889,schimpfen::V,lamāties,சாபமிடு
+1890,sich ärgern::V,скӧравны,கோப்பபடு
+1891,sich ärgern::V,īgt,கோப்பபடு
+1892,sich ärgern::V,pukoties,கோப்பபடு
+1893,sich ärgern::V,dusmoties,கோப்பபடு
+1894,sich fürchten::V,повны,பயப்படு
+1895,sich fürchten::V,bīties,பயப்படு
+1896,sich fürchten::V,baidīties,பயப்படு
+1897,fürchten::V,повны,பயப்படுத்து
+1898,fürchten::V,baidīties no,பயப்படுத்து
+1899,fliehen::V,пышйыны,ஓடு
+1900,fliehen::V,bēgt,ஓடு
+1901,flüchten::V,пышйыны,தப்பிவிடு
+1902,flüchten::V,aizbēgt,தப்பிவிடு
+1903,sehen::V,аддзыны,பார்
+1904,sehen::V,redzēt,பார்
+1905,anschauen::V,видзӧдны,கூர்ந்து கவனி
+1906,anschauen::V,paraudzīties,கூர்ந்து கவனி
+1907,ansehen::V,видзӧдны,கவனி
+1908,ansehen::V,aplūkot,கவனி
+1909,hören::V,кывны,கேள்
+1910,hören::V,dzirdēt,கேள்
+1911,zuhören::V,кывзыны,சுவைத்துப் பார்
+1912,zuhören::V,klausīties,சுவைத்துப் பார்
+1913,probieren::V,видлыны,ருசி
+1914,probieren::V,nogaršot,ருசி
+1915,riechen::V,чушкыны,முகர்ந்து பார்
+1916,riechen::V,ost,முகர்ந்து பார்
+1917,riechen::V,ostīt,முகர்ந்து பார்
+1918,fühlen::V,вежӧртны,தொட்டுணர்
+1919,fühlen::V,гӧгӧрвоны,தொட்டுணர்
+1920,fühlen::V,just,தொட்டுணர்
+1921,fühlen::V,izjust,தொட்டுணர்
+1922,scheinen::V,кажитчыны,காணப்படு
+1923,scheinen::V,šķist,காணப்படு
+1924,scheinen::V,likties,காணப்படு
+1925,zu sehen sein::V,тыдавны,தோன்றுதல்
+1926,zu sehen sein::V,parādīties,தோன்றுதல்
+1927,vernehmen::V,кывны,கேள்
+1928,vernehmen::V,saklausīt,கேள்
+1929,frieren::V,кынмыны,குதுகுதுகு
+1930,frieren::V,salt,குதுகுதுகு
+1931,tun::V,керны,செய்
+1932,tun::V,darīt,செய்
+1933,können::V,кужны,இயல்வது
+1934,können::V,prast,இயல்வது
+1935,wollen::V,кӧсйыны,விரும்பு
+1936,wollen::V,gribēt,விரும்பு
+1937,anfangen::V,заводитны,தொடங்கு
+1938,anfangen::V,пондыны,தொடங்கு
+1939,anfangen::V,sākt,தொடங்கு
+1940,anfangen::V,iesākt,தொடங்கு
+1941,beenden::V,помавны,முடி
+1942,beenden::V,beigt,முடி
+1943,beenden::V,pabeigt,முடி
+1944,aufhören::V,дугӧдны,நிறுத்து
+1945,aufhören::V,pārtraukt,நிறுத்து
+1946,gelingen::V,артмыны,வெற்றி
+1947,gelingen::V,izdoties,வெற்றி
+1948,geraten::V,сюрны,ஏற்படுத்து
+1949,geraten::V,веськавны,ஏற்படுத்து
+1950,geraten::V,veikties,ஏற்படுத்து
+1951,öffnen::V,восьтыны,திற
+1952,öffnen::V,atvērt,திற
+1953,öffnen::V,attaisīt,திற
+1954,schließen::V,пӧдлавны,மூடு
+1955,schließen::V,slēgt,மூடு
+1956,schließen::V,aizvērt,மூடு
+1957,schließen::V,aiztaisīt,மூடு
+1958,stellen::V,сувтӧдны,வை
+1959,stellen::V,likt,வை
+1960,stellen::V,nolikt,வை
+1961,setzen::V,пуксьӧдны,வை
+1962,setzen::V,sēdināt,வை
+1963,legen::V,пуктыны,பரப்பி வை
+1964,legen::V,likt,பரப்பி வை
+1965,berühren::V,вӧрзьӧдны,பதி
+1966,berühren::V,инмӧдчывны,பதி
+1967,berühren::V,skart,பதி
+1968,berühren::V,aizskart,பதி
+1969,verbinden::V,йитны,சேர்
+1970,verbinden::V,saistīt,சேர்
+1971,verbinden::V,savienot,சேர்
+1972,bedecken::V,вевттьыны,உறைபோடு
+1973,bedecken::V,apsegt,உறைபோடு
+1974,bedecken::V,pārsegt,உறைபோடு
+1975,aufhängen::V,ӧшӧдны,தொங்கவிடு
+1976,aufhängen::V,джагӧдны,தொங்கவிடு
+1977,aufhängen::V,uzkārt,தொங்கவிடு
+1978,anzünden::V,ӧзтыны,எரியூட்டு
+1979,anzünden::V,aizdegt,எரியூட்டு
+1980,anzünden::V,aizdedzināt,எரியூட்டு
+1981,aufheben::V,чеччӧдны,பொறுக்கி எடு
+1982,aufheben::V,сувтӧдны,பொறுக்கி எடு
+1983,aufheben::V,pacelt,பொறுக்கி எடு
+1984,zurücklassen::V,кольны,விட்டுச் செல்
+1985,zurücklassen::V,atstāt,விட்டுச் செல்
+1986,verlieren::V,воштыны,இழ
+1987,verlieren::V,zaudēt,இழ
+1988,verlieren::V,pazaudēt,இழ
+1989,fallen lassen::V,уськӧдны,அளவில் குறைவு
+1990,fallen lassen::V,nomest,அளவில் குறைவு
+1991,machen::V,вӧчны,தயார்செய்
+1992,machen::V,лӧсьӧдны,தயார்செய்
+1993,machen::V,darīt,தயார்செய்
+1994,herstellen::V,лӧсьӧдны,உற்பத்தி செய்
+1995,herstellen::V,ražot,உற்பத்தி செய்
+1996,herstellen::V,izgatavot,உற்பத்தி செய்
+1997,bauen::V,лэптыны,கட்டு
+1998,bauen::V,celt,கட்டு
+1999,bauen::V,būvēt,கட்டு
+2000,reparieren::V,дзоньтавны,பழுது பார்
+2001,reparieren::V,labot,பழுது பார்
+2002,reparieren::V,remontēt,பழுது பார்
+2003,verbessern::V,бурмӧдны,மேம்படுத்து
+2004,verbessern::V,labot,மேம்படுத்து
+2005,verbessern::V,izlabot,மேம்படுத்து
+2006,ändern::V,вежны,மாற்றி அமை
+2007,ändern::V,mainīt,மாற்றி அமை
+2008,graben::V,кодйыны,குழி வெட்டு
+2009,graben::V,rakt,குழி வெட்டு
+2010,beugen::V,куснявны,வனை
+2011,beugen::V,liekt,வனை
+2012,biegen::V,куснявны,வனை
+2013,biegen::V,liekt,வனை
+2014,drehen::V,бергӧдлыны,சுழல்
+2015,drehen::V,griezt,சுழல்
+2016,wenden::V,бергӧдны,குடைகவிழு
+2017,wenden::V,apgriezt,குடைகவிழு
+2018,umdrehen::V,бергӧдны,சுற்றும் முற்றும் பார்
+2019,umdrehen::V,apgriezt,சுற்றும் முற்றும் பார்
+2020,heben::V,лэптыны,தூக்கு
+2021,heben::V,celt,தூக்கு
+2022,heben::V,cilāt,தூக்கு
+2023,heben::V,pacelt,தூக்கு
+2024,hochheben::V,кыпӧдны,தூக்கு
+2025,hochheben::V,pacelt,தூக்கு
+2026,ergreifen::V,кутны,பறி
+2027,ergreifen::V,paķert,பறி
+2028,ergreifen::V,satvert,பறி
+2029,halten::V,кутны,பிடித்துக் கொள்
+2030,halten::V,turēt,பிடித்துக் கொள்
+2031,halten::V,saturēt,பிடித்துக் கொள்
+2032,drücken::V,личкыны,அழுத்து
+2033,drücken::V,топӧдны,அழுத்து
+2034,drücken::V,spiest,அழுத்து
+2035,schieben::V,ӧтдортны,தள்ளு
+2036,schieben::V,йӧткыштны,தள்ளு
+2037,schieben::V,stumt,தள்ளு
+2038,kratzen::V,гуджӧдны,கீறு
+2039,kratzen::V,kasīt,கீறு
+2040,kratzen::V,skrāpēt,கீறு
+2041,lecken::V,нювны,நக்கு
+2042,lecken::V,lakt,நக்கு
+2043,lecken::V,laizīt,நக்கு
+2044,beißen::V,курччыны,கடி
+2045,beißen::V,kost,கடி
+2046,abreißen::V,орӧдны,கிழி
+2047,abreißen::V,atraut,கிழி
+2048,abreißen::V,atplēst,கிழி
+2049,abschneiden::V,вундавны,வெட்டி எடு
+2050,abschneiden::V,nogriezt,வெட்டி எடு
+2051,binden::V,гӧрддзавны,கட்டு
+2052,binden::V,кӧртавны,கட்டு
+2053,binden::V,siet,கட்டு
+2054,binden::V,aptīt,கட்டு
+2055,stecken::V,сюйны,பதிய வை
+2056,stecken::V,bāzt,பதிய வை
+2057,stecken::V,spraust,பதிய வை
+2058,brechen::V,чегны,உடை
+2059,brechen::V,lauzt,உடை
+2060,brechen::V,lauzīt,உடை
+2061,klopfen::V,камгыны,தட்டு
+2062,klopfen::V,klauvēt,தட்டு
+2063,hauen::V,нӧйнты,அடி
+2064,hauen::V,кучкыны,அடி
+2065,hauen::V,cirst,அடி
+2066,hauen::V,dauzīt,அடி
+2067,kleben::V,лемавны,ஒட்டு
+2068,kleben::V,ляскавны,ஒட்டு
+2069,kleben::V,līmēt,ஒட்டு
+2070,kleben::V,lipināt,ஒட்டு
+2071,reiben::V,тільны,தேய்
+2072,reiben::V,зыравны,தேய்
+2073,reiben::V,rīvēt,தேய்
+2074,reiben::V,berzēt,தேய்
+2075,streichen::V,мавтны,பரவச்செய்
+2076,streichen::V,ziest,பரவச்செய்
+2077,streichen::V,triept,பரவச்செய்
+2078,schleifen::V,кеслыны,அரை
+2079,schleifen::V,trīt,அரை
+2080,schleifen::V,asināt,அரை
+2081,schneiden::V,шырны,துண்டாக்கு
+2082,schneiden::V,griezt,துண்டாக்கு
+2083,schneiden::V,sagriezt,துண்டாக்கு
+2084,rütteln::V,легӧдны,மெல்ல தள்ளு
+2085,rütteln::V,катлӧдлыны,மெல்ல தள்ளு
+2086,rütteln::V,kratīt,மெல்ல தள்ளு
+2087,rütteln::V,purināt,மெல்ல தள்ளு
+2088,schütteln::V,тракӧдны,குலுக்கு
+2089,schütteln::V,kratīt,குலுக்கு
+2090,schwenken::V,ӧвтны,ஊஞ்சலாடு
+2091,schwenken::V,шенасьны,ஊஞ்சலாடு
+2092,schwenken::V,vēzēt,ஊஞ்சலாடு
+2093,schwenken::V,vēcināt,ஊஞ்சலாடு
+2094,schütten::V,кисьтны,ஊற்று
+2095,schütten::V,bērt,ஊற்று
+2096,füllen::V,тыртны,நிரப்பு
+2097,füllen::V,pildīt,நிரப்பு
+2098,füllen::V,piepildīt,நிரப்பு
+2099,einwickeln::V,тубыртны,சுற்று
+2100,einwickeln::V,ietīt,சுற்று
+2101,tragen::V,нуны,எடுத்துச் செல்
+2102,tragen::V,nest,எடுத்துச் செல்
+2103,schleppen::V,кыскавны,இழுத்துச் செல்
+2104,schleppen::V,stiept,இழுத்துச் செல்
+2105,schleppen::V,staipīt,இழுத்துச் செல்
+2106,ziehen::V,кыскыны,இழு
+2107,ziehen::V,vilkt,இழு
+2108,aufbewahren::V,видзны,வைத்துக் கொள்
+2109,aufbewahren::V,glabāt,வைத்துக் கொள்
+2110,aufbewahren::V,uzglabāt,வைத்துக் கொள்
+2111,werfen::V,чӧвтны,வீசி எறி
+2112,werfen::V,шыбитны,வீசி எறி
+2113,werfen::V,mest,வீசி எறி
+2114,werfen::V,sviest,வீசி எறி
+2115,fangen::V,кутны,பிடி
+2116,fangen::V,ķert,பிடி
+2117,fangen::V,uzķert,பிடி
+2118,packen::V,босьтны,பிடித்துக்கொள்
+2119,packen::V,paķert,பிடித்துக்கொள்
+2120,packen::V,satvert,பிடித்துக்கொள்
+2121,verstecken::V,дзебны,மறை
+2122,verstecken::V,slēpt,மறை
+2123,verstecken::V,noglabāt,மறை
+2124,teilen::V,юкны,பாகங்களாகப் பிரி
+2125,teilen::V,dalīt,பாகங்களாகப் பிரி
+2126,schicken::V,ыстыны,அனுப்பு
+2127,schicken::V,sūtīt,அனுப்பு
+2128,schicken::V,atsūtīt,அனுப்பு
+2129,bringen::V,вайны,கொண்டு வா
+2130,bringen::V,atvest,கொண்டு வா
+2131,hinzufügen::V,содтыны,சேர்
+2132,hinzufügen::V,pievienot,சேர்
+2133,bekommen::V,босьтны,பெறு
+2134,bekommen::V,dabūt,பெறு
+2135,erhalten::V,босьтны,பெறு
+2136,erhalten::V,saņemt,பெறு
+2137,nehmen::V,босьтны,எடு
+2138,nehmen::V,ņemt,எடு
+2139,nehmen::V,paņemt,எடு
+2140,wählen::V,бӧрйыны,தேர்ந்தெடு
+2141,wählen::V,ievēlēt,தேர்ந்தெடு
+2142,auswählen::V,бӧрйыны,தேர்ல்தெடு
+2143,auswählen::V,izvēlēt,தேர்ல்தெடு
+2144,bewahren::V,видзны,கெடாது பேணு
+2145,bewahren::V,saglabāt,கெடாது பேணு
+2146,behindern::V,конйӧдлыны,தடங்கல் செய்
+2147,behindern::V,джӧмдӧдны,தடங்கல் செய்
+2148,behindern::V,kavēt,தடங்கல் செய்
+2149,behindern::V,aizkavēt,தடங்கல் செய்
+2150,verderben::V,тшыкӧдны,நாசமாக்கு
+2151,verderben::V,sabojāt,நாசமாக்கு
+2152,beschädigen::V,тшыкӧдны,சேதப்படுத்து
+2153,beschädigen::V,bojāt,சேதப்படுத்து
+2154,beschädigen::V,maitāt,சேதப்படுத்து
+2155,zerbrechen::V,жуглыны,உடை
+2156,zerbrechen::V,salauzt,உடை
+2157,zerbrechen::V,sadauzīt,உடை
+2158,zerreißen::V,орӧдны,கிழி
+2159,zerreißen::V,pārraut,கிழி
+2160,zerstören::V,жугӧдны,அழி
+2161,zerstören::V,кисьтны,அழி
+2162,zerstören::V,косявны,அழி
+2163,zerstören::V,graut,அழி
+2164,zerstören::V,sagraut,அழி
+2165,verbrennen::V,сотны,எரியூட்டு
+2166,verbrennen::V,сотчыны,எரியூட்டு
+2167,verbrennen::V,dedzināt,எரியூட்டு
+2168,verbrennen::V,sadedzināt,எரியூட்டு
+2169,geben::V,сетны,கொடு
+2170,geben::V,dot,கொடு
+2171,geben::V,padot,கொடு
+2172,reichen::V,сетны,வழங்கு
+2173,reichen::V,padot,வழங்கு
+2174,reichen::V,sniegt,வழங்கு
+2175,schenken::V,козьнавны,மொயத்தல்
+2176,schenken::V,dāvāt,மொயத்தல்
+2177,schenken::V,dāvināt,மொயத்தல்
+2178,versprechen::V,кыв сетны,உறுதியளி
+2179,versprechen::V,solīt,உறுதியளி
+2180,versprechen::V,apsolīt,உறுதியளி
+2181,wünschen::V,кӧсйыны,ஆசைப்படு
+2182,wünschen::V,vēlēt,ஆசைப்படு
+2183,wünschen::V,novēlēt,ஆசைப்படு
+2184,loben::V,ошкыны,புகழ்ச்சி கூறு
+2185,loben::V,lielīt,புகழ்ச்சி கூறு
+2186,küssen::V,окавны,முத்தமிடு
+2187,küssen::V,bučot,முத்தமிடு
+2188,küssen::V,skūpstīt,முத்தமிடு
+2189,wiegen::V,гудрӧдлыны,ஆட்டுத்தல்
+2190,wiegen::V,šūpot,ஆட்டுத்தல்
+2191,zudecken::V,веввттьыны,உறைபோடு
+2192,zudecken::V,apklāt,உறைபோடு
+2193,zudecken::V,aizsegt,உறைபோடு
+2194,wecken::V,садьмӧдны,எழுப்பு
+2195,wecken::V,чуксавны,எழுப்பு
+2196,wecken::V,modināt,எழுப்பு
+2197,zeigen::V,петкӧдлыны,காட்டு
+2198,zeigen::V,rādīt,காட்டு
+2199,führen::V,нуӧдны,வழிகாட்டி
+2200,führen::V,vadīt,வழிகாட்டி
+2201,lehren::V,велӧдны,சொல்லிக் கொடு
+2202,lehren::V,mācīt,சொல்லிக் கொடு
+2203,lehren::V,iemācīt,சொல்லிக் கொடு
+2204,unterrichten::V,велӧдны,அறிவுரை கூறு
+2205,unterrichten::V,apmācīt,அறிவுரை கூறு
+2206,aufziehen::V,быдтыны,வளர்
+2207,aufziehen::V,uzaudzināt,வளர்
+2208,leiten::V,веськӧдлыны,அழைத்துச் செல்
+2209,leiten::V,vadīt,அழைத்துச் செல்
+2210,leiten::V,pārzināt,அழைத்துச் செல்
+2211,antreiben::V,тэрмӧдны,தூண்டு
+2212,antreiben::V,urdīt,தூண்டு
+2213,antreiben::V,mudināt,தூண்டு
+2214,lassen::V,тшӧктыны,விடு
+2215,lassen::V,ļaut,விடு
+2216,einladen::V,корны,அழை
+2217,einladen::V,ielūgt,அழை
+2218,einladen::V,aicināt,அழை
+2219,vereinigen::V,ӧтувтны,ஒன்றாகச் சேர்
+2220,vereinigen::V,котыртны,ஒன்றாகச் சேர்
+2221,vereinigen::V,vienot,ஒன்றாகச் சேர்
+2222,vereinigen::V,apvienot,ஒன்றாகச் சேர்
+2223,besuchen::V,волыны,வருகை புரி
+2224,besuchen::V,ветлыны,வருகை புரி
+2225,besuchen::V,apciemot,வருகை புரி
+2226,treffen::V,вочаӧдны,சந்தி
+2227,treffen::V,паныдавны,சந்தி
+2228,treffen::V,satikt,சந்தி
+2229,treffen::V,sastapt,சந்தி
+2230,sich versammeln::V,лӧсьӧдчыны,தொகுப்பு
+2231,sich versammeln::V,salasīties,தொகுப்பு
+2232,sich versammeln::V,sapulcēties,தொகுப்பு
+2233,spielen::V,ворсны,விளையாடு
+2234,spielen::V,spēlēt,விளையாடு
+2235,spielen::V,spēlēties,விளையாடு
+2236,singen::V,сьывны,பாடு
+2237,singen::V,dziedāt,பாடு
+2238,tanzen::V,йӧктыны,நடனமாடு
+2239,tanzen::V,diet,நடனமாடு
+2240,tanzen::V,dejot,நடனமாடு
+2241,tanzen::V,dancot,நடனமாடு
+2242,sich trennen::V,торйӧдчыны,தனிப்படடுத்து
+2243,sich trennen::V,šķirties,தனிப்படடுத்து
+2244,sich trennen::V,izšķirties,தனிப்படடுத்து
+2245,verlassen::V,эновтны,கைவிடு
+2246,verlassen::V,atstāt,கைவிடு
+2247,retten::V,видзны,காப்பாற்று
+2248,retten::V,мездыны,காப்பாற்று
+2249,retten::V,glābt,காப்பாற்று
+2250,bewachen::V,видзны,காவல் செய்
+2251,bewachen::V,sargāt,காவல் செய்
+2252,schützen::V,видзны,பாதுகாப்பு செய்
+2253,schützen::V,pasargāt,பாதுகாப்பு செய்
+2254,schützen::V,aizsargāt,பாதுகாப்பு செய்
+2255,verteidigen::V,дорйыны,எதிர்த்து நில்
+2256,verteidigen::V,aizstāvēt,எதிர்த்து நில்
+2257,sich schlagen::V,косясьны,பூசலிடு
+2258,sich schlagen::V,kauties,பூசலிடு
+2259,sich schlagen::V,izkauties,பூசலிடு
+2260,schießen::V,лыйны,சுட்டுக் கொல்
+2261,schießen::V,šaut,சுட்டுக் கொல்
+2262,schießen::V,šaudīt,சுட்டுக் கொல்
+2263,siegen::V,вермыны,வெற்றி பெறு
+2264,siegen::V,uzvarēt,வெற்றி பெறு
+2265,ärgern::V,лӧгӧдны,எரிச்சலூட்டு
+2266,ärgern::V,лёкмӧдны,எரிச்சலூட்டு
+2267,ärgern::V,скӧрмӧдны,எரிச்சலூட்டு
+2268,ärgern::V,sadusmot,எரிச்சலூட்டு
+2269,schlagen::V,вартны,அடி
+2270,schlagen::V,sist,அடி
+2271,schlagen::V,triekt,அடி
+2272,treten::V,лёгны,உதை
+2273,treten::V,майкны,உதை
+2274,treten::V,mīt,உதை
+2275,treten::V,paspert,உதை
+2276,stechen::V,бышткыны,கொட்டு
+2277,stechen::V,durt,கொட்டு
+2278,stoßen::V,тойлыны,நெருக்கு
+2279,stoßen::V,йӧткавны,நெருக்கு
+2280,stoßen::V,grūst,நெருக்கு
+2281,stehlen::V,гусявны,திருடு
+2282,stehlen::V,zagt,திருடு
+2283,stören::V,падмӧдны,தொல்லைகொடு
+2284,stören::V,traucēt,தொல்லைகொடு
+2285,belästigen::V,дӧзмӧдны,தொல்லை கொடு
+2286,belästigen::V,apgrūtināt,தொல்லை கொடு
+2287,verbergen::V,дзебны,மறை
+2288,verbergen::V,сайӧдны,மறை
+2289,verbergen::V,slēpt,மறை
+2290,verbergen::V,paslēpt,மறை
+2291,täuschen::V,пӧръявны,ஏமாற்று
+2292,täuschen::V,ылӧдны,ஏமாற்று
+2293,täuschen::V,mānīt,ஏமாற்று
+2294,täuschen::V,maldināt,ஏமாற்று
+2295,betrügen::V,сӧрны,ஏமாற்று
+2296,betrügen::V,krāpt,ஏமாற்று
+2297,betrügen::V,apkrāpt,ஏமாற்று
+2298,töten::V,вины,கொல்
+2299,töten::V,nāvēt,கொல்
+2300,töten::V,nogalināt,கொல்
+2301,wohnen::V,овны,தங்கியிரு
+2302,wohnen::V,dzīvot,தங்கியிரு
+2303,arbeiten::V,уджавны,வேலை செய்
+2304,arbeiten::V,strādāt,வேலை செய்
+2305,arbeiten::V,darboties,வேலை செய்
+2306,sammeln::V,чукӧртны,ஒன்றுசேர்
+2307,sammeln::V,vākt,ஒன்றுசேர்
+2308,pflücken::V,вотны,கொய்து எடு
+2309,pflücken::V,ӧктыны,கொய்து எடு
+2310,pflücken::V,raut,கொய்து எடு
+2311,pflücken::V,plūkt,கொய்து எடு
+2312,jagen::V,кыйсьыны,வேட்டையாடு
+2313,jagen::V,medīt,வேட்டையாடு
+2314,fischen::V,чери кыйны,மீன் பிடி
+2315,fischen::V,zvejot,மீன் பிடி
+2316,fassen::V,кутны,பிடி
+2317,fassen::V,saķert,பிடி
+2318,hüten::V,видзны,காவல் செய்
+2319,hüten::V,йирӧдны,காவல் செய்
+2320,hüten::V,ganīt,காவல் செய்
+2321,treiben::V,вӧтлыны,ஓட்டு
+2322,treiben::V,dzīt,ஓட்டு
+2323,anbinden::V,домавны,கட்டு
+2324,anbinden::V,piesiet,கட்டு
+2325,anbinden::V,piesaistīt,கட்டு
+2326,füttern::V,вердны,உணவளி
+2327,füttern::V,barot,உணவளி
+2328,melken::V,лысьтыны,பால் கற
+2329,melken::V,slaukt,பால் கற
+2330,hacken::V,керавны,வெட்டி எடு
+2331,hacken::V,kapāt,வெட்டி எடு
+2332,gießen::V,киськавны,நீர்ப் பாய்ச்சு
+2333,gießen::V,liet,நீர்ப் பாய்ச்சு
+2334,gießen::V,laistīt,நீர்ப் பாய்ச்சு
+2335,reifen::V,кисьмыны,பழு
+2336,reifen::V,briest,பழு
+2337,zubereiten::V,дасьтыны,சமையல் செய்
+2338,zubereiten::V,taisīt,சமையல் செய்
+2339,zubereiten::V,gatavot,சமையல் செய்
+2340,kochen::V,пуны,வேகவை
+2341,kochen::V,vārīt,வேகவை
+2342,backen::V,пӧжавны,வெப்பத்தில் வாட்டு
+2343,backen::V,cept,வெப்பத்தில் வாட்டு
+2344,braten::V,пражитны,பொரியச் செய்
+2345,braten::V,cept,பொரியச் செய்
+2346,braten::V,cepināt,பொரியச் செய்
+2347,umrühren::V,сорлавны,கலக்கு
+2348,umrühren::V,maisīt,கலக்கு
+2349,umrühren::V,apmaisīt,கலக்கு
+2350,stricken::V,кӧртны,பின்னியிழை
+2351,stricken::V,adīt,பின்னியிழை
+2352,nähen::V,вурны,தையல் வேலை செய்
+2353,nähen::V,šūt,தையல் வேலை செய்
+2354,färben::V,мичӧдны,வண்ணம் பெறச் செய்
+2355,färben::V,краситны,வண்ணம் பெறச் செய்
+2356,färben::V,krāsot,வண்ணம் பெறச் செய்
+2357,färben::V,nokrāsot,வண்ணம் பெறச் செய்
+2358,reinigen::V,весавны,சுத்தம் செய்
+2359,reinigen::V,tīrīt,சுத்தம் செய்
+2360,reinigen::V,attīrīt,சுத்தம் செய்
+2361,waschen::V,мыськыны,கழுவு
+2362,waschen::V,mazgāt,கழுவு
+2363,abwischen::V,чышкыны,துடை
+2364,abwischen::V,noslaucīt,துடை
+2365,spülen::V,пожъявны,அலசு
+2366,spülen::V,skalot,அலசு
+2367,fegen::V,чышкыны,பெறுக்கு
+2368,fegen::V,slaucīt,பெறுக்கு
+2369,kehren::V,чышкыны,பெறுக்கு
+2370,kehren::V,mēzt,பெறுக்கு
+2371,baden::V,купайтчыны,குளி
+2372,baden::V,peldēties,குளி
+2373,sich waschen::V,мыссьыны,கழுவு
+2374,sich waschen::V,mazgāties,கழுவு
+2375,ausziehen::V,пӧрччӧдны,கழற்று
+2376,ausziehen::V,noģērbt,கழற்று
+2377,anziehen::V,кӧмавны,புனைதல்
+2378,anziehen::V,пасьтавны,புனைதல்
+2379,anziehen::V,uzvilkt,புனைதல்
+2380,sich anziehen::V,пасьтасьны,உடுத்துதல்
+2381,sich anziehen::V,apģērbties,உடுத்துதல்
+2382,kämmen::V,сынавны,தலை வாரிக் கொள்
+2383,kämmen::V,sukāt,தலை வாரிக் கொள்
+2384,schmücken::V,мичмӧдны,அழகுபடுத்து
+2385,schmücken::V,rotāt,அழகுபடுத்து
+2386,schmücken::V,greznot,அழகுபடுத்து
+2387,sagen::V,шуны,சொல்
+2388,sagen::V,висьтавны,சொல்
+2389,sagen::V,teikt,சொல்
+2390,sprechen::V,сёрнитны,பேசு
+2391,sprechen::V,runāt,பேசு
+2392,reden::V,сёрнитны,பெசு
+2393,reden::V,norunāt,பெசு
+2394,sich unterhalten::V,сёрнитны,இயல்பாக பேசிக்கொண்டிரு
+2395,sich unterhalten::V,варовитны,இயல்பாக பேசிக்கொண்டிரு
+2396,sich unterhalten::V,sarunāties,இயல்பாக பேசிக்கொண்டிரு
+2397,fragen::V,юавны,கேள்
+2398,fragen::V,jautāt,கேள்
+2399,bitten::V,корны,வேண்டு
+2400,bitten::V,lūgt,வேண்டு
+2401,bitten::V,prasīt,வேண்டு
+2402,erzählen::V,висьтавны,சொல்
+2403,erzählen::V,stāstīt,சொல்
+2404,mitteilen::V,юӧртны,சொல்
+2405,mitteilen::V,висьтавны,சொல்
+2406,mitteilen::V,pavēstīt,சொல்
+2407,nennen::V,шуны,பெயரிடுதல்
+2408,nennen::V,ним сетны,பெயரிடுதல்
+2409,nennen::V,saukt,பெயரிடுதல்
+2410,rufen::V,корны,கூச்சலிடு
+2411,rufen::V,saukt,கூச்சலிடு
+2412,prahlen::V,ошйысьны,தற்பெருமை பேசு
+2413,prahlen::V,lielīties,தற்பெருமை பேசு
+2414,übersetzen::V,вуджӧдны,மொழிபெயர்ப்பு செய்
+2415,übersetzen::V,tulkot,மொழிபெயர்ப்பு செய்
+2416,übersetzen::V,pārtulkot,மொழிபெயர்ப்பு செய்
+2417,denken::V,мӧвпавны,யோசி
+2418,denken::V,domāt,யோசி
+2419,glauben::V,эскыны,நம்பு
+2420,glauben::V,ticēt,நம்பு
+2421,bemerken::V,казявны,கவனி
+2422,bemerken::V,ievērot,கவனி
+2423,bemerken::V,ieraudzīt,கவனி
+2424,erkennen::V,тӧдмавны,அடையாளம் கண்டுகொள்
+2425,erkennen::V,pazīt,அடையாளம் கண்டுகொள்
+2426,erkennen::V,atpazīt,அடையாளம் கண்டுகொள்
+2427,begreifen::V,вежӧртны,பற்றிக்கொள்
+2428,begreifen::V,гӧгӧрвоны,பற்றிக்கொள்
+2429,begreifen::V,jēgt,பற்றிக்கொள்
+2430,begreifen::V,apjēgt,பற்றிக்கொள்
+2431,verstehen::V,вежӧртны,புரிந்து கொள்
+2432,verstehen::V,гӧгӧрвоны,புரிந்து கொள்
+2433,verstehen::V,saprast,புரிந்து கொள்
+2434,lernen::V,вeлöдчыны,கற்றுக்கொள்
+2435,lernen::V,mācīties,கற்றுக்கொள்
+2436,wissen::V,тӧдны,தெரிந்திரு
+2437,wissen::V,zināt,தெரிந்திரு
+2438,sich erinnern an::V,казьтывны,நினைவு கூர்
+2439,sich erinnern an::V,дум вылӧ уськӧдны,நினைவு கூர்
+2440,sich erinnern an::V,atminēties,நினைவு கூர்
+2441,vergessen::V,вунӧдны,மற
+2442,vergessen::V,mirst,மற
+2443,vergessen::V,aizmirst,மற
+2444,messen::V,муртавны,அளவிடு
+2445,messen::V,mērīt,அளவிடு
+2446,zählen::V,лыддьыны,எண்ணு
+2447,zählen::V,skaitīt,எண்ணு
+2448,rechnen::V,лыддьыны,கணக்கிடு
+2449,rechnen::V,rēķināt,கணக்கிடு
+2450,lesen::V,лыддьыны,படி
+2451,lesen::V,lasīt,படி
+2452,malen::V,серпасавны,வண்ணச்சித்திரம்
+2453,malen::V,gleznot,வண்ணச்சித்திரம்
+2454,zeichnen::V,серпасавны,வரை
+2455,zeichnen::V,zīmēt,வரை
+2456,schreiben::V,гижны,எழுது
+2457,schreiben::V,rakstīt,எழுது
+2458,besitzen::V,лоны,உடைமையாகக் கொண்டிரு
+2459,besitzen::V,piederēt,உடைமையாகக் கொண்டிரு
+2460,kaufen::V,ньӧбны,வாங்கு
+2461,kaufen::V,pirkt,வாங்கு
+2462,verkaufen::V,вузавны,விற்பனை செய்
+2463,verkaufen::V,pārdot,விற்பனை செய்
+2464,bezahlen::V,мынтыны,இறுத்தல்
+2465,bezahlen::V,мынтысьны,இறுத்தல்
+2466,bezahlen::V,apmaksāt,இறுத்தல்
+2467,zahlen::V,мынтыны,பணம் செலுத்து
+2468,zahlen::V,maksāt,பணம் செலுத்து
+2469,beherrschen::V,ас улын кутны,ஆட்சிசெய்
+2470,beherrschen::V,valdīt,ஆட்சிசெய்
+2471,ertragen::V,пыкны,தாங்கு
+2472,ertragen::V,лэптыны,தாங்கு
+2473,ertragen::V,panest,தாங்கு
+2474,ertragen::V,paciest,தாங்கு

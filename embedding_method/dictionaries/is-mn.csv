@@ -1,0 +1,1492 @@
+,Concept_ID,is,mn
+0,Auge::N,auga,нүд
+1,Ohr::N,eyra,чих
+2,Nase::N,nef,хамар
+3,Mund::N,munnur,ам
+4,Zahn::N,tönn,шүд
+5,Zunge::N,tunga,хэл
+6,Lippe::N,vör,уруул
+7,Wange::N,kinn,хацар
+8,Wange::N,vangi,хацар
+9,Gesicht::N,andlit,царай
+10,Gesicht::N,andlit,нүүр
+11,Stirn::N,enni,дух
+12,Haar::N,hár,үс
+13,Schnurrbart::N,yfirskegg,дээд сахал
+14,Schnurrbart::N,yfirskegg,живэр сахал
+15,Bart::N,skegg,сахал
+16,Kinn::N,haka,эрүү
+17,Kiefer[Anatomie]::N,kjálki,эрүү
+18,Kiefer[Anatomie]::N,skoltur,эрүү
+19,Kehle::N,kverk,хоолой
+20,Hals::N,háls,хүзүү
+21,Genick::N,hnakki,шил
+22,Genick::N,hnakki,хүзүү
+23,Kopf::N,höfuð,толгой
+24,Rücken::N,hryggur,ар
+25,Rücken::N,hryggur,нуруу
+26,Bauch::N,kviður,хэвлий
+27,Bauch::N,kviður,гэдэс
+28,Nabel::N,nafli,хүйс
+29,Busen::N,barmur,хөх
+30,Brust::N,brjóst,цээж
+31,Schulter::N,öxl,мөр
+32,Schulter::N,öxl,бугалга
+33,Arm::N,armur,гар
+34,Ellenbogen::N,olnbogi,тохой
+35,Hand::N,hönd,гар
+36,Hand::N,hönd,алга
+37,Handfläche::N,lófi,алга
+38,Finger::N,fingur,хуруу
+39,Fingernagel::N,fingurnögl,хурууны хумс
+40,Nagel[Anatomie]::N,nögl,хумс
+41,Zeh::N,tá,хуруу
+42,Fuß::N,fótur,хөл
+43,Ferse::N,hæll,өсгий
+44,Knie::N,kné,өвдөг
+45,Oberschenkel::N,læri,гуя
+46,Bein::N,fótleggur,хөл
+47,Körper::N,búkur,бие
+48,Körper::N,líkami,бие
+49,Haut::N,húð,арьс
+50,Haut::N,skinn,арьс
+51,Blut::N,blóð,цус
+52,Ader::N,æð,судас
+53,Sehne::N,sin,бүлх
+54,Sehne::N,sin,шандас
+55,Knochen::N,bein,яс
+56,Gehirn::N,heili,тархи
+57,Herz::N,hjarta,зүрх
+58,Magen::N,magi,ходоод
+59,Leber::N,lifur,элэг
+60,Atem::N,andi,амьсгаа
+61,Atem::N,andardráttur,амьсгаа
+62,Hunger::N,hungur,өлсгөлөн
+63,Träne::N,tár,нулимс
+64,Geschmack::N,smekkur,амт
+65,Geruch::N,lykt,үнэр
+66,Schlaf::N,svefn,нойр
+67,Traum::N,draumur,зүүд
+68,Himmel::N,himinn,тэнгэр
+69,Himmel::N,himinn,огторгуй
+70,Sonne::N,sól,нар
+71,Mond::N,tungl,сар
+72,Stern::N,stjarna,од
+73,Luft::N,loft,агаар
+74,Wind::N,vindur,салхи
+75,Welle::N,alda,долгио
+76,Welle::N,alda,давалгаа
+77,Welle::N,bylgja,долгио
+78,Welle::N,bylgja,давалгаа
+79,Wasser::N,vatn,ус
+80,Stein::N,steinn,чулуу
+81,Boden::N,botn,хөрс
+82,Erde::N,jörð,газар
+83,Erde::N,jörð,шороо
+84,Staub::N,ryk,тоос
+85,Staub::N,duft,тоос
+86,Rauch::N,reykur,утаа
+87,Funke::N,neisti,оч
+88,Feuer::N,eldur,гал
+89,Licht::N,ljós,гэрэл
+90,Licht::N,ljós,гэгээ
+91,Schatten::N,skuggi,сүүдэр
+92,Wetter::N,veður,тэнгэр
+93,Wetter::N,veður,цаг уур
+94,Nebel::N,þoka,будан
+95,Wolke::N,ský,үүл
+96,Regen::N,regn,бороо
+97,Schnee::N,snjór,цас
+98,Eis::N,ís,мөс
+99,Frost::N,frost,хүйт
+100,Kälte::N,kuldi,хүйт
+101,Hitze::N,hiti,халуун
+102,Raureif::N,hrím,цан
+103,Raureif::N,hrím,хяруу
+104,Regenbogen::N,regnbogi,солонго
+105,Donner::N,þruma,тэнгэрийн дуу
+106,Strömung::N,straumur,урсгал
+107,Tropfen::N,dropi,дусал
+108,Schaum::N,froða,хөөс
+109,Schmutz::N,óhreinindi,хир
+110,Schmutz::N,óhreinindi,шавхай
+111,See::N,stöðuvatn,нуур
+112,Sumpf::N,fen,намаг
+113,Sumpf::N,fen,балчиг
+114,Moor::N,mýri,хүлрийн намаг
+115,Wiese::N,engi,нуга
+116,Wald::N,skógur,ой
+117,Hügel::N,hæð,болдог
+118,Hügel::N,hóll,болдог
+119,Anhöhe::N,hæð,гүвээ
+120,Anhöhe::N,hóll,гүвээ
+121,Berg::N,fell,уул
+122,Berg::N,fjall,уул
+123,Gipfel::N,tindur,орой
+124,Gipfel::N,tindur,оргил
+125,Höhle::N,hellir,агуй
+126,Abhang::N,hlíð,хүр
+127,Abhang::N,brekka,хүр
+128,Quelle::N,lind,булаг
+129,Quelle::N,uppspretta,булаг
+130,Bach::N,lækur,горхи
+131,Fluss::N,á,гол
+132,Fluss::N,á,мөрөн
+133,Fluss::N,fljót,гол
+134,Fluss::N,fljót,мөрөн
+135,Ufer::N,árbakki,эрэг
+136,Ufer::N,sjávarbakki,эрэг
+137,Küste::N,strönd,эрэг
+138,Festland::N,meginland,хуурай газар
+139,Meer::N,haf,далай
+140,Meer::N,haf,тэнгис
+141,Meer::N,sjór,далай
+142,Meer::N,sjór,тэнгис
+143,Bucht::N,vík,булан
+144,Bucht::N,vík,далайн тохой
+145,Insel::N,eyja,арал
+146,Blume::N,blóm,цэцэг
+147,Gras::N,gras,өвс
+148,Gras::N,gras,ногоо
+149,Wurzel::N,rót,үндэс
+150,Baum::N,tré,мод
+151,Stamm::N,stofn,иш
+152,Stamm::N,stofn,гуалин
+153,Rinde::N,börkur,холтос
+154,Ast::N,grein,гишүү
+155,Zweig::N,angi,салаа
+156,Zweig::N,kvistur,салаа
+157,Blatt::N,blað,навч
+158,Birke::N,birki,хус
+159,Kiefer[Baum]::N,fura,нарс
+160,Weide[Baum]::N,víðir,уд
+161,Weide[Baum]::N,víðir,бургас
+162,Tanne::N,greni,гачуур
+163,Horn::N,horn,эвэр
+164,Feder::N,fjöður,өд
+165,Fell::N,skinn,арьс
+166,Flügel::N,vængur,жигүүр
+167,Flügel::N,vængur,далавч
+168,Klaue::N,kló,савар
+169,Klaue::N,kló,хумс
+170,Kralle::N,kló,савар
+171,Schwanz::N,rófa,сүүл
+172,Schwanz::N,skott,сүүл
+173,Ei::N,egg,өндөг
+174,Nest::N,hreiður,үүр
+175,Bau::N,greni,нүх
+176,Bau::N,greni,элүү
+177,Bau::N,bæli,нүх
+178,Bau::N,bæli,элүү
+179,Tier::N,dýr,амьтан
+180,Tier::N,dýr,адгуус
+181,Herde::N,hjörð,сүрэг
+182,Kuh::N,kýr,үнээ
+183,Bulle::N,boli,бух
+184,Pferd::N,hestur,морь
+185,Pferd::N,hestur,адуу
+186,Schaf::N,kind,хонь
+187,Schwein::N,svín,гахай
+188,Hund::N,hundur,нохой
+189,Katze::N,köttur,муур
+190,Katze::N,köttur,мигуй
+191,Bär::N,björn,баавгай
+192,Eichhörnchen::N,íkorni,хэрэм
+193,Elch::N,elgur,хандгай
+194,Fuchs::N,refur,үнэг
+195,Hase::N,héri,туулай
+196,Maus::N,mús,хулгана
+197,Wolf::N,úlfur,чоно
+198,Vogel::N,fugl,шувуу
+199,Schwarm::N,sægur,сүрэг
+200,Huhn::N,hæna,тахиа
+201,Hahn::N,hani,эр тахиа
+202,Gans::N,gæs,галуу
+203,Adler::N,örn,бүргэд
+204,Ente::N,önd,нугас
+205,Eule::N,uggla,ууль
+206,Kranich::N,trana,тогоруу
+207,Krähe::N,kráka,хэрээ
+208,Kuckuck::N,gaukur,хөхөө
+209,Schwan::N,svanur,хун
+210,Fisch::N,fiskur,загас
+211,Barsch::N,aborri,алгана
+212,Hecht::N,gedda,цурхай
+213,Schlange[Tier]::N,naðra,могой
+214,Wurm::N,ormur,өт
+215,Wurm::N,ormur,хорхой
+216,Spinne::N,kónguló,аалз
+217,Ameise::N,maur,шоргоолж
+218,Laus::N,lús,бөөс
+219,Mücke::N,mý,шумуул
+220,Mücke::N,mýfluga,шумуул
+221,Fliege::N,fluga,ялаа
+222,Schmetterling::N,fiðrildi,эрвээхэй
+223,Beere::N,ber,жимсгэнэ
+224,Apfel::N,epli,алим
+225,Pilz::N,sveppur,мөөг
+226,Zwiebel::N,laukur,сонгино
+227,Saat::N,fræ,тариа
+228,Saat::N,útsæði,тариа
+229,Korn::N,korn,үр
+230,Korn::N,korn,мөхлөг
+231,Heu::N,hey,өвс
+232,Schale::N,hýði,хальс
+233,Grube::N,gryfja,алам
+234,Grube::N,gryfja,нүх
+235,Falle::N,gildra,хавх
+236,Falle::N,gildra,занга
+237,Schlinge::N,snara,урхи
+238,Spur::N,spor,мөр
+239,Asche::N,aska,үнс
+240,Dreck::N,óþverri,хир
+241,Eisen::N,járn,төмөр
+242,Gold::N,gull,алт
+243,Silber::N,silfur,мөнгө
+244,Kohle::N,kol,нүүрс
+245,Glas::N,gler,шил
+246,Lehm::N,leir,шавар
+247,Sand::N,sandur,элс
+248,Mensch::N,maður,хүн
+249,Mensch::N,manneskja,хүн
+250,Mann::N,maður,эр
+251,Mann::N,maður,эрэгтэй
+252,Mann::N,karlmaður,эр
+253,Mann::N,karlmaður,эрэгтэй
+254,Frau::N,kona,эмэгтэй
+255,Frau::N,kona,хатагтай
+256,Kind::N,barn,хүүхэд
+257,Kind::N,krakki,хүүхэд
+258,Junge::N,drengur,хүү
+259,Mädchen::N,stelpa,охин
+260,Mädchen::N,stelpa,бүсгүй
+261,Familie::N,fjölskylda,айл
+262,Großvater::N,afi,өвгөн аав
+263,Großmutter::N,amma,эмэг эх
+264,Großmutter::N,amma,эмгээ
+265,Eltern::N,foreldrar,эцэг эх
+266,Vater::N,faðir,аав
+267,Vater::N,faðir,эцэг
+268,Mutter::N,móðir,эх
+269,Mutter::N,móðir,ээж
+270,Sohn::N,sonur,хүү
+271,Tochter::N,dóttir,охин
+272,Bruder::N,bróðir,ах
+273,Bruder::N,bróðir,дүү
+274,Schwester::N,systir,эгч
+275,Schwester::N,systir,охин дүү
+276,Onkel::N,föðurbróðir,авга ах
+277,Onkel::N,föðurbróðir,нагац ах
+278,Tante::N,frænka,авга эгч
+279,Tante::N,frænka,нагац эгч
+280,Tante::N,móðursystir,авга эгч
+281,Tante::N,móðursystir,нагац эгч
+282,Ehemann::N,eiginmaður,нөхөр
+283,Ehefrau::N,eiginkona,эхнэр
+284,Ehefrau::N,eiginkona,гэргий
+285,Freude::N,gleði,баяр
+286,Freude::N,gleði,баясгалан
+287,Gelächter::N,hlátur,инээдэм
+288,Glück::N,gæfa,жаргалан
+289,Kummer::N,sorg,гаслан
+290,Wunsch::N,ósk,ерөөл
+291,Lust::N,fýsn,дур
+292,Lust::N,fýsn,хүсэл
+293,Lust::N,löngun,дур
+294,Lust::N,löngun,хүсэл
+295,Geist::N,andi,оюун
+296,Gedanke::N,hugsun,сэтгэл
+297,Gedächtnis::N,minni,ой
+298,Gedächtnis::N,minni,цээж
+299,Verstand::N,vit,ухаан
+300,Sinn::N,merking,утга
+301,Grund::N,ástæða,учир
+302,Wahrheit::N,sannleikur,үнэн
+303,Gespräch::N,samtal,яриа
+304,Märchen::N,ævintýri,явган үлгэр
+305,Erzählung::N,saga,тууж
+306,Nachricht::N,frétt,мэдээ
+307,Neuigkeit::N,frétt,сонин
+308,Name::N,nafn,нэр
+309,Rätsel::N,gáta,оньсого
+310,Rede::N,ræða,хэлсэн үг
+311,Sprache::N,mál,хэл
+312,Sprache::N,tungumál,хэл
+313,Stimme::N,rödd,дуу
+314,Wort::N,orð,үг
+315,Zeichen::N,tákn,тамга
+316,Zeichen::N,tákn,тэмдэг
+317,Zeichen::N,merki,тамга
+318,Zeichen::N,merki,тэмдэг
+319,Ruf::N,kall,дуудлага
+320,Lärm::N,hávaði,шуугиан
+321,Lärm::N,hávaði,чимээ
+322,Laut::N,hljóð,анир
+323,Laut::N,hljóð,дуу
+324,Ton::N,tónn,авиа
+325,Ton::N,tónn,аялгуу
+326,Lied::N,ljóð,дуу
+327,Lied::N,söngur,дуу
+328,Ruhe::N,ró,энх
+329,Ruhe::N,ró,тайван
+330,Ruhe::N,kyrrð,энх
+331,Ruhe::N,kyrrð,тайван
+332,Leute::N,fólk,хүмүүс
+333,Volk::N,þjóð,улс
+334,Arbeit::N,vinna,ажил
+335,Arbeit::N,vinna,хөдөлмөр
+336,Gast::N,gestur,зочин
+337,Gast::N,gestur,айлчин
+338,Geschenk::N,gjöf,бэлэг
+339,Spiel::N,leikur,наадам
+340,Spiel::N,leikur,тоглоом
+341,Gesellschaft::N,selskapur,хамт байх
+342,Hilfe::N,hjálp,тусламж
+343,Freund::N,vinur,найз
+344,Freund::N,vinur,нөхөр
+345,Kamerad::N,félagi,хань
+346,Kamerad::N,félagi,нөхөр
+347,Angelegenheit::N,mál,хэрэг
+348,Angelegenheit::N,málefni,хэрэг
+349,Anzahl::N,tala,тоо
+350,Anzahl::N,fjöldi,тоо
+351,Art::N,tegund,төрөл
+352,Art::N,tegund,янз
+353,Stück::N,biti,хэсэг
+354,Stück::N,stykki,хэсэг
+355,Teil::N,hluti,хувь
+356,Teil::N,hluti,хэсэг
+357,Teil::N,partur,хувь
+358,Teil::N,partur,хэсэг
+359,Hälfte::N,helmingur,хагас
+360,Kreis::N,hringur,тойрог
+361,Kreis::N,hringur,хүрээ
+362,Kreuz::N,kross,загалмай
+363,Kreuz::N,krossmark,загалмай
+364,Linie::N,lína,шугам
+365,Strich::N,strik,зураас
+366,Abstand::N,millibil,зай
+367,Entfernung::N,fjarlægð,зай
+368,Entfernung::N,fjarlægð,хол ойр
+369,Gegend::N,hérað,хавь
+370,Gegend::N,hérað,газар
+371,Platz::N,pláss,зай
+372,Platz::N,pláss,завсар
+373,Ort::N,staður,газар
+374,Ort::N,staður,байр
+375,Seite::N,hlið,тал
+376,Seite::N,hlið,этгээд
+377,Mitte::N,miðja,төв
+378,Mitte::N,miðja,дунд
+379,Gegenstand::N,hlutur,юм
+380,Sache::N,mál,үйл
+381,Sache::N,mál,хэрэг
+382,Rand::N,brún,зах
+383,Rand::N,brún,хөвөө
+384,Kante::N,rönd,ирмэг
+385,Ecke::N,horn,өнцөг
+386,Spitze::N,oddur,үзүүр
+387,Ende::N,endi,зах
+388,Ende::N,endi,үзүүр
+389,Loch::N,gat,цоорхой
+390,Loch::N,gat,онгорхой
+391,Loch::N,hola,цоорхой
+392,Loch::N,hola,онгорхой
+393,Winkel::N,skot,өнцөг
+394,Winkel::N,krókur,өнцөг
+395,Muster::N,munstur,хээ
+396,Muster::N,munstur,угалз
+397,Größe::N,stærð,хэмжээ
+398,Länge::N,lengd,урт
+399,Höhe::N,hæð,өндөр
+400,Gewicht::N,vigt,жин
+401,Gewicht::N,þyngd,жин
+402,Menge::N,magn,тоо
+403,Haufen::N,hrúga,бөөн
+404,Haufen::N,haugur,бөөн
+405,Reihe::N,röð,эгнээ
+406,Boot::N,bátur,завь
+407,Ruder::N,ár,сэлүүр
+408,Schlitten::N,sleði,чарга
+409,Ski::N,skíði,цана
+410,Lagerfeuer::N,varðeldur,түүдэг
+411,Last::N,byrði,ачаа
+412,Last::N,farmur,ачаа
+413,Gang::N,ganga,явдал
+414,Schritt::N,skref,алхам
+415,Norden::N,norður,умар
+416,Süden::N,suður,урд
+417,Süden::N,suður,өмнө
+418,Westen::N,vestur,өрнө
+419,Westen::N,vestur,баруун
+420,Osten::N,austur,зүүн
+421,Osten::N,austur,дорно
+422,Holz::N,viður,мод
+423,Brett::N,fjöl,банз
+424,Platte::N,flötur,хавтан
+425,Stütze::N,stoð,тулгуур
+426,Stütze::N,stoð,тулга
+427,Stange::N,stöng,сургааг
+428,Stock::N,prik,саваа
+429,Stock::N,stafur,саваа
+430,Stab::N,prik,таяг
+431,Stab::N,stafur,таяг
+432,Rohr::N,rör,хоолой
+433,Rohr::N,pípa,хоолой
+434,Haus::N,hús,гэр
+435,Haus::N,hús,байшин
+436,Heim::N,heimili,гэр
+437,Ofen::N,ofn,зуух
+438,Ofen::N,ofn,пийшин
+439,Fußboden::N,gólf,шал
+440,Tisch::N,borð,ширээ
+441,Stuhl::N,stóll,сандал
+442,Wiege::N,vagga,өлгий
+443,Bett::N,rúm,ор
+444,Bett::N,hvíla,ор
+445,Regal::N,hilla,тавиур
+446,Kiste::N,kassi,авдар
+447,Kiste::N,kassi,хайрцаг
+448,Fenster::N,gluggi,гэгээвч
+449,Tür::N,dyr,үүд
+450,Tür::N,dyr,хаалга
+451,Tür::N,hurð,үүд
+452,Tür::N,hurð,хаалга
+453,Tor::N,hlið,хаалга
+454,Zaun::N,girðing,хашаа
+455,Zaun::N,limgarður,хашаа
+456,Dach::N,þak,дээвэр
+457,Leiter::N,stigi,шат
+458,Besen::N,sópur,хамуур
+459,Besen::N,sópur,туужуу
+460,Spaten::N,spaði,хүрз
+461,Schaufel::N,skófla,хүрз
+462,Gabel::N,gaffall,сэрээ
+463,Löffel::N,skeið,халбага
+464,Messer::N,hnífur,хутга
+465,Nagel::N,nögl,хадаас
+466,Netz::N,net,өөш
+467,Netz::N,net,тор
+468,Haken::N,krókur,гох
+469,Griff::N,tak,иш
+470,Griff::N,tak,сэнж
+471,Schloss::N,lás,цуурга
+472,Schloss::N,lás,цоож
+473,Bild::N,mynd,зураг
+474,Figur::N,stytta,баримал
+475,Puppe::N,brúða,хүүхэлдэй
+476,Beutel::N,poki,агсаа
+477,Beutel::N,poki,уут
+478,Beutel::N,baggi,агсаа
+479,Beutel::N,baggi,уут
+480,Bündel::N,böggull,боодол
+481,Tasche::N,veski,цүнх
+482,Eimer::N,fata,хөнөг
+483,Eimer::N,fata,хувин
+484,Deckel::N,lok,таг
+485,Deckel::N,lok,хавхаг
+486,Geschirr::N,leirtau,сав суулга
+487,Sack::N,sekkur,шуудай
+488,Tasse::N,bolli,аяга
+489,Topf::N,pottur,тогоо
+490,Kessel::N,ketill,тогоо
+491,Essen::N,matur,идээ
+492,Nahrung::N,fæða,хүнс
+493,Speise::N,réttur,идээ
+494,Speise::N,matarréttur,идээ
+495,Fleisch::N,kjöt,мах
+496,Getreide::N,korn,будаа
+497,Brei::N,grautur,богшмол
+498,Brei::N,grautur,будаа
+499,Brot::N,brauð,талх
+500,Scheibe::N,sneið,зүсэм
+501,Scheibe::N,sneið,хэрчим
+502,Fett::N,fita,өөх
+503,Butter::N,smjör,тос
+504,Öl::N,olía,тос
+505,Salz::N,salt,давс
+506,Suppe::N,súpa,шөл
+507,Honig::N,hunang,бал
+508,Milch::N,mjólk,сүү
+509,Tee::N,te,цай
+510,Leder::N,skinn,арьс
+511,Leder::N,skinn,савхи
+512,Wolle::N,ull,ноос
+513,Wolle::N,ull,унгас
+514,Stoff::N,dúkur,бөс
+515,Nadel::N,nál,зүү
+516,Faden::N,þráður,боолт
+517,Faden::N,þráður,утас
+518,Knopf::N,tala,товч
+519,Knopf::N,hnappur,товч
+520,Knoten::N,hnútur,зангилаа
+521,Farbe::N,málning,будаг
+522,Kleidung::N,búningur,хувцас
+523,Kleidung::N,klæðnaður,хувцас
+524,Hemd::N,skyrta,цамц
+525,Kragen::N,kragi,зах заам
+526,Kragen::N,flibbi,зах заам
+527,Ärmel::N,ermi,ханцуй
+528,Hose::N,buxur,өмд
+529,Gürtel::N,belti,бүс
+530,Mütze::N,húfa,малгай
+531,Mütze::N,húfa,бүрх
+532,Schuh::N,skór,туфли
+533,Stiefel::N,stígvél,гутал
+534,Ring::N,hringur,бөгж
+535,Band::N,band,тууз
+536,Kamm::N,greiða,сам
+537,Spiegel::N,spegill,толь
+538,Riemen::N,ól,тасам
+539,Riemen::N,ól,сур
+540,Riemen::N,reim,тасам
+541,Riemen::N,reim,сур
+542,Schnur::N,snúra,татлага
+543,Leine::N,band,оосор
+544,Decke::N,teppi,хөнжил
+545,Decke::N,teppi,хучлага
+546,Kissen::N,koddi,дэр
+547,Tuch::N,klútur,алчуур
+548,Tuch::N,klútur,даавуу
+549,Handtuch::N,þurrka,алчуур
+550,Handtuch::N,handklæði,алчуур
+551,Kraft::N,afl,чадал
+552,Kraft::N,afl,хүч
+553,Kraft::N,kraftur,чадал
+554,Kraft::N,kraftur,хүч
+555,Stärke::N,styrkur,эрч
+556,Stärke::N,styrkur,тэнхээ
+557,Gesundheit::N,heilsa,бие
+558,Gesundheit::N,heilsa,эрүүл мэнд
+559,Gesundheit::N,heilbrigði,бие
+560,Gesundheit::N,heilbrigði,эрүүл мэнд
+561,Krankheit::N,sjúkdómur,эмгэг
+562,Schmerz::N,sársauki,өвчин
+563,Wunde::N,sár,шарх
+564,Fieber::N,hitasótt,халуун
+565,Arznei::N,lyf,эм
+566,Brücke::N,brú,гүүр
+567,Brunnen::N,brunnur,худаг
+568,Weide::N,hagi,бэлчээр
+569,Pfad::N,stígur,жим
+570,Pfad::N,stígur,зөрөг
+571,Weg::N,vegur,зам
+572,Weg::N,vegur,харгуй
+573,Straße::N,gata,зам
+574,Straße::N,gata,харгуй
+575,Straße::N,stræti,зам
+576,Straße::N,stræti,харгуй
+577,Dorf::N,þorp,тосгон
+578,Dorf::N,þorp,гацаа
+579,Stadt::N,borg,хот
+580,Brief::N,bréf,захидал
+581,Brief::N,bréf,захиа
+582,Buch::N,bók,ном
+583,Buch::N,bók,бичиг
+584,Buchstabe::N,bókstafur,үсэг
+585,Zeitung::N,dagblað,сонин
+586,Leben::N,líf,амь
+587,Leben::N,líf,амьдрал
+588,Tod::N,dauði,үхэл
+589,Grab::N,gröf,булш
+590,Kirche::N,kirkja,сүм
+591,Sünde::N,synd,нүгэл
+592,Sünde::N,synd,хилэнц
+593,Gott::N,guð,бурхан
+594,Arbeiter::N,verkamaður,ажилчин
+595,Arbeiter::N,verkamaður,хөдөлмөрчин
+596,Chef::N,yfirmaður,дарга
+597,Meister::N,meistari,дархан
+598,Arzt::N,læknir,эмч
+599,Lehrer::N,kennari,багш
+600,Geld::N,peningar,цаас
+601,Geld::N,peningar,мөнгө
+602,Geschäft::N,viðskipti,наймаа
+603,Laden::N,búð,дэлгүүр
+604,Laden::N,verslun,дэлгүүр
+605,Preis::N,verð,үнэ
+606,Ware::N,vara,таваар
+607,Ware::N,vara,бараа
+608,Nutzen::N,gagn,ашиг
+609,Reichtum::N,auður,баялаг
+610,Welt::N,veröld,дэлхий
+611,Welt::N,veröld,орчлон
+612,Land::N,land,улс
+613,Land::N,land,орон
+614,Staat::N,ríki,төр
+615,Staat::N,ríki,гүрэн
+616,König::N,konungur,ван
+617,Macht::N,vald,засаг
+618,Grenze::N,landamæri,хил
+619,Krieg::N,stríð,дайн
+620,Feind::N,fjandmaður,дайсан
+621,Gewalt::N,ofbeldi,хүчирхэх
+622,Kampf::N,bardagi,тэмцэл
+623,Kampf::N,bardagi,байлдаан
+624,Bogen[Waffe]::N,bogi,нум
+625,Pfeil::N,ör,годил
+626,Pfeil::N,ör,сум
+627,Gewehr::N,byssa,буу
+628,Fehler::N,villa,эндэл
+629,Fehler::N,villa,алдаа
+630,Lüge::N,lygi,худал
+631,Schaden::N,skemmd,хор
+632,Schaden::N,skemmd,хөнөөл
+633,Unglück::N,óhamingja,гай
+634,Unglück::N,óhamingja,гамшиг
+635,Schuld::N,sök,гэм
+636,Schuld::N,sök,буруу
+637,Alter::N,aldur,нас
+638,Schluss::N,lok,эцэс
+639,Schluss::N,lok,төгсгөл
+640,Schluss::N,endir,эцэс
+641,Schluss::N,endir,төгсгөл
+642,Zeit::N,tími,цаг
+643,Tag::N,dagur,өдөр
+644,Morgen::N,morgunn,өглөө
+645,Mittag::N,hádegi,үд
+646,Abend::N,kvöld,үдэш
+647,Nacht::N,nótt,шөнө
+648,Woche::N,vika,долоо хоног
+649,Monat::N,mánuður,сар
+650,Jahr::N,ár,жил
+651,Frühling::N,vor,хавар
+652,Sommer::N,sumar,зун
+653,Herbst::N,haust,намар
+654,Winter::N,vetur,өвөл
+655,Januar::N,janúar,нэгдүгээр сар
+656,Februar::N,február,хоёрдугаар сар
+657,März::N,mars,гуравдугаар сар
+658,April::N,apríl,дөрөвдүгээр сар
+659,Mai::N,maí,тавдугаар сар
+660,Juni::N,júní,зургаадугаар сар
+661,Juli::N,júlí,долдугаар сар
+662,August::N,ágúst,наймдугаар сар
+663,September::N,september,есдүгээр сар
+664,Oktober::N,október,аравдугаар сар
+665,November::N,nóvember,арван нэгдүгээр сар
+666,Dezember::N,desember,арван хоёрдугаар сар
+667,Montag::N,mánudagur,даваа
+668,Dienstag::N,þriðjudagur,мягмар
+669,Mittwoch::N,miðvikudagur,лхагва
+670,Donnerstag::N,fimmtudagur,пүрэв
+671,Freitag::N,föstudagur,баасан
+672,Samstag::N,laugardagur,бямба
+673,Sonntag::N,sunnudagur,ням
+674,groß::A,stór,их
+675,groß::A,stór,том
+676,klein::A,lítill,бага
+677,klein::A,lítill,жаахан
+678,lang::A,langur,урт
+679,kurz::A,stuttur,охор
+680,kurz::A,stuttur,богино
+681,breit::A,breiður,өргөн
+682,schmal::A,mjór,уйтан
+683,schmal::A,mjór,нарийн
+684,dicht::A,þéttur,нягт
+685,dicht::A,þéttur,чигжүү
+686,dick[Gegenstand]::A,þykkur,зузаан
+687,dünn::A,þunnur,нимгэн
+688,fein::A,fíngerður,нарийн
+689,fest::A,fastur,бөх
+690,fest::A,fastur,хатуу
+691,flach::A,flatur,хавтгай
+692,glatt::A,háll,цагаан
+693,glatt::A,sléttur,цагаан
+694,hart::A,harður,хатуу
+695,weich::A,mjúkur,зөөлөн
+696,rund::A,kringlóttur,дугуй
+697,rund::A,kringlóttur,дугариг
+698,spitz::A,oddhvass,шовх
+699,spitz::A,oddhvass,шовгор
+700,scharf::A,beittur,хурц
+701,scharf::A,beittur,иртэй
+702,stumpf::A,bitlaus,мохоо
+703,schwer::A,þungur,хүнд
+704,schön::A,fagur,гуа
+705,schön::A,fagur,сайхан
+706,schön::A,fallegur,гуа
+707,schön::A,fallegur,сайхан
+708,heiß::A,heitur,халуун
+709,warm::A,hlýr,дулаан
+710,warm::A,heitur,дулаан
+711,kalt::A,kaldur,хүйтэн
+712,kühl::A,svalur,сэрүүн
+713,frisch::A,frískur,эрүүл
+714,frisch::A,frískur,жихүүн
+715,feucht::A,rakur,чийгтэй
+716,feucht::A,þvalur,чийгтэй
+717,nass::A,votur,нойтон
+718,nass::A,blautur,нойтон
+719,trocken::A,þurr,хатсан
+720,voll::A,fullur,дүүрэн
+721,leer::A,tómur,хоосон
+722,offen::A,opinn,онгорхой
+723,geschlossen::A,lokaður,битүү
+724,geschlossen::A,lokaður,хаалтай
+725,sauber::A,þrifinn,цэвэр
+726,sauber::A,þrifinn,хиргүй
+727,schmutzig::A,óhreinn,бохир
+728,schmutzig::A,óhreinn,хиртэй
+729,schmutzig::A,sóðalegur,бохир
+730,schmutzig::A,sóðalegur,хиртэй
+731,roh::A,hrár,түүхий
+732,reif::A,þroskaður,болсон
+733,lecker::A,ljúffengur,амттай
+734,süß::A,sætur,амттай
+735,süß::A,sætur,чихэрлэг
+736,bitter::A,beiskur,гашуун
+737,sauer::A,súr,эсгэлэн
+738,hell::A,bjartur,гэгээн
+739,hell::A,bjartur,гэрэлтэй
+740,dunkel::A,dimmur,бараан
+741,dunkel::A,dimmur,харанхуй
+742,schwarz::A,svartur,хар
+743,weiß::A,hvítur,цагаан
+744,rot::A,rauður,улаан
+745,gelb::A,gulur,шар
+746,blau::A,blár,хөх
+747,blau::A,blár,цэнхэр
+748,grün::A,grænn,ногоон
+749,grau::A,grár,орог
+750,grau::A,grár,саарал
+751,bunt::A,marglitur,эрээн
+752,billig::A,ódýr,хямд
+753,teuer::A,dýr,үнэтэй
+754,wertvoll::A,verðmætur,үнэт
+755,blind::A,blindur,сохор
+756,taub::A,heyrnarlaus,чих хатуу
+757,kräftig::A,öflugur,чийрэг
+758,stark::A,sterkur,хүчтэй
+759,stark::A,sterkur,чадалтай
+760,schwach::A,veill,сул
+761,fett::A,feitur,тарган
+762,fett::A,feitur,голигор
+763,schlank::A,grannur,голшиг
+764,schlank::A,spengilegur,голшиг
+765,hübsch::A,snotur,сайхан
+766,hübsch::A,snotur,хөөрхөн
+767,hübsch::A,laglegur,сайхан
+768,hübsch::A,laglegur,хөөрхөн
+769,böse::A,illur,муу
+770,böse::A,illur,хортой
+771,böse::A,vondur,муу
+772,böse::A,vondur,хортой
+773,dumm::A,heimskur,тэнэг
+774,faul::A,latur,залхуу
+775,fleißig::A,iðinn,чармайлтгай
+776,geizig::A,nískur,харамч
+777,klug::A,hygginn,цэцэн
+778,geschickt::A,fimur,дүйтэй
+779,geschickt::A,laginn,дүйтэй
+780,lieb::A,kær,хайрт
+781,lieb::A,ljúfur,хайрт
+782,lustig::A,kátur,цэнгэлтэй
+783,sanft::A,blíður,наалинхай
+784,hungrig::A,soltinn,өлөн
+785,hungrig::A,soltinn,өлссөн
+786,hungrig::A,hungraður,өлөн
+787,hungrig::A,hungraður,өлссөн
+788,krank::A,sjúkur,өвчтэй
+789,nackt::A,nakinn,нүцгэн
+790,traurig::A,dapur,гунигт
+791,traurig::A,hryggur,гунигт
+792,lebendig::A,lifandi,амьд
+793,lebendig::A,lifandi,амьтай
+794,gut::A,góður,сайн
+795,schlecht::A,slæmur,муу
+796,schlecht::A,slæmur,өөдгүй
+797,schlecht::A,lélegur,муу
+798,schlecht::A,lélegur,өөдгүй
+799,richtig::A,réttur,зөв
+800,richtig::A,réttur,зүйтэй
+801,schlimm::A,slæmur,муухай
+802,wahr::A,sannur,үнэн
+803,wahr::A,sannur,жинхэнэ
+804,alt::A,gamall,хуучин
+805,neu::A,nýr,шинэ
+806,ehemalig::A,fyrrverandi,агсан
+807,ehemalig::A,fyrrverandi,байсан
+808,alt[Lebewesen]::A,gamall,өвгөн
+809,alt[Lebewesen]::A,gamall,хижээл
+810,jung::A,ungur,залуу
+811,arm::A,vesall,ядуу
+812,arm::A,fátækur,ядуу
+813,reich::A,ríkur,баян
+814,reich::A,ríkur,баялаг
+815,reich::A,auðugur,баян
+816,reich::A,auðugur,баялаг
+817,bekannt::A,kunnugur,танил
+818,berühmt::A,frægur,цуутай
+819,berühmt::A,frægur,алдартай
+820,fremd::A,framandi,харь
+821,fremd::A,framandi,гадаад
+822,fremd::A,ókunnugur,харь
+823,fremd::A,ókunnugur,гадаад
+824,verschieden::A,ýmis,ондоо
+825,verschieden::A,ýmis,янз янзын
+826,nah::A,nálægur,ойрын
+827,nah::A,nálægur,дөтийн
+828,fern::A,fjarri,холын
+829,fern::A,fjarlægur,холын
+830,linker::A,vinstri,буруу
+831,rechter::A,hægri,баруун
+832,anderer::A,annar,өөр
+833,anderer::A,annar,нөгөө
+834,erster::A,fyrsti,нэгдэх
+835,erster::A,fyrsti,нэгдүгээр
+836,zweiter::A,annar,хоёрдугаар
+837,dritter::A,þriðji,гуравдугаар
+838,letzter::A,síðasti,сүүлийн
+839,allein::ADV,einn,ганцаараа
+840,allein::ADV,aleinn,ганцаараа
+841,auf einmal::ADV,allt í einu,нэгмөсөн
+842,zusammen::ADV,saman,цуг
+843,zusammen::ADV,saman,хамт
+844,lange::ADV,lengi,удаан
+845,plötzlich::ADV,skyndilega,гэнэт
+846,sofort::ADV,strax,дороо
+847,sofort::ADV,þegar í stað,дороо
+848,später::ADV,seinna,дараа
+849,jetzt::ADV,nú,өнөө
+850,jetzt::ADV,núna,өнөө
+851,heute::ADV,í dag,өнөө
+852,heute::ADV,í dag,өнөөдөр
+853,morgen::ADV,á morgun,маргааш
+854,morgen::ADV,á morgun,маргаадар
+855,bald::ADV,brátt,түргэн
+856,bald::ADV,brátt,удахгүй
+857,bald::ADV,bráðum,түргэн
+858,bald::ADV,bráðum,удахгүй
+859,dann::ADV,svo,хожим
+860,dann::ADV,svo,тэгээд
+861,dann::ADV,síðan,хожим
+862,dann::ADV,síðan,тэгээд
+863,gestern::ADV,í gær,өчигдөр
+864,einst::ADV,forðum,нэг
+865,damals::ADV,þá,тэгэхэд
+866,damals::ADV,á þeim tímum,тэгэхэд
+867,danach::ADV,á eftir því,тэгээд
+868,danach::ADV,á eftir því,дараа нь
+869,vorher::ADV,áður,урьд
+870,zuerst::ADV,fyrst,анх
+871,zuerst::ADV,fyrst,эхлээд
+872,einmal::ADV,einu sinni,нэг удаа
+873,manchmal::ADV,stundum,хааяа
+874,manchmal::ADV,stundum,заримдаа
+875,oft::ADV,oft,олонтоо
+876,immer::ADV,alltaf,байнга
+877,immer::ADV,sífellt,байнга
+878,niemals::ADV,aldrei,хэзээ ч
+879,niemals::ADV,aldrei,хэдийд ч
+880,hier::ADV,hér,энд
+881,hierhin::ADV,hingað,нааш
+882,von hier::ADV,héðan,эндээс
+883,dort::ADV,þar,тэнд
+884,dort::ADV,þarna,тэнд
+885,dorthin::ADV,þangað,тийш
+886,geradeaus::ADV,beint áfram,шулуун
+887,vorwärts::ADV,áfram,урагшаа
+888,rückwärts::ADV,aftur á bak,буцаан
+889,rückwärts::ADV,aftur á bak,сөөргөө
+890,zurück::ADV,aftur,буцаж
+891,zurück::ADV,aftur,гэдрэг
+892,zurück::ADV,til baka,буцаж
+893,zurück::ADV,til baka,гэдрэг
+894,unten::ADV,niðri,дор
+895,unten::ADV,fyrir neðan,дор
+896,hinab::ADV,niður,уруу
+897,hinab::ADV,niður eftir,уруу
+898,oben::ADV,uppi,дээр
+899,hinauf::ADV,upp,өөд
+900,hinauf::ADV,upp,дээш
+901,hinauf::ADV,upp eftir,өөд
+902,hinauf::ADV,upp eftir,дээш
+903,überall::ADV,alls staðar,хааяагүй
+904,überall::ADV,alls staðar,энд тэндгүй
+905,nicht::ADV,ekki,эс
+906,nicht::ADV,ekki,-гүй
+907,ein wenig::ADV,dálítið,жаахан
+908,kaum::ADV,varla,арай
+909,kaum::ADV,varla,арай гэж
+910,kaum::ADV,tæplega,арай
+911,kaum::ADV,tæplega,арай гэж
+912,sehr::ADV,mjög,тун
+913,so::ADV,svo,тэгж
+914,so::ADV,svo,ингээд
+915,so::ADV,þannig,тэгж
+916,so::ADV,þannig,ингээд
+917,noch::ADV,enn,дахин
+918,noch::ADV,enn,дахиад
+919,noch::ADV,ennþá,дахин
+920,noch::ADV,ennþá,дахиад
+921,nur::ADV,bara,зөвхөн
+922,nur::ADV,bara,гагцхүү
+923,nur::ADV,aðeins,зөвхөн
+924,nur::ADV,aðeins,гагцхүү
+925,schon::ADV,nú þegar,нэгэнт
+926,wieder::ADV,aftur,дахин
+927,wieder::ADV,aftur,дахиад
+928,wieder::ADV,að nýju,дахин
+929,wieder::ADV,að nýju,дахиад
+930,vergebens::ADV,árangurslaust,хий
+931,vor::PRP,fyrir,өмнө
+932,hinter::PRP,bak við,ард
+933,hinter::PRP,aftur fyrir,ард
+934,unter::PRP,undir,доор
+935,durch::PRP,gegnum,дундуур
+936,neben::PRP,hjá,хажууд
+937,neben::PRP,við hliðina á,хажууд
+938,zwischen::PRP,milli,завсар
+939,zwischen::PRP,milli,хооронд
+940,zwischen::PRP,á milli,завсар
+941,zwischen::PRP,á milli,хооронд
+942,wegen::PRP,vegna,төлөө
+943,wegen::PRP,vegna,дээрээс
+944,dies::PRN,þetta,энэ
+945,das::PRN,það,тэр
+946,alles::PRN,allt,цөм
+947,alles::PRN,allt,бүгд
+948,ich::PRN,ég,би
+949,du::PRN,þú,чи
+950,er::PRN,hann,тэр
+951,er::PRN,hann,тэр хүн
+952,wir::PRN,við,бид
+953,ihr::PRN,þið,та нар
+954,sie::PRN,þær,тэд
+955,sie::PRN,þeir,тэд
+956,was::FPRN,hvað,юу
+957,wer::FPRN,hver,хэн
+958,wo::FADV,hvar,хаа
+959,wo::FADV,hvar,хаана
+960,wohin::FADV,hvert,хааш
+961,wohin::FADV,hvert,хаана
+962,wie::FADV,hvernig,яаж
+963,wie::FADV,hvernig,хэрхэн
+964,warum::FADV,hvers vegna,юунд
+965,warum::FADV,hvers vegna,яагаад
+966,wieviel::FNUM,hve mikill,хэдий
+967,wieviel::FNUM,hve mikill,хэд
+968,eins::NUM,einn,нэг
+969,zwei::NUM,tveir,хоёр
+970,drei::NUM,þrír,гурав
+971,vier::NUM,fjórir,дөрөв
+972,fünf::NUM,fimm,тав
+973,sechs::NUM,sex,зургаа
+974,sieben::NUM,sjö,долоо
+975,acht::NUM,átta,найм
+976,neun::NUM,níu,ес
+977,zehn::NUM,tíu,арав
+978,elf::NUM,ellefu,арван нэг
+979,zwölf::NUM,tólf,арван хоёр
+980,zwanzig::NUM,tuttugu,хорь
+981,dreißig::NUM,þrjátíu,гуч
+982,vierzig::NUM,fjörutíu,дөч
+983,fünfzig::NUM,fimmtíu,тавь
+984,sechzig::NUM,sextíu,жар
+985,siebzig::NUM,sjötíu,дал
+986,achtzig::NUM,áttatíu,ная
+987,neunzig::NUM,níutíu,ер
+988,hundert::NUM,hundrað,зуу
+989,tausend::NUM,þúsund,мянга
+990,und::CNJ,og,ч
+991,und::CNJ,og,болон
+992,oder::CNJ,eða,буюу
+993,stehen::V,standa,зогсох
+994,sitzen::V,sitja,суух
+995,liegen::V,liggja,хэвтэх
+996,hängen::V,hanga,өлгөөтэй байх
+997,hängen::V,hanga,дүүжлээтэй байх
+998,werden::V,verða,болох
+999,passieren::V,gerast,тохиох
+1000,beginnen::V,byrja,эхлэх
+1001,enden::V,enda,дүүрэх
+1002,enden::V,lykta,дүүрэх
+1003,wechseln::V,skipta,хувирах
+1004,aufgehen[Sonne]::V,koma upp,мандах
+1005,untergehen[Sonne]::V,ganga til viðar,жаргах
+1006,scheinen[Sonne]::V,skína,гэрэлтэх
+1007,donnern::V,þruma,дуугарах
+1008,wehen::V,blása,салхилах
+1009,wehen::V,blása,хөөрөгдөх
+1010,strömen::V,streyma,гүйх
+1011,strömen::V,streyma,урсах
+1012,fließen::V,fljóta,урсах
+1013,sich drehen::V,snúast,эргэлдэх
+1014,schwanken::V,riða,хэлбэлзэх
+1015,schwanken::V,rugga,хэлбэлзэх
+1016,schwingen::V,sveiflast,ганхах
+1017,schwingen::V,sveiflast,хэлбэлзэх
+1018,fallen::V,falla,унах
+1019,brennen::V,brenna,шатах
+1020,rauchen::V,reykja,баагих
+1021,regnen::V,rigna,бороо орно
+1022,gefrieren::V,frjósa,хөлдөх
+1023,tauen::V,þiðna,хайлах
+1024,schmelzen::V,bráðna,уярах
+1025,trocknen::V,þorna,хатах
+1026,sieden::V,sjóða,буцлах
+1027,sieden::V,sjóða,даргилах
+1028,faulen::V,rotna,үжрэх
+1029,faulen::V,rotna,өмхийрөх
+1030,verfaulen::V,rotna,бээх
+1031,verfaulen::V,rotna,өгрөх
+1032,reißen::V,rifna,цуурах
+1033,versinken::V,sökkva,живэх
+1034,vergehen::V,líða,нөгчих
+1035,vergehen::V,líða,өнгөрөх
+1036,erscheinen::V,birtast,гарах
+1037,erscheinen::V,birtast,бултайх
+1038,verschwinden::V,hverfa,далд орох
+1039,verschwinden::V,hverfa,алга болох
+1040,sinken::V,síga,татрах
+1041,sinken::V,síga,доошлох
+1042,abnehmen::V,lækka,багасах
+1043,abnehmen::V,lækka,хорогдох
+1044,abnehmen::V,minnka,багасах
+1045,abnehmen::V,minnka,хорогдох
+1046,zunehmen::V,aukast,ихсэх
+1047,steigen::V,stíga,нэмэгдэх
+1048,wachsen::V,vaxa,өсөх
+1049,wachsen::V,vaxa,ургах
+1050,glänzen::V,glóa,гилгэнэх
+1051,glänzen::V,glóa,гилбэгнэх
+1052,glänzen::V,glampa,гилгэнэх
+1053,glänzen::V,glampa,гилбэгнэх
+1054,funkeln::V,leiftra,гялжах
+1055,funkeln::V,leiftra,гялалзах
+1056,lärmen::V,hafa hátt,шуугих
+1057,läuten::V,hringja,цохих
+1058,klingeln::V,hringja,хонхдох
+1059,klingeln::V,hringja,дуугарах
+1060,klirren::V,glamra,хангир жингэр хийх
+1061,klirren::V,skrölta,хангир жингэр хийх
+1062,brausen::V,ólga,бургилах
+1063,rauschen::V,suða,сэржигнэх
+1064,klingen::V,hljóma,хангинах
+1065,bellen::V,gelta,хуцах
+1066,heulen::V,væla,улих
+1067,heulen::V,ýlfra,улих
+1068,blasen::V,blása,үлзэх
+1069,pfeifen::V,blístra,исгэрэх
+1070,schreien::V,æpa,хашгирах
+1071,stöhnen::V,stynja,ёолох
+1072,stöhnen::V,stynja,гэнгэнэх
+1073,zittern::V,titra,дагжих
+1074,zittern::V,skjálfa,дагжих
+1075,leben::V,lifa,амьдрах
+1076,geboren werden::V,fæðast,төрөх
+1077,atmen::V,anda,амьсгалах
+1078,atmen::V,draga andann,амьсгалах
+1079,trinken::V,drekka,уух
+1080,essen::V,borða,идэх
+1081,schlucken::V,kingja,залгих
+1082,müde werden::V,þreytast,ядрах
+1083,einschlafen::V,sofna,унтчих
+1084,schlafen::V,sofa,унтах
+1085,aufwachen::V,vakna,сэрэх
+1086,aufstehen::V,fara á fætur,босох
+1087,sich erholen::V,hvíla sig,амрах
+1088,krank werden::V,veikjast,өвдөж эхлэх
+1089,krank werden::V,verða veikur,өвдөж эхлэх
+1090,krank sein::V,vera veikur,өвдөх
+1091,schmerzen::V,kenna til,өвдөх
+1092,schmerzen::V,kenna til,шархирах
+1093,husten::V,hósta,ханиах
+1094,genesen::V,batna,засрах
+1095,genesen::V,frískast,засрах
+1096,sterben::V,deyja,үхэх
+1097,sterben::V,deyja,нас барах
+1098,umkommen::V,farast,үхэх
+1099,sich bewegen::V,bifast,хөдлөх
+1100,sich rühren::V,hreyfast,хөдлөх
+1101,sich erheben::V,standa upp,босох
+1102,sich setzen::V,setjast,суух
+1103,hinfallen::V,detta,ойчих
+1104,laufen::V,labba,явган явах
+1105,schreiten::V,ganga,алхах
+1106,spazierengehen::V,ganga sér til skemmtunar,зугаалах
+1107,eilen::V,fara hratt,хурдлах
+1108,sich beeilen::V,flýta sér,яарах
+1109,sich beeilen::V,flýta sér,шамдах
+1110,sausen::V,þjóta,давхих
+1111,rennen::V,hlaupa,гүйх
+1112,springen::V,stökkva,харайх
+1113,springen::V,stökkva,дэвхрэх
+1114,klettern::V,klifra,авирах
+1115,schaukeln::V,róla,ганхалзах
+1116,schaukeln::V,rugga,ганхалзах
+1117,kriechen::V,skríða,мөлхөх
+1118,schwimmen::V,synda,сэлэх
+1119,tauchen::V,kafa,шунгах
+1120,rudern::V,róa,сэлүүрдэх
+1121,fahren::V,aka,явах
+1122,fahren::V,fara,явах
+1123,fliegen::V,fljúga,нисэх
+1124,gehen::V,fara,явах
+1125,gehen::V,ganga,явах
+1126,weggehen::V,fara burt,явах
+1127,weggehen::V,ganga burt,явах
+1128,abfahren::V,aka burt,одох
+1129,abfahren::V,aka burt,хөдлөх
+1130,anhalten::V,stöðva,зогсох
+1131,hineingehen::V,ganga inn,орох
+1132,eintreten::V,koma inn,орох
+1133,eintreten::V,ganga inn,орох
+1134,kommen::V,koma,ирэх
+1135,ankommen::V,koma til,хүрэх
+1136,zurückkommen::V,koma til baka,харих
+1137,zurückkommen::V,koma til baka,буцаж ирэх
+1138,bleiben::V,haldast,үлдэх
+1139,bleiben::V,vera kyrr,үлдэх
+1140,warten::V,bíða,хүлээх
+1141,erwarten::V,búast við,хүлээх
+1142,erwarten::V,eiga von á,хүлээх
+1143,suchen::V,leita,эрэх
+1144,suchen::V,leita,бэдрэх
+1145,finden::V,finna,олох
+1146,versuchen::V,reyna,оролдох
+1147,vorbereiten::V,undirbúa,бэлтгэх
+1148,lieben::V,elska,янаглах
+1149,mögen::V,þykja gott,таалах
+1150,mögen::V,falla í geð,таалах
+1151,lachen::V,hlæja,инээх
+1152,rühren::V,snerta,сэтгэл уяруулах
+1153,weinen::V,gráta,уйлах
+1154,schimpfen::V,skammast,хараах
+1155,sich ärgern::V,sárna,уурлах
+1156,sich ärgern::V,gremjast,уурлах
+1157,sich fürchten::V,óttast,айх
+1158,fürchten::V,óttast,айх
+1159,fliehen::V,flýja,зугтах
+1160,fliehen::V,flýja,гүйж очих
+1161,flüchten::V,strjúka,оргох
+1162,sehen::V,sjá,үзэх
+1163,anschauen::V,horfa á,харах
+1164,ansehen::V,líta á,харах
+1165,hören::V,heyra,дуулах
+1166,zuhören::V,hlusta,чагнах
+1167,probieren::V,smakka,амсаж үзэх
+1168,riechen::V,þefa,үнэрлэх
+1169,fühlen::V,finna til,мэдрэх
+1170,scheinen::V,virðast,шиг үзэгдэх
+1171,zu sehen sein::V,vera að sjá,үзэгдэх
+1172,zu sehen sein::V,vera að sjá,харагдах
+1173,vernehmen::V,heyra,дуулах
+1174,vernehmen::V,greina,дуулах
+1175,frieren::V,frjósa,даарах
+1176,tun::V,gera,хийх
+1177,tun::V,gera,үйлдэх
+1178,können::V,geta,болох
+1179,wollen::V,ætla,хүсэх
+1180,wollen::V,vilja,хүсэх
+1181,anfangen::V,hefja,эхлэх
+1182,beenden::V,enda,дуусгах
+1183,beenden::V,ljúka,дуусгах
+1184,aufhören::V,lykta,болих
+1185,aufhören::V,lykta,зогсох
+1186,gelingen::V,heppnast,бүтэх
+1187,geraten::V,lukkast,илрэх
+1188,öffnen::V,opna,нээх
+1189,öffnen::V,opna,тайлах
+1190,schließen::V,loka,хаах
+1191,stellen::V,láta,тавих
+1192,stellen::V,láta,босгох
+1193,stellen::V,setja,тавих
+1194,stellen::V,setja,босгох
+1195,setzen::V,láta,суулгах
+1196,setzen::V,setja,суулгах
+1197,legen::V,láta,хийх
+1198,legen::V,láta,тавих
+1199,legen::V,leggja,хийх
+1200,legen::V,leggja,тавих
+1201,berühren::V,koma við,шүргэх
+1202,verbinden::V,sameina,залгах
+1203,bedecken::V,hylja,бүрэх
+1204,aufhängen::V,hengja,өлгөх
+1205,aufhängen::V,hengja,дүүжлэх
+1206,aufhängen::V,hengja upp,өлгөх
+1207,aufhängen::V,hengja upp,дүүжлэх
+1208,anzünden::V,kveikja í,асаах
+1209,anzünden::V,kveikja í,ноцоох
+1210,aufheben::V,taka upp,өргөх
+1211,aufheben::V,lyfta upp,өргөх
+1212,zurücklassen::V,skilja eftir,орхих
+1213,zurücklassen::V,skilja eftir,үлдээх
+1214,verlieren::V,týna,гээх
+1215,verlieren::V,glata,гээх
+1216,fallen lassen::V,missa,унагах
+1217,machen::V,búa til,хийх
+1218,machen::V,búa til,гаргах
+1219,herstellen::V,framleiða,бүтээх
+1220,bauen::V,smíða,барих
+1221,bauen::V,byggja,барих
+1222,reparieren::V,gera við,засах
+1223,reparieren::V,gera við,сэлбэх
+1224,verbessern::V,bæta,засах
+1225,verbessern::V,bæta,сайжруулах
+1226,ändern::V,breyta,өөрчлөх
+1227,graben::V,grafa,малтах
+1228,beugen::V,beygja,бөгтийлгөх
+1229,biegen::V,sveigja,матах
+1230,biegen::V,sveigja,муруйлгах
+1231,drehen::V,snúa,эргүүлэх
+1232,wenden::V,snúa,эргүүлэх
+1233,wenden::V,venda,эргүүлэх
+1234,umdrehen::V,venda,хөрвүүлэх
+1235,umdrehen::V,snúa við,хөрвүүлэх
+1236,heben::V,hefja,өргөх
+1237,hochheben::V,lyfta upp,өргөх
+1238,ergreifen::V,grípa,атгах
+1239,halten::V,rúma,барих
+1240,halten::V,halda,барих
+1241,drücken::V,þjá,дарах
+1242,drücken::V,þrýsta,дарах
+1243,schieben::V,ýta,түлхэх
+1244,kratzen::V,klóra,хусах
+1245,kratzen::V,klóra,маажих
+1246,lecken::V,sleikja,долоох
+1247,beißen::V,bíta,зуух
+1248,beißen::V,bíta,хазах
+1249,abreißen::V,rífa af,таслах
+1250,abreißen::V,rífa frá,таслах
+1251,abschneiden::V,skera af,тайрах
+1252,abschneiden::V,klippa af,тайрах
+1253,binden::V,binda,боох
+1254,binden::V,binda,хүлэх
+1255,stecken::V,stinga,шаах
+1256,stecken::V,stinga,шигтгэх
+1257,brechen::V,brjóta,хугалах
+1258,klopfen::V,berja,цохих
+1259,klopfen::V,berja,тогших
+1260,klopfen::V,klappa,цохих
+1261,klopfen::V,klappa,тогших
+1262,hauen::V,berja,дэлдэх
+1263,hauen::V,höggva,дэлдэх
+1264,kleben::V,líma,наах
+1265,reiben::V,núa,нухах
+1266,reiben::V,núa,нидчих
+1267,streichen::V,smyrja,нялах
+1268,streichen::V,smyrja,түрхэх
+1269,schleifen::V,slípa,билүүдэх
+1270,schleifen::V,slípa,гуранздах
+1271,schneiden::V,skera,огтлох
+1272,schneiden::V,klippa,огтлох
+1273,rütteln::V,skaka,холхнулах
+1274,schütteln::V,hrista,сэгсрэх
+1275,schwenken::V,sveifla,дэвэх
+1276,schwenken::V,sveifla,даллах
+1277,schütten::V,hella,цутгах
+1278,schütten::V,hella,аягалах
+1279,füllen::V,fylla,дүүргэх
+1280,einwickeln::V,vefja inn í,боох
+1281,einwickeln::V,vefja inn í,ороох
+1282,tragen::V,bera,авчрах
+1283,schleppen::V,draga,чирэх
+1284,ziehen::V,toga,татах
+1285,ziehen::V,draga,татах
+1286,aufbewahren::V,geyma,хадгалах
+1287,werfen::V,kasta,хаях
+1288,werfen::V,kasta,шидэх
+1289,fangen::V,grípa,барих
+1290,packen::V,þrífa í,шүүрэх
+1291,verstecken::V,fela,нуух
+1292,teilen::V,deila,хуваах
+1293,schicken::V,senda,илгээх
+1294,schicken::V,senda,явуулах
+1295,bringen::V,færa,авчрах
+1296,bringen::V,færa,аваачих
+1297,bringen::V,flytja,авчрах
+1298,bringen::V,flytja,аваачих
+1299,hinzufügen::V,bæta við,нэмэх
+1300,bekommen::V,hljóta,хүлээн авах
+1301,bekommen::V,ná,хүлээн авах
+1302,erhalten::V,fá,хүлээн авах
+1303,nehmen::V,taka,авах
+1304,wählen::V,velja,сонгох
+1305,auswählen::V,velja úr,шилэх
+1306,bewahren::V,gæta,гамнах
+1307,bewahren::V,vernda,гамнах
+1308,behindern::V,varna,саад хийх
+1309,behindern::V,varna,тотгор болох
+1310,verderben::V,spilla,эвдэх
+1311,beschädigen::V,skemma,гэмтээх
+1312,zerbrechen::V,brjóta,хагалах
+1313,zerbrechen::V,brjóta,хага цохих
+1314,zerreißen::V,rífa,урах
+1315,zerreißen::V,rífa sundur,урах
+1316,zerstören::V,rífa niður,эвдэх
+1317,zerstören::V,rífa niður,сүйтгэх
+1318,verbrennen::V,brenna,шатаах
+1319,geben::V,gefa,өгөх
+1320,reichen::V,rétta,өгөх
+1321,reichen::V,rétta,дамжуулах
+1322,schenken::V,gefa,бэлэглэх
+1323,versprechen::V,lofa,амлах
+1324,versprechen::V,heita,амлах
+1325,wünschen::V,óska,ерөөх
+1326,loben::V,lofa,магтах
+1327,loben::V,lofa,сайшаах
+1328,loben::V,hrósa,магтах
+1329,loben::V,hrósa,сайшаах
+1330,küssen::V,kyssa,озох
+1331,küssen::V,kyssa,үнсэх
+1332,wiegen::V,rugga,бүүвэйлэх
+1333,zudecken::V,þekja,хучих
+1334,zudecken::V,þekja,бүтээх
+1335,zudecken::V,breiða yfir,хучих
+1336,zudecken::V,breiða yfir,бүтээх
+1337,wecken::V,vekja,сэрээх
+1338,zeigen::V,sýna,үзүүлэх
+1339,führen::V,leiða,хөтлөх
+1340,lehren::V,kenna,заах
+1341,unterrichten::V,fræða,сургах
+1342,aufziehen::V,ala upp,өсгөх
+1343,aufziehen::V,ala upp,хүмүүжүүлэх
+1344,leiten::V,stjórna,удирдах
+1345,antreiben::V,hvetja,шамдуулах
+1346,lassen::V,láta,-уулах
+1347,einladen::V,bjóða heim,залах
+1348,vereinigen::V,sameina,нэгтгэх
+1349,vereinigen::V,sameina,хамтруулах
+1350,besuchen::V,heimsækja,зочлох
+1351,treffen::V,hitta,учрах
+1352,treffen::V,hitta,дайралдах
+1353,sich versammeln::V,safnast saman,хуралдах
+1354,spielen::V,leika sér,наадах
+1355,singen::V,syngja,дуулах
+1356,tanzen::V,dansa,бүжиглэх
+1357,sich trennen::V,skiljast,салах
+1358,verlassen::V,yfirgefa,хаях
+1359,retten::V,bjarga,гэтэлгэх
+1360,bewachen::V,gæta,сахих
+1361,bewachen::V,hafa vörð á,сахих
+1362,schützen::V,vernda,хамгаалах
+1363,verteidigen::V,verja,хамгаалах
+1364,sich schlagen::V,slást,зодолдох
+1365,sich schlagen::V,berjast,зодолдох
+1366,schießen::V,skjóta,харвах
+1367,schießen::V,skjóta,буу буудах
+1368,siegen::V,sigra,ялах
+1369,ärgern::V,ergja,уурлуулах
+1370,ärgern::V,ergja,уур хүргэх
+1371,ärgern::V,skaprauna,уурлуулах
+1372,ärgern::V,skaprauna,уур хүргэх
+1373,schlagen::V,slá,цохих
+1374,schlagen::V,lemja,цохих
+1375,treten::V,sparka,өшиглөх
+1376,stechen::V,stinga,хатгах
+1377,stoßen::V,hrinda,ёврох
+1378,stoßen::V,hrinda,нудрах
+1379,stehlen::V,stela,хулгайлах
+1380,stören::V,trufla,саад болох
+1381,belästigen::V,ónáða,зовоох
+1382,belästigen::V,ónáða,амраахгүй байх
+1383,verbergen::V,leyna,нуух
+1384,verbergen::V,leyna,далдлах
+1385,täuschen::V,gabba,мэхлэх
+1386,täuschen::V,blekkja,мэхлэх
+1387,betrügen::V,svíkja,хуурах
+1388,betrügen::V,blekkja,хуурах
+1389,töten::V,drepa,алах
+1390,wohnen::V,búa,суух
+1391,wohnen::V,búa,амьдрах
+1392,arbeiten::V,vinna,ажиллах
+1393,arbeiten::V,vinna,хөдөлмөрлөх
+1394,sammeln::V,safna,түүх
+1395,sammeln::V,safna,хураах
+1396,pflücken::V,tína,түүх
+1397,pflücken::V,reyta,түүх
+1398,jagen::V,veiða,агнах
+1399,jagen::V,veiða,гөрөөлөх
+1400,fischen::V,fiska,загасчлах
+1401,fischen::V,fiska,загас барих
+1402,fassen::V,veiða,барих
+1403,hüten::V,gæta,маллах
+1404,hüten::V,gæta,хариулах
+1405,hüten::V,vakta,маллах
+1406,hüten::V,vakta,хариулах
+1407,treiben::V,reka,туух
+1408,anbinden::V,binda við,уях
+1409,anbinden::V,binda fast,уях
+1410,füttern::V,fóðra,тэжээх
+1411,melken::V,mjólka,саах
+1412,hacken::V,höggva,цавчих
+1413,gießen::V,hella,услах
+1414,reifen::V,þroskast,боловсрох
+1415,zubereiten::V,elda,бэлдэх
+1416,zubereiten::V,tilbúa,бэлдэх
+1417,kochen::V,sjóða,чанах
+1418,backen::V,baka,жигнэх
+1419,braten::V,steikja,шарах
+1420,braten::V,steikja,хайрах
+1421,umrühren::V,hræra í,хутгах
+1422,stricken::V,prjóna,нэхэх
+1423,stricken::V,prjóna,сүлжих
+1424,nähen::V,sauma,оёх
+1425,färben::V,lita,будах
+1426,reinigen::V,hreinsa,арилгах
+1427,reinigen::V,hreinsa,цэвэрлэх
+1428,waschen::V,þvo,угаах
+1429,abwischen::V,þerra,арчих
+1430,spülen::V,skola,зайлах
+1431,spülen::V,þvo upp,зайлах
+1432,fegen::V,sópa,хамах
+1433,fegen::V,sópa,шүүрдэх
+1434,fegen::V,hreinsa,хамах
+1435,fegen::V,hreinsa,шүүрдэх
+1436,kehren::V,sópa,шүүрдэх
+1437,kehren::V,sópa,туужуудах
+1438,baden::V,baða sig,усанд орох
+1439,sich waschen::V,þvo sér,биеэ угаах
+1440,ausziehen::V,fara úr,тайлах
+1441,anziehen::V,fara í,өмсөх
+1442,sich anziehen::V,klæðast,хувцаслах
+1443,kämmen::V,greiða,самнах
+1444,schmücken::V,prýða,гоёх
+1445,schmücken::V,prýða,чимэх
+1446,schmücken::V,skreyta,гоёх
+1447,schmücken::V,skreyta,чимэх
+1448,sagen::V,segja,гэх
+1449,sagen::V,segja,хэлэх
+1450,sprechen::V,tala,ярих
+1451,sprechen::V,tala,өгүүлэх
+1452,reden::V,ræða,хэлэх
+1453,reden::V,ræða,хөөрөлдөх
+1454,sich unterhalten::V,spjalla,ярилцах
+1455,sich unterhalten::V,ræðast við,ярилцах
+1456,fragen::V,spyrja,асуух
+1457,bitten::V,biðja,гуйх
+1458,erzählen::V,segja frá,өгүүлэх
+1459,mitteilen::V,tilkynna,дуулгах
+1460,mitteilen::V,tilkynna,мэдээлэх
+1461,nennen::V,nefna,нэрлэх
+1462,rufen::V,kalla,дуудах
+1463,prahlen::V,gorta,бардах
+1464,prahlen::V,gorta,сайрхах
+1465,übersetzen::V,þýða,орчуулах
+1466,denken::V,hugsa,санах
+1467,glauben::V,trúa,итгэх
+1468,bemerken::V,taka eftir,ажих
+1469,bemerken::V,taka eftir,ажиглах
+1470,erkennen::V,þekkja,таних
+1471,begreifen::V,skilja,ойлгох
+1472,verstehen::V,skilja,мэдэж авах
+1473,lernen::V,læra,сурах
+1474,wissen::V,vita,мэдэх
+1475,sich erinnern an::V,minnast,дурсах
+1476,vergessen::V,gleyma,мартах
+1477,messen::V,mæla,хэмжих
+1478,zählen::V,telja,тоолох
+1479,rechnen::V,reikna,тооцоох
+1480,lesen::V,lesa,унших
+1481,malen::V,mála,зурах
+1482,zeichnen::V,teikna,дүрслэн бичих
+1483,schreiben::V,skrifa,бичих
+1484,besitzen::V,hafa,эзэмших
+1485,kaufen::V,kaupa,худалдан авах
+1486,verkaufen::V,selja,худалдах
+1487,bezahlen::V,borga,төлөх
+1488,zahlen::V,borga,төлөх
+1489,beherrschen::V,hafa á valdi sínu,эзэмших
+1490,ertragen::V,þola,тэсэх

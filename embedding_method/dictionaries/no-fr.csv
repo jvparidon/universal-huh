@@ -1,0 +1,1362 @@
+,Concept_ID,no,fr
+0,Auge::N,øye,œil
+1,Ohr::N,øre,oreille
+2,Nase::N,nese,nez
+3,Mund::N,munn,bouche
+4,Zahn::N,tann,dent
+5,Zunge::N,tunge,langue
+6,Lippe::N,leppe,lèvre
+7,Wange::N,kinn,joue
+8,Gesicht::N,fjes,face
+9,Gesicht::N,fjes,visage
+10,Gesicht::N,ansikt,face
+11,Gesicht::N,ansikt,visage
+12,Stirn::N,panne,front
+13,Haar::N,hår,cheveu
+14,Schnurrbart::N,bart,moustache
+15,Bart::N,skjegg,barbe
+16,Kinn::N,hake,menton
+17,Kiefer[Anatomie]::N,kjeve,mâchoire
+18,Kehle::N,strupe,gorge
+19,Hals::N,hals,cou
+20,Genick::N,nakke,nuque
+21,Kopf::N,hode,tête
+22,Rücken::N,rygg,dos
+23,Bauch::N,buk,ventre
+24,Bauch::N,mage,ventre
+25,Nabel::N,navle,nombril
+26,Busen::N,barm,sein
+27,Brust::N,bryst,poitrine
+28,Schulter::N,skulder,épaule
+29,Arm::N,arm,bras
+30,Ellenbogen::N,albue,coude
+31,Hand::N,hånd,main
+32,Handfläche::N,håndflate,paume
+33,Finger::N,finger,doigt
+34,Fingernagel::N,fingernegl,ongle
+35,Nagel[Anatomie]::N,negl,ongle
+36,Zeh::N,tå,orteil
+37,Zeh::N,tå,doigt de pied
+38,Fuß::N,fot,pied
+39,Ferse::N,hæl,talon
+40,Knie::N,kne,genou
+41,Oberschenkel::N,lår,cuisse
+42,Bein::N,bein,jambe
+43,Körper::N,kropp,corps
+44,Körper::N,legeme,corps
+45,Haut::N,hud,peau
+46,Haut::N,skinn,peau
+47,Blut::N,blod,sang
+48,Ader::N,åre,veine
+49,Sehne::N,sene,tendon
+50,Knochen::N,bein,os
+51,Knochen::N,knokkel,os
+52,Gehirn::N,hjerne,cerveau
+53,Herz::N,hjerte,cœur
+54,Magen::N,mage,estomac
+55,Leber::N,lever,foie
+56,Atem::N,pust,haleine
+57,Hunger::N,sult,faim
+58,Träne::N,tåre,larme
+59,Geschmack::N,smak,goût
+60,Geschmack::N,smak,saveur
+61,Geruch::N,lukt,odeur
+62,Schlaf::N,søvn,sommeil
+63,Traum::N,drøm,songe
+64,Himmel::N,himmel,ciel
+65,Sonne::N,sol,soleil
+66,Mond::N,måne,lune
+67,Stern::N,stjerne,étoile
+68,Luft::N,luft,air
+69,Wind::N,vind,vent
+70,Welle::N,bølge,vague
+71,Wasser::N,vann,eau
+72,Stein::N,stein,pierre
+73,Boden::N,bakke,sol
+74,Boden::N,bakke,terrain
+75,Erde::N,jord,terre
+76,Staub::N,støv,poussière
+77,Rauch::N,røyk,fumée
+78,Funke::N,gnist,étincelle
+79,Feuer::N,ild,feu
+80,Licht::N,lys,lumière
+81,Schatten::N,skygge,ombre
+82,Wetter::N,vær,temps
+83,Nebel::N,tåke,brume
+84,Nebel::N,tåke,brouillard
+85,Wolke::N,sky,nuage
+86,Regen::N,regn,pluie
+87,Schnee::N,snø,neige
+88,Eis::N,is,glace
+89,Frost::N,frost,gel
+90,Frost::N,frost,gelée
+91,Kälte::N,kulde,froid
+92,Hitze::N,hete,chaleur
+93,Raureif::N,rimfrost,givre
+94,Regenbogen::N,regnbue,arc-en-ciel
+95,Donner::N,torden,tonnerre
+96,Strömung::N,strømning,courant
+97,Tropfen::N,dråpe,goutte
+98,Schaum::N,skum,écume
+99,Schaum::N,skum,mousse
+100,Schmutz::N,søl,boue
+101,Schmutz::N,søl,saleté
+102,Schmutz::N,skitt,boue
+103,Schmutz::N,skitt,saleté
+104,See::N,sjø,lac
+105,Sumpf::N,sump,marais
+106,Sumpf::N,sump,marécage
+107,Sumpf::N,myrlende,marais
+108,Sumpf::N,myrlende,marécage
+109,Moor::N,myr,tourbière
+110,Moor::N,myrhei,tourbière
+111,Wiese::N,eng,pré
+112,Wald::N,skog,bois
+113,Wald::N,skog,forêt
+114,Hügel::N,haug,coteau
+115,Hügel::N,haug,colline
+116,Hügel::N,bakke,coteau
+117,Hügel::N,bakke,colline
+118,Anhöhe::N,haug,éminence
+119,Anhöhe::N,haug,élévation
+120,Anhöhe::N,bakke,éminence
+121,Anhöhe::N,bakke,élévation
+122,Berg::N,berg,mont
+123,Berg::N,berg,montagne
+124,Berg::N,fjell,mont
+125,Berg::N,fjell,montagne
+126,Gipfel::N,topp,cime
+127,Gipfel::N,topp,sommet
+128,Höhle::N,hule,caverne
+129,Abhang::N,li,pente
+130,Abhang::N,li,versant
+131,Abhang::N,skråning,pente
+132,Abhang::N,skråning,versant
+133,Quelle::N,kilde,source
+134,Quelle::N,kilde,fontaine
+135,Bach::N,bekk,ruisseau
+136,Fluss::N,elv,fleuve
+137,Fluss::N,elv,rivière
+138,Ufer::N,bredd,bord
+139,Ufer::N,bredd,rivage
+140,Küste::N,kyst,côte
+141,Festland::N,fastland,terre ferme
+142,Meer::N,hav,mer
+143,Bucht::N,bukt,baie
+144,Insel::N,øy,île
+145,Blume::N,blomst,fleur
+146,Gras::N,gress,herbe
+147,Wurzel::N,rot,racine
+148,Baum::N,tre,arbre
+149,Stamm::N,stamme,tronc
+150,Rinde::N,bark,écorce
+151,Ast::N,gren,branche
+152,Zweig::N,kvist,rameau
+153,Blatt::N,blad,feuille
+154,Birke::N,bjørk,bouleau
+155,Kiefer[Baum]::N,furu,pin
+156,Weide[Baum]::N,selje,saule
+157,Weide[Baum]::N,piletre,saule
+158,Tanne::N,gran,sapin
+159,Horn::N,horn,corne
+160,Feder::N,fjær,plume
+161,Fell::N,skinn,peau
+162,Flügel::N,vinge,aile
+163,Klaue::N,klauv,serre
+164,Kralle::N,klo,ongle
+165,Kralle::N,klo,griffe
+166,Schwanz::N,hale,queue
+167,Ei::N,egg,œuf
+168,Nest::N,rede,nid
+169,Bau::N,hi,terrier
+170,Tier::N,dyr,animal
+171,Herde::N,flokk,troupeau
+172,Kuh::N,ku,vache
+173,Bulle::N,tyr,taureau
+174,Pferd::N,hest,cheval
+175,Schaf::N,får,mouton
+176,Schwein::N,gris,porc
+177,Schwein::N,gris,cochon
+178,Hund::N,hund,chien
+179,Katze::N,katt,chat
+180,Bär::N,bjørn,ours
+181,Eichhörnchen::N,ekorn,écureuil
+182,Elch::N,elg,élan
+183,Fuchs::N,rev,renard
+184,Hase::N,hare,lièvre
+185,Maus::N,mus,souris
+186,Wolf::N,ulv,loup
+187,Wolf::N,varg,loup
+188,Vogel::N,fugl,oiseau
+189,Schwarm::N,sverm,nuée
+190,Schwarm::N,sverm,volée
+191,Huhn::N,høne,poule
+192,Hahn::N,hane,coq
+193,Gans::N,gås,oie
+194,Adler::N,ørn,aigle
+195,Ente::N,and,canard
+196,Eule::N,ugle,hibou
+197,Kranich::N,trane,grue
+198,Krähe::N,kråke,corneille
+199,Kuckuck::N,gjøk,coucou
+200,Schwan::N,svane,cygne
+201,Fisch::N,fisk,poisson
+202,Barsch::N,abbor,perche
+203,Hecht::N,gjedde,brochet
+204,Schlange[Tier]::N,orm,serpent
+205,Schlange[Tier]::N,slange,serpent
+206,Wurm::N,orm,ver
+207,Wurm::N,mark,ver
+208,Spinne::N,edderkopp,araignée
+209,Ameise::N,maur,fourmi
+210,Laus::N,lus,pou
+211,Mücke::N,mygg,moucheron
+212,Fliege::N,flue,mouche
+213,Schmetterling::N,sommerfugl,papillon
+214,Beere::N,bær,baie
+215,Apfel::N,eple,pomme
+216,Pilz::N,sopp,champignon
+217,Zwiebel::N,løk,oignon
+218,Saat::N,sæd,semence
+219,Korn::N,korn,grain
+220,Heu::N,høy,foin
+221,Schale::N,skall,pelure
+222,Grube::N,grop,fosse
+223,Falle::N,felle,piège
+224,Schlinge::N,snare,lacs
+225,Spur::N,spor,trace
+226,Asche::N,aske,cendre
+227,Dreck::N,møkk,crotte
+228,Dreck::N,skitt,crotte
+229,Eisen::N,jern,fer
+230,Gold::N,gull,or
+231,Silber::N,sølv,argent
+232,Kohle::N,kol,charbon
+233,Kohle::N,kull,charbon
+234,Glas::N,glass,verre
+235,Lehm::N,leire,glaise
+236,Sand::N,sand,sable
+237,Mensch::N,menneske,homme
+238,Mann::N,mann,homme
+239,Frau::N,kvinne,femme
+240,Kind::N,barn,enfant
+241,Junge::N,gutt,garçon
+242,Mädchen::N,pike,fille
+243,Mädchen::N,pike,jeune fille
+244,Mädchen::N,jente,fille
+245,Mädchen::N,jente,jeune fille
+246,Familie::N,familie,famille
+247,Großvater::N,bestefar,grand-père
+248,Großmutter::N,bestemor,grand-mère
+249,Eltern::N,foreldre,parents
+250,Vater::N,far,père
+251,Mutter::N,mor,mère
+252,Sohn::N,sønn,fils
+253,Tochter::N,datter,fille
+254,Bruder::N,bror,frère
+255,Schwester::N,søster,sœur
+256,Onkel::N,onkel,oncle
+257,Tante::N,tante,tante
+258,Ehemann::N,ektemann,mari
+259,Ehemann::N,ektemann,époux
+260,Ehefrau::N,hustru,femme
+261,Ehefrau::N,hustru,épouse
+262,Freude::N,glede,joie
+263,Freude::N,glede,plaisir
+264,Gelächter::N,latter,rires
+265,Glück::N,lykke,bonheur
+266,Kummer::N,sorg,peine
+267,Kummer::N,sorg,chagrin
+268,Wunsch::N,ønske,désir
+269,Lust::N,lyst,envie
+270,Geist::N,ånd,esprit
+271,Gedanke::N,tanke,idée
+272,Gedanke::N,tanke,pensée
+273,Gedächtnis::N,minne,mémoire
+274,Gedächtnis::N,hukommelse,mémoire
+275,Verstand::N,forstand,raison
+276,Sinn::N,mening,sens
+277,Sinn::N,betydning,sens
+278,Grund::N,grunn,cause
+279,Grund::N,grunn,raison
+280,Wahrheit::N,sannhet,vérité
+281,Gespräch::N,samtale,conversation
+282,Märchen::N,eventyr,conte
+283,Märchen::N,eventyr,conte de fées
+284,Erzählung::N,fortelling,conte
+285,Erzählung::N,fortelling,narration
+286,Nachricht::N,melding,message
+287,Neuigkeit::N,nyhet,nouvelle
+288,Name::N,navn,nom
+289,Rätsel::N,gåte,énigme
+290,Rätsel::N,gåte,devinette
+291,Rede::N,tale,parole
+292,Rede::N,tale,discours
+293,Sprache::N,språk,langue
+294,Sprache::N,språk,langage
+295,Stimme::N,stemme,voix
+296,Wort::N,ord,mot
+297,Zeichen::N,tegn,signe
+298,Ruf::N,rop,cri
+299,Ruf::N,rop,appel
+300,Lärm::N,bråk,bruit
+301,Laut::N,lyd,son
+302,Ton::N,tone,ton
+303,Lied::N,vise,chant
+304,Lied::N,vise,chanson
+305,Ruhe::N,ro,calme
+306,Ruhe::N,ro,tranquillité
+307,Leute::N,folk,gens
+308,Volk::N,folk,peuple
+309,Arbeit::N,arbeid,travail
+310,Gast::N,gjest,hôte
+311,Gast::N,gjest,invité
+312,Geschenk::N,gave,cadeau
+313,Geschenk::N,gave,présent
+314,Spiel::N,lek,jeu
+315,Spiel::N,spill,jeu
+316,Gesellschaft::N,selskap,compagnie
+317,Hilfe::N,hjelp,aide
+318,Hilfe::N,hjelp,secours
+319,Freund::N,venn,ami
+320,Kamerad::N,kamerat,copain
+321,Kamerad::N,kamerat,camarade
+322,Angelegenheit::N,sak,affaire
+323,Angelegenheit::N,anliggende,affaire
+324,Anzahl::N,antall,nombre
+325,Art::N,art,sorte
+326,Art::N,art,espèce
+327,Art::N,slag,sorte
+328,Art::N,slag,espèce
+329,Stück::N,stykke,morceau
+330,Teil::N,del,part
+331,Teil::N,del,partie
+332,Hälfte::N,halvdel,moitié
+333,Kreis::N,ring,cercle
+334,Kreis::N,sirkel,cercle
+335,Kreuz::N,kors,croix
+336,Kreuz::N,kryss,croix
+337,Linie::N,linje,ligne
+338,Strich::N,strek,trait
+339,Abstand::N,avstand,écart
+340,Entfernung::N,avstand,distance
+341,Gegend::N,strøk,région
+342,Gegend::N,strøk,contrée
+343,Platz::N,plass,place
+344,Ort::N,sted,lieu
+345,Ort::N,sted,endroit
+346,Seite::N,side,côté
+347,Mitte::N,midte,milieu
+348,Gegenstand::N,gjenstand,objet
+349,Sache::N,sak,chose
+350,Rand::N,rand,bord
+351,Kante::N,kant,arête
+352,Ecke::N,hjørne,coin
+353,Ecke::N,hjørne,tournant
+354,Spitze::N,spiss,cime
+355,Spitze::N,spiss,pointe
+356,Ende::N,ende,bout
+357,Loch::N,hull,trou
+358,Winkel::N,vinkel,coin
+359,Winkel::N,vinkel,réduit
+360,Muster::N,mønster,dessin
+361,Größe::N,størrelse,grandeur
+362,Länge::N,lengde,longueur
+363,Höhe::N,høyde,hauteur
+364,Höhe::N,høyde,altitude
+365,Gewicht::N,vekt,poids
+366,Menge::N,mengde,quantité
+367,Haufen::N,haug,tas
+368,Haufen::N,bunke,tas
+369,Reihe::N,rekke,file
+370,Reihe::N,rekke,rangée
+371,Boot::N,båt,canot
+372,Boot::N,båt,bateau
+373,Ruder::N,åre,rame
+374,Ruder::N,åre,aviron
+375,Schlitten::N,slede,traîneau
+376,Schlitten::N,kjelke,traîneau
+377,Ski::N,ski,ski
+378,Lagerfeuer::N,leirbål,feu de camp
+379,Last::N,bør,charge
+380,Last::N,bør,fardeau
+381,Last::N,last,charge
+382,Last::N,last,fardeau
+383,Gang::N,gang,tour
+384,Gang::N,gang,marche
+385,Schritt::N,steg,pas
+386,Schritt::N,skritt,pas
+387,Norden::N,nord,nord
+388,Süden::N,sør,sud
+389,Westen::N,vest,ouest
+390,Westen::N,vest,occident
+391,Osten::N,øst,est
+392,Osten::N,øst,orient
+393,Holz::N,tre,bois
+394,Brett::N,fjøl,planche
+395,Brett::N,brett,planche
+396,Platte::N,plate,plaque
+397,Stütze::N,støtte,appui
+398,Stütze::N,støtte,soutien
+399,Stange::N,stang,barre
+400,Stange::N,stang,perche
+401,Stock::N,pinne,canne
+402,Stab::N,stav,bâton
+403,Stab::N,kjepp,bâton
+404,Rohr::N,rør,tube
+405,Rohr::N,rør,tuyau
+406,Haus::N,hus,maison
+407,Heim::N,hjem,maison
+408,Ofen::N,ovn,poêle
+409,Fußboden::N,gulv,plancher
+410,Tisch::N,bord,table
+411,Stuhl::N,stol,chaise
+412,Wiege::N,vogge,berceau
+413,Bett::N,seng,lit
+414,Regal::N,reol,étagère
+415,Regal::N,hylle,étagère
+416,Kiste::N,kasse,caisse
+417,Fenster::N,vindu,fenêtre
+418,Tür::N,dør,porte
+419,Tor::N,port,porte
+420,Tor::N,port,portail
+421,Zaun::N,gjerde,clôture
+422,Dach::N,tak,toit
+423,Leiter::N,stige,échelle
+424,Besen::N,kost,balai
+425,Spaten::N,spade,bêche
+426,Schaufel::N,skuffe,pelle
+427,Gabel::N,gaffel,fourchette
+428,Löffel::N,skje,cuiller
+429,Messer::N,kniv,couteau
+430,Nagel::N,spiker,clou
+431,Netz::N,nett,filet
+432,Haken::N,krok,croc
+433,Haken::N,krok,crochet
+434,Griff::N,tak,prise
+435,Griff::N,tak,manche
+436,Griff::N,håndtak,prise
+437,Griff::N,håndtak,manche
+438,Schloss::N,lås,serrure
+439,Bild::N,bilde,image
+440,Bild::N,bilde,tableau
+441,Figur::N,figur,figure
+442,Puppe::N,dukke,poupée
+443,Beutel::N,pose,sac
+444,Beutel::N,pose,petit sac
+445,Bündel::N,bylt,paquet
+446,Bündel::N,bylt,faisceau
+447,Tasche::N,veske,sac
+448,Eimer::N,bøtte,seau
+449,Deckel::N,lokk,couvercle
+450,Geschirr::N,kjøkkentøy,vaisselle
+451,Sack::N,sekk,sac
+452,Tasse::N,kopp,tasse
+453,Topf::N,gryte,pot
+454,Topf::N,gryte,marmite
+455,Kessel::N,kjele,chaudron
+456,Essen::N,mål,repas
+457,Essen::N,mål,manger
+458,Nahrung::N,mat,nourriture
+459,Nahrung::N,næring,nourriture
+460,Speise::N,matrett,plat
+461,Fleisch::N,kjøtt,viande
+462,Getreide::N,korn,blé
+463,Getreide::N,korn,céréales
+464,Brei::N,grøt,purée
+465,Brei::N,grøt,bouillie
+466,Brot::N,brød,pain
+467,Scheibe::N,skive,tranche
+468,Fett::N,fett,graisse
+469,Butter::N,smør,beurre
+470,Öl::N,olje,huile
+471,Salz::N,salt,sel
+472,Suppe::N,suppe,soupe
+473,Suppe::N,suppe,potage
+474,Honig::N,honning,miel
+475,Milch::N,melk,lait
+476,Tee::N,te,thé
+477,Leder::N,lær,cuir
+478,Leder::N,skinn,cuir
+479,Wolle::N,ull,laine
+480,Stoff::N,tøy,tissu
+481,Stoff::N,tøy,étoffe
+482,Stoff::N,stoff,tissu
+483,Stoff::N,stoff,étoffe
+484,Nadel::N,nål,aiguille
+485,Faden::N,tråd,fil
+486,Knopf::N,knapp,bouton
+487,Knoten::N,knute,nœud
+488,Farbe::N,farge,peinture
+489,Kleidung::N,påkledning,vêtements
+490,Kleidung::N,påkledning,habillement
+491,Hemd::N,skjorte,chemise
+492,Kragen::N,krage,col
+493,Ärmel::N,erme,manche
+494,Hose::N,bukse,pantalon
+495,Gürtel::N,belte,ceinture
+496,Mütze::N,lue,bonnet
+497,Mütze::N,lue,casquette
+498,Schuh::N,sko,soulier
+499,Schuh::N,sko,chaussure
+500,Stiefel::N,støvel,botte
+501,Ring::N,ring,bague
+502,Band::N,band,ruban
+503,Kamm::N,kam,peigne
+504,Spiegel::N,speil,glace
+505,Spiegel::N,speil,miroir
+506,Riemen::N,rem,lanière
+507,Riemen::N,rem,courroie
+508,Schnur::N,snor,corde
+509,Schnur::N,snor,ficelle
+510,Leine::N,line,laisse
+511,Decke::N,teppe,couverture
+512,Kissen::N,pute,oreiller
+513,Tuch::N,tøy,drap
+514,Tuch::N,tøy,fichu
+515,Handtuch::N,håndkle,serviette
+516,Handtuch::N,håndkle,essuie-mains
+517,Kraft::N,kraft,force
+518,Stärke::N,styrke,vigueur
+519,Gesundheit::N,helse,santé
+520,Gesundheit::N,sunnhet,santé
+521,Krankheit::N,syke,maladie
+522,Krankheit::N,sykdom,maladie
+523,Schmerz::N,smerte,douleur
+524,Wunde::N,sår,plaie
+525,Wunde::N,sår,blessure
+526,Fieber::N,feber,fièvre
+527,Arznei::N,medisin,remède
+528,Arznei::N,medisin,médecine
+529,Arznei::N,legemiddel,remède
+530,Arznei::N,legemiddel,médecine
+531,Brücke::N,bro,pont
+532,Brunnen::N,brønn,puits
+533,Weide::N,beite,pâturage
+534,Pfad::N,sti,sentier
+535,Weg::N,vei,voie
+536,Weg::N,vei,chemin
+537,Straße::N,gate,route
+538,Dorf::N,landsby,village
+539,Stadt::N,by,cité
+540,Stadt::N,by,ville
+541,Brief::N,brev,lettre
+542,Buch::N,bok,livre
+543,Buchstabe::N,bokstav,lettre
+544,Buchstabe::N,bokstav,caractère
+545,Zeitung::N,avis,journal
+546,Leben::N,liv,vie
+547,Tod::N,død,mort
+548,Grab::N,grav,tombe
+549,Kirche::N,kirke,église
+550,Sünde::N,synd,péché
+551,Gott::N,gud,dieu
+552,Arbeiter::N,arbeider,ouvrier
+553,Arbeiter::N,arbeider,travailleur
+554,Chef::N,sjef,chef
+555,Chef::N,sjef,patron
+556,Meister::N,mester,maître
+557,Arzt::N,lege,médecin
+558,Lehrer::N,lærer,professeur
+559,Lehrer::N,lærer,instituteur
+560,Geld::N,penger,argent
+561,Geschäft::N,forretning,affaire
+562,Geschäft::N,forretning,commerce
+563,Laden::N,butikk,magasin
+564,Laden::N,butikk,boutique
+565,Preis::N,pris,prix
+566,Ware::N,vare,marchandise
+567,Nutzen::N,nytte,profit
+568,Reichtum::N,rikdom,richesse
+569,Welt::N,verden,monde
+570,Land::N,land,pays
+571,Staat::N,stat,État
+572,König::N,konge,roi
+573,Macht::N,makt,pouvoir
+574,Macht::N,makt,puissance
+575,Grenze::N,grense,frontière
+576,Krieg::N,krig,guerre
+577,Feind::N,fiende,ennemi
+578,Gewalt::N,vold,violence
+579,Kampf::N,kamp,lutte
+580,Kampf::N,kamp,combat
+581,Bogen[Waffe]::N,bue,arc
+582,Pfeil::N,pil,flèche
+583,Gewehr::N,gevær,fusil
+584,Fehler::N,feil,faute
+585,Fehler::N,feil,erreur
+586,Lüge::N,løgn,mensonge
+587,Schaden::N,skade,dégât
+588,Schaden::N,skade,dommage
+589,Unglück::N,uhell,malheur
+590,Schuld::N,skyld,faute
+591,Schuld::N,skyld,culpabilité
+592,Alter::N,alder,âge
+593,Schluss::N,slutt,fin
+594,Zeit::N,tid,temps
+595,Tag::N,dag,jour
+596,Tag::N,dag,journée
+597,Morgen::N,morgen,matin
+598,Morgen::N,morgen,matinée
+599,Mittag::N,middag,midi
+600,Abend::N,aften,soir
+601,Abend::N,aften,soirée
+602,Nacht::N,natt,nuit
+603,Woche::N,uke,semaine
+604,Monat::N,måned,mois
+605,Jahr::N,år,an
+606,Jahr::N,år,année
+607,Frühling::N,vår,printemps
+608,Sommer::N,sommer,été
+609,Herbst::N,høst,automne
+610,Winter::N,vinter,hiver
+611,Januar::N,januar,janvier
+612,Februar::N,februar,février
+613,März::N,mars,mars
+614,April::N,april,avril
+615,Mai::N,mai,mai
+616,Juni::N,juni,juin
+617,Juli::N,juli,juillet
+618,August::N,august,août
+619,September::N,september,septembre
+620,Oktober::N,oktober,octobre
+621,November::N,november,novembre
+622,Dezember::N,desember,décembre
+623,Montag::N,mandag,lundi
+624,Dienstag::N,tirsdag,mardi
+625,Mittwoch::N,onsdag,mercredi
+626,Donnerstag::N,torsdag,jeudi
+627,Freitag::N,fredag,vendredi
+628,Samstag::N,lørdag,samedi
+629,Sonntag::N,søndag,dimanche
+630,groß::A,stor,grand
+631,klein::A,liten,petit
+632,lang::A,lang,long
+633,kurz::A,kort,court
+634,breit::A,bred,large
+635,schmal::A,smal,étroit
+636,dicht::A,tett,dense
+637,dick[Gegenstand]::A,tykk,épais
+638,dünn::A,tynn,mince
+639,fein::A,fin,fin
+640,fein::A,fin,menu
+641,fest::A,fast,ferme
+642,fest::A,fast,solide
+643,flach::A,flat,plat
+644,glatt::A,glatt,poli
+645,glatt::A,glatt,lisse
+646,hart::A,hard,dur
+647,weich::A,myk,mou
+648,weich::A,bløt,mou
+649,rund::A,rund,rond
+650,spitz::A,spiss,aigu
+651,spitz::A,spiss,pointu
+652,scharf::A,kvass,tranchant
+653,stumpf::A,stubb,mousse
+654,stumpf::A,stubb,émoussé
+655,schwer::A,tung,lourd
+656,schwer::A,tung,pesant
+657,schön::A,pen,beau
+658,schön::A,vakker,beau
+659,heiß::A,het,chaud
+660,heiß::A,het,très chaud
+661,warm::A,varm,chaud
+662,kalt::A,kald,froid
+663,kühl::A,kjølig,frais
+664,frisch::A,fersk,frais
+665,feucht::A,fuktig,humide
+666,nass::A,våt,mouillé
+667,trocken::A,tørr,sec
+668,voll::A,full,plein
+669,voll::A,full,rempli
+670,leer::A,tom,vide
+671,offen::A,åpen,ouvert
+672,geschlossen::A,lukket,clos
+673,geschlossen::A,lukket,fermé
+674,sauber::A,ren,net
+675,sauber::A,ren,propre
+676,schmutzig::A,skitten,sale
+677,schmutzig::A,skitten,crasseux
+678,roh::A,rå,cru
+679,roh::A,rå,brut
+680,reif::A,moden,mûr
+681,lecker::A,lekker,délicieux
+682,lecker::A,lekker,appétissant
+683,süß::A,søt,doux
+684,bitter::A,besk,amer
+685,bitter::A,bitter,amer
+686,sauer::A,sur,aigre
+687,hell::A,lys,clair
+688,dunkel::A,mørk,sombre
+689,schwarz::A,svart,noir
+690,weiß::A,hvit,blanc
+691,rot::A,rød,rouge
+692,gelb::A,gul,jaune
+693,blau::A,blå,bleu
+694,grün::A,grønn,vert
+695,grau::A,grå,gris
+696,bunt::A,broket,multicolore
+697,billig::A,billig,bon marché
+698,teuer::A,dyr,cher
+699,wertvoll::A,verdifull,précieux
+700,blind::A,blind,aveugle
+701,taub::A,døv,sourd
+702,kräftig::A,kraftig,fort
+703,kräftig::A,kraftig,vigoureux
+704,stark::A,sterk,fort
+705,stark::A,sterk,puissant
+706,schwach::A,svak,faible
+707,fett::A,fet,gras
+708,schlank::A,slank,svelte
+709,hübsch::A,pen,joli
+710,böse::A,slem,mauvais
+711,dumm::A,dum,sot
+712,dumm::A,dum,bête
+713,faul::A,lat,fainéant
+714,faul::A,lat,paresseux
+715,faul::A,doven,fainéant
+716,faul::A,doven,paresseux
+717,fleißig::A,flittig,appliqué
+718,geizig::A,gjerrig,avare
+719,klug::A,klok,intelligent
+720,geschickt::A,hendig,habile
+721,geschickt::A,skikket,habile
+722,lieb::A,kjær,cher
+723,lieb::A,kjær,gentil
+724,lieb::A,snill,cher
+725,lieb::A,snill,gentil
+726,lustig::A,morsom,gai
+727,lustig::A,morsom,joyeux
+728,sanft::A,blid,doux
+729,hungrig::A,sulten,affamé
+730,krank::A,syk,malade
+731,nackt::A,naken,nu
+732,traurig::A,sørgmodig,triste
+733,lebendig::A,levende,vivant
+734,gut::A,god,bon
+735,schlecht::A,dårlig,mauvais
+736,richtig::A,riktig,juste
+737,richtig::A,riktig,correct
+738,schlimm::A,slem,grave
+739,schlimm::A,slem,mauvais
+740,wahr::A,sann,vrai
+741,wahr::A,sann,véritable
+742,alt::A,gammel,vieux
+743,neu::A,ny,neuf
+744,neu::A,ny,nouveau
+745,ehemalig::A,forhenværende,ancien
+746,alt[Lebewesen]::A,gammel,âgé
+747,alt[Lebewesen]::A,gammel,vieux
+748,jung::A,ung,jeune
+749,arm::A,fattig,pauvre
+750,reich::A,rik,riche
+751,bekannt::A,kjent,connu
+752,berühmt::A,berømt,fameux
+753,berühmt::A,berømt,célèbre
+754,fremd::A,fremmed,étranger
+755,verschieden::A,forskjellig,différent
+756,nah::A,nær,lié
+757,nah::A,nær,proche
+758,fern::A,fjern,éloigné
+759,fern::A,fjern,lointain
+760,linker::A,venstre,gauche
+761,rechter::A,høyre,droit
+762,anderer::A,annen,autre
+763,erster::A,første,premier
+764,zweiter::A,annen,second
+765,zweiter::A,annen,deuxième
+766,dritter::A,tredje,troisième
+767,letzter::A,sist,dernier
+768,allein::ADV,alene,seul
+769,auf einmal::ADV,med ett,à la fois
+770,zusammen::ADV,sammen,ensemble
+771,lange::ADV,lenge,longtemps
+772,plötzlich::ADV,plutselig,tout à coup
+773,sofort::ADV,straks,immédiatement
+774,später::ADV,senere,plus tard
+775,jetzt::ADV,nå,maintenant
+776,heute::ADV,i dag,aujourd'hui
+777,morgen::ADV,i morgen,demain
+778,bald::ADV,snart,bientôt
+779,dann::ADV,så,puis
+780,dann::ADV,så,ensuite
+781,gestern::ADV,i går,hier
+782,einst::ADV,engang,jadis
+783,einst::ADV,engang,autrefois
+784,damals::ADV,den gang,alors
+785,damals::ADV,den gang,à l'époque
+786,danach::ADV,deretter,après
+787,danach::ADV,deretter,ensuite
+788,vorher::ADV,før,auparavant
+789,vorher::ADV,i forveien,auparavant
+790,zuerst::ADV,først,d'abord
+791,zuerst::ADV,først,premièrement
+792,einmal::ADV,en gang,une fois
+793,manchmal::ADV,somme tider,parfois
+794,manchmal::ADV,somme tider,quelquefois
+795,oft::ADV,ofte,souvent
+796,immer::ADV,alltid,toujours
+797,niemals::ADV,aldri,ne ... jamais
+798,hier::ADV,her,ici
+799,hierhin::ADV,hit,par ici
+800,von hier::ADV,herfra,d'ici
+801,dort::ADV,der,là
+802,dort::ADV,der,là-bas
+803,dorthin::ADV,dit,y
+804,dorthin::ADV,dit,par là
+805,geradeaus::ADV,rett fram,tout droit
+806,vorwärts::ADV,fram,en avant
+807,vorwärts::ADV,framover,en avant
+808,rückwärts::ADV,baklengs,en arrière
+809,zurück::ADV,tilbake,de retour
+810,unten::ADV,nede,en bas
+811,unten::ADV,nede,au-dessous
+812,hinab::ADV,ned,en bas
+813,hinab::ADV,ned,vers le bas
+814,hinab::ADV,nedover,en bas
+815,hinab::ADV,nedover,vers le bas
+816,oben::ADV,oppe,dessus
+817,oben::ADV,oppe,en haut
+818,oben::ADV,ovenpå,dessus
+819,oben::ADV,ovenpå,en haut
+820,hinauf::ADV,opp,en haut
+821,hinauf::ADV,opp,vers le haut
+822,hinauf::ADV,oppover,en haut
+823,hinauf::ADV,oppover,vers le haut
+824,überall::ADV,overalt,partout
+825,nicht::ADV,ikke,ne ... pas
+826,ein wenig::ADV,litt,un peu
+827,kaum::ADV,neppe,à peine
+828,sehr::ADV,svært,très
+829,so::ADV,så,si
+830,so::ADV,så,ainsi
+831,noch::ADV,enda,encore
+832,nur::ADV,bare,seulement
+833,nur::ADV,bare,ne ... que
+834,schon::ADV,alt,déjà
+835,schon::ADV,allerede,déjà
+836,wieder::ADV,igjen,de nouveau
+837,vergebens::ADV,forgjeves,en vain
+838,vor::PRP,foran,devant
+839,vor::PRP,utenfor,devant
+840,hinter::PRP,bak,derrière
+841,hinter::PRP,bakom,derrière
+842,unter::PRP,under,sous
+843,unter::PRP,under,au-dessous de
+844,durch::PRP,gjennom,par
+845,durch::PRP,gjennom,à travers
+846,durch::PRP,igjennom,par
+847,durch::PRP,igjennom,à travers
+848,neben::PRP,ved siden av,à côté de
+849,zwischen::PRP,mellom,entre
+850,wegen::PRP,på grunn av,à cause de
+851,dies::PRN,dette,ceci
+852,das::PRN,det,ce
+853,das::PRN,det,cela
+854,alles::PRN,alt,tout
+855,ich::PRN,jeg,je
+856,ich::PRN,jeg,moi
+857,du::PRN,du,tu
+858,du::PRN,du,toi
+859,er::PRN,han,il
+860,er::PRN,han,lui
+861,wir::PRN,vi,nous
+862,ihr::PRN,dere,vous
+863,sie::PRN,de,ils
+864,sie::PRN,de,elles
+865,was::FPRN,hva,que
+866,was::FPRN,hva,quoi
+867,wer::FPRN,hvem,qui
+868,wo::FADV,hvor,où
+869,wohin::FADV,hvor ... hen,où
+870,wie::FADV,hvordan,comment
+871,warum::FADV,hvorfor,pourquoi
+872,wieviel::FNUM,hvor mye,combien
+873,eins::NUM,en,un
+874,eins::NUM,ett,un
+875,zwei::NUM,to,deux
+876,drei::NUM,tre,trois
+877,vier::NUM,fire,quatre
+878,fünf::NUM,fem,cinq
+879,sechs::NUM,seks,six
+880,sieben::NUM,sju,sept
+881,acht::NUM,åtte,huit
+882,neun::NUM,ni,neuf
+883,zehn::NUM,ti,dix
+884,elf::NUM,elleve,onze
+885,zwölf::NUM,tolv,douze
+886,zwanzig::NUM,tjue,vingt
+887,dreißig::NUM,tretti,trente
+888,vierzig::NUM,førti,quarante
+889,fünfzig::NUM,femti,cinquante
+890,sechzig::NUM,seksti,soixante
+891,siebzig::NUM,sytti,soixante-dix
+892,achtzig::NUM,åtti,quatre-vingt
+893,neunzig::NUM,nitti,quatre-vingt-dix
+894,hundert::NUM,hundre,cent
+895,tausend::NUM,tusen,mille
+896,und::CNJ,og,et
+897,oder::CNJ,eller,ou
+898,stehen::V,stå,être debout
+899,sitzen::V,sitte,être assis
+900,liegen::V,ligge,être couché
+901,hängen::V,henge,pendre
+902,werden::V,bli,devenir
+903,passieren::V,skje,se passer
+904,passieren::V,hende,se passer
+905,beginnen::V,begynne,commencer
+906,enden::V,ende,finir
+907,enden::V,ende,se terminer
+908,enden::V,slutte,finir
+909,enden::V,slutte,se terminer
+910,wechseln::V,veksle,changer
+911,wechseln::V,veksle,alterner
+912,aufgehen[Sonne]::V,stå opp,se lever
+913,untergehen[Sonne]::V,gå ned,se coucher
+914,scheinen[Sonne]::V,skinne,briller
+915,donnern::V,tordne,tonner
+916,wehen::V,blåse,souffler
+917,strömen::V,strømme,affluer
+918,fließen::V,flyte,couler
+919,sich drehen::V,dreie seg,tourner
+920,schwanken::V,svaie,osciller
+921,schwanken::V,svaie,chanceler
+922,schwingen::V,svinge,vibrer
+923,schwingen::V,svinge,osciller
+924,fallen::V,falle,tomber
+925,brennen::V,brenne,brûler
+926,brennen::V,brenne,flamber
+927,rauchen::V,ryke,fumer
+928,regnen::V,regne,pleuvoir
+929,gefrieren::V,fryse,geler
+930,tauen::V,tine,dégeler
+931,schmelzen::V,smelte,fondre
+932,trocknen::V,tørre,sécher
+933,sieden::V,koke,bouillir
+934,faulen::V,råtne,pourrir
+935,faulen::V,råtne,se putréfier
+936,verfaulen::V,råtne,pourrir
+937,reißen::V,briste,rompre
+938,reißen::V,briste,se déchirer
+939,versinken::V,synke,s'enfoncer
+940,versinken::V,synke ned,s'enfoncer
+941,vergehen::V,forløpe,passer
+942,erscheinen::V,synes,apparaître
+943,verschwinden::V,forsvinne,disparaître
+944,sinken::V,synke,descendre
+945,sinken::V,synke,s'abaisser
+946,abnehmen::V,avta,diminuer
+947,abnehmen::V,minske,diminuer
+948,zunehmen::V,tilta,augmenter
+949,steigen::V,stige,monter
+950,wachsen::V,gro,croître
+951,wachsen::V,vokse,croître
+952,glänzen::V,skinne,briller
+953,funkeln::V,tindre,étinceler
+954,lärmen::V,bråke,faire du bruit
+955,läuten::V,ringe,sonner
+956,klingeln::V,ringe,sonner
+957,klirren::V,klirre,cliqueter
+958,brausen::V,bruse,mugir
+959,rauschen::V,suse,bruire
+960,klingen::V,lyde,sonner
+961,klingen::V,klinge,sonner
+962,bellen::V,gjø,aboyer
+963,bellen::V,bjeffe,aboyer
+964,heulen::V,ule,hurler
+965,blasen::V,blåse,souffler
+966,pfeifen::V,plystre,siffler
+967,schreien::V,skrike,crier
+968,stöhnen::V,stønne,gémir
+969,zittern::V,dirre,trembler
+970,zittern::V,skjelve,trembler
+971,leben::V,leve,vivre
+972,geboren werden::V,fødes,naître
+973,atmen::V,ånde,respirer
+974,atmen::V,puste,respirer
+975,trinken::V,drikke,boire
+976,essen::V,spise,manger
+977,schlucken::V,svelge,avaler
+978,müde werden::V,bli trett,se lasser
+979,müde werden::V,bli trett,se fatiguer
+980,einschlafen::V,sovne,s'endormir
+981,schlafen::V,sove,dormir
+982,aufwachen::V,våkne,se réveiller
+983,aufstehen::V,stå opp,se lever
+984,sich erholen::V,bli bra,se reposer
+985,sich erholen::V,bli bra,se détendre
+986,sich erholen::V,komme seg,se reposer
+987,sich erholen::V,komme seg,se détendre
+988,krank werden::V,bli syk,tomber malade
+989,krank sein::V,være syk,être malade
+990,schmerzen::V,gjøre vondt,faire mal
+991,husten::V,hoste,tousser
+992,genesen::V,komme seg,guérir
+993,genesen::V,komme seg,se remettre
+994,sterben::V,dø,mourir
+995,umkommen::V,omkomme,périr
+996,sich bewegen::V,bevege seg,bouger
+997,sich rühren::V,røre på seg,broncher
+998,sich erheben::V,reise seg,se lever
+999,sich setzen::V,sette sig,s'asseoir
+1000,hinfallen::V,falle over ende,tomber
+1001,laufen::V,løpe,marcher
+1002,laufen::V,løpe,aller à pied
+1003,schreiten::V,skride,marcher
+1004,spazierengehen::V,spasere,se promener
+1005,spazierengehen::V,gå en tur,se promener
+1006,eilen::V,ile,courir
+1007,sich beeilen::V,skynde seg,se hâter
+1008,sich beeilen::V,skynde seg,se dépêcher
+1009,sausen::V,suse,filer
+1010,rennen::V,løpe,courir
+1011,springen::V,hoppe,sauter
+1012,springen::V,springe,sauter
+1013,klettern::V,klatre,grimper
+1014,schaukeln::V,huske,se balancer
+1015,kriechen::V,krype,ramper
+1016,schwimmen::V,svømme,nager
+1017,tauchen::V,dykke,plonger
+1018,rudern::V,ro,ramer
+1019,fahren::V,kjøre,aller
+1020,fahren::V,kjøre,rouler
+1021,fliegen::V,fly,voler
+1022,gehen::V,gå,aller
+1023,weggehen::V,gå bort,s'en aller
+1024,abfahren::V,reise,partir
+1025,anhalten::V,stanse,s'arrêter
+1026,hineingehen::V,gå inn,entrer
+1027,eintreten::V,tre inn,entrer
+1028,kommen::V,komme,venir
+1029,ankommen::V,ankomme,arriver
+1030,ankommen::V,komme til,arriver
+1031,zurückkommen::V,komme tilbake,revenir
+1032,bleiben::V,bli,rester
+1033,bleiben::V,bli,demeurer
+1034,bleiben::V,forbli,rester
+1035,bleiben::V,forbli,demeurer
+1036,warten::V,vente,attendre
+1037,erwarten::V,vente,attendre
+1038,suchen::V,søke,chercher
+1039,finden::V,finne,trouver
+1040,versuchen::V,prøve,essayer
+1041,versuchen::V,forsøke,essayer
+1042,vorbereiten::V,forberede,préparer
+1043,lieben::V,elske,aimer
+1044,mögen::V,like,aimer
+1045,mögen::V,like,vouloir
+1046,lachen::V,le,rire
+1047,rühren::V,røre,toucher
+1048,rühren::V,røre,attendrir
+1049,weinen::V,gråte,pleurer
+1050,schimpfen::V,skjelle,gronder
+1051,sich ärgern::V,ergre seg,se fâcher
+1052,sich fürchten::V,være redd,avoir peur
+1053,fürchten::V,være redd for,craindre
+1054,fürchten::V,være redd for,avoir peur de
+1055,fliehen::V,rømme,fuir
+1056,fliehen::V,flykte,fuir
+1057,flüchten::V,flykte,s'enfuir
+1058,sehen::V,se,voir
+1059,anschauen::V,se på,regarder
+1060,anschauen::V,betrakte,regarder
+1061,ansehen::V,anse,regarder
+1062,hören::V,høre,entendre
+1063,zuhören::V,tilhøre,écouter
+1064,probieren::V,smake,goûter
+1065,probieren::V,smake på,goûter
+1066,riechen::V,lukte,sentir
+1067,fühlen::V,føle,sentir
+1068,scheinen::V,se ut,sembler
+1069,scheinen::V,se ut,paraître
+1070,zu sehen sein::V,synes,se voir
+1071,zu sehen sein::V,synes,être visible
+1072,vernehmen::V,få vite,entendre
+1073,vernehmen::V,få vite,percevoir
+1074,frieren::V,fryse,avoir froid
+1075,tun::V,gjøre,faire
+1076,können::V,kunne,savoir
+1077,können::V,kunne,pouvoir
+1078,wollen::V,ville,vouloir
+1079,anfangen::V,begynne,commencer
+1080,beenden::V,avslutte,finir
+1081,beenden::V,avslutte,terminer
+1082,aufhören::V,slutte,cesser
+1083,aufhören::V,slutte,arrêter
+1084,aufhören::V,holde opp,cesser
+1085,aufhören::V,holde opp,arrêter
+1086,gelingen::V,lykkes,réussir
+1087,geraten::V,bli,réussir
+1088,öffnen::V,åpne,ouvrir
+1089,schließen::V,lukke,fermer
+1090,schließen::V,stenge,fermer
+1091,stellen::V,stille,poser
+1092,stellen::V,stille,mettre
+1093,setzen::V,sette,placer
+1094,legen::V,legge,placer
+1095,berühren::V,berøre,toucher
+1096,verbinden::V,forbinde,lier
+1097,bedecken::V,dekke,couvrir
+1098,aufhängen::V,henge,accrocher
+1099,aufhängen::V,henge opp,accrocher
+1100,anzünden::V,tenne,allumer
+1101,anzünden::V,antenne,allumer
+1102,anzünden::V,tenne på,allumer
+1103,aufheben::V,løfte,ramasser
+1104,aufheben::V,ta opp,ramasser
+1105,zurücklassen::V,slippe tilbake,laisser
+1106,verlieren::V,miste,perdre
+1107,fallen lassen::V,droppe,lâcher
+1108,fallen lassen::V,droppe,laisser tomber
+1109,fallen lassen::V,la falle,lâcher
+1110,fallen lassen::V,la falle,laisser tomber
+1111,machen::V,lage,faire
+1112,machen::V,gjøre,faire
+1113,herstellen::V,fremstille,produire
+1114,herstellen::V,fremstille,fabriquer
+1115,bauen::V,bygge,bâtir
+1116,bauen::V,bygge,construire
+1117,reparieren::V,reparere,réparer
+1118,verbessern::V,rette,améliorer
+1119,verbessern::V,forbedre,améliorer
+1120,ändern::V,forandre,changer
+1121,ändern::V,forandre,modifier
+1122,graben::V,grave,creuser
+1123,beugen::V,bøye,plier
+1124,beugen::V,bøye,ployer
+1125,biegen::V,bøye,courber
+1126,drehen::V,dreie,tordre
+1127,drehen::V,dreie,tourner
+1128,wenden::V,vende,retourner
+1129,umdrehen::V,snu,tourner
+1130,heben::V,heve,soulever
+1131,hochheben::V,løfte,lever
+1132,ergreifen::V,gripe,saisir
+1133,ergreifen::V,gripe,prendre
+1134,ergreifen::V,få tak i,saisir
+1135,ergreifen::V,få tak i,prendre
+1136,halten::V,holde,tenir
+1137,drücken::V,trykke,presser
+1138,schieben::V,skyve,pousser
+1139,kratzen::V,klø,gratter
+1140,kratzen::V,klø,égratigner
+1141,kratzen::V,klore,gratter
+1142,kratzen::V,klore,égratigner
+1143,lecken::V,slikke,lécher
+1144,beißen::V,bite,mordre
+1145,abreißen::V,rive av,arracher
+1146,abschneiden::V,skjære av,couper
+1147,binden::V,binde,lier
+1148,binden::V,binde,attacher
+1149,stecken::V,stikke,enfoncer
+1150,brechen::V,bryte,rompre
+1151,brechen::V,briste,rompre
+1152,klopfen::V,banke,frapper
+1153,hauen::V,hogge,frapper
+1154,kleben::V,klistre,coller
+1155,reiben::V,gni,frotter
+1156,streichen::V,stryke,empâter
+1157,schleifen::V,slipe,affiler
+1158,schleifen::V,slipe,aiguiser
+1159,schneiden::V,klippe,couper
+1160,schneiden::V,klippe,trancher
+1161,rütteln::V,ruske,cahoter
+1162,schütteln::V,riste,secouer
+1163,schwenken::V,svinge,agiter
+1164,schütten::V,helle,verser
+1165,füllen::V,fylle,remplir
+1166,einwickeln::V,vikle inn,envelopper
+1167,tragen::V,bære,porter
+1168,schleppen::V,slepe,traîner
+1169,ziehen::V,dra,tirer
+1170,ziehen::V,trekke,tirer
+1171,aufbewahren::V,oppbevare,garder
+1172,aufbewahren::V,oppbevare,conserver
+1173,aufbewahren::V,ta vare på,garder
+1174,aufbewahren::V,ta vare på,conserver
+1175,werfen::V,kaste,jeter
+1176,werfen::V,kaste,lancer
+1177,fangen::V,fange,attraper
+1178,packen::V,gripe,agripper
+1179,packen::V,gripe tak i,agripper
+1180,verstecken::V,gjemme,cacher
+1181,teilen::V,dele,diviser
+1182,schicken::V,sende,envoyer
+1183,bringen::V,bringe,apporter
+1184,hinzufügen::V,tilføye,ajouter
+1185,bekommen::V,få,obtenir
+1186,erhalten::V,få,recevoir
+1187,nehmen::V,ta,prendre
+1188,wählen::V,velge,choisir
+1189,auswählen::V,velge ut,choisir
+1190,auswählen::V,velge ut,sélectionner
+1191,bewahren::V,bevare,préserver
+1192,behindern::V,hindre,gêner
+1193,behindern::V,forhindre,gêner
+1194,verderben::V,ødelegge,gâter
+1195,verderben::V,ødelegge,corrompre
+1196,beschädigen::V,skade,endommager
+1197,zerbrechen::V,brekke i stykker,casser
+1198,zerreißen::V,rive i stykker,déchirer
+1199,zerstören::V,ødelegge,détruire
+1200,verbrennen::V,brenne,brûler
+1201,verbrennen::V,brenne opp,brûler
+1202,geben::V,gi,donner
+1203,reichen::V,rekke,tendre
+1204,schenken::V,forære,offrir
+1205,schenken::V,skjenke,offrir
+1206,versprechen::V,love,promettre
+1207,wünschen::V,ønske,souhaiter
+1208,loben::V,rose,louer
+1209,küssen::V,kysse,embrasser
+1210,wiegen::V,vogge,bercer
+1211,zudecken::V,dekke til,couvrir
+1212,wecken::V,vekke,éveiller
+1213,wecken::V,vekke,réveiller
+1214,zeigen::V,vise,montrer
+1215,zeigen::V,vise,faire voir
+1216,führen::V,føre,guider
+1217,lehren::V,lære,apprendre
+1218,unterrichten::V,undervise,instruire
+1219,aufziehen::V,oppdra,élever
+1220,leiten::V,lede,diriger
+1221,leiten::V,lede,conduire
+1222,antreiben::V,drive på,pousser
+1223,lassen::V,få til å,faire
+1224,einladen::V,be,inviter
+1225,einladen::V,invitere,inviter
+1226,vereinigen::V,forene,unir
+1227,vereinigen::V,forene,réunir
+1228,besuchen::V,besøke,visiter
+1229,besuchen::V,besøke,aller voir
+1230,treffen::V,møte,rencontrer
+1231,treffen::V,treffe,rencontrer
+1232,sich versammeln::V,forsamles,s'assembler
+1233,spielen::V,leke,jouer
+1234,spielen::V,spille,jouer
+1235,singen::V,synge,chanter
+1236,tanzen::V,danse,danser
+1237,sich trennen::V,skilles,se séparer
+1238,verlassen::V,forlate,quitter
+1239,retten::V,redde,sauver
+1240,bewachen::V,bevokte,garder
+1241,schützen::V,verne,protéger
+1242,schützen::V,beskytte,protéger
+1243,verteidigen::V,forsvare,défendre
+1244,sich schlagen::V,slåss,se taper
+1245,schießen::V,skyte,tirer
+1246,siegen::V,seire,vaincre
+1247,ärgern::V,ergre,agacer
+1248,treten::V,sparke,botter
+1249,treten::V,sparke,donner un coup de pied à
+1250,stechen::V,stikke,piquer
+1251,stoßen::V,støte,heurter
+1252,stehlen::V,stjele,voler
+1253,stören::V,forstyrre,gêner
+1254,stören::V,forstyrre,déranger
+1255,belästigen::V,plage,molester
+1256,belästigen::V,plage,importuner
+1257,belästigen::V,sjenere,molester
+1258,belästigen::V,sjenere,importuner
+1259,verbergen::V,gjemme,cacher
+1260,verbergen::V,gjemme,dissimuler
+1261,täuschen::V,villede,abuser
+1262,täuschen::V,villede,tromper
+1263,betrügen::V,bedra,duper
+1264,betrügen::V,bedra,frauder
+1265,töten::V,drepe,tuer
+1266,wohnen::V,bo,habiter
+1267,wohnen::V,bo,demeurer
+1268,arbeiten::V,arbeide,travailler
+1269,sammeln::V,samle,collectionner
+1270,pflücken::V,plukke,cueillir
+1271,jagen::V,jage,chasser
+1272,fischen::V,fiske,pêcher
+1273,fassen::V,fange,capturer
+1274,hüten::V,vokte,garder
+1275,treiben::V,drive,mener
+1276,anbinden::V,feste,attacher
+1277,füttern::V,fore,faire manger
+1278,melken::V,melke,traire
+1279,hacken::V,hakke,fendre
+1280,gießen::V,helle,arroser
+1281,reifen::V,modne,mûrir
+1282,zubereiten::V,lage,préparer
+1283,zubereiten::V,tilberede,préparer
+1284,kochen::V,koke,cuire
+1285,backen::V,bake,cuire
+1286,braten::V,steke,rôtir
+1287,umrühren::V,røre om,remuer
+1288,stricken::V,strikke,tricoter
+1289,nähen::V,sy,coudre
+1290,färben::V,farge,teindre
+1291,reinigen::V,rense,nettoyer
+1292,reinigen::V,gjøre ren,nettoyer
+1293,waschen::V,vaske,laver
+1294,abwischen::V,tørke av,essuyer
+1295,spülen::V,spyle,rincer
+1296,spülen::V,skylle,rincer
+1297,fegen::V,feie,balayer
+1298,kehren::V,koste,balayer
+1299,baden::V,bade,se baigner
+1300,sich waschen::V,vaske seg,se laver
+1301,ausziehen::V,ta av,ôter
+1302,ausziehen::V,ta av,enlever
+1303,anziehen::V,ta på,mettre
+1304,sich anziehen::V,kle på seg,s'habiller
+1305,kämmen::V,gre,peigner
+1306,kämmen::V,kjemme,peigner
+1307,schmücken::V,pynte,orner
+1308,schmücken::V,pynte,décorer
+1309,schmücken::V,smykke,orner
+1310,schmücken::V,smykke,décorer
+1311,sagen::V,si,dire
+1312,sprechen::V,snakke,parler
+1313,reden::V,tale,parler
+1314,reden::V,snakke,parler
+1315,sich unterhalten::V,samtale,bavarder
+1316,sich unterhalten::V,samtale,s'entretenir
+1317,fragen::V,spørre,demander
+1318,bitten::V,be,prier
+1319,erzählen::V,fortelle,raconter
+1320,mitteilen::V,meddele,communiquer
+1321,nennen::V,kalle,nommer
+1322,nennen::V,kalle,appeler
+1323,rufen::V,rope,appeler
+1324,prahlen::V,skryte,se vanter
+1325,übersetzen::V,oversette,traduire
+1326,denken::V,tenke,penser
+1327,glauben::V,tro,croire
+1328,bemerken::V,bemerke,remarquer
+1329,bemerken::V,bemerke,apercevoir
+1330,bemerken::V,legge merke til,remarquer
+1331,bemerken::V,legge merke til,apercevoir
+1332,erkennen::V,gjenkjenne,reconnaître
+1333,begreifen::V,begripe,concevoir
+1334,verstehen::V,forstå,entendre
+1335,verstehen::V,forstå,comprendre
+1336,verstehen::V,skjønne,entendre
+1337,verstehen::V,skjønne,comprendre
+1338,lernen::V,lære,apprendre
+1339,wissen::V,vite,savoir
+1340,sich erinnern an::V,huske på,se souvenir de
+1341,vergessen::V,glemme,oublier
+1342,messen::V,måle,mesurer
+1343,zählen::V,telle,compter
+1344,rechnen::V,regne,calculer
+1345,lesen::V,lese,lire
+1346,malen::V,male,peindre
+1347,zeichnen::V,tegne,dessiner
+1348,schreiben::V,skrive,écrire
+1349,besitzen::V,eie,posséder
+1350,besitzen::V,inneha,posséder
+1351,kaufen::V,kjøpe,acheter
+1352,verkaufen::V,selge,vendre
+1353,bezahlen::V,betale,payer
+1354,zahlen::V,betale,payer
+1355,beherrschen::V,beherske,dominer
+1356,beherrschen::V,beherske,maîtriser
+1357,ertragen::V,orke,tolérer
+1358,ertragen::V,orke,supporter
+1359,schlagen::V,,battre
+1360,schlagen::V,,frapper

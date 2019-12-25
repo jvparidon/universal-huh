@@ -1,0 +1,1356 @@
+,Concept_ID,it,da
+0,Auge::N,occhio,øje
+1,Ohr::N,orecchio,øre
+2,Nase::N,naso,næse
+3,Mund::N,bocca,mund
+4,Zahn::N,dente,tand
+5,Zunge::N,lingua,tunge
+6,Lippe::N,labbro,læbe
+7,Wange::N,guancia,kind
+8,Gesicht::N,viso,ansigt
+9,Gesicht::N,faccia,ansigt
+10,Stirn::N,fronte,pande
+11,Haar::N,capello,hår
+12,Schnurrbart::N,baffi,overskæg
+13,Schnurrbart::N,mustacchi,overskæg
+14,Bart::N,barba,skæg
+15,Kinn::N,mento,hage
+16,Kiefer[Anatomie]::N,mascella,kæbe
+17,Kehle::N,gola,strube
+18,Hals::N,collo,hals
+19,Genick::N,nuca,nakke
+20,Kopf::N,capo,hoved
+21,Kopf::N,testa,hoved
+22,Rücken::N,dorso,ryg
+23,Rücken::N,schiena,ryg
+24,Bauch::N,ventre,mave
+25,Nabel::N,ombelico,navle
+26,Busen::N,seno,barm
+27,Brust::N,petto,bryst
+28,Schulter::N,spalla,skulder
+29,Arm::N,braccio,arm
+30,Ellenbogen::N,gomito,albue
+31,Hand::N,mano,hånd
+32,Handfläche::N,palma,håndflade
+33,Finger::N,dito,finger
+34,Fingernagel::N,unghia,fingernegl
+35,Nagel[Anatomie]::N,unghia,negl
+36,Zeh::N,dito del piede,tå
+37,Fuß::N,piede,fod
+38,Ferse::N,tallone,hæl
+39,Ferse::N,calcagno,hæl
+40,Knie::N,ginocchio,knæ
+41,Oberschenkel::N,fèmore,lår
+42,Bein::N,gamba,ben
+43,Körper::N,corpo,krop
+44,Körper::N,corpo,legeme
+45,Haut::N,pelle,hud
+46,Blut::N,sangue,blod
+47,Ader::N,vena,åre
+48,Sehne::N,tèndine,sene
+49,Knochen::N,osso,ben
+50,Gehirn::N,cervello,hjerne
+51,Herz::N,cuore,hjerte
+52,Magen::N,stòmaco,mave
+53,Leber::N,fegato,lever
+54,Atem::N,fiato,ånde
+55,Atem::N,respiro,ånde
+56,Hunger::N,fame,sult
+57,Träne::N,làcrima,tåre
+58,Geschmack::N,gusto,smag
+59,Geschmack::N,sapore,smag
+60,Geruch::N,odore,lugt
+61,Schlaf::N,sonno,søvn
+62,Traum::N,sogno,drøm
+63,Himmel::N,cielo,himmel
+64,Sonne::N,sole,sol
+65,Mond::N,luna,måne
+66,Stern::N,stella,stjerne
+67,Luft::N,aria,luft
+68,Wind::N,vento,vind
+69,Welle::N,onda,bølge
+70,Wasser::N,acqua,vand
+71,Stein::N,sasso,sten
+72,Stein::N,pietra,sten
+73,Boden::N,suolo,jord
+74,Boden::N,terreno,jord
+75,Erde::N,terra,jord
+76,Staub::N,polvere,støv
+77,Rauch::N,fumo,røg
+78,Funke::N,scintilla,gnist
+79,Feuer::N,fuoco,ild
+80,Licht::N,luce,lys
+81,Schatten::N,ombra,skygge
+82,Wetter::N,tempo,vejr
+83,Nebel::N,nebbia,tåge
+84,Wolke::N,nube,sky
+85,Wolke::N,nùvola,sky
+86,Regen::N,pioggia,regn
+87,Schnee::N,neve,sne
+88,Eis::N,ghiaccio,is
+89,Frost::N,gelo,frost
+90,Kälte::N,freddo,kulde
+91,Hitze::N,caldo,hede
+92,Hitze::N,calura,hede
+93,Raureif::N,brina,rimfrost
+94,Regenbogen::N,arcobaleno,regnbue
+95,Donner::N,tuono,torden
+96,Strömung::N,corrente,strømning
+97,Tropfen::N,goccia,dråbe
+98,Schaum::N,spuma,skum
+99,Schaum::N,schiuma,skum
+100,Schmutz::N,sudiciume,snavs
+101,See::N,lago,sø
+102,Sumpf::N,palude,sump
+103,Moor::N,torbiera,mose
+104,Wiese::N,prato,eng
+105,Wald::N,bosco,skov
+106,Wald::N,foresta,skov
+107,Hügel::N,colle,høj
+108,Hügel::N,colle,bakke
+109,Hügel::N,collina,høj
+110,Hügel::N,collina,bakke
+111,Anhöhe::N,altura,høj
+112,Anhöhe::N,altura,bakke
+113,Berg::N,monte,bjerg
+114,Berg::N,montagna,bjerg
+115,Gipfel::N,cima,top
+116,Höhle::N,grotta,hule
+117,Höhle::N,caverna,hule
+118,Abhang::N,pendìo,skrænt
+119,Abhang::N,pendìo,skråning
+120,Quelle::N,sorgente,kilde
+121,Bach::N,ruscello,bæk
+122,Fluss::N,fiume,flod
+123,Ufer::N,riva,bred
+124,Küste::N,costa,kyst
+125,Festland::N,terraferma,fastland
+126,Meer::N,mare,hav
+127,Bucht::N,cala,bugt
+128,Insel::N,ìsola,ø
+129,Blume::N,fiore,blomst
+130,Gras::N,erba,græs
+131,Wurzel::N,radice,rod
+132,Baum::N,àlbero,træ
+133,Stamm::N,tronco,stamme
+134,Rinde::N,corteccia,bark
+135,Ast::N,ramo,gren
+136,Zweig::N,ramo,kvist
+137,Blatt::N,foglia,blad
+138,Birke::N,betulla,birk
+139,Kiefer[Baum]::N,pino,fyrretræ
+140,Weide[Baum]::N,sàlice,piletræ
+141,Tanne::N,abete,gran
+142,Horn::N,corno,horn
+143,Feder::N,penna,fjer
+144,Fell::N,manto,skind
+145,Fell::N,pelame,skind
+146,Flügel::N,ala,vinge
+147,Klaue::N,grinfia,klov
+148,Kralle::N,unghia,klo
+149,Kralle::N,artiglio,klo
+150,Schwanz::N,coda,hale
+151,Ei::N,uovo,æg
+152,Nest::N,nido,rede
+153,Bau::N,covo,bo
+154,Tier::N,bestia,dyr
+155,Tier::N,animale,dyr
+156,Herde::N,gregge,flok
+157,Kuh::N,vacca,ko
+158,Bulle::N,toro,tyr
+159,Pferd::N,cavallo,hest
+160,Schaf::N,pècora,får
+161,Schwein::N,porco,gris
+162,Schwein::N,maiale,gris
+163,Hund::N,cane,hund
+164,Katze::N,gatta,kat
+165,Bär::N,orso,bjørn
+166,Eichhörnchen::N,scoiàttolo,egern
+167,Elch::N,alce,elg
+168,Fuchs::N,volpe,ræv
+169,Hase::N,lepre,hare
+170,Maus::N,topo,mus
+171,Maus::N,sorcio,mus
+172,Wolf::N,lupo,ulv
+173,Vogel::N,uccello,fugl
+174,Schwarm::N,stormo,sværm
+175,Huhn::N,gallina,høne
+176,Hahn::N,gallo,hane
+177,Gans::N,oca,gås
+178,Adler::N,àquila,ørn
+179,Ente::N,ànatra,and
+180,Eule::N,gufo,ugle
+181,Eule::N,civetta,ugle
+182,Kranich::N,gru,trane
+183,Krähe::N,cornacchia,krage
+184,Kuckuck::N,cuccù,gøg
+185,Kuckuck::N,cùculo,gøg
+186,Schwan::N,cigno,svane
+187,Fisch::N,pesce,fisk
+188,Barsch::N,pèrsico,aborre
+189,Hecht::N,luccio,gedde
+190,Schlange[Tier]::N,serpente,slange
+191,Wurm::N,baco,orm
+192,Wurm::N,verme,orm
+193,Spinne::N,ragno,edderkop
+194,Ameise::N,formica,myre
+195,Laus::N,pidocchio,lus
+196,Mücke::N,zanzara,myg
+197,Fliege::N,mosca,flue
+198,Schmetterling::N,farfalla,sommerfugl
+199,Beere::N,bacca,bær
+200,Apfel::N,mela,æble
+201,Pilz::N,fungo,svamp
+202,Zwiebel::N,cipolla,løg
+203,Saat::N,semente,sæd
+204,Korn::N,grano,korn
+205,Heu::N,fieno,hø
+206,Schale::N,buccia,skræl
+207,Grube::N,cava,grav
+208,Grube::N,fossa,grav
+209,Falle::N,tràppola,fælde
+210,Schlinge::N,laccio,snare
+211,Spur::N,traccia,spor
+212,Asche::N,cenere,aske
+213,Dreck::N,fango,snavs
+214,Eisen::N,ferro,jern
+215,Gold::N,oro,guld
+216,Silber::N,argento,sølv
+217,Kohle::N,carbone,kul
+218,Glas::N,vetro,glas
+219,Lehm::N,argilla,ler
+220,Sand::N,arena,sand
+221,Sand::N,sabbia,sand
+222,Mensch::N,uomo,mennesge
+223,Mensch::N,èssere umano,mennesge
+224,Mann::N,uomo,mand
+225,Frau::N,donna,kvinde
+226,Kind::N,bambino,barn
+227,Junge::N,ragazzo,dreng
+228,Mädchen::N,ragazza,pige
+229,Familie::N,famiglia,familie
+230,Großvater::N,nonno,bedstefar
+231,Großmutter::N,nonna,bedstemor
+232,Eltern::N,genitori,forældre
+233,Vater::N,padre,far
+234,Mutter::N,madre,mor
+235,Sohn::N,figlio,søn
+236,Tochter::N,figlia,datter
+237,Bruder::N,fratello,bror
+238,Schwester::N,sorella,søster
+239,Onkel::N,zio,onkel
+240,Tante::N,zia,tante
+241,Ehemann::N,marito,ægtemand
+242,Ehefrau::N,moglie,hustru
+243,Freude::N,gioia,glæde
+244,Freude::N,piacere,glæde
+245,Gelächter::N,risata,latter
+246,Glück::N,felicità,lykke
+247,Kummer::N,afflizione,sorg
+248,Wunsch::N,desiderio,ønske
+249,Lust::N,voglia,lyst
+250,Geist::N,mente,ånd
+251,Geist::N,spìrito,ånd
+252,Gedanke::N,idea,tanke
+253,Gedanke::N,pensiero,tanke
+254,Gedächtnis::N,memoria,hukommelse
+255,Verstand::N,intelletto,forstand
+256,Sinn::N,senso,mening
+257,Sinn::N,senso,betydning
+258,Sinn::N,significato,mening
+259,Sinn::N,significato,betydning
+260,Grund::N,causa,grund
+261,Grund::N,motivo,grund
+262,Grund::N,ragione,grund
+263,Wahrheit::N,verità,sandhed
+264,Gespräch::N,discorso,samtale
+265,Gespräch::N,conversazione,samtale
+266,Märchen::N,fiaba,eventyr
+267,Märchen::N,fàvola,eventyr
+268,Erzählung::N,racconto,fortælling
+269,Erzählung::N,narrazione,fortælling
+270,Nachricht::N,messaggio,efterretning
+271,Neuigkeit::N,notizia,nyhed
+272,Name::N,nome,navn
+273,Rätsel::N,indovinello,gåde
+274,Rede::N,discorso,tale
+275,Sprache::N,lingua,sprog
+276,Sprache::N,linguaggio,sprog
+277,Stimme::N,voce,stemme
+278,Wort::N,parola,ord
+279,Zeichen::N,segno,tegn
+280,Zeichen::N,segnale,tegn
+281,Ruf::N,chiamata,råb
+282,Lärm::N,chiasso,larm
+283,Lärm::N,strèpito,larm
+284,Laut::N,suono,lyd
+285,Ton::N,tono,tone
+286,Lied::N,canto,sang
+287,Lied::N,canzone,sang
+288,Ruhe::N,calma,ro
+289,Ruhe::N,calma,hvile
+290,Ruhe::N,tranquillità,ro
+291,Ruhe::N,tranquillità,hvile
+292,Leute::N,gente,folk
+293,Leute::N,gente,mennesker
+294,Volk::N,pòpolo,folk
+295,Arbeit::N,lavoro,arbejde
+296,Gast::N,òspite,gæst
+297,Gast::N,invitato,gæst
+298,Geschenk::N,regalo,gave
+299,Spiel::N,gioco,leg
+300,Gesellschaft::N,compagnìa,selskab
+301,Hilfe::N,aiuto,hjælp
+302,Hilfe::N,soccorso,hjælp
+303,Freund::N,amico,ven
+304,Kamerad::N,camerata,kammerat
+305,Angelegenheit::N,affare,sag
+306,Angelegenheit::N,affare,anliggende
+307,Angelegenheit::N,faccenda,sag
+308,Angelegenheit::N,faccenda,anliggende
+309,Anzahl::N,nùmero,antal
+310,Anzahl::N,quantità,antal
+311,Art::N,tipo,art
+312,Art::N,specie,art
+313,Stück::N,pezzo,stykke
+314,Teil::N,parte,del
+315,Hälfte::N,metà,halvdel
+316,Kreis::N,cìrcolo,cirkel
+317,Kreuz::N,croce,kors
+318,Kreuz::N,croce,kryds
+319,Linie::N,lìnea,linie
+320,Strich::N,tratto,streg
+321,Abstand::N,distanza,afstand
+322,Entfernung::N,distanza,afstand
+323,Entfernung::N,lontananza,afstand
+324,Gegend::N,regione,egn
+325,Platz::N,posto,plads
+326,Platz::N,spazio,plads
+327,Ort::N,luogo,sted
+328,Ort::N,località,sted
+329,Seite::N,lato,side
+330,Seite::N,parte,side
+331,Mitte::N,mezzo,midte
+332,Mitte::N,centro,midte
+333,Gegenstand::N,oggetto,genstand
+334,Sache::N,cosa,sag
+335,Rand::N,orlo,rand
+336,Rand::N,bordo,rand
+337,Kante::N,spìgolo,kant
+338,Ecke::N,canto,hjørne
+339,Spitze::N,punta,spids
+340,Ende::N,capo,ende
+341,Ende::N,estremità,ende
+342,Loch::N,buco,hul
+343,Winkel::N,àngolo,vinkel
+344,Muster::N,disegno,mønster
+345,Größe::N,taglia,størrelse
+346,Größe::N,grandezza,størrelse
+347,Länge::N,lunghezza,længde
+348,Höhe::N,altezza,højde
+349,Gewicht::N,peso,vægt
+350,Menge::N,quantità,mængde
+351,Haufen::N,cùmulo,bunke
+352,Haufen::N,mucchio,bunke
+353,Reihe::N,fila,række
+354,Boot::N,barca,båd
+355,Boot::N,battello,båd
+356,Ruder::N,remo,åre
+357,Schlitten::N,slitta,kælk
+358,Schlitten::N,slitta,slæde
+359,Ski::N,sci,ski
+360,Lagerfeuer::N,falò,lejrbål
+361,Lagerfeuer::N,fuoco di bivacco,lejrbål
+362,Last::N,càrico,last
+363,Last::N,càrico,byrde
+364,Gang::N,andata,gang
+365,Schritt::N,passo,skridt
+366,Norden::N,nord,nord
+367,Norden::N,settentrione,nord
+368,Süden::N,sud,syd
+369,Süden::N,meridione,syd
+370,Westen::N,òvest,vest
+371,Westen::N,occidente,vest
+372,Osten::N,est,øst
+373,Osten::N,oriente,øst
+374,Holz::N,legno,træ
+375,Brett::N,asse,bræt
+376,Brett::N,tàvola,bræt
+377,Platte::N,lastra,plade
+378,Platte::N,piastra,plade
+379,Stütze::N,supporto,støtte
+380,Stange::N,sbarra,stang
+381,Stange::N,pèrtica,stang
+382,Stock::N,verga,stok
+383,Stock::N,bastone,stok
+384,Stock::N,bacchetta,stok
+385,Stab::N,asta,stav
+386,Rohr::N,tubo,rør
+387,Haus::N,casa,hus
+388,Heim::N,casa,hjem
+389,Ofen::N,stufa,ovn
+390,Fußboden::N,pavimento,gulv
+391,Tisch::N,tàvolo,bord
+392,Stuhl::N,sedia,stol
+393,Wiege::N,culla,vugge
+394,Bett::N,letto,seng
+395,Regal::N,scaffale,reol
+396,Kiste::N,cassa,kasse
+397,Fenster::N,finestra,vindue
+398,Tür::N,porta,dør
+399,Tor::N,portone,port
+400,Zaun::N,recinto,stakit
+401,Dach::N,tetto,tag
+402,Leiter::N,scala,stige
+403,Leiter::N,scala a pioli,stige
+404,Besen::N,scopa,kost
+405,Spaten::N,vanga,spade
+406,Schaufel::N,pala,skovl
+407,Gabel::N,forchetta,gaffel
+408,Löffel::N,cucchiaio,ske
+409,Messer::N,coltello,kniv
+410,Nagel::N,chiodo,søm
+411,Netz::N,rete,net
+412,Haken::N,uncino,krog
+413,Griff::N,mànico,tag
+414,Griff::N,mànico,håndtag
+415,Griff::N,maniglia,tag
+416,Griff::N,maniglia,håndtag
+417,Schloss::N,serratura,lås
+418,Bild::N,quadro,billede
+419,Bild::N,immàgine,billede
+420,Figur::N,figura,figur
+421,Puppe::N,bàmbola,dukke
+422,Beutel::N,borsa,pose
+423,Beutel::N,sacchetto,pose
+424,Bündel::N,fascio,bylt
+425,Bündel::N,fascio,bundt
+426,Bündel::N,fagotto,bylt
+427,Bündel::N,fagotto,bundt
+428,Tasche::N,borsa,taske
+429,Eimer::N,secchio,spand
+430,Deckel::N,coperchio,låg
+431,Geschirr::N,stoviglie,husgeråd
+432,Sack::N,sacco,sæk
+433,Tasse::N,tazza,kop
+434,Topf::N,pèntola,gryde
+435,Kessel::N,paiolo,kedel
+436,Kessel::N,calderone,kedel
+437,Essen::N,pasto,måltid
+438,Essen::N,mangiare,måltid
+439,Nahrung::N,cibo,mad
+440,Nahrung::N,cibo,næring
+441,Nahrung::N,alimento,mad
+442,Nahrung::N,alimento,næring
+443,Speise::N,piatto,ret
+444,Fleisch::N,carne,kød
+445,Getreide::N,cereali,korn
+446,Brei::N,purè,grød
+447,Brei::N,pappa,grød
+448,Brot::N,pane,brød
+449,Scheibe::N,fetta,skive
+450,Scheibe::N,trancia,skive
+451,Fett::N,grasso,fedt
+452,Butter::N,burro,smør
+453,Öl::N,olio,olie
+454,Salz::N,sale,salt
+455,Suppe::N,zuppa,suppe
+456,Suppe::N,minestra,suppe
+457,Honig::N,miele,honning
+458,Milch::N,latte,mælk
+459,Tee::N,tè,te
+460,Leder::N,pelle,skind
+461,Wolle::N,lana,uld
+462,Stoff::N,panno,stof
+463,Stoff::N,tessuto,stof
+464,Nadel::N,ago,nål
+465,Faden::N,filo,tråd
+466,Knopf::N,bottone,knap
+467,Knoten::N,nodo,knude
+468,Farbe::N,pittura,farve
+469,Kleidung::N,vestiti,påklædning
+470,Kleidung::N,vestiario,påklædning
+471,Hemd::N,camicia,skjorte
+472,Kragen::N,bàvero,krave
+473,Kragen::N,colletto,krave
+474,Ärmel::N,mànica,ærme
+475,Hose::N,calzoni,bukser
+476,Gürtel::N,cintura,bælte
+477,Mütze::N,berretto,hue
+478,Schuh::N,scarpa,sko
+479,Stiefel::N,stivale,støvle
+480,Ring::N,anello,ring
+481,Band::N,nastro,bånd
+482,Band::N,fettuccia,bånd
+483,Kamm::N,pèttine,kam
+484,Spiegel::N,specchio,spejl
+485,Riemen::N,cinghia,rem
+486,Schnur::N,corda,snor
+487,Leine::N,guinzaglio,snor
+488,Decke::N,coperta,tæppe
+489,Kissen::N,cuscino,pude
+490,Kissen::N,guanciale,pude
+491,Tuch::N,fazzoletto,sjaltørklæde
+492,Handtuch::N,asciugamano,håndklæde
+493,Kraft::N,forza,kraft
+494,Stärke::N,forza,styrke
+495,Stärke::N,vigore,styrke
+496,Stärke::N,fortezza,styrke
+497,Gesundheit::N,salute,sundhed
+498,Krankheit::N,malattìa,sygdom
+499,Schmerz::N,dolore,smerte
+500,Wunde::N,piaga,sår
+501,Wunde::N,ferita,sår
+502,Fieber::N,febbre,feber
+503,Arznei::N,fàrmaco,medicin
+504,Arznei::N,fàrmaco,lægemiddel
+505,Arznei::N,medicina,medicin
+506,Arznei::N,medicina,lægemiddel
+507,Brücke::N,ponte,bro
+508,Brunnen::N,pozzo,brønd
+509,Weide::N,pàscolo,græsgang
+510,Pfad::N,sentiero,sti
+511,Weg::N,via,vej
+512,Weg::N,cammino,vej
+513,Straße::N,strada,gade
+514,Dorf::N,paese,landsby
+515,Dorf::N,villaggio,landsby
+516,Stadt::N,città,by
+517,Brief::N,lèttera,brev
+518,Buch::N,libro,bog
+519,Buchstabe::N,lèttera,bogstav
+520,Zeitung::N,giornale,avis
+521,Leben::N,vita,liv
+522,Tod::N,morte,død
+523,Grab::N,tomba,grav
+524,Grab::N,sepolcro,grav
+525,Kirche::N,chiesa,kirke
+526,Sünde::N,peccato,synd
+527,Gott::N,dio,gud
+528,Arbeiter::N,operaio,arbejder
+529,Arbeiter::N,lavoratore,arbejder
+530,Chef::N,capo,chef
+531,Chef::N,padrone,chef
+532,Meister::N,mastro,mester
+533,Meister::N,maestro,mester
+534,Arzt::N,mèdico,læge
+535,Arzt::N,dottore,læge
+536,Lehrer::N,professore,lærer
+537,Geld::N,soldi,penge
+538,Geld::N,denaro,penge
+539,Geschäft::N,affare,forretning
+540,Geschäft::N,negozio,forretning
+541,Laden::N,negozio,butik
+542,Laden::N,negozio,forretning
+543,Preis::N,prezzo,pris
+544,Ware::N,merce,vare
+545,Nutzen::N,ùtile,nytte
+546,Nutzen::N,profitto,nytte
+547,Reichtum::N,ricchezza,rigdom
+548,Welt::N,mondo,verden
+549,Land::N,paese,land
+550,Staat::N,Stato,stat
+551,König::N,re,konge
+552,Macht::N,potere,magt
+553,Grenze::N,confine,grænse
+554,Grenze::N,frontiera,grænse
+555,Krieg::N,guerra,krig
+556,Feind::N,nemico,fjende
+557,Gewalt::N,violenza,vold
+558,Kampf::N,lotta,kamp
+559,Bogen[Waffe]::N,arco,bue
+560,Pfeil::N,freccia,pil
+561,Gewehr::N,fucile,gevær
+562,Fehler::N,errore,fejl
+563,Fehler::N,sbaglio,fejl
+564,Lüge::N,bugìa,løgn
+565,Lüge::N,menzogna,løgn
+566,Schaden::N,danno,skade
+567,Unglück::N,sfortuna,uheld
+568,Unglück::N,sfortuna,ulykke
+569,Schuld::N,colpa,skyld
+570,Alter::N,età,alder
+571,Schluss::N,fine,slut
+572,Schluss::N,fine,slutning
+573,Zeit::N,tempo,tid
+574,Tag::N,giorno,dag
+575,Tag::N,giornata,dag
+576,Morgen::N,mattina,morgen
+577,Mittag::N,mezzogiorno,middag
+578,Abend::N,sera,aften
+579,Abend::N,serata,aften
+580,Nacht::N,notte,nat
+581,Woche::N,settimana,uge
+582,Monat::N,mese,måned
+583,Jahr::N,anno,år
+584,Frühling::N,primavera,forår
+585,Sommer::N,estate,sommer
+586,Herbst::N,autunno,efterår
+587,Winter::N,inverno,vinter
+588,Januar::N,gennaio,januar
+589,Februar::N,febbraio,februar
+590,März::N,marzo,marts
+591,April::N,aprile,april
+592,Mai::N,maggio,maj
+593,Juni::N,giugno,juni
+594,Juli::N,luglio,juli
+595,August::N,agosto,august
+596,September::N,settembre,september
+597,Oktober::N,ottobre,oktober
+598,November::N,novembre,november
+599,Dezember::N,dicembre,december
+600,Montag::N,lunedì,mandag
+601,Dienstag::N,martedì,tirsdag
+602,Mittwoch::N,mercoledì,onsdag
+603,Donnerstag::N,giovedì,torsdag
+604,Freitag::N,venerdì,fredag
+605,Samstag::N,sàbato,lørdag
+606,Sonntag::N,domenica,søndag
+607,groß::A,grande,stor
+608,klein::A,pìccolo,lille
+609,lang::A,lungo,lang
+610,kurz::A,corto,kort
+611,breit::A,largo,bred
+612,schmal::A,stretto,smal
+613,dicht::A,denso,tæt
+614,dick[Gegenstand]::A,spesso,tyk
+615,dünn::A,sottile,tynd
+616,fein::A,fine,fin
+617,fein::A,delicato,fin
+618,fest::A,sodo,fast
+619,fest::A,fisso,fast
+620,flach::A,piano,flad
+621,flach::A,piatto,flad
+622,glatt::A,liscio,glat
+623,hart::A,duro,hård
+624,weich::A,molle,blød
+625,rund::A,rotondo,rund
+626,spitz::A,aguzzo,spids
+627,spitz::A,appuntito,spids
+628,scharf::A,affilato,skarp
+629,scharf::A,tagliente,skarp
+630,stumpf::A,smussato,sløv
+631,stumpf::A,smussato,stump
+632,schwer::A,pesante,tung
+633,schön::A,bello,skøn
+634,heiß::A,caldo,hed
+635,heiß::A,bollente,hed
+636,warm::A,caldo,varm
+637,kalt::A,freddo,kold
+638,kühl::A,fresco,kølig
+639,frisch::A,fresco,frisk
+640,feucht::A,ùmido,fugtig
+641,nass::A,bagnato,våd
+642,trocken::A,secco,tør
+643,voll::A,pieno,fuld
+644,leer::A,vuoto,tom
+645,offen::A,aperto,åben
+646,geschlossen::A,chiuso,lukket
+647,sauber::A,netto,ren
+648,sauber::A,pulito,ren
+649,schmutzig::A,sporco,snavset
+650,schmutzig::A,sùdicio,snavset
+651,roh::A,crudo,rå
+652,reif::A,maturo,moden
+653,lecker::A,ghiotto,lækker
+654,lecker::A,squisito,lækker
+655,süß::A,dolce,sød
+656,bitter::A,amaro,bitter
+657,sauer::A,aspro,sur
+658,sauer::A,acerbo,sur
+659,hell::A,chiaro,lys
+660,dunkel::A,buio,mørk
+661,dunkel::A,oscuro,mørk
+662,schwarz::A,nero,sort
+663,weiß::A,bianco,hvid
+664,rot::A,rosso,rød
+665,gelb::A,giallo,gul
+666,blau::A,blu,blå
+667,blau::A,azzurro,blå
+668,grün::A,verde,grøn
+669,grau::A,grigio,grå
+670,bunt::A,variopinto,broget
+671,billig::A,a buon prezzo,billig
+672,billig::A,a buon mercato,billig
+673,teuer::A,caro,dyr
+674,wertvoll::A,prezioso,værdifuld
+675,blind::A,cieco,blind
+676,taub::A,sordo,døv
+677,kräftig::A,forte,kraftig
+678,kräftig::A,robusto,kraftig
+679,stark::A,forte,stærk
+680,stark::A,vigoroso,stærk
+681,schwach::A,dèbole,svag
+682,fett::A,grasso,fed
+683,schlank::A,snello,slank
+684,schlank::A,slanciato,slank
+685,hübsch::A,bello,køn
+686,hübsch::A,carino,køn
+687,böse::A,cattivo,ond
+688,böse::A,cattivo,slem
+689,dumm::A,stùpido,dum
+690,faul::A,pigro,doven
+691,fleißig::A,diligente,flittig
+692,geizig::A,avaro,gerrig
+693,klug::A,intelligente,klog
+694,geschickt::A,àbile,dygtig
+695,geschickt::A,àbile,behændig
+696,lieb::A,caro,rar
+697,lustig::A,gaio,lystig
+698,lustig::A,allegro,lystig
+699,sanft::A,dolce,blid
+700,hungrig::A,affamato,sulten
+701,krank::A,malato,syg
+702,krank::A,infermo,syg
+703,nackt::A,nudo,nøgen
+704,traurig::A,triste,bedrøvet
+705,lebendig::A,vivo,levende
+706,gut::A,buono,god
+707,schlecht::A,cattivo,dårlig
+708,richtig::A,giusto,rigtig
+709,schlimm::A,grave,slem
+710,wahr::A,vero,sand
+711,alt::A,vecchio,gammel
+712,neu::A,nuovo,ny
+713,ehemalig::A,vecchio,forhenværende
+714,ehemalig::A,d'una_volta,forhenværende
+715,alt[Lebewesen]::A,anziano,gammel
+716,jung::A,giovane,ung
+717,arm::A,pòvero,fattig
+718,reich::A,ricco,rig
+719,bekannt::A,noto,kendt
+720,bekannt::A,conosciuto,kendt
+721,berühmt::A,famoso,berømt
+722,berühmt::A,cèlebre,berømt
+723,fremd::A,estràneo,fremmed
+724,fremd::A,straniero,fremmed
+725,verschieden::A,diverso,forskellig
+726,verschieden::A,differente,forskellig
+727,nah::A,vicino,nær
+728,nah::A,propinquo,nær
+729,fern::A,lontano,fjern
+730,linker::A,sinistro,venstre
+731,rechter::A,destro,højre
+732,anderer::A,altro,anden
+733,erster::A,primo,første
+734,zweiter::A,secondo,anden
+735,dritter::A,terzo,tredje
+736,letzter::A,ùltimo,sidste
+737,allein::ADV,solo,alene
+738,allein::ADV,da solo,alene
+739,auf einmal::ADV,insieme,på én gang
+740,zusammen::ADV,insieme,sammen
+741,lange::ADV,a lungo,længe
+742,plötzlich::ADV,all'improvviso,pludselig
+743,sofort::ADV,sùbito,straks
+744,sofort::ADV,all'istante,straks
+745,später::ADV,più tardi,senere
+746,jetzt::ADV,ora,nu
+747,jetzt::ADV,adesso,nu
+748,heute::ADV,oggi,i dag
+749,morgen::ADV,domani,i morgen
+750,bald::ADV,presto,snart
+751,bald::ADV,tra poco,snart
+752,dann::ADV,allora,så
+753,gestern::ADV,ieri,i går
+754,einst::ADV,prima,engang
+755,einst::ADV,un tempo,engang
+756,damals::ADV,allora,dengang
+757,danach::ADV,poi,derefter
+758,danach::ADV,dopo,derefter
+759,vorher::ADV,prima,før
+760,vorher::ADV,prima,forud
+761,zuerst::ADV,prima,først
+762,zuerst::ADV,dapprima,først
+763,einmal::ADV,una volta,en gang
+764,manchmal::ADV,talvolta,sommetider
+765,manchmal::ADV,qualche volta,sommetider
+766,oft::ADV,spesso,ofte
+767,immer::ADV,sempre,altid
+768,niemals::ADV,non mai,aldrig
+769,hier::ADV,qua,her
+770,hierhin::ADV,qua,hid
+771,hierhin::ADV,qua,herhen
+772,von hier::ADV,ne,herfra
+773,von hier::ADV,da qui,herfra
+774,dort::ADV,lì,der
+775,dorthin::ADV,là,derhen
+776,geradeaus::ADV,diritto,lige ud
+777,vorwärts::ADV,avanti,fremad
+778,rückwärts::ADV,all'indietro,baglæns
+779,zurück::ADV,di indietro,tilbage
+780,unten::ADV,giù,nede
+781,unten::ADV,giù,forneden
+782,unten::ADV,sotto,nede
+783,unten::ADV,sotto,forneden
+784,hinab::ADV,giù,ned
+785,hinab::ADV,giù,nedad
+786,hinab::ADV,in giù,ned
+787,hinab::ADV,in giù,nedad
+788,oben::ADV,su,oppe
+789,oben::ADV,su,ovenpå
+790,oben::ADV,sopra,oppe
+791,oben::ADV,sopra,ovenpå
+792,hinauf::ADV,in sù,op
+793,hinauf::ADV,in sù,opad
+794,hinauf::ADV,in alto,op
+795,hinauf::ADV,in alto,opad
+796,überall::ADV,dappertutto,overalt
+797,nicht::ADV,non,ikke
+798,ein wenig::ADV,un po',lidt
+799,ein wenig::ADV,un poco,lidt
+800,kaum::ADV,a appena,knap
+801,kaum::ADV,a appena,næppe
+802,sehr::ADV,molto,meget
+803,so::ADV,così,så
+804,so::ADV,tanto,så
+805,noch::ADV,ancora,endnu
+806,nur::ADV,solo,kun
+807,nur::ADV,solo,bare
+808,nur::ADV,soltanto,kun
+809,nur::ADV,soltanto,bare
+810,schon::ADV,già,alt
+811,schon::ADV,già,allerede
+812,wieder::ADV,di nuovo,igen
+813,vergebens::ADV,invano,forgæves
+814,vor::PRP,davanti a,foran
+815,vor::PRP,davanti a,uden for
+816,hinter::PRP,dietro,bag
+817,hinter::PRP,dietro,bagved
+818,unter::PRP,sotto,under
+819,durch::PRP,per,gennem
+820,durch::PRP,per,igennem
+821,durch::PRP,attraverso,gennem
+822,durch::PRP,attraverso,igennem
+823,neben::PRP,a accanto a,ved siden af
+824,zwischen::PRP,fra,mellem
+825,wegen::PRP,a causa di,på grund af
+826,dies::PRN,ciò,dette
+827,dies::PRN,questo,dette
+828,das::PRN,ciò,det
+829,das::PRN,quello,det
+830,alles::PRN,tutto,alt
+831,ich::PRN,ìo,jeg
+832,du::PRN,tu,du
+833,er::PRN,lui,han
+834,er::PRN,egli,han
+835,wir::PRN,noi,vi
+836,ihr::PRN,voi,I
+837,sie::PRN,loro,de
+838,was::FPRN,che,hvad
+839,was::FPRN,che cosa,hvad
+840,wer::FPRN,chi,hvem
+841,wo::FADV,dove,hvor
+842,wohin::FADV,dove,hvorhen
+843,wie::FADV,come,hvordan
+844,warum::FADV,perche,hvorfor
+845,wieviel::FNUM,quanto,hvor meget
+846,eins::NUM,uno,én
+847,zwei::NUM,due,to
+848,drei::NUM,tre,tre
+849,vier::NUM,quattro,fire
+850,fünf::NUM,cinque,fem
+851,sechs::NUM,sei,seks
+852,sieben::NUM,sette,syv
+853,acht::NUM,otto,otte
+854,neun::NUM,nove,ni
+855,zehn::NUM,dieci,ti
+856,elf::NUM,ùndici,elleve
+857,zwölf::NUM,dodici,tolv
+858,zwanzig::NUM,venti,tyve
+859,dreißig::NUM,trenta,tredive
+860,vierzig::NUM,quaranta,fyrre
+861,vierzig::NUM,quaranta,fyrretyve
+862,fünfzig::NUM,cinquanta,halvtreds
+863,sechzig::NUM,sessanta,tres
+864,siebzig::NUM,settanta,halvfjerds
+865,achtzig::NUM,ottanta,firs
+866,neunzig::NUM,novanta,halvfems
+867,hundert::NUM,cento,hundrede
+868,tausend::NUM,mille,tusind
+869,und::CNJ,e,og
+870,oder::CNJ,o,eller
+871,stehen::V,stare in piedi,stå
+872,sitzen::V,sedere,sidde
+873,sitzen::V,stare seduto,sidde
+874,liegen::V,giacere,ligge
+875,hängen::V,pèndere,hænge
+876,hängen::V,èssere appeso,hænge
+877,werden::V,farsi,blive
+878,werden::V,diventare,blive
+879,passieren::V,succèdere,ske
+880,passieren::V,succèdere,hænde
+881,beginnen::V,cominciare,begynde
+882,enden::V,finire,ende
+883,enden::V,terminare,ende
+884,wechseln::V,variare,veksle
+885,wechseln::V,cambiare,veksle
+886,aufgehen[Sonne]::V,sòrgere,gå op
+887,aufgehen[Sonne]::V,sòrgere,stå op
+888,aufgehen[Sonne]::V,spuntare,gå op
+889,aufgehen[Sonne]::V,spuntare,stå op
+890,untergehen[Sonne]::V,tramontare,gå ned
+891,scheinen[Sonne]::V,splèndere,skinne
+892,donnern::V,tonare,tordne
+893,wehen::V,soffiare,blæse
+894,strömen::V,fluire,strømme
+895,fließen::V,fluire,flyde
+896,fließen::V,scorrere,flyde
+897,sich drehen::V,girarsi,dreje sig
+898,schwanken::V,oscillare,vakle
+899,schwanken::V,barcollare,vakle
+900,schwingen::V,vibrare,svinge
+901,schwingen::V,oscillare,svinge
+902,fallen::V,cadere,falde
+903,brennen::V,àrdere,brænde
+904,brennen::V,bruciare,brænde
+905,rauchen::V,fumare,ryge
+906,regnen::V,piòvere,regne
+907,gefrieren::V,gelarsi,fryse
+908,gefrieren::V,congelarsi,fryse
+909,tauen::V,sciògliersi,tø
+910,schmelzen::V,fòndere,smelte
+911,schmelzen::V,sciògliersi,smelte
+912,trocknen::V,asciugarsi,tørre
+913,sieden::V,bollire,koge
+914,faulen::V,marcire,rådne
+915,verfaulen::V,imputridire,rådne
+916,reißen::V,strapparsi,briste
+917,versinken::V,affondare,synke
+918,versinken::V,affondare,synke ned
+919,vergehen::V,passare,forløbe
+920,erscheinen::V,apparire,vise sig
+921,erscheinen::V,comparire,vise sig
+922,verschwinden::V,sparire,forsvinde
+923,verschwinden::V,scomparire,forsvinde
+924,sinken::V,calare,synke
+925,sinken::V,scendere,synke
+926,abnehmen::V,diminuire,aftage
+927,zunehmen::V,aumentare,tiltage
+928,steigen::V,salire,stige
+929,steigen::V,montare,stige
+930,wachsen::V,crescere,gro
+931,wachsen::V,crescere,vokse
+932,glänzen::V,splèndere,glinse
+933,funkeln::V,brillare,tindre
+934,funkeln::V,scintillare,tindre
+935,lärmen::V,strepitare,larme
+936,lärmen::V,fare chiasso,larme
+937,läuten::V,suonare,ringe
+938,klingeln::V,suonare,ringe
+939,klirren::V,tintinnare,klirre
+940,brausen::V,rombare,bruse
+941,brausen::V,rumoreggiare,bruse
+942,rauschen::V,frusciare,suse
+943,klingen::V,suonare,lyde
+944,klingen::V,suonare,klinge
+945,bellen::V,latrare,gø
+946,bellen::V,abbaiare,gø
+947,heulen::V,urlare,hyle
+948,heulen::V,ululare,hyle
+949,blasen::V,soffiare,blæse
+950,pfeifen::V,fischiare,fløjte
+951,schreien::V,gridare,skrige
+952,stöhnen::V,gèmere,stønne
+953,zittern::V,tremare,dirre
+954,zittern::V,tremare,skælve
+955,leben::V,vìvere,leve
+956,geboren werden::V,nàscere,fødes
+957,atmen::V,respirare,ånde
+958,trinken::V,bere,drikke
+959,essen::V,mangiare,spise
+960,schlucken::V,inghiottire,synke
+961,müde werden::V,stancarsi,blive træt
+962,einschlafen::V,addormentarsi,falde i søvn
+963,schlafen::V,dormire,sove
+964,aufwachen::V,svegliarsi,vågne
+965,aufstehen::V,levarsi,stå op
+966,sich erholen::V,riposarsi,komme sig
+967,krank werden::V,ammalarsi,blive syg
+968,krank sein::V,èssere malato,være syg
+969,schmerzen::V,dolere,smerte
+970,husten::V,tossire,hoste
+971,genesen::V,guarire,komme sig
+972,sterben::V,morire,dø
+973,umkommen::V,perire,omkomme
+974,sich bewegen::V,agitarsi,bevæge sig
+975,sich rühren::V,muòversi,røre på sig
+976,sich erheben::V,alzarsi,rejse sig
+977,sich setzen::V,sedersi,sætte sig
+978,hinfallen::V,cadere,
+979,laufen::V,camminare,løbe
+980,laufen::V,andare a piedi,løbe
+981,schreiten::V,andare,skride
+982,schreiten::V,procedere,skride
+983,spazierengehen::V,passeggiare,gå en tur
+984,spazierengehen::V,andare a passeggio,gå en tur
+985,eilen::V,andare in fretta,ile
+986,sich beeilen::V,affrettarsi,skynde sig
+987,sausen::V,volare,suse
+988,sausen::V,correre,suse
+989,rennen::V,correre,løbe
+990,rennen::V,correre,rende
+991,springen::V,saltare,hoppe
+992,springen::V,saltare,springe
+993,klettern::V,arrampicarsi,klatre
+994,schaukeln::V,fare l'altalena,gynge
+995,kriechen::V,strisciare,krybe
+996,schwimmen::V,nuotare,svømme
+997,tauchen::V,tuffarsi,dykke
+998,tauchen::V,immèrgersi,dykke
+999,rudern::V,remare,ro
+1000,fahren::V,andare,køre
+1001,fahren::V,viaggiare,køre
+1002,fliegen::V,volare,flyve
+1003,gehen::V,andare,gå
+1004,weggehen::V,andàrsene,gå bort
+1005,weggehen::V,andare via,gå bort
+1006,abfahren::V,partire,køre bort
+1007,anhalten::V,fermarsi,standse
+1008,hineingehen::V,entrare,gå ind
+1009,eintreten::V,entrare,træde ind
+1010,kommen::V,venire,komme
+1011,ankommen::V,arrivare,ankomme
+1012,zurückkommen::V,ritornare,komme tilbage
+1013,bleiben::V,restare,blive
+1014,bleiben::V,restare,forblive
+1015,bleiben::V,rimanere,blive
+1016,bleiben::V,rimanere,forblive
+1017,warten::V,aspettare,vente
+1018,erwarten::V,attèndere,vente
+1019,erwarten::V,attèndere,afvente
+1020,suchen::V,cercare,søge
+1021,finden::V,trovare,finde
+1022,versuchen::V,tentare,forsøge
+1023,vorbereiten::V,preparare,forberede
+1024,lieben::V,amare,elske
+1025,mögen::V,piacere a,holde af
+1026,mögen::V,piacere a,kunne lide
+1027,mögen::V,volere bene a,holde af
+1028,mögen::V,volere bene a,kunne lide
+1029,lachen::V,rìdere,le
+1030,rühren::V,commuòvere,røre
+1031,weinen::V,piàngere,græde
+1032,schimpfen::V,imprecare,skænde
+1033,sich ärgern::V,stizzirsi,ærgre sig
+1034,sich ärgern::V,arrabbiarsi,ærgre sig
+1035,sich fürchten::V,avere paura,være bange
+1036,fürchten::V,temere,være bange for
+1037,fliehen::V,fuggire,flygte
+1038,flüchten::V,sfuggire,flygte
+1039,sehen::V,vedere,se
+1040,anschauen::V,guardare,se på
+1041,anschauen::V,guardare,betragte
+1042,ansehen::V,guardare,anse
+1043,hören::V,udire,høre
+1044,hören::V,sentire,høre
+1045,zuhören::V,ascoltare,høre til
+1046,probieren::V,degustare,smage
+1047,probieren::V,degustare,smage på
+1048,probieren::V,assaggiare,smage
+1049,probieren::V,assaggiare,smage på
+1050,riechen::V,sentire,lugte
+1051,fühlen::V,sentire,føle
+1052,scheinen::V,parere,synes
+1053,scheinen::V,sembrare,synes
+1054,zu sehen sein::V,vedersi,synes
+1055,vernehmen::V,sentire,erfare
+1056,vernehmen::V,percepire,erfare
+1057,frieren::V,aver freddo,fryse
+1058,tun::V,fare,gøre
+1059,können::V,sapere,kunne
+1060,wollen::V,volere,ville
+1061,anfangen::V,iniziare,begynde
+1062,anfangen::V,cominciare,begynde
+1063,beenden::V,finire,afslutte
+1064,beenden::V,terminare,afslutte
+1065,aufhören::V,finire,ophøre
+1066,aufhören::V,finire,holde op
+1067,aufhören::V,cessare,ophøre
+1068,aufhören::V,cessare,holde op
+1069,gelingen::V,riuscire,lykkes
+1070,geraten::V,stare,blive
+1071,öffnen::V,aprire,åbne
+1072,schließen::V,chiùdere,lukke
+1073,stellen::V,porre,stille
+1074,stellen::V,mettere,stille
+1075,setzen::V,porre,sætte
+1076,setzen::V,mettere,sætte
+1077,legen::V,posare,lægge
+1078,legen::V,mettere,lægge
+1079,berühren::V,toccare,berøre
+1080,verbinden::V,unire,forbinde
+1081,verbinden::V,congiùngere,forbinde
+1082,bedecken::V,coprire,dække
+1083,bedecken::V,coprire,bedække
+1084,bedecken::V,ricoprire,dække
+1085,bedecken::V,ricoprire,bedække
+1086,aufhängen::V,attaccare,hænge
+1087,aufhängen::V,attaccare,hænge op
+1088,anzünden::V,accèndere,tænde
+1089,anzünden::V,accèndere,antænde
+1090,anzünden::V,incendiare,tænde
+1091,anzünden::V,incendiare,antænde
+1092,aufheben::V,raccògliere,løfte
+1093,aufheben::V,raccògliere,tage op
+1094,zurücklassen::V,lasciare,lade tilbage
+1095,zurücklassen::V,lasciare indietro,lade tilbage
+1096,verlieren::V,pèrdere,miste
+1097,fallen lassen::V,lasciare cadere,tabe
+1098,fallen lassen::V,lasciare cadere,droppe
+1099,machen::V,fare,gøre
+1100,herstellen::V,produrre,fremstille
+1101,herstellen::V,fabbricare,fremstille
+1102,bauen::V,costruire,bygge
+1103,reparieren::V,riparare,reparere
+1104,verbessern::V,migliorare,rette
+1105,verbessern::V,migliorare,forbedre
+1106,ändern::V,mutare,ændre
+1107,ändern::V,cambiare,ændre
+1108,graben::V,scavare,grave
+1109,beugen::V,chinare,bøje
+1110,beugen::V,flettere,bøje
+1111,biegen::V,tòrcere,bøje
+1112,drehen::V,girare,dreje
+1113,wenden::V,girare,vende
+1114,wenden::V,voltare,vende
+1115,umdrehen::V,rivoltare,dreje om
+1116,heben::V,levare,hæve
+1117,hochheben::V,levare,løfte
+1118,hochheben::V,sollevare,løfte
+1119,ergreifen::V,afferrare,gribe fat i
+1120,halten::V,tenere,holde
+1121,drücken::V,premere,trykke
+1122,schieben::V,spìngere,skyde
+1123,schieben::V,spìngere,skubbe
+1124,kratzen::V,grattare,klø
+1125,kratzen::V,grattare,kradse
+1126,kratzen::V,graffiare,klø
+1127,kratzen::V,graffiare,kradse
+1128,lecken::V,leccare,slikke
+1129,beißen::V,mòrdere,bide
+1130,abreißen::V,staccarsi,rive af
+1131,abreißen::V,strapparsi,rive af
+1132,abschneiden::V,tagliare,skære af
+1133,binden::V,legare,binde
+1134,binden::V,bendare,binde
+1135,stecken::V,ficcare,stikke
+1136,brechen::V,rompere,brække
+1137,klopfen::V,bàttere,banke
+1138,hauen::V,picchiare,hugge
+1139,kleben::V,incollare,klistre
+1140,reiben::V,fregare,gnide
+1141,streichen::V,spalmare,smøre
+1142,schleifen::V,arrotare,slibe
+1143,schneiden::V,tagliare,skære
+1144,schneiden::V,tagliare,klippe
+1145,rütteln::V,scuòtere,ruske
+1146,schütteln::V,agitare,ryste
+1147,schütteln::V,scuòtere,ryste
+1148,schwenken::V,agitare,svinge
+1149,schwenken::V,sventolare,svinge
+1150,schütten::V,versare,hælde
+1151,füllen::V,riempire,fylde
+1152,einwickeln::V,involtare,pakke ind
+1153,tragen::V,portare,bære
+1154,schleppen::V,trainare,slæbe
+1155,schleppen::V,trascinare,slæbe
+1156,ziehen::V,tirare,trække
+1157,aufbewahren::V,custodire,opbevare
+1158,aufbewahren::V,conservare,opbevare
+1159,werfen::V,gettare,kaste
+1160,werfen::V,lanciare,kaste
+1161,fangen::V,prèndere,fange
+1162,fangen::V,acchiappare,fange
+1163,packen::V,pigliare,gribe
+1164,packen::V,afferrare,gribe
+1165,verstecken::V,nascondere,gemme
+1166,teilen::V,divìdere,dele
+1167,schicken::V,inviare,sende
+1168,bringen::V,portare,bringe
+1169,bringen::V,apportare,bringe
+1170,hinzufügen::V,aggiùngere,tilføje
+1171,bekommen::V,ricevere,få
+1172,erhalten::V,ricevere,få
+1173,nehmen::V,prèndere,tage
+1174,wählen::V,elèggere,vælge
+1175,wählen::V,scegliere,vælge
+1176,auswählen::V,scegliere,udvælge
+1177,bewahren::V,conservare,bevare
+1178,behindern::V,impedire,hindre
+1179,behindern::V,impedire,forhindre
+1180,verderben::V,guastare,ødelægge
+1181,beschädigen::V,danneggiare,beskadige
+1182,zerbrechen::V,rompere,brække itu
+1183,zerbrechen::V,spezzare,brække itu
+1184,zerreißen::V,stracciare,rive itu
+1185,zerstören::V,distrùggere,ødelægge
+1186,verbrennen::V,bruciare,brænde
+1187,geben::V,dare,give
+1188,reichen::V,pòrgere,række
+1189,schenken::V,regalare,forære
+1190,versprechen::V,promettere,love
+1191,wünschen::V,augurare,ønske
+1192,loben::V,lodare,rose
+1193,küssen::V,baciare,kysse
+1194,wiegen::V,cullare,vugge
+1195,wiegen::V,dondolare,vugge
+1196,zudecken::V,coprire,dække til
+1197,wecken::V,svegliare,vække
+1198,zeigen::V,indicare,vise
+1199,führen::V,guidare,føre
+1200,führen::V,condurre,føre
+1201,lehren::V,insegnare,lære
+1202,unterrichten::V,istruire,undervise
+1203,unterrichten::V,insegnare,undervise
+1204,aufziehen::V,allevare,opdrage
+1205,leiten::V,avviare,lede
+1206,leiten::V,dirìgere,lede
+1207,antreiben::V,incitare,skynde på
+1208,lassen::V,fare,få til at
+1209,einladen::V,invitare,indbyde
+1210,einladen::V,invitare,invitere
+1211,vereinigen::V,unire,forene
+1212,besuchen::V,visitare,besøge
+1213,besuchen::V,far vìsita a,besøge
+1214,treffen::V,incontrare,møde
+1215,sich versammeln::V,rinunirsi,forsamles
+1216,spielen::V,giocare,lege
+1217,spielen::V,giocare,spille
+1218,singen::V,cantare,synge
+1219,tanzen::V,danzare,danse
+1220,sich trennen::V,separarsi,skilles
+1221,verlassen::V,lasciare,forlade
+1222,verlassen::V,abbandonare,forlade
+1223,retten::V,salvare,redde
+1224,bewachen::V,custodire,bevogte
+1225,schützen::V,protèggere,skærme
+1226,schützen::V,protèggere,beskytte
+1227,verteidigen::V,difèndere,forsvare
+1228,sich schlagen::V,bàttersi,slås
+1229,schießen::V,sparare,skyde
+1230,siegen::V,vìncere,sejre
+1231,ärgern::V,stizzire,ærgre
+1232,schlagen::V,bàttere,slå
+1233,treten::V,calciare,sparke
+1234,stechen::V,pùngere,stikke
+1235,stoßen::V,urtare,støde
+1236,stoßen::V,spìngere,støde
+1237,stehlen::V,rubare,stjæle
+1238,stören::V,disturbare,forstyrre
+1239,belästigen::V,molestare,genere
+1240,belästigen::V,molestare,ulejlige
+1241,belästigen::V,importunare,genere
+1242,belästigen::V,importunare,ulejlige
+1243,verbergen::V,celare,skjule
+1244,verbergen::V,nascondere,skjule
+1245,täuschen::V,ingannare,villede
+1246,betrügen::V,frodare,bedrage
+1247,betrügen::V,truffare,bedrage
+1248,töten::V,uccìdere,dræbe
+1249,wohnen::V,abitare,bo
+1250,arbeiten::V,lavorare,arbejde
+1251,sammeln::V,raccògliere,samle
+1252,sammeln::V,collezionare,samle
+1253,pflücken::V,cògliere,plukke
+1254,jagen::V,cacciare,jage
+1255,fischen::V,pescare,fiske
+1256,fassen::V,catturare,fange
+1257,fassen::V,acchiappare,fange
+1258,hüten::V,pascolare,vogte
+1259,treiben::V,spìngere,drive
+1260,anbinden::V,legare,binde fast
+1261,anbinden::V,attaccare,binde fast
+1262,füttern::V,dar da mangiare a,fodre
+1263,melken::V,mùngere,malke
+1264,hacken::V,tritare,hakke
+1265,hacken::V,spaccare,hakke
+1266,gießen::V,annaffiare,hælde
+1267,reifen::V,maturare,modne
+1268,zubereiten::V,preparare,tilberede
+1269,kochen::V,cuòcere,koge
+1270,backen::V,cuòcere,bage
+1271,backen::V,cuòcere al forno,bage
+1272,braten::V,frìggere,stege
+1273,braten::V,arrostire,stege
+1274,umrühren::V,mescolare,røre om
+1275,stricken::V,llavorare a maglia,strikke
+1276,nähen::V,cucire,sy
+1277,färben::V,tìngere,farve
+1278,reinigen::V,pulire,rense
+1279,reinigen::V,pulire,gøre ren
+1280,reinigen::V,nettare,rense
+1281,reinigen::V,nettare,gøre ren
+1282,waschen::V,lavare,vaske
+1283,abwischen::V,asciugare,tørre af
+1284,spülen::V,lavare,skylle
+1285,spülen::V,sciacquare,skylle
+1286,fegen::V,spazzare,feje
+1287,kehren::V,spazzare,feje
+1288,baden::V,bagnarsi,bade
+1289,baden::V,fare il bagno,bade
+1290,sich waschen::V,lavarsi,vaske sig
+1291,ausziehen::V,tògliersi,tage af
+1292,anziehen::V,mettersi,tage på
+1293,anziehen::V,indossare,tage på
+1294,sich anziehen::V,vestirsi,klæde sig på
+1295,kämmen::V,pettinare,rede
+1296,kämmen::V,pettinare,frisere
+1297,schmücken::V,ornare,pynte
+1298,schmücken::V,ornare,smykke
+1299,schmücken::V,decorare,pynte
+1300,schmücken::V,decorare,smykke
+1301,sagen::V,dire,sige
+1302,sprechen::V,parlare,snakke
+1303,reden::V,parlare,tale
+1304,reden::V,parlare,snakke
+1305,sich unterhalten::V,conversare,snakke sammen
+1306,fragen::V,chièdere,spørge
+1307,fragen::V,domandare,spørge
+1308,bitten::V,pregare,bede
+1309,erzählen::V,narrare,berette
+1310,erzählen::V,narrare,fortælle
+1311,erzählen::V,raccontare,berette
+1312,erzählen::V,raccontare,fortælle
+1313,mitteilen::V,comunicare,meddele
+1314,nennen::V,nominare,nævne
+1315,rufen::V,chiamare,råbe
+1316,prahlen::V,vantarsi,prale
+1317,übersetzen::V,tradurre,oversætte
+1318,denken::V,pensare,tænke
+1319,glauben::V,credere,tro
+1320,bemerken::V,notare,bemærke
+1321,bemerken::V,notare,lægge mærke til
+1322,bemerken::V,osservare,bemærke
+1323,bemerken::V,osservare,lægge mærke til
+1324,erkennen::V,riconoscere,genkende
+1325,begreifen::V,capire,begribe
+1326,begreifen::V,comprèndere,begribe
+1327,verstehen::V,intèndere,forstå
+1328,verstehen::V,comprèndere,forstå
+1329,lernen::V,imparare,lære
+1330,lernen::V,apprèndere,lære
+1331,wissen::V,sapere,vide
+1332,sich erinnern an::V,ricordare,mindes
+1333,sich erinnern an::V,ricordare,huske på
+1334,sich erinnern an::V,ricordarsi di,mindes
+1335,sich erinnern an::V,ricordarsi di,huske på
+1336,vergessen::V,dimenticare,glemme
+1337,messen::V,misurare,måle
+1338,zählen::V,contare,tælle
+1339,rechnen::V,contare,regne
+1340,rechnen::V,calcolare,regne
+1341,lesen::V,lèggere,læse
+1342,malen::V,dipìngere,male
+1343,zeichnen::V,disegnare,tegne
+1344,schreiben::V,scrìvere,skrive
+1345,besitzen::V,possedere,eje
+1346,besitzen::V,possedere,besidde
+1347,kaufen::V,comprare,købe
+1348,kaufen::V,acquistare,købe
+1349,verkaufen::V,vendere,sælge
+1350,bezahlen::V,pagare,betale
+1351,zahlen::V,pagare,betale
+1352,beherrschen::V,dominare,beherske
+1353,ertragen::V,sopportare,tåle
+1354,ertragen::V,sopportare,udholde

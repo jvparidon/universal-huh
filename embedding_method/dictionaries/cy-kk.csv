@@ -1,0 +1,1524 @@
+,Concept_ID,cy,kk
+0,Auge::N,llygad,көз
+1,Ohr::N,clust,құлақ
+2,Nase::N,trwyn,мұрын
+3,Mund::N,ceg,ауыз
+4,Zahn::N,dant,тіс
+5,Zunge::N,tafod,тіл
+6,Lippe::N,gwefus,ерін
+7,Wange::N,boch,ұрт
+8,Gesicht::N,wyneb,бет-аузы
+9,Stirn::N,talcen,маңдай
+10,Haar::N,blew,қыл
+11,Schnurrbart::N,mwstas,мұрт
+12,Bart::N,barf,сақал
+13,Kinn::N,gên,иек
+14,Kiefer[Anatomie]::N,gên,жақ
+15,Kehle::N,gwddf,алқым
+16,Hals::N,gwddf,мойын
+17,Genick::N,gwar,желке
+18,Genick::N,gwegil,желке
+19,Kopf::N,pen,кәллә
+20,Rücken::N,cefn,арқа
+21,Bauch::N,bol,қарын
+22,Nabel::N,bogail,кіндік
+23,Busen::N,bron,омырау
+24,Brust::N,brest,кеуде
+25,Schulter::N,ysgwydd,иық
+26,Arm::N,braich,қол
+27,Ellenbogen::N,penelin,шынтақ
+28,Hand::N,llaw,қол
+29,Handfläche::N,palf,алақан
+30,Finger::N,bys,саусақ
+31,Fingernagel::N,ewin,тырнақ
+32,Nagel[Anatomie]::N,ewin,тырнақ
+33,Zeh::N,bys troed,тырнақ
+34,Zeh::N,bys troed,тұяқ
+35,Fuß::N,troed,аяқ-басы
+36,Ferse::N,sawdl,өкше
+37,Ferse::N,sawdl,өкшелік
+38,Knie::N,glin,тізе
+39,Oberschenkel::N,clun,жамбас
+40,Bein::N,coes,аяқ
+41,Körper::N,corff,дене
+42,Haut::N,croen,тері
+43,Blut::N,gwaed,қан
+44,Ader::N,gwythïen,көктамыр
+45,Ader::N,gwythïen,күретамыр
+46,Sehne::N,gewyn,сіңір
+47,Knochen::N,asgwrn,жілік
+48,Gehirn::N,ymennydd,ми
+49,Herz::N,calon,жүрек
+50,Magen::N,cylla,асқазан
+51,Magen::N,stumog,асқазан
+52,Leber::N,iau,бауыр
+53,Atem::N,anadl,леп
+54,Hunger::N,newyn,ашаршылық
+55,Träne::N,deigryn,жас
+56,Geschmack::N,cyflas,дәм
+57,Geschmack::N,cyflas,татым
+58,Geschmack::N,cyflas,талғам
+59,Geruch::N,aroglau,иіс
+60,Schlaf::N,cwsg,ұйқы
+61,Schlaf::N,cwsg,ұйықтау
+62,Traum::N,breuddwyd,түс
+63,Himmel::N,awyr,аспан
+64,Himmel::N,awyr,көқ
+65,Himmel::N,awyr,таңдай
+66,Sonne::N,haul,күн
+67,Mond::N,lleuad,ай
+68,Stern::N,seren,жұлдыз
+69,Luft::N,awyr,әуе
+70,Wind::N,gwynt,жел
+71,Welle::N,ton,толқын
+72,Wasser::N,dŵr,су
+73,Stein::N,carreg,тас
+74,Boden::N,llawr,қыртыс
+75,Erde::N,pridd,топырақ
+76,Staub::N,llwch,шаң
+77,Rauch::N,mwg,түтін
+78,Funke::N,gwreichioni,ұшқын
+79,Feuer::N,tân,алау
+80,Licht::N,golau,шұғыла
+81,Schatten::N,cysgod,көлеңке
+82,Wetter::N,tywydd,ауа райы
+83,Nebel::N,niwl,тұман
+84,Wolke::N,cwmwl,бұлт
+85,Regen::N,glaw,жаңбыр
+86,Schnee::N,ôd,қар
+87,Schnee::N,eira,қар
+88,Eis::N,iâ,мұз
+89,Frost::N,rhew,суық
+90,Kälte::N,oerni,ызғар
+91,Kälte::N,oerni,суықтық
+92,Kälte::N,annwyd,ызғар
+93,Kälte::N,annwyd,суықтық
+94,Hitze::N,gwres,аптап
+95,Raureif::N,barrug,қырау
+96,Regenbogen::N,enfys,кемпірқосақ
+97,Donner::N,tyrfau,күн күркіреу
+98,Strömung::N,cerrynt,ағын
+99,Tropfen::N,dafn,тамшы
+100,Tropfen::N,diferyn,тамшы
+101,Schaum::N,ewyn,көбік
+102,Schmutz::N,baw,кір
+103,Schmutz::N,budreddi,кір
+104,See::N,llyn,көл
+105,Sumpf::N,cors,саз
+106,Moor::N,rhos,саз
+107,Wiese::N,dôl,шалғын
+108,Wald::N,coedwig,орман
+109,Hügel::N,bryn,төбе
+110,Hügel::N,bryn,белес
+111,Hügel::N,bryn,белес-белес
+112,Anhöhe::N,bryn,дөң
+113,Anhöhe::N,bryn,адыр
+114,Anhöhe::N,bryn,қырат
+115,Berg::N,mynydd,тау
+116,Gipfel::N,copa,төбе
+117,Höhle::N,ogof,үңгір
+118,Abhang::N,llethr,бауыр
+119,Quelle::N,tarddiad,қайнар
+120,Quelle::N,ffynhonnell,қайнар
+121,Bach::N,nant,жылға
+122,Bach::N,afonig,жылға
+123,Bach::N,cornant,жылға
+124,Fluss::N,afon,өзен
+125,Ufer::N,glan,жиек
+126,Küste::N,traeth,жиегі
+127,Küste::N,traeth,жағалау
+128,Küste::N,arfordir,жиегі
+129,Küste::N,arfordir,жағалау
+130,Festland::N,tir,құрылық
+131,Meer::N,môr,теңіз
+132,Bucht::N,bae,шығанақ
+133,Insel::N,ynys,арал
+134,Blume::N,blodyn,гүл
+135,Gras::N,glaswellt,от
+136,Wurzel::N,gwreiddyn,түбір
+137,Baum::N,coeden,ағаш
+138,Baum::N,coeden,дарақ
+139,Stamm::N,colfen,сояу
+140,Stamm::N,colfen,оқпан
+141,Stamm::N,boncyff,сояу
+142,Stamm::N,boncyff,оқпан
+143,Rinde::N,rhisgl,қабық
+144,Ast::N,cangen,бұтақ
+145,Zweig::N,cainc,шыбық
+146,Zweig::N,cangen,шыбық
+147,Blatt::N,deilen,жапырақ
+148,Birke::N,bedwen,қайың
+149,Kiefer[Baum]::N,pinwydden,қарағай
+150,Weide[Baum]::N,helygen,тал
+151,Tanne::N,ffynidwydden,шырша
+152,Horn::N,corn,мүйіз
+153,Feder::N,plufyn,қаламұш
+154,Fell::N,ffwr,тері
+155,Flügel::N,adain,қанат
+156,Klaue::N,crafanc,тырнақ
+157,Kralle::N,ewin,аяқ
+158,Schwanz::N,cwt,құйрық
+159,Schwanz::N,cynffon,құйрық
+160,Ei::N,wy,жұмыртқа
+161,Nest::N,nyth,ұя
+162,Bau::N,ffau,жатақ
+163,Tier::N,anifail,айуан
+164,Tier::N,anifail,жануар
+165,Herde::N,praidd,пада
+166,Herde::N,diadell,пада
+167,Kuh::N,buwch,сиыр
+168,Bulle::N,tarw,өгіз
+169,Pferd::N,ceffyl,жылқы
+170,Schaf::N,dafad,қой
+171,Schwein::N,mochyn,шошқа
+172,Hund::N,ci,ит
+173,Katze::N,cath,мысық
+174,Bär::N,arth,аю
+175,Eichhörnchen::N,gwiwer,тиін
+176,Elch::N,elc,бұғы
+177,Fuchs::N,cadno,түлкі
+178,Hase::N,ysgyfarnog,қоян
+179,Maus::N,llygoden,қаптесер
+180,Wolf::N,blaidd,бөрі
+181,Wolf::N,blaidd,қасқыр
+182,Vogel::N,aderyn,құс
+183,Schwarm::N,haid,топ
+184,Schwarm::N,haid,үйір
+185,Huhn::N,cyw,тауық
+186,Huhn::N,cyw,мекиен
+187,Hahn::N,ceiliog,әтеш
+188,Hahn::N,ceiliog,қораз
+189,Gans::N,gŵydd,қаз
+190,Adler::N,eryr,бүркіт
+191,Ente::N,hwyad,үйрек
+192,Eule::N,tylluan,жапалақ
+193,Kranich::N,garan,тырна
+194,Kranich::N,crychydd,тырна
+195,Krähe::N,brân,қарға
+196,Kuckuck::N,cog,көкек
+197,Kuckuck::N,cwcw,көкек
+198,Schwan::N,alarch,аққу
+199,Fisch::N,pysgod,балық
+200,Barsch::N,draenog,алабұға
+201,Hecht::N,penhwyad,шортан
+202,Schlange[Tier]::N,neidr,жылан
+203,Wurm::N,abwydyn,шұбалшаң
+204,Wurm::N,pryf genwair,шұбалшаң
+205,Spinne::N,cor,өрмекші
+206,Spinne::N,pryf copyn,өрмекші
+207,Ameise::N,morgrugyn,қүмырска
+208,Laus::N,lleuen,бит
+209,Mücke::N,gwybedyn,маса
+210,Fliege::N,cleren,шыбын
+211,Schmetterling::N,glöyn byw,көбелек
+212,Schmetterling::N,iâr fach yr haf,көбелек
+213,Beere::N,aeronen,жидек
+214,Apfel::N,afal,алма
+215,Pilz::N,madarch,қозықұйрық
+216,Pilz::N,madarch,саңыраукулақ
+217,Zwiebel::N,nionyn,жуа
+218,Zwiebel::N,winwnsyn,жуа
+219,Saat::N,had,тұқым
+220,Korn::N,grawn,дән
+221,Heu::N,gwair,шөп
+222,Schale::N,croen,қабық
+223,Schale::N,croen,қабығы
+224,Schale::N,plisgyn,қабық
+225,Schale::N,plisgyn,қабығы
+226,Grube::N,pwll,ор
+227,Grube::N,pydew,ор
+228,Falle::N,magl,дұзақ
+229,Falle::N,magl,қақпан
+230,Schlinge::N,cwlwm rhedeg,ілмек
+231,Spur::N,ôl,із
+232,Asche::N,lludw,күл
+233,Dreck::N,baw,былғаныш
+234,Dreck::N,budreddi,былғаныш
+235,Eisen::N,haearn,темір
+236,Gold::N,aur,алтын
+237,Silber::N,arian,күміс
+238,Kohle::N,glo,көмір
+239,Glas::N,gwydr,шыны
+240,Lehm::N,clai,балшық
+241,Sand::N,tywod,құм
+242,Mensch::N,dyn,адам
+243,Mann::N,dyn,еркек
+244,Mann::N,dyn,ер адам
+245,Frau::N,merch,бике
+246,Frau::N,merch,қатын
+247,Frau::N,gwraig,бике
+248,Frau::N,gwraig,қатын
+249,Kind::N,plentyn,бала
+250,Kind::N,plentyn,перзент
+251,Junge::N,hogyn,бала
+252,Junge::N,hogyn,ер бала
+253,Junge::N,bachgen,бала
+254,Junge::N,bachgen,ер бала
+255,Mädchen::N,merch,қыз
+256,Mädchen::N,geneth,қыз
+257,Familie::N,teulu,жанұя
+258,Familie::N,tylwyth,жанұя
+259,Großvater::N,taid,ата
+260,Großvater::N,tad-cu,ата
+261,Großmutter::N,nain,әже
+262,Großmutter::N,nain,әжей
+263,Großmutter::N,mam-gu,әже
+264,Großmutter::N,mam-gu,әжей
+265,Eltern::N,rhieni,ата-аналар
+266,Vater::N,tad,әке
+267,Mutter::N,mam,ана
+268,Sohn::N,mab,ұл
+269,Tochter::N,merch,қызым
+270,Bruder::N,brawd,бауырым
+271,Schwester::N,chwaer,әпке
+272,Onkel::N,ewythr,көке
+273,Tante::N,modryb,тәте
+274,Ehemann::N,gŵr,ер
+275,Ehefrau::N,gwraig,зайып
+276,Freude::N,gorfoledd,қуаныш
+277,Freude::N,gorfoledd,сүйініш
+278,Freude::N,gorfoledd,шат-думан
+279,Freude::N,gorfoledd,қуаныштылық
+280,Gelächter::N,chwerthin,күлу
+281,Glück::N,hapusrwydd,бақыт
+282,Glück::N,hapusrwydd,бақыттылық
+283,Kummer::N,galar,аза
+284,Kummer::N,galar,қайғы
+285,Kummer::N,galar,қасырет
+286,Wunsch::N,dymuniad,мүдде
+287,Lust::N,chwant,тәбет
+288,Lust::N,chwant,ынтызар
+289,Lust::N,chwant,құштарлық
+290,Geist::N,ysbryd,рух
+291,Gedanke::N,meddwl,ой
+292,Gedächtnis::N,cof,ес
+293,Gedächtnis::N,cof,жады
+294,Gedächtnis::N,cof,ақыл-ес
+295,Verstand::N,meddwl,ақыл
+296,Verstand::N,meddwl,парасат
+297,Sinn::N,ystyr,мән
+298,Sinn::N,ystyr,маныз
+299,Sinn::N,ystyr,мағына
+300,Sinn::N,ystyr,мән-мағына
+301,Grund::N,achos,себеп
+302,Grund::N,rheswm,себеп
+303,Wahrheit::N,gwir,рас
+304,Wahrheit::N,gwirionedd,рас
+305,Gespräch::N,sgwrs,әңгіме
+306,Märchen::N,chwedl werin,ертеп
+307,Märchen::N,chwedl werin,ертек
+308,Erzählung::N,stori,әңгіме
+309,Nachricht::N,neges,хабар
+310,Neuigkeit::N,newydd,жаңалық
+311,Name::N,enw,ат
+312,Name::N,enw,атау
+313,Rätsel::N,pos,жұмбақ
+314,Rede::N,araith,сөз
+315,Sprache::N,iaith,тіл
+316,Stimme::N,llais,үн
+317,Stimme::N,llais,әуен
+318,Stimme::N,llais,дауыс
+319,Wort::N,gair,сөз
+320,Zeichen::N,arwydd,ишара
+321,Ruf::N,galwad,айғай
+322,Lärm::N,trwst,айғай-шу
+323,Lärm::N,trwst,айғай-ұйғай
+324,Laut::N,sain,дыбыс
+325,Laut::N,sain,дауыс
+326,Ton::N,tôn,әуен
+327,Lied::N,cân,ән
+328,Lied::N,cân,жыр
+329,Lied::N,cân,ән-жыр
+330,Ruhe::N,tawelwch,тыныштық
+331,Leute::N,pobl,кісілер
+332,Volk::N,pobl,халық
+333,Arbeit::N,gwaith,еңбек
+334,Gast::N,gwestai,қонақ
+335,Gast::N,gwestai,мейман
+336,Geschenk::N,rhodd,қадия
+337,Geschenk::N,anrheg,қадия
+338,Spiel::N,chwarae,ойын
+339,Gesellschaft::N,cwmni,қауым
+340,Gesellschaft::N,cwmni,жұртшылық
+341,Hilfe::N,cymorth,жэрдем
+342,Freund::N,cyfaill,дос
+343,Kamerad::N,cydymaith,дос-жар
+344,Angelegenheit::N,pwnc,жұмыс
+345,Anzahl::N,cyfrif,сан
+346,Anzahl::N,cyfrif,саны
+347,Art::N,bath,түр
+348,Stück::N,darn,тілім
+349,Teil::N,rhan,үлес
+350,Teil::N,rhan,бөлшек
+351,Hälfte::N,hanner,жарты
+352,Kreis::N,cylch,шеңбер
+353,Kreuz::N,croes,крест
+354,Linie::N,llinell,сызық
+355,Strich::N,strôc,сызық
+356,Strich::N,trawiad,сызық
+357,Abstand::N,bwlch,ара
+358,Abstand::N,bwlch,аралық
+359,Abstand::N,pellter,ара
+360,Abstand::N,pellter,аралық
+361,Entfernung::N,pellter,аралық
+362,Gegend::N,cylch,өңір
+363,Platz::N,lle,орны
+364,Ort::N,lle,орын
+365,Seite::N,ochr,жақ
+366,Seite::N,ochr,бүйір
+367,Mitte::N,canol,ортасы
+368,Gegenstand::N,eitem,зат
+369,Gegenstand::N,eitem,нәрсе
+370,Sache::N,peth,бұйым
+371,Rand::N,cwr,шет
+372,Rand::N,cwr,шеті
+373,Rand::N,ymyl,шет
+374,Rand::N,ymyl,шеті
+375,Kante::N,min,қыр
+376,Kante::N,min,қыры
+377,Kante::N,ymyl,қыр
+378,Kante::N,ymyl,қыры
+379,Ecke::N,cornel,қыры
+380,Ecke::N,cornel,бұрыш
+381,Spitze::N,blaen,ұшы
+382,Ende::N,pen,аяқ
+383,Ende::N,pen,соңы
+384,Loch::N,twll,тесік
+385,Winkel::N,congl,мүйіс
+386,Muster::N,patrwm,мәнер
+387,Größe::N,maint,ауқым
+388,Größe::N,maint,көлемдік
+389,Größe::N,maintioli,ауқым
+390,Größe::N,maintioli,көлемдік
+391,Länge::N,hyd,бой
+392,Länge::N,hyd,ұзындық
+393,Höhe::N,uchder,жоғарылық
+394,Höhe::N,uchder,биіктік
+395,Gewicht::N,pwysau,салмақ
+396,Menge::N,swm,мөлшер
+397,Menge::N,maint,мөлшер
+398,Haufen::N,pentwr,үйме
+399,Haufen::N,pentwr,үйінді
+400,Reihe::N,rhes,сап
+401,Boot::N,cwch,қайық
+402,Ruder::N,rhwyf,ескек
+403,Schlitten::N,sled,шана
+404,Schlitten::N,car llusg,шана
+405,Ski::N,sgi,шаңғы
+406,Lagerfeuer::N,coelcerth,алау
+407,Last::N,llwyth,ауырлық
+408,Last::N,llwyth,ауыр зат
+409,Gang::N,tro,жүріс
+410,Schritt::N,cam,адым
+411,Norden::N,gogledd,солтүстік
+412,Norden::N,gogledd,терістік
+413,Süden::N,de,оңтүстік
+414,Westen::N,gorllewin,батыс
+415,Osten::N,dwyrain,күншығыс
+416,Holz::N,pren,ағаш
+417,Holz::N,pren,сүрек
+418,Brett::N,bwrdd,тақта
+419,Brett::N,astell,тақта
+420,Platte::N,llech,тақта
+421,Stütze::N,ateg,тіреу
+422,Stütze::N,cynhalydd,тіреу
+423,Stange::N,polyn,қада
+424,Stock::N,ffon,сойыл
+425,Stock::N,brigyn,сойыл
+426,Stab::N,ffon,сырық
+427,Rohr::N,pibell,құбыр
+428,Haus::N,tŷ,үй
+429,Heim::N,cartref,үйлі
+430,Heim::N,cartref,шаңырақ
+431,Ofen::N,stof,ошақ
+432,Ofen::N,stof,пеш
+433,Fußboden::N,llawr,еден
+434,Tisch::N,bwrdd,үстел
+435,Stuhl::N,cadair,орындық
+436,Wiege::N,crud,бесік
+437,Bett::N,gwely,кереует
+438,Regal::N,silff,сөре
+439,Kiste::N,bocs,жәшік
+440,Kiste::N,blwch,жәшік
+441,Fenster::N,ffenestr,терезе
+442,Tür::N,drws,есік
+443,Tor::N,porth,дарбаза
+444,Zaun::N,ffens,дуал
+445,Dach::N,to,шатыр
+446,Leiter::N,ysgol,саты
+447,Leiter::N,ysgol,басқыш
+448,Besen::N,ysgub,сыпырғыш
+449,Spaten::N,rhaw,күрек
+450,Schaufel::N,rhaw,қалақ
+451,Gabel::N,fforc,аша
+452,Gabel::N,fforc,шанышқы
+453,Löffel::N,llwy,қасық
+454,Messer::N,cyllell,пышақ
+455,Nagel::N,hoel,мық
+456,Nagel::N,hoel,шеге
+457,Netz::N,gwe,керегекөз
+458,Netz::N,rhwyd,керегекөз
+459,Haken::N,bach,ілмек
+460,Griff::N,carn,сап
+461,Griff::N,carn,тұтқа
+462,Schloss::N,clo,құлып
+463,Schloss::N,clo,бекіткіш
+464,Bild::N,llun,сурет
+465,Bild::N,pictiwr,сурет
+466,Figur::N,ffigur,тұлға
+467,Puppe::N,dol,қуыршақ
+468,Beutel::N,cwd,қапшық
+469,Bündel::N,bwndel,байлам
+470,Bündel::N,coflaid,байлам
+471,Tasche::N,cod,дорба
+472,Eimer::N,bwced,шелек
+473,Eimer::N,cunnog,шелек
+474,Deckel::N,caead,жапқыш
+475,Geschirr::N,llestri,ыдыс
+476,Sack::N,sach,қап
+477,Tasse::N,cwpan,шыныаяқ
+478,Topf::N,pot,кәстрөл
+479,Topf::N,crochan,кәстрөл
+480,Kessel::N,tegell,қазан
+481,Essen::N,pryd o fwyd,ас
+482,Nahrung::N,bwyd,ас
+483,Nahrung::N,bwyd,тамақ
+484,Speise::N,saig,тағам
+485,Fleisch::N,cig,ет
+486,Getreide::N,ŷd,дәнді
+487,Getreide::N,llafur,дәнді
+488,Brei::N,uwd,ботқа
+489,Brot::N,bara,күлше
+490,Scheibe::N,tafell,тілім
+491,Fett::N,saim,май
+492,Fett::N,braster,май
+493,Butter::N,ymenyn,май
+494,Öl::N,olew,май
+495,Salz::N,halen,тұз
+496,Suppe::N,cawl,көже
+497,Honig::N,mêl,бал
+498,Milch::N,llaeth,сүт
+499,Milch::N,llefrith,сүт
+500,Tee::N,te,шай
+501,Leder::N,lledr,көн
+502,Wolle::N,gwlân,жүн
+503,Stoff::N,lliain,мата
+504,Stoff::N,lliain,кездеме
+505,Stoff::N,brethyn,мата
+506,Stoff::N,brethyn,кездеме
+507,Nadel::N,nodwydd,ине
+508,Faden::N,edau,жіп
+509,Faden::N,edefyn,жіп
+510,Knopf::N,botwm,түйме
+511,Knoten::N,cwlwm,түйін
+512,Farbe::N,paent,рең
+513,Kleidung::N,dillad,киім
+514,Kleidung::N,gwisgoedd,киім
+515,Hemd::N,crys,жейде
+516,Kragen::N,coler,жаға
+517,Ärmel::N,llawes,жең
+518,Hose::N,trowsus,шалбар
+519,Gürtel::N,gwregys,белбеу
+520,Mütze::N,cap,қалпақ
+521,Schuh::N,esgid,кебіс
+522,Stiefel::N,botasen,етік
+523,Ring::N,modrwy,жүзік
+524,Band::N,rhuban,таспа
+525,Kamm::N,crib,тарақ
+526,Spiegel::N,drych,айна
+527,Riemen::N,strap,қайыс
+528,Schnur::N,llinyn,жіп
+529,Leine::N,tennyn,тізгін
+530,Decke::N,blanced,көрпе
+531,Decke::N,gwrthban,көрпе
+532,Kissen::N,clustog,жастық
+533,Kissen::N,gobennydd,жастық
+534,Tuch::N,sgarff,орамал
+535,Handtuch::N,tywel,сүлгі
+536,Handtuch::N,lliain sychu,сүлгі
+537,Kraft::N,grym,қуат
+538,Kraft::N,grym,қарқын
+539,Kraft::N,grym,әл-шама
+540,Kraft::N,grym,әл-дәрмен
+541,Stärke::N,nerth,әл
+542,Stärke::N,nerth,күш
+543,Stärke::N,cryfder,әл
+544,Stärke::N,cryfder,күш
+545,Gesundheit::N,iechyd,денсаулык
+546,Krankheit::N,afiechyd,ауру
+547,Krankheit::N,anhwylder,ауру
+548,Schmerz::N,poen,ауру
+549,Schmerz::N,gwayw,ауру
+550,Wunde::N,clwyf,зақым
+551,Wunde::N,clwyf,жарақат
+552,Fieber::N,twymyn,безгек
+553,Fieber::N,twymyn,қалтырау
+554,Fieber::N,twymyn,қызу көтерілуі
+555,Arznei::N,meddyginiaeth,дәрі
+556,Arznei::N,meddyginiaeth,дәрі-дәрмек
+557,Brücke::N,pont,көпір
+558,Brunnen::N,ffynnon,құдық
+559,Weide::N,porfa,өріс
+560,Weide::N,porfa,жайылым
+561,Pfad::N,llwybr,жол
+562,Weg::N,ffordd,жол
+563,Straße::N,heol,жол
+564,Straße::N,ffordd,жол
+565,Dorf::N,pentref,ауыл
+566,Stadt::N,tref,қала
+567,Stadt::N,tref,шаһар
+568,Brief::N,llythyr,хат
+569,Brief::N,llythyr,жазу
+570,Buch::N,llyfr,кітап
+571,Buchstabe::N,llythyren,әріп
+572,Buchstabe::N,llythyren,қаріп
+573,Zeitung::N,papur newydd,газет
+574,Leben::N,bywyd,өмір
+575,Leben::N,bywyd,тіршілік
+576,Tod::N,marwolaeth,опат
+577,Grab::N,bedd,мола
+578,Grab::N,bedd,мазар
+579,Kirche::N,eglwys,шіркеу
+580,Sünde::N,pechod,күнә
+581,Gott::N,duw,алла
+582,Gott::N,duw,құдай
+583,Gott::N,duw,тәңірі
+584,Gott::N,duw,пәруардігер
+585,Gott::N,duw,жаратқан тәңірі
+586,Arbeiter::N,gweithiwr,жүмысшы
+587,Chef::N,pennaeth,басшы
+588,Chef::N,pennaeth,жұмыс басқарушысы
+589,Meister::N,meistr,шебер
+590,Meister::N,meistr,өнерпаз
+591,Arzt::N,meddyg,дәрігер
+592,Lehrer::N,athro,мұғалім
+593,Geld::N,pres,пұл
+594,Geld::N,arian,пұл
+595,Geschäft::N,busnes,бизнес
+596,Laden::N,siop,дүкен
+597,Preis::N,pris,ақы
+598,Preis::N,pris,құны
+599,Preis::N,pris,нарық
+600,Ware::N,nwydd,тауар
+601,Nutzen::N,elw,пайда
+602,Nutzen::N,budd,пайда
+603,Reichtum::N,cyfoeth,бақ-дәулет
+604,Welt::N,byd,әлем
+605,Welt::N,byd,жиһан
+606,Land::N,gwlad,аймақ
+607,Staat::N,gwladwriaeth,мемлекет
+608,König::N,brenin,патша
+609,Macht::N,grym,өкімет
+610,Macht::N,grym,қожалық
+611,Macht::N,awdurdod,өкімет
+612,Macht::N,awdurdod,қожалық
+613,Grenze::N,ffin,шек
+614,Grenze::N,goror,шек
+615,Krieg::N,rhyfel,соғыс
+616,Feind::N,gelyn,жау
+617,Feind::N,gelyn,дұшпан
+618,Gewalt::N,ffyrnigrwydd,зорлык
+619,Gewalt::N,ffyrnigrwydd,зорлық-зомбылык
+620,Kampf::N,brwydr,күрес
+621,Kampf::N,brwydr,алыспақ
+622,Bogen[Waffe]::N,bwa,саржа
+623,Pfeil::N,saeth,жебе
+624,Gewehr::N,dryll,қару
+625,Fehler::N,gwall,әбес
+626,Fehler::N,gwall,қаталық
+627,Fehler::N,camgymeriad,әбес
+628,Fehler::N,camgymeriad,қаталық
+629,Lüge::N,celwydd,өтірік
+630,Lüge::N,anwiredd,өтірік
+631,Schaden::N,niwed,зиян
+632,Schaden::N,niwed,зарар
+633,Schaden::N,difrod,зиян
+634,Schaden::N,difrod,зарар
+635,Unglück::N,anffawd,пәле
+636,Unglück::N,anffawd,қасырет
+637,Unglück::N,anffawd,ауыртпалық
+638,Schuld::N,bai,айыптылық
+639,Alter::N,oed,жас
+640,Alter::N,oed,жас шамасы
+641,Schluss::N,diwedd,ада
+642,Schluss::N,diwedd,бітуі
+643,Zeit::N,amser,уақыт
+644,Tag::N,dydd,күн
+645,Tag::N,diwrnod,күн
+646,Morgen::N,bore,таң
+647,Morgen::N,bore,таңертең
+648,Mittag::N,nawn,талтүс
+649,Abend::N,noswaith,кеш
+650,Nacht::N,nos,түн
+651,Woche::N,wythnos,апта
+652,Monat::N,mis,ай
+653,Jahr::N,blwyddyn,жыл
+654,Frühling::N,gwanwyn,көктем
+655,Sommer::N,haf,жаз
+656,Herbst::N,hydref,күз
+657,Winter::N,gaeaf,қыс
+658,Januar::N,Ionawr,каңтар
+659,Februar::N,Chwefror,ақпан
+660,März::N,Mawrth,наурыз
+661,April::N,Ebrill,сәуір
+662,Mai::N,Mai,мамыр
+663,Juni::N,Mehefin,маусым
+664,Juli::N,Gorffennaf,шілде
+665,August::N,Awst,сүмбіле
+666,August::N,Awst,тамыз
+667,September::N,Medi,қыркүйек
+668,Oktober::N,Hydref,ақырап
+669,November::N,Tachwedd,қараша
+670,Dezember::N,Rhagfyr,желтоқсан
+671,Montag::N,dydd Llun,дүйсенбі
+672,Dienstag::N,dydd Mawrth,сейсенбі
+673,Mittwoch::N,dydd Mercher,сәрсенбі
+674,Donnerstag::N,dydd Iau,бейсенбі
+675,Freitag::N,dydd Gwener,жұма
+676,Samstag::N,dydd Sadwrn,сенбі
+677,Sonntag::N,dydd Sul,жексембі
+678,groß::A,mawr,алпамсадай
+679,klein::A,bach,кішкене
+680,klein::A,bach,қарғадай
+681,lang::A,hir,сопақ
+682,lang::A,hir,сорайған
+683,kurz::A,byr,кеспелтек
+684,kurz::A,cwta,кеспелтек
+685,breit::A,llydan,айдынды
+686,schmal::A,cul,қысық
+687,dicht::A,dwys,жиі
+688,dick[Gegenstand]::A,trwchus,шомбал
+689,dünn::A,tenau,жұқа
+690,dünn::A,tenau,жіңішке
+691,fein::A,main,қаңылтақ
+692,fest::A,cadarn,берік
+693,fest::A,cadarn,мызғымас
+694,flach::A,gwastad,жалпак
+695,glatt::A,llyfn,типыл
+696,hart::A,caled,қатты
+697,weich::A,meddal,жұмсақ
+698,rund::A,crwn,домалақ
+699,spitz::A,pigfain,үшкір
+700,scharf::A,miniog,сүйрік
+701,stumpf::A,pŵl,доғал
+702,stumpf::A,pŵl,өтпейтін
+703,schwer::A,trwm,салмақты
+704,schön::A,teg,сұлу
+705,schön::A,hardd,сұлу
+706,schön::A,prydferth,сұлу
+707,heiß::A,poeth,ыссы
+708,warm::A,twym,жылы
+709,warm::A,cynnes,жылы
+710,kalt::A,oer,аязды
+711,kühl::A,oeraidd,салқын
+712,frisch::A,iach,таза
+713,frisch::A,iach,жаңа
+714,feucht::A,llaith,нам
+715,feucht::A,llaith,дымқылды
+716,nass::A,gwlyb,сулы
+717,trocken::A,sych,құрғақ
+718,voll::A,llawn,толы
+719,leer::A,gwag,бос
+720,offen::A,agored,ашып қойылған
+721,geschlossen::A,caead,жабулы
+722,geschlossen::A,caeëdig,жабулы
+723,sauber::A,glân,дақсыз
+724,sauber::A,glân,мұнтаздай
+725,schmutzig::A,budr,айғыз
+726,schmutzig::A,budr,сатпақ
+727,schmutzig::A,budr,сатал-сатал
+728,schmutzig::A,brwnt,айғыз
+729,schmutzig::A,brwnt,сатпақ
+730,schmutzig::A,brwnt,сатал-сатал
+731,roh::A,amrwd,шикі
+732,reif::A,aeddfed,піскен
+733,lecker::A,blasus,дәмді
+734,lecker::A,danteithiol,дәмді
+735,süß::A,melys,тәтті
+736,bitter::A,chwerw,ащы
+737,sauer::A,sur,қышқыл
+738,hell::A,disglair,жарық
+739,hell::A,disglair,жарқын
+740,dunkel::A,tywyll,қараңғы
+741,schwarz::A,du,қара
+742,weiß::A,gwyn,ақ
+743,rot::A,coch,қызыл
+744,gelb::A,melyn,сары
+745,blau::A,glas,көк
+746,grün::A,gwyrdd,жасыл
+747,grau::A,llwyd,бозамық
+748,bunt::A,lliwgar,алабажак
+749,billig::A,rhad,арзан
+750,teuer::A,drud,бағалы
+751,wertvoll::A,gwerthfawr,құнды
+752,wertvoll::A,gwerthfawr,қымбат
+753,blind::A,dall,көзсіз
+754,blind::A,dall,көр
+755,blind::A,dall,көр_соқыр
+756,taub::A,byddar,керең
+757,taub::A,byddar,саңырау
+758,kräftig::A,nerthol,қуатты
+759,kräftig::A,nerthol,қарымды
+760,kräftig::A,grymus,қуатты
+761,kräftig::A,grymus,қарымды
+762,stark::A,cryf,білекті
+763,stark::A,cadarn,білекті
+764,schwach::A,gwan,әлсіз
+765,schwach::A,gwan,күшсіз
+766,schwach::A,gwan,қайратсыз
+767,fett::A,tew,семіз
+768,schlank::A,main,ашаң
+769,hübsch::A,tlws,ажарлы
+770,hübsch::A,tlws,шырайлы
+771,böse::A,drwg,өш
+772,böse::A,drwg,сұм
+773,böse::A,drwg,жауыз
+774,dumm::A,twp,көкми
+775,dumm::A,twp,ақымақ
+776,dumm::A,twp,миы жоқ
+777,faul::A,diog,жалқау
+778,faul::A,diog,еріншек
+779,fleißig::A,dyfal,ұқыпты
+780,geizig::A,crintach,сараң
+781,geizig::A,cybyddlyd,сараң
+782,klug::A,deallus,жетік
+783,klug::A,deallus,ақылды
+784,geschickt::A,medrus,шебер
+785,geschickt::A,deheuig,шебер
+786,lieb::A,hoff,абзал
+787,lieb::A,hoff,айналайын
+788,lieb::A,annwyl,абзал
+789,lieb::A,annwyl,айналайын
+790,lustig::A,llon,көңілді
+791,sanft::A,mwyn,жуас
+792,hungrig::A,newynog,аш
+793,krank::A,sâl,кеселді
+794,krank::A,gwael,кеселді
+795,nackt::A,noeth,жалаңаш
+796,traurig::A,trist,қапа
+797,lebendig::A,yn fyw,тірі
+798,lebendig::A,yn fyw,жанды
+799,gut::A,da,жақсы
+800,schlecht::A,drwg,жаман
+801,schlecht::A,gwael,жаман
+802,richtig::A,cywir,дұрыс
+803,schlimm::A,enbyd,жаман
+804,wahr::A,gwir,нағыз
+805,alt::A,hen,ескі
+806,neu::A,newydd,жаңа
+807,ehemalig::A,blaenorol,өткен
+808,ehemalig::A,blaenorol,бұрынғы
+809,alt[Lebewesen]::A,oedrannus,кексе
+810,jung::A,ifanc,науша
+811,arm::A,tlawd,кедей
+812,arm::A,tlawd,дәулетсіз
+813,reich::A,cyfoethog,малды
+814,bekannt::A,cynefin,таныс
+815,bekannt::A,cynefin,көзтаныс
+816,bekannt::A,cyfarwydd,таныс
+817,bekannt::A,cyfarwydd,көзтаныс
+818,berühmt::A,enwog,атақты
+819,fremd::A,estron,бөтен
+820,verschieden::A,gwahanol,түрлі
+821,nah::A,agos,жуық
+822,nah::A,agos,етене
+823,fern::A,pell,алыс
+824,fern::A,pell,алыстағы
+825,linker::A,aswy,сол
+826,linker::A,aswy,солшыл
+827,linker::A,chwith,сол
+828,linker::A,chwith,солшыл
+829,rechter::A,de,оң
+830,rechter::A,deau,оң
+831,anderer::A,arall,өзге
+832,anderer::A,arall,былайғы
+833,erster::A,cyntaf,алғашқы
+834,zweiter::A,ail,екінші
+835,dritter::A,trydydd,үшінші
+836,letzter::A,olaf,артқы
+837,letzter::A,olaf,кейінгі
+838,allein::ADV,unig,серіксіз
+839,allein::ADV,ar ei ben ei hun,серіксіз
+840,auf einmal::ADV,ar yr un pryd,бірден
+841,zusammen::ADV,ynghyd,бірлесіп
+842,zusammen::ADV,gyda'i gilydd,бірлесіп
+843,lange::ADV,amser hir,ұзақ
+844,plötzlich::ADV,yn sydyn,кенет
+845,sofort::ADV,ar unwaith,әне-міне дегенше
+846,später::ADV,yn ddiweddarach,артынан
+847,jetzt::ADV,yn awr,енді
+848,jetzt::ADV,yn awr,қазір
+849,heute::ADV,heddiw,бүгін
+850,morgen::ADV,yfory,ертең
+851,bald::ADV,yn fuan,тез
+852,bald::ADV,gyda hyn,тез
+853,dann::ADV,yna,онан соң
+854,dann::ADV,yna,сонан соң
+855,dann::ADV,y pryd hwnnw,онан соң
+856,dann::ADV,y pryd hwnnw,сонан соң
+857,gestern::ADV,ddoe,кеше
+858,einst::ADV,gynt,бірде
+859,einst::ADV,gynt,бір кезде
+860,damals::ADV,ar y pryd,анада
+861,damals::ADV,bryd hynny,анада
+862,danach::ADV,wedyn,онан соң
+863,danach::ADV,wedyn,сонан соң
+864,vorher::ADV,o'r blaen,бұрын
+865,zuerst::ADV,yn gyntaf,әуелі
+866,zuerst::ADV,yn gyntaf,алдымен
+867,einmal::ADV,unwaith,бір жолы
+868,manchmal::ADV,weithiau,кейде
+869,manchmal::ADV,ar brydiau,кейде
+870,oft::ADV,yn aml,ылғи
+871,oft::ADV,yn fynych,ылғи
+872,immer::ADV,bob amser,өнебойы
+873,niemals::ADV,ni ... byth,ешуақытта
+874,niemals::ADV,ni ... erioed,ешуақытта
+875,hier::ADV,yma,бұнда
+876,hier::ADV,yma,осында
+877,hierhin::ADV,hyd yma,бермен
+878,von hier::ADV,oddi yma,бер жақтан
+879,dort::ADV,acw,анда
+880,dorthin::ADV,tuag yno,әрі
+881,geradeaus::ADV,syth ymlaen,тура
+882,vorwärts::ADV,ymlaen,ілгері
+883,rückwärts::ADV,yn ôl,артқа
+884,zurück::ADV,yn ôl,кейін қарай
+885,unten::ADV,isod,төменде
+886,unten::ADV,oddi tanodd,төменде
+887,hinab::ADV,i lawr,астына
+888,hinab::ADV,i lawr,төмен
+889,hinab::ADV,i waered,астына
+890,hinab::ADV,i waered,төмен
+891,oben::ADV,fry,жоғарыда
+892,hinauf::ADV,i fyny,өрге
+893,hinauf::ADV,i'r lan,өрге
+894,überall::ADV,ym mhobman,әрқайда
+895,nicht::ADV,ni,емес
+896,nicht::ADV,nid,емес
+897,ein wenig::ADV,tipyn,азырақ
+898,ein wenig::ADV,tipyn,аздаған
+899,ein wenig::ADV,tipyn,азғантай
+900,ein wenig::ADV,ychydig,азырақ
+901,ein wenig::ADV,ychydig,аздаған
+902,ein wenig::ADV,ychydig,азғантай
+903,kaum::ADV,prin,зорға
+904,sehr::ADV,iawn,орасан
+905,so::ADV,fel,бұлай
+906,so::ADV,fel,былайша
+907,so::ADV,felly,бұлай
+908,so::ADV,felly,былайша
+909,noch::ADV,eto,әлі
+910,nur::ADV,yn unig,ғана
+911,schon::ADV,eisoes,түге
+912,schon::ADV,yn barod,түге
+913,wieder::ADV,drachefn,жаңа
+914,wieder::ADV,drachefn,қайта
+915,wieder::ADV,drachefn,жаңадан
+916,vergebens::ADV,yn ofer,бекер
+917,vor::PRP,o flaen,алды
+918,hinter::PRP,ar ôl,артынан
+919,unter::PRP,islaw,түп
+920,unter::PRP,islaw,маңында
+921,durch::PRP,trwy,арқылы
+922,neben::PRP,ar bwys,іргеде
+923,neben::PRP,ar bwys,жанында
+924,zwischen::PRP,rhwng,арада
+925,zwischen::PRP,cydrhwng,арада
+926,wegen::PRP,o achos,үшін
+927,wegen::PRP,oherwydd,үшін
+928,dies::PRN,hyn,бұ
+929,dies::PRN,hyn,осы
+930,das::PRN,hynny,сол
+931,alles::PRN,popeth,дүйім
+932,alles::PRN,popeth,күллі
+933,ich::PRN,fi,мен
+934,du::PRN,ti,сен
+935,er::PRN,fe,ол
+936,wir::PRN,ni,біз
+937,ihr::PRN,chi,сіз
+938,sie::PRN,hwy,олар
+939,was::FPRN,pa beth,не
+940,wer::FPRN,pwy,кім
+941,wo::FADV,ble,кәні
+942,wo::FADV,ble,қайда
+943,wo::FADV,ym mha le,кәні
+944,wo::FADV,ym mha le,қайда
+945,wohin::FADV,i ble,қайда
+946,wohin::FADV,i ba le,қайда
+947,wie::FADV,sut,калай
+948,warum::FADV,pam,неғып
+949,wieviel::FNUM,faint,неше
+950,wieviel::FNUM,faint,қанша
+951,eins::NUM,un,бір
+952,zwei::NUM,dau,екі
+953,drei::NUM,tri,үш
+954,vier::NUM,pedwar,төрт
+955,fünf::NUM,pump,бес
+956,sechs::NUM,chwech,алты
+957,sieben::NUM,saith,жеті
+958,acht::NUM,wyth,сегіз
+959,neun::NUM,naw,тоғыз
+960,zehn::NUM,deg,он
+961,elf::NUM,un ar ddeg,он бір
+962,zwölf::NUM,deuddeg,он екі
+963,zwölf::NUM,un deg dau,он екі
+964,zwanzig::NUM,ugain,жиырма
+965,dreißig::NUM,tri deg,отыз
+966,dreißig::NUM,deg ar hugain,отыз
+967,vierzig::NUM,deugain,қырық
+968,fünfzig::NUM,hanner cant,елу
+969,sechzig::NUM,chwe deg,алпыс
+970,siebzig::NUM,saith deg,жетпіс
+971,siebzig::NUM,deg a thrigain,жетпіс
+972,achtzig::NUM,wyth deg,сексен
+973,achtzig::NUM,pedar ugain,сексен
+974,neunzig::NUM,naw deg,тоқсан
+975,neunzig::NUM,deg a phedwar ugain,тоқсан
+976,hundert::NUM,cant,жүз
+977,tausend::NUM,mil,мың
+978,und::CNJ,a,та
+979,oder::CNJ,neu,әлде
+980,oder::CNJ,neu,немесе
+981,stehen::V,sefyll,тұру
+982,sitzen::V,eistedd,отыру
+983,liegen::V,gorwedd,жату
+984,hängen::V,hongian,ілу
+985,werden::V,dod yn,болу
+986,werden::V,dod yn,түрегелу
+987,werden::V,mynd yn,болу
+988,werden::V,mynd yn,түрегелу
+989,passieren::V,digwydd,болу
+990,beginnen::V,cychwyn,басталу
+991,enden::V,gorffen,ада болу
+992,wechseln::V,newid,құбылу
+993,wechseln::V,newid,өзгеру
+994,aufgehen[Sonne]::V,codi,шығу
+995,untergehen[Sonne]::V,machlud,батыру
+996,scheinen[Sonne]::V,tywynnu,жылтырау
+997,donnern::V,taranu,күркіреу
+998,wehen::V,chwythu,огып тур
+999,strömen::V,ffrydio,сорғалау
+1000,fließen::V,llifo,ағу
+1001,sich drehen::V,troi,айналу
+1002,sich drehen::V,cylchdroi,айналу
+1003,schwanken::V,siglo,толықсу
+1004,schwingen::V,siglo,тербелу
+1005,fallen::V,cwympo,құлау
+1006,fallen::V,cwympo,жығылу
+1007,fallen::V,cwympo,төмендеу
+1008,brennen::V,llosgi,жану
+1009,rauchen::V,mygu,түтету
+1010,regnen::V,glawio,жауу
+1011,gefrieren::V,rhewi,мұздай қату
+1012,gefrieren::V,rhewi,мұз боп қату
+1013,tauen::V,toddi,жібу
+1014,tauen::V,meirioli,жібу
+1015,schmelzen::V,toddi,еру
+1016,trocknen::V,sychu,курау
+1017,sieden::V,berwi,қайнау
+1018,faulen::V,pydru,иістену
+1019,faulen::V,braenu,иістену
+1020,verfaulen::V,pydru,шіру
+1021,verfaulen::V,dadfeilio,шіру
+1022,reißen::V,clecian,жыртылу
+1023,reißen::V,torri'n glats,жыртылу
+1024,versinken::V,suddo,малтығу
+1025,vergehen::V,myned heibio,өту
+1026,vergehen::V,pasio,өту
+1027,erscheinen::V,ymddangos,көріну
+1028,erscheinen::V,ymddangos,көрініп қалу
+1029,verschwinden::V,diflannu,ғайып_болу
+1030,sinken::V,syrthio,ылдилау
+1031,sinken::V,syrthio,төмендеу
+1032,abnehmen::V,lleihau,кемітілу
+1033,zunehmen::V,cynyddu,көбею
+1034,steigen::V,codi,қобу
+1035,steigen::V,codi,көтерілу
+1036,steigen::V,codi,жоғарылау
+1037,wachsen::V,tyfu,өсу
+1038,glänzen::V,disgleirio,жалтырау
+1039,funkeln::V,pefrio,жарқырау
+1040,funkeln::V,pefrio,нұрлану
+1041,funkeln::V,pefrio,жылтылдау
+1042,lärmen::V,cadw sŵn,шулау
+1043,lärmen::V,cadw sŵn,шуылдау
+1044,lärmen::V,gwneud twrw,шулау
+1045,lärmen::V,gwneud twrw,шуылдау
+1046,läuten::V,canu,қоңыраулату
+1047,klingeln::V,canu,дыңғырлау
+1048,klingeln::V,seinio,дыңғырлау
+1049,klirren::V,tincian,дыңылдату
+1050,brausen::V,rhuo,тасу
+1051,rauschen::V,siffrwd,сусылдау
+1052,rauschen::V,siffrwd,сыбдырлау
+1053,rauschen::V,chwithrwd,сусылдау
+1054,rauschen::V,chwithrwd,сыбдырлау
+1055,klingen::V,seinio,дыбыс шығару
+1056,bellen::V,cyfarth,үру
+1057,heulen::V,udo,ұлу
+1058,heulen::V,oernadu,ұлу
+1059,blasen::V,chwythu,үру
+1060,pfeifen::V,chwibanu,ысқыру
+1061,schreien::V,gweiddi,шыңғыру
+1062,schreien::V,gweiddi,айғайлау
+1063,schreien::V,gweiddi,байбайлау
+1064,schreien::V,gweiddi,бажалақтау
+1065,schreien::V,bloeddio,шыңғыру
+1066,schreien::V,bloeddio,айғайлау
+1067,schreien::V,bloeddio,байбайлау
+1068,schreien::V,bloeddio,бажалақтау
+1069,stöhnen::V,griddfan,ыңырсу
+1070,stöhnen::V,griddfan,ыңкылдау
+1071,zittern::V,crynu,қалш
+1072,zittern::V,crynu,қалшылдату
+1073,leben::V,byw,жасау
+1074,leben::V,byw,күнелту
+1075,leben::V,byw,күн көру
+1076,leben::V,byw,тіршілік ету
+1077,geboren werden::V,cael eich geni,туу
+1078,atmen::V,anadlu,дем алу
+1079,atmen::V,anadlu,ауа жұту
+1080,trinken::V,yfed,ішу
+1081,trinken::V,yfed,ұрттау
+1082,essen::V,bwyta,жеу
+1083,essen::V,bwyta,тамақтану
+1084,schlucken::V,llyncu,жұту
+1085,müde werden::V,blino,болдыру
+1086,einschlafen::V,mynd i gysgu,үйыктап калу
+1087,einschlafen::V,syrthio i gysgu,үйыктап калу
+1088,schlafen::V,huno,ұйықтау
+1089,schlafen::V,cysgu,ұйықтау
+1090,aufwachen::V,dihuno,ояну
+1091,aufstehen::V,codi,ояну
+1092,sich erholen::V,ymlacio,тынығу
+1093,sich erholen::V,dadflino,тынығу
+1094,krank werden::V,mynd yn sâl,кеселдену
+1095,krank werden::V,mynd yn sâl,сырқаттану
+1096,krank werden::V,mynd yn sâl,ауырып қалу
+1097,krank werden::V,mynd yn sâl,ауыра бастау
+1098,krank werden::V,mynd yn sâl,кеселге ұшырау
+1099,krank werden::V,mynd yn sâl,сырқаттанып қалу
+1100,krank werden::V,mynd yn wael,кеселдену
+1101,krank werden::V,mynd yn wael,сырқаттану
+1102,krank werden::V,mynd yn wael,ауырып қалу
+1103,krank werden::V,mynd yn wael,ауыра бастау
+1104,krank werden::V,mynd yn wael,кеселге ұшырау
+1105,krank werden::V,mynd yn wael,сырқаттанып қалу
+1106,krank sein::V,gwaelu,ауыру
+1107,krank sein::V,gwaelu,сырқаттану
+1108,schmerzen::V,brifo,ауырады
+1109,husten::V,pesychu,жөтелу
+1110,genesen::V,gwella,айығу
+1111,genesen::V,cael yn ôl,айығу
+1112,sterben::V,marw,өлу
+1113,sterben::V,marw,қайтыс
+1114,sterben::V,marw,жантапсыру
+1115,umkommen::V,trengi,өлу
+1116,umkommen::V,trengi,қаза табу
+1117,sich bewegen::V,symud,жылжу
+1118,sich rühren::V,syflyd,қыбырлау
+1119,sich erheben::V,codi,тұру
+1120,sich setzen::V,eistedd,отыру
+1121,hinfallen::V,cwympo,жығылу
+1122,laufen::V,cerdded,жояу жүру
+1123,schreiten::V,camu,кадамдау
+1124,spazierengehen::V,mynd am dro,қыдыру
+1125,eilen::V,rhuthro,асығу
+1126,eilen::V,rhuthro,жеделдену
+1127,eilen::V,rhuthro,жедепдеу
+1128,sich beeilen::V,brysio,асығу
+1129,sich beeilen::V,brysio,жеделдену
+1130,sausen::V,rhuthro,заулау
+1131,rennen::V,rhedeg,жүгіру
+1132,springen::V,llamu,секіру
+1133,springen::V,neidio,секіру
+1134,klettern::V,dringo,өрмелеп шығу
+1135,schaukeln::V,siglo,тербелу
+1136,kriechen::V,cropian,еңбектеу
+1137,schwimmen::V,nofio,жүзу
+1138,schwimmen::V,nofio,малту
+1139,schwimmen::V,nofio,қалықтау
+1140,tauchen::V,plymio,сүңгу
+1141,tauchen::V,ymsuddo,сүңгу
+1142,rudern::V,rhwyfo,есу
+1143,fahren::V,gyrru,бару
+1144,fahren::V,dreifio,бару
+1145,fliegen::V,hedfan,ұшу
+1146,gehen::V,mynd,бару
+1147,weggehen::V,mynd,кету
+1148,weggehen::V,ymadael,кету
+1149,abfahren::V,ymadael,жөнелу
+1150,anhalten::V,stopio,тоқтау
+1151,hineingehen::V,mynd i mewn,кіру
+1152,eintreten::V,mynd i,ену
+1153,kommen::V,dod,жету
+1154,ankommen::V,cyrraedd,келу
+1155,zurückkommen::V,dychwelyd,қайту
+1156,bleiben::V,aros,қалу
+1157,bleiben::V,sefyll,қалу
+1158,warten::V,aros,тосу
+1159,warten::V,disgwyl,тосу
+1160,erwarten::V,disgwyl,күту
+1161,suchen::V,chwilio am,іздеу
+1162,finden::V,darganfod,табу
+1163,versuchen::V,profi,талпыну
+1164,versuchen::V,ceisio,талпыну
+1165,vorbereiten::V,paratoi,әзірлеу
+1166,lieben::V,caru,сүю
+1167,mögen::V,hoffi,жарату
+1168,mögen::V,hoffi,жақсы_көру
+1169,lachen::V,chwerthin,күлу
+1170,lachen::V,chwerthin,күлісу
+1171,rühren::V,cynhyrfu,көңілін бұзу
+1172,weinen::V,wylo,жылау
+1173,weinen::V,llefain,жылау
+1174,schimpfen::V,grwgnach,ақырып-бақыру
+1175,sich ärgern::V,gofidio,ашулану
+1176,sich fürchten::V,ofni,сескену
+1177,fürchten::V,arswydo,қауіптену
+1178,fürchten::V,arswydo,сақсыну
+1179,fliehen::V,ffoi,қашу
+1180,fliehen::V,ffoi,қашып кету
+1181,flüchten::V,dianc,қашу
+1182,flüchten::V,dianc,қашып кету
+1183,sehen::V,gweld,көру
+1184,anschauen::V,syllu,назар салу
+1185,anschauen::V,edrych,назар салу
+1186,ansehen::V,gwylio,тамашалау
+1187,hören::V,clywed,есту
+1188,zuhören::V,gwrando,тыңдау
+1189,zuhören::V,gwrando,құлақ қою
+1190,probieren::V,profi,тату
+1191,probieren::V,profi,дәм тату
+1192,riechen::V,arogli,иіскеу
+1193,fühlen::V,teimlo,сезу
+1194,fühlen::V,teimlo,сезіну
+1195,fühlen::V,clywed,сезу
+1196,fühlen::V,clywed,сезіну
+1197,scheinen::V,ymddangos,болып көріну
+1198,zu sehen sein::V,dod i'r golwg,көріну
+1199,vernehmen::V,clywed sôn am,есту
+1200,vernehmen::V,clywed sôn am,есітіп қалу
+1201,frieren::V,bod yn oer,тоңу
+1202,frieren::V,bod yn oer,жаурау
+1203,tun::V,gwneud,ету
+1204,tun::V,gwneud,істеу
+1205,können::V,gallu,білу
+1206,wollen::V,bod mewn angen,қалау
+1207,anfangen::V,dechrau,бастау
+1208,beenden::V,darfod,бітіру
+1209,beenden::V,darfod,адақтау
+1210,beenden::V,darfod,тамамдау
+1211,beenden::V,darfod,аяқтап шығу
+1212,beenden::V,gorffen,бітіру
+1213,beenden::V,gorffen,адақтау
+1214,beenden::V,gorffen,тамамдау
+1215,beenden::V,gorffen,аяқтап шығу
+1216,aufhören::V,peidio,доғару
+1217,gelingen::V,llwyddo,жолы түсу
+1218,geraten::V,diweddu,калу
+1219,öffnen::V,agor,ашу
+1220,öffnen::V,agor,ашып қою
+1221,schließen::V,cau,жабу
+1222,stellen::V,gosod,қою
+1223,stellen::V,gosod,қойдыру
+1224,setzen::V,gosod,отырғызу
+1225,legen::V,gosod,салу
+1226,legen::V,gosod,калау
+1227,berühren::V,cyffwrdd,тию
+1228,verbinden::V,cysylltu,байлап алу
+1229,verbinden::V,cysylltu,сабақтастыру
+1230,bedecken::V,gorchuddio,бүркеу
+1231,aufhängen::V,crogi,ілу
+1232,aufhängen::V,crogi,асып қою
+1233,aufhängen::V,hongian,ілу
+1234,aufhängen::V,hongian,асып қою
+1235,anzünden::V,cynnau,тұтату
+1236,aufheben::V,codi,көтеру
+1237,zurücklassen::V,gadael,қалдыру
+1238,verlieren::V,colli,жоғалту
+1239,fallen lassen::V,gollwng,құлатып алу
+1240,fallen lassen::V,gollwng,қолдан түсіріп алу
+1241,machen::V,gwneud,ету
+1242,machen::V,gwneud,жасау
+1243,machen::V,gwneud,жасап шығару
+1244,herstellen::V,cynhyrchu,жасап шығару
+1245,bauen::V,adeiladu,тұрғызу
+1246,reparieren::V,trwsio,оңдау
+1247,reparieren::V,atgyweirio,оңдау
+1248,verbessern::V,diwygio,дұрыстау
+1249,ändern::V,altro,өзгерту
+1250,graben::V,palu,үңгу
+1251,graben::V,cloddio,үңгу
+1252,beugen::V,plygu,буғу
+1253,biegen::V,plygu,ию
+1254,biegen::V,plygu,майыстыру
+1255,drehen::V,troelli,айналдыру
+1256,wenden::V,troi,екінші жағын айналдыру
+1257,umdrehen::V,troi,бұру
+1258,heben::V,codi,көтеру
+1259,hochheben::V,dyrchafu,жоғарылату
+1260,hochheben::V,dyrchafu,көтеру
+1261,ergreifen::V,gafael,бас_салу
+1262,ergreifen::V,gafael,шап_беріп_ұстап_алу
+1263,ergreifen::V,gafael,шап_беру
+1264,ergreifen::V,gafael,шап_ете_түсу
+1265,halten::V,dal,тұту
+1266,halten::V,dal,ұстау
+1267,drücken::V,pwyso,басу
+1268,drücken::V,gwasgu,басу
+1269,schieben::V,gwthio,итеру
+1270,kratzen::V,crafu,қыру
+1271,lecken::V,llyfu,жалау
+1272,beißen::V,cnoi,қабу
+1273,beißen::V,cnoi,тістеу
+1274,beißen::V,cnoi,қауып алу
+1275,beißen::V,brathu,қабу
+1276,beißen::V,brathu,тістеу
+1277,beißen::V,brathu,қауып алу
+1278,abreißen::V,tynnu ymaith,үзу
+1279,abschneiden::V,torri,қырқу
+1280,binden::V,clymu,байланыстыру
+1281,binden::V,clymu,байлап_алу
+1282,binden::V,clymu,байластыру
+1283,binden::V,clymu,байлау
+1284,binden::V,clymu,буу
+1285,binden::V,clymu,матау
+1286,binden::V,clymu,сабақтастыру
+1287,binden::V,clymu,ұштастыру
+1288,stecken::V,plannu,сұғу
+1289,brechen::V,torri,сындыру
+1290,klopfen::V,taro,қағу
+1291,hauen::V,taro,соғу
+1292,kleben::V,gludio,желімдеу
+1293,reiben::V,rhwbio,үйкеу
+1294,streichen::V,taenu,сүйкеу
+1295,schleifen::V,hogi,егеу
+1296,schleifen::V,hogi,қайрау
+1297,schleifen::V,hogi,егеулеу
+1298,schneiden::V,torri,кесу
+1299,rütteln::V,ysgytio,қозғау
+1300,rütteln::V,ysgytio,жұлмалау
+1301,schütteln::V,siglo,дірілдету
+1302,schütteln::V,siglo,селкілдету
+1303,schütteln::V,ysgwyd,дірілдету
+1304,schütteln::V,ysgwyd,селкілдету
+1305,schwenken::V,siglo,бұлғау
+1306,schwenken::V,siglo,сермеу
+1307,schütten::V,tywallt,құю
+1308,füllen::V,llenwi,толтыру
+1309,einwickeln::V,lapio,орау
+1310,tragen::V,cludo,алып жүру
+1311,schleppen::V,llusgo,тарту
+1312,ziehen::V,tynnu,тарту
+1313,aufbewahren::V,cadw,сақтау
+1314,werfen::V,taflu,лақтыру
+1315,fangen::V,dal,қармау
+1316,fangen::V,dal,қағып алу
+1317,packen::V,cipio,шап беру
+1318,packen::V,cipio,шап ете түсу
+1319,packen::V,cipio,шап беріп ұстап алу
+1320,packen::V,crafangu,шап беру
+1321,packen::V,crafangu,шап ете түсу
+1322,packen::V,crafangu,шап беріп ұстап алу
+1323,verstecken::V,celu,тығу
+1324,verstecken::V,celu,жасыру
+1325,verstecken::V,cuddio,тығу
+1326,verstecken::V,cuddio,жасыру
+1327,teilen::V,rhannu,бөлу
+1328,schicken::V,anfon,жіберу
+1329,bringen::V,dod â,әкелу
+1330,bringen::V,dod â,алып келу
+1331,hinzufügen::V,chwanegu,қосу
+1332,hinzufügen::V,chwanegu,үстеу
+1333,bekommen::V,cael,алу
+1334,erhalten::V,derbyn,алмақ
+1335,nehmen::V,cymryd,алу
+1336,nehmen::V,cymryd,алмақ
+1337,wählen::V,dewis,таңдау
+1338,auswählen::V,dethol,екшеу
+1339,auswählen::V,dethol,саралау
+1340,auswählen::V,dethol,сұрыптау
+1341,auswählen::V,dethol,сайлап алу
+1342,bewahren::V,cadw,сақтау
+1343,behindern::V,atal,оралғы болу
+1344,behindern::V,rhwystro,оралғы болу
+1345,verderben::V,difetha,бүлдіру
+1346,beschädigen::V,niweidio,бұзу
+1347,zerbrechen::V,torri,уату
+1348,zerreißen::V,rhwygo,жырту
+1349,zerstören::V,dinistrio,қирату
+1350,zerstören::V,dinistrio,талқандау
+1351,verbrennen::V,llosgi,өртеу
+1352,verbrennen::V,llosgi,жандыру
+1353,verbrennen::V,llosgi,өртеп жіберу
+1354,verbrennen::V,llosgi,жандырып жіберу
+1355,geben::V,rhoi,беру
+1356,reichen::V,estyn,беру
+1357,schenken::V,rhoddi,тарту
+1358,versprechen::V,addo,уәде беру
+1359,wünschen::V,dymuno,тілеу
+1360,loben::V,canmol,мақтау
+1361,loben::V,canmol,дәріптеу
+1362,küssen::V,cusanu,сүю
+1363,wiegen::V,siglo,тербеу
+1364,zudecken::V,gorchuddio,бүркеу
+1365,wecken::V,deffro,ояту
+1366,zeigen::V,dangos,көрсету
+1367,führen::V,arwain,ерту
+1368,führen::V,arwain,жетектеу
+1369,lehren::V,dysgu,оқыту
+1370,unterrichten::V,hyfforddi,оқыту
+1371,aufziehen::V,dod i fyny,бағу
+1372,leiten::V,arwain,басқару
+1373,leiten::V,arwain,жетекшілік ету
+1374,antreiben::V,annog,асықтыру
+1375,lassen::V,gadael,-ткізу
+1376,lassen::V,gadael,мәжбүр ету
+1377,einladen::V,gwahodd,шақыру
+1378,vereinigen::V,uno,біріктіру
+1379,vereinigen::V,uno,біріктіріп қою
+1380,vereinigen::V,cyfuno,біріктіру
+1381,vereinigen::V,cyfuno,біріктіріп қою
+1382,besuchen::V,ymweld â,кіріп шығу
+1383,besuchen::V,ymweld â,барып шығу
+1384,treffen::V,cwrdd,кездесу
+1385,treffen::V,cyfarfod,кездесу
+1386,sich versammeln::V,casglu,топталу
+1387,sich versammeln::V,cynnull,топталу
+1388,spielen::V,chwarae,ойнау
+1389,singen::V,canu,сайрау
+1390,tanzen::V,dawnsio,билеу
+1391,sich trennen::V,ymwahanu,айрылысу
+1392,verlassen::V,gadael,тастау
+1393,retten::V,achub,құтқару
+1394,bewachen::V,gwarchod,күзету
+1395,schützen::V,noddi,жақтау
+1396,schützen::V,noddi,жақтасу
+1397,verteidigen::V,amddiffyn,қорғау
+1398,sich schlagen::V,ffraeo,алысу
+1399,sich schlagen::V,terfysgu,алысу
+1400,schießen::V,saethu,ату
+1401,siegen::V,ennill,жеңу
+1402,ärgern::V,cythruddo,ашуландыру
+1403,schlagen::V,curo,ұру
+1404,treten::V,cicio,тебу
+1405,stechen::V,pigo,шаншу
+1406,stoßen::V,gwthio,түрту
+1407,stehlen::V,dwyn,ұрлау
+1408,stehlen::V,lladrata,ұрлау
+1409,stören::V,aflonyddu,кесірлен
+1410,belästigen::V,trafferthu,мазасын алу
+1411,verbergen::V,cuddio,сездірмеу
+1412,täuschen::V,twyllo,жалған айту
+1413,betrügen::V,hocedu,алдау
+1414,betrügen::V,hocedu,алдап кету
+1415,betrügen::V,hocedu,ақымақ қылу
+1416,töten::V,lladd,құрту
+1417,töten::V,lladd,өлтіру
+1418,wohnen::V,byw,мекендеу
+1419,wohnen::V,byw,өмір сүру
+1420,arbeiten::V,gweithio,істеу
+1421,arbeiten::V,gweithio,еңбектену
+1422,sammeln::V,casglu,жыю
+1423,pflücken::V,casglu,жұлу
+1424,jagen::V,hela,аулау
+1425,fischen::V,pysgota,балык_аулау
+1426,fassen::V,dal,ұстау
+1427,hüten::V,bugeilio,жаю
+1428,hüten::V,bugeilio,бағу
+1429,treiben::V,gyrru,айдау
+1430,anbinden::V,clymu,байлау
+1431,füttern::V,porthi,ас ішкізу
+1432,füttern::V,porthi,азықтандыру
+1433,füttern::V,porthi,қоректендіру
+1434,melken::V,godro,сауу
+1435,hacken::V,torri,турау
+1436,gießen::V,dyfrhau,суару
+1437,reifen::V,aeddfedu,жетілу
+1438,zubereiten::V,coginio,даяр ету
+1439,kochen::V,berwi,асу
+1440,backen::V,pobi,пісіру
+1441,backen::V,crasu,пісіру
+1442,braten::V,ffrio,қуыру
+1443,umrühren::V,cyffroi,былғалау
+1444,umrühren::V,cyffroi,сапырылыстыру
+1445,stricken::V,gwau,торлау
+1446,stricken::V,gwau,тоқу
+1447,nähen::V,gwnïo,тігу
+1448,färben::V,lliwio,бояу
+1449,färben::V,lliwio,сырлау
+1450,reinigen::V,glanhau,аршу
+1451,reinigen::V,glanhau,тазалау
+1452,waschen::V,golchi,жуу
+1453,abwischen::V,sychu,сүрту
+1454,spülen::V,streulio,шаю
+1455,fegen::V,ysgubo,сыпыру
+1456,kehren::V,ysgubo,сыпыру
+1457,baden::V,cael bath,шомылу
+1458,sich waschen::V,ymolchi,жуыну
+1459,ausziehen::V,tynnu,шешу
+1460,anziehen::V,gwisgo,кигізу
+1461,sich anziehen::V,ymwisgo,киіну
+1462,kämmen::V,cribo,тарау
+1463,schmücken::V,harddu,әсемдеу
+1464,schmücken::V,harddu,мәнерлеу
+1465,schmücken::V,harddu,көріктендіру
+1466,schmücken::V,addurno,әсемдеу
+1467,schmücken::V,addurno,мәнерлеу
+1468,schmücken::V,addurno,көріктендіру
+1469,sagen::V,dweud,деу
+1470,sagen::V,dweud,айту
+1471,sprechen::V,llefaru,деу
+1472,sprechen::V,llefaru,айту
+1473,reden::V,siarad,сөйлеу
+1474,reden::V,siarad,сөйлесу
+1475,reden::V,siarad,тіл қатысу
+1476,sich unterhalten::V,sgwrsio,сұхбаттасу
+1477,fragen::V,gofyn,сұрау
+1478,bitten::V,gofyn am,өтіну
+1479,bitten::V,gofyn am,жалыну
+1480,erzählen::V,dweud,айту
+1481,mitteilen::V,cyfleu,білдіру
+1482,nennen::V,enwi,атау
+1483,rufen::V,galw,шақыру
+1484,prahlen::V,brolio,бөсу
+1485,prahlen::V,ymffrostio,бөсу
+1486,übersetzen::V,cyfieithu,аудару
+1487,denken::V,meddwl,ойлау
+1488,glauben::V,credu,нану
+1489,glauben::V,credu,илану
+1490,glauben::V,coelio,нану
+1491,glauben::V,coelio,илану
+1492,bemerken::V,sylwi,аңғару
+1493,erkennen::V,adnabod,тану
+1494,begreifen::V,amgyffred,ұғу
+1495,begreifen::V,amgyffred,аңғарып алу
+1496,verstehen::V,deall,пайым
+1497,verstehen::V,deall,түсіну
+1498,lernen::V,dysgu,оқу
+1499,wissen::V,gwybod,хабардар болу
+1500,sich erinnern an::V,cofio,еске түсіру
+1501,vergessen::V,anghofio,ұмыту
+1502,messen::V,mesur,өлшеу
+1503,zählen::V,cyfrif,санау
+1504,rechnen::V,cyfrifo,санап шығару
+1505,rechnen::V,cyfrifo,санап шығу
+1506,rechnen::V,cyfrifo,санау
+1507,lesen::V,darllen,оқу
+1508,malen::V,peintio,сурет салу
+1509,zeichnen::V,tynnu,сурет салу
+1510,schreiben::V,ysgrifennu,жазу
+1511,besitzen::V,meddu,болу
+1512,kaufen::V,prynu,алу
+1513,kaufen::V,prynu,әперу
+1514,verkaufen::V,gwerthu,сату
+1515,bezahlen::V,talu am,төлеу
+1516,bezahlen::V,talu am,ақы беру
+1517,bezahlen::V,talu am,ақы төлеу
+1518,zahlen::V,talu,төлеу
+1519,beherrschen::V,rheoli,билеу
+1520,beherrschen::V,llywodraethu,билеу
+1521,ertragen::V,dioddef,төзу
+1522,ertragen::V,dioddef,шыдау

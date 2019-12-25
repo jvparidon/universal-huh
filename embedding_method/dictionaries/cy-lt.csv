@@ -1,0 +1,1522 @@
+,Concept_ID,cy,lt
+0,Auge::N,llygad,akis
+1,Ohr::N,clust,ausis
+2,Nase::N,trwyn,nosis
+3,Mund::N,ceg,burna
+4,Zahn::N,dant,dantis
+5,Zunge::N,tafod,liežuvis
+6,Lippe::N,gwefus,lūpa
+7,Wange::N,boch,žandas
+8,Wange::N,boch,skruostas
+9,Gesicht::N,wyneb,veidas
+10,Stirn::N,talcen,kakta
+11,Haar::N,blew,plaukai
+12,Schnurrbart::N,mwstas,ūsai
+13,Bart::N,barf,barzda
+14,Kinn::N,gên,smakras
+15,Kiefer[Anatomie]::N,gên,žandikaulis
+16,Kehle::N,gwddf,gerklė
+17,Hals::N,gwddf,kaklas
+18,Genick::N,gwar,sprandas
+19,Genick::N,gwegil,sprandas
+20,Kopf::N,pen,galva
+21,Rücken::N,cefn,nugara
+22,Bauch::N,bol,pilvas
+23,Nabel::N,bogail,bamba
+24,Busen::N,bron,krūtinė
+25,Brust::N,brest,krūtis
+26,Schulter::N,ysgwydd,petys
+27,Arm::N,braich,ranka
+28,Ellenbogen::N,penelin,alkūnė
+29,Hand::N,llaw,ranka
+30,Hand::N,llaw,plaštaka
+31,Handfläche::N,palf,delnas
+32,Handfläche::N,palf,plaštaka
+33,Finger::N,bys,pirštas
+34,Fingernagel::N,ewin,nagas
+35,Nagel[Anatomie]::N,ewin,nagas
+36,Zeh::N,bys troed,pirštas
+37,Fuß::N,troed,pėda
+38,Ferse::N,sawdl,kulnas
+39,Knie::N,glin,kelis
+40,Oberschenkel::N,clun,kulšis
+41,Oberschenkel::N,clun,šlaunis
+42,Bein::N,coes,koja
+43,Körper::N,corff,kūnas
+44,Haut::N,croen,oda
+45,Blut::N,gwaed,kraujas
+46,Ader::N,gwythïen,kraujagyslė
+47,Sehne::N,gewyn,sausgyslė
+48,Knochen::N,asgwrn,kaulas
+49,Gehirn::N,ymennydd,smegenys
+50,Herz::N,calon,širdis
+51,Magen::N,cylla,skrandis
+52,Magen::N,stumog,skrandis
+53,Leber::N,iau,kepenys
+54,Atem::N,anadl,kvapas
+55,Hunger::N,newyn,badas
+56,Hunger::N,newyn,alkis
+57,Träne::N,deigryn,ašara
+58,Geschmack::N,cyflas,skonis
+59,Geruch::N,aroglau,kvapas
+60,Schlaf::N,cwsg,miegas
+61,Traum::N,breuddwyd,sapnas
+62,Himmel::N,awyr,dangus
+63,Sonne::N,haul,saulė
+64,Mond::N,lleuad,mėnulis
+65,Stern::N,seren,žvaigždė
+66,Luft::N,awyr,oras
+67,Wind::N,gwynt,vėjas
+68,Welle::N,ton,banga
+69,Welle::N,ton,vilnis
+70,Wasser::N,dŵr,vanduo
+71,Stein::N,carreg,akmuo
+72,Boden::N,llawr,žemė
+73,Boden::N,llawr,dugnas
+74,Erde::N,pridd,žemė
+75,Staub::N,llwch,dulkės
+76,Rauch::N,mwg,dūmai
+77,Funke::N,gwreichioni,kibirkštis
+78,Feuer::N,tân,ugnis
+79,Licht::N,golau,šviesa
+80,Schatten::N,cysgod,paūksmė
+81,Wetter::N,tywydd,oras
+82,Nebel::N,niwl,migla
+83,Nebel::N,niwl,rūkas
+84,Wolke::N,cwmwl,debesis
+85,Regen::N,glaw,lietus
+86,Schnee::N,ôd,sniegas
+87,Schnee::N,eira,sniegas
+88,Eis::N,iâ,ledas
+89,Frost::N,rhew,šalna
+90,Kälte::N,oerni,šaltis
+91,Kälte::N,annwyd,šaltis
+92,Hitze::N,gwres,karštis
+93,Raureif::N,barrug,šerkšnas
+94,Regenbogen::N,enfys,vaivorykštė
+95,Donner::N,tyrfau,perkūnas
+96,Donner::N,tyrfau,griaustinis
+97,Strömung::N,cerrynt,tėkmė
+98,Tropfen::N,dafn,lašas
+99,Tropfen::N,diferyn,lašas
+100,Schaum::N,ewyn,putos
+101,Schmutz::N,baw,purvas
+102,Schmutz::N,budreddi,purvas
+103,See::N,llyn,ežeras
+104,Sumpf::N,cors,klampynė
+105,Sumpf::N,cors,liūnas
+106,Moor::N,rhos,pelkė
+107,Wiese::N,dôl,pieva
+108,Wald::N,coedwig,miškas
+109,Hügel::N,bryn,kalva
+110,Anhöhe::N,bryn,kauburys
+111,Berg::N,mynydd,kalnas
+112,Gipfel::N,copa,viršūnė
+113,Höhle::N,ogof,ola
+114,Abhang::N,llethr,šlaitas
+115,Abhang::N,llethr,nuokalnė
+116,Quelle::N,tarddiad,versmė
+117,Quelle::N,tarddiad,šaltinis
+118,Quelle::N,ffynhonnell,versmė
+119,Quelle::N,ffynhonnell,šaltinis
+120,Bach::N,nant,upelis
+121,Bach::N,afonig,upelis
+122,Bach::N,cornant,upelis
+123,Fluss::N,afon,upė
+124,Ufer::N,glan,krantas
+125,Küste::N,traeth,pajūris
+126,Küste::N,arfordir,pajūris
+127,Festland::N,tir,sausuma
+128,Meer::N,môr,jūra
+129,Bucht::N,bae,įlanka
+130,Bucht::N,bae,užutekis
+131,Insel::N,ynys,sala
+132,Blume::N,blodyn,gėlė
+133,Gras::N,glaswellt,žolė
+134,Wurzel::N,gwreiddyn,šaknis
+135,Baum::N,coeden,medis
+136,Stamm::N,colfen,kamienas
+137,Stamm::N,boncyff,kamienas
+138,Rinde::N,rhisgl,žievė
+139,Ast::N,cangen,šaka
+140,Zweig::N,cainc,šakelė
+141,Zweig::N,cangen,šakelė
+142,Blatt::N,deilen,lapas
+143,Birke::N,bedwen,beržas
+144,Kiefer[Baum]::N,pinwydden,pušis
+145,Weide[Baum]::N,helygen,karklas
+146,Tanne::N,ffynidwydden,eglė
+147,Tanne::N,ffynidwydden,kėnis
+148,Horn::N,corn,ragas
+149,Feder::N,plufyn,plunksna
+150,Fell::N,ffwr,kailis
+151,Flügel::N,adain,sparnas
+152,Klaue::N,crafanc,kanopa
+153,Kralle::N,ewin,nagas
+154,Schwanz::N,cwt,uodega
+155,Schwanz::N,cynffon,uodega
+156,Ei::N,wy,kiaušinis
+157,Nest::N,nyth,gūžta
+158,Nest::N,nyth,lizdas
+159,Bau::N,ffau,ola
+160,Tier::N,anifail,gyvūnas
+161,Herde::N,praidd,banda
+162,Herde::N,praidd,kaimenė
+163,Herde::N,diadell,banda
+164,Herde::N,diadell,kaimenė
+165,Kuh::N,buwch,karvė
+166,Bulle::N,tarw,bulius
+167,Pferd::N,ceffyl,arklys
+168,Schaf::N,dafad,avis
+169,Schwein::N,mochyn,kiaulė
+170,Hund::N,ci,šuo
+171,Katze::N,cath,katė
+172,Bär::N,arth,lokys
+173,Eichhörnchen::N,gwiwer,voveraitė
+174,Elch::N,elc,briedis
+175,Fuchs::N,cadno,lapė
+176,Hase::N,ysgyfarnog,kiškas
+177,Maus::N,llygoden,pelė
+178,Wolf::N,blaidd,vilkas
+179,Vogel::N,aderyn,paukštis
+180,Schwarm::N,haid,spiečius
+181,Huhn::N,cyw,višta
+182,Hahn::N,ceiliog,gaidys
+183,Gans::N,gŵydd,žąsis
+184,Adler::N,eryr,erelis
+185,Ente::N,hwyad,antis
+186,Eule::N,tylluan,pelėda
+187,Kranich::N,garan,gervė
+188,Kranich::N,crychydd,gervė
+189,Krähe::N,brân,varna
+190,Kuckuck::N,cog,gegužė
+191,Kuckuck::N,cwcw,gegužė
+192,Schwan::N,alarch,gulbė
+193,Fisch::N,pysgod,žuvis
+194,Barsch::N,draenog,ešerys
+195,Hecht::N,penhwyad,lydeka
+196,Schlange[Tier]::N,neidr,gyvatė
+197,Wurm::N,abwydyn,kirmėlė
+198,Wurm::N,pryf genwair,kirmėlė
+199,Spinne::N,cor,voras
+200,Spinne::N,pryf copyn,voras
+201,Ameise::N,morgrugyn,skruzdė
+202,Laus::N,lleuen,utėlė
+203,Mücke::N,gwybedyn,uodas
+204,Fliege::N,cleren,musė
+205,Schmetterling::N,glöyn byw,drugys
+206,Schmetterling::N,glöyn byw,peteliškė
+207,Schmetterling::N,iâr fach yr haf,drugys
+208,Schmetterling::N,iâr fach yr haf,peteliškė
+209,Beere::N,aeronen,uoga
+210,Apfel::N,afal,obuolys
+211,Pilz::N,madarch,grybas
+212,Zwiebel::N,nionyn,svogūnas
+213,Zwiebel::N,winwnsyn,svogūnas
+214,Saat::N,had,sėkla
+215,Korn::N,grawn,grūdai
+216,Heu::N,gwair,šienas
+217,Schale::N,croen,žievelė
+218,Schale::N,plisgyn,žievelė
+219,Grube::N,pwll,duobė
+220,Grube::N,pydew,duobė
+221,Falle::N,magl,pinklės
+222,Falle::N,magl,žabangai
+223,Schlinge::N,cwlwm rhedeg,kilpa
+224,Spur::N,ôl,vėžė
+225,Spur::N,ôl,pėdos
+226,Spur::N,ôl,pėdsakas
+227,Asche::N,lludw,pelenai
+228,Dreck::N,baw,purvas
+229,Dreck::N,budreddi,purvas
+230,Eisen::N,haearn,geležis
+231,Gold::N,aur,auksas
+232,Silber::N,arian,sidabras
+233,Kohle::N,glo,anglis
+234,Glas::N,gwydr,stiklas
+235,Lehm::N,clai,molis
+236,Sand::N,tywod,smėlis
+237,Mensch::N,dyn,žmogus
+238,Mann::N,dyn,vyras
+239,Mann::N,dyn,vyriškis
+240,Frau::N,merch,moteris
+241,Frau::N,gwraig,moteris
+242,Kind::N,plentyn,vaikas
+243,Junge::N,hogyn,vaikinas
+244,Junge::N,hogyn,berniukas
+245,Junge::N,bachgen,vaikinas
+246,Junge::N,bachgen,berniukas
+247,Mädchen::N,merch,mergytė
+248,Mädchen::N,merch,mergaitė
+249,Mädchen::N,geneth,mergytė
+250,Mädchen::N,geneth,mergaitė
+251,Familie::N,teulu,šeima
+252,Familie::N,tylwyth,šeima
+253,Großvater::N,taid,senelis
+254,Großvater::N,tad-cu,senelis
+255,Großmutter::N,nain,senelė
+256,Großmutter::N,mam-gu,senelė
+257,Eltern::N,rhieni,tėvai
+258,Vater::N,tad,tėvas
+259,Mutter::N,mam,motina
+260,Sohn::N,mab,sūnus
+261,Tochter::N,merch,duktė
+262,Bruder::N,brawd,brolis
+263,Schwester::N,chwaer,sesuo
+264,Onkel::N,ewythr,dėdė
+265,Tante::N,modryb,teta
+266,Ehemann::N,gŵr,vyras
+267,Ehefrau::N,gwraig,žmona
+268,Freude::N,gorfoledd,džiaugsmas
+269,Gelächter::N,chwerthin,juokas
+270,Glück::N,hapusrwydd,laimė
+271,Kummer::N,galar,vargas
+272,Kummer::N,galar,rūpestis
+273,Wunsch::N,dymuniad,troškimas
+274,Wunsch::N,dymuniad,pageidavimas
+275,Lust::N,chwant,noras
+276,Lust::N,chwant,geidulys
+277,Geist::N,ysbryd,dvasia
+278,Gedanke::N,meddwl,mintis
+279,Gedächtnis::N,cof,atmintis
+280,Verstand::N,meddwl,protas
+281,Sinn::N,ystyr,prasmė
+282,Grund::N,achos,priežastis
+283,Grund::N,rheswm,priežastis
+284,Wahrheit::N,gwir,tiesa
+285,Wahrheit::N,gwir,teisybė
+286,Wahrheit::N,gwirionedd,tiesa
+287,Wahrheit::N,gwirionedd,teisybė
+288,Gespräch::N,sgwrs,pokalbis
+289,Märchen::N,chwedl werin,pasaka
+290,Erzählung::N,stori,apsakymas
+291,Erzählung::N,stori,pasakojimas
+292,Nachricht::N,neges,žinia
+293,Neuigkeit::N,newydd,naujiena
+294,Name::N,enw,vardas
+295,Rätsel::N,pos,mįslė
+296,Rede::N,araith,kalba
+297,Sprache::N,iaith,kalba
+298,Stimme::N,llais,balsas
+299,Wort::N,gair,žodis
+300,Zeichen::N,arwydd,žymė
+301,Zeichen::N,arwydd,ženklas
+302,Ruf::N,galwad,šauksmas
+303,Lärm::N,trwst,triukšmas
+304,Laut::N,sain,garsas
+305,Ton::N,tôn,tonas
+306,Ton::N,tôn,garsas
+307,Lied::N,cân,daina
+308,Lied::N,cân,giesmė
+309,Ruhe::N,tawelwch,ramybė
+310,Ruhe::N,tawelwch,ramumas
+311,Leute::N,pobl,žmonės
+312,Volk::N,pobl,tauta
+313,Arbeit::N,gwaith,darbas
+314,Arbeit::N,gwaith,triūsas
+315,Gast::N,gwestai,svečias
+316,Geschenk::N,rhodd,dovana
+317,Geschenk::N,anrheg,dovana
+318,Spiel::N,chwarae,žaismas
+319,Spiel::N,chwarae,žaidimas
+320,Gesellschaft::N,cwmni,draugija
+321,Gesellschaft::N,cwmni,kompanija
+322,Hilfe::N,cymorth,pagalba
+323,Freund::N,cyfaill,draugas
+324,Freund::N,cyfaill,bičiulis
+325,Kamerad::N,cydymaith,draugas
+326,Angelegenheit::N,pwnc,dalykas
+327,Angelegenheit::N,pwnc,reikalas
+328,Anzahl::N,cyfrif,kiekis
+329,Anzahl::N,cyfrif,skaičius
+330,Art::N,bath,rūšis
+331,Stück::N,darn,gabalas
+332,Teil::N,rhan,dalis
+333,Hälfte::N,hanner,pusė
+334,Kreis::N,cylch,ratas
+335,Kreis::N,cylch,apskritis
+336,Kreis::N,cylch,apskritimas
+337,Kreuz::N,croes,kryžius
+338,Linie::N,llinell,linija
+339,Strich::N,strôc,brėžis
+340,Strich::N,strôc,brūkšnys
+341,Strich::N,trawiad,brėžis
+342,Strich::N,trawiad,brūkšnys
+343,Abstand::N,bwlch,atstumas
+344,Abstand::N,pellter,atstumas
+345,Entfernung::N,pellter,atstumas
+346,Gegend::N,cylch,vietovė
+347,Platz::N,lle,vieta
+348,Ort::N,lle,vieta
+349,Ort::N,lle,vietovė
+350,Seite::N,ochr,pusė
+351,Seite::N,ochr,šonas
+352,Mitte::N,canol,vidurys
+353,Gegenstand::N,eitem,dalykas
+354,Sache::N,peth,daiktas
+355,Rand::N,cwr,kraštas
+356,Rand::N,cwr,pakraštys
+357,Rand::N,ymyl,kraštas
+358,Rand::N,ymyl,pakraštys
+359,Kante::N,min,kraštas
+360,Kante::N,ymyl,kraštas
+361,Ecke::N,cornel,kertė
+362,Ecke::N,cornel,kampas
+363,Spitze::N,blaen,priekis
+364,Spitze::N,blaen,priešakys
+365,Ende::N,pen,galas
+366,Loch::N,twll,skylė
+367,Winkel::N,congl,kampas
+368,Winkel::N,congl,kampelis
+369,Muster::N,patrwm,raštas
+370,Größe::N,maint,dydis
+371,Größe::N,maint,didumas
+372,Größe::N,maintioli,dydis
+373,Größe::N,maintioli,didumas
+374,Länge::N,hyd,ilgis
+375,Länge::N,hyd,ilgumas
+376,Höhe::N,uchder,aukštis
+377,Höhe::N,uchder,aukštuma
+378,Gewicht::N,pwysau,svoris
+379,Gewicht::N,pwysau,svarstis
+380,Menge::N,swm,kiekis
+381,Menge::N,swm,daugybė
+382,Menge::N,maint,kiekis
+383,Menge::N,maint,daugybė
+384,Haufen::N,pentwr,krūva
+385,Haufen::N,pentwr,šūsnis
+386,Reihe::N,rhes,greta
+387,Boot::N,cwch,valtis
+388,Boot::N,cwch,laivelis
+389,Ruder::N,rhwyf,irklas
+390,Schlitten::N,sled,rogės
+391,Schlitten::N,sled,rogutės
+392,Schlitten::N,car llusg,rogės
+393,Schlitten::N,car llusg,rogutės
+394,Ski::N,sgi,slidė
+395,Lagerfeuer::N,coelcerth,laužas
+396,Last::N,llwyth,našta
+397,Last::N,llwyth,nešulys
+398,Gang::N,tro,eisena
+399,Schritt::N,cam,žingsnis
+400,Norden::N,gogledd,šiaurė
+401,Norden::N,gogledd,žiemiai
+402,Süden::N,de,pietūs
+403,Westen::N,gorllewin,vakarai
+404,Osten::N,dwyrain,rytai
+405,Holz::N,pren,mediena
+406,Brett::N,bwrdd,lenta
+407,Brett::N,astell,lenta
+408,Platte::N,llech,plokštė
+409,Stütze::N,ateg,atrama
+410,Stütze::N,ateg,atspara
+411,Stütze::N,cynhalydd,atrama
+412,Stütze::N,cynhalydd,atspara
+413,Stange::N,polyn,lazda
+414,Stange::N,polyn,kartis
+415,Stock::N,ffon,lazda
+416,Stock::N,brigyn,lazda
+417,Stab::N,ffon,kartis
+418,Rohr::N,pibell,vamzdis
+419,Haus::N,tŷ,namas
+420,Heim::N,cartref,namai
+421,Ofen::N,stof,krosnis
+422,Fußboden::N,llawr,grindys
+423,Tisch::N,bwrdd,stalas
+424,Stuhl::N,cadair,kėdė
+425,Wiege::N,crud,lopšys
+426,Bett::N,gwely,lova
+427,Bett::N,gwely,patalai
+428,Regal::N,silff,lentyna
+429,Kiste::N,bocs,dėžė
+430,Kiste::N,blwch,dėžė
+431,Fenster::N,ffenestr,langas
+432,Tür::N,drws,durys
+433,Tor::N,porth,vartai
+434,Zaun::N,ffens,tvora
+435,Dach::N,to,stogas
+436,Leiter::N,ysgol,kopėčios
+437,Besen::N,ysgub,šluota
+438,Spaten::N,rhaw,lopeta
+439,Spaten::N,rhaw,kastuvas
+440,Schaufel::N,rhaw,semtuvas
+441,Gabel::N,fforc,šakutė
+442,Löffel::N,llwy,šaukštas
+443,Messer::N,cyllell,peilis
+444,Nagel::N,hoel,vinis
+445,Netz::N,gwe,tinklas
+446,Netz::N,rhwyd,tinklas
+447,Haken::N,bach,vagis
+448,Haken::N,bach,kablys
+449,Griff::N,carn,kotas
+450,Griff::N,carn,rankena
+451,Schloss::N,clo,spyna
+452,Schloss::N,clo,užraktas
+453,Bild::N,llun,paveikslas
+454,Bild::N,pictiwr,paveikslas
+455,Figur::N,ffigur,figūra
+456,Puppe::N,dol,lėlė
+457,Beutel::N,cwd,krepšys
+458,Beutel::N,cwd,maišelis
+459,Bündel::N,bwndel,ryšulys
+460,Bündel::N,coflaid,ryšulys
+461,Tasche::N,cod,krepšelis
+462,Eimer::N,bwced,kibiras
+463,Eimer::N,cunnog,kibiras
+464,Deckel::N,caead,dangtis
+465,Geschirr::N,llestri,indai
+466,Sack::N,sach,maišas
+467,Tasse::N,cwpan,puodukas
+468,Topf::N,pot,puodas
+469,Topf::N,crochan,puodas
+470,Kessel::N,tegell,katilas
+471,Essen::N,pryd o fwyd,valgis
+472,Nahrung::N,bwyd,penas
+473,Nahrung::N,bwyd,maistas
+474,Speise::N,saig,patiekalas
+475,Fleisch::N,cig,mėsa
+476,Getreide::N,ŷd,javai
+477,Getreide::N,llafur,javai
+478,Brei::N,uwd,košė
+479,Brot::N,bara,duona
+480,Scheibe::N,tafell,riekė
+481,Fett::N,saim,taukai
+482,Fett::N,saim,riebalai
+483,Fett::N,braster,taukai
+484,Fett::N,braster,riebalai
+485,Butter::N,ymenyn,sviestas
+486,Öl::N,olew,aliejus
+487,Salz::N,halen,druska
+488,Suppe::N,cawl,sriuba
+489,Honig::N,mêl,medus
+490,Milch::N,llaeth,pienas
+491,Milch::N,llefrith,pienas
+492,Tee::N,te,arbata
+493,Leder::N,lledr,oda
+494,Wolle::N,gwlân,vilna
+495,Stoff::N,lliain,audeklas
+496,Stoff::N,brethyn,audeklas
+497,Nadel::N,nodwydd,adata
+498,Faden::N,edau,gija
+499,Faden::N,edau,siūlas
+500,Faden::N,edefyn,gija
+501,Faden::N,edefyn,siūlas
+502,Knopf::N,botwm,saga
+503,Knoten::N,cwlwm,mazgas
+504,Farbe::N,paent,dažai
+505,Kleidung::N,dillad,rūbai
+506,Kleidung::N,dillad,drabužiai
+507,Kleidung::N,gwisgoedd,rūbai
+508,Kleidung::N,gwisgoedd,drabužiai
+509,Hemd::N,crys,marškiniai
+510,Kragen::N,coler,apykaklė
+511,Ärmel::N,llawes,rankovė
+512,Hose::N,trowsus,kelnės
+513,Gürtel::N,gwregys,juosta
+514,Gürtel::N,gwregys,diržas
+515,Mütze::N,cap,kepurė
+516,Schuh::N,esgid,batas
+517,Stiefel::N,botasen,auliniai batai
+518,Ring::N,modrwy,žiedas
+519,Band::N,rhuban,kaspinas
+520,Kamm::N,crib,šukos
+521,Spiegel::N,drych,veidrodis
+522,Riemen::N,strap,diržas
+523,Schnur::N,llinyn,virvė
+524,Leine::N,tennyn,pavadėlis
+525,Decke::N,blanced,antklodė
+526,Decke::N,gwrthban,antklodė
+527,Kissen::N,clustog,pagalvė
+528,Kissen::N,clustog,priegalvis
+529,Kissen::N,gobennydd,pagalvė
+530,Kissen::N,gobennydd,priegalvis
+531,Tuch::N,sgarff,skarelė
+532,Handtuch::N,tywel,rankšluostis
+533,Handtuch::N,lliain sychu,rankšluostis
+534,Kraft::N,grym,jėga
+535,Stärke::N,nerth,stiprumas
+536,Stärke::N,cryfder,stiprumas
+537,Gesundheit::N,iechyd,sveikata
+538,Krankheit::N,afiechyd,liga
+539,Krankheit::N,anhwylder,liga
+540,Schmerz::N,poen,skausmas
+541,Schmerz::N,gwayw,skausmas
+542,Wunde::N,clwyf,žaizda
+543,Fieber::N,twymyn,karštis
+544,Arznei::N,meddyginiaeth,vaistas
+545,Brücke::N,pont,tiltas
+546,Brunnen::N,ffynnon,šulinys
+547,Weide::N,porfa,ganykla
+548,Weide::N,porfa,gluosnis
+549,Pfad::N,llwybr,takas
+550,Weg::N,ffordd,kelias
+551,Straße::N,heol,gatvė
+552,Straße::N,ffordd,gatvė
+553,Dorf::N,pentref,kaimas
+554,Dorf::N,pentref,sodžius
+555,Stadt::N,tref,miestas
+556,Brief::N,llythyr,laiškas
+557,Buch::N,llyfr,knyga
+558,Buchstabe::N,llythyren,raidė
+559,Zeitung::N,papur newydd,laikraštis
+560,Leben::N,bywyd,gyvybė
+561,Leben::N,bywyd,gyvenimas
+562,Tod::N,marwolaeth,mirtis
+563,Grab::N,bedd,kapas
+564,Kirche::N,eglwys,bažnyčia
+565,Sünde::N,pechod,nuodėmė
+566,Sünde::N,pechod,nusidėjimas
+567,Gott::N,duw,dievas
+568,Arbeiter::N,gweithiwr,darbininkas
+569,Chef::N,pennaeth,šefas
+570,Chef::N,pennaeth,vadovas
+571,Chef::N,pennaeth,viršininkas
+572,Meister::N,meistr,meistras
+573,Arzt::N,meddyg,gydytojas
+574,Lehrer::N,athro,mokytojas
+575,Geld::N,pres,pinigai
+576,Geld::N,arian,pinigai
+577,Geschäft::N,busnes,biznis
+578,Laden::N,siop,krautuvė
+579,Laden::N,siop,parduotuvė
+580,Preis::N,pris,kaina
+581,Ware::N,nwydd,prekė
+582,Nutzen::N,elw,nauda
+583,Nutzen::N,elw,pelnas
+584,Nutzen::N,budd,nauda
+585,Nutzen::N,budd,pelnas
+586,Reichtum::N,cyfoeth,turtas
+587,Welt::N,byd,pasaulis
+588,Land::N,gwlad,žemė
+589,Land::N,gwlad,šalis
+590,Staat::N,gwladwriaeth,valstija
+591,König::N,brenin,karalius
+592,Macht::N,grym,galia
+593,Macht::N,grym,valdžia
+594,Macht::N,awdurdod,galia
+595,Macht::N,awdurdod,valdžia
+596,Grenze::N,ffin,riba
+597,Grenze::N,ffin,siena
+598,Grenze::N,goror,riba
+599,Grenze::N,goror,siena
+600,Krieg::N,rhyfel,karas
+601,Feind::N,gelyn,priešas
+602,Gewalt::N,ffyrnigrwydd,jėga
+603,Gewalt::N,ffyrnigrwydd,smurtas
+604,Gewalt::N,ffyrnigrwydd,prievarta
+605,Kampf::N,brwydr,kova
+606,Bogen[Waffe]::N,bwa,lankas
+607,Pfeil::N,saeth,strėlė
+608,Gewehr::N,dryll,šautuvas
+609,Fehler::N,gwall,klaida
+610,Fehler::N,camgymeriad,klaida
+611,Lüge::N,celwydd,melas
+612,Lüge::N,anwiredd,melas
+613,Schaden::N,niwed,nuostolis
+614,Schaden::N,niwed,apgadinimas
+615,Schaden::N,difrod,nuostolis
+616,Schaden::N,difrod,apgadinimas
+617,Unglück::N,anffawd,nelaimė
+618,Schuld::N,bai,kaltė
+619,Alter::N,oed,amžius
+620,Schluss::N,diwedd,pabaiga
+621,Zeit::N,amser,laikas
+622,Tag::N,dydd,diena
+623,Tag::N,diwrnod,diena
+624,Morgen::N,bore,rytas
+625,Mittag::N,nawn,vidurdienis
+626,Abend::N,noswaith,vakaras
+627,Nacht::N,nos,naktis
+628,Woche::N,wythnos,savaitė
+629,Monat::N,mis,mėnuo
+630,Jahr::N,blwyddyn,metai
+631,Frühling::N,gwanwyn,pavasaris
+632,Sommer::N,haf,vasara
+633,Herbst::N,hydref,ruduo
+634,Winter::N,gaeaf,žiema
+635,Januar::N,Ionawr,sausis
+636,Februar::N,Chwefror,vasaris
+637,März::N,Mawrth,kovas
+638,April::N,Ebrill,balandis
+639,Mai::N,Mai,gegužė
+640,Juni::N,Mehefin,birželis
+641,Juli::N,Gorffennaf,liepa
+642,August::N,Awst,rugpjūtis
+643,September::N,Medi,rugsėjis
+644,Oktober::N,Hydref,spalis
+645,November::N,Tachwedd,lapkritis
+646,Dezember::N,Rhagfyr,gruodis
+647,Montag::N,dydd Llun,pirmadienis
+648,Dienstag::N,dydd Mawrth,antradienis
+649,Mittwoch::N,dydd Mercher,trečiadienis
+650,Donnerstag::N,dydd Iau,ketvirtadienis
+651,Freitag::N,dydd Gwener,penktadienis
+652,Samstag::N,dydd Sadwrn,šeštadienis
+653,Sonntag::N,dydd Sul,sekmadienis
+654,groß::A,mawr,didis
+655,groß::A,mawr,didelis
+656,klein::A,bach,mažas
+657,lang::A,hir,ilgas
+658,kurz::A,byr,trumpas
+659,kurz::A,cwta,trumpas
+660,breit::A,llydan,platus
+661,schmal::A,cul,smulkus
+662,dicht::A,dwys,tankus
+663,dick[Gegenstand]::A,trwchus,storas
+664,dünn::A,tenau,plonas
+665,fein::A,main,smulkus
+666,fest::A,cadarn,kietas
+667,fest::A,cadarn,tvirtas
+668,flach::A,gwastad,lėkštas
+669,flach::A,gwastad,plokščias
+670,glatt::A,llyfn,slidus
+671,hart::A,caled,kietas
+672,weich::A,meddal,minkštas
+673,rund::A,crwn,apvalus
+674,rund::A,crwn,apskritas
+675,spitz::A,pigfain,aštrus
+676,spitz::A,pigfain,smailus
+677,scharf::A,miniog,aštrus
+678,stumpf::A,pŵl,bukas
+679,stumpf::A,pŵl,atšipęs
+680,schwer::A,trwm,sunkus
+681,schön::A,teg,gražus
+682,schön::A,hardd,gražus
+683,schön::A,prydferth,gražus
+684,heiß::A,poeth,karštas
+685,warm::A,twym,šiltas
+686,warm::A,cynnes,šiltas
+687,kalt::A,oer,šaltas
+688,kühl::A,oeraidd,vėsus
+689,kühl::A,oeraidd,bejausmis
+690,frisch::A,iach,šviežias
+691,feucht::A,llaith,drėgnas
+692,nass::A,gwlyb,šlapias
+693,trocken::A,sych,sausas
+694,voll::A,llawn,pilnas
+695,leer::A,gwag,tuščias
+696,offen::A,agored,atviras
+697,geschlossen::A,caead,uždaras
+698,geschlossen::A,caead,uždarytas
+699,geschlossen::A,caeëdig,uždaras
+700,geschlossen::A,caeëdig,uždarytas
+701,sauber::A,glân,švarus
+702,schmutzig::A,budr,nešvarus
+703,schmutzig::A,budr,purvinas
+704,schmutzig::A,brwnt,nešvarus
+705,schmutzig::A,brwnt,purvinas
+706,roh::A,amrwd,žalias
+707,reif::A,aeddfed,prinokęs
+708,reif::A,aeddfed,pribrendęs
+709,lecker::A,blasus,gardus
+710,lecker::A,danteithiol,gardus
+711,süß::A,melys,saldus
+712,bitter::A,chwerw,kartus
+713,sauer::A,sur,gižus
+714,sauer::A,sur,rūgštus
+715,hell::A,disglair,šviesus
+716,hell::A,disglair,skaistus
+717,dunkel::A,tywyll,tamsus
+718,schwarz::A,du,juodas
+719,weiß::A,gwyn,baltas
+720,rot::A,coch,raudonas
+721,gelb::A,melyn,geltonas
+722,blau::A,glas,mėlynas
+723,grün::A,gwyrdd,žalias
+724,grau::A,llwyd,pilkas
+725,bunt::A,lliwgar,margas
+726,bunt::A,lliwgar,spalvotas
+727,billig::A,rhad,pigus
+728,teuer::A,drud,brangus
+729,wertvoll::A,gwerthfawr,vertingas
+730,blind::A,dall,aklas
+731,taub::A,byddar,kurčias
+732,kräftig::A,nerthol,stiprus
+733,kräftig::A,grymus,stiprus
+734,stark::A,cryf,stiprus
+735,stark::A,cadarn,stiprus
+736,schwach::A,gwan,silpnas
+737,fett::A,tew,riebus
+738,schlank::A,main,laibas
+739,schlank::A,main,lieknas
+740,hübsch::A,tlws,gražus
+741,böse::A,drwg,blogas
+742,dumm::A,twp,paikas
+743,dumm::A,twp,kvailas
+744,faul::A,diog,tingus
+745,fleißig::A,dyfal,stropus
+746,fleißig::A,dyfal,kruopštus
+747,geizig::A,crintach,šykštus
+748,geizig::A,cybyddlyd,šykštus
+749,klug::A,deallus,sumanus
+750,klug::A,deallus,protingas
+751,geschickt::A,medrus,apsukrus
+752,geschickt::A,deheuig,apsukrus
+753,lieb::A,hoff,mielas
+754,lieb::A,annwyl,mielas
+755,lustig::A,llon,smagus
+756,lustig::A,llon,linksmas
+757,sanft::A,mwyn,švelnus
+758,sanft::A,mwyn,minkštas
+759,hungrig::A,newynog,alkanas
+760,krank::A,sâl,ligotas
+761,krank::A,sâl,sergantis
+762,krank::A,gwael,ligotas
+763,krank::A,gwael,sergantis
+764,nackt::A,noeth,nuogas
+765,traurig::A,trist,liūdnas
+766,lebendig::A,yn fyw,gyvas
+767,gut::A,da,geras
+768,schlecht::A,drwg,blogas
+769,schlecht::A,drwg,prastas
+770,schlecht::A,gwael,blogas
+771,schlecht::A,gwael,prastas
+772,richtig::A,cywir,tikras
+773,richtig::A,cywir,teisingas
+774,schlimm::A,enbyd,blogas
+775,schlimm::A,enbyd,prastas
+776,wahr::A,gwir,tikras
+777,alt::A,hen,senas
+778,neu::A,newydd,naujas
+779,ehemalig::A,blaenorol,buvęs
+780,alt[Lebewesen]::A,oedrannus,pagyvenęs
+781,jung::A,ifanc,jaunas
+782,arm::A,tlawd,neturtingas
+783,reich::A,cyfoethog,turtingas
+784,bekannt::A,cynefin,žinomas
+785,bekannt::A,cynefin,pažįstamas
+786,bekannt::A,cyfarwydd,žinomas
+787,bekannt::A,cyfarwydd,pažįstamas
+788,berühmt::A,enwog,žymus
+789,berühmt::A,enwog,garsus
+790,fremd::A,estron,svetimas
+791,verschieden::A,gwahanol,įvairus
+792,nah::A,agos,artimas
+793,fern::A,pell,tolimas
+794,linker::A,aswy,kairys
+795,linker::A,chwith,kairys
+796,rechter::A,de,dešinys
+797,rechter::A,deau,dešinys
+798,anderer::A,arall,kitas
+799,erster::A,cyntaf,pirmas
+800,zweiter::A,ail,antras
+801,dritter::A,trydydd,trečias
+802,letzter::A,olaf,paskutinis
+803,allein::ADV,unig,vienas
+804,allein::ADV,ar ei ben ei hun,vienas
+805,auf einmal::ADV,ar yr un pryd,iš karto
+806,zusammen::ADV,ynghyd,kartu
+807,zusammen::ADV,ynghyd,drauge
+808,zusammen::ADV,gyda'i gilydd,kartu
+809,zusammen::ADV,gyda'i gilydd,drauge
+810,lange::ADV,amser hir,ilgai
+811,plötzlich::ADV,yn sydyn,staiga
+812,sofort::ADV,ar unwaith,tuojau
+813,später::ADV,yn ddiweddarach,vėliau
+814,später::ADV,yn ddiweddarach,paskiau
+815,jetzt::ADV,yn awr,dabãr
+816,heute::ADV,heddiw,šiandien
+817,morgen::ADV,yfory,rytoj
+818,bald::ADV,yn fuan,greitai
+819,bald::ADV,yn fuan,netrukus
+820,bald::ADV,gyda hyn,greitai
+821,bald::ADV,gyda hyn,netrukus
+822,dann::ADV,yna,po to
+823,dann::ADV,y pryd hwnnw,po to
+824,gestern::ADV,ddoe,vakar
+825,einst::ADV,gynt,kadaise
+826,einst::ADV,gynt,kitą kartą
+827,damals::ADV,ar y pryd,anuomet
+828,damals::ADV,ar y pryd,anuokart
+829,damals::ADV,bryd hynny,anuomet
+830,damals::ADV,bryd hynny,anuokart
+831,danach::ADV,wedyn,po to
+832,danach::ADV,wedyn,paskui
+833,vorher::ADV,o'r blaen,anksčiau
+834,zuerst::ADV,yn gyntaf,pirma
+835,zuerst::ADV,yn gyntaf,iš pradžių̃
+836,einmal::ADV,unwaith,kartą
+837,einmal::ADV,unwaith,vieną kartą
+838,manchmal::ADV,weithiau,kai kada
+839,manchmal::ADV,ar brydiau,kai kada
+840,oft::ADV,yn aml,dažnai
+841,oft::ADV,yn fynych,dažnai
+842,immer::ADV,bob amser,visada
+843,immer::ADV,bob amser,visuomet
+844,niemals::ADV,ni ... byth,niekada
+845,niemals::ADV,ni ... byth,niekuomet
+846,niemals::ADV,ni ... erioed,niekada
+847,niemals::ADV,ni ... erioed,niekuomet
+848,hier::ADV,yma,čia
+849,hierhin::ADV,hyd yma,šen
+850,hierhin::ADV,hyd yma,čionai
+851,von hier::ADV,oddi yma,iš čia
+852,dort::ADV,acw,ten
+853,dort::ADV,acw,tenai
+854,dorthin::ADV,tuag yno,ten
+855,dorthin::ADV,tuag yno,ten link
+856,geradeaus::ADV,syth ymlaen,tiesiai
+857,vorwärts::ADV,ymlaen,pirmyn
+858,rückwärts::ADV,yn ôl,atbulai
+859,zurück::ADV,yn ôl,atgal
+860,unten::ADV,isod,žemai
+861,unten::ADV,isod,apačioje
+862,unten::ADV,oddi tanodd,žemai
+863,unten::ADV,oddi tanodd,apačioje
+864,hinab::ADV,i lawr,žemyn
+865,hinab::ADV,i waered,žemyn
+866,oben::ADV,fry,viršuj
+867,hinauf::ADV,i fyny,aukštyn
+868,hinauf::ADV,i fyny,į viršų
+869,hinauf::ADV,i'r lan,aukštyn
+870,hinauf::ADV,i'r lan,į viršų
+871,überall::ADV,ym mhobman,visur
+872,nicht::ADV,ni,ne
+873,nicht::ADV,nid,ne
+874,ein wenig::ADV,tipyn,truputį
+875,ein wenig::ADV,ychydig,truputį
+876,kaum::ADV,prin,vos
+877,sehr::ADV,iawn,labai
+878,sehr::ADV,iawn,baisiai
+879,so::ADV,fel,taip
+880,so::ADV,felly,taip
+881,noch::ADV,eto,dar
+882,nur::ADV,yn unig,tik
+883,nur::ADV,yn unig,vien
+884,schon::ADV,eisoes,jau
+885,schon::ADV,yn barod,jau
+886,wieder::ADV,drachefn,vėl
+887,wieder::ADV,drachefn,iš naujo
+888,vergebens::ADV,yn ofer,veltui
+889,vergebens::ADV,yn ofer,bergždžiai
+890,vor::PRP,o flaen,prieš
+891,hinter::PRP,ar ôl,už
+892,unter::PRP,islaw,po
+893,durch::PRP,trwy,pro
+894,durch::PRP,trwy,per
+895,neben::PRP,ar bwys,prie
+896,neben::PRP,ar bwys,šalia
+897,zwischen::PRP,rhwng,tarp
+898,zwischen::PRP,cydrhwng,tarp
+899,wegen::PRP,o achos,dėl
+900,wegen::PRP,o achos,dėlei
+901,wegen::PRP,oherwydd,dėl
+902,wegen::PRP,oherwydd,dėlei
+903,dies::PRN,hyn,šis
+904,dies::PRN,hyn,šitas
+905,das::PRN,hynny,tat
+906,alles::PRN,popeth,visas
+907,ich::PRN,fi,aš
+908,du::PRN,ti,tu
+909,er::PRN,fe,jis
+910,wir::PRN,ni,mes
+911,ihr::PRN,chi,jūs
+912,sie::PRN,hwy,ji
+913,sie::PRN,hwy,jos
+914,was::FPRN,pa beth,kas
+915,wer::FPRN,pwy,kas
+916,wo::FADV,ble,kur
+917,wo::FADV,ym mha le,kur
+918,wohin::FADV,i ble,kur
+919,wohin::FADV,i ble,kur link
+920,wohin::FADV,i ba le,kur
+921,wohin::FADV,i ba le,kur link
+922,wie::FADV,sut,kaip
+923,warum::FADV,pam,kod̃ėl
+924,warum::FADV,pam,dėl ko
+925,wieviel::FNUM,faint,kiek
+926,eins::NUM,un,vienas
+927,zwei::NUM,dau,du
+928,drei::NUM,tri,trys
+929,vier::NUM,pedwar,keturi
+930,fünf::NUM,pump,penki
+931,sechs::NUM,chwech,šeši
+932,sieben::NUM,saith,septyni
+933,acht::NUM,wyth,aštuoni
+934,neun::NUM,naw,devyni
+935,zehn::NUM,deg,dešimt
+936,elf::NUM,un ar ddeg,vienuolika
+937,zwölf::NUM,deuddeg,dvylika
+938,zwölf::NUM,un deg dau,dvylika
+939,zwanzig::NUM,ugain,dvidešimt
+940,dreißig::NUM,tri deg,trisdešimt
+941,dreißig::NUM,deg ar hugain,trisdešimt
+942,vierzig::NUM,deugain,keturiasdešimt
+943,fünfzig::NUM,hanner cant,penkiasdešimt
+944,sechzig::NUM,chwe deg,šešiasdešimt
+945,siebzig::NUM,saith deg,septyniasdešimt
+946,siebzig::NUM,deg a thrigain,septyniasdešimt
+947,achtzig::NUM,wyth deg,aštuoniasdešimt
+948,achtzig::NUM,pedar ugain,aštuoniasdešimt
+949,neunzig::NUM,naw deg,devyniasdešimt
+950,neunzig::NUM,deg a phedwar ugain,devyniasdešimt
+951,hundert::NUM,cant,šimtas
+952,tausend::NUM,mil,tūkstantis
+953,und::CNJ,a,ĩr
+954,oder::CNJ,neu,ar
+955,oder::CNJ,neu,arba
+956,stehen::V,sefyll,stovėti
+957,sitzen::V,eistedd,sėdėti
+958,liegen::V,gorwedd,gulėti
+959,hängen::V,hongian,kyboti
+960,hängen::V,hongian,kabėti
+961,werden::V,dod yn,taptis
+962,werden::V,dod yn,darytis
+963,werden::V,mynd yn,taptis
+964,werden::V,mynd yn,darytis
+965,passieren::V,digwydd,atsitikti
+966,passieren::V,digwydd,pasitaikyti
+967,beginnen::V,cychwyn,prasid́ėti
+968,enden::V,gorffen,baigtis
+969,wechseln::V,newid,keistis
+970,wechseln::V,newid,pasikeisti
+971,aufgehen[Sonne]::V,codi,tekėti
+972,aufgehen[Sonne]::V,codi,patekėti
+973,untergehen[Sonne]::V,machlud,leistis
+974,untergehen[Sonne]::V,machlud,nusileisti
+975,scheinen[Sonne]::V,tywynnu,šviesti
+976,donnern::V,taranu,griausti
+977,donnern::V,taranu,griaudėti
+978,wehen::V,chwythu,pūsti
+979,strömen::V,ffrydio,lietis
+980,strömen::V,ffrydio,plūsti
+981,fließen::V,llifo,tekėti
+982,sich drehen::V,troi,suktis
+983,sich drehen::V,troi,pasisukti
+984,sich drehen::V,cylchdroi,suktis
+985,sich drehen::V,cylchdroi,pasisukti
+986,schwanken::V,siglo,svyruoti
+987,schwingen::V,siglo,suptis
+988,fallen::V,cwympo,pulti
+989,fallen::V,cwympo,kristi
+990,brennen::V,llosgi,degti
+991,rauchen::V,mygu,rūkyti
+992,regnen::V,glawio,lyti
+993,gefrieren::V,rhewi,užšalti
+994,tauen::V,toddi,tirpti
+995,tauen::V,meirioli,tirpti
+996,schmelzen::V,toddi,lydytis
+997,trocknen::V,sychu,džiūti
+998,sieden::V,berwi,virti
+999,faulen::V,pydru,pūti
+1000,faulen::V,braenu,pūti
+1001,verfaulen::V,pydru,švinkti
+1002,verfaulen::V,dadfeilio,švinkti
+1003,reißen::V,clecian,plyšti
+1004,reißen::V,clecian,trūkti
+1005,reißen::V,torri'n glats,plyšti
+1006,reißen::V,torri'n glats,trūkti
+1007,versinken::V,suddo,skę̃sti
+1008,versinken::V,suddo,grimzti
+1009,vergehen::V,myned heibio,praeiti
+1010,vergehen::V,pasio,praeiti
+1011,erscheinen::V,ymddangos,pasirodyti
+1012,verschwinden::V,diflannu,dingti
+1013,verschwinden::V,diflannu,išnykti
+1014,verschwinden::V,diflannu,pranykti
+1015,sinken::V,syrthio,kristi
+1016,abnehmen::V,lleihau,mažėti
+1017,abnehmen::V,lleihau,silpnėti
+1018,zunehmen::V,cynyddu,didėti
+1019,zunehmen::V,cynyddu,padaugėti
+1020,steigen::V,codi,kilti
+1021,wachsen::V,tyfu,augti
+1022,glänzen::V,disgleirio,blizgėti
+1023,funkeln::V,pefrio,žibėti
+1024,lärmen::V,cadw sŵn,triukšmauti
+1025,lärmen::V,gwneud twrw,triukšmauti
+1026,läuten::V,canu,skambinti
+1027,klingeln::V,canu,skambinti
+1028,klingeln::V,seinio,skambinti
+1029,klirren::V,tincian,žvangėti
+1030,brausen::V,rhuo,šniokšti
+1031,rauschen::V,siffrwd,ošti
+1032,rauschen::V,siffrwd,šlamėti
+1033,rauschen::V,chwithrwd,ošti
+1034,rauschen::V,chwithrwd,šlamėti
+1035,klingen::V,seinio,skardėti
+1036,bellen::V,cyfarth,loti
+1037,heulen::V,udo,kaukti
+1038,heulen::V,udo,staugti
+1039,heulen::V,oernadu,kaukti
+1040,heulen::V,oernadu,staugti
+1041,blasen::V,chwythu,pūsti
+1042,pfeifen::V,chwibanu,švilpti
+1043,pfeifen::V,chwibanu,švilpauti
+1044,schreien::V,gweiddi,šaukti
+1045,schreien::V,bloeddio,šaukti
+1046,stöhnen::V,griddfan,dejuoti
+1047,stöhnen::V,griddfan,aimanuoti
+1048,zittern::V,crynu,virpėti
+1049,leben::V,byw,gyventi
+1050,geboren werden::V,cael eich geni,gimti
+1051,atmen::V,anadlu,alsuoti
+1052,atmen::V,anadlu,kvėpuoti
+1053,trinken::V,yfed,gerti
+1054,essen::V,bwyta,valgyti
+1055,schlucken::V,llyncu,praryti
+1056,müde werden::V,blino,nuvargti
+1057,müde werden::V,blino,privargti
+1058,einschlafen::V,mynd i gysgu,užmigti
+1059,einschlafen::V,syrthio i gysgu,užmigti
+1060,schlafen::V,huno,miegoti
+1061,schlafen::V,cysgu,miegoti
+1062,aufwachen::V,dihuno,pabusti
+1063,aufstehen::V,codi,keltis
+1064,aufstehen::V,codi,atsikelti
+1065,sich erholen::V,ymlacio,pailsėti
+1066,sich erholen::V,ymlacio,poilsiauti
+1067,sich erholen::V,dadflino,pailsėti
+1068,sich erholen::V,dadflino,poilsiauti
+1069,krank werden::V,mynd yn sâl,susirgti
+1070,krank werden::V,mynd yn wael,susirgti
+1071,krank sein::V,gwaelu,sirgti
+1072,schmerzen::V,brifo,sopėti
+1073,schmerzen::V,brifo,skaudėti
+1074,husten::V,pesychu,kosėti
+1075,genesen::V,gwella,sveikti
+1076,genesen::V,gwella,taisytis
+1077,genesen::V,cael yn ôl,sveikti
+1078,genesen::V,cael yn ôl,taisytis
+1079,sterben::V,marw,mirti
+1080,sterben::V,marw,numirti
+1081,umkommen::V,trengi,žūti
+1082,sich bewegen::V,symud,judėti
+1083,sich bewegen::V,symud,pasijudinti
+1084,sich rühren::V,syflyd,krutėti
+1085,sich erheben::V,codi,pakilti
+1086,sich erheben::V,codi,atsikelti
+1087,sich setzen::V,eistedd,sėstis
+1088,sich setzen::V,eistedd,atsisėsti
+1089,hinfallen::V,cwympo,parkristi
+1090,hinfallen::V,cwympo,pargriūti
+1091,laufen::V,cerdded,eiti
+1092,schreiten::V,camu,žengti
+1093,schreiten::V,camu,žingsniuoti
+1094,spazierengehen::V,mynd am dro,pasivaikščioti
+1095,eilen::V,rhuthro,skubėti
+1096,sich beeilen::V,brysio,paskub́ėti
+1097,sich beeilen::V,brysio,pasiskubinti
+1098,sausen::V,rhuthro,dumti
+1099,sausen::V,rhuthro,lėkti
+1100,rennen::V,rhedeg,bėgti
+1101,springen::V,llamu,šokti
+1102,springen::V,neidio,šokti
+1103,klettern::V,dringo,kopti
+1104,schaukeln::V,siglo,supti
+1105,schaukeln::V,siglo,linguoti
+1106,kriechen::V,cropian,ropoti
+1107,kriechen::V,cropian,šliaužti
+1108,schwimmen::V,nofio,plaukti
+1109,tauchen::V,plymio,nerti
+1110,tauchen::V,ymsuddo,nerti
+1111,rudern::V,rhwyfo,irtis
+1112,rudern::V,rhwyfo,irkluoti
+1113,fahren::V,gyrru,važiuoti
+1114,fahren::V,gyrru,važinėti
+1115,fahren::V,dreifio,važiuoti
+1116,fahren::V,dreifio,važinėti
+1117,fliegen::V,hedfan,lėkti
+1118,fliegen::V,hedfan,skristi
+1119,gehen::V,mynd,eiti
+1120,weggehen::V,mynd,išeiti
+1121,weggehen::V,ymadael,išeiti
+1122,abfahren::V,ymadael,išvykti
+1123,abfahren::V,ymadael,išvažiuoti
+1124,anhalten::V,stopio,sustoti
+1125,hineingehen::V,mynd i mewn,įeiti
+1126,eintreten::V,mynd i,įžengti
+1127,kommen::V,dod,ateiti
+1128,ankommen::V,cyrraedd,ateiti
+1129,zurückkommen::V,dychwelyd,grį̃žti
+1130,zurückkommen::V,dychwelyd,sugrį̃žti
+1131,bleiben::V,aros,likti
+1132,bleiben::V,aros,pasilikti
+1133,bleiben::V,sefyll,likti
+1134,bleiben::V,sefyll,pasilikti
+1135,warten::V,aros,laukti
+1136,warten::V,disgwyl,laukti
+1137,erwarten::V,disgwyl,laukti
+1138,suchen::V,chwilio am,ieškoti
+1139,finden::V,darganfod,rasti
+1140,finden::V,darganfod,surasti
+1141,versuchen::V,profi,mėginti
+1142,versuchen::V,ceisio,mėginti
+1143,vorbereiten::V,paratoi,rengti
+1144,lieben::V,caru,myĺėti
+1145,mögen::V,hoffi,ḿėgti
+1146,mögen::V,hoffi,patikti
+1147,lachen::V,chwerthin,juoktis
+1148,rühren::V,cynhyrfu,jaudinti
+1149,rühren::V,cynhyrfu,graudinti
+1150,weinen::V,wylo,verkti
+1151,weinen::V,llefain,verkti
+1152,schimpfen::V,grwgnach,bartis
+1153,sich ärgern::V,gofidio,pykti
+1154,sich ärgern::V,gofidio,apmaudauti
+1155,sich fürchten::V,ofni,bijoti
+1156,sich fürchten::V,ofni,baimintis
+1157,fürchten::V,arswydo,bijoti
+1158,fürchten::V,arswydo,baimintis
+1159,fliehen::V,ffoi,bėgti
+1160,fliehen::V,ffoi,sprukti
+1161,flüchten::V,dianc,pabėgti
+1162,sehen::V,gweld,žiūŕėti
+1163,anschauen::V,syllu,žiūŕėti
+1164,anschauen::V,edrych,žiūŕėti
+1165,ansehen::V,gwylio,žiūrėti į
+1166,ansehen::V,gwylio,pažiūrėti į
+1167,hören::V,clywed,girdėti
+1168,zuhören::V,gwrando,klausytis
+1169,probieren::V,profi,ragauti
+1170,probieren::V,profi,paragauti
+1171,riechen::V,arogli,uosti
+1172,riechen::V,arogli,užuosti
+1173,fühlen::V,teimlo,justi
+1174,fühlen::V,teimlo,jausti
+1175,fühlen::V,teimlo,pajusti
+1176,fühlen::V,clywed,justi
+1177,fühlen::V,clywed,jausti
+1178,fühlen::V,clywed,pajusti
+1179,scheinen::V,ymddangos,rodytis
+1180,scheinen::V,ymddangos,atrodyti
+1181,zu sehen sein::V,dod i'r golwg,pasirodyti
+1182,vernehmen::V,clywed sôn am,išgirsti
+1183,frieren::V,bod yn oer,šalti
+1184,tun::V,gwneud,daryti
+1185,können::V,gallu,galėti
+1186,können::V,gallu,pajėgti
+1187,wollen::V,bod mewn angen,norėti
+1188,anfangen::V,dechrau,pradėti
+1189,anfangen::V,dechrau,prasid́ėti
+1190,beenden::V,darfod,baigti
+1191,beenden::V,darfod,užbaigti
+1192,beenden::V,gorffen,baigti
+1193,beenden::V,gorffen,užbaigti
+1194,aufhören::V,peidio,liautis
+1195,gelingen::V,llwyddo,pavykti
+1196,gelingen::V,llwyddo,pasisekti
+1197,geraten::V,diweddu,nusisekti
+1198,öffnen::V,agor,atverti
+1199,öffnen::V,agor,atidaryti
+1200,schließen::V,cau,uždaryti
+1201,stellen::V,gosod,statyti
+1202,stellen::V,gosod,pastatyti
+1203,setzen::V,gosod,sodinti
+1204,setzen::V,gosod,pasodinti
+1205,legen::V,gosod,dėti
+1206,legen::V,gosod,pad́ėti
+1207,berühren::V,cyffwrdd,liesti
+1208,berühren::V,cyffwrdd,paliesti
+1209,verbinden::V,cysylltu,jungti
+1210,verbinden::V,cysylltu,surišti
+1211,bedecken::V,gorchuddio,uždengti
+1212,aufhängen::V,crogi,pakarti
+1213,aufhängen::V,crogi,pakabinti
+1214,aufhängen::V,hongian,pakarti
+1215,aufhängen::V,hongian,pakabinti
+1216,anzünden::V,cynnau,padegti
+1217,aufheben::V,codi,pakelti
+1218,zurücklassen::V,gadael,palikti
+1219,verlieren::V,colli,pamesti
+1220,fallen lassen::V,gollwng,atsisakyti
+1221,machen::V,gwneud,dirbti
+1222,herstellen::V,cynhyrchu,gaminti
+1223,bauen::V,adeiladu,statyti
+1224,bauen::V,adeiladu,pastatyti
+1225,reparieren::V,trwsio,taisyti
+1226,reparieren::V,trwsio,remontuoti
+1227,reparieren::V,atgyweirio,taisyti
+1228,reparieren::V,atgyweirio,remontuoti
+1229,verbessern::V,diwygio,gerinti
+1230,verbessern::V,diwygio,ištaisyti
+1231,ändern::V,altro,keisti
+1232,ändern::V,altro,pakeisti
+1233,graben::V,palu,kasti
+1234,graben::V,cloddio,kasti
+1235,beugen::V,plygu,lenkti
+1236,beugen::V,plygu,palenkti
+1237,biegen::V,plygu,lenkti
+1238,biegen::V,plygu,palenkti
+1239,drehen::V,troelli,sukti
+1240,wenden::V,troi,kreipti
+1241,wenden::V,troi,pakreipti
+1242,umdrehen::V,troi,sukti
+1243,umdrehen::V,troi,apversti
+1244,heben::V,codi,kelti
+1245,heben::V,codi,pakelti
+1246,hochheben::V,dyrchafu,pakelti
+1247,ergreifen::V,gafael,čiupti
+1248,ergreifen::V,gafael,griebti
+1249,halten::V,dal,laikyti
+1250,halten::V,dal,palaikyti
+1251,drücken::V,pwyso,spausti
+1252,drücken::V,gwasgu,spausti
+1253,schieben::V,gwthio,stumti
+1254,kratzen::V,crafu,kasyti
+1255,kratzen::V,crafu,grandyti
+1256,lecken::V,llyfu,laižyti
+1257,beißen::V,cnoi,kandžioti
+1258,beißen::V,brathu,kandžioti
+1259,abreißen::V,tynnu ymaith,nuplėšti
+1260,abschneiden::V,torri,atpjauti
+1261,abschneiden::V,torri,atkirpti
+1262,binden::V,clymu,rišti
+1263,binden::V,clymu,surišti
+1264,stecken::V,plannu,kišti
+1265,stecken::V,plannu,įkišti
+1266,brechen::V,torri,lūžti
+1267,brechen::V,torri,laužyti
+1268,klopfen::V,taro,belsti
+1269,klopfen::V,taro,barbenti
+1270,hauen::V,taro,mušti
+1271,kleben::V,gludio,lipdyti
+1272,kleben::V,gludio,klijuoti
+1273,reiben::V,rhwbio,trinti
+1274,reiben::V,rhwbio,tarkuoti
+1275,streichen::V,taenu,tepti
+1276,streichen::V,taenu,užtepti
+1277,schleifen::V,hogi,galą́sti
+1278,schneiden::V,torri,pjauti
+1279,schneiden::V,torri,kirpti
+1280,rütteln::V,ysgytio,purtyti
+1281,schütteln::V,siglo,purtyti
+1282,schütteln::V,ysgwyd,purtyti
+1283,schwenken::V,siglo,mojuoti
+1284,schütten::V,tywallt,pilti
+1285,schütten::V,tywallt,berti
+1286,füllen::V,llenwi,pildyti
+1287,füllen::V,llenwi,pripildyti
+1288,einwickeln::V,lapio,įvynioti
+1289,einwickeln::V,lapio,suvynioti
+1290,tragen::V,cludo,nešti
+1291,tragen::V,cludo,nešioti
+1292,schleppen::V,llusgo,vilkti
+1293,ziehen::V,tynnu,tempti
+1294,aufbewahren::V,cadw,laikyti
+1295,werfen::V,taflu,mesti
+1296,werfen::V,taflu,sviesti
+1297,fangen::V,dal,sugauti
+1298,packen::V,cipio,čiupti
+1299,packen::V,cipio,griebti
+1300,packen::V,crafangu,čiupti
+1301,packen::V,crafangu,griebti
+1302,verstecken::V,celu,slėpti
+1303,verstecken::V,celu,slapstyti
+1304,verstecken::V,cuddio,slėpti
+1305,verstecken::V,cuddio,slapstyti
+1306,teilen::V,rhannu,dalyti
+1307,teilen::V,rhannu,padalyti
+1308,schicken::V,anfon,sių̃sti
+1309,schicken::V,anfon,pasių̃sti
+1310,bringen::V,dod â,atnešti
+1311,hinzufügen::V,chwanegu,pridėti
+1312,bekommen::V,cael,gauti
+1313,erhalten::V,derbyn,gauti
+1314,nehmen::V,cymryd,paimti
+1315,wählen::V,dewis,rinkti
+1316,wählen::V,dewis,išsirinkti
+1317,auswählen::V,dethol,išrinkti
+1318,bewahren::V,cadw,išsaugoti
+1319,behindern::V,atal,trukdyti
+1320,behindern::V,rhwystro,trukdyti
+1321,verderben::V,difetha,sugadinti
+1322,beschädigen::V,niweidio,žaloti
+1323,beschädigen::V,niweidio,gadinti
+1324,zerbrechen::V,torri,sukulti
+1325,zerbrechen::V,torri,sudaužyti
+1326,zerreißen::V,rhwygo,perplėšti
+1327,zerreißen::V,rhwygo,suplėšyti
+1328,zerstören::V,dinistrio,suardyti
+1329,zerstören::V,dinistrio,sugriauti
+1330,verbrennen::V,llosgi,deginti
+1331,verbrennen::V,llosgi,sudeginti
+1332,geben::V,rhoi,duoti
+1333,geben::V,rhoi,paduoti
+1334,reichen::V,estyn,paduoti
+1335,schenken::V,rhoddi,dovanoti
+1336,versprechen::V,addo,žadėti
+1337,versprechen::V,addo,pažadėti
+1338,wünschen::V,dymuno,norėti
+1339,wünschen::V,dymuno,linḱėti
+1340,loben::V,canmol,girti
+1341,loben::V,canmol,pagirti
+1342,küssen::V,cusanu,bučiuoti
+1343,wiegen::V,siglo,supti
+1344,zudecken::V,gorchuddio,užkloti
+1345,zudecken::V,gorchuddio,uždengti
+1346,wecken::V,deffro,žadinti
+1347,zeigen::V,dangos,rodyti
+1348,führen::V,arwain,vesti
+1349,führen::V,arwain,vadovauti
+1350,lehren::V,dysgu,mokyti
+1351,lehren::V,dysgu,išmokyti
+1352,unterrichten::V,hyfforddi,dėstyti
+1353,aufziehen::V,dod i fyny,išauginti
+1354,leiten::V,arwain,valdyti
+1355,leiten::V,arwain,vadovauti
+1356,antreiben::V,annog,uiti
+1357,antreiben::V,annog,raginti
+1358,antreiben::V,annog,skubinti
+1359,lassen::V,gadael,paliepti
+1360,einladen::V,gwahodd,kviesti
+1361,einladen::V,gwahodd,pakviesti
+1362,vereinigen::V,uno,sujungti
+1363,vereinigen::V,uno,suvienyti
+1364,vereinigen::V,cyfuno,sujungti
+1365,vereinigen::V,cyfuno,suvienyti
+1366,besuchen::V,ymweld â,lankyti
+1367,besuchen::V,ymweld â,aplankyti
+1368,treffen::V,cwrdd,sutikti
+1369,treffen::V,cwrdd,pasitikti
+1370,treffen::V,cyfarfod,sutikti
+1371,treffen::V,cyfarfod,pasitikti
+1372,sich versammeln::V,casglu,susirinkti
+1373,sich versammeln::V,cynnull,susirinkti
+1374,spielen::V,chwarae,groti
+1375,spielen::V,chwarae,žaisti
+1376,singen::V,canu,dainuoti
+1377,tanzen::V,dawnsio,šokti
+1378,sich trennen::V,ymwahanu,skirtis
+1379,sich trennen::V,ymwahanu,išsiskirti
+1380,verlassen::V,gadael,palikti
+1381,retten::V,achub,gelbėti
+1382,bewachen::V,gwarchod,sergėti
+1383,schützen::V,noddi,ginti
+1384,schützen::V,noddi,apginti
+1385,verteidigen::V,amddiffyn,ginti
+1386,verteidigen::V,amddiffyn,apginti
+1387,sich schlagen::V,ffraeo,muštis
+1388,sich schlagen::V,terfysgu,muštis
+1389,schießen::V,saethu,šauti
+1390,schießen::V,saethu,šaudyti
+1391,siegen::V,ennill,nugalėti
+1392,ärgern::V,cythruddo,pykinti
+1393,schlagen::V,curo,mušti
+1394,schlagen::V,curo,smogti
+1395,schlagen::V,curo,trenkti
+1396,treten::V,cicio,mygti
+1397,stechen::V,pigo,gelti
+1398,stechen::V,pigo,smeigti
+1399,stoßen::V,gwthio,stumti
+1400,stoßen::V,gwthio,pastumti
+1401,stehlen::V,dwyn,vogti
+1402,stehlen::V,lladrata,vogti
+1403,stören::V,aflonyddu,trikdyti
+1404,belästigen::V,trafferthu,apsunkinti
+1405,verbergen::V,cuddio,slėpti
+1406,verbergen::V,cuddio,paslėpti
+1407,täuschen::V,twyllo,klaidinti
+1408,betrügen::V,hocedu,apgauti
+1409,töten::V,lladd,žudyti
+1410,töten::V,lladd,nužudyti
+1411,wohnen::V,byw,gyventi
+1412,arbeiten::V,gweithio,dirbti
+1413,arbeiten::V,gweithio,triūsti
+1414,sammeln::V,casglu,rinkti
+1415,pflücken::V,casglu,skinti
+1416,pflücken::V,casglu,raškyti
+1417,jagen::V,hela,medžioti
+1418,fischen::V,pysgota,žvejoti
+1419,fassen::V,dal,sučiupti
+1420,hüten::V,bugeilio,ganyti
+1421,treiben::V,gyrru,ginti
+1422,anbinden::V,clymu,pririšti
+1423,füttern::V,porthi,šerti
+1424,melken::V,godro,melžti
+1425,hacken::V,torri,kapoti
+1426,gießen::V,dyfrhau,lieti
+1427,gießen::V,dyfrhau,laistyti
+1428,reifen::V,aeddfedu,nokti
+1429,reifen::V,aeddfedu,sirpti
+1430,zubereiten::V,coginio,ruošti
+1431,zubereiten::V,coginio,gaminti
+1432,kochen::V,berwi,virti
+1433,kochen::V,berwi,virinti
+1434,backen::V,pobi,kepti
+1435,backen::V,crasu,kepti
+1436,braten::V,ffrio,kepti
+1437,braten::V,ffrio,kepinti
+1438,umrühren::V,cyffroi,maišyti
+1439,umrühren::V,cyffroi,pamaišyti
+1440,stricken::V,gwau,megzti
+1441,nähen::V,gwnïo,siūti
+1442,färben::V,lliwio,dažyti
+1443,färben::V,lliwio,nudažyti
+1444,reinigen::V,glanhau,valyti
+1445,reinigen::V,glanhau,švarinti
+1446,waschen::V,golchi,plauti
+1447,waschen::V,golchi,mazgoti
+1448,waschen::V,golchi,skalbti
+1449,abwischen::V,sychu,nušluostyti
+1450,spülen::V,streulio,plauti
+1451,spülen::V,streulio,skalauti
+1452,fegen::V,ysgubo,šluoti
+1453,kehren::V,ysgubo,šluoti
+1454,baden::V,cael bath,maudytis
+1455,sich waschen::V,ymolchi,praustis
+1456,ausziehen::V,tynnu,numauti
+1457,ausziehen::V,tynnu,nuvilkti
+1458,anziehen::V,gwisgo,mauti
+1459,anziehen::V,gwisgo,apsivilkti
+1460,sich anziehen::V,ymwisgo,rengtis
+1461,sich anziehen::V,ymwisgo,apsirengti
+1462,kämmen::V,cribo,šukuoti
+1463,schmücken::V,harddu,puošti
+1464,schmücken::V,harddu,dabinti
+1465,schmücken::V,harddu,gražinti
+1466,schmücken::V,addurno,puošti
+1467,schmücken::V,addurno,dabinti
+1468,schmücken::V,addurno,gražinti
+1469,sagen::V,dweud,tarti
+1470,sprechen::V,llefaru,kalbėti
+1471,reden::V,siarad,šnekėti
+1472,sich unterhalten::V,sgwrsio,kalbėtis
+1473,sich unterhalten::V,sgwrsio,šnekučiuotis
+1474,fragen::V,gofyn,klausti
+1475,bitten::V,gofyn am,prašyti
+1476,erzählen::V,dweud,pasakoti
+1477,mitteilen::V,cyfleu,skelbti
+1478,mitteilen::V,cyfleu,pranešti
+1479,nennen::V,enwi,vadinti
+1480,nennen::V,enwi,vardyti
+1481,rufen::V,galw,šaukti
+1482,rufen::V,galw,kviesti
+1483,prahlen::V,brolio,girtis
+1484,prahlen::V,ymffrostio,girtis
+1485,übersetzen::V,cyfieithu,versti
+1486,übersetzen::V,cyfieithu,išversti
+1487,denken::V,meddwl,galvoti
+1488,glauben::V,credu,manyti
+1489,glauben::V,credu,tikėti
+1490,glauben::V,coelio,manyti
+1491,glauben::V,coelio,tikėti
+1492,bemerken::V,sylwi,pamatyti
+1493,bemerken::V,sylwi,pastebėti
+1494,erkennen::V,adnabod,pažinti
+1495,erkennen::V,adnabod,atpažinti
+1496,begreifen::V,amgyffred,suvokti
+1497,verstehen::V,deall,suprasti
+1498,lernen::V,dysgu,mokytis
+1499,wissen::V,gwybod,žinoti
+1500,sich erinnern an::V,cofio,prisiminti
+1501,vergessen::V,anghofio,užmiršti
+1502,messen::V,mesur,matuoti
+1503,zählen::V,cyfrif,skaičiuoti
+1504,rechnen::V,cyfrifo,skaičiuoti
+1505,lesen::V,darllen,skaityti
+1506,malen::V,peintio,tapyti
+1507,zeichnen::V,tynnu,piešti
+1508,zeichnen::V,tynnu,žymėti
+1509,zeichnen::V,tynnu,braižyti
+1510,schreiben::V,ysgrifennu,rašyti
+1511,besitzen::V,meddu,turėti
+1512,kaufen::V,prynu,pirkti
+1513,verkaufen::V,gwerthu,parduoti
+1514,bezahlen::V,talu am,apmokėti
+1515,zahlen::V,talu,mokėti
+1516,beherrschen::V,rheoli,valdyti
+1517,beherrschen::V,llywodraethu,valdyti
+1518,ertragen::V,dioddef,kę̃sti
+1519,ertragen::V,dioddef,pakelti
+1520,ertragen::V,dioddef,iškę̃sti

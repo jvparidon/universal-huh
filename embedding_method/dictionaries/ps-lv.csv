@@ -1,0 +1,2917 @@
+,Concept_ID,ps,lv
+0,Auge::N,سترګه,син
+1,Auge::N,سترګه,acs
+2,Ohr::N,غوږ,пель
+3,Ohr::N,غوږ,auss
+4,Nase::N,پوزه,ныр
+5,Nase::N,پوزه,deguns
+6,Mund::N,خوله,вом
+7,Mund::N,خوله,mute
+8,Zahn::N,غاښ,пинь
+9,Zahn::N,غاښ,zobs
+10,Zunge::N,جبه,кыв
+11,Zunge::N,جبه,mēle
+12,Lippe::N,شونډه,вом дор
+13,Lippe::N,شونډه,lūpa
+14,Wange::N,باړخو,бан
+15,Wange::N,باړخو,vaigs
+16,Gesicht::N,مخ,чужӧм
+17,Gesicht::N,مخ,seja
+18,Gesicht::N,مخ,ģīmis
+19,Stirn::N,تندی,плеш
+20,Stirn::N,تندی,кымӧс
+21,Stirn::N,تندی,piere
+22,Stirn::N,وچولی,плеш
+23,Stirn::N,وچولی,кымӧс
+24,Stirn::N,وچولی,piere
+25,Haar::N,وېښته,си
+26,Haar::N,وېښته,юрси
+27,Haar::N,وېښته,mats
+28,Schnurrbart::N,برېت,ус
+29,Schnurrbart::N,برېت,пыртсим
+30,Schnurrbart::N,برېت,ūsas
+31,Bart::N,ږیره,тош
+32,Bart::N,ږیره,bārda
+33,Kinn::N,زنه,тшӧка
+34,Kinn::N,زنه,zods
+35,Kinn::N,زنه,smakrs
+36,Kiefer[Anatomie]::N,جامه,черлы
+37,Kiefer[Anatomie]::N,جامه,алака лы
+38,Kiefer[Anatomie]::N,جامه,вомкӧтш лы
+39,Kiefer[Anatomie]::N,جامه,žoklis
+40,Kehle::N,غاړه,голя
+41,Kehle::N,غاړه,rīkle
+42,Hals::N,غاړه,сьылі
+43,Hals::N,غاړه,kakls
+44,Genick::N,ورمېږ,юрбӧр
+45,Genick::N,ورمېږ,балябӧж
+46,Genick::N,ورمېږ,sprands
+47,Kopf::N,سر,юр
+48,Kopf::N,سر,galva
+49,Rücken::N,شا,мыш
+50,Rücken::N,شا,mugura
+51,Bauch::N,نس,рушку
+52,Bauch::N,نس,vēders
+53,Bauch::N,ګېډه,рушку
+54,Bauch::N,ګېډه,vēders
+55,Nabel::N,نوم,гӧг
+56,Nabel::N,نوم,naba
+57,Busen::N,تی,морӧс
+58,Busen::N,تی,krūts
+59,Brust::N,سینه,морӧс
+60,Brust::N,سینه,krūts
+61,Schulter::N,اوږه,пельпом
+62,Schulter::N,اوږه,plecs
+63,Arm::N,لاس,ки
+64,Arm::N,لاس,roka
+65,Arm::N,لاس,delms
+66,Ellenbogen::N,څنګل,гырддза
+67,Ellenbogen::N,څنګل,elkonis
+68,Hand::N,لاس,ки
+69,Hand::N,لاس,roka
+70,Hand::N,لاس,plauksta
+71,Handfläche::N,ورغوی,ки пыдӧс
+72,Handfläche::N,ورغوی,delna
+73,Handfläche::N,ورغوی,plauksta
+74,Finger::N,ګوته,чунь
+75,Finger::N,ګوته,pirksts
+76,Fingernagel::N,نوک,гыж
+77,Fingernagel::N,نوک,nags
+78,Nagel[Anatomie]::N,نوک,гыж
+79,Nagel[Anatomie]::N,نوک,nags
+80,Zeh::N,ګوته,кок чунь
+81,Zeh::N,ګوته,pirksts
+82,Fuß::N,پښه,кок
+83,Fuß::N,پښه,kāja
+84,Ferse::N,پونده,кокбӧр
+85,Ferse::N,پونده,papēdis
+86,Knie::N,زنګون,пидзӧс
+87,Knie::N,زنګون,celis
+88,Oberschenkel::N,پتون,лядьвей
+89,Oberschenkel::N,پتون,бек
+90,Oberschenkel::N,پتون,ciska
+91,Oberschenkel::N,پتون,augšstilbs
+92,Bein::N,پښه,кок
+93,Bein::N,پښه,kāja
+94,Körper::N,ځان,туша
+95,Körper::N,ځان,вывтыр
+96,Körper::N,ځان,miesa
+97,Körper::N,ځان,ķermenis
+98,Haut::N,پوټکی,ку
+99,Haut::N,پوټکی,āda
+100,Blut::N,وینه,вир
+101,Blut::N,وینه,asins
+102,Ader::N,رګ,сӧн
+103,Ader::N,رګ,asinsvads
+104,Sehne::N,پله,вез
+105,Sehne::N,پله,dzīsla
+106,Knochen::N,هډوکی,лы
+107,Knochen::N,هډوکی,kauls
+108,Gehirn::N,ماغزه,вем
+109,Gehirn::N,ماغزه,smadzenes
+110,Herz::N,زړه,сьӧлӧм
+111,Herz::N,زړه,sirds
+112,Magen::N,معده,кынӧм
+113,Magen::N,معده,kuņģis
+114,Leber::N,ينه,мус
+115,Leber::N,ينه,aknas
+116,Leber::N,ځیګر,мус
+117,Leber::N,ځیګر,aknas
+118,Atem::N,نفس,лов
+119,Atem::N,نفس,elpa
+120,Hunger::N,ولږه,тшыг
+121,Hunger::N,ولږه,bads
+122,Hunger::N,ولږه,izsalkums
+123,Träne::N,اوښکه,синва
+124,Träne::N,اوښکه,asara
+125,Geschmack::N,مزه,кӧр
+126,Geschmack::N,مزه,чӧсмӧс
+127,Geschmack::N,مزه,garša
+128,Geschmack::N,خوند,кӧр
+129,Geschmack::N,خوند,чӧсмӧс
+130,Geschmack::N,خوند,garša
+131,Geruch::N,بوی,зын
+132,Geruch::N,بوی,дук
+133,Geruch::N,بوی,smaka
+134,Schlaf::N,خوب,узьӧм
+135,Schlaf::N,خوب,miegs
+136,Traum::N,خوب,вӧт
+137,Traum::N,خوب,вӧтасьӧм
+138,Traum::N,خوب,sapnis
+139,Himmel::N,اسمان,енэж
+140,Himmel::N,اسمان,debess
+141,Sonne::N,لمر,шонді
+142,Sonne::N,لمر,saule
+143,Mond::N,سپوږمۍ,тӧлысь
+144,Mond::N,سپوږمۍ,mēness
+145,Stern::N,ستوری,кодзув
+146,Stern::N,ستوری,zvaigzne
+147,Luft::N,هوا,сынӧд
+148,Luft::N,هوا,gaiss
+149,Wind::N,ورښ,тӧв
+150,Wind::N,ورښ,vējš
+151,Welle::N,موج,гы
+152,Welle::N,موج,vilnis
+153,Wasser::N,اوبه,ва
+154,Wasser::N,اوبه,ūdens
+155,Stein::N,ډبره,из
+156,Stein::N,ډبره,akmens
+157,Boden::N,مځکه,му
+158,Boden::N,مځکه,augsne
+159,Erde::N,خاوره,му
+160,Erde::N,خاوره,му-ва
+161,Erde::N,خاوره,zeme
+162,Staub::N,ګرد,бус
+163,Staub::N,ګرد,putekļi
+164,Staub::N,خاوره,бус
+165,Staub::N,خاوره,putekļi
+166,Rauch::N,دود,тшын
+167,Rauch::N,دود,dūmi
+168,Rauch::N,لوګی,тшын
+169,Rauch::N,لوګی,dūmi
+170,Funke::N,سپرغۍ,кинь
+171,Funke::N,سپرغۍ,би кинь
+172,Funke::N,سپرغۍ,dzirkstele
+173,Feuer::N,اور,би
+174,Feuer::N,اور,uguns
+175,Licht::N,رڼا,югӧр
+176,Licht::N,رڼا,gaisma
+177,Schatten::N,سیوری,вуджӧр
+178,Schatten::N,سیوری,ēna
+179,Wetter::N,هوا,поводдя
+180,Wetter::N,هوا,laiks
+181,Nebel::N,لړه,ру
+182,Nebel::N,لړه,онь
+183,Nebel::N,لړه,migla
+184,Wolke::N,ورېځ,кымӧр
+185,Wolke::N,ورېځ,mākonis
+186,Regen::N,وریا,зэр
+187,Regen::N,وریا,lietus
+188,Regen::N,باران,зэр
+189,Regen::N,باران,lietus
+190,Schnee::N,واوره,лым
+191,Schnee::N,واوره,sniegs
+192,Eis::N,یخ,йи
+193,Eis::N,یخ,ledus
+194,Eis::N,کنګل,йи
+195,Eis::N,کنګل,ledus
+196,Frost::N,یخ,кӧдзыд
+197,Frost::N,یخ,sals
+198,Kälte::N,ساړه,кӧдзыд
+199,Kälte::N,ساړه,saltums
+200,Kälte::N,ساړه,aukstums
+201,Hitze::N,تودوخي,пӧсь
+202,Hitze::N,تودوخي,гожӧд
+203,Hitze::N,تودوخي,karstums
+204,Raureif::N,سپینه پرخه,пуж
+205,Raureif::N,سپینه پرخه,гыӧр
+206,Raureif::N,سپینه پرخه,sarma
+207,Regenbogen::N,بوډۍ ټال,ӧшкамӧшка
+208,Regenbogen::N,بوډۍ ټال,varavīksne
+209,Regenbogen::N,سره زرغونه,ӧшкамӧшка
+210,Regenbogen::N,سره زرغونه,varavīksne
+211,Donner::N,تالنده,гым
+212,Donner::N,تالنده,pērkons
+213,Strömung::N,بهېدنه,ва ныр
+214,Strömung::N,بهېدنه,визувтӧм
+215,Strömung::N,بهېدنه,straume
+216,Strömung::N,بهېدنه,strāvojums
+217,Tropfen::N,قطره,войт
+218,Tropfen::N,قطره,lāse
+219,Tropfen::N,څاڅکی,войт
+220,Tropfen::N,څاڅکی,lāse
+221,Schaum::N,ځګ,быг
+222,Schaum::N,ځګ,быгзьӧм
+223,Schaum::N,ځګ,putas
+224,Schmutz::N,ناپاکي,няйт
+225,Schmutz::N,ناپاکي,dubļi
+226,See::N,جهیل,ты
+227,See::N,جهیل,ezers
+228,Sumpf::N,جبه,гыбад
+229,Sumpf::N,جبه,кад
+230,Sumpf::N,جبه,dumbrājs
+231,Sumpf::N,جبه,staignājs
+232,Moor::N,جبه,нюр
+233,Moor::N,جبه,purvs
+234,Moor::N,جبه,muklājs
+235,Wiese::N,چمن,видз
+236,Wiese::N,چمن,pļava
+237,Wiese::N,شنېلی,видз
+238,Wiese::N,شنېلی,pļava
+239,Wald::N,ځنګل,вӧр
+240,Wald::N,ځنګل,mežs
+241,Hügel::N,تپه,дзиб
+242,Hügel::N,تپه,мыльк
+243,Hügel::N,تپه,нӧрыс
+244,Hügel::N,تپه,paugurs
+245,Anhöhe::N,غونډۍ,мыльк
+246,Anhöhe::N,غونډۍ,нӧрыс
+247,Anhöhe::N,غونډۍ,paugurs
+248,Berg::N,غ‍‍‍‍‍ر,чой
+249,Berg::N,غ‍‍‍‍‍ر,керӧс
+250,Berg::N,غ‍‍‍‍‍ر,kalns
+251,Gipfel::N,څوکه,чук
+252,Gipfel::N,څوکه,virsotne
+253,Höhle::N,کاز,рудӧг
+254,Höhle::N,کاز,ala
+255,Abhang::N,لمن,ньывк
+256,Abhang::N,لمن,бокша
+257,Abhang::N,لمن,nogāze
+258,Quelle::N,چینه,ӧшмӧс
+259,Quelle::N,چینه,avots
+260,Bach::N,واله,шор
+261,Bach::N,واله,urga
+262,Bach::N,واله,strauts
+263,Fluss::N,سیند,ю
+264,Fluss::N,سیند,upe
+265,Ufer::N,غاړه,вадор
+266,Ufer::N,غاړه,krasts
+267,Küste::N,ساحل,вадор
+268,Küste::N,ساحل,piekraste
+269,Festland::N,وچه,му
+270,Festland::N,وچه,sauszeme
+271,Meer::N,بحر,саридз
+272,Meer::N,بحر,jūra
+273,Meer::N,سمندر,саридз
+274,Meer::N,سمندر,jūra
+275,Bucht::N,کارۍ,куръя
+276,Bucht::N,کارۍ,līcis
+277,Insel::N,ټاپو,ді
+278,Insel::N,ټاپو,sala
+279,Insel::N,جزيره,ді
+280,Insel::N,جزيره,sala
+281,Blume::N,ګل,дзоридз
+282,Blume::N,ګل,puķe
+283,Blume::N,ګل,zieds
+284,Gras::N,واښه,турун
+285,Gras::N,واښه,zāle
+286,Wurzel::N,ریښه,вуж
+287,Wurzel::N,ریښه,sakne
+288,Baum::N,ونه,пу
+289,Baum::N,ونه,koks
+290,Stamm::N,ډډ,пучер
+291,Stamm::N,ډډ,stumbrs
+292,Rinde::N,پوستکی,кырсь
+293,Rinde::N,پوستکی,miza
+294,Ast::N,ښاخ,ув
+295,Ast::N,ښاخ,zars
+296,Zweig::N,څانګه,вож
+297,Zweig::N,څانګه,nozare
+298,Blatt::N,پاڼه,кор
+299,Blatt::N,پاڼه,lapa
+300,Birke::N,توس,кыдз
+301,Birke::N,توس,bērzs
+302,Kiefer[Baum]::N,نښتر,пожӧм
+303,Kiefer[Baum]::N,نښتر,priede
+304,Weide[Baum]::N,وله,бадь
+305,Weide[Baum]::N,وله,kārkls
+306,Tanne::N,ناجو,коз
+307,Tanne::N,ناجو,egle
+308,Horn::N,ښکر,сюр
+309,Horn::N,ښکر,rags
+310,Feder::N,بڼکه,гӧн
+311,Feder::N,بڼکه,тывборд
+312,Feder::N,بڼکه,spalva
+313,Fell::N,پوستکی,ку
+314,Fell::N,پوستکی,āda
+315,Flügel::N,وزر,борд
+316,Flügel::N,وزر,spārns
+317,Klaue::N,پنجه,гыж
+318,Klaue::N,پنجه,nags
+319,Klaue::N,منګول,гыж
+320,Klaue::N,منګول,nags
+321,Kralle::N,پنجه,гыж
+322,Kralle::N,پنجه,nags
+323,Kralle::N,منګول,гыж
+324,Kralle::N,منګول,nags
+325,Schwanz::N,لکۍ,бӧж
+326,Schwanz::N,لکۍ,ļipa
+327,Ei::N,وۍ,кольк
+328,Ei::N,وۍ,ola
+329,Ei::N,هګۍ,кольк
+330,Ei::N,هګۍ,ola
+331,Nest::N,جاله,поз
+332,Nest::N,جاله,ligzda
+333,Bau::N,کاز,горс
+334,Bau::N,کاز,пырмӧс
+335,Bau::N,کاز,гу
+336,Bau::N,کاز,ala
+337,Tier::N,ژوی,пемӧс
+338,Tier::N,ژوی,dzīvnieks
+339,Tier::N,حیوان,пемӧс
+340,Tier::N,حیوان,dzīvnieks
+341,Herde::N,رمه,стада
+342,Herde::N,رمه,кельӧб
+343,Herde::N,رمه,ganāmpulks
+344,Herde::N,غېله,стада
+345,Herde::N,غېله,кельӧб
+346,Herde::N,غېله,ganāmpulks
+347,Kuh::N,غوا,мӧс
+348,Kuh::N,غوا,govs
+349,Bulle::N,غوئی,ӧш
+350,Bulle::N,غوئی,bullis
+351,Pferd::N,آس,вӧв
+352,Pferd::N,آس,zirgs
+353,Schaf::N,پسه,ыж
+354,Schaf::N,پسه,aita
+355,Schwein::N,سرکوزی,порсь
+356,Schwein::N,سرکوزی,cūka
+357,Hund::N,سپی,пон
+358,Hund::N,سپی,suns
+359,Katze::N,پشه,кань
+360,Katze::N,پشه,kaķis
+361,Bär::N,خرس,ош
+362,Bär::N,خرس,lācis
+363,Eichhörnchen::N,خړ لمی,ур
+364,Eichhörnchen::N,خړ لمی,vāvere
+365,Elch::N,ګوزن,йӧра
+366,Elch::N,ګوزن,alnis
+367,Fuchs::N,سپلم,руч
+368,Fuchs::N,سپلم,lapsa
+369,Hase::N,سوی,кӧч
+370,Hase::N,سوی,zaķis
+371,Maus::N,مږک,шыр
+372,Maus::N,مږک,pele
+373,Wolf::N,لېوه,кӧин
+374,Wolf::N,لېوه,vilks
+375,Vogel::N,مرغه,кай
+376,Vogel::N,مرغه,лэбач
+377,Vogel::N,مرغه,putns
+378,Schwarm::N,سېل,чукӧр
+379,Schwarm::N,سېل,spiets
+380,Huhn::N,چرګه,курӧг
+381,Huhn::N,چرګه,vista
+382,Hahn::N,چرګ,петук
+383,Hahn::N,چرګ,gailis
+384,Gans::N,بته,дзодзӧг
+385,Gans::N,بته,zoss
+386,Adler::N,عقاب,кутш
+387,Adler::N,عقاب,ērglis
+388,Ente::N,ایلۍ,утка
+389,Ente::N,ایلۍ,pīle
+390,Eule::N,ګونګی,сюзь
+391,Eule::N,ګونګی,pūce
+392,Kranich::N,کلنګ,тури
+393,Kranich::N,کلنګ,dzērve
+394,Krähe::N,کارغه,рака
+395,Krähe::N,کارغه,vārna
+396,Kuckuck::N,فاخته,кӧк
+397,Kuckuck::N,فاخته,dzeguze
+398,Schwan::N,قو,юсь
+399,Schwan::N,قو,gulbis
+400,Fisch::N,کب,чери
+401,Fisch::N,کب,zivs
+402,Fisch::N,ماهی,чери
+403,Fisch::N,ماهی,zivs
+404,Schlange[Tier]::N,مار,кый
+405,Schlange[Tier]::N,مار,čūska
+406,Wurm::N,چینجی,номыр
+407,Wurm::N,چینجی,tārps
+408,Spinne::N,غڼه,черань
+409,Spinne::N,غڼه,zirneklis
+410,Spinne::N,تارکښ,черань
+411,Spinne::N,تارکښ,zirneklis
+412,Ameise::N,مېږی,кодзувкот
+413,Ameise::N,مېږی,skudra
+414,Laus::N,سپږه,той
+415,Laus::N,سپږه,uts
+416,Mücke::N,ماشی,ном
+417,Mücke::N,ماشی,ods
+418,Fliege::N,مچ,гут
+419,Fliege::N,مچ,muša
+420,Schmetterling::N,پتنګ,бобув
+421,Schmetterling::N,پتنګ,tauriņš
+422,Beere::N,مېوۍ,тусь
+423,Beere::N,مېوۍ,вотӧс
+424,Beere::N,مېوۍ,oga
+425,Apfel::N,مڼه,яблӧг
+426,Apfel::N,مڼه,ābols
+427,Pilz::N,خرېړی,тшак
+428,Pilz::N,خرېړی,sēne
+429,Zwiebel::N,پیاز,луккок
+430,Zwiebel::N,پیاز,йӧнгыль
+431,Zwiebel::N,پیاز,sīpols
+432,Saat::N,تخم,тусь
+433,Saat::N,تخم,кӧйдыс
+434,Saat::N,تخم,sēkla
+435,Korn::N,تخم,тусь
+436,Korn::N,تخم,grauds
+437,Korn::N,دانه,тусь
+438,Korn::N,دانه,grauds
+439,Heu::N,بوس,турун
+440,Heu::N,بوس,siens
+441,Heu::N,پروړه,турун
+442,Heu::N,پروړه,siens
+443,Schale::N,پوستکی,кор
+444,Schale::N,پوستکی,čaula
+445,Schale::N,پوستکی,čaumala
+446,Grube::N,کنده,гу
+447,Grube::N,کنده,bedre
+448,Falle::N,دام,лэч
+449,Falle::N,دام,slazds
+450,Falle::N,دام,lamatas
+451,Falle::N,لومه,лэч
+452,Falle::N,لومه,slazds
+453,Falle::N,لومه,lamatas
+454,Schlinge::N,کړۍ,лэч
+455,Schlinge::N,کړۍ,cilpa
+456,Spur::N,نښه,туй
+457,Spur::N,نښه,pēda
+458,Asche::N,آس,пӧм
+459,Asche::N,آس,pelni
+460,Asche::N,ایره,пӧм
+461,Asche::N,ایره,pelni
+462,Dreck::N,ناپاکي,няйт
+463,Dreck::N,ناپاکي,dubļi
+464,Eisen::N,اوسپنه,кӧрт
+465,Eisen::N,اوسپنه,dzelzs
+466,Gold::N,سره زر,зарни
+467,Gold::N,سره زر,zelts
+468,Silber::N,نقره,эзысь
+469,Silber::N,نقره,sudrabs
+470,Silber::N,سپین زر,эзысь
+471,Silber::N,سپین زر,sudrabs
+472,Kohle::N,سکور,шом
+473,Kohle::N,سکور,ogle
+474,Kohle::N,سکاره,шом
+475,Kohle::N,سکاره,ogle
+476,Glas::N,ښيښه,стеклӧ
+477,Glas::N,ښيښه,stikls
+478,Lehm::N,خټه,сёй
+479,Lehm::N,خټه,māls
+480,Sand::N,شګه,лыа
+481,Sand::N,شګه,smiltis
+482,Mensch::N,انسان,морт
+483,Mensch::N,انسان,cilvēks
+484,Mann::N,سړی,аймӧрт
+485,Mann::N,سړی,мужичӧй
+486,Mann::N,سړی,vīrietis
+487,Mann::N,نارینه,аймӧрт
+488,Mann::N,نارینه,мужичӧй
+489,Mann::N,نارینه,vīrietis
+490,Frau::N,ښځه,ань
+491,Frau::N,ښځه,нывбаба
+492,Frau::N,ښځه,sieviete
+493,Kind::N,بچی,кага
+494,Kind::N,بچی,bērns
+495,Kind::N,ماشوم,кага
+496,Kind::N,ماشوم,bērns
+497,Junge::N,هلک,пи
+498,Junge::N,هلک,zēns
+499,Junge::N,هلک,puika
+500,Junge::N,هلک,puisis
+501,Mädchen::N,نجلۍ,ныв
+502,Mädchen::N,نجلۍ,meiča
+503,Mädchen::N,نجلۍ,skuķis
+504,Mädchen::N,نجلۍ,meitene
+505,Familie::N,کورنۍ,семья
+506,Familie::N,کورنۍ,ģimene
+507,Großvater::N,بابا,пӧль
+508,Großvater::N,بابا,vecaistēvs
+509,Großmutter::N,انا,баб
+510,Großmutter::N,انا,vecāmāte
+511,Eltern::N,مور او پلار,ай-мам
+512,Eltern::N,مور او پلار,бать-мам
+513,Eltern::N,مور او پلار,vecāki
+514,Vater::N,پلار,бать
+515,Vater::N,پلار,ай
+516,Vater::N,پلار,tēvs
+517,Mutter::N,مور,мам
+518,Mutter::N,مور,māte
+519,Sohn::N,زوی,пи
+520,Sohn::N,زوی,dēls
+521,Tochter::N,لور,ныв
+522,Tochter::N,لور,meita
+523,Bruder::N,ورور,вок
+524,Bruder::N,ورور,brālis
+525,Schwester::N,خور,чой
+526,Schwester::N,خور,māsa
+527,Onkel::N,تره,дядь
+528,Onkel::N,تره,tēvocis
+529,Onkel::N,ماما,дядь
+530,Onkel::N,ماما,tēvocis
+531,Tante::N,خاله,тьӧт
+532,Tante::N,خاله,tante
+533,Ehemann::N,مېړه,верӧс
+534,Ehemann::N,مېړه,vīrs
+535,Ehefrau::N,مېرمن,гӧтыр
+536,Ehefrau::N,مېرمن,sieva
+537,Freude::N,خوشحالي,радлун
+538,Freude::N,خوشحالي,prieks
+539,Gelächter::N,خندا,серам
+540,Gelächter::N,خندا,smiekli
+541,Glück::N,بخت,шуд
+542,Glück::N,بخت,laime
+543,Kummer::N,غم,шог
+544,Kummer::N,غم,bēdas
+545,Kummer::N,غم,raizes
+546,Wunsch::N,هيله,кӧсйӧм
+547,Wunsch::N,هيله,vēlme
+548,Wunsch::N,هيله,vēlējums
+549,Wunsch::N,غوښتنه,кӧсйӧм
+550,Wunsch::N,غوښتنه,vēlme
+551,Wunsch::N,غوښتنه,vēlējums
+552,Lust::N,شوق,кыскӧм
+553,Lust::N,شوق,радейтӧм
+554,Lust::N,شوق,kāre
+555,Lust::N,مینه,кыскӧм
+556,Lust::N,مینه,радейтӧм
+557,Lust::N,مینه,kāre
+558,Geist::N,روح,лов
+559,Geist::N,روح,gars
+560,Gedanke::N,فکر,мӧвп
+561,Gedanke::N,فکر,doma
+562,Gedächtnis::N,یاد,паметь
+563,Gedächtnis::N,یاد,atmiņa
+564,Gedächtnis::N,حافظه,паметь
+565,Gedächtnis::N,حافظه,atmiņa
+566,Verstand::N,عقل,вежӧр
+567,Verstand::N,عقل,prāts
+568,Verstand::N,شعور,вежӧр
+569,Verstand::N,شعور,prāts
+570,Sinn::N,معنی,мог
+571,Sinn::N,معنی,вежӧртас
+572,Sinn::N,معنی,nozīme
+573,Grund::N,علت,помка
+574,Grund::N,علت,pamats
+575,Grund::N,علت,iemesls
+576,Grund::N,اساس,помка
+577,Grund::N,اساس,pamats
+578,Grund::N,اساس,iemesls
+579,Wahrheit::N,حقیقت,збыль
+580,Wahrheit::N,حقیقت,збыльтор
+581,Wahrheit::N,حقیقت,taisnība
+582,Wahrheit::N,حقیقت,patiesība
+583,Gespräch::N,مرکه,сёрни
+584,Gespräch::N,مرکه,saruna
+585,Gespräch::N,خبرې اترې,сёрни
+586,Gespräch::N,خبرې اترې,saruna
+587,Märchen::N,افسانه,мойд
+588,Märchen::N,افسانه,pasaka
+589,Erzählung::N,قصه,висьт
+590,Erzählung::N,قصه,stāsts
+591,Erzählung::N,قصه,nostāsts
+592,Erzählung::N,کیسه,висьт
+593,Erzählung::N,کیسه,stāsts
+594,Erzählung::N,کیسه,nostāsts
+595,Nachricht::N,خبر,юӧртӧм
+596,Nachricht::N,خبر,ziņa
+597,Neuigkeit::N,نوی خبر,выльтор
+598,Neuigkeit::N,نوی خبر,jaunums
+599,Name::N,نوم,ним
+600,Name::N,نوم,vārds
+601,Rätsel::N,کیسۍ,нӧдкыв
+602,Rätsel::N,کیسۍ,mīkla
+603,Rätsel::N,چیستان,нӧдкыв
+604,Rätsel::N,چیستان,mīkla
+605,Rede::N,وینا,сёрни
+606,Rede::N,وینا,runa
+607,Sprache::N,ژبه,кыв
+608,Sprache::N,ژبه,valoda
+609,Stimme::N,غږ,гӧлӧс
+610,Stimme::N,غږ,вом шы
+611,Stimme::N,غږ,balss
+612,Stimme::N,اواز,гӧлӧс
+613,Stimme::N,اواز,вом шы
+614,Stimme::N,اواز,balss
+615,Wort::N,لغت,кыв
+616,Wort::N,لغت,vārds
+617,Wort::N,کلمه,кыв
+618,Wort::N,کلمه,vārds
+619,Zeichen::N,نښه,пас
+620,Zeichen::N,نښه,zīme
+621,Zeichen::N,اشاره,пас
+622,Zeichen::N,اشاره,zīme
+623,Ruf::N,ږغ,чукӧстчӧм
+624,Ruf::N,ږغ,корӧм
+625,Ruf::N,ږغ,sauciens
+626,Ruf::N,بلنه,чукӧстчӧм
+627,Ruf::N,بلنه,корӧм
+628,Ruf::N,بلنه,sauciens
+629,Lärm::N,غالمغال,шы
+630,Lärm::N,غالمغال,зык
+631,Lärm::N,غالمغال,зычитӧм
+632,Lärm::N,غالمغال,troksnis
+633,Laut::N,ږغ,шы
+634,Laut::N,ږغ,skaņa
+635,Ton::N,اواز,шы
+636,Ton::N,اواز,tonis
+637,Lied::N,غزله,сьылан
+638,Lied::N,غزله,сьыланкыв
+639,Lied::N,غزله,dziesma
+640,Lied::N,سندره,сьылан
+641,Lied::N,سندره,сьыланкыв
+642,Lied::N,سندره,dziesma
+643,Ruhe::N,ارامي,чӧв
+644,Ruhe::N,ارامي,miers
+645,Leute::N,خلک,йӧз
+646,Leute::N,خلک,войтыр
+647,Leute::N,خلک,ļaudis
+648,Leute::N,خلک,cilvēki
+649,Volk::N,ولس,йӧз
+650,Volk::N,ولس,войтыр
+651,Volk::N,ولس,tauta
+652,Arbeit::N,کار,удж
+653,Arbeit::N,کار,darbs
+654,Gast::N,مېلمه,гӧсть
+655,Gast::N,مېلمه,viešņa
+656,Gast::N,مېلمه,ciemiņš
+657,Geschenk::N,تحفه,козин
+658,Geschenk::N,تحفه,dāvana
+659,Geschenk::N,سوغات,козин
+660,Geschenk::N,سوغات,dāvana
+661,Spiel::N,لوبه,ворсан
+662,Spiel::N,لوبه,rotaļa
+663,Gesellschaft::N,ډله,котыр
+664,Gesellschaft::N,ډله,biedrība
+665,Gesellschaft::N,ډله,kompānija
+666,Hilfe::N,کومک,отсӧг
+667,Hilfe::N,کومک,palīdzība
+668,Hilfe::N,مرسته,отсӧг
+669,Hilfe::N,مرسته,palīdzība
+670,Freund::N,ملګری,ёрт
+671,Freund::N,ملګری,draugs
+672,Kamerad::N,انډيوال,ёрт
+673,Kamerad::N,انډيوال,biedrs
+674,Angelegenheit::N,موضوع,мог
+675,Angelegenheit::N,موضوع,делӧ
+676,Angelegenheit::N,موضوع,darīšana
+677,Anzahl::N,شمېر,лыд
+678,Anzahl::N,شمېر,тшӧт
+679,Anzahl::N,شمېر,skaits
+680,Anzahl::N,شمېر,daudzums
+681,Anzahl::N,تعداد,лыд
+682,Anzahl::N,تعداد,тшӧт
+683,Anzahl::N,تعداد,skaits
+684,Anzahl::N,تعداد,daudzums
+685,Art::N,ډول,сикас
+686,Art::N,ډول,suga
+687,Art::N,ډول,šķira
+688,Stück::N,ټوټه,тор
+689,Stück::N,ټوټه,gabals
+690,Teil::N,برخه,юкӧн
+691,Teil::N,برخه,daļa
+692,Hälfte::N,نیم,пӧв
+693,Hälfte::N,نیم,джын
+694,Hälfte::N,نیم,puse
+695,Kreis::N,دایره,кытш
+696,Kreis::N,دایره,aplis
+697,Kreis::N,دایره,riņķis
+698,Kreuz::N,صلیب,перна
+699,Kreuz::N,صلیب,крест
+700,Kreuz::N,صلیب,krusts
+701,Linie::N,خط,визь
+702,Linie::N,خط,līnija
+703,Linie::N,لیکه,визь
+704,Linie::N,لیکه,līnija
+705,Strich::N,کرښه,визь
+706,Strich::N,کرښه,svītra
+707,Abstand::N,فاصله,кост
+708,Abstand::N,فاصله,коласт
+709,Abstand::N,فاصله,atstarpe
+710,Entfernung::N,واټن,ылна
+711,Entfernung::N,واټن,attālums
+712,Entfernung::N,واټن,atstatums
+713,Gegend::N,سیمه,му-ва
+714,Gegend::N,سیمه,apvidus
+715,Gegend::N,سیمه,apgabals
+716,Gegend::N,منطقه,му-ва
+717,Gegend::N,منطقه,apvidus
+718,Gegend::N,منطقه,apgabals
+719,Platz::N,ځای,ылдӧс
+720,Platz::N,ځای,йир
+721,Platz::N,ځای,гӧгӧртас
+722,Platz::N,ځای,vieta
+723,Ort::N,ځای,ин
+724,Ort::N,ځای,места
+725,Ort::N,ځای,vieta
+726,Seite::N,مخ,бок
+727,Seite::N,مخ,ӧтарладор
+728,Seite::N,مخ,sāns
+729,Seite::N,اړخ,бок
+730,Seite::N,اړخ,ӧтарладор
+731,Seite::N,اړخ,sāns
+732,Mitte::N,وسط,шӧр
+733,Mitte::N,وسط,vidus
+734,Mitte::N,مینځ,шӧр
+735,Mitte::N,مینځ,vidus
+736,Gegenstand::N,شی,кӧлуй
+737,Gegenstand::N,شی,priekšmets
+738,Sache::N,شی,добра
+739,Sache::N,شی,lieta
+740,Sache::N,څيز,добра
+741,Sache::N,څيز,lieta
+742,Rand::N,څنډه,дор
+743,Rand::N,څنډه,mala
+744,Rand::N,څنډه,apmale
+745,Rand::N,کناره,дор
+746,Rand::N,کناره,mala
+747,Rand::N,کناره,apmale
+748,Kante::N,اړخ,дор
+749,Kante::N,اړخ,šķautne
+750,Ecke::N,ګوټ,пельӧс
+751,Ecke::N,ګوټ,kakts
+752,Ecke::N,ګوټ,stūris
+753,Spitze::N,څوکه,йыв
+754,Spitze::N,څوکه,smaile
+755,Spitze::N,څوکه,galotne
+756,Ende::N,څوکه,пом
+757,Ende::N,څوکه,gals
+758,Ende::N,څوکه,uzgalis
+759,Loch::N,سوری,розь
+760,Loch::N,سوری,caurums
+761,Winkel::N,کنج,пельӧс
+762,Winkel::N,کنج,leņķis
+763,Winkel::N,کوتی,пельӧс
+764,Winkel::N,کوتی,leņķis
+765,Muster::N,نمونه,сер
+766,Muster::N,نمونه,piemērs
+767,Größe::N,قد,ыджда
+768,Größe::N,قد,lielums
+769,Größe::N,لويوالی,ыджда
+770,Größe::N,لويوالی,lielums
+771,Länge::N,طول,кузьта
+772,Länge::N,طول,garums
+773,Länge::N,اوږد والی,кузьта
+774,Länge::N,اوږد والی,garums
+775,Höhe::N,جګوالی,джуджда
+776,Höhe::N,جګوالی,augstums
+777,Gewicht::N,وزن,сьӧкта
+778,Gewicht::N,وزن,сьӧкталун
+779,Gewicht::N,وزن,svars
+780,Gewicht::N,وزن,smagums
+781,Menge::N,اندازه,лун
+782,Menge::N,اندازه,числӧ
+783,Menge::N,اندازه,masa
+784,Menge::N,اندازه,daudzums
+785,Haufen::N,کوټه,чукӧр
+786,Haufen::N,کوټه,čupa
+787,Haufen::N,کوټه,grēda
+788,Haufen::N,کوټه,kaudze
+789,Reihe::N,صف,рад
+790,Reihe::N,صف,rinda
+791,Reihe::N,صف,virkne
+792,Reihe::N,کتار,рад
+793,Reihe::N,کتار,rinda
+794,Reihe::N,کتار,virkne
+795,Boot::N,قايق,пыж
+796,Boot::N,قايق,laiva
+797,Ruder::N,چپه,пелыс
+798,Ruder::N,چپه,ӧпаснӧй
+799,Ruder::N,چپه,airis
+800,Ruder::N,چپه,irklis
+801,Schlitten::N,ښویېدونی,дадь
+802,Schlitten::N,ښویېدونی,ragavas
+803,Ski::N,سکي,лызь
+804,Ski::N,سکي,slēpe
+805,Lagerfeuer::N,اور,бипур
+806,Lagerfeuer::N,اور,ugunskurs
+807,Last::N,بار,сьӧкыдтор
+808,Last::N,بار,krava
+809,Last::N,پېټی,сьӧкыдтор
+810,Last::N,پېټی,krava
+811,Gang::N,تګ,мунӧм
+812,Gang::N,تګ,ветлӧм
+813,Gang::N,تګ,eja
+814,Gang::N,تګ,gājums
+815,Schritt::N,ګام,воськов
+816,Schritt::N,ګام,воськовтӧм
+817,Schritt::N,ګام,solis
+818,Norden::N,شمال,войвыв
+819,Norden::N,شمال,ziemeļi
+820,Süden::N,سوېل,лунвыв
+821,Süden::N,سوېل,dienvidi
+822,Westen::N,لوېدېځ,рытыв
+823,Westen::N,لوېدېځ,rietumi
+824,Osten::N,شرق,асыв
+825,Osten::N,شرق,austrumi
+826,Osten::N,ختیځ,асыв
+827,Osten::N,ختیځ,austrumi
+828,Holz::N,لرګی,пу
+829,Holz::N,لرګی,koks
+830,Holz::N,لرګی,koksne
+831,Brett::N,تخته,пӧв
+832,Brett::N,تخته,dēlis
+833,Platte::N,تخته,плита
+834,Platte::N,تخته,plate
+835,Platte::N,تخته,plāksne
+836,Stütze::N,تکیوان,пыкӧд
+837,Stütze::N,تکیوان,мыджӧд
+838,Stütze::N,تکیوان,balsts
+839,Stütze::N,تکیوان,atspaids
+840,Stange::N,ډاګه,потш
+841,Stange::N,ډاګه,maikste
+842,Stock::N,لرګی,бедь
+843,Stock::N,لرګی,boze
+844,Stock::N,لرګی,spieķis
+845,Stab::N,چيخله,зир
+846,Stab::N,چيخله,zizlis
+847,Rohr::N,نل,труба
+848,Rohr::N,نل,caurule
+849,Haus::N,کور,керка
+850,Haus::N,کور,māja
+851,Heim::N,کور,горт
+852,Heim::N,کور,mājas
+853,Ofen::N,تودنۍ,пач
+854,Ofen::N,تودنۍ,krāsns
+855,Fußboden::N,غولی,джодж
+856,Fußboden::N,غولی,grīda
+857,Tisch::N,مېز,пызан
+858,Tisch::N,مېز,galds
+859,Stuhl::N,چوکۍ,улӧс
+860,Stuhl::N,چوکۍ,krēsls
+861,Wiege::N,زانګو,зыбка
+862,Wiege::N,زانګو,šūpulis
+863,Bett::N,کټ,вольпась
+864,Bett::N,کټ,gulta
+865,Bett::N,چپرکټ,вольпась
+866,Bett::N,چپرکټ,gulta
+867,Regal::N,تاخچۍ,джадж
+868,Regal::N,تاخچۍ,plaukts
+869,Kiste::N,صندوق,куд
+870,Kiste::N,صندوق,ящик
+871,Kiste::N,صندوق,kaste
+872,Kiste::N,صندوق,šķirsts
+873,Fenster::N,کړکۍ,ӧшинь
+874,Fenster::N,کړکۍ,logs
+875,Tür::N,دروازه,ӧдзӧс
+876,Tür::N,دروازه,durvis
+877,Tor::N,دروازه,дзиръя
+878,Tor::N,دروازه,vārti
+879,Zaun::N,کټاره,потшӧс
+880,Zaun::N,کټاره,žogs
+881,Dach::N,بام,вевт
+882,Dach::N,بام,jumts
+883,Leiter::N,زينه,пос
+884,Leiter::N,زينه,kāpnes
+885,Leiter::N,زينه,redeles
+886,Besen::N,جارو,рос
+887,Besen::N,جارو,slota
+888,Spaten::N,یوم,зыр
+889,Spaten::N,یوم,lāpsta
+890,Schaufel::N,بېلچه,тэльӧб
+891,Schaufel::N,بېلچه,liekšķere
+892,Gabel::N,پنجه,вилки
+893,Gabel::N,پنجه,dakšiņa
+894,Löffel::N,کاشوغه,пань
+895,Löffel::N,کاشوغه,karote
+896,Messer::N,چاقو,пурт
+897,Messer::N,چاقو,nazis
+898,Nagel::N,ميخ,тув
+899,Nagel::N,ميخ,кӧрт тув
+900,Nagel::N,ميخ,nagla
+901,Netz::N,جال,тыв
+902,Netz::N,جال,tīkls
+903,Haken::N,څنګک,крук
+904,Haken::N,څنګک,āķis
+905,Haken::N,څنګک,kāsis
+906,Haken::N,څنګک,krampis
+907,Griff::N,لاستی,нуд
+908,Griff::N,لاستی,kāts
+909,Griff::N,لاستی,rokturis
+910,Schloss::N,کلپ,томан
+911,Schloss::N,کلپ,aizslēgs
+912,Bild::N,رسم,серпас
+913,Bild::N,رسم,glezna
+914,Figur::N,قدوقامت,пертас
+915,Figur::N,قدوقامت,вежньӧг
+916,Figur::N,قدوقامت,figūra
+917,Puppe::N,ګوډۍ,акань
+918,Puppe::N,ګوډۍ,lelle
+919,Beutel::N,کڅوړه,мешӧк
+920,Beutel::N,کڅوړه,kule
+921,Beutel::N,کڅوړه,maisiņš
+922,Bündel::N,دسته,кӧртӧд
+923,Bündel::N,دسته,sainis
+924,Tasche::N,بکس,сумка
+925,Tasche::N,بکس,soma
+926,Tasche::N,توبره,сумка
+927,Tasche::N,توبره,soma
+928,Eimer::N,سطل,ведра
+929,Eimer::N,سطل,spainis
+930,Deckel::N,سرپوښ,пӧдан
+931,Deckel::N,سرپوښ,тупкӧд
+932,Deckel::N,سرپوښ,vāks
+933,Geschirr::N,لوښی,дозмук
+934,Geschirr::N,لوښی,тасьті-пань
+935,Geschirr::N,لوښی,trauki
+936,Sack::N,جوال,мешӧк
+937,Sack::N,جوال,maiss
+938,Tasse::N,پیاله,бекар
+939,Tasse::N,پیاله,тасьті
+940,Tasse::N,پیاله,tase
+941,Topf::N,دېګی,гырнич
+942,Topf::N,دېګی,pods
+943,Kessel::N,دېګ,пӧрт
+944,Kessel::N,دېګ,katls
+945,Essen::N,خوراک,сёйӧм
+946,Essen::N,خوراک,ēdiens
+947,Nahrung::N,خوراک,сёян
+948,Nahrung::N,خوراک,barība
+949,Speise::N,خواړه,сёян
+950,Speise::N,خواړه,сёянтор
+951,Speise::N,خواړه,ēdiens
+952,Fleisch::N,غوښه,яй
+953,Fleisch::N,غوښه,gaļa
+954,Getreide::N,غله,нянь
+955,Getreide::N,غله,labība
+956,Brei::N,اوګره,рок
+957,Brei::N,اوګره,putra
+958,Brei::N,اوګره,biezenis
+959,Brot::N,ډوډۍ,нянь
+960,Brot::N,ډوډۍ,maize
+961,Scheibe::N,مړۍ,шӧрӧм
+962,Scheibe::N,مړۍ,чӧлан
+963,Scheibe::N,مړۍ,šķēle
+964,Scheibe::N,مړۍ,rieciens
+965,Fett::N,غوړي,гос
+966,Fett::N,غوړي,тшог
+967,Fett::N,غوړي,tauki
+968,Butter::N,کوچ,вый
+969,Butter::N,کوچ,sviests
+970,Öl::N,تېل,вый
+971,Öl::N,تېل,eļļa
+972,Salz::N,مالګه,сов
+973,Salz::N,مالګه,sāls
+974,Suppe::N,شوربا,шыд
+975,Suppe::N,شوربا,zupa
+976,Honig::N,شات,ма
+977,Honig::N,شات,medus
+978,Milch::N,شوده,йӧв
+979,Milch::N,شوده,piens
+980,Tee::N,چای,чай
+981,Tee::N,چای,tēja
+982,Leder::N,څرمن,ку
+983,Leder::N,څرمن,āda
+984,Wolle::N,پشم,вурун
+985,Wolle::N,پشم,vilna
+986,Stoff::N,ټوټه,дӧра
+987,Stoff::N,ټوټه,drāna
+988,Stoff::N,ټوټه,audums
+989,Nadel::N,ستن,ем
+990,Nadel::N,ستن,adata
+991,Faden::N,تار,сунис
+992,Faden::N,تار,diegs
+993,Faden::N,تار,pavediens
+994,Knopf::N,تڼۍ,кизь
+995,Knopf::N,تڼۍ,poga
+996,Knopf::N,تکمه,кизь
+997,Knopf::N,تکمه,poga
+998,Knoten::N,غوټه,гӧрӧд
+999,Knoten::N,غوټه,mezgls
+1000,Farbe::N,رنګ,краска
+1001,Farbe::N,رنګ,вап
+1002,Farbe::N,رنګ,krāsa
+1003,Kleidung::N,کالي,паськӧм
+1004,Kleidung::N,کالي,tērps
+1005,Kleidung::N,کالي,drēbes
+1006,Hemd::N,کميس,дӧрӧм
+1007,Hemd::N,کميس,krekls
+1008,Kragen::N,غاړه,воротник
+1009,Kragen::N,غاړه,apkakle
+1010,Ärmel::N,لستوڼی,сос
+1011,Ärmel::N,لستوڼی,piedurkne
+1012,Hose::N,پطلون,гач
+1013,Hose::N,پطلون,bikses
+1014,Gürtel::N,کمربند,вӧнь
+1015,Gürtel::N,کمربند,josta
+1016,Mütze::N,خولۍ,шапка
+1017,Mütze::N,خولۍ,cepure
+1018,Schuh::N,بوټ,башмак
+1019,Schuh::N,بوټ,ботинки
+1020,Schuh::N,بوټ,kurpe
+1021,Stiefel::N,موزه,сапӧг
+1022,Stiefel::N,موزه,zābaks
+1023,Ring::N,ګوته,кытш
+1024,Ring::N,ګوته,gredzens
+1025,Band::N,فيته,лента
+1026,Band::N,فيته,вундас
+1027,Band::N,فيته,lente
+1028,Kamm::N,ګمنځ,сынан
+1029,Kamm::N,ګمنځ,ķemme
+1030,Spiegel::N,ایینه,рӧмпӧштан
+1031,Spiegel::N,ایینه,spogulis
+1032,Spiegel::N,هنداره,рӧмпӧштан
+1033,Spiegel::N,هنداره,spogulis
+1034,Riemen::N,تسمه,тасма
+1035,Riemen::N,تسمه,siksna
+1036,Schnur::N,مزی,гез
+1037,Schnur::N,مزی,aukla
+1038,Leine::N,رسۍ,юргез
+1039,Leine::N,رسۍ,saite
+1040,Decke::N,بړستن,эшкын
+1041,Decke::N,بړستن,шебрас
+1042,Decke::N,بړستن,sega
+1043,Kissen::N,بالښت,юрлӧс
+1044,Kissen::N,بالښت,spilvens
+1045,Tuch::N,ټیکری,чышъян
+1046,Tuch::N,ټیکری,vadmala
+1047,Handtuch::N,دسمال,ки чышкӧд
+1048,Handtuch::N,دسمال,кизьчышъян
+1049,Handtuch::N,دسمال,dvielis
+1050,Kraft::N,زور,этш
+1051,Kraft::N,زور,эбӧс
+1052,Kraft::N,زور,spēks
+1053,Kraft::N,توان,этш
+1054,Kraft::N,توان,эбӧс
+1055,Kraft::N,توان,spēks
+1056,Stärke::N,قوت,ёнлун
+1057,Stärke::N,قوت,чорыдлун
+1058,Stärke::N,قوت,stiprums
+1059,Gesundheit::N,صحت,дзоньвидзалун
+1060,Gesundheit::N,صحت,veselība
+1061,Gesundheit::N,روغتیا,дзоньвидзалун
+1062,Gesundheit::N,روغتیا,veselība
+1063,Krankheit::N,مرض,висьӧм
+1064,Krankheit::N,مرض,slimība
+1065,Krankheit::N,ناروغي,висьӧм
+1066,Krankheit::N,ناروغي,slimība
+1067,Schmerz::N,درد,висьӧм
+1068,Schmerz::N,درد,sāpes
+1069,Wunde::N,ټپ,дой
+1070,Wunde::N,ټپ,brūce
+1071,Wunde::N,ټپ,jēlums
+1072,Wunde::N,زخم,дой
+1073,Wunde::N,زخم,brūce
+1074,Wunde::N,زخم,jēlums
+1075,Fieber::N,تبه,жар
+1076,Fieber::N,تبه,drudzis
+1077,Fieber::N,تبه,karstums
+1078,Arznei::N,دوا,лекарство
+1079,Arznei::N,دوا,зелля
+1080,Arznei::N,دوا,zāles
+1081,Arznei::N,دوا,medikaments
+1082,Arznei::N,دارو,лекарство
+1083,Arznei::N,دارو,зелля
+1084,Arznei::N,دارو,zāles
+1085,Arznei::N,دارو,medikaments
+1086,Brücke::N,پول,пос
+1087,Brücke::N,پول,tilts
+1088,Brunnen::N,څاه,юкмӧс
+1089,Brunnen::N,څاه,aka
+1090,Brunnen::N,کوهی,юкмӧс
+1091,Brunnen::N,کوهی,aka
+1092,Weide::N,وله,пӧскӧтина
+1093,Weide::N,وله,ganības
+1094,Pfad::N,تړه,туй
+1095,Pfad::N,تړه,кыснан
+1096,Pfad::N,تړه,taka
+1097,Weg::N,لیار,туй
+1098,Weg::N,لیار,ceļš
+1099,Straße::N,سړک,туй
+1100,Straße::N,سړک,iela
+1101,Dorf::N,کلی,сикт
+1102,Dorf::N,کلی,ciems
+1103,Stadt::N,ښار,кар
+1104,Stadt::N,ښار,pilsēta
+1105,Brief::N,لیک,письмӧ
+1106,Brief::N,لیک,vēstule
+1107,Brief::N,مکتوب,письмӧ
+1108,Brief::N,مکتوب,vēstule
+1109,Buch::N,کتاب,небӧг
+1110,Buch::N,کتاب,grāmata
+1111,Buchstabe::N,حرف,шыпас
+1112,Buchstabe::N,حرف,burts
+1113,Buchstabe::N,توری,шыпас
+1114,Buchstabe::N,توری,burts
+1115,Zeitung::N,اخبار,газет
+1116,Zeitung::N,اخبار,avīze
+1117,Zeitung::N,اخبار,laikraksts
+1118,Leben::N,ژوند,лов
+1119,Leben::N,ژوند,олӧм
+1120,Leben::N,ژوند,dzīve
+1121,Tod::N,مرګ,кулӧм
+1122,Tod::N,مرګ,nāve
+1123,Tod::N,مړینه,кулӧм
+1124,Tod::N,مړینه,nāve
+1125,Grab::N,قبر,гу
+1126,Grab::N,قبر,kaps
+1127,Grab::N,ډورۍ,гу
+1128,Grab::N,ډورۍ,kaps
+1129,Kirche::N,کلیسا,вичко
+1130,Kirche::N,کلیسا,baznīca
+1131,Sünde::N,ګناه,мыж
+1132,Sünde::N,ګناه,grēks
+1133,Gott::N,خدای,ен
+1134,Gott::N,خدای,dievs
+1135,Arbeiter::N,کاریګر,уджалысь
+1136,Arbeiter::N,کاریګر,strādnieks
+1137,Chef::N,آمر,юралысь
+1138,Chef::N,آمر,веськӧдлысь
+1139,Chef::N,آمر,šefs
+1140,Chef::N,آمر,vadītajs
+1141,Chef::N,آمر,priekšnieks
+1142,Meister::N,استاد,вӧчысь
+1143,Meister::N,استاد,meistars
+1144,Arzt::N,طبیب,врач
+1145,Arzt::N,طبیب,бурдӧдысь
+1146,Arzt::N,طبیب,ārsts
+1147,Arzt::N,ډاکټر,врач
+1148,Arzt::N,ډاکټر,бурдӧдысь
+1149,Arzt::N,ډاکټر,ārsts
+1150,Lehrer::N,معلم,велӧдысь
+1151,Lehrer::N,معلم,skolotājs
+1152,Lehrer::N,ښوونکی,велӧдысь
+1153,Lehrer::N,ښوونکی,skolotājs
+1154,Geld::N,پیسې,сьӧм
+1155,Geld::N,پیسې,nauda
+1156,Geschäft::N,سوداګري,удж
+1157,Geschäft::N,سوداګري,bizness
+1158,Geschäft::N,سوداګري,darījums
+1159,Laden::N,دکان,вузасянін
+1160,Laden::N,دکان,bode
+1161,Laden::N,دکان,veikals
+1162,Laden::N,مغازه,вузасянін
+1163,Laden::N,مغازه,bode
+1164,Laden::N,مغازه,veikals
+1165,Preis::N,بیه,дон
+1166,Preis::N,بیه,cena
+1167,Ware::N,مال,тӧвар
+1168,Ware::N,مال,prece
+1169,Nutzen::N,ګټه,воӧм
+1170,Nutzen::N,ګټه,выгӧда
+1171,Nutzen::N,ګټه,labums
+1172,Reichtum::N,شتمني,озырлун
+1173,Reichtum::N,شتمني,bagātība
+1174,Welt::N,نړۍ,енкӧла
+1175,Welt::N,نړۍ,pasaule
+1176,Welt::N,دنیا,енкӧла
+1177,Welt::N,دنیا,pasaule
+1178,Land::N,هېواد,му
+1179,Land::N,هېواد,zeme
+1180,Staat::N,دولت,канму
+1181,Staat::N,دولت,государство
+1182,Staat::N,دولت,valsts
+1183,König::N,باچا,кан
+1184,König::N,باچا,ķēniņš
+1185,König::N,باچا,karalis
+1186,König::N,پادشاه,кан
+1187,König::N,پادشاه,ķēniņš
+1188,König::N,پادشاه,karalis
+1189,Macht::N,قدرت,каналӧм
+1190,Macht::N,قدرت,vara
+1191,Grenze::N,حد,су
+1192,Grenze::N,حد,суйӧр
+1193,Grenze::N,حد,robeža
+1194,Grenze::N,سرحد,су
+1195,Grenze::N,سرحد,суйӧр
+1196,Grenze::N,سرحد,robeža
+1197,Krieg::N,جګړه,ожман
+1198,Krieg::N,جګړه,karš
+1199,Feind::N,دښمن,враг
+1200,Feind::N,دښمن,вӧрӧг
+1201,Feind::N,دښمن,ienaidnieks
+1202,Gewalt::N,زور,мырдöналöм
+1203,Gewalt::N,زور,vara
+1204,Gewalt::N,زور,vardarbība
+1205,Gewalt::N,تشدد,мырдöналöм
+1206,Gewalt::N,تشدد,vara
+1207,Gewalt::N,تشدد,vardarbība
+1208,Kampf::N,جنګ,вермасьӧм
+1209,Kampf::N,جنګ,cīņa
+1210,Kampf::N,مبارزه,вермасьӧм
+1211,Kampf::N,مبارزه,cīņa
+1212,Bogen[Waffe]::N,لیندۍ,ньӧввуж
+1213,Bogen[Waffe]::N,لیندۍ,loks
+1214,Pfeil::N,غشی,ньӧв
+1215,Pfeil::N,غشی,bulta
+1216,Gewehr::N,ټوپک,пишшаль
+1217,Gewehr::N,ټوپک,šautene
+1218,Fehler::N,خطا,сорсьӧм
+1219,Fehler::N,خطا,дзугсьӧм
+1220,Fehler::N,خطا,kļūda
+1221,Fehler::N,غلطي,сорсьӧм
+1222,Fehler::N,غلطي,дзугсьӧм
+1223,Fehler::N,غلطي,kļūda
+1224,Lüge::N,دروغ,пӧръясьӧм
+1225,Lüge::N,دروغ,ылӧдлӧм
+1226,Lüge::N,دروغ,meli
+1227,Schaden::N,زیان,лёк
+1228,Schaden::N,زیان,изъян
+1229,Schaden::N,زیان,пакӧсьт
+1230,Schaden::N,زیان,bojājums
+1231,Schaden::N,زیان,kaitējums
+1232,Schaden::N,تاوان,лёк
+1233,Schaden::N,تاوان,изъян
+1234,Schaden::N,تاوان,пакӧсьт
+1235,Schaden::N,تاوان,bojājums
+1236,Schaden::N,تاوان,kaitējums
+1237,Unglück::N,بدبختي,шог
+1238,Unglück::N,بدبختي,kļūme
+1239,Unglück::N,بدبختي,klizma
+1240,Unglück::N,بدبختي,nelaime
+1241,Schuld::N,ګناه,мыж
+1242,Schuld::N,ګناه,vaina
+1243,Alter::N,منګ,арлыд
+1244,Alter::N,منګ,vecums
+1245,Schluss::N,اخر,пом
+1246,Schluss::N,اخر,beigas
+1247,Zeit::N,وخت,кад
+1248,Zeit::N,وخت,laiks
+1249,Tag::N,ورځ,лун
+1250,Tag::N,ورځ,diena
+1251,Morgen::N,سبا,асыв
+1252,Morgen::N,سبا,rīts
+1253,Morgen::N,سهار,асыв
+1254,Morgen::N,سهار,rīts
+1255,Mittag::N,غرمه,лун шӧр
+1256,Mittag::N,غرمه,pusdiena
+1257,Abend::N,ماښام,рыт
+1258,Abend::N,ماښام,vakars
+1259,Nacht::N,شپه,вой
+1260,Nacht::N,شپه,nakts
+1261,Woche::N,اونۍ,вежон
+1262,Woche::N,اونۍ,nedēļa
+1263,Monat::N,مياشت,тӧлысь
+1264,Monat::N,مياشت,mēnesis
+1265,Jahr::N,کال,во
+1266,Jahr::N,کال,gads
+1267,Frühling::N,پسرلی,тулыс
+1268,Frühling::N,پسرلی,pavasaris
+1269,Sommer::N,دوبی,гожӧм
+1270,Sommer::N,دوبی,vasara
+1271,Herbst::N,منی,ар
+1272,Herbst::N,منی,rudens
+1273,Herbst::N,خزان,ар
+1274,Herbst::N,خزان,rudens
+1275,Winter::N,ژمی,тӧв
+1276,Winter::N,ژمی,ziema
+1277,Januar::N,جنوري,тӧв шӧр
+1278,Januar::N,جنوري,janvāris
+1279,Februar::N,فبروري,урасьӧм
+1280,Februar::N,فبروري,februāris
+1281,März::N,مارچ,рака
+1282,März::N,مارچ,marts
+1283,April::N,اپریل,кос му
+1284,April::N,اپریل,aprīlis
+1285,Mai::N,مې,ода-кора
+1286,Mai::N,مې,maijs
+1287,Juni::N,جون,лӧддза-номъя
+1288,Juni::N,جون,jūnijs
+1289,Juli::N,جولای,сора
+1290,Juli::N,جولای,jūlijs
+1291,August::N,اګست,моз
+1292,August::N,اګست,augusts
+1293,September::N,سپټامبر,кӧч
+1294,September::N,سپټامبر,septembris
+1295,Oktober::N,اکتوبر,йирым
+1296,Oktober::N,اکتوبر,oktobris
+1297,November::N,نومبر,вӧльгым
+1298,November::N,نومبر,novembris
+1299,Dezember::N,دسمبر,ӧшым
+1300,Dezember::N,دسمبر,decembris
+1301,Montag::N,دوشنبه,выльлун
+1302,Montag::N,دوشنبه,pirmdiena
+1303,Dienstag::N,سه شنبه,воторник
+1304,Dienstag::N,سه شنبه,otrdiena
+1305,Mittwoch::N,چارشنبه,середа
+1306,Mittwoch::N,چارشنبه,trešdiena
+1307,Donnerstag::N,پنجشنبه,четверг
+1308,Donnerstag::N,پنجشنبه,ceturtdiena
+1309,Freitag::N,جمعه,пекнича
+1310,Freitag::N,جمعه,piektdiena
+1311,Samstag::N,خالي,субӧта
+1312,Samstag::N,خالي,sestdiena
+1313,Sonntag::N,یکشنبه,вӧскресенньӧ
+1314,Sonntag::N,یکشنبه,svētdiena
+1315,groß::A,لوی,ыджыд
+1316,groß::A,لوی,dižs
+1317,groß::A,لوی,liels
+1318,klein::A,وړوکی,ичӧт
+1319,klein::A,وړوکی,mazs
+1320,lang::A,اوړد,кузь
+1321,lang::A,اوړد,garš
+1322,kurz::A,لنډ,дженьыд
+1323,kurz::A,لنډ,īss
+1324,breit::A,پراخه,ота
+1325,breit::A,پراخه,паськыд
+1326,breit::A,پراخه,plats
+1327,schmal::A,تنګ,оттӧм
+1328,schmal::A,تنګ,tievs
+1329,dicht::A,ګڼ,сук
+1330,dicht::A,ګڼ,blīvs
+1331,dick[Gegenstand]::A,پنډ,кыз
+1332,dick[Gegenstand]::A,پنډ,biezs
+1333,dünn::A,نری,вӧсни
+1334,dünn::A,نری,вӧсньыд
+1335,dünn::A,نری,plāns
+1336,fein::A,نازک,посни
+1337,fein::A,نازک,smalks
+1338,fest::A,کلک,зумыд
+1339,fest::A,کلک,tvirts
+1340,fest::A,کلک,noturīgs
+1341,fest::A,ټینګ,зумыд
+1342,fest::A,ټینګ,tvirts
+1343,fest::A,ټینګ,noturīgs
+1344,flach::A,هوار,плавкӧс
+1345,flach::A,هوار,тшӧтшкӧс
+1346,flach::A,هوار,lēzens
+1347,flach::A,هوار,līdzens
+1348,glatt::A,ښوی,вольк
+1349,glatt::A,ښوی,мольыд
+1350,glatt::A,ښوی,gluds
+1351,glatt::A,ښوی,slidens
+1352,hart::A,کلک,зумыд
+1353,hart::A,کلک,ciets
+1354,weich::A,نرم,небыд
+1355,weich::A,نرم,mīksts
+1356,weich::A,پوست,небыд
+1357,weich::A,پوست,mīksts
+1358,rund::A,ګرد,гӧгрӧс
+1359,rund::A,ګرد,apaļš
+1360,spitz::A,تېره,ёсь йыла
+1361,spitz::A,تېره,smails
+1362,scharf::A,تېز,ёсь
+1363,scharf::A,تېز,ass
+1364,scharf::A,تېره,ёсь
+1365,scharf::A,تېره,ass
+1366,stumpf::A,پڅ,ныж
+1367,stumpf::A,پڅ,truls
+1368,stumpf::A,پڅ,strups
+1369,schwer::A,دروند,сьӧкыд
+1370,schwer::A,دروند,smags
+1371,schön::A,ښکلی,мича
+1372,schön::A,ښکلی,лӧсьыд
+1373,schön::A,ښکلی,daiļš
+1374,schön::A,ښکلی,skaists
+1375,heiß::A,تود,пӧсь
+1376,heiß::A,تود,karsts
+1377,warm::A,تود,шоныд
+1378,warm::A,تود,silts
+1379,kalt::A,ېخ,кӧдзыд
+1380,kalt::A,ېخ,salts
+1381,kalt::A,ېخ,auksts
+1382,kalt::A,سوړ,кӧдзыд
+1383,kalt::A,سوړ,salts
+1384,kalt::A,سوړ,auksts
+1385,kühl::A,ېخ,юзыд
+1386,kühl::A,ېخ,ыркыд
+1387,kühl::A,ېخ,vēss
+1388,kühl::A,ېخ,dzestrs
+1389,kühl::A,سوړ,юзыд
+1390,kühl::A,سوړ,ыркыд
+1391,kühl::A,سوړ,vēss
+1392,kühl::A,سوړ,dzestrs
+1393,frisch::A,تازه,выль
+1394,frisch::A,تازه,svaigs
+1395,feucht::A,مرطوب,уль
+1396,feucht::A,مرطوب,mitrs
+1397,feucht::A,مرطوب,drēgns
+1398,nass::A,لوند,ва
+1399,nass::A,لوند,slapjš
+1400,trocken::A,وچ,кос
+1401,trocken::A,وچ,sauss
+1402,voll::A,ډک,кыз
+1403,voll::A,ډک,pilns
+1404,leer::A,خالی,куш
+1405,leer::A,خالی,тыртӧм
+1406,leer::A,خالی,tukšs
+1407,offen::A,خلاص,восьса
+1408,offen::A,خلاص,vaļējs
+1409,offen::A,خلاص,atvērts
+1410,offen::A,پرانیستی,восьса
+1411,offen::A,پرانیستی,vaļējs
+1412,offen::A,پرانیستی,atvērts
+1413,geschlossen::A,تړلی,пӧдса
+1414,geschlossen::A,تړلی,slēgts
+1415,sauber::A,پاک,сӧстӧм
+1416,sauber::A,پاک,tīrs
+1417,sauber::A,پاک,spodrs
+1418,schmutzig::A,چټل,няйт
+1419,schmutzig::A,چټل,netīrs
+1420,schmutzig::A,چټل,dubļains
+1421,roh::A,خام,уль
+1422,roh::A,خام,jēls
+1423,reif::A,پوخ,кисьмӧм
+1424,reif::A,پوخ,gatavs
+1425,reif::A,پوخ,nobriedis
+1426,reif::A,رسېدلی,кисьмӧм
+1427,reif::A,رسېدلی,gatavs
+1428,reif::A,رسېدلی,nobriedis
+1429,lecker::A,خوندور,чӧскыд
+1430,lecker::A,خوندور,gards
+1431,lecker::A,خوندور,garšīgs
+1432,lecker::A,مزه دار,чӧскыд
+1433,lecker::A,مزه دار,gards
+1434,lecker::A,مزه دار,garšīgs
+1435,süß::A,خوږ,юмов
+1436,süß::A,خوږ,чӧскыд
+1437,süß::A,خوږ,salds
+1438,süß::A,شیرین,юмов
+1439,süß::A,شیرین,чӧскыд
+1440,süß::A,شیرین,salds
+1441,bitter::A,تریخ,курыд
+1442,bitter::A,تریخ,sūrs
+1443,bitter::A,تریخ,rūgts
+1444,sauer::A,ټاک,шома
+1445,sauer::A,ټاک,skābs
+1446,sauer::A,تريو,шома
+1447,sauer::A,تريو,skābs
+1448,hell::A,روڼ,югыд
+1449,hell::A,روڼ,gaišs
+1450,hell::A,روښان,югыд
+1451,hell::A,روښان,gaišs
+1452,dunkel::A,تیاره,пемыд
+1453,dunkel::A,تیاره,tumšs
+1454,schwarz::A,تور,сьӧд
+1455,schwarz::A,تور,melns
+1456,weiß::A,سپين,еджыд
+1457,weiß::A,سپين,balts
+1458,rot::A,سور,гӧрд
+1459,rot::A,سور,sarkans
+1460,gelb::A,زېړ,виж
+1461,gelb::A,زېړ,dzeltens
+1462,blau::A,شین,лӧз
+1463,blau::A,شین,zils
+1464,blau::A,اسماني رنګه,лӧз
+1465,blau::A,اسماني رنګه,zils
+1466,grün::A,زرغون,веж
+1467,grün::A,زرغون,турунвиж
+1468,grün::A,زرغون,zaļš
+1469,grau::A,خړ,руд
+1470,grau::A,خړ,pelēks
+1471,bunt::A,رنګارنګ,сера
+1472,bunt::A,رنګارنګ,raibs
+1473,bunt::A,رنګارنګ,krāsains
+1474,billig::A,ارزان,донтӧг
+1475,billig::A,ارزان,lēts
+1476,teuer::A,ګران,дона
+1477,teuer::A,ګران,dārgs
+1478,wertvoll::A,قیمتي,дона
+1479,wertvoll::A,قیمتي,vērtīgs
+1480,blind::A,ړوند,синтӧм
+1481,blind::A,ړوند,akls
+1482,taub::A,کوڼ,пельтӧм
+1483,taub::A,کوڼ,kurls
+1484,kräftig::A,قوی,вынйӧра
+1485,kräftig::A,قوی,spēcīgs
+1486,stark::A,قوی,ён
+1487,stark::A,قوی,вына
+1488,stark::A,قوی,stiprs
+1489,stark::A,تکړه,ён
+1490,stark::A,تکړه,вына
+1491,stark::A,تکړه,stiprs
+1492,schwach::A,ضعیف,жеб
+1493,schwach::A,ضعیف,vājš
+1494,schwach::A,کمزوری,жеб
+1495,schwach::A,کمزوری,vājš
+1496,fett::A,چاغ,госа
+1497,fett::A,چاغ,brangs
+1498,schlank::A,خوش اندام,веськыд
+1499,schlank::A,خوش اندام,slaids
+1500,hübsch::A,ښکلی,мича
+1501,hübsch::A,ښکلی,лӧсьыд
+1502,hübsch::A,ښکلی,glīts
+1503,hübsch::A,ښایسته,мича
+1504,hübsch::A,ښایسته,лӧсьыд
+1505,hübsch::A,ښایسته,glīts
+1506,böse::A,شریر,лёк
+1507,böse::A,شریر,ļauns
+1508,böse::A,شریر,negants
+1509,böse::A,قهرناک,лёк
+1510,böse::A,قهرناک,ļauns
+1511,böse::A,قهرناک,negants
+1512,dumm::A,احمق,йӧй
+1513,dumm::A,احمق,вежӧртӧм
+1514,dumm::A,احمق,stulbs
+1515,dumm::A,احمق,muļķīgs
+1516,faul::A,لټ,дыш
+1517,faul::A,لټ,slinks
+1518,faul::A,تنبل,дыш
+1519,faul::A,تنبل,slinks
+1520,fleißig::A,زحمت کښ,зільысь
+1521,fleißig::A,زحمت کښ,čakls
+1522,fleißig::A,زحمت کښ,cītīgs
+1523,geizig::A,بخیل,топыд
+1524,geizig::A,بخیل,skops
+1525,geizig::A,بخیل,sīksts
+1526,klug::A,عاقل,юра
+1527,klug::A,عاقل,вежӧра
+1528,klug::A,عاقل,gudrs
+1529,klug::A,هوښیار,юра
+1530,klug::A,هوښیار,вежӧра
+1531,klug::A,هوښیار,gudrs
+1532,geschickt::A,ماهر,кипода
+1533,geschickt::A,ماهر,кужысь
+1534,geschickt::A,ماهر,manīgs
+1535,lieb::A,عزیز,муса
+1536,lieb::A,عزیز,мича
+1537,lieb::A,عزیز,лӧсьыд
+1538,lieb::A,عزیز,mīļš
+1539,lieb::A,محبوب,муса
+1540,lieb::A,محبوب,мича
+1541,lieb::A,محبوب,лӧсьыд
+1542,lieb::A,محبوب,mīļš
+1543,lustig::A,خوشحال,кыпыд
+1544,lustig::A,خوشحال,jautrs
+1545,sanft::A,پوست,мелі
+1546,sanft::A,پوست,liegs
+1547,sanft::A,ملایم,мелі
+1548,sanft::A,ملایم,liegs
+1549,hungrig::A,وږی,тшыг
+1550,hungrig::A,وږی,izsalcis
+1551,krank::A,مريض,висьысь
+1552,krank::A,مريض,slims
+1553,krank::A,ناروغ,висьысь
+1554,krank::A,ناروغ,slims
+1555,nackt::A,لوڅ,пасьтӧм
+1556,nackt::A,لوڅ,pliks
+1557,traurig::A,غمجن,гажтӧм
+1558,traurig::A,غمجن,bēdīgs
+1559,traurig::A,غمجن,skumīgs
+1560,lebendig::A,ژوندی,ловъя
+1561,lebendig::A,ژوندی,dzīvs
+1562,gut::A,ښه,бур
+1563,gut::A,ښه,labs
+1564,schlecht::A,بد,лёк
+1565,schlecht::A,بد,омӧль
+1566,schlecht::A,بد,slikts
+1567,schlecht::A,خراب,лёк
+1568,schlecht::A,خراب,омӧль
+1569,schlecht::A,خراب,slikts
+1570,richtig::A,سم,инӧд
+1571,richtig::A,سم,riktīgs
+1572,richtig::A,صحیح,инӧд
+1573,richtig::A,صحیح,riktīgs
+1574,schlimm::A,بد,омӧль
+1575,schlimm::A,بد,туйтӧм
+1576,schlimm::A,بد,nelāgs
+1577,schlimm::A,بد,nejauks
+1578,schlimm::A,مخوف,омӧль
+1579,schlimm::A,مخوف,туйтӧм
+1580,schlimm::A,مخوف,nelāgs
+1581,schlimm::A,مخوف,nejauks
+1582,wahr::A,واقعي,абу ылӧг
+1583,wahr::A,واقعي,īsts
+1584,wahr::A,واقعي,patiess
+1585,alt::A,زوړ,важ
+1586,alt::A,زوړ,sens
+1587,alt::A,زوړ,vęcs
+1588,neu::A,نوی,выль
+1589,neu::A,نوی,jauns
+1590,ehemalig::A,پخوانی,вӧвлӧм
+1591,ehemalig::A,پخوانی,bijušais
+1592,alt[Lebewesen]::A,زوړ,пӧрысь
+1593,alt[Lebewesen]::A,زوړ,vecs
+1594,jung::A,ځوان,том
+1595,jung::A,ځوان,jauns
+1596,arm::A,غریب,гӧль
+1597,arm::A,غریب,nabags
+1598,arm::A,بې وزله,гӧль
+1599,arm::A,بې وزله,nabags
+1600,reich::A,شتمن,озыр
+1601,reich::A,شتمن,bagāts
+1602,reich::A,دولتمند,озыр
+1603,reich::A,دولتمند,bagāts
+1604,bekannt::A,اشنا,тӧдса
+1605,bekannt::A,اشنا,zināms
+1606,bekannt::A,اشنا,pazīstams
+1607,berühmt::A,مشهور,нималан
+1608,berühmt::A,مشهور,кывсян
+1609,berühmt::A,مشهور,slavens
+1610,fremd::A,پردی,йӧз
+1611,fremd::A,پردی,svešs
+1612,fremd::A,بېګانه,йӧз
+1613,fremd::A,بېګانه,svešs
+1614,verschieden::A,مختلف,абу ӧткодь
+1615,verschieden::A,مختلف,разнӧй
+1616,verschieden::A,مختلف,dažāds
+1617,nah::A,نژدې,матыс
+1618,nah::A,نژدې,tuvs
+1619,fern::A,لیری,ылі
+1620,fern::A,لیری,tāls
+1621,linker::A,چپ,шуйга
+1622,linker::A,چپ,kreisais
+1623,linker::A,کیڼ,шуйга
+1624,linker::A,کیڼ,kreisais
+1625,rechter::A,ښی,веськыд
+1626,rechter::A,ښی,labais
+1627,anderer::A,بل,мукӧд
+1628,anderer::A,بل,otrs
+1629,erster::A,لومړی,медводдза
+1630,erster::A,لومړی,pirmais
+1631,zweiter::A,دوهم,мӧд
+1632,zweiter::A,دوهم,otrais
+1633,dritter::A,درېم,коймӧд
+1634,dritter::A,درېم,trešais
+1635,letzter::A,آخرنی,бӧръя
+1636,letzter::A,آخرنی,beidzamais
+1637,letzter::A,وروستی,бӧръя
+1638,letzter::A,وروستی,beidzamais
+1639,allein::ADV,یوازې,ӧтка
+1640,allein::ADV,یوازې,viens pats
+1641,auf einmal::ADV,په یوه وخت کی,ӧтпырйӧ
+1642,auf einmal::ADV,په یوه وخت کی,reizē
+1643,zusammen::ADV,یو ځای,тшӧтш
+1644,zusammen::ADV,یو ځای,kopā
+1645,zusammen::ADV,یو ځای,vienviet
+1646,lange::ADV,ډېر وخت,дыр
+1647,lange::ADV,ډېر وخت,ilgi
+1648,lange::ADV,ډېره موده,дыр
+1649,lange::ADV,ډېره موده,ilgi
+1650,plötzlich::ADV,ناببره,друг
+1651,plötzlich::ADV,ناببره,pēkšņi
+1652,plötzlich::ADV,یوناڅاپه,друг
+1653,plötzlich::ADV,یوناڅاپه,pēkšņi
+1654,sofort::ADV,فوراً,дзик пыр
+1655,sofort::ADV,فوراً,tūlīt
+1656,sofort::ADV,سمدلاسه,дзик пыр
+1657,sofort::ADV,سمدلاسه,tūlīt
+1658,später::ADV,وروسته,сэсся
+1659,später::ADV,وروسته,vēlāk
+1660,jetzt::ADV,اوس,ӧні
+1661,jetzt::ADV,اوس,tagad
+1662,heute::ADV,نن,талун
+1663,heute::ADV,نن,šodien
+1664,morgen::ADV,سبا,аски
+1665,morgen::ADV,سبا,rīt
+1666,bald::ADV,ژر,регыд
+1667,bald::ADV,ژر,drīz
+1668,dann::ADV,پس,бӧрын
+1669,dann::ADV,پس,бӧрти
+1670,dann::ADV,پس,tad
+1671,dann::ADV,وروسته,бӧрын
+1672,dann::ADV,وروسته,бӧрти
+1673,dann::ADV,وروسته,tad
+1674,gestern::ADV,پرون,тӧнлун
+1675,gestern::ADV,پرون,vakar
+1676,einst::ADV,پخوا,ӧтчыд
+1677,einst::ADV,پخوا,ӧтпыр
+1678,einst::ADV,پخوا,citreiz
+1679,damals::ADV,هغه وخت,сэки
+1680,damals::ADV,هغه وخت,toreiz
+1681,danach::ADV,بیا,сэсся
+1682,danach::ADV,بیا,pēc tam
+1683,vorher::ADV,دمخه,войдӧр
+1684,vorher::ADV,دمخه,iepriekš
+1685,vorher::ADV,دمخه,pirms tam
+1686,zuerst::ADV,لومړی,войдӧр
+1687,zuerst::ADV,لومړی,vis'pirms
+1688,einmal::ADV,یو ځل,ӧтчыдысь
+1689,einmal::ADV,یو ځل,reiz
+1690,einmal::ADV,یو ځل,vienreiz
+1691,manchmal::ADV,ګاهی ګاهی,корсюрӧ
+1692,manchmal::ADV,ګاهی ګاهی,dažkārt
+1693,oft::ADV,ډېر ځله,тшӧкыда
+1694,oft::ADV,ډېر ځله,bieži
+1695,immer::ADV,تل,век
+1696,immer::ADV,تل,allaž
+1697,immer::ADV,تل,vien'mēr
+1698,immer::ADV,همېشه,век
+1699,immer::ADV,همېشه,allaž
+1700,immer::ADV,همېشه,vien'mēr
+1701,niemals::ADV,هیڅکله نه,оз некор
+1702,niemals::ADV,هیڅکله نه,nemūžam
+1703,hier::ADV,دلته,со
+1704,hier::ADV,دلته,тонӧ
+1705,hier::ADV,دلته,te
+1706,hier::ADV,دلته,šeit
+1707,hierhin::ADV,دلته,татчӧ
+1708,hierhin::ADV,دلته,талань
+1709,hierhin::ADV,دلته,šurp
+1710,hierhin::ADV,دلته,uz šejieni
+1711,hierhin::ADV,دې ځای ته,татчӧ
+1712,hierhin::ADV,دې ځای ته,талань
+1713,hierhin::ADV,دې ځای ته,šurp
+1714,hierhin::ADV,دې ځای ته,uz šejieni
+1715,von hier::ADV,د دې ځای نه,тасянь
+1716,von hier::ADV,د دې ځای نه,no šejienes
+1717,dort::ADV,هلته,сэні
+1718,dort::ADV,هلته,tur
+1719,dorthin::ADV,هلته,сэтчӧ
+1720,dorthin::ADV,هلته,turp
+1721,dorthin::ADV,هلته,uz turieni
+1722,dorthin::ADV,هغه ځای ته,сэтчӧ
+1723,dorthin::ADV,هغه ځای ته,turp
+1724,dorthin::ADV,هغه ځای ته,uz turieni
+1725,geradeaus::ADV,مخامخ,веськыда
+1726,geradeaus::ADV,مخامخ,taisni uz priekšu
+1727,vorwärts::ADV,مخ پهٔ وړاندې,водзӧ
+1728,vorwärts::ADV,مخ پهٔ وړاندې,uz priekšu
+1729,rückwärts::ADV,بېرته,бӧрӧ
+1730,rückwärts::ADV,بېرته,atmuguriski
+1731,zurück::ADV,بېرته,бӧр
+1732,zurück::ADV,بېرته,atpakāļ
+1733,unten::ADV,لاندي,улын
+1734,unten::ADV,لاندي,уліын
+1735,unten::ADV,لاندي,lejā
+1736,unten::ADV,لاندي,apakšā
+1737,hinab::ADV,ښکته,улӧ
+1738,hinab::ADV,ښکته,увлан
+1739,hinab::ADV,ښکته,uz leju
+1740,oben::ADV,پورته,вылын
+1741,oben::ADV,پورته,выліын
+1742,oben::ADV,پورته,virsū
+1743,hinauf::ADV,پاس,выліӧ
+1744,hinauf::ADV,پاس,augšā
+1745,hinauf::ADV,پاس,uz augšu
+1746,überall::ADV,هره خوا,быдлаын
+1747,überall::ADV,هره خوا,visur
+1748,nicht::ADV,نه,oз
+1749,nicht::ADV,نه,ne
+1750,ein wenig::ADV,یو څه,неуна
+1751,ein wenig::ADV,یو څه,drusku
+1752,kaum::ADV,ایله,мырдэм
+1753,kaum::ADV,ایله,diezin vai
+1754,sehr::ADV,ډېر,зэв
+1755,sehr::ADV,ډېر,ļoti
+1756,sehr::ADV,ډېر,gaužām
+1757,sehr::ADV,زيات,зэв
+1758,sehr::ADV,زيات,ļoti
+1759,sehr::ADV,زيات,gaužām
+1760,so::ADV,داسې,тадз
+1761,so::ADV,داسې,сідз
+1762,so::ADV,داسې,tā
+1763,so::ADV,داسې,tik
+1764,so::ADV,دومره,тадз
+1765,so::ADV,دومره,сідз
+1766,so::ADV,دومره,tā
+1767,so::ADV,دومره,tik
+1768,noch::ADV,نور,на
+1769,noch::ADV,نور,нӧшта
+1770,noch::ADV,نور,vēl
+1771,nur::ADV,تش,куш
+1772,nur::ADV,تش,сӧмын
+1773,nur::ADV,تش,vien
+1774,nur::ADV,تش,tikai
+1775,nur::ADV,صرف,куш
+1776,nur::ADV,صرف,сӧмын
+1777,nur::ADV,صرف,vien
+1778,nur::ADV,صرف,tikai
+1779,schon::ADV,دمخه,нин
+1780,schon::ADV,دمخه,jau
+1781,wieder::ADV,بیا,бара
+1782,wieder::ADV,بیا,atkal
+1783,vergebens::ADV,عبث,весьшӧрӧ
+1784,vergebens::ADV,عبث,velti
+1785,vor::PRP,دمخه,водзын
+1786,vor::PRP,دمخه,priekš
+1787,hinter::PRP,شاته,бӧрнын
+1788,hinter::PRP,شاته,aiz
+1789,unter::PRP,لاندي,улын
+1790,unter::PRP,لاندي,zem
+1791,durch::PRP,د مینځ نه,пыр
+1792,durch::PRP,د مینځ نه,пырыс
+1793,durch::PRP,د مینځ نه,caur
+1794,durch::PRP,د مینځ نه,cauri
+1795,neben::PRP,نژدې,бердын
+1796,neben::PRP,نژدې,līdzās
+1797,zwischen::PRP,ترمینځ,костын
+1798,zwischen::PRP,ترمینځ,starp
+1799,wegen::PRP,د ... له لاسه,вӧсна
+1800,wegen::PRP,د ... له لاسه,pēc
+1801,dies::PRN,دا,тайӧ
+1802,dies::PRN,دا,šis
+1803,das::PRN,دا,ciйö
+1804,das::PRN,دا,tas
+1805,alles::PRN,هرڅهٔ,став
+1806,alles::PRN,هرڅهٔ,viss
+1807,ich::PRN,زه,ме
+1808,ich::PRN,زه,es
+1809,du::PRN,ته,тэ
+1810,du::PRN,ته,tu
+1811,er::PRN,دی,сійӧ
+1812,er::PRN,دی,viņš
+1813,wir::PRN,مونږ,ми
+1814,wir::PRN,مونږ,mēs
+1815,ihr::PRN,تاسې,тi
+1816,ihr::PRN,تاسې,jūs
+1817,sie::PRN,هغوی,найö
+1818,sie::PRN,هغوی,viņi
+1819,sie::PRN,هغوی,viņas
+1820,was::FPRN,څهٔ,мый
+1821,was::FPRN,څهٔ,kas
+1822,wer::FPRN,چا,код
+1823,wer::FPRN,چا,kas
+1824,wer::FPRN,څوک,код
+1825,wer::FPRN,څوک,kas
+1826,wo::FADV,چيری,кыті
+1827,wo::FADV,چيری,kur
+1828,wo::FADV,چېرته,кыті
+1829,wo::FADV,چېرته,kur
+1830,wohin::FADV,چېرته,кытчӧ
+1831,wohin::FADV,چېرته,kurp
+1832,wohin::FADV,چېرته,uz kurieni
+1833,wie::FADV,څنګه,кыдзи
+1834,wie::FADV,څنګه,kā
+1835,warum::FADV,ولې,мыйла
+1836,warum::FADV,ولې,kāpēc
+1837,wieviel::FNUM,څو,кымын
+1838,wieviel::FNUM,څو,cik
+1839,wieviel::FNUM,څومره,кымын
+1840,wieviel::FNUM,څومره,cik
+1841,eins::NUM,یو,ӧтик
+1842,eins::NUM,یو,viens
+1843,zwei::NUM,دوه,кык
+1844,zwei::NUM,دوه,divi
+1845,drei::NUM,درې,куим
+1846,drei::NUM,درې,trīs
+1847,vier::NUM,څلور,нель
+1848,vier::NUM,څلور,četri
+1849,fünf::NUM,پنځه,вит
+1850,fünf::NUM,پنځه,pieci
+1851,sechs::NUM,شپږ,квайт
+1852,sechs::NUM,شپږ,seši
+1853,sieben::NUM,اوه,сизим
+1854,sieben::NUM,اوه,septiņi
+1855,acht::NUM,اته,кӧкъямыс
+1856,acht::NUM,اته,astoņi
+1857,neun::NUM,نهه,ӧкмыс
+1858,neun::NUM,نهه,deviņi
+1859,zehn::NUM,لس,дас
+1860,zehn::NUM,لس,desmit
+1861,elf::NUM,یوولس,дас ӧтик
+1862,elf::NUM,یوولس,vienpadsmit
+1863,zwölf::NUM,دولس,дас кык
+1864,zwölf::NUM,دولس,divpadsmit
+1865,zwanzig::NUM,شل,кызь
+1866,zwanzig::NUM,شل,divdesmit
+1867,dreißig::NUM,دېرش,комын
+1868,dreißig::NUM,دېرش,trīsdesmit
+1869,vierzig::NUM,څلوېښت,нелямын
+1870,vierzig::NUM,څلوېښت,četrdesmit
+1871,fünfzig::NUM,پنځوس,ветымын
+1872,fünfzig::NUM,پنځوس,piecdesmit
+1873,sechzig::NUM,شپېته,квайтымын
+1874,sechzig::NUM,شپېته,sešdesmit
+1875,siebzig::NUM,اویا,сизимдас
+1876,siebzig::NUM,اویا,septiņdesmit
+1877,achtzig::NUM,اتیا,кӧкъямысдас
+1878,achtzig::NUM,اتیا,astoņdesmit
+1879,neunzig::NUM,نوي,ӧкмысдас
+1880,neunzig::NUM,نوي,deviņdesmit
+1881,hundert::NUM,سل,сё
+1882,hundert::NUM,سل,simt
+1883,tausend::NUM,زر,сюрс
+1884,tausend::NUM,زر,tūkstoš
+1885,und::CNJ,او,и
+1886,und::CNJ,او,un
+1887,oder::CNJ,ېا,либӧ
+1888,oder::CNJ,ېا,jeb
+1889,stehen::V,درېدل,сулавны
+1890,stehen::V,درېدل,stāvēt
+1891,sitzen::V,کښېنستل,пукавны
+1892,sitzen::V,کښېنستل,sēdēt
+1893,liegen::V,ملاستل,куйлыны
+1894,liegen::V,ملاستل,gulēt
+1895,hängen::V,ځړېدل,ӧшавны
+1896,hängen::V,ځړېدل,karāties
+1897,werden::V,کېدل,лоны
+1898,werden::V,کېدل,tapt
+1899,passieren::V,پېښېدل,лоны
+1900,passieren::V,پېښېدل,notikt
+1901,beginnen::V,شروع کېدل,кутчысьны
+1902,beginnen::V,شروع کېدل,кутны
+1903,beginnen::V,شروع کېدل,sākties
+1904,enden::V,خلاصدل,помасьны
+1905,enden::V,خلاصدل,beigties
+1906,enden::V,تمامېدل,помасьны
+1907,enden::V,تمامېدل,beigties
+1908,wechseln::V,تغییر موندل,вежсьыны
+1909,wechseln::V,تغییر موندل,mainīties
+1910,aufgehen[Sonne]::V,ختل,петны
+1911,aufgehen[Sonne]::V,ختل,lēkt
+1912,aufgehen[Sonne]::V,ختل,uzlēkt
+1913,untergehen[Sonne]::V,لوېدل,пуксьыны
+1914,untergehen[Sonne]::V,لوېدل,noiet
+1915,untergehen[Sonne]::V,لوېدل,rietēt
+1916,untergehen[Sonne]::V,پرېوتل,пуксьыны
+1917,untergehen[Sonne]::V,پرېوتل,noiet
+1918,untergehen[Sonne]::V,پرېوتل,rietēt
+1919,scheinen[Sonne]::V,رڼا کول,югъявны
+1920,scheinen[Sonne]::V,رڼا کول,югвидзны
+1921,scheinen[Sonne]::V,رڼا کول,spīdēt
+1922,donnern::V,تنېدل,гымавны
+1923,donnern::V,تنېدل,dārdēt
+1924,donnern::V,غړمبېدل,гымавны
+1925,donnern::V,غړمبېدل,dārdēt
+1926,wehen::V,چلېدل,пӧльтны
+1927,wehen::V,چلېدل,pūst
+1928,strömen::V,بهېدل,киссьыны
+1929,strömen::V,بهېدل,līt
+1930,strömen::V,بهېدل,plūst
+1931,fließen::V,بهېدل,визувтны
+1932,fließen::V,بهېدل,tecēt
+1933,fließen::V,تویېدل,визувтны
+1934,fließen::V,تویېدل,tecēt
+1935,sich drehen::V,ګرځېدل,бергавны
+1936,sich drehen::V,ګرځېدل,grozīties
+1937,sich drehen::V,چورلېدل,бергавны
+1938,sich drehen::V,چورلېدل,grozīties
+1939,schwanken::V,زنګېدل,легны
+1940,schwanken::V,زنګېدل,лайкъявны
+1941,schwanken::V,زنګېدل,līgoties
+1942,schwanken::V,زنګېدل,grīļoties
+1943,schwingen::V,زنګېدل,лайкъявны
+1944,schwingen::V,زنګېدل,люллявны
+1945,schwingen::V,زنګېدل,vēzēties
+1946,fallen::V,ولېدل,усьны
+1947,fallen::V,ولېدل,krist
+1948,brennen::V,سوځېدل,сотчыны
+1949,brennen::V,سوځېدل,degt
+1950,rauchen::V,لوګی کول,тшынӧдны
+1951,rauchen::V,لوګی کول,dūmot
+1952,regnen::V,باران اورېدل,зэрны
+1953,regnen::V,باران اورېدل,līt
+1954,gefrieren::V,کنګل نيول,кынмыны
+1955,gefrieren::V,کنګل نيول,sasalt
+1956,tauen::V,وېلې کېدل,сывны
+1957,tauen::V,وېلې کېدل,kust
+1958,schmelzen::V,وېلې کېدل,сывны
+1959,schmelzen::V,وېلې کېدل,kust
+1960,schmelzen::V,وېلې کېدل,nokust
+1961,trocknen::V,وچېدل,косьмыны
+1962,trocknen::V,وچېدل,žūt
+1963,trocknen::V,وچېدل,kaltēties
+1964,sieden::V,اېشېدل,пуны
+1965,sieden::V,اېشېدل,virt
+1966,sieden::V,اېشېدل,vārīties
+1967,faulen::V,خرابېدل,сісьмыны
+1968,faulen::V,خرابېدل,pūt
+1969,faulen::V,خرابېدل,trudēt
+1970,verfaulen::V,ورستېدل,сісьмыны
+1971,verfaulen::V,ورستېدل,sapūt
+1972,verfaulen::V,ورستېدل,satrūdēt
+1973,reißen::V,شلېدل,орны
+1974,reißen::V,شلېدل,plīst
+1975,reißen::V,شلېدل,satrūkt
+1976,versinken::V,ډوېېدل,вӧйны
+1977,versinken::V,ډوېېدل,grimt
+1978,versinken::V,ډوېېدل,nogrimt
+1979,vergehen::V,تېرېدل,кольны
+1980,vergehen::V,تېرېدل,ордйыны
+1981,vergehen::V,تېرېدل,paiet
+1982,erscheinen::V,ښکارېدل,петкӧдчыны
+1983,erscheinen::V,ښکارېدل,parādīties
+1984,verschwinden::V,ورکېدل,бырны
+1985,verschwinden::V,ورکېدل,nozust
+1986,sinken::V,ښکته کېدل,вӧйны
+1987,sinken::V,ښکته کېدل,kristies
+1988,abnehmen::V,کمېدل,чинны
+1989,abnehmen::V,کمېدل,noplakt
+1990,abnehmen::V,کمېدل,mazināties
+1991,zunehmen::V,زیاتېدل,содны
+1992,zunehmen::V,زیاتېدل,ыдждыны
+1993,zunehmen::V,زیاتېدل,pieaugt
+1994,zunehmen::V,زیاتېدل,pieņemties
+1995,steigen::V,جګېدل,лыбны
+1996,steigen::V,جګېدل,kāpt
+1997,steigen::V,پورته کېدل,лыбны
+1998,steigen::V,پورته کېدل,kāpt
+1999,wachsen::V,وده کول,быдмыны
+2000,wachsen::V,وده کول,augt
+2001,glänzen::V,ځلېدل,югъявны
+2002,glänzen::V,ځلېدل,дзирдавны
+2003,glänzen::V,ځلېدل,zaigot
+2004,glänzen::V,ځلېدل,laistīties
+2005,funkeln::V,پړکېدل,югъявны
+2006,funkeln::V,پړکېدل,дзирдавны
+2007,funkeln::V,پړکېدل,mirdzēt
+2008,funkeln::V,پړکېدل,dzirkstēt
+2009,lärmen::V,غال و غول کول,жувгыны
+2010,lärmen::V,غال و غول کول,ыугыны
+2011,lärmen::V,غال و غول کول,шумитны
+2012,lärmen::V,غال و غول کول,ālēties
+2013,lärmen::V,غال و غول کول,trokšņot
+2014,läuten::V,زنګ وهل,жургыны
+2015,läuten::V,زنګ وهل,zvanīt
+2016,klingeln::V,زنګ وهل,звӧнитны
+2017,klingeln::V,زنګ وهل,zvanīt
+2018,klirren::V,کړنګېدل,гольскöдчыны
+2019,klirren::V,کړنګېدل,tinkšķēt
+2020,klirren::V,کړنګېدل,džinkstēt
+2021,brausen::V,تلاطم کول,буавны
+2022,brausen::V,تلاطم کول,krākt
+2023,brausen::V,تلاطم کول,brāzmot
+2024,rauschen::V,شڼهار کول,кышакывны
+2025,rauschen::V,شڼهار کول,šalkt
+2026,klingen::V,آواز کول,шыавны
+2027,klingen::V,آواز کول,юргыны
+2028,klingen::V,آواز کول,skanēt
+2029,klingen::V,آواز کول,izklausīties
+2030,bellen::V,غپېدل,увтны
+2031,bellen::V,غپېدل,riet
+2032,heulen::V,انګلل,омлявны
+2033,heulen::V,انګلل,вурзавны
+2034,heulen::V,انګلل,kaukt
+2035,heulen::V,انګلل,gaudot
+2036,blasen::V,پو کول,пӧльтны
+2037,blasen::V,پو کول,pūst
+2038,pfeifen::V,شپېلک وهل,шутьлявны
+2039,pfeifen::V,شپېلک وهل,svilpt
+2040,pfeifen::V,شپېلک وهل,svilpot
+2041,schreien::V,ناره کول,горзыны
+2042,schreien::V,ناره کول,brēkt
+2043,schreien::V,ناره کول,kliegt
+2044,stöhnen::V,زګېروی کول,ымзыны
+2045,stöhnen::V,زګېروی کول,vaidēt
+2046,zittern::V,لړزېدل,тіравны
+2047,zittern::V,لړزېدل,drebēt
+2048,leben::V,ژوند کول,овны
+2049,leben::V,ژوند کول,dzīvot
+2050,geboren werden::V,زېږېدل,чужны
+2051,geboren werden::V,زېږېدل,dzimt
+2052,atmen::V,ساه کښل,кашкыны
+2053,atmen::V,ساه کښل,пошиктыны
+2054,atmen::V,ساه کښل,elpot
+2055,atmen::V,تنفس کول,кашкыны
+2056,atmen::V,تنفس کول,пошиктыны
+2057,atmen::V,تنفس کول,elpot
+2058,trinken::V,څښل,юны
+2059,trinken::V,څښل,dzert
+2060,essen::V,خوړل,сёйны
+2061,essen::V,خوړل,ēst
+2062,schlucken::V,غړپول,ньылавны
+2063,schlucken::V,غړپول,rīt
+2064,müde werden::V,ستړی کېدل,мудзны
+2065,müde werden::V,ستړی کېدل,nokust
+2066,einschlafen::V,ویده کېدل,ланьтны
+2067,einschlafen::V,ویده کېدل,унмовсьны
+2068,einschlafen::V,ویده کېدل,iemigt
+2069,einschlafen::V,ویده کېدل,aizmigt
+2070,schlafen::V,خوب کول,узьны
+2071,schlafen::V,خوب کول,gulēt
+2072,aufwachen::V,ویښېدل,садьмыны
+2073,aufwachen::V,ویښېدل,mosties
+2074,aufstehen::V,پاڅېدل,чеччыны
+2075,aufstehen::V,پاڅېدل,celties
+2076,sich erholen::V,استراحت کول,шойччыны
+2077,sich erholen::V,استراحت کول,atžirgt
+2078,sich erholen::V,استراحت کول,atpūsties
+2079,krank werden::V,رنځورېدل,висьмыны
+2080,krank werden::V,رنځورېدل,sasirgt
+2081,krank sein::V,ناجوړېدل,висьны
+2082,krank sein::V,ناجوړېدل,slimot
+2083,schmerzen::V,خوږېدل,висьны
+2084,schmerzen::V,خوږېدل,sāpēt
+2085,schmerzen::V,خوږېدل,smelgt
+2086,schmerzen::V,درد کول,висьны
+2087,schmerzen::V,درد کول,sāpēt
+2088,schmerzen::V,درد کول,smelgt
+2089,husten::V,ټوخېدل,кызны
+2090,husten::V,ټوخېدل,klepot
+2091,genesen::V,رغېدل,бурдны
+2092,genesen::V,رغېدل,veseļoties
+2093,sterben::V,مړل,кувны
+2094,sterben::V,مړل,mirt
+2095,sterben::V,مړل,nomirt
+2096,umkommen::V,تلفېدل,кувны
+2097,umkommen::V,تلفېدل,apsprāgt
+2098,umkommen::V,تلفېدل,aiziet bojā
+2099,sich bewegen::V,چلېدل,вӧрзьыны
+2100,sich bewegen::V,چلېدل,virzīties
+2101,sich bewegen::V,حرکت کول,вӧрзьыны
+2102,sich bewegen::V,حرکت کول,virzīties
+2103,sich rühren::V,ښورېدل,вӧрны
+2104,sich rühren::V,ښورېدل,вӧрӧдчыны
+2105,sich rühren::V,ښورېدل,sagrozīties
+2106,sich erheben::V,درېدل,сувтны
+2107,sich erheben::V,درېدل,piecelties
+2108,sich setzen::V,کښېنستل,пуксьыны
+2109,sich setzen::V,کښېنستل,sēsties
+2110,hinfallen::V,لوېدل,усьны
+2111,hinfallen::V,لوېدل,sabirt
+2112,hinfallen::V,لوېدل,pakrist
+2113,laufen::V,منډې وهل,мyнны
+2114,laufen::V,منډې وهل,iet
+2115,laufen::V,منډې وهل,skraidīt
+2116,schreiten::V,قدم ایښودل,восьлавны
+2117,schreiten::V,قدم ایښودل,soļot
+2118,spazierengehen::V,چکر وهل,гуляйтны
+2119,spazierengehen::V,چکر وهل,staigāt
+2120,spazierengehen::V,چکر وهل,pastaigāties
+2121,eilen::V,بېړه کول,тэрмасьны
+2122,eilen::V,بېړه کول,traukt
+2123,sich beeilen::V,عجله کول,тэрмасьны
+2124,sich beeilen::V,عجله کول,steigties
+2125,sich beeilen::V,عجله کول,pasteigties
+2126,sausen::V,ځغستل,тӧвзьыны
+2127,sausen::V,ځغستل,drāzt
+2128,sausen::V,ځغستل,brāzties
+2129,rennen::V,زغلېدل,котӧртны
+2130,rennen::V,زغلېدل,skriet
+2131,springen::V,ټوپ وهل,чеччавны
+2132,springen::V,ټوپ وهل,lēkt
+2133,klettern::V,ختل,кышасьны
+2134,klettern::V,ختل,кавшасьны
+2135,klettern::V,ختل,kāpt
+2136,klettern::V,ختل,rāpties
+2137,schaukeln::V,زنګېدل,гычасьны
+2138,schaukeln::V,زنګېدل,šūpoties
+2139,schaukeln::V,زنګېدل,zvalstīties
+2140,kriechen::V,خاپوړی وهل,кыссьыны
+2141,kriechen::V,خاپوړی وهل,līst
+2142,kriechen::V,خاپوړی وهل,rāpot
+2143,schwimmen::V,لامبو وهل,уявны
+2144,schwimmen::V,لامبو وهل,peldēt
+2145,tauchen::V,غوټه وهل,сунавны
+2146,tauchen::V,غوټه وهل,gremdēties
+2147,rudern::V,پارو وهل,пелысасьны
+2148,rudern::V,پارو وهل,airēt
+2149,rudern::V,پارو وهل,irties
+2150,fahren::V,تلل,мунны
+2151,fahren::V,تلل,braukt
+2152,fliegen::V,الوتل,лэбны
+2153,fliegen::V,الوتل,lidot
+2154,fliegen::V,الوتل,laisties
+2155,gehen::V,تلل,мyнны
+2156,gehen::V,تلل,iet
+2157,weggehen::V,بهر وتل,мунавны
+2158,weggehen::V,بهر وتل,aiziet
+2159,abfahren::V,تلل,мӧдӧдчыны
+2160,abfahren::V,تلل,atiet
+2161,abfahren::V,تلل,aizbraukt
+2162,anhalten::V,ودرېدل,джӧмдыны
+2163,anhalten::V,ودرېدل,apstāties
+2164,hineingehen::V,داخلېدل,пырны
+2165,hineingehen::V,داخلېدل,ieiet
+2166,eintreten::V,ننوتل,пырны
+2167,eintreten::V,ننوتل,ienākt
+2168,kommen::V,راتلل,воны
+2169,kommen::V,راتلل,локны
+2170,kommen::V,راتلل,nākt
+2171,ankommen::V,رسېدل,воны
+2172,ankommen::V,رسېدل,локны
+2173,ankommen::V,رسېدل,nonākt
+2174,ankommen::V,رسېدل,ierasties
+2175,zurückkommen::V,بېرته راتلل,косны
+2176,zurückkommen::V,بېرته راتلل,бергӧдчыны
+2177,zurückkommen::V,بېرته راتلل,atgriezties
+2178,bleiben::V,پاتې کېدل,кольны
+2179,bleiben::V,پاتې کېدل,palikt
+2180,warten::V,انتظار وېستل,виччысьны
+2181,warten::V,انتظار وېستل,gaidīt
+2182,erwarten::V,انتظار کول,виччысьны
+2183,erwarten::V,انتظار کول,sagaidīt
+2184,suchen::V,لټول,корсьны
+2185,suchen::V,لټول,meklēt
+2186,finden::V,میندل,казявны
+2187,finden::V,میندل,rast
+2188,finden::V,میندل,atrast
+2189,finden::V,پیدا کول,казявны
+2190,finden::V,پیدا کول,rast
+2191,finden::V,پیدا کول,atrast
+2192,versuchen::V,هڅه کول,заводитчывны
+2193,versuchen::V,هڅه کول,mēģināt
+2194,vorbereiten::V,چمتوکول,дасьтыны
+2195,vorbereiten::V,چمتوکول,gatavot
+2196,vorbereiten::V,چمتوکول,sagatavot
+2197,lieben::V,مینه لرل,радейтны
+2198,lieben::V,مینه لرل,mīlēt
+2199,mögen::V,خوښول,радейтны
+2200,mögen::V,خوښول,gribēties
+2201,mögen::V,علاقه لرل,радейтны
+2202,mögen::V,علاقه لرل,gribēties
+2203,lachen::V,خندېدل,серавны
+2204,lachen::V,خندېدل,серавлыны
+2205,lachen::V,خندېدل,smiet
+2206,lachen::V,خندېدل,smieties
+2207,rühren::V,اغېزه کول,нормӧдны
+2208,rühren::V,اغېزه کول,aizgrābt
+2209,weinen::V,ژړل,бӧрдны
+2210,weinen::V,ژړل,raudāt
+2211,schimpfen::V,ښکنځا کول,видчыны
+2212,schimpfen::V,ښکنځا کول,rāties
+2213,schimpfen::V,ښکنځا کول,lamāties
+2214,sich ärgern::V,قهر راتلل,скӧравны
+2215,sich ärgern::V,قهر راتلل,īgt
+2216,sich ärgern::V,قهر راتلل,pukoties
+2217,sich ärgern::V,قهر راتلل,dusmoties
+2218,sich fürchten::V,ډارېدل,повны
+2219,sich fürchten::V,ډارېدل,bīties
+2220,sich fürchten::V,ډارېدل,baidīties
+2221,fürchten::V,ډارېدل,повны
+2222,fürchten::V,ډارېدل,baidīties no
+2223,fliehen::V,تښتېدل,пышйыны
+2224,fliehen::V,تښتېدل,bēgt
+2225,flüchten::V,تښتېدل,пышйыны
+2226,flüchten::V,تښتېدل,aizbēgt
+2227,sehen::V,لیدل,аддзыны
+2228,sehen::V,لیدل,redzēt
+2229,anschauen::V,کتل,видзӧдны
+2230,anschauen::V,کتل,paraudzīties
+2231,ansehen::V,ننداره کول,видзӧдны
+2232,ansehen::V,ننداره کول,aplūkot
+2233,hören::V,اورېدل,кывны
+2234,hören::V,اورېدل,dzirdēt
+2235,zuhören::V,غوږ نیول,кывзыны
+2236,zuhören::V,غوږ نیول,klausīties
+2237,probieren::V,څکه کول,видлыны
+2238,probieren::V,څکه کول,nogaršot
+2239,probieren::V,چاشنی کول,видлыны
+2240,probieren::V,چاشنی کول,nogaršot
+2241,riechen::V,بويول,чушкыны
+2242,riechen::V,بويول,ost
+2243,riechen::V,بويول,ostīt
+2244,fühlen::V,حسول,вежӧртны
+2245,fühlen::V,حسول,гӧгӧрвоны
+2246,fühlen::V,حسول,just
+2247,fühlen::V,حسول,izjust
+2248,scheinen::V,ښکارېدل,кажитчыны
+2249,scheinen::V,ښکارېدل,šķist
+2250,scheinen::V,ښکارېدل,likties
+2251,zu sehen sein::V,ښکارېدل,тыдавны
+2252,zu sehen sein::V,ښکارېدل,parādīties
+2253,vernehmen::V,خبرېدل,кывны
+2254,vernehmen::V,خبرېدل,saklausīt
+2255,frieren::V,ساړه کېتل,кынмыны
+2256,frieren::V,ساړه کېتل,salt
+2257,tun::V,کول,керны
+2258,tun::V,کول,darīt
+2259,können::V,کولای شول,кужны
+2260,können::V,کولای شول,prast
+2261,können::V,د لاسه کېدل,кужны
+2262,können::V,د لاسه کېدل,prast
+2263,wollen::V,غوښتل,кӧсйыны
+2264,wollen::V,غوښتل,gribēt
+2265,anfangen::V,شروع کول,заводитны
+2266,anfangen::V,شروع کول,пондыны
+2267,anfangen::V,شروع کول,sākt
+2268,anfangen::V,شروع کول,iesākt
+2269,beenden::V,ختمول,помавны
+2270,beenden::V,ختمول,beigt
+2271,beenden::V,ختمول,pabeigt
+2272,beenden::V,پای ته رسول,помавны
+2273,beenden::V,پای ته رسول,beigt
+2274,beenden::V,پای ته رسول,pabeigt
+2275,aufhören::V,بس کول,дугӧдны
+2276,aufhören::V,بس کول,pārtraukt
+2277,gelingen::V,موفق کېدل,артмыны
+2278,gelingen::V,موفق کېدل,izdoties
+2279,gelingen::V,بریالی کېدل,артмыны
+2280,gelingen::V,بریالی کېدل,izdoties
+2281,geraten::V,کېدل,сюрны
+2282,geraten::V,کېدل,веськавны
+2283,geraten::V,کېدل,veikties
+2284,öffnen::V,خلاصول,восьтыны
+2285,öffnen::V,خلاصول,atvērt
+2286,öffnen::V,خلاصول,attaisīt
+2287,öffnen::V,پرانیستل,восьтыны
+2288,öffnen::V,پرانیستل,atvērt
+2289,öffnen::V,پرانیستل,attaisīt
+2290,schließen::V,تړل,пӧдлавны
+2291,schließen::V,تړل,slēgt
+2292,schließen::V,تړل,aizvērt
+2293,schließen::V,تړل,aiztaisīt
+2294,stellen::V,ایښودل,сувтӧдны
+2295,stellen::V,ایښودل,likt
+2296,stellen::V,ایښودل,nolikt
+2297,setzen::V,کښېنول,пуксьӧдны
+2298,setzen::V,کښېنول,sēdināt
+2299,legen::V,ایښودل,пуктыны
+2300,legen::V,ایښودل,likt
+2301,berühren::V,لاس وهل,вӧрзьӧдны
+2302,berühren::V,لاس وهل,инмӧдчывны
+2303,berühren::V,لاس وهل,skart
+2304,berühren::V,لاس وهل,aizskart
+2305,verbinden::V,تړل,йитны
+2306,verbinden::V,تړل,saistīt
+2307,verbinden::V,تړل,savienot
+2308,bedecken::V,پوښول,вевттьыны
+2309,bedecken::V,پوښول,apsegt
+2310,bedecken::V,پوښول,pārsegt
+2311,aufhängen::V,ځوړندول,ӧшӧдны
+2312,aufhängen::V,ځوړندول,джагӧдны
+2313,aufhängen::V,ځوړندول,uzkārt
+2314,anzünden::V,بلول,ӧзтыны
+2315,anzünden::V,بلول,aizdegt
+2316,anzünden::V,بلول,aizdedzināt
+2317,aufheben::V,پورته کول,чеччӧдны
+2318,aufheben::V,پورته کول,сувтӧдны
+2319,aufheben::V,پورته کول,pacelt
+2320,zurücklassen::V,پرېښودل,кольны
+2321,zurücklassen::V,پرېښودل,atstāt
+2322,verlieren::V,ورکول,воштыны
+2323,verlieren::V,ورکول,zaudēt
+2324,verlieren::V,ورکول,pazaudēt
+2325,fallen lassen::V,له لاسه لوېدل,уськӧдны
+2326,fallen lassen::V,له لاسه لوېدل,nomest
+2327,machen::V,کول,вӧчны
+2328,machen::V,کول,лӧсьӧдны
+2329,machen::V,کول,darīt
+2330,herstellen::V,جوړول,лӧсьӧдны
+2331,herstellen::V,جوړول,ražot
+2332,herstellen::V,جوړول,izgatavot
+2333,herstellen::V,توليدول,лӧсьӧдны
+2334,herstellen::V,توليدول,ražot
+2335,herstellen::V,توليدول,izgatavot
+2336,bauen::V,جوړول,лэптыны
+2337,bauen::V,جوړول,celt
+2338,bauen::V,جوړول,būvēt
+2339,reparieren::V,ترمیمول,дзоньтавны
+2340,reparieren::V,ترمیمول,labot
+2341,reparieren::V,ترمیمول,remontēt
+2342,verbessern::V,اصلاح کول,бурмӧдны
+2343,verbessern::V,اصلاح کول,labot
+2344,verbessern::V,اصلاح کول,izlabot
+2345,ändern::V,تغیر ورکول,вежны
+2346,ändern::V,تغیر ورکول,mainīt
+2347,graben::V,کيندل,кодйыны
+2348,graben::V,کيندل,rakt
+2349,beugen::V,ټیټول,куснявны
+2350,beugen::V,ټیټول,liekt
+2351,biegen::V,کږول,куснявны
+2352,biegen::V,کږول,liekt
+2353,drehen::V,ګرځول,бергӧдлыны
+2354,drehen::V,ګرځول,griezt
+2355,wenden::V,اړول,бергӧдны
+2356,wenden::V,اړول,apgriezt
+2357,umdrehen::V,اړول,бергӧдны
+2358,umdrehen::V,اړول,apgriezt
+2359,heben::V,جګول,лэптыны
+2360,heben::V,جګول,celt
+2361,heben::V,جګول,cilāt
+2362,heben::V,جګول,pacelt
+2363,heben::V,پورته کول,лэптыны
+2364,heben::V,پورته کول,celt
+2365,heben::V,پورته کول,cilāt
+2366,heben::V,پورته کول,pacelt
+2367,hochheben::V,جګول,кыпӧдны
+2368,hochheben::V,جګول,pacelt
+2369,ergreifen::V,نیول,кутны
+2370,ergreifen::V,نیول,paķert
+2371,ergreifen::V,نیول,satvert
+2372,halten::V,نیول,кутны
+2373,halten::V,نیول,turēt
+2374,halten::V,نیول,saturēt
+2375,drücken::V,کښېکښل,личкыны
+2376,drücken::V,کښېکښل,топӧдны
+2377,drücken::V,کښېکښل,spiest
+2378,schieben::V,پوری وهل,ӧтдортны
+2379,schieben::V,پوری وهل,йӧткыштны
+2380,schieben::V,پوری وهل,stumt
+2381,kratzen::V,ګرول,гуджӧдны
+2382,kratzen::V,ګرول,kasīt
+2383,kratzen::V,ګرول,skrāpēt
+2384,lecken::V,څټل,нювны
+2385,lecken::V,څټل,lakt
+2386,lecken::V,څټل,laizīt
+2387,beißen::V,چیچل,курччыны
+2388,beißen::V,چیچل,kost
+2389,abreißen::V,شکول,орӧдны
+2390,abreißen::V,شکول,atraut
+2391,abreißen::V,شکول,atplēst
+2392,abschneiden::V,پرېکول,вундавны
+2393,abschneiden::V,پرېکول,nogriezt
+2394,binden::V,تړل,гӧрддзавны
+2395,binden::V,تړل,кӧртавны
+2396,binden::V,تړل,siet
+2397,binden::V,تړل,aptīt
+2398,stecken::V,ټومبل,сюйны
+2399,stecken::V,ټومبل,bāzt
+2400,stecken::V,ټومبل,spraust
+2401,brechen::V,ماتول,чегны
+2402,brechen::V,ماتول,lauzt
+2403,brechen::V,ماتول,lauzīt
+2404,klopfen::V,ټکول,камгыны
+2405,klopfen::V,ټکول,klauvēt
+2406,hauen::V,ټکول,нӧйнты
+2407,hauen::V,ټکول,кучкыны
+2408,hauen::V,ټکول,cirst
+2409,hauen::V,ټکول,dauzīt
+2410,kleben::V,نښلول,лемавны
+2411,kleben::V,نښلول,ляскавны
+2412,kleben::V,نښلول,līmēt
+2413,kleben::V,نښلول,lipināt
+2414,kleben::V,سرېښول,лемавны
+2415,kleben::V,سرېښول,ляскавны
+2416,kleben::V,سرېښول,līmēt
+2417,kleben::V,سرېښول,lipināt
+2418,reiben::V,مږل,тільны
+2419,reiben::V,مږل,зыравны
+2420,reiben::V,مږل,rīvēt
+2421,reiben::V,مږل,berzēt
+2422,streichen::V,مښل,мавтны
+2423,streichen::V,مښل,ziest
+2424,streichen::V,مښل,triept
+2425,schleifen::V,تېره کول,кеслыны
+2426,schleifen::V,تېره کول,trīt
+2427,schleifen::V,تېره کول,asināt
+2428,schneiden::V,غوڅول,шырны
+2429,schneiden::V,غوڅول,griezt
+2430,schneiden::V,غوڅول,sagriezt
+2431,schneiden::V,پرېکول,шырны
+2432,schneiden::V,پرېکول,griezt
+2433,schneiden::V,پرېکول,sagriezt
+2434,rütteln::V,خوڅول,легӧдны
+2435,rütteln::V,خوڅول,катлӧдлыны
+2436,rütteln::V,خوڅول,kratīt
+2437,rütteln::V,خوڅول,purināt
+2438,schütteln::V,ښورول,тракӧдны
+2439,schütteln::V,ښورول,kratīt
+2440,schwenken::V,خوڅول,ӧвтны
+2441,schwenken::V,خوڅول,шенасьны
+2442,schwenken::V,خوڅول,vēzēt
+2443,schwenken::V,خوڅول,vēcināt
+2444,schütten::V,اچول,кисьтны
+2445,schütten::V,اچول,bērt
+2446,schütten::V,تویول,кисьтны
+2447,schütten::V,تویول,bērt
+2448,füllen::V,ډکول,тыртны
+2449,füllen::V,ډکول,pildīt
+2450,füllen::V,ډکول,piepildīt
+2451,einwickeln::V,پېچل,тубыртны
+2452,einwickeln::V,پېچل,ietīt
+2453,einwickeln::V,نغښتل,тубыртны
+2454,einwickeln::V,نغښتل,ietīt
+2455,tragen::V,وړل,нуны
+2456,tragen::V,وړل,nest
+2457,schleppen::V,وړل,кыскавны
+2458,schleppen::V,وړل,stiept
+2459,schleppen::V,وړل,staipīt
+2460,ziehen::V,کښل,кыскыны
+2461,ziehen::V,کښل,vilkt
+2462,aufbewahren::V,ساتل,видзны
+2463,aufbewahren::V,ساتل,glabāt
+2464,aufbewahren::V,ساتل,uzglabāt
+2465,werfen::V,اچول,чӧвтны
+2466,werfen::V,اچول,шыбитны
+2467,werfen::V,اچول,mest
+2468,werfen::V,اچول,sviest
+2469,werfen::V,غورځول,чӧвтны
+2470,werfen::V,غورځول,шыбитны
+2471,werfen::V,غورځول,mest
+2472,werfen::V,غورځول,sviest
+2473,fangen::V,نیول,кутны
+2474,fangen::V,نیول,ķert
+2475,fangen::V,نیول,uzķert
+2476,fangen::V,ګیرول,кутны
+2477,fangen::V,ګیرول,ķert
+2478,fangen::V,ګیرول,uzķert
+2479,packen::V,نیول,босьтны
+2480,packen::V,نیول,paķert
+2481,packen::V,نیول,satvert
+2482,verstecken::V,پټول,дзебны
+2483,verstecken::V,پټول,slēpt
+2484,verstecken::V,پټول,noglabāt
+2485,teilen::V,وېشل,юкны
+2486,teilen::V,وېشل,dalīt
+2487,teilen::V,تقسیمول,юкны
+2488,teilen::V,تقسیمول,dalīt
+2489,schicken::V,لېږل,ыстыны
+2490,schicken::V,لېږل,sūtīt
+2491,schicken::V,لېږل,atsūtīt
+2492,schicken::V,استول,ыстыны
+2493,schicken::V,استول,sūtīt
+2494,schicken::V,استول,atsūtīt
+2495,bringen::V,راوړل,вайны
+2496,bringen::V,راوړل,atvest
+2497,hinzufügen::V,زیاتول,содтыны
+2498,hinzufügen::V,زیاتول,pievienot
+2499,bekommen::V,حاصلول,босьтны
+2500,bekommen::V,حاصلول,dabūt
+2501,erhalten::V,اخیستل,босьтны
+2502,erhalten::V,اخیستل,saņemt
+2503,nehmen::V,نیول,босьтны
+2504,nehmen::V,نیول,ņemt
+2505,nehmen::V,نیول,paņemt
+2506,nehmen::V,اخيستل,босьтны
+2507,nehmen::V,اخيستل,ņemt
+2508,nehmen::V,اخيستل,paņemt
+2509,wählen::V,خوښول,бӧрйыны
+2510,wählen::V,خوښول,ievēlēt
+2511,auswählen::V,چنده کول,бӧрйыны
+2512,auswählen::V,چنده کول,izvēlēt
+2513,bewahren::V,ساتل,видзны
+2514,bewahren::V,ساتل,saglabāt
+2515,behindern::V,مانع کېدل,конйӧдлыны
+2516,behindern::V,مانع کېدل,джӧмдӧдны
+2517,behindern::V,مانع کېدل,kavēt
+2518,behindern::V,مانع کېدل,aizkavēt
+2519,behindern::V,ممانعت کول,конйӧдлыны
+2520,behindern::V,ممانعت کول,джӧмдӧдны
+2521,behindern::V,ممانعت کول,kavēt
+2522,behindern::V,ممانعت کول,aizkavēt
+2523,verderben::V,خرابېدل,тшыкӧдны
+2524,verderben::V,خرابېدل,sabojāt
+2525,beschädigen::V,ورانول,тшыкӧдны
+2526,beschädigen::V,ورانول,bojāt
+2527,beschädigen::V,ورانول,maitāt
+2528,zerbrechen::V,ماتول,жуглыны
+2529,zerbrechen::V,ماتول,salauzt
+2530,zerbrechen::V,ماتول,sadauzīt
+2531,zerreißen::V,څیرې کول,орӧдны
+2532,zerreißen::V,څیرې کول,pārraut
+2533,zerstören::V,ړنګول,жугӧдны
+2534,zerstören::V,ړنګول,кисьтны
+2535,zerstören::V,ړنګول,косявны
+2536,zerstören::V,ړنګول,graut
+2537,zerstören::V,ړنګول,sagraut
+2538,zerstören::V,ورانول,жугӧдны
+2539,zerstören::V,ورانول,кисьтны
+2540,zerstören::V,ورانول,косявны
+2541,zerstören::V,ورانول,graut
+2542,zerstören::V,ورانول,sagraut
+2543,verbrennen::V,سوځول,сотны
+2544,verbrennen::V,سوځول,сотчыны
+2545,verbrennen::V,سوځول,dedzināt
+2546,verbrennen::V,سوځول,sadedzināt
+2547,geben::V,ورکول,сетны
+2548,geben::V,ورکول,dot
+2549,geben::V,ورکول,padot
+2550,reichen::V,ورکول,сетны
+2551,reichen::V,ورکول,padot
+2552,reichen::V,ورکول,sniegt
+2553,schenken::V,بښل,козьнавны
+2554,schenken::V,بښل,dāvāt
+2555,schenken::V,بښل,dāvināt
+2556,versprechen::V,لوز کول,кыв сетны
+2557,versprechen::V,لوز کول,solīt
+2558,versprechen::V,لوز کول,apsolīt
+2559,wünschen::V,غوښتل,кӧсйыны
+2560,wünschen::V,غوښتل,vēlēt
+2561,wünschen::V,غوښتل,novēlēt
+2562,loben::V,ستایل,ошкыны
+2563,loben::V,ستایل,lielīt
+2564,loben::V,تمجید کول,ошкыны
+2565,loben::V,تمجید کول,lielīt
+2566,küssen::V,ښکلول,окавны
+2567,küssen::V,ښکلول,bučot
+2568,küssen::V,ښکلول,skūpstīt
+2569,wiegen::V,زنګول,гудрӧдлыны
+2570,wiegen::V,زنګول,šūpot
+2571,zudecken::V,پوښول,веввттьыны
+2572,zudecken::V,پوښول,apklāt
+2573,zudecken::V,پوښول,aizsegt
+2574,wecken::V,ويښول,садьмӧдны
+2575,wecken::V,ويښول,чуксавны
+2576,wecken::V,ويښول,modināt
+2577,zeigen::V,ښودل,петкӧдлыны
+2578,zeigen::V,ښودل,rādīt
+2579,führen::V,بیول,нуӧдны
+2580,führen::V,بیول,vadīt
+2581,lehren::V,درس ورکول,велӧдны
+2582,lehren::V,درس ورکول,mācīt
+2583,lehren::V,درس ورکول,iemācīt
+2584,lehren::V,تعلیم ورکول,велӧдны
+2585,lehren::V,تعلیم ورکول,mācīt
+2586,lehren::V,تعلیم ورکول,iemācīt
+2587,unterrichten::V,درس ورکول,велӧдны
+2588,unterrichten::V,درس ورکول,apmācīt
+2589,aufziehen::V,روزل,быдтыны
+2590,aufziehen::V,روزل,uzaudzināt
+2591,leiten::V,رهبری کول,веськӧдлыны
+2592,leiten::V,رهبری کول,vadīt
+2593,leiten::V,رهبری کول,pārzināt
+2594,leiten::V,لارښوونه کول,веськӧдлыны
+2595,leiten::V,لارښوونه کول,vadīt
+2596,leiten::V,لارښوونه کول,pārzināt
+2597,antreiben::V,چټک کول,тэрмӧдны
+2598,antreiben::V,چټک کول,urdīt
+2599,antreiben::V,چټک کول,mudināt
+2600,lassen::V,اړکول,тшӧктыны
+2601,lassen::V,اړکول,ļaut
+2602,einladen::V,بلل,корны
+2603,einladen::V,بلل,ielūgt
+2604,einladen::V,بلل,aicināt
+2605,vereinigen::V,متحد کول,ӧтувтны
+2606,vereinigen::V,متحد کول,котыртны
+2607,vereinigen::V,متحد کول,vienot
+2608,vereinigen::V,متحد کول,apvienot
+2609,vereinigen::V,یوځای کول,ӧтувтны
+2610,vereinigen::V,یوځای کول,котыртны
+2611,vereinigen::V,یوځای کول,vienot
+2612,vereinigen::V,یوځای کول,apvienot
+2613,besuchen::V,کتنه کول,волыны
+2614,besuchen::V,کتنه کول,ветлыны
+2615,besuchen::V,کتنه کول,apciemot
+2616,treffen::V,ليدل,вочаӧдны
+2617,treffen::V,ليدل,паныдавны
+2618,treffen::V,ليدل,satikt
+2619,treffen::V,ليدل,sastapt
+2620,treffen::V,تلقی کول,вочаӧдны
+2621,treffen::V,تلقی کول,паныдавны
+2622,treffen::V,تلقی کول,satikt
+2623,treffen::V,تلقی کول,sastapt
+2624,sich versammeln::V,راغونډېدل,лӧсьӧдчыны
+2625,sich versammeln::V,راغونډېدل,salasīties
+2626,sich versammeln::V,راغونډېدل,sapulcēties
+2627,spielen::V,لوبه کول,ворсны
+2628,spielen::V,لوبه کول,spēlēt
+2629,spielen::V,لوبه کول,spēlēties
+2630,singen::V,سندرې وېل,сьывны
+2631,singen::V,سندرې وېل,dziedāt
+2632,tanzen::V,ګډېدل,йӧктыны
+2633,tanzen::V,ګډېدل,diet
+2634,tanzen::V,ګډېدل,dejot
+2635,tanzen::V,ګډېدل,dancot
+2636,sich trennen::V,بېلېدل,торйӧдчыны
+2637,sich trennen::V,بېلېدل,šķirties
+2638,sich trennen::V,بېلېدل,izšķirties
+2639,verlassen::V,ترک کول,эновтны
+2640,verlassen::V,ترک کول,atstāt
+2641,retten::V,نجات ورکول,видзны
+2642,retten::V,نجات ورکول,мездыны
+2643,retten::V,نجات ورکول,glābt
+2644,bewachen::V,ساتل,видзны
+2645,bewachen::V,ساتل,sargāt
+2646,bewachen::V,حفاظت کول,видзны
+2647,bewachen::V,حفاظت کول,sargāt
+2648,schützen::V,ژغورل,видзны
+2649,schützen::V,ژغورل,pasargāt
+2650,schützen::V,ژغورل,aizsargāt
+2651,verteidigen::V,دفاع کول,дорйыны
+2652,verteidigen::V,دفاع کول,aizstāvēt
+2653,sich schlagen::V,جنګېدل,косясьны
+2654,sich schlagen::V,جنګېدل,kauties
+2655,sich schlagen::V,جنګېدل,izkauties
+2656,schießen::V,ویشتل,лыйны
+2657,schießen::V,ویشتل,šaut
+2658,schießen::V,ویشتل,šaudīt
+2659,siegen::V,غالبېدل,вермыны
+2660,siegen::V,غالبېدل,uzvarēt
+2661,ärgern::V,خپه کول,лӧгӧдны
+2662,ärgern::V,خپه کول,лёкмӧдны
+2663,ärgern::V,خپه کول,скӧрмӧдны
+2664,ärgern::V,خپه کول,sadusmot
+2665,schlagen::V,وهل,вартны
+2666,schlagen::V,وهل,sist
+2667,schlagen::V,وهل,triekt
+2668,treten::V,په لغته وهل,лёгны
+2669,treten::V,په لغته وهل,майкны
+2670,treten::V,په لغته وهل,mīt
+2671,treten::V,په لغته وهل,paspert
+2672,stechen::V,ټومبل,бышткыны
+2673,stechen::V,ټومبل,durt
+2674,stoßen::V,ټېل وهل,тойлыны
+2675,stoßen::V,ټېل وهل,йӧткавны
+2676,stoßen::V,ټېل وهل,grūst
+2677,stoßen::V,پوری وهل,тойлыны
+2678,stoßen::V,پوری وهل,йӧткавны
+2679,stoßen::V,پوری وهل,grūst
+2680,stehlen::V,تښتول,гусявны
+2681,stehlen::V,تښتول,zagt
+2682,stehlen::V,غلا کول,гусявны
+2683,stehlen::V,غلا کول,zagt
+2684,stören::V,ماتول,падмӧдны
+2685,stören::V,ماتول,traucēt
+2686,belästigen::V,ځورول,дӧзмӧдны
+2687,belästigen::V,ځورول,apgrūtināt
+2688,belästigen::V,تکلیف ورکول,дӧзмӧдны
+2689,belästigen::V,تکلیف ورکول,apgrūtināt
+2690,verbergen::V,پټول,дзебны
+2691,verbergen::V,پټول,сайӧдны
+2692,verbergen::V,پټول,slēpt
+2693,verbergen::V,پټول,paslēpt
+2694,täuschen::V,تېرایستل,пӧръявны
+2695,täuschen::V,تېرایستل,ылӧдны
+2696,täuschen::V,تېرایستل,mānīt
+2697,täuschen::V,تېرایستل,maldināt
+2698,täuschen::V,خطا ایستل,пӧръявны
+2699,täuschen::V,خطا ایستل,ылӧдны
+2700,täuschen::V,خطا ایستل,mānīt
+2701,täuschen::V,خطا ایستل,maldināt
+2702,betrügen::V,غولول,сӧрны
+2703,betrügen::V,غولول,krāpt
+2704,betrügen::V,غولول,apkrāpt
+2705,töten::V,وژل,вины
+2706,töten::V,وژل,nāvēt
+2707,töten::V,وژل,nogalināt
+2708,töten::V,مړ کول,вины
+2709,töten::V,مړ کول,nāvēt
+2710,töten::V,مړ کول,nogalināt
+2711,wohnen::V,اوسېدل,овны
+2712,wohnen::V,اوسېدل,dzīvot
+2713,arbeiten::V,کار کول,уджавны
+2714,arbeiten::V,کار کول,strādāt
+2715,arbeiten::V,کار کول,darboties
+2716,sammeln::V,راټولول,чукӧртны
+2717,sammeln::V,راټولول,vākt
+2718,sammeln::V,راغونډول,чукӧртны
+2719,sammeln::V,راغونډول,vākt
+2720,pflücken::V,شکول,вотны
+2721,pflücken::V,شکول,ӧктыны
+2722,pflücken::V,شکول,raut
+2723,pflücken::V,شکول,plūkt
+2724,jagen::V,ښکار کول,кыйсьыны
+2725,jagen::V,ښکار کول,medīt
+2726,fischen::V,کب نيول,чери кыйны
+2727,fischen::V,کب نيول,zvejot
+2728,fassen::V,نیول,кутны
+2729,fassen::V,نیول,saķert
+2730,fassen::V,ګیرول,кутны
+2731,fassen::V,ګیرول,saķert
+2732,hüten::V,پوول,видзны
+2733,hüten::V,پوول,йирӧдны
+2734,hüten::V,پوول,ganīt
+2735,treiben::V,بیول,вӧтлыны
+2736,treiben::V,بیول,dzīt
+2737,anbinden::V,تړل,домавны
+2738,anbinden::V,تړل,piesiet
+2739,anbinden::V,تړل,piesaistīt
+2740,füttern::V,خوراک ورکول,вердны
+2741,füttern::V,خوراک ورکول,barot
+2742,melken::V,لوشل,лысьтыны
+2743,melken::V,لوشل,slaukt
+2744,hacken::V,پی کول,керавны
+2745,hacken::V,پی کول,kapāt
+2746,gießen::V,اوبه کول,киськавны
+2747,gießen::V,اوبه کول,liet
+2748,gießen::V,اوبه کول,laistīt
+2749,reifen::V,رسېدل,кисьмыны
+2750,reifen::V,رسېدل,briest
+2751,zubereiten::V,تیارول,дасьтыны
+2752,zubereiten::V,تیارول,taisīt
+2753,zubereiten::V,تیارول,gatavot
+2754,kochen::V,پخول,пуны
+2755,kochen::V,پخول,vārīt
+2756,backen::V,پخول,пӧжавны
+2757,backen::V,پخول,cept
+2758,braten::V,وريتول,пражитны
+2759,braten::V,وريتول,cept
+2760,braten::V,وريتول,cepināt
+2761,umrühren::V,لړل,сорлавны
+2762,umrühren::V,لړل,maisīt
+2763,umrühren::V,لړل,apmaisīt
+2764,stricken::V,اوبدل,кӧртны
+2765,stricken::V,اوبدل,adīt
+2766,nähen::V,ګنډل,вурны
+2767,nähen::V,ګنډل,šūt
+2768,färben::V,رنګول,мичӧдны
+2769,färben::V,رنګول,краситны
+2770,färben::V,رنګول,krāsot
+2771,färben::V,رنګول,nokrāsot
+2772,reinigen::V,صافول,весавны
+2773,reinigen::V,صافول,tīrīt
+2774,reinigen::V,صافول,attīrīt
+2775,waschen::V,مینځل,мыськыны
+2776,waschen::V,مینځل,mazgāt
+2777,abwischen::V,وچول,чышкыны
+2778,abwischen::V,وچول,noslaucīt
+2779,spülen::V,کنګالول,пожъявны
+2780,spülen::V,کنګالول,skalot
+2781,fegen::V,جارو کول,чышкыны
+2782,fegen::V,جارو کول,slaucīt
+2783,kehren::V,جارو کول,чышкыны
+2784,kehren::V,جارو کول,mēzt
+2785,baden::V,لمبېدل,купайтчыны
+2786,baden::V,لمبېدل,peldēties
+2787,sich waschen::V,ځان مينځل,мыссьыны
+2788,sich waschen::V,ځان مينځل,mazgāties
+2789,ausziehen::V,کښل,пӧрччӧдны
+2790,ausziehen::V,کښل,noģērbt
+2791,ausziehen::V,ایستل,пӧрччӧдны
+2792,ausziehen::V,ایستل,noģērbt
+2793,anziehen::V,اغوستل,кӧмавны
+2794,anziehen::V,اغوستل,пасьтавны
+2795,anziehen::V,اغوستل,uzvilkt
+2796,sich anziehen::V,کالی اغوستل,пасьтасьны
+2797,sich anziehen::V,کالی اغوستل,apģērbties
+2798,kämmen::V,ګمنځول,сынавны
+2799,kämmen::V,ګمنځول,sukāt
+2800,schmücken::V,ښکلی کول,мичмӧдны
+2801,schmücken::V,ښکلی کول,rotāt
+2802,schmücken::V,ښکلی کول,greznot
+2803,sagen::V,وېل,шуны
+2804,sagen::V,وېل,висьтавны
+2805,sagen::V,وېل,teikt
+2806,sprechen::V,وېل,сёрнитны
+2807,sprechen::V,وېل,runāt
+2808,sprechen::V,غږېدل,сёрнитны
+2809,sprechen::V,غږېدل,runāt
+2810,reden::V,ګړېدل,сёрнитны
+2811,reden::V,ګړېدل,norunāt
+2812,reden::V,خبرې کول,сёрнитны
+2813,reden::V,خبرې کول,norunāt
+2814,sich unterhalten::V,خبری کول,сёрнитны
+2815,sich unterhalten::V,خبری کول,варовитны
+2816,sich unterhalten::V,خبری کول,sarunāties
+2817,fragen::V,پوښتنه کول,юавны
+2818,fragen::V,پوښتنه کول,jautāt
+2819,bitten::V,غوښتل,корны
+2820,bitten::V,غوښتل,lūgt
+2821,bitten::V,غوښتل,prasīt
+2822,erzählen::V,کيسه کول,висьтавны
+2823,erzählen::V,کيسه کول,stāstīt
+2824,erzählen::V,حکايت کول,висьтавны
+2825,erzählen::V,حکايت کول,stāstīt
+2826,mitteilen::V,خبرول,юӧртны
+2827,mitteilen::V,خبرول,висьтавны
+2828,mitteilen::V,خبرول,pavēstīt
+2829,mitteilen::V,خبر ورکول,юӧртны
+2830,mitteilen::V,خبر ورکول,висьтавны
+2831,mitteilen::V,خبر ورکول,pavēstīt
+2832,nennen::V,نوم ايښودل,шуны
+2833,nennen::V,نوم ايښودل,ним сетны
+2834,nennen::V,نوم ايښودل,saukt
+2835,rufen::V,بلل,корны
+2836,rufen::V,بلل,saukt
+2837,prahlen::V,لاپې وهل,ошйысьны
+2838,prahlen::V,لاپې وهل,lielīties
+2839,übersetzen::V,ژباړل,вуджӧдны
+2840,übersetzen::V,ژباړل,tulkot
+2841,übersetzen::V,ژباړل,pārtulkot
+2842,übersetzen::V,ترجمه کول,вуджӧдны
+2843,übersetzen::V,ترجمه کول,tulkot
+2844,übersetzen::V,ترجمه کول,pārtulkot
+2845,denken::V,فکر کول,мӧвпавны
+2846,denken::V,فکر کول,domāt
+2847,glauben::V,باور کول,эскыны
+2848,glauben::V,باور کول,ticēt
+2849,bemerken::V,لیدل,казявны
+2850,bemerken::V,لیدل,ievērot
+2851,bemerken::V,لیدل,ieraudzīt
+2852,erkennen::V,پېژندل,тӧдмавны
+2853,erkennen::V,پېژندل,pazīt
+2854,erkennen::V,پېژندل,atpazīt
+2855,begreifen::V,رسېدل,вежӧртны
+2856,begreifen::V,رسېدل,гӧгӧрвоны
+2857,begreifen::V,رسېدل,jēgt
+2858,begreifen::V,رسېدل,apjēgt
+2859,begreifen::V,پوهېدل,вежӧртны
+2860,begreifen::V,پوهېدل,гӧгӧрвоны
+2861,begreifen::V,پوهېدل,jēgt
+2862,begreifen::V,پوهېدل,apjēgt
+2863,verstehen::V,پوهېدل,вежӧртны
+2864,verstehen::V,پوهېدل,гӧгӧрвоны
+2865,verstehen::V,پوهېدل,saprast
+2866,lernen::V,زده کول,вeлöдчыны
+2867,lernen::V,زده کول,mācīties
+2868,lernen::V,درس لوستل,вeлöдчыны
+2869,lernen::V,درس لوستل,mācīties
+2870,wissen::V,پوهېدل,тӧдны
+2871,wissen::V,پوهېدل,zināt
+2872,sich erinnern an::V,یادول,казьтывны
+2873,sich erinnern an::V,یادول,дум вылӧ уськӧдны
+2874,sich erinnern an::V,یادول,atminēties
+2875,sich erinnern an::V,په یاد راوړل,казьтывны
+2876,sich erinnern an::V,په یاد راوړل,дум вылӧ уськӧдны
+2877,sich erinnern an::V,په یاد راوړل,atminēties
+2878,vergessen::V,هېرول,вунӧдны
+2879,vergessen::V,هېرول,mirst
+2880,vergessen::V,هېرول,aizmirst
+2881,messen::V,اندازه کول,муртавны
+2882,messen::V,اندازه کول,mērīt
+2883,zählen::V,شمارل,лыддьыны
+2884,zählen::V,شمارل,skaitīt
+2885,rechnen::V,حسابول,лыддьыны
+2886,rechnen::V,حسابول,rēķināt
+2887,lesen::V,لوستل,лыддьыны
+2888,lesen::V,لوستل,lasīt
+2889,malen::V,رسمول,серпасавны
+2890,malen::V,رسمول,gleznot
+2891,zeichnen::V,رسمول,серпасавны
+2892,zeichnen::V,رسمول,zīmēt
+2893,schreiben::V,لیکل,гижны
+2894,schreiben::V,لیکل,rakstīt
+2895,besitzen::V,لرل,лоны
+2896,besitzen::V,لرل,piederēt
+2897,kaufen::V,رانیول,ньӧбны
+2898,kaufen::V,رانیول,pirkt
+2899,verkaufen::V,خرڅول,вузавны
+2900,verkaufen::V,خرڅول,pārdot
+2901,bezahlen::V,تأدیه کول,мынтыны
+2902,bezahlen::V,تأدیه کول,мынтысьны
+2903,bezahlen::V,تأدیه کول,apmaksāt
+2904,zahlen::V,کسات اخيستل,мынтыны
+2905,zahlen::V,کسات اخيستل,maksāt
+2906,beherrschen::V,تسلط لرل,ас улын кутны
+2907,beherrschen::V,تسلط لرل,valdīt
+2908,ertragen::V,زغمل,пыкны
+2909,ertragen::V,زغمل,лэптыны
+2910,ertragen::V,زغمل,panest
+2911,ertragen::V,زغمل,paciest
+2912,Barsch::N,,ёкыш
+2913,Barsch::N,,asaris
+2914,Hecht::N,,сир
+2915,Hecht::N,,līdaka

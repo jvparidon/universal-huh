@@ -1,0 +1,1435 @@
+,Concept_ID,ps,es
+0,Auge::N,سترګه,ojo
+1,Ohr::N,غوږ,oreja
+2,Nase::N,پوزه,nariz
+3,Mund::N,خوله,boca
+4,Zahn::N,غاښ,diente
+5,Zunge::N,جبه,lengua
+6,Lippe::N,شونډه,labio
+7,Wange::N,باړخو,mejilla
+8,Gesicht::N,مخ,cara
+9,Stirn::N,تندی,frente
+10,Stirn::N,وچولی,frente
+11,Haar::N,وېښته,cabello
+12,Schnurrbart::N,برېت,bigote
+13,Bart::N,ږیره,barba
+14,Kinn::N,زنه,barbilla
+15,Kiefer[Anatomie]::N,جامه,mandíbula
+16,Kehle::N,غاړه,garganta
+17,Hals::N,غاړه,cuello
+18,Genick::N,ورمېږ,nuca
+19,Genick::N,ورمېږ,cerviz
+20,Kopf::N,سر,cabeza
+21,Rücken::N,شا,espalda
+22,Bauch::N,نس,vientre
+23,Bauch::N,ګېډه,vientre
+24,Nabel::N,نوم,ombligo
+25,Busen::N,تی,pecho
+26,Brust::N,سینه,pecho
+27,Schulter::N,اوږه,hombro
+28,Arm::N,لاس,brazo
+29,Ellenbogen::N,څنګل,codo
+30,Hand::N,لاس,mano
+31,Handfläche::N,ورغوی,palma
+32,Finger::N,ګوته,dedo
+33,Fingernagel::N,نوک,uña
+34,Nagel[Anatomie]::N,نوک,uña
+35,Zeh::N,ګوته,dedo del pie
+36,Fuß::N,پښه,pie
+37,Ferse::N,پونده,talón
+38,Knie::N,زنګون,rodilla
+39,Oberschenkel::N,پتون,muslo
+40,Bein::N,پښه,pierna
+41,Körper::N,ځان,cuerpo
+42,Haut::N,پوټکی,piel
+43,Blut::N,وینه,sangre
+44,Ader::N,رګ,vena
+45,Sehne::N,پله,tendón
+46,Knochen::N,هډوکی,hueso
+47,Gehirn::N,ماغزه,cerebro
+48,Gehirn::N,ماغزه,encéfalo
+49,Herz::N,زړه,corazón
+50,Magen::N,معده,estómago
+51,Leber::N,ينه,hígado
+52,Leber::N,ځیګر,hígado
+53,Atem::N,نفس,aliento
+54,Hunger::N,ولږه,hambre
+55,Träne::N,اوښکه,lágrima
+56,Geschmack::N,مزه,gusto
+57,Geschmack::N,خوند,gusto
+58,Geruch::N,بوی,olor
+59,Schlaf::N,خوب,sueño
+60,Traum::N,خوب,sueño
+61,Traum::N,خوب,ensueño
+62,Himmel::N,اسمان,cielo
+63,Sonne::N,لمر,sol
+64,Mond::N,سپوږمۍ,luna
+65,Stern::N,ستوری,estrella
+66,Luft::N,هوا,aire
+67,Wind::N,ورښ,viento
+68,Welle::N,موج,ola
+69,Welle::N,موج,onda
+70,Wasser::N,اوبه,agua
+71,Stein::N,ډبره,piedra
+72,Boden::N,مځکه,suelo
+73,Erde::N,خاوره,tierra
+74,Staub::N,ګرد,polvo
+75,Staub::N,خاوره,polvo
+76,Rauch::N,دود,humo
+77,Rauch::N,لوګی,humo
+78,Funke::N,سپرغۍ,chispa
+79,Feuer::N,اور,fuego
+80,Licht::N,رڼا,luz
+81,Schatten::N,سیوری,sombra
+82,Wetter::N,هوا,tiempo
+83,Nebel::N,لړه,niebla
+84,Wolke::N,ورېځ,nube
+85,Regen::N,وریا,lluvia
+86,Regen::N,باران,lluvia
+87,Schnee::N,واوره,nieve
+88,Eis::N,یخ,hielo
+89,Eis::N,کنګل,hielo
+90,Frost::N,یخ,helada
+91,Kälte::N,ساړه,frío
+92,Hitze::N,تودوخي,calor
+93,Raureif::N,سپینه پرخه,escarcha
+94,Regenbogen::N,بوډۍ ټال,arco iris
+95,Regenbogen::N,سره زرغونه,arco iris
+96,Donner::N,تالنده,trueno
+97,Strömung::N,بهېدنه,corriente
+98,Tropfen::N,قطره,gota
+99,Tropfen::N,څاڅکی,gota
+100,Schaum::N,ځګ,espuma
+101,Schmutz::N,ناپاکي,suciedad
+102,See::N,جهیل,lago
+103,Sumpf::N,جبه,pantano
+104,Moor::N,جبه,turbera
+105,Wiese::N,چمن,prado
+106,Wiese::N,چمن,pradera
+107,Wiese::N,شنېلی,prado
+108,Wiese::N,شنېلی,pradera
+109,Wald::N,ځنګل,bosque
+110,Hügel::N,تپه,colina
+111,Anhöhe::N,غونډۍ,cerro
+112,Berg::N,غ‍‍‍‍‍ر,monte
+113,Berg::N,غ‍‍‍‍‍ر,montaña
+114,Gipfel::N,څوکه,cima
+115,Gipfel::N,څوکه,cumbre
+116,Höhle::N,کاز,cueva
+117,Höhle::N,کاز,caverna
+118,Abhang::N,لمن,cuesta
+119,Abhang::N,لمن,declive
+120,Quelle::N,چینه,fuente
+121,Quelle::N,چینه,manantial
+122,Bach::N,واله,arroyo
+123,Fluss::N,سیند,río
+124,Ufer::N,غاړه,orilla
+125,Küste::N,ساحل,costa
+126,Festland::N,وچه,tierra firme
+127,Meer::N,بحر,mar
+128,Meer::N,سمندر,mar
+129,Bucht::N,کارۍ,cala
+130,Bucht::N,کارۍ,bahía
+131,Insel::N,ټاپو,isla
+132,Insel::N,جزيره,isla
+133,Blume::N,ګل,flor
+134,Gras::N,واښه,hierba
+135,Wurzel::N,ریښه,raíz
+136,Baum::N,ونه,árbol
+137,Stamm::N,ډډ,tronco
+138,Rinde::N,پوستکی,corteza
+139,Ast::N,ښاخ,rama
+140,Zweig::N,څانګه,ramo
+141,Blatt::N,پاڼه,hoja
+142,Birke::N,توس,abedul
+143,Kiefer[Baum]::N,نښتر,pino
+144,Weide[Baum]::N,وله,sauce
+145,Tanne::N,ناجو,abeto
+146,Horn::N,ښکر,asta
+147,Horn::N,ښکر,cuerno
+148,Feder::N,بڼکه,pluma
+149,Fell::N,پوستکی,piel
+150,Flügel::N,وزر,ala
+151,Klaue::N,پنجه,garra
+152,Klaue::N,منګول,garra
+153,Kralle::N,پنجه,uña
+154,Kralle::N,پنجه,garra
+155,Kralle::N,منګول,uña
+156,Kralle::N,منګول,garra
+157,Schwanz::N,لکۍ,cola
+158,Ei::N,وۍ,huevo
+159,Ei::N,هګۍ,huevo
+160,Nest::N,جاله,nido
+161,Bau::N,کاز,madriguera
+162,Tier::N,ژوی,animal
+163,Tier::N,حیوان,animal
+164,Herde::N,رمه,rebaño
+165,Herde::N,غېله,rebaño
+166,Kuh::N,غوا,vaca
+167,Bulle::N,غوئی,toro
+168,Pferd::N,آس,caballo
+169,Schaf::N,پسه,oveja
+170,Schwein::N,سرکوزی,cerdo
+171,Hund::N,سپی,perro
+172,Katze::N,پشه,gato
+173,Bär::N,خرس,oso
+174,Eichhörnchen::N,خړ لمی,ardilla
+175,Elch::N,ګوزن,alce
+176,Fuchs::N,سپلم,zorro
+177,Hase::N,سوی,liebre
+178,Maus::N,مږک,ratón
+179,Wolf::N,لېوه,lobo
+180,Vogel::N,مرغه,ave
+181,Vogel::N,مرغه,pájaro
+182,Schwarm::N,سېل,bandada
+183,Huhn::N,چرګه,gallina
+184,Hahn::N,چرګ,gallo
+185,Gans::N,بته,oca
+186,Gans::N,بته,ganso
+187,Adler::N,عقاب,águila
+188,Ente::N,ایلۍ,pato
+189,Eule::N,ګونګی,lechuza
+190,Kranich::N,کلنګ,grulla
+191,Krähe::N,کارغه,corneja
+192,Kuckuck::N,فاخته,cuco
+193,Schwan::N,قو,cisne
+194,Fisch::N,کب,pez
+195,Fisch::N,ماهی,pez
+196,Schlange[Tier]::N,مار,serpiente
+197,Wurm::N,چینجی,gusano
+198,Spinne::N,غڼه,araña
+199,Spinne::N,تارکښ,araña
+200,Ameise::N,مېږی,hormiga
+201,Laus::N,سپږه,piojo
+202,Mücke::N,ماشی,mosquito
+203,Fliege::N,مچ,mosca
+204,Schmetterling::N,پتنګ,mariposa
+205,Beere::N,مېوۍ,baya
+206,Apfel::N,مڼه,manzana
+207,Pilz::N,خرېړی,seta
+208,Pilz::N,خرېړی,hongo
+209,Zwiebel::N,پیاز,cebolla
+210,Saat::N,تخم,siembra
+211,Korn::N,تخم,grano
+212,Korn::N,دانه,grano
+213,Heu::N,بوس,heno
+214,Heu::N,پروړه,heno
+215,Schale::N,پوستکی,cáscara
+216,Grube::N,کنده,foso
+217,Falle::N,دام,trampa
+218,Falle::N,لومه,trampa
+219,Schlinge::N,کړۍ,lazo
+220,Spur::N,نښه,huella
+221,Asche::N,آس,ceniza
+222,Asche::N,ایره,ceniza
+223,Dreck::N,ناپاکي,suciedad
+224,Eisen::N,اوسپنه,hierro
+225,Gold::N,سره زر,oro
+226,Silber::N,نقره,plata
+227,Silber::N,سپین زر,plata
+228,Kohle::N,سکور,carbón
+229,Kohle::N,سکاره,carbón
+230,Glas::N,ښيښه,vidrio
+231,Glas::N,ښيښه,cristal
+232,Lehm::N,خټه,barro
+233,Sand::N,شګه,arena
+234,Mensch::N,انسان,hombre
+235,Mensch::N,انسان,ser humano
+236,Mann::N,سړی,hombre
+237,Mann::N,نارینه,hombre
+238,Frau::N,ښځه,mujer
+239,Kind::N,بچی,niño
+240,Kind::N,ماشوم,niño
+241,Junge::N,هلک,chico
+242,Junge::N,هلک,muchacho
+243,Mädchen::N,نجلۍ,chica
+244,Mädchen::N,نجلۍ,muchacha
+245,Familie::N,کورنۍ,familia
+246,Großvater::N,بابا,abuelo
+247,Großmutter::N,انا,abuela
+248,Eltern::N,مور او پلار,padres
+249,Vater::N,پلار,padre
+250,Mutter::N,مور,madre
+251,Sohn::N,زوی,hijo
+252,Tochter::N,لور,hija
+253,Bruder::N,ورور,hermano
+254,Schwester::N,خور,hermana
+255,Onkel::N,تره,tío
+256,Onkel::N,ماما,tío
+257,Tante::N,خاله,tía
+258,Ehemann::N,مېړه,esposo
+259,Ehefrau::N,مېرمن,esposa
+260,Freude::N,خوشحالي,placer
+261,Freude::N,خوشحالي,alegría
+262,Gelächter::N,خندا,risa
+263,Gelächter::N,خندا,carcajada
+264,Glück::N,بخت,felicidad
+265,Kummer::N,غم,pena
+266,Wunsch::N,هيله,deseo
+267,Wunsch::N,غوښتنه,deseo
+268,Lust::N,شوق,ganas
+269,Lust::N,مینه,ganas
+270,Geist::N,روح,mente
+271,Geist::N,روح,espíritu
+272,Gedanke::N,فکر,idea
+273,Gedanke::N,فکر,pensamiento
+274,Gedächtnis::N,یاد,memoria
+275,Gedächtnis::N,حافظه,memoria
+276,Verstand::N,عقل,razón
+277,Verstand::N,عقل,entendimiento
+278,Verstand::N,شعور,razón
+279,Verstand::N,شعور,entendimiento
+280,Sinn::N,معنی,sentido
+281,Sinn::N,معنی,significado
+282,Grund::N,علت,causa
+283,Grund::N,اساس,causa
+284,Wahrheit::N,حقیقت,verdad
+285,Gespräch::N,مرکه,conversación
+286,Gespräch::N,خبرې اترې,conversación
+287,Märchen::N,افسانه,cuento
+288,Erzählung::N,قصه,cuento
+289,Erzählung::N,قصه,narración
+290,Erzählung::N,کیسه,cuento
+291,Erzählung::N,کیسه,narración
+292,Nachricht::N,خبر,mensaje
+293,Neuigkeit::N,نوی خبر,noticia
+294,Name::N,نوم,nombre
+295,Rätsel::N,کیسۍ,acertijo
+296,Rätsel::N,کیسۍ,adivinanza
+297,Rätsel::N,چیستان,acertijo
+298,Rätsel::N,چیستان,adivinanza
+299,Rede::N,وینا,discurso
+300,Sprache::N,ژبه,lengua
+301,Stimme::N,غږ,voz
+302,Stimme::N,اواز,voz
+303,Wort::N,لغت,palabra
+304,Wort::N,کلمه,palabra
+305,Zeichen::N,نښه,señal
+306,Zeichen::N,اشاره,señal
+307,Ruf::N,ږغ,llamada
+308,Ruf::N,بلنه,llamada
+309,Lärm::N,غالمغال,ruido
+310,Lärm::N,غالمغال,barullo
+311,Laut::N,ږغ,sonido
+312,Ton::N,اواز,tono
+313,Lied::N,غزله,canción
+314,Lied::N,سندره,canción
+315,Ruhe::N,ارامي,calma
+316,Ruhe::N,ارامي,silencio
+317,Leute::N,خلک,gente
+318,Volk::N,ولس,pueblo
+319,Arbeit::N,کار,trabajo
+320,Gast::N,مېلمه,huésped
+321,Gast::N,مېلمه,invitado
+322,Geschenk::N,تحفه,regalo
+323,Geschenk::N,سوغات,regalo
+324,Spiel::N,لوبه,juego
+325,Gesellschaft::N,ډله,compañía
+326,Hilfe::N,کومک,ayuda
+327,Hilfe::N,کومک,socorro
+328,Hilfe::N,مرسته,ayuda
+329,Hilfe::N,مرسته,socorro
+330,Freund::N,ملګری,amigo
+331,Kamerad::N,انډيوال,camarada
+332,Kamerad::N,انډيوال,compañero
+333,Angelegenheit::N,موضوع,asunto
+334,Anzahl::N,شمېر,cantidad
+335,Anzahl::N,تعداد,cantidad
+336,Art::N,ډول,tipo
+337,Art::N,ډول,clase
+338,Stück::N,ټوټه,pieza
+339,Teil::N,برخه,parte
+340,Hälfte::N,نیم,mitad
+341,Kreis::N,دایره,círculo
+342,Kreuz::N,صلیب,cruz
+343,Linie::N,خط,línea
+344,Linie::N,لیکه,línea
+345,Strich::N,کرښه,raya
+346,Strich::N,کرښه,trazo
+347,Abstand::N,فاصله,distancia
+348,Entfernung::N,واټن,distancia
+349,Gegend::N,سیمه,región
+350,Gegend::N,سیمه,comarca
+351,Gegend::N,منطقه,región
+352,Gegend::N,منطقه,comarca
+353,Platz::N,ځای,espacio
+354,Ort::N,ځای,sitio
+355,Seite::N,مخ,lado
+356,Seite::N,مخ,costado
+357,Seite::N,اړخ,lado
+358,Seite::N,اړخ,costado
+359,Mitte::N,وسط,medio
+360,Mitte::N,وسط,centro
+361,Mitte::N,مینځ,medio
+362,Mitte::N,مینځ,centro
+363,Gegenstand::N,شی,objeto
+364,Sache::N,شی,cosa
+365,Sache::N,څيز,cosa
+366,Rand::N,څنډه,borde
+367,Rand::N,کناره,borde
+368,Kante::N,اړخ,borde
+369,Ecke::N,ګوټ,esquina
+370,Spitze::N,څوکه,punta
+371,Ende::N,څوکه,cabo
+372,Ende::N,څوکه,extremo
+373,Loch::N,سوری,agujero
+374,Loch::N,سوری,abertura
+375,Winkel::N,کنج,ángulo
+376,Winkel::N,کوتی,ángulo
+377,Muster::N,نمونه,dibujo
+378,Größe::N,قد,tamaño
+379,Größe::N,لويوالی,tamaño
+380,Länge::N,طول,longitud
+381,Länge::N,اوږد والی,longitud
+382,Höhe::N,جګوالی,altura
+383,Höhe::N,جګوالی,altitud
+384,Gewicht::N,وزن,peso
+385,Menge::N,اندازه,cantidad
+386,Haufen::N,کوټه,montón
+387,Reihe::N,صف,fila
+388,Reihe::N,کتار,fila
+389,Boot::N,قايق,bote
+390,Boot::N,قايق,barca
+391,Ruder::N,چپه,remo
+392,Schlitten::N,ښویېدونی,trineo
+393,Ski::N,سکي,esquí
+394,Lagerfeuer::N,اور,hoguera
+395,Last::N,بار,carga
+396,Last::N,پېټی,carga
+397,Gang::N,تګ,marcha
+398,Schritt::N,ګام,paso
+399,Norden::N,شمال,norte
+400,Süden::N,سوېل,sur
+401,Westen::N,لوېدېځ,oeste
+402,Osten::N,شرق,este
+403,Osten::N,ختیځ,este
+404,Holz::N,لرګی,madera
+405,Brett::N,تخته,tabla
+406,Platte::N,تخته,placa
+407,Platte::N,تخته,plancha
+408,Stütze::N,تکیوان,sostén
+409,Stütze::N,تکیوان,soporte
+410,Stange::N,ډاګه,vara
+411,Stange::N,ډاګه,percha
+412,Stock::N,لرګی,palo
+413,Stock::N,لرګی,bastón
+414,Stab::N,چيخله,vara
+415,Stab::N,چيخله,bastón
+416,Rohr::N,نل,tubo
+417,Haus::N,کور,casa
+418,Heim::N,کور,hogar
+419,Ofen::N,تودنۍ,estufa
+420,Fußboden::N,غولی,suelo
+421,Tisch::N,مېز,mesa
+422,Stuhl::N,چوکۍ,silla
+423,Wiege::N,زانګو,cuna
+424,Bett::N,کټ,cama
+425,Bett::N,چپرکټ,cama
+426,Regal::N,تاخچۍ,estantería
+427,Kiste::N,صندوق,caja
+428,Fenster::N,کړکۍ,ventana
+429,Tür::N,دروازه,puerta
+430,Tor::N,دروازه,puerta
+431,Zaun::N,کټاره,valla
+432,Zaun::N,کټاره,cercado
+433,Dach::N,بام,techo
+434,Dach::N,بام,tejado
+435,Leiter::N,زينه,escalera
+436,Besen::N,جارو,escoba
+437,Spaten::N,یوم,pala
+438,Schaufel::N,بېلچه,pala
+439,Schaufel::N,بېلچه,paleta
+440,Gabel::N,پنجه,tenedor
+441,Löffel::N,کاشوغه,cuchara
+442,Messer::N,چاقو,cuchillo
+443,Nagel::N,ميخ,clavo
+444,Netz::N,جال,red
+445,Haken::N,څنګک,gancho
+446,Haken::N,څنګک,corchete
+447,Griff::N,لاستی,asa
+448,Griff::N,لاستی,mango
+449,Schloss::N,کلپ,cerradura
+450,Bild::N,رسم,imagen
+451,Figur::N,قدوقامت,figura
+452,Puppe::N,ګوډۍ,muñeca
+453,Beutel::N,کڅوړه,bolsa
+454,Bündel::N,دسته,haz
+455,Tasche::N,بکس,bolso
+456,Tasche::N,توبره,bolso
+457,Eimer::N,سطل,cubo
+458,Deckel::N,سرپوښ,tapa
+459,Deckel::N,سرپوښ,tapadera
+460,Geschirr::N,لوښی,vajilla
+461,Sack::N,جوال,saco
+462,Tasse::N,پیاله,taza
+463,Topf::N,دېګی,olla
+464,Topf::N,دېګی,marmita
+465,Kessel::N,دېګ,caldera
+466,Essen::N,خوراک,comida
+467,Nahrung::N,خوراک,alimento
+468,Speise::N,خواړه,plato
+469,Fleisch::N,غوښه,carne
+470,Getreide::N,غله,cereales
+471,Brei::N,اوګره,puré
+472,Brei::N,اوګره,papilla
+473,Brot::N,ډوډۍ,pan
+474,Scheibe::N,مړۍ,lonja
+475,Scheibe::N,مړۍ,rebanada
+476,Fett::N,غوړي,grasa
+477,Butter::N,کوچ,mantequilla
+478,Öl::N,تېل,aceite
+479,Salz::N,مالګه,sal
+480,Suppe::N,شوربا,sopa
+481,Honig::N,شات,miel
+482,Milch::N,شوده,leche
+483,Tee::N,چای,té
+484,Leder::N,څرمن,cuero
+485,Wolle::N,پشم,lana
+486,Stoff::N,ټوټه,tela
+487,Stoff::N,ټوټه,tejido
+488,Nadel::N,ستن,aguja
+489,Faden::N,تار,hilo
+490,Knopf::N,تڼۍ,botón
+491,Knopf::N,تکمه,botón
+492,Knoten::N,غوټه,nudo
+493,Farbe::N,رنګ,pintura
+494,Kleidung::N,کالي,ropa
+495,Kleidung::N,کالي,vestidos
+496,Hemd::N,کميس,camisa
+497,Kragen::N,غاړه,cuello
+498,Ärmel::N,لستوڼی,manga
+499,Hose::N,پطلون,pantalón
+500,Gürtel::N,کمربند,cinturón
+501,Mütze::N,خولۍ,gorro
+502,Schuh::N,بوټ,zapato
+503,Stiefel::N,موزه,bota
+504,Ring::N,ګوته,anillo
+505,Band::N,فيته,cinta
+506,Kamm::N,ګمنځ,peine
+507,Spiegel::N,ایینه,espejo
+508,Spiegel::N,هنداره,espejo
+509,Riemen::N,تسمه,correa
+510,Schnur::N,مزی,cuerda
+511,Leine::N,رسۍ,correa
+512,Decke::N,بړستن,manta
+513,Kissen::N,بالښت,almohada
+514,Tuch::N,ټیکری,pañuelo
+515,Handtuch::N,دسمال,toalla
+516,Kraft::N,زور,fuerza
+517,Kraft::N,توان,fuerza
+518,Stärke::N,قوت,fuerza
+519,Gesundheit::N,صحت,salud
+520,Gesundheit::N,روغتیا,salud
+521,Krankheit::N,مرض,enfermedad
+522,Krankheit::N,ناروغي,enfermedad
+523,Schmerz::N,درد,dolor
+524,Wunde::N,ټپ,llaga
+525,Wunde::N,ټپ,herida
+526,Wunde::N,زخم,llaga
+527,Wunde::N,زخم,herida
+528,Fieber::N,تبه,fiebre
+529,Arznei::N,دوا,medicina
+530,Arznei::N,دوا,medicamento
+531,Arznei::N,دارو,medicina
+532,Arznei::N,دارو,medicamento
+533,Brücke::N,پول,puente
+534,Brunnen::N,څاه,pozo
+535,Brunnen::N,کوهی,pozo
+536,Weide::N,وله,pasto
+537,Pfad::N,تړه,sendero
+538,Weg::N,لیار,camino
+539,Straße::N,سړک,vía
+540,Straße::N,سړک,carretera
+541,Dorf::N,کلی,aldea
+542,Dorf::N,کلی,pueblo
+543,Stadt::N,ښار,ciudad
+544,Brief::N,لیک,carta
+545,Brief::N,مکتوب,carta
+546,Buch::N,کتاب,libro
+547,Buchstabe::N,حرف,letra
+548,Buchstabe::N,حرف,carácter
+549,Buchstabe::N,توری,letra
+550,Buchstabe::N,توری,carácter
+551,Zeitung::N,اخبار,diario
+552,Zeitung::N,اخبار,periódico
+553,Leben::N,ژوند,vida
+554,Tod::N,مرګ,muerte
+555,Tod::N,مړینه,muerte
+556,Grab::N,قبر,tumba
+557,Grab::N,قبر,sepulcro
+558,Grab::N,ډورۍ,tumba
+559,Grab::N,ډورۍ,sepulcro
+560,Kirche::N,کلیسا,iglesia
+561,Sünde::N,ګناه,pecado
+562,Gott::N,خدای,dios
+563,Arbeiter::N,کاریګر,obrero
+564,Arbeiter::N,کاریګر,trabajador
+565,Chef::N,آمر,jefe
+566,Meister::N,استاد,maestro
+567,Arzt::N,طبیب,médico
+568,Arzt::N,ډاکټر,médico
+569,Lehrer::N,معلم,profesor
+570,Lehrer::N,ښوونکی,profesor
+571,Geld::N,پیسې,dinero
+572,Geschäft::N,سوداګري,negocio
+573,Laden::N,دکان,tienda
+574,Laden::N,مغازه,tienda
+575,Preis::N,بیه,precio
+576,Ware::N,مال,mercancía
+577,Nutzen::N,ګټه,provecho
+578,Reichtum::N,شتمني,riqueza
+579,Welt::N,نړۍ,mundo
+580,Welt::N,دنیا,mundo
+581,Land::N,هېواد,país
+582,Staat::N,دولت,Estado
+583,König::N,باچا,rey
+584,König::N,پادشاه,rey
+585,Macht::N,قدرت,poder
+586,Macht::N,قدرت,potencia
+587,Grenze::N,حد,frontera
+588,Grenze::N,سرحد,frontera
+589,Krieg::N,جګړه,guerra
+590,Feind::N,دښمن,enemigo
+591,Gewalt::N,زور,violencia
+592,Gewalt::N,تشدد,violencia
+593,Kampf::N,جنګ,lucha
+594,Kampf::N,جنګ,combate
+595,Kampf::N,مبارزه,lucha
+596,Kampf::N,مبارزه,combate
+597,Bogen[Waffe]::N,لیندۍ,arco
+598,Pfeil::N,غشی,flecha
+599,Gewehr::N,ټوپک,fusil
+600,Gewehr::N,ټوپک,escopeta
+601,Fehler::N,خطا,error
+602,Fehler::N,غلطي,error
+603,Lüge::N,دروغ,mentira
+604,Schaden::N,زیان,daño
+605,Schaden::N,تاوان,daño
+606,Unglück::N,بدبختي,desgracia
+607,Schuld::N,ګناه,culpa
+608,Alter::N,منګ,edad
+609,Schluss::N,اخر,fin
+610,Schluss::N,اخر,final
+611,Zeit::N,وخت,tiempo
+612,Tag::N,ورځ,día
+613,Morgen::N,سبا,mañana
+614,Morgen::N,سهار,mañana
+615,Mittag::N,غرمه,mediodía
+616,Abend::N,ماښام,noche
+617,Nacht::N,شپه,noche
+618,Woche::N,اونۍ,semana
+619,Monat::N,مياشت,mes
+620,Jahr::N,کال,año
+621,Frühling::N,پسرلی,primavera
+622,Sommer::N,دوبی,verano
+623,Herbst::N,منی,otoño
+624,Herbst::N,خزان,otoño
+625,Winter::N,ژمی,invierno
+626,Januar::N,جنوري,enero
+627,Februar::N,فبروري,febrero
+628,März::N,مارچ,marzo
+629,April::N,اپریل,abril
+630,Mai::N,مې,mayo
+631,Juni::N,جون,junio
+632,Juli::N,جولای,julio
+633,August::N,اګست,agosto
+634,September::N,سپټامبر,septiembre
+635,Oktober::N,اکتوبر,octubre
+636,November::N,نومبر,noviembre
+637,Dezember::N,دسمبر,diciembre
+638,Montag::N,دوشنبه,lunes
+639,Dienstag::N,سه شنبه,martes
+640,Mittwoch::N,چارشنبه,miércoles
+641,Donnerstag::N,پنجشنبه,jueves
+642,Freitag::N,جمعه,viernes
+643,Samstag::N,خالي,sábado
+644,Sonntag::N,یکشنبه,domingo
+645,groß::A,لوی,grande
+646,klein::A,وړوکی,pequeño
+647,lang::A,اوړد,largo
+648,kurz::A,لنډ,corto
+649,breit::A,پراخه,ancho
+650,schmal::A,تنګ,estrecho
+651,dicht::A,ګڼ,denso
+652,dick[Gegenstand]::A,پنډ,grueso
+653,dünn::A,نری,fino
+654,dünn::A,نری,delgado
+655,fein::A,نازک,fino
+656,fein::A,نازک,delicado
+657,fest::A,کلک,firme
+658,fest::A,کلک,sólido
+659,fest::A,ټینګ,firme
+660,fest::A,ټینګ,sólido
+661,flach::A,هوار,plano
+662,glatt::A,ښوی,liso
+663,hart::A,کلک,duro
+664,weich::A,نرم,muelle
+665,weich::A,پوست,muelle
+666,rund::A,ګرد,redondo
+667,spitz::A,تېره,agudo
+668,spitz::A,تېره,apuntado
+669,scharf::A,تېز,agudo
+670,scharf::A,تېز,afilado
+671,scharf::A,تېره,agudo
+672,scharf::A,تېره,afilado
+673,stumpf::A,پڅ,sin filo
+674,schwer::A,دروند,pesado
+675,schön::A,ښکلی,bello
+676,schön::A,ښکلی,hermoso
+677,heiß::A,تود,caluroso
+678,warm::A,تود,cálido
+679,warm::A,تود,caliente
+680,kalt::A,ېخ,frío
+681,kalt::A,سوړ,frío
+682,kühl::A,ېخ,fresco
+683,kühl::A,سوړ,fresco
+684,frisch::A,تازه,fresco
+685,feucht::A,مرطوب,húmedo
+686,nass::A,لوند,mojado
+687,trocken::A,وچ,seco
+688,voll::A,ډک,lleno
+689,leer::A,خالی,vacío
+690,offen::A,خلاص,abierto
+691,offen::A,پرانیستی,abierto
+692,geschlossen::A,تړلی,cerrado
+693,sauber::A,پاک,limpio
+694,schmutzig::A,چټل,sucio
+695,roh::A,خام,crudo
+696,reif::A,پوخ,maduro
+697,reif::A,رسېدلی,maduro
+698,lecker::A,خوندور,rico
+699,lecker::A,خوندور,sabroso
+700,lecker::A,مزه دار,rico
+701,lecker::A,مزه دار,sabroso
+702,süß::A,خوږ,dulce
+703,süß::A,شیرین,dulce
+704,bitter::A,تریخ,amargo
+705,sauer::A,ټاک,agrio
+706,sauer::A,تريو,agrio
+707,hell::A,روڼ,claro
+708,hell::A,روښان,claro
+709,dunkel::A,تیاره,oscuro
+710,schwarz::A,تور,negro
+711,weiß::A,سپين,blanco
+712,rot::A,سور,rojo
+713,gelb::A,زېړ,amarillo
+714,blau::A,شین,azul
+715,blau::A,اسماني رنګه,azul
+716,grün::A,زرغون,verde
+717,grau::A,خړ,gris
+718,bunt::A,رنګارنګ,multicolor
+719,billig::A,ارزان,barato
+720,teuer::A,ګران,caro
+721,wertvoll::A,قیمتي,valioso
+722,wertvoll::A,قیمتي,precioso
+723,blind::A,ړوند,ciego
+724,taub::A,کوڼ,sordo
+725,kräftig::A,قوی,fuerte
+726,stark::A,قوی,fuerte
+727,stark::A,قوی,vigoroso
+728,stark::A,تکړه,fuerte
+729,stark::A,تکړه,vigoroso
+730,schwach::A,ضعیف,débil
+731,schwach::A,کمزوری,débil
+732,fett::A,چاغ,obeso
+733,schlank::A,خوش اندام,esbelto
+734,hübsch::A,ښکلی,mono
+735,hübsch::A,ښکلی,guapo
+736,hübsch::A,ښایسته,mono
+737,hübsch::A,ښایسته,guapo
+738,böse::A,شریر,malo
+739,böse::A,قهرناک,malo
+740,dumm::A,احمق,tonto
+741,dumm::A,احمق,estúpido
+742,faul::A,لټ,vago
+743,faul::A,لټ,perezoso
+744,faul::A,تنبل,vago
+745,faul::A,تنبل,perezoso
+746,fleißig::A,زحمت کښ,aplicado
+747,fleißig::A,زحمت کښ,diligente
+748,geizig::A,بخیل,avaro
+749,klug::A,عاقل,sensato
+750,klug::A,عاقل,inteligente
+751,klug::A,هوښیار,sensato
+752,klug::A,هوښیار,inteligente
+753,geschickt::A,ماهر,hábil
+754,lieb::A,عزیز,querido
+755,lieb::A,محبوب,querido
+756,lustig::A,خوشحال,alegre
+757,sanft::A,پوست,suave
+758,sanft::A,ملایم,suave
+759,hungrig::A,وږی,hambriento
+760,krank::A,مريض,enfermo
+761,krank::A,ناروغ,enfermo
+762,nackt::A,لوڅ,desnudo
+763,traurig::A,غمجن,triste
+764,lebendig::A,ژوندی,vivo
+765,lebendig::A,ژوندی,viviente
+766,gut::A,ښه,bueno
+767,schlecht::A,بد,malo
+768,schlecht::A,خراب,malo
+769,richtig::A,سم,justo
+770,richtig::A,سم,correcto
+771,richtig::A,صحیح,justo
+772,richtig::A,صحیح,correcto
+773,schlimm::A,بد,malo
+774,schlimm::A,بد,grave
+775,schlimm::A,مخوف,malo
+776,schlimm::A,مخوف,grave
+777,wahr::A,واقعي,verídico
+778,wahr::A,واقعي,verdadero
+779,alt::A,زوړ,viejo
+780,neu::A,نوی,nuevo
+781,ehemalig::A,پخوانی,antiguo
+782,alt[Lebewesen]::A,زوړ,viejo
+783,jung::A,ځوان,joven
+784,arm::A,غریب,pobre
+785,arm::A,بې وزله,pobre
+786,reich::A,شتمن,rico
+787,reich::A,دولتمند,rico
+788,bekannt::A,اشنا,conocido
+789,berühmt::A,مشهور,famoso
+790,berühmt::A,مشهور,célebre
+791,fremd::A,پردی,extraño
+792,fremd::A,بېګانه,extraño
+793,verschieden::A,مختلف,diverso
+794,verschieden::A,مختلف,distinto
+795,verschieden::A,مختلف,diferente
+796,nah::A,نژدې,cercano
+797,fern::A,لیری,lejano
+798,linker::A,چپ,izquierdo
+799,linker::A,کیڼ,izquierdo
+800,rechter::A,ښی,derecho
+801,anderer::A,بل,otro
+802,erster::A,لومړی,primero
+803,zweiter::A,دوهم,segundo
+804,dritter::A,درېم,tercero
+805,letzter::A,آخرنی,último
+806,letzter::A,وروستی,último
+807,allein::ADV,یوازې,a solo
+808,auf einmal::ADV,په یوه وخت کی,de una vez
+809,zusammen::ADV,یو ځای,juntos
+810,lange::ADV,ډېر وخت,mucho tiempo
+811,lange::ADV,ډېره موده,mucho tiempo
+812,plötzlich::ADV,ناببره,de repente
+813,plötzlich::ADV,یوناڅاپه,de repente
+814,sofort::ADV,فوراً,en seguida
+815,sofort::ADV,سمدلاسه,en seguida
+816,später::ADV,وروسته,más tarde
+817,jetzt::ADV,اوس,ahora
+818,heute::ADV,نن,hoy
+819,morgen::ADV,سبا,mañana
+820,bald::ADV,ژر,pronto
+821,bald::ADV,ژر,en breve
+822,dann::ADV,پس,luego
+823,dann::ADV,پس,entonces
+824,dann::ADV,وروسته,luego
+825,dann::ADV,وروسته,entonces
+826,gestern::ADV,پرون,ayer
+827,einst::ADV,پخوا,antaño
+828,damals::ADV,هغه وخت,entonces
+829,danach::ADV,بیا,después
+830,vorher::ADV,دمخه,antes
+831,zuerst::ADV,لومړی,primero
+832,einmal::ADV,یو ځل,una vez
+833,manchmal::ADV,ګاهی ګاهی,a veces
+834,oft::ADV,ډېر ځله,a menudo
+835,oft::ADV,ډېر ځله,con frecuencia
+836,immer::ADV,تل,siempre
+837,immer::ADV,همېشه,siempre
+838,niemals::ADV,هیڅکله نه,jamás
+839,hier::ADV,دلته,aquí
+840,hierhin::ADV,دلته,acá
+841,hierhin::ADV,دې ځای ته,acá
+842,von hier::ADV,د دې ځای نه,desde aquí
+843,dort::ADV,هلته,ahí
+844,dort::ADV,هلته,allí
+845,dorthin::ADV,هلته,allí
+846,dorthin::ADV,هلته,hacia allí
+847,dorthin::ADV,هغه ځای ته,allí
+848,dorthin::ADV,هغه ځای ته,hacia allí
+849,geradeaus::ADV,مخامخ,todo derecho
+850,vorwärts::ADV,مخ پهٔ وړاندې,adelante
+851,rückwärts::ADV,بېرته,hacia atrás
+852,zurück::ADV,بېرته,atrás
+853,unten::ADV,لاندي,abajo
+854,hinab::ADV,ښکته,hacia abajo
+855,oben::ADV,پورته,arriba
+856,hinauf::ADV,پاس,hacia arriba
+857,überall::ADV,هره خوا,por todas partes
+858,nicht::ADV,نه,no
+859,ein wenig::ADV,یو څه,un poco
+860,kaum::ADV,ایله,apenas
+861,sehr::ADV,ډېر,muy
+862,sehr::ADV,ډېر,mucho
+863,sehr::ADV,زيات,muy
+864,sehr::ADV,زيات,mucho
+865,so::ADV,داسې,tan
+866,so::ADV,دومره,tan
+867,noch::ADV,نور,aún
+868,noch::ADV,نور,todavía
+869,nur::ADV,تش,solamente
+870,nur::ADV,صرف,solamente
+871,schon::ADV,دمخه,ya
+872,wieder::ADV,بیا,de nuevo
+873,vergebens::ADV,عبث,en vano
+874,vor::PRP,دمخه,antes de
+875,vor::PRP,دمخه,delante de
+876,hinter::PRP,شاته,tras
+877,hinter::PRP,شاته,detrás de
+878,unter::PRP,لاندي,bajo
+879,unter::PRP,لاندي,debajo de
+880,durch::PRP,د مینځ نه,por
+881,durch::PRP,د مینځ نه,a través de
+882,neben::PRP,نژدې,al lado de
+883,zwischen::PRP,ترمینځ,entre
+884,wegen::PRP,د ... له لاسه,por
+885,wegen::PRP,د ... له لاسه,a causa de
+886,dies::PRN,دا,esto
+887,das::PRN,دا,eso
+888,das::PRN,دا,esto
+889,alles::PRN,هرڅهٔ,todo
+890,ich::PRN,زه,yo
+891,du::PRN,ته,tú
+892,er::PRN,دی,él
+893,wir::PRN,مونږ,nosotros
+894,ihr::PRN,تاسې,vosotros
+895,sie::PRN,هغوی,ellos
+896,was::FPRN,څهٔ,qué
+897,wer::FPRN,چا,quién
+898,wer::FPRN,څوک,quién
+899,wo::FADV,چيری,dónde
+900,wo::FADV,چېرته,dónde
+901,wohin::FADV,چېرته,adónde
+902,wohin::FADV,چېرته,hacia dónde
+903,wie::FADV,څنګه,cómo
+904,warum::FADV,ولې,por qué
+905,wieviel::FNUM,څو,cuánto
+906,wieviel::FNUM,څومره,cuánto
+907,eins::NUM,یو,uno
+908,zwei::NUM,دوه,dos
+909,drei::NUM,درې,tres
+910,vier::NUM,څلور,cuatro
+911,fünf::NUM,پنځه,cinco
+912,sechs::NUM,شپږ,seis
+913,sieben::NUM,اوه,siete
+914,acht::NUM,اته,ocho
+915,neun::NUM,نهه,nueve
+916,zehn::NUM,لس,diez
+917,elf::NUM,یوولس,once
+918,zwölf::NUM,دولس,doce
+919,zwanzig::NUM,شل,veinte
+920,dreißig::NUM,دېرش,treinta
+921,vierzig::NUM,څلوېښت,cuarenta
+922,fünfzig::NUM,پنځوس,cincuenta
+923,sechzig::NUM,شپېته,sesenta
+924,siebzig::NUM,اویا,setenta
+925,achtzig::NUM,اتیا,ochenta
+926,neunzig::NUM,نوي,noventa
+927,hundert::NUM,سل,cien
+928,hundert::NUM,سل,ciento
+929,tausend::NUM,زر,mil
+930,und::CNJ,او,y
+931,oder::CNJ,ېا,o
+932,stehen::V,درېدل,estar de pie
+933,sitzen::V,کښېنستل,estar sentado
+934,liegen::V,ملاستل,yacer
+935,liegen::V,ملاستل,estar acostado
+936,hängen::V,ځړېدل,pender
+937,werden::V,کېدل,hacerse
+938,passieren::V,پېښېدل,suceder
+939,beginnen::V,شروع کېدل,iniciarse
+940,beginnen::V,شروع کېدل,principiar
+941,enden::V,خلاصدل,acabar
+942,enden::V,خلاصدل,terminar
+943,enden::V,تمامېدل,acabar
+944,enden::V,تمامېدل,terminar
+945,wechseln::V,تغییر موندل,variar
+946,wechseln::V,تغییر موندل,alternar
+947,aufgehen[Sonne]::V,ختل,salir
+948,untergehen[Sonne]::V,لوېدل,ponerse
+949,untergehen[Sonne]::V,لوېدل,descender
+950,untergehen[Sonne]::V,پرېوتل,ponerse
+951,untergehen[Sonne]::V,پرېوتل,descender
+952,scheinen[Sonne]::V,رڼا کول,brillar
+953,donnern::V,تنېدل,tronar
+954,donnern::V,غړمبېدل,tronar
+955,wehen::V,چلېدل,soplar
+956,strömen::V,بهېدل,afluir
+957,fließen::V,بهېدل,fluir
+958,fließen::V,بهېدل,correr
+959,fließen::V,تویېدل,fluir
+960,fließen::V,تویېدل,correr
+961,sich drehen::V,ګرځېدل,girar
+962,sich drehen::V,چورلېدل,girar
+963,schwanken::V,زنګېدل,vacilar
+964,schwingen::V,زنګېدل,oscilar
+965,fallen::V,ولېدل,caer
+966,brennen::V,سوځېدل,arder
+967,brennen::V,سوځېدل,quemar
+968,rauchen::V,لوګی کول,humear
+969,rauchen::V,لوګی کول,echar humo
+970,regnen::V,باران اورېدل,llover
+971,gefrieren::V,کنګل نيول,helarse
+972,tauen::V,وېلې کېدل,deshelarse
+973,schmelzen::V,وېلې کېدل,fundirse
+974,schmelzen::V,وېلې کېدل,derretirse
+975,trocknen::V,وچېدل,secarse
+976,sieden::V,اېشېدل,hervir
+977,faulen::V,خرابېدل,pudrirse
+978,verfaulen::V,ورستېدل,pudrirse
+979,reißen::V,شلېدل,romperse
+980,versinken::V,ډوېېدل,hundirse
+981,vergehen::V,تېرېدل,pasar
+982,erscheinen::V,ښکارېدل,aparecer
+983,verschwinden::V,ورکېدل,desaparecer
+984,sinken::V,ښکته کېدل,bajar
+985,abnehmen::V,کمېدل,decrecer
+986,abnehmen::V,کمېدل,disminuir
+987,zunehmen::V,زیاتېدل,crecer
+988,zunehmen::V,زیاتېدل,aumentar
+989,steigen::V,جګېدل,subir
+990,steigen::V,جګېدل,ascender
+991,steigen::V,پورته کېدل,subir
+992,steigen::V,پورته کېدل,ascender
+993,wachsen::V,وده کول,crecer
+994,glänzen::V,ځلېدل,brillar
+995,glänzen::V,ځلېدل,resplandecer
+996,funkeln::V,پړکېدل,chispear
+997,lärmen::V,غال و غول کول,hacer ruido
+998,läuten::V,زنګ وهل,sonar
+999,läuten::V,زنګ وهل,repicar
+1000,klingeln::V,زنګ وهل,tocar el timbre
+1001,klirren::V,کړنګېدل,tintinear
+1002,brausen::V,تلاطم کول,zumbar
+1003,rauschen::V,شڼهار کول,murmurar
+1004,klingen::V,آواز کول,sonar
+1005,bellen::V,غپېدل,ladrar
+1006,heulen::V,انګلل,ulular
+1007,blasen::V,پو کول,soplar
+1008,pfeifen::V,شپېلک وهل,silbar
+1009,schreien::V,ناره کول,gritar
+1010,stöhnen::V,زګېروی کول,gemir
+1011,zittern::V,لړزېدل,temblar
+1012,leben::V,ژوند کول,vivir
+1013,geboren werden::V,زېږېدل,nacer
+1014,atmen::V,ساه کښل,respirar
+1015,atmen::V,تنفس کول,respirar
+1016,trinken::V,څښل,beber
+1017,essen::V,خوړل,comer
+1018,schlucken::V,غړپول,tragar
+1019,müde werden::V,ستړی کېدل,cansarse
+1020,müde werden::V,ستړی کېدل,fatigarse
+1021,einschlafen::V,ویده کېدل,dormirse
+1022,schlafen::V,خوب کول,dormir
+1023,aufwachen::V,ویښېدل,despertarse
+1024,aufstehen::V,پاڅېدل,levantarse
+1025,sich erholen::V,استراحت کول,reposar
+1026,sich erholen::V,استراحت کول,descansar
+1027,krank werden::V,رنځورېدل,caer enfermo
+1028,krank sein::V,ناجوړېدل,estar enfermo
+1029,schmerzen::V,خوږېدل,doler
+1030,schmerzen::V,درد کول,doler
+1031,husten::V,ټوخېدل,toser
+1032,genesen::V,رغېدل,convalecer
+1033,genesen::V,رغېدل,restablecerse
+1034,sterben::V,مړل,morir
+1035,umkommen::V,تلفېدل,perecer
+1036,sich bewegen::V,چلېدل,moverse
+1037,sich bewegen::V,حرکت کول,moverse
+1038,sich rühren::V,ښورېدل,rebullir
+1039,sich erheben::V,درېدل,levantarse
+1040,sich setzen::V,کښېنستل,sentarse
+1041,hinfallen::V,لوېدل,caerse
+1042,laufen::V,منډې وهل,andar
+1043,schreiten::V,قدم ایښودل,proceder
+1044,spazierengehen::V,چکر وهل,pasear
+1045,spazierengehen::V,چکر وهل,pasearse
+1046,eilen::V,بېړه کول,correr prisa
+1047,sich beeilen::V,عجله کول,darse prisa
+1048,sausen::V,ځغستل,correr
+1049,rennen::V,زغلېدل,correr
+1050,springen::V,ټوپ وهل,saltar
+1051,klettern::V,ختل,trepar
+1052,klettern::V,ختل,escalar
+1053,schaukeln::V,زنګېدل,bambolearse
+1054,kriechen::V,خاپوړی وهل,reptar
+1055,kriechen::V,خاپوړی وهل,arrastrarse
+1056,schwimmen::V,لامبو وهل,nadar
+1057,tauchen::V,غوټه وهل,bucear
+1058,tauchen::V,غوټه وهل,sumergirse
+1059,rudern::V,پارو وهل,remar
+1060,fahren::V,تلل,ir
+1061,fliegen::V,الوتل,volar
+1062,gehen::V,تلل,ir
+1063,gehen::V,تلل,andar
+1064,weggehen::V,بهر وتل,irse
+1065,weggehen::V,بهر وتل,marcharse
+1066,abfahren::V,تلل,salir
+1067,abfahren::V,تلل,partir
+1068,anhalten::V,ودرېدل,parar
+1069,anhalten::V,ودرېدل,pararse
+1070,hineingehen::V,داخلېدل,entrar
+1071,eintreten::V,ننوتل,entrar
+1072,kommen::V,راتلل,venir
+1073,ankommen::V,رسېدل,llegar
+1074,zurückkommen::V,بېرته راتلل,volver
+1075,zurückkommen::V,بېرته راتلل,regresar
+1076,bleiben::V,پاتې کېدل,quedarse
+1077,warten::V,انتظار وېستل,esperar
+1078,erwarten::V,انتظار کول,esperar
+1079,suchen::V,لټول,buscar
+1080,finden::V,میندل,hallar
+1081,finden::V,میندل,encontrar
+1082,finden::V,پیدا کول,hallar
+1083,finden::V,پیدا کول,encontrar
+1084,versuchen::V,هڅه کول,intentar
+1085,vorbereiten::V,چمتوکول,preparar
+1086,lieben::V,مینه لرل,amar
+1087,lieben::V,مینه لرل,querer
+1088,mögen::V,خوښول,querer
+1089,mögen::V,علاقه لرل,querer
+1090,lachen::V,خندېدل,reír
+1091,rühren::V,اغېزه کول,conmover
+1092,weinen::V,ژړل,llorar
+1093,schimpfen::V,ښکنځا کول,regañar
+1094,sich ärgern::V,قهر راتلل,enfadarse
+1095,sich fürchten::V,ډارېدل,tener miedo
+1096,fürchten::V,ډارېدل,temer
+1097,fürchten::V,ډارېدل,tener miedo a
+1098,fliehen::V,تښتېدل,huir
+1099,flüchten::V,تښتېدل,escaparse
+1100,sehen::V,لیدل,ver
+1101,anschauen::V,کتل,mirar
+1102,ansehen::V,ننداره کول,mirar
+1103,hören::V,اورېدل,oír
+1104,zuhören::V,غوږ نیول,escuchar
+1105,probieren::V,څکه کول,probar
+1106,probieren::V,څکه کول,degustar
+1107,probieren::V,چاشنی کول,probar
+1108,probieren::V,چاشنی کول,degustar
+1109,riechen::V,بويول,oler
+1110,fühlen::V,حسول,sentir
+1111,scheinen::V,ښکارېدل,parecer
+1112,zu sehen sein::V,ښکارېدل,poder verse
+1113,vernehmen::V,خبرېدل,oír
+1114,vernehmen::V,خبرېدل,percibir
+1115,frieren::V,ساړه کېتل,tener frío
+1116,tun::V,کول,hacer
+1117,können::V,کولای شول,poder
+1118,können::V,د لاسه کېدل,poder
+1119,wollen::V,غوښتل,querer
+1120,anfangen::V,شروع کول,iniciar
+1121,beenden::V,ختمول,acabar
+1122,beenden::V,ختمول,terminar
+1123,beenden::V,پای ته رسول,acabar
+1124,beenden::V,پای ته رسول,terminar
+1125,aufhören::V,بس کول,cesar
+1126,gelingen::V,موفق کېدل,salir bien
+1127,gelingen::V,بریالی کېدل,salir bien
+1128,geraten::V,کېدل,salir
+1129,geraten::V,کېدل,dar resultado
+1130,öffnen::V,خلاصول,abrir
+1131,öffnen::V,پرانیستل,abrir
+1132,schließen::V,تړل,cerrar
+1133,stellen::V,ایښودل,poner
+1134,stellen::V,ایښودل,colocar
+1135,setzen::V,کښېنول,poner
+1136,setzen::V,کښېنول,colocar
+1137,legen::V,ایښودل,poner
+1138,berühren::V,لاس وهل,tocar
+1139,verbinden::V,تړل,unir
+1140,verbinden::V,تړل,juntar
+1141,bedecken::V,پوښول,tapar
+1142,bedecken::V,پوښول,cubrir
+1143,aufhängen::V,ځوړندول,colgar
+1144,anzünden::V,بلول,encender
+1145,aufheben::V,پورته کول,recoger
+1146,zurücklassen::V,پرېښودل,dejar
+1147,verlieren::V,ورکول,perder
+1148,fallen lassen::V,له لاسه لوېدل,dejar caer
+1149,machen::V,کول,hacer
+1150,herstellen::V,جوړول,fabricar
+1151,herstellen::V,توليدول,fabricar
+1152,bauen::V,جوړول,construir
+1153,reparieren::V,ترمیمول,reparar
+1154,verbessern::V,اصلاح کول,mejorar
+1155,ändern::V,تغیر ورکول,mudar
+1156,ändern::V,تغیر ورکول,modificar
+1157,graben::V,کيندل,cavar
+1158,beugen::V,ټیټول,doblar
+1159,beugen::V,ټیټول,inclinar
+1160,biegen::V,کږول,doblar
+1161,drehen::V,ګرځول,volver
+1162,drehen::V,ګرځول,hacer girar
+1163,wenden::V,اړول,volver
+1164,umdrehen::V,اړول,revolver
+1165,heben::V,جګول,levantar
+1166,heben::V,پورته کول,levantar
+1167,hochheben::V,جګول,alzar
+1168,ergreifen::V,نیول,coger
+1169,halten::V,نیول,tener
+1170,drücken::V,کښېکښل,apretar
+1171,schieben::V,پوری وهل,empujar
+1172,kratzen::V,ګرول,rascar
+1173,lecken::V,څټل,lamer
+1174,beißen::V,چیچل,morder
+1175,abreißen::V,شکول,arrancar
+1176,abschneiden::V,پرېکول,cortar
+1177,binden::V,تړل,atar
+1178,stecken::V,ټومبل,meter
+1179,brechen::V,ماتول,romper
+1180,brechen::V,ماتول,quebrar
+1181,klopfen::V,ټکول,golpear
+1182,hauen::V,ټکول,pegar
+1183,kleben::V,نښلول,pegar
+1184,kleben::V,نښلول,encolar
+1185,kleben::V,سرېښول,pegar
+1186,kleben::V,سرېښول,encolar
+1187,reiben::V,مږل,frotar
+1188,streichen::V,مښل,untar
+1189,streichen::V,مښل,recubrir
+1190,schleifen::V,تېره کول,afilar
+1191,schneiden::V,غوڅول,cortar
+1192,schneiden::V,پرېکول,cortar
+1193,rütteln::V,خوڅول,agitar
+1194,schütteln::V,ښورول,agitar
+1195,schütteln::V,ښورول,sacudir
+1196,schwenken::V,خوڅول,menear
+1197,schütten::V,اچول,verter
+1198,schütten::V,تویول,verter
+1199,füllen::V,ډکول,llenar
+1200,einwickeln::V,پېچل,envolver
+1201,einwickeln::V,نغښتل,envolver
+1202,tragen::V,وړل,llevar
+1203,schleppen::V,وړل,arrastrar
+1204,ziehen::V,کښل,tirar
+1205,aufbewahren::V,ساتل,conservar
+1206,werfen::V,اچول,echar
+1207,werfen::V,اچول,lanzar
+1208,werfen::V,غورځول,echar
+1209,werfen::V,غورځول,lanzar
+1210,fangen::V,نیول,coger
+1211,fangen::V,ګیرول,coger
+1212,packen::V,نیول,agarrar
+1213,verstecken::V,پټول,esconder
+1214,teilen::V,وېشل,partir
+1215,teilen::V,وېشل,dividir
+1216,teilen::V,تقسیمول,partir
+1217,teilen::V,تقسیمول,dividir
+1218,schicken::V,لېږل,enviar
+1219,schicken::V,استول,enviar
+1220,bringen::V,راوړل,traer
+1221,hinzufügen::V,زیاتول,añadir
+1222,bekommen::V,حاصلول,obtener
+1223,bekommen::V,حاصلول,conseguir
+1224,erhalten::V,اخیستل,recibir
+1225,nehmen::V,نیول,tomar
+1226,nehmen::V,اخيستل,tomar
+1227,wählen::V,خوښول,elegir
+1228,auswählen::V,چنده کول,escoger
+1229,auswählen::V,چنده کول,seleccionar
+1230,bewahren::V,ساتل,guardar
+1231,bewahren::V,ساتل,preservar
+1232,behindern::V,مانع کېدل,estorbar
+1233,behindern::V,مانع کېدل,obstaculizar
+1234,behindern::V,ممانعت کول,estorbar
+1235,behindern::V,ممانعت کول,obstaculizar
+1236,verderben::V,خرابېدل,estropear
+1237,beschädigen::V,ورانول,deteriorar
+1238,zerbrechen::V,ماتول,romper
+1239,zerbrechen::V,ماتول,quebrar
+1240,zerreißen::V,څیرې کول,desgarrar
+1241,zerreißen::V,څیرې کول,despedazar
+1242,zerstören::V,ړنګول,destruir
+1243,zerstören::V,ړنګول,destrozar
+1244,zerstören::V,ورانول,destruir
+1245,zerstören::V,ورانول,destrozar
+1246,verbrennen::V,سوځول,quemar
+1247,geben::V,ورکول,dar
+1248,reichen::V,ورکول,pasar
+1249,schenken::V,بښل,regalar
+1250,versprechen::V,لوز کول,prometer
+1251,wünschen::V,غوښتل,desear
+1252,loben::V,ستایل,alabar
+1253,loben::V,تمجید کول,alabar
+1254,küssen::V,ښکلول,besar
+1255,wiegen::V,زنګول,mecer
+1256,zudecken::V,پوښول,tapar
+1257,zudecken::V,پوښول,cubrir
+1258,wecken::V,ويښول,despertar
+1259,zeigen::V,ښودل,mostrar
+1260,führen::V,بیول,guiar
+1261,führen::V,بیول,conducir
+1262,lehren::V,درس ورکول,enseñar
+1263,lehren::V,درس ورکول,instruir
+1264,lehren::V,تعلیم ورکول,enseñar
+1265,lehren::V,تعلیم ورکول,instruir
+1266,unterrichten::V,درس ورکول,enseñar
+1267,aufziehen::V,روزل,criar
+1268,leiten::V,رهبری کول,guiar
+1269,leiten::V,رهبری کول,dirigir
+1270,leiten::V,لارښوونه کول,guiar
+1271,leiten::V,لارښوونه کول,dirigir
+1272,antreiben::V,چټک کول,impeler
+1273,antreiben::V,چټک کول,impulsar
+1274,lassen::V,اړکول,hacer
+1275,einladen::V,بلل,invitar
+1276,vereinigen::V,متحد کول,unir
+1277,vereinigen::V,یوځای کول,unir
+1278,besuchen::V,کتنه کول,visitar
+1279,besuchen::V,کتنه کول,ir a ver
+1280,treffen::V,ليدل,encontrar
+1281,treffen::V,تلقی کول,encontrar
+1282,sich versammeln::V,راغونډېدل,reunirse
+1283,sich versammeln::V,راغونډېدل,congregarse
+1284,spielen::V,لوبه کول,jugar
+1285,singen::V,سندرې وېل,cantar
+1286,tanzen::V,ګډېدل,bailar
+1287,sich trennen::V,بېلېدل,separarse
+1288,verlassen::V,ترک کول,dejar
+1289,verlassen::V,ترک کول,abandonar
+1290,retten::V,نجات ورکول,salvar
+1291,bewachen::V,ساتل,vigilar
+1292,bewachen::V,حفاظت کول,vigilar
+1293,schützen::V,ژغورل,proteger
+1294,verteidigen::V,دفاع کول,defender
+1295,sich schlagen::V,جنګېدل,batirse
+1296,schießen::V,ویشتل,tirar
+1297,schießen::V,ویشتل,disparar
+1298,siegen::V,غالبېدل,vencer
+1299,ärgern::V,خپه کول,enojar
+1300,ärgern::V,خپه کول,enfadar
+1301,schlagen::V,وهل,pegar
+1302,schlagen::V,وهل,golpear
+1303,treten::V,په لغته وهل,dar una patada a
+1304,stechen::V,ټومبل,pinchar
+1305,stoßen::V,ټېل وهل,empujar
+1306,stoßen::V,پوری وهل,empujar
+1307,stehlen::V,تښتول,robar
+1308,stehlen::V,تښتول,hurtar
+1309,stehlen::V,غلا کول,robar
+1310,stehlen::V,غلا کول,hurtar
+1311,stören::V,ماتول,molestar
+1312,belästigen::V,ځورول,molestar
+1313,belästigen::V,ځورول,importunar
+1314,belästigen::V,تکلیف ورکول,molestar
+1315,belästigen::V,تکلیف ورکول,importunar
+1316,verbergen::V,پټول,ocultar
+1317,verbergen::V,پټول,esconder
+1318,täuschen::V,تېرایستل,engañar
+1319,täuschen::V,خطا ایستل,engañar
+1320,betrügen::V,غولول,engañar
+1321,töten::V,وژل,matar
+1322,töten::V,مړ کول,matar
+1323,wohnen::V,اوسېدل,vivir
+1324,wohnen::V,اوسېدل,habitar
+1325,arbeiten::V,کار کول,trabajar
+1326,sammeln::V,راټولول,recoger
+1327,sammeln::V,راټولول,coleccionar
+1328,sammeln::V,راغونډول,recoger
+1329,sammeln::V,راغونډول,coleccionar
+1330,pflücken::V,شکول,coger
+1331,jagen::V,ښکار کول,cazar
+1332,fischen::V,کب نيول,pescar
+1333,fassen::V,نیول,atrapar
+1334,fassen::V,نیول,capturar
+1335,fassen::V,ګیرول,atrapar
+1336,fassen::V,ګیرول,capturar
+1337,hüten::V,پوول,guardar
+1338,treiben::V,بیول,aballar
+1339,anbinden::V,تړل,atar
+1340,füttern::V,خوراک ورکول,echar de comer
+1341,melken::V,لوشل,ordeñar
+1342,hacken::V,پی کول,picar
+1343,hacken::V,پی کول,cortar
+1344,gießen::V,اوبه کول,regar
+1345,reifen::V,رسېدل,madurar
+1346,zubereiten::V,تیارول,preparar
+1347,kochen::V,پخول,cocer
+1348,kochen::V,پخول,guisar
+1349,backen::V,پخول,hornear
+1350,backen::V,پخول,cocer al horno
+1351,braten::V,وريتول,asar
+1352,braten::V,وريتول,freír
+1353,umrühren::V,لړل,remover
+1354,stricken::V,اوبدل,hacer punto
+1355,stricken::V,اوبدل,hacer calceta
+1356,nähen::V,ګنډل,coser
+1357,färben::V,رنګول,teñir
+1358,färben::V,رنګول,colorear
+1359,reinigen::V,صافول,limpiar
+1360,waschen::V,مینځل,lavar
+1361,abwischen::V,وچول,fregar
+1362,abwischen::V,وچول,limpiar
+1363,spülen::V,کنګالول,aclarar
+1364,spülen::V,کنګالول,enjuagar
+1365,fegen::V,جارو کول,barrer
+1366,fegen::V,جارو کول,pasar la escoba
+1367,kehren::V,جارو کول,barrer
+1368,baden::V,لمبېدل,bañarse
+1369,sich waschen::V,ځان مينځل,lavarse
+1370,ausziehen::V,کښل,quitar
+1371,ausziehen::V,کښل,quitarse
+1372,ausziehen::V,ایستل,quitar
+1373,ausziehen::V,ایستل,quitarse
+1374,anziehen::V,اغوستل,ponerse
+1375,sich anziehen::V,کالی اغوستل,vestirse
+1376,kämmen::V,ګمنځول,peinar
+1377,schmücken::V,ښکلی کول,adornar
+1378,sagen::V,وېل,decir
+1379,sprechen::V,وېل,hablar
+1380,sprechen::V,غږېدل,hablar
+1381,reden::V,ګړېدل,hablar
+1382,reden::V,ګړېدل,conversar
+1383,reden::V,خبرې کول,hablar
+1384,reden::V,خبرې کول,conversar
+1385,sich unterhalten::V,خبری کول,charlar
+1386,sich unterhalten::V,خبری کول,conversar
+1387,fragen::V,پوښتنه کول,preguntar
+1388,bitten::V,غوښتل,rogar
+1389,erzählen::V,کيسه کول,contar
+1390,erzählen::V,حکايت کول,contar
+1391,mitteilen::V,خبرول,comunicar
+1392,mitteilen::V,خبرول,participar
+1393,mitteilen::V,خبر ورکول,comunicar
+1394,mitteilen::V,خبر ورکول,participar
+1395,nennen::V,نوم ايښودل,llamar
+1396,nennen::V,نوم ايښودل,nombrar
+1397,rufen::V,بلل,llamar
+1398,prahlen::V,لاپې وهل,jactarse
+1399,übersetzen::V,ژباړل,traducir
+1400,übersetzen::V,ترجمه کول,traducir
+1401,denken::V,فکر کول,pensar
+1402,glauben::V,باور کول,creer
+1403,bemerken::V,لیدل,notar
+1404,erkennen::V,پېژندل,reconocer
+1405,begreifen::V,رسېدل,concebir
+1406,begreifen::V,پوهېدل,concebir
+1407,verstehen::V,پوهېدل,entender
+1408,verstehen::V,پوهېدل,comprender
+1409,lernen::V,زده کول,aprender
+1410,lernen::V,درس لوستل,aprender
+1411,wissen::V,پوهېدل,saber
+1412,sich erinnern an::V,یادول,recordar
+1413,sich erinnern an::V,یادول,acordarse de
+1414,sich erinnern an::V,په یاد راوړل,recordar
+1415,sich erinnern an::V,په یاد راوړل,acordarse de
+1416,vergessen::V,هېرول,olvidar
+1417,messen::V,اندازه کول,medir
+1418,zählen::V,شمارل,contar
+1419,rechnen::V,حسابول,contar
+1420,rechnen::V,حسابول,calcular
+1421,lesen::V,لوستل,leer
+1422,malen::V,رسمول,pintar
+1423,zeichnen::V,رسمول,dibujar
+1424,schreiben::V,لیکل,escribir
+1425,besitzen::V,لرل,poseer
+1426,kaufen::V,رانیول,comprar
+1427,verkaufen::V,خرڅول,vender
+1428,bezahlen::V,تأدیه کول,pagar
+1429,zahlen::V,کسات اخيستل,pagar
+1430,beherrschen::V,تسلط لرل,dominar
+1431,ertragen::V,زغمل,soportar
+1432,Barsch::N,,perca
+1433,Hecht::N,,lucio

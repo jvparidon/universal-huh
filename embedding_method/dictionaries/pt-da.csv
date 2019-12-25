@@ -1,0 +1,1337 @@
+,Concept_ID,pt,da
+0,Auge::N,olho,øje
+1,Ohr::N,orelha,øre
+2,Nase::N,nariz,næse
+3,Mund::N,boca,mund
+4,Zahn::N,dente,tand
+5,Zunge::N,língua,tunge
+6,Lippe::N,lábio,læbe
+7,Wange::N,face,kind
+8,Gesicht::N,cara,ansigt
+9,Gesicht::N,rosto,ansigt
+10,Stirn::N,testa,pande
+11,Haar::N,cabelo,hår
+12,Schnurrbart::N,bigode,overskæg
+13,Bart::N,barba,skæg
+14,Kinn::N,queixo,hage
+15,Kiefer[Anatomie]::N,maxila,kæbe
+16,Kiefer[Anatomie]::N,mandíbula,kæbe
+17,Kehle::N,garganta,strube
+18,Hals::N,colo,hals
+19,Hals::N,pescoço,hals
+20,Genick::N,nuca,nakke
+21,Kopf::N,cabeça,hoved
+22,Rücken::N,dorso,ryg
+23,Rücken::N,costas,ryg
+24,Bauch::N,ventre,mave
+25,Bauch::N,barriga,mave
+26,Nabel::N,umbigo,navle
+27,Busen::N,seio,barm
+28,Brust::N,peito,bryst
+29,Schulter::N,ombro,skulder
+30,Arm::N,braço,arm
+31,Ellenbogen::N,cotovelo,albue
+32,Hand::N,mão,hånd
+33,Handfläche::N,palma,håndflade
+34,Handfläche::N,palma da mão,håndflade
+35,Finger::N,dedo,finger
+36,Fingernagel::N,unha,fingernegl
+37,Nagel[Anatomie]::N,unha,negl
+38,Zeh::N,dedo do pé,tå
+39,Fuß::N,pé,fod
+40,Ferse::N,calcanhar,hæl
+41,Knie::N,joelho,knæ
+42,Oberschenkel::N,coxa,lår
+43,Bein::N,perna,ben
+44,Körper::N,corpo,krop
+45,Körper::N,corpo,legeme
+46,Haut::N,pele,hud
+47,Blut::N,sangue,blod
+48,Ader::N,veia,åre
+49,Sehne::N,tendão,sene
+50,Knochen::N,osso,ben
+51,Gehirn::N,cérebro,hjerne
+52,Herz::N,coração,hjerte
+53,Magen::N,estômago,mave
+54,Leber::N,fígado,lever
+55,Atem::N,fôlego,ånde
+56,Hunger::N,fome,sult
+57,Träne::N,lágrima,tåre
+58,Geschmack::N,gosto,smag
+59,Geruch::N,odor,lugt
+60,Geruch::N,cheiro,lugt
+61,Schlaf::N,sono,søvn
+62,Traum::N,sonho,drøm
+63,Himmel::N,céu,himmel
+64,Sonne::N,sol,sol
+65,Mond::N,lua,måne
+66,Stern::N,estrela,stjerne
+67,Luft::N,ar,luft
+68,Wind::N,vento,vind
+69,Welle::N,onda,bølge
+70,Wasser::N,água,vand
+71,Stein::N,pedra,sten
+72,Boden::N,solo,jord
+73,Erde::N,terra,jord
+74,Staub::N,pó,støv
+75,Rauch::N,fumo,røg
+76,Funke::N,faísca,gnist
+77,Funke::N,centelha,gnist
+78,Feuer::N,fogo,ild
+79,Licht::N,luz,lys
+80,Schatten::N,sombra,skygge
+81,Wetter::N,tempo,vejr
+82,Nebel::N,nevoeiro,tåge
+83,Wolke::N,nuvem,sky
+84,Regen::N,chuva,regn
+85,Schnee::N,neve,sne
+86,Eis::N,gelo,is
+87,Frost::N,gelo,frost
+88,Frost::N,geada,frost
+89,Kälte::N,frio,kulde
+90,Hitze::N,ardor,hede
+91,Raureif::N,geada,rimfrost
+92,Regenbogen::N,arco-iris,regnbue
+93,Donner::N,trovão,torden
+94,Strömung::N,corrente,strømning
+95,Tropfen::N,gota,dråbe
+96,Schaum::N,espuma,skum
+97,Schmutz::N,sujidade,snavs
+98,Schmutz::N,imundície,snavs
+99,See::N,lago,sø
+100,Sumpf::N,charco,sump
+101,Sumpf::N,pântano,sump
+102,Moor::N,pântano,mose
+103,Wiese::N,prado,eng
+104,Wald::N,bosque,skov
+105,Wald::N,floresta,skov
+106,Hügel::N,colina,høj
+107,Hügel::N,colina,bakke
+108,Anhöhe::N,alto,høj
+109,Anhöhe::N,alto,bakke
+110,Anhöhe::N,outeiro,høj
+111,Anhöhe::N,outeiro,bakke
+112,Berg::N,monte,bjerg
+113,Berg::N,montanha,bjerg
+114,Gipfel::N,pico,top
+115,Höhle::N,caverna,hule
+116,Abhang::N,encosta,skrænt
+117,Abhang::N,encosta,skråning
+118,Quelle::N,fonte,kilde
+119,Bach::N,regato,bæk
+120,Bach::N,ribeiro,bæk
+121,Fluss::N,rio,flod
+122,Ufer::N,beira,bred
+123,Küste::N,costa,kyst
+124,Festland::N,terra firme,fastland
+125,Meer::N,mar,hav
+126,Bucht::N,baía,bugt
+127,Insel::N,ilha,ø
+128,Blume::N,flor,blomst
+129,Gras::N,erva,græs
+130,Wurzel::N,raiz,rod
+131,Baum::N,árvore,træ
+132,Stamm::N,tronco,stamme
+133,Rinde::N,casca,bark
+134,Ast::N,ramo,gren
+135,Zweig::N,galho,kvist
+136,Blatt::N,folha,blad
+137,Birke::N,bétula,birk
+138,Kiefer[Baum]::N,pinheiro,fyrretræ
+139,Weide[Baum]::N,salgueiro,piletræ
+140,Tanne::N,abeto,gran
+141,Horn::N,corno,horn
+142,Horn::N,chifre,horn
+143,Feder::N,pena,fjer
+144,Fell::N,pele,skind
+145,Flügel::N,asa,vinge
+146,Klaue::N,pata,klov
+147,Kralle::N,unha,klo
+148,Kralle::N,garra,klo
+149,Schwanz::N,rabo,hale
+150,Schwanz::N,cauda,hale
+151,Ei::N,ovo,æg
+152,Nest::N,ninho,rede
+153,Bau::N,toca,bo
+154,Bau::N,covil,bo
+155,Tier::N,animal,dyr
+156,Herde::N,rebanho,flok
+157,Kuh::N,vaca,ko
+158,Bulle::N,touro,tyr
+159,Pferd::N,cavalo,hest
+160,Schaf::N,ovelha,får
+161,Schwein::N,porco,gris
+162,Hund::N,cão,hund
+163,Katze::N,gata,kat
+164,Bär::N,urso,bjørn
+165,Eichhörnchen::N,esquilo,egern
+166,Elch::N,alce,elg
+167,Fuchs::N,raposa,ræv
+168,Hase::N,lebre,hare
+169,Maus::N,rato,mus
+170,Wolf::N,lobo,ulv
+171,Vogel::N,ave,fugl
+172,Vogel::N,pássaro,fugl
+173,Schwarm::N,bando,sværm
+174,Schwarm::N,enxame,sværm
+175,Huhn::N,galinha,høne
+176,Hahn::N,galo,hane
+177,Gans::N,ganso,gås
+178,Adler::N,águia,ørn
+179,Ente::N,pata,and
+180,Eule::N,mocho,ugle
+181,Eule::N,coruja,ugle
+182,Kranich::N,grou,trane
+183,Krähe::N,gralha,krage
+184,Kuckuck::N,cuco,gøg
+185,Schwan::N,cisne,svane
+186,Fisch::N,peixe,fisk
+187,Barsch::N,perca,aborre
+188,Hecht::N,lúcio,gedde
+189,Schlange[Tier]::N,serpente,slange
+190,Wurm::N,verme,orm
+191,Spinne::N,aranha,edderkop
+192,Ameise::N,formiga,myre
+193,Laus::N,piolho,lus
+194,Mücke::N,mosquito,myg
+195,Fliege::N,mosca,flue
+196,Schmetterling::N,borboleta,sommerfugl
+197,Beere::N,bago,bær
+198,Apfel::N,maçã,æble
+199,Pilz::N,fungo,svamp
+200,Pilz::N,cogumelo,svamp
+201,Zwiebel::N,cebola,løg
+202,Saat::N,sementeira,sæd
+203,Korn::N,grão,korn
+204,Heu::N,feno,hø
+205,Schale::N,casca,skræl
+206,Grube::N,cova,grav
+207,Grube::N,fossa,grav
+208,Falle::N,armadilha,fælde
+209,Schlinge::N,laço,snare
+210,Spur::N,pista,spor
+211,Spur::N,vestígio,spor
+212,Asche::N,cinza,aske
+213,Dreck::N,sujidade,snavs
+214,Eisen::N,ferro,jern
+215,Gold::N,ouro,guld
+216,Silber::N,prata,sølv
+217,Kohle::N,carvão,kul
+218,Glas::N,vidro,glas
+219,Lehm::N,barro,ler
+220,Lehm::N,argila,ler
+221,Sand::N,areia,sand
+222,Mensch::N,homem,mennesge
+223,Mensch::N,pessoa,mennesge
+224,Mann::N,homem,mand
+225,Frau::N,mulher,kvinde
+226,Kind::N,filho,barn
+227,Kind::N,criança,barn
+228,Junge::N,rapaz,dreng
+229,Junge::N,menino,dreng
+230,Mädchen::N,menina,pige
+231,Mädchen::N,rapariga,pige
+232,Familie::N,família,familie
+233,Großvater::N,avô,bedstefar
+234,Großmutter::N,avó,bedstemor
+235,Eltern::N,pais,forældre
+236,Vater::N,pai,far
+237,Mutter::N,mãe,mor
+238,Sohn::N,filho,søn
+239,Tochter::N,filha,datter
+240,Bruder::N,irmão,bror
+241,Schwester::N,irmã,søster
+242,Onkel::N,tio,onkel
+243,Tante::N,tia,tante
+244,Ehemann::N,esposo,ægtemand
+245,Ehefrau::N,esposa,hustru
+246,Freude::N,prazer,glæde
+247,Freude::N,alegria,glæde
+248,Gelächter::N,risada,latter
+249,Gelächter::N,gargalhada,latter
+250,Glück::N,felicidade,lykke
+251,Kummer::N,aflição,sorg
+252,Kummer::N,desgosto,sorg
+253,Wunsch::N,desejo,ønske
+254,Lust::N,vontade,lyst
+255,Geist::N,mente,ånd
+256,Geist::N,espírito,ånd
+257,Gedanke::N,ideia,tanke
+258,Gedanke::N,pensamento,tanke
+259,Gedächtnis::N,memória,hukommelse
+260,Verstand::N,razão,forstand
+261,Verstand::N,inteligência,forstand
+262,Sinn::N,sentido,mening
+263,Sinn::N,sentido,betydning
+264,Sinn::N,significado,mening
+265,Sinn::N,significado,betydning
+266,Grund::N,causa,grund
+267,Grund::N,motivo,grund
+268,Wahrheit::N,verdade,sandhed
+269,Gespräch::N,conversa,samtale
+270,Gespräch::N,conversação,samtale
+271,Märchen::N,conto,eventyr
+272,Erzählung::N,conto,fortælling
+273,Erzählung::N,narrativa,fortælling
+274,Nachricht::N,mensagem,efterretning
+275,Neuigkeit::N,notícia,nyhed
+276,Neuigkeit::N,novidade,nyhed
+277,Name::N,nome,navn
+278,Rätsel::N,adivinha,gåde
+279,Rede::N,oração,tale
+280,Rede::N,discurso,tale
+281,Sprache::N,língua,sprog
+282,Stimme::N,voz,stemme
+283,Wort::N,palavra,ord
+284,Zeichen::N,marca,tegn
+285,Ruf::N,grito,råb
+286,Ruf::N,chamada,råb
+287,Lärm::N,ruído,larm
+288,Lärm::N,barulho,larm
+289,Laut::N,som,lyd
+290,Ton::N,tom,tone
+291,Lied::N,canção,sang
+292,Ruhe::N,calma,ro
+293,Ruhe::N,calma,hvile
+294,Ruhe::N,silêncio,ro
+295,Ruhe::N,silêncio,hvile
+296,Leute::N,gente,folk
+297,Leute::N,gente,mennesker
+298,Leute::N,pessoas,folk
+299,Leute::N,pessoas,mennesker
+300,Volk::N,povo,folk
+301,Volk::N,nação,folk
+302,Arbeit::N,trabalho,arbejde
+303,Gast::N,hóspede,gæst
+304,Gast::N,convidado,gæst
+305,Geschenk::N,prenda,gave
+306,Geschenk::N,presente,gave
+307,Spiel::N,jogo,leg
+308,Gesellschaft::N,companhia,selskab
+309,Hilfe::N,ajuda,hjælp
+310,Hilfe::N,socorro,hjælp
+311,Freund::N,amigo,ven
+312,Kamerad::N,camarada,kammerat
+313,Angelegenheit::N,assunto,sag
+314,Angelegenheit::N,assunto,anliggende
+315,Anzahl::N,número,antal
+316,Anzahl::N,quantidade,antal
+317,Art::N,tipo,art
+318,Art::N,espécie,art
+319,Stück::N,pedaço,stykke
+320,Teil::N,peça,del
+321,Teil::N,parte,del
+322,Hälfte::N,metade,halvdel
+323,Kreis::N,círculo,cirkel
+324,Kreuz::N,cruz,kors
+325,Kreuz::N,cruz,kryds
+326,Linie::N,linha,linie
+327,Strich::N,traço,streg
+328,Abstand::N,distância,afstand
+329,Entfernung::N,distância,afstand
+330,Gegend::N,área,egn
+331,Gegend::N,região,egn
+332,Platz::N,lugar,plads
+333,Ort::N,sítio,sted
+334,Seite::N,lado,side
+335,Mitte::N,meio,midte
+336,Gegenstand::N,objecto,genstand
+337,Sache::N,coisa,sag
+338,Rand::N,bordo,rand
+339,Rand::N,margem,rand
+340,Kante::N,borda,kant
+341,Kante::N,aresta,kant
+342,Ecke::N,esquina,hjørne
+343,Spitze::N,ponta,spids
+344,Ende::N,cabo,ende
+345,Ende::N,extremo,ende
+346,Loch::N,furo,hul
+347,Loch::N,buraco,hul
+348,Winkel::N,canto,vinkel
+349,Winkel::N,ângulo,vinkel
+350,Muster::N,padrão,mønster
+351,Muster::N,desenho,mønster
+352,Größe::N,tamanho,størrelse
+353,Länge::N,comprimento,længde
+354,Höhe::N,altura,højde
+355,Höhe::N,altitude,højde
+356,Gewicht::N,peso,vægt
+357,Menge::N,quantidade,mængde
+358,Haufen::N,pilha,bunke
+359,Reihe::N,fila,række
+360,Boot::N,barco,båd
+361,Ruder::N,remo,åre
+362,Schlitten::N,trenó,kælk
+363,Schlitten::N,trenó,slæde
+364,Ski::N,esqui,ski
+365,Lagerfeuer::N,fogueira,lejrbål
+366,Last::N,carga,last
+367,Last::N,carga,byrde
+368,Gang::N,curso,gang
+369,Gang::N,caminhada,gang
+370,Schritt::N,passo,skridt
+371,Norden::N,norte,nord
+372,Süden::N,sul,syd
+373,Westen::N,oeste,vest
+374,Westen::N,ocidente,vest
+375,Osten::N,este,øst
+376,Osten::N,leste,øst
+377,Osten::N,oriente,øst
+378,Holz::N,madeira,træ
+379,Brett::N,tábua,bræt
+380,Brett::N,prancha,bræt
+381,Platte::N,laje,plade
+382,Platte::N,chapa,plade
+383,Stütze::N,apoio,støtte
+384,Stütze::N,suporte,støtte
+385,Stange::N,vara,stang
+386,Stange::N,barra,stang
+387,Stock::N,pau,stok
+388,Stock::N,bengala,stok
+389,Stab::N,bastão,stav
+390,Rohr::N,cano,rør
+391,Haus::N,casa,hus
+392,Heim::N,lar,hjem
+393,Heim::N,casa,hjem
+394,Ofen::N,estufa,ovn
+395,Ofen::N,aquecedor,ovn
+396,Fußboden::N,piso,gulv
+397,Tisch::N,mesa,bord
+398,Stuhl::N,cadeira,stol
+399,Wiege::N,berço,vugge
+400,Bett::N,cama,seng
+401,Regal::N,estante,reol
+402,Regal::N,prateleira,reol
+403,Kiste::N,caixa,kasse
+404,Fenster::N,janela,vindue
+405,Tür::N,porta,dør
+406,Tor::N,portão,port
+407,Zaun::N,cerca,stakit
+408,Zaun::N,vedação,stakit
+409,Dach::N,telhado,tag
+410,Leiter::N,escada,stige
+411,Leiter::N,escada móvel,stige
+412,Besen::N,vassoura,kost
+413,Spaten::N,pá,spade
+414,Schaufel::N,pá,skovl
+415,Gabel::N,garfo,gaffel
+416,Löffel::N,colher,ske
+417,Messer::N,faca,kniv
+418,Nagel::N,cravo,søm
+419,Netz::N,rede,net
+420,Haken::N,gancho,krog
+421,Griff::N,asa,tag
+422,Griff::N,asa,håndtag
+423,Griff::N,cabo,tag
+424,Griff::N,cabo,håndtag
+425,Schloss::N,fechadura,lås
+426,Bild::N,imagem,billede
+427,Figur::N,figura,figur
+428,Puppe::N,boneca,dukke
+429,Beutel::N,saco,pose
+430,Beutel::N,bolsa,pose
+431,Bündel::N,fardo,bylt
+432,Bündel::N,fardo,bundt
+433,Tasche::N,saco,taske
+434,Tasche::N,bolso,taske
+435,Eimer::N,balde,spand
+436,Deckel::N,tampa,låg
+437,Geschirr::N,louça,husgeråd
+438,Sack::N,saca,sæk
+439,Tasse::N,chávena,kop
+440,Topf::N,tacho,gryde
+441,Topf::N,panela,gryde
+442,Kessel::N,caldeira,kedel
+443,Essen::N,refeição,måltid
+444,Nahrung::N,comida,mad
+445,Nahrung::N,comida,næring
+446,Nahrung::N,alimento,mad
+447,Nahrung::N,alimento,næring
+448,Speise::N,prato,ret
+449,Fleisch::N,carne,kød
+450,Getreide::N,cereais,korn
+451,Brei::N,puré,grød
+452,Brot::N,pão,brød
+453,Scheibe::N,fatia,skive
+454,Fett::N,banha,fedt
+455,Fett::N,gordura,fedt
+456,Butter::N,manteiga,smør
+457,Öl::N,azeite,olie
+458,Salz::N,sal,salt
+459,Suppe::N,sopa,suppe
+460,Suppe::N,caldo,suppe
+461,Honig::N,mel,honning
+462,Milch::N,leite,mælk
+463,Tee::N,chá,te
+464,Leder::N,couro,skind
+465,Wolle::N,lã,uld
+466,Stoff::N,pano,stof
+467,Stoff::N,tecido,stof
+468,Nadel::N,agulha,nål
+469,Faden::N,fio,tråd
+470,Knopf::N,botão,knap
+471,Knoten::N,nó,knude
+472,Farbe::N,corante,farve
+473,Kleidung::N,roupa,påklædning
+474,Kleidung::N,vestuário,påklædning
+475,Hemd::N,camisa,skjorte
+476,Kragen::N,gola,krave
+477,Ärmel::N,manga,ærme
+478,Hose::N,calça,bukser
+479,Gürtel::N,cinto,bælte
+480,Mütze::N,boné,hue
+481,Mütze::N,barrete,hue
+482,Schuh::N,sapato,sko
+483,Stiefel::N,bota,støvle
+484,Ring::N,anel,ring
+485,Band::N,fita,bånd
+486,Band::N,faixa,bånd
+487,Kamm::N,pente,kam
+488,Spiegel::N,espelho,spejl
+489,Riemen::N,correia,rem
+490,Schnur::N,corda,snor
+491,Schnur::N,cordel,snor
+492,Leine::N,trela,snor
+493,Decke::N,cobertor,tæppe
+494,Kissen::N,almofada,pude
+495,Tuch::N,pano,sjaltørklæde
+496,Handtuch::N,toalha,håndklæde
+497,Kraft::N,força,kraft
+498,Stärke::N,força,styrke
+499,Gesundheit::N,saúde,sundhed
+500,Krankheit::N,doença,sygdom
+501,Krankheit::N,enfermidade,sygdom
+502,Schmerz::N,dor,smerte
+503,Wunde::N,chaga,sår
+504,Wunde::N,ferida,sår
+505,Fieber::N,febre,feber
+506,Arznei::N,remédio,medicin
+507,Arznei::N,remédio,lægemiddel
+508,Brücke::N,ponte,bro
+509,Brunnen::N,poço,brønd
+510,Weide::N,pastagem,græsgang
+511,Pfad::N,senda,sti
+512,Pfad::N,trilho,sti
+513,Weg::N,caminho,vej
+514,Straße::N,via,gade
+515,Straße::N,estrada,gade
+516,Dorf::N,aldeia,landsby
+517,Stadt::N,cidade,by
+518,Brief::N,carta,brev
+519,Buch::N,livro,bog
+520,Buchstabe::N,letra,bogstav
+521,Zeitung::N,jornal,avis
+522,Leben::N,vida,liv
+523,Tod::N,morte,død
+524,Grab::N,túmulo,grav
+525,Grab::N,sepultura,grav
+526,Kirche::N,igreja,kirke
+527,Sünde::N,pecado,synd
+528,Gott::N,deus,gud
+529,Arbeiter::N,operário,arbejder
+530,Arbeiter::N,trabalhador,arbejder
+531,Chef::N,chefe,chef
+532,Chef::N,patrão,chef
+533,Meister::N,mestre,mester
+534,Arzt::N,médico,læge
+535,Lehrer::N,professor,lærer
+536,Geld::N,dinheiro,penge
+537,Geschäft::N,negócio,forretning
+538,Laden::N,loja,butik
+539,Laden::N,loja,forretning
+540,Preis::N,preço,pris
+541,Ware::N,mercadoria,vare
+542,Nutzen::N,proveito,nytte
+543,Reichtum::N,riqueza,rigdom
+544,Welt::N,mundo,verden
+545,Land::N,país,land
+546,Staat::N,Estado,stat
+547,König::N,rei,konge
+548,Macht::N,poder,magt
+549,Macht::N,potência,magt
+550,Grenze::N,fronteira,grænse
+551,Krieg::N,guerra,krig
+552,Feind::N,inimigo,fjende
+553,Gewalt::N,violência,vold
+554,Kampf::N,luta,kamp
+555,Kampf::N,combate,kamp
+556,Bogen[Waffe]::N,arco,bue
+557,Pfeil::N,seta,pil
+558,Pfeil::N,flecha,pil
+559,Gewehr::N,espingarda,gevær
+560,Fehler::N,erro,fejl
+561,Fehler::N,falha,fejl
+562,Lüge::N,mentira,løgn
+563,Schaden::N,dano,skade
+564,Schaden::N,estrago,skade
+565,Unglück::N,desgraça,uheld
+566,Unglück::N,desgraça,ulykke
+567,Schuld::N,culpa,skyld
+568,Alter::N,idade,alder
+569,Schluss::N,fim,slut
+570,Schluss::N,fim,slutning
+571,Zeit::N,tempo,tid
+572,Tag::N,dia,dag
+573,Morgen::N,manhã,morgen
+574,Mittag::N,meio-dia,middag
+575,Abend::N,noite,aften
+576,Abend::N,tardinha,aften
+577,Nacht::N,noite,nat
+578,Woche::N,semana,uge
+579,Monat::N,mês,måned
+580,Jahr::N,ano,år
+581,Frühling::N,primavera,forår
+582,Sommer::N,verão,sommer
+583,Herbst::N,outono,efterår
+584,Winter::N,inverno,vinter
+585,Januar::N,Janeiro,januar
+586,Februar::N,Fevereiro,februar
+587,März::N,Março,marts
+588,April::N,Abril,april
+589,Mai::N,Maio,maj
+590,Juni::N,Junho,juni
+591,Juli::N,Julho,juli
+592,August::N,Agosto,august
+593,September::N,Setembro,september
+594,Oktober::N,Outubro,oktober
+595,November::N,Novembro,november
+596,Dezember::N,Dezembro,december
+597,Montag::N,segunda-feira,mandag
+598,Dienstag::N,terça-feira,tirsdag
+599,Mittwoch::N,quarta-feira,onsdag
+600,Donnerstag::N,quinta-feira,torsdag
+601,Freitag::N,sexta-feira,fredag
+602,Samstag::N,sábado,lørdag
+603,Sonntag::N,domingo,søndag
+604,groß::A,grande,stor
+605,klein::A,pequeno,lille
+606,lang::A,comprido,lang
+607,kurz::A,curto,kort
+608,breit::A,largo,bred
+609,schmal::A,estreito,smal
+610,dicht::A,denso,tæt
+611,dick[Gegenstand]::A,grosso,tyk
+612,dünn::A,delgado,tynd
+613,fein::A,fino,fin
+614,fein::A,subtil,fin
+615,fest::A,firme,fast
+616,fest::A,sólido,fast
+617,flach::A,plano,flad
+618,glatt::A,liso,glat
+619,hart::A,duro,hård
+620,weich::A,mole,blød
+621,rund::A,redondo,rund
+622,spitz::A,agudo,spids
+623,scharf::A,afiado,skarp
+624,stumpf::A,rombo,sløv
+625,stumpf::A,rombo,stump
+626,schwer::A,pesado,tung
+627,schön::A,belo,skøn
+628,schön::A,bonito,skøn
+629,heiß::A,quente,hed
+630,warm::A,quente,varm
+631,kalt::A,frio,kold
+632,kühl::A,fresco,kølig
+633,frisch::A,fresco,frisk
+634,feucht::A,húmido,fugtig
+635,nass::A,molhado,våd
+636,trocken::A,seco,tør
+637,voll::A,cheio,fuld
+638,leer::A,vazio,tom
+639,offen::A,aberto,åben
+640,geschlossen::A,fechado,lukket
+641,sauber::A,limpo,ren
+642,schmutzig::A,sujo,snavset
+643,roh::A,cru,rå
+644,reif::A,maduro,moden
+645,lecker::A,delicioso,lækker
+646,süß::A,doce,sød
+647,bitter::A,amargo,bitter
+648,sauer::A,azedo,sur
+649,hell::A,claro,lys
+650,dunkel::A,escuro,mørk
+651,dunkel::A,sombrio,mørk
+652,schwarz::A,preto,sort
+653,weiß::A,branco,hvid
+654,rot::A,vermelho,rød
+655,gelb::A,amarelo,gul
+656,blau::A,azul,blå
+657,grün::A,verde,grøn
+658,grau::A,cinzento,grå
+659,bunt::A,colorido,broget
+660,billig::A,barato,billig
+661,teuer::A,caro,dyr
+662,wertvoll::A,valioso,værdifuld
+663,wertvoll::A,precioso,værdifuld
+664,blind::A,cego,blind
+665,taub::A,surdo,døv
+666,kräftig::A,forte,kraftig
+667,kräftig::A,poderoso,kraftig
+668,stark::A,forte,stærk
+669,stark::A,robusto,stærk
+670,schwach::A,débil,svag
+671,fett::A,gordo,fed
+672,schlank::A,esbelto,slank
+673,hübsch::A,giro,køn
+674,hübsch::A,bonito,køn
+675,böse::A,mau,ond
+676,böse::A,mau,slem
+677,dumm::A,parvo,dum
+678,dumm::A,estúpido,dum
+679,faul::A,preguiçoso,doven
+680,fleißig::A,aplicado,flittig
+681,fleißig::A,diligente,flittig
+682,geizig::A,avarento,gerrig
+683,klug::A,prudente,klog
+684,klug::A,inteligente,klog
+685,geschickt::A,hábil,dygtig
+686,geschickt::A,hábil,behændig
+687,lieb::A,caro,rar
+688,lieb::A,querido,rar
+689,lustig::A,alegre,lystig
+690,sanft::A,suave,blid
+691,sanft::A,brando,blid
+692,hungrig::A,faminto,sulten
+693,krank::A,doente,syg
+694,krank::A,enfermo,syg
+695,nackt::A,nu,nøgen
+696,nackt::A,despido,nøgen
+697,traurig::A,triste,bedrøvet
+698,lebendig::A,vivo,levende
+699,gut::A,bom,god
+700,schlecht::A,mau,dårlig
+701,schlecht::A,ruim,dårlig
+702,richtig::A,justo,rigtig
+703,richtig::A,correcto,rigtig
+704,schlimm::A,mau,slem
+705,schlimm::A,grave,slem
+706,wahr::A,verdadeiro,sand
+707,alt::A,velho,gammel
+708,alt::A,antigo,gammel
+709,neu::A,novo,ny
+710,ehemalig::A,antigo,forhenværende
+711,alt[Lebewesen]::A,velho,gammel
+712,jung::A,jovem,ung
+713,arm::A,pobre,fattig
+714,reich::A,rico,rig
+715,bekannt::A,conhecido,kendt
+716,berühmt::A,famoso,berømt
+717,berühmt::A,célebre,berømt
+718,fremd::A,alheio,fremmed
+719,fremd::A,estranho,fremmed
+720,verschieden::A,diverso,forskellig
+721,verschieden::A,diferente,forskellig
+722,nah::A,próximo,nær
+723,fern::A,remoto,fjern
+724,fern::A,distante,fjern
+725,linker::A,esquerdo,venstre
+726,rechter::A,direito,højre
+727,anderer::A,outro,anden
+728,erster::A,primeiro,første
+729,zweiter::A,segundo,anden
+730,dritter::A,terceiro,tredje
+731,letzter::A,final,sidste
+732,letzter::A,último,sidste
+733,allein::ADV,só,alene
+734,auf einmal::ADV,de vez,på én gang
+735,zusammen::ADV,juntos,sammen
+736,lange::ADV,muito tempo,længe
+737,plötzlich::ADV,de repente,pludselig
+738,sofort::ADV,imediatamente,straks
+739,später::ADV,mais tarde,senere
+740,jetzt::ADV,agora,nu
+741,heute::ADV,hoje,i dag
+742,morgen::ADV,amanhã,i morgen
+743,bald::ADV,logo,snart
+744,bald::ADV,breve,snart
+745,dann::ADV,então,så
+746,dann::ADV,depois,så
+747,gestern::ADV,ontem,i går
+748,einst::ADV,antigamente,engang
+749,damals::ADV,então,dengang
+750,danach::ADV,logo,derefter
+751,danach::ADV,depois,derefter
+752,vorher::ADV,antes,før
+753,vorher::ADV,antes,forud
+754,zuerst::ADV,primeiro,først
+755,einmal::ADV,uma vez,en gang
+756,manchmal::ADV,às vezes,sommetider
+757,oft::ADV,muitas vezes,ofte
+758,immer::ADV,sempre,altid
+759,niemals::ADV,nunca,aldrig
+760,hier::ADV,cá,her
+761,hier::ADV,aqui,her
+762,hierhin::ADV,para cá,hid
+763,hierhin::ADV,para cá,herhen
+764,von hier::ADV,daqui,herfra
+765,dort::ADV,lá,der
+766,dort::ADV,ali,der
+767,dorthin::ADV,lá,derhen
+768,dorthin::ADV,para lá,derhen
+769,geradeaus::ADV,em frente,lige ud
+770,vorwärts::ADV,avante,fremad
+771,rückwärts::ADV,para trás,baglæns
+772,zurück::ADV,atrás,tilbage
+773,unten::ADV,debaixo,nede
+774,unten::ADV,debaixo,forneden
+775,unten::ADV,em baixo,nede
+776,unten::ADV,em baixo,forneden
+777,hinab::ADV,para baixo,ned
+778,hinab::ADV,para baixo,nedad
+779,oben::ADV,em cima,oppe
+780,oben::ADV,em cima,ovenpå
+781,hinauf::ADV,para cima,op
+782,hinauf::ADV,para cima,opad
+783,überall::ADV,em toda parte,overalt
+784,nicht::ADV,não,ikke
+785,ein wenig::ADV,um pouco,lidt
+786,ein wenig::ADV,um bocado,lidt
+787,kaum::ADV,apenas,knap
+788,kaum::ADV,apenas,næppe
+789,sehr::ADV,muito,meget
+790,so::ADV,tão,så
+791,so::ADV,assim,så
+792,noch::ADV,ainda,endnu
+793,nur::ADV,só,kun
+794,nur::ADV,só,bare
+795,nur::ADV,apenas,kun
+796,nur::ADV,apenas,bare
+797,nur::ADV,somente,kun
+798,nur::ADV,somente,bare
+799,schon::ADV,já,alt
+800,schon::ADV,já,allerede
+801,wieder::ADV,outra vez,igen
+802,vergebens::ADV,em vão,forgæves
+803,vor::PRP,diante de,foran
+804,vor::PRP,diante de,uden for
+805,hinter::PRP,atrás de,bag
+806,hinter::PRP,atrás de,bagved
+807,unter::PRP,sob,under
+808,unter::PRP,debaixo de,under
+809,durch::PRP,por,gennem
+810,durch::PRP,por,igennem
+811,durch::PRP,através de,gennem
+812,durch::PRP,através de,igennem
+813,neben::PRP,junto de,ved siden af
+814,neben::PRP,ao lado de,ved siden af
+815,zwischen::PRP,entre,mellem
+816,wegen::PRP,por,på grund af
+817,wegen::PRP,por causa de,på grund af
+818,dies::PRN,isto,dette
+819,das::PRN,isso,det
+820,das::PRN,aquilo,det
+821,alles::PRN,todo,alt
+822,ich::PRN,eu,jeg
+823,du::PRN,tu,du
+824,er::PRN,ele,han
+825,wir::PRN,nós,vi
+826,ihr::PRN,vós,I
+827,ihr::PRN,vocês,I
+828,sie::PRN,eles,de
+829,was::FPRN,quê,hvad
+830,wer::FPRN,quem,hvem
+831,wo::FADV,onde,hvor
+832,wohin::FADV,aonde,hvorhen
+833,wohin::FADV,para onde,hvorhen
+834,wie::FADV,como,hvordan
+835,warum::FADV,porquê,hvorfor
+836,warum::FADV,por que,hvorfor
+837,wieviel::FNUM,quanto,hvor meget
+838,eins::NUM,um,én
+839,zwei::NUM,dois,to
+840,drei::NUM,três,tre
+841,vier::NUM,quatro,fire
+842,fünf::NUM,cinco,fem
+843,sechs::NUM,seis,seks
+844,sieben::NUM,sete,syv
+845,acht::NUM,oito,otte
+846,neun::NUM,nove,ni
+847,zehn::NUM,dez,ti
+848,elf::NUM,onze,elleve
+849,zwölf::NUM,doze,tolv
+850,zwanzig::NUM,vinte,tyve
+851,dreißig::NUM,trinta,tredive
+852,vierzig::NUM,quarenta,fyrre
+853,vierzig::NUM,quarenta,fyrretyve
+854,fünfzig::NUM,cinquenta,halvtreds
+855,sechzig::NUM,sessenta,tres
+856,siebzig::NUM,setenta,halvfjerds
+857,achtzig::NUM,oitenta,firs
+858,neunzig::NUM,noventa,halvfems
+859,hundert::NUM,cem,hundrede
+860,hundert::NUM,cento,hundrede
+861,tausend::NUM,mil,tusind
+862,und::CNJ,e,og
+863,oder::CNJ,ou,eller
+864,stehen::V,estar em pé,stå
+865,sitzen::V,estar sentado,sidde
+866,liegen::V,jazer,ligge
+867,liegen::V,estar deitado,ligge
+868,hängen::V,pender,hænge
+869,hängen::V,estar pendurado,hænge
+870,werden::V,tornar-se,blive
+871,passieren::V,acontecer,ske
+872,passieren::V,acontecer,hænde
+873,beginnen::V,começar,begynde
+874,enden::V,acabar,ende
+875,enden::V,terminar,ende
+876,wechseln::V,variar,veksle
+877,wechseln::V,alternar,veksle
+878,aufgehen[Sonne]::V,nascer,gå op
+879,aufgehen[Sonne]::V,nascer,stå op
+880,untergehen[Sonne]::V,pôr-se,gå ned
+881,scheinen[Sonne]::V,brilhar,skinne
+882,donnern::V,trovejar,tordne
+883,wehen::V,soprar,blæse
+884,strömen::V,correr,strømme
+885,fließen::V,fluir,flyde
+886,sich drehen::V,girar,dreje sig
+887,schwanken::V,oscilar,vakle
+888,schwingen::V,vibrar,svinge
+889,fallen::V,cair,falde
+890,brennen::V,arder,brænde
+891,rauchen::V,fumegar,ryge
+892,regnen::V,chover,regne
+893,gefrieren::V,gelar,fryse
+894,gefrieren::V,congelar,fryse
+895,tauen::V,derreter,tø
+896,tauen::V,descongelar,tø
+897,schmelzen::V,fundir-se,smelte
+898,trocknen::V,secar,tørre
+899,sieden::V,ferver,koge
+900,faulen::V,estragar-se,rådne
+901,verfaulen::V,apodrecer,rådne
+902,reißen::V,romper-se,briste
+903,versinken::V,afundar-se,synke
+904,versinken::V,afundar-se,synke ned
+905,vergehen::V,passar,forløbe
+906,erscheinen::V,aparecer,vise sig
+907,verschwinden::V,desaparecer,forsvinde
+908,sinken::V,descer,synke
+909,abnehmen::V,diminuir,aftage
+910,abnehmen::V,decrescer,aftage
+911,zunehmen::V,crescer,tiltage
+912,zunehmen::V,aumentar,tiltage
+913,steigen::V,subir,stige
+914,wachsen::V,crescer,gro
+915,wachsen::V,crescer,vokse
+916,glänzen::V,brilhar,glinse
+917,funkeln::V,cintilar,tindre
+918,lärmen::V,fazer barulho,larme
+919,läuten::V,chocalhar,ringe
+920,klingeln::V,tocar,ringe
+921,klirren::V,tinir,klirre
+922,brausen::V,bramar,bruse
+923,rauschen::V,murmurar,suse
+924,rauschen::V,rumorejar,suse
+925,klingen::V,soar,lyde
+926,klingen::V,soar,klinge
+927,bellen::V,ladrar,gø
+928,heulen::V,uivar,hyle
+929,blasen::V,soprar,blæse
+930,pfeifen::V,assobiar,fløjte
+931,schreien::V,gritar,skrige
+932,stöhnen::V,gemer,stønne
+933,zittern::V,tremer,dirre
+934,zittern::V,tremer,skælve
+935,leben::V,viver,leve
+936,geboren werden::V,nascer,fødes
+937,atmen::V,respirar,ånde
+938,trinken::V,beber,drikke
+939,essen::V,comer,spise
+940,schlucken::V,engolir,synke
+941,müde werden::V,cansar-se,blive træt
+942,einschlafen::V,adormecer,falde i søvn
+943,schlafen::V,dormir,sove
+944,aufwachen::V,acordar,vågne
+945,aufstehen::V,levantar-se,stå op
+946,sich erholen::V,descansar,komme sig
+947,krank werden::V,adoecer,blive syg
+948,krank werden::V,ficar doente,blive syg
+949,krank sein::V,estar doente,være syg
+950,schmerzen::V,doer,smerte
+951,husten::V,tossir,hoste
+952,genesen::V,convalescer,komme sig
+953,sterben::V,morrer,dø
+954,umkommen::V,perecer,omkomme
+955,sich bewegen::V,mover-se,bevæge sig
+956,sich rühren::V,mexer-se,røre på sig
+957,sich erheben::V,levantar-se,rejse sig
+958,sich setzen::V,sentar-se,sætte sig
+959,hinfallen::V,cair,
+960,laufen::V,andar,løbe
+961,laufen::V,caminhar,løbe
+962,schreiten::V,andar,skride
+963,schreiten::V,caminhar,skride
+964,spazierengehen::V,passear,gå en tur
+965,eilen::V,apressar-se,ile
+966,sich beeilen::V,apressar-se,skynde sig
+967,sich beeilen::V,despachar-se,skynde sig
+968,sausen::V,correr,suse
+969,rennen::V,correr,løbe
+970,rennen::V,correr,rende
+971,springen::V,saltar,hoppe
+972,springen::V,saltar,springe
+973,klettern::V,trepar,klatre
+974,schaukeln::V,baloiçar,gynge
+975,kriechen::V,rastejar,krybe
+976,kriechen::V,arrastar-se,krybe
+977,schwimmen::V,nadar,svømme
+978,tauchen::V,mergulhar,dykke
+979,rudern::V,remar,ro
+980,fahren::V,ir,køre
+981,fliegen::V,voar,flyve
+982,gehen::V,ir,gå
+983,gehen::V,andar,gå
+984,weggehen::V,partir,gå bort
+985,weggehen::V,ir-se embora,gå bort
+986,abfahren::V,sair,køre bort
+987,abfahren::V,partir,køre bort
+988,anhalten::V,parar,standse
+989,hineingehen::V,entrar,gå ind
+990,eintreten::V,entrar,træde ind
+991,kommen::V,vir,komme
+992,ankommen::V,chegar,ankomme
+993,zurückkommen::V,voltar,komme tilbage
+994,zurückkommen::V,regressar,komme tilbage
+995,bleiben::V,ficar,blive
+996,bleiben::V,ficar,forblive
+997,bleiben::V,permanecer,blive
+998,bleiben::V,permanecer,forblive
+999,warten::V,esperar,vente
+1000,erwarten::V,esperar,vente
+1001,erwarten::V,esperar,afvente
+1002,erwarten::V,aguardar,vente
+1003,erwarten::V,aguardar,afvente
+1004,suchen::V,buscar,søge
+1005,suchen::V,procurar,søge
+1006,finden::V,achar,finde
+1007,finden::V,encontrar,finde
+1008,versuchen::V,tentar,forsøge
+1009,vorbereiten::V,preparar,forberede
+1010,lieben::V,amar,elske
+1011,lieben::V,querer,elske
+1012,mögen::V,gostar de,holde af
+1013,mögen::V,gostar de,kunne lide
+1014,lachen::V,rir,le
+1015,lachen::V,rir-se,le
+1016,rühren::V,comover,røre
+1017,weinen::V,chorar,græde
+1018,schimpfen::V,ralhar,skænde
+1019,sich ärgern::V,zangar-se,ærgre sig
+1020,sich fürchten::V,ter medo de,være bange
+1021,sich fürchten::V,ter receio de,være bange
+1022,fürchten::V,temer,være bange for
+1023,fürchten::V,recear,være bange for
+1024,fliehen::V,fugir,flygte
+1025,flüchten::V,refugiar-se,flygte
+1026,sehen::V,ver,se
+1027,anschauen::V,olhar,se på
+1028,anschauen::V,olhar,betragte
+1029,ansehen::V,mirar,anse
+1030,hören::V,ouvir,høre
+1031,zuhören::V,escutar,høre til
+1032,probieren::V,provar,smage
+1033,probieren::V,provar,smage på
+1034,probieren::V,saborear,smage
+1035,probieren::V,saborear,smage på
+1036,riechen::V,cheirar,lugte
+1037,fühlen::V,sentir,føle
+1038,scheinen::V,parecer,synes
+1039,zu sehen sein::V,estar à vista,synes
+1040,vernehmen::V,ouvir,erfare
+1041,frieren::V,ter frio,fryse
+1042,tun::V,fazer,gøre
+1043,können::V,saber,kunne
+1044,wollen::V,querer,ville
+1045,anfangen::V,iniciar,begynde
+1046,beenden::V,acabar,afslutte
+1047,beenden::V,terminar,afslutte
+1048,aufhören::V,cessar,ophøre
+1049,aufhören::V,cessar,holde op
+1050,aufhören::V,desistir,ophøre
+1051,aufhören::V,desistir,holde op
+1052,gelingen::V,sair bem,lykkes
+1053,gelingen::V,dar bom resultado,lykkes
+1054,geraten::V,sair,blive
+1055,geraten::V,dar resultado,blive
+1056,öffnen::V,abrir,åbne
+1057,schließen::V,fechar,lukke
+1058,stellen::V,pôr,stille
+1059,stellen::V,colocar,stille
+1060,setzen::V,pôr,sætte
+1061,setzen::V,meter,sætte
+1062,legen::V,pôr,lægge
+1063,legen::V,meter,lægge
+1064,berühren::V,tocar,berøre
+1065,verbinden::V,unir,forbinde
+1066,verbinden::V,ligar,forbinde
+1067,bedecken::V,cobrir,dække
+1068,bedecken::V,cobrir,bedække
+1069,aufhängen::V,pendurar,hænge
+1070,aufhängen::V,pendurar,hænge op
+1071,anzünden::V,acender,tænde
+1072,anzünden::V,acender,antænde
+1073,aufheben::V,apanhar,løfte
+1074,aufheben::V,apanhar,tage op
+1075,aufheben::V,levantar,løfte
+1076,aufheben::V,levantar,tage op
+1077,zurücklassen::V,deixar,lade tilbage
+1078,verlieren::V,perder,miste
+1079,fallen lassen::V,deixar cair,tabe
+1080,fallen lassen::V,deixar cair,droppe
+1081,machen::V,fazer,gøre
+1082,herstellen::V,produzir,fremstille
+1083,bauen::V,edificar,bygge
+1084,bauen::V,construir,bygge
+1085,reparieren::V,reparar,reparere
+1086,reparieren::V,consertar,reparere
+1087,verbessern::V,melhorar,rette
+1088,verbessern::V,melhorar,forbedre
+1089,ändern::V,mudar,ændre
+1090,ändern::V,alterar,ændre
+1091,graben::V,cavar,grave
+1092,beugen::V,curvar,bøje
+1093,biegen::V,vergar,bøje
+1094,drehen::V,girar,dreje
+1095,wenden::V,virar,vende
+1096,wenden::V,voltar,vende
+1097,umdrehen::V,virar,dreje om
+1098,umdrehen::V,revolver,dreje om
+1099,heben::V,levantar,hæve
+1100,hochheben::V,erguer,løfte
+1101,hochheben::V,levantar,løfte
+1102,ergreifen::V,apanhar,gribe fat i
+1103,halten::V,segurar,holde
+1104,drücken::V,apertar,trykke
+1105,schieben::V,empurrar,skyde
+1106,schieben::V,empurrar,skubbe
+1107,kratzen::V,raspar,klø
+1108,kratzen::V,raspar,kradse
+1109,lecken::V,lamber,slikke
+1110,beißen::V,morder,bide
+1111,abreißen::V,arrancar,rive af
+1112,abschneiden::V,talhar,skære af
+1113,binden::V,ligar,binde
+1114,stecken::V,meter,stikke
+1115,stecken::V,enfiar,stikke
+1116,brechen::V,romper,brække
+1117,brechen::V,quebrar,brække
+1118,klopfen::V,bater,banke
+1119,hauen::V,bater,hugge
+1120,kleben::V,colar,klistre
+1121,reiben::V,esfregar,gnide
+1122,streichen::V,barrar,smøre
+1123,schleifen::V,afiar,slibe
+1124,schneiden::V,cortar,skære
+1125,schneiden::V,cortar,klippe
+1126,rütteln::V,sacudir,ruske
+1127,schütteln::V,abanar,ryste
+1128,schütteln::V,sacudir,ryste
+1129,schwenken::V,agitar,svinge
+1130,schütten::V,deitar,hælde
+1131,füllen::V,encher,fylde
+1132,einwickeln::V,envolver,pakke ind
+1133,einwickeln::V,embrulhar,pakke ind
+1134,tragen::V,levar,bære
+1135,tragen::V,trazer,bære
+1136,schleppen::V,arrastar,slæbe
+1137,ziehen::V,puxar,trække
+1138,aufbewahren::V,guardar,opbevare
+1139,aufbewahren::V,conservar,opbevare
+1140,werfen::V,lançar,kaste
+1141,fangen::V,apanhar,fange
+1142,packen::V,agarrar,gribe
+1143,verstecken::V,esconder,gemme
+1144,teilen::V,partir,dele
+1145,teilen::V,dividir,dele
+1146,schicken::V,enviar,sende
+1147,bringen::V,trazer,bringe
+1148,hinzufügen::V,acrescentar,tilføje
+1149,bekommen::V,obter,få
+1150,erhalten::V,receber,få
+1151,nehmen::V,tomar,tage
+1152,wählen::V,eleger,vælge
+1153,wählen::V,escolher,vælge
+1154,auswählen::V,escolher,udvælge
+1155,auswählen::V,seleccionar,udvælge
+1156,bewahren::V,guardar,bevare
+1157,bewahren::V,conservar,bevare
+1158,behindern::V,impedir,hindre
+1159,behindern::V,impedir,forhindre
+1160,verderben::V,estragar,ødelægge
+1161,verderben::V,corromper,ødelægge
+1162,beschädigen::V,danificar,beskadige
+1163,zerbrechen::V,romper,brække itu
+1164,zerbrechen::V,quebrar,brække itu
+1165,zerreißen::V,rasgar,rive itu
+1166,zerstören::V,destruir,ødelægge
+1167,verbrennen::V,queimar,brænde
+1168,geben::V,dar,give
+1169,reichen::V,passar,række
+1170,schenken::V,oferecer,forære
+1171,versprechen::V,prometer,love
+1172,wünschen::V,desejar,ønske
+1173,loben::V,louvar,rose
+1174,küssen::V,beijar,kysse
+1175,wiegen::V,embalar,vugge
+1176,zudecken::V,tapar,dække til
+1177,zudecken::V,cobrir,dække til
+1178,wecken::V,acordar,vække
+1179,wecken::V,despertar,vække
+1180,zeigen::V,mostrar,vise
+1181,führen::V,guiar,føre
+1182,führen::V,conduzir,føre
+1183,lehren::V,ensinar,lære
+1184,unterrichten::V,instruir,undervise
+1185,aufziehen::V,criar,opdrage
+1186,leiten::V,dirigir,lede
+1187,leiten::V,conduzir,lede
+1188,antreiben::V,impelir,skynde på
+1189,lassen::V,fazer,få til at
+1190,einladen::V,convidar,indbyde
+1191,einladen::V,convidar,invitere
+1192,vereinigen::V,unir,forene
+1193,vereinigen::V,reunir,forene
+1194,besuchen::V,ir ver,besøge
+1195,besuchen::V,visitar,besøge
+1196,treffen::V,encontrar,møde
+1197,sich versammeln::V,reunir-se,forsamles
+1198,spielen::V,jogar,lege
+1199,spielen::V,jogar,spille
+1200,spielen::V,brincar,lege
+1201,spielen::V,brincar,spille
+1202,singen::V,cantar,synge
+1203,tanzen::V,bailar,danse
+1204,sich trennen::V,apartar-se,skilles
+1205,verlassen::V,deixar,forlade
+1206,verlassen::V,abandonar,forlade
+1207,retten::V,salvar,redde
+1208,bewachen::V,vigiar,bevogte
+1209,bewachen::V,guardar,bevogte
+1210,schützen::V,proteger,skærme
+1211,schützen::V,proteger,beskytte
+1212,verteidigen::V,defender,forsvare
+1213,sich schlagen::V,brigar,slås
+1214,sich schlagen::V,bater-se,slås
+1215,schießen::V,disparar,skyde
+1216,siegen::V,vencer,sejre
+1217,ärgern::V,irritar,ærgre
+1218,ärgern::V,aborrecer,ærgre
+1219,schlagen::V,bater,slå
+1220,treten::V,pisar,sparke
+1221,stechen::V,picar,stikke
+1222,stoßen::V,empurrar,støde
+1223,stehlen::V,furtar,stjæle
+1224,stören::V,perturbar,forstyrre
+1225,belästigen::V,incomodar,genere
+1226,belästigen::V,incomodar,ulejlige
+1227,belästigen::V,importunar,genere
+1228,belästigen::V,importunar,ulejlige
+1229,verbergen::V,ocultar,skjule
+1230,verbergen::V,esconder,skjule
+1231,täuschen::V,iludir,villede
+1232,täuschen::V,enganar,villede
+1233,betrügen::V,burlar,bedrage
+1234,betrügen::V,enganar,bedrage
+1235,töten::V,matar,dræbe
+1236,wohnen::V,morar,bo
+1237,arbeiten::V,trabalhar,arbejde
+1238,sammeln::V,recolher,samle
+1239,sammeln::V,coleccionar,samle
+1240,pflücken::V,colher,plukke
+1241,jagen::V,caçar,jage
+1242,fischen::V,pescar,fiske
+1243,fassen::V,apanhar,fange
+1244,hüten::V,guardar,vogte
+1245,treiben::V,conduzir,drive
+1246,anbinden::V,atar,binde fast
+1247,füttern::V,dar de comer a,fodre
+1248,melken::V,ordenhar,malke
+1249,hacken::V,rachar,hakke
+1250,gießen::V,regar,hælde
+1251,reifen::V,amadurecer,modne
+1252,zubereiten::V,preparar,tilberede
+1253,kochen::V,cozer,koge
+1254,backen::V,cozer,bage
+1255,braten::V,assar,stege
+1256,braten::V,fritar,stege
+1257,umrühren::V,remexer,røre om
+1258,stricken::V,tricotar,strikke
+1259,stricken::V,fazer malha,strikke
+1260,nähen::V,coser,sy
+1261,nähen::V,costurar,sy
+1262,färben::V,tingir,farve
+1263,färben::V,colorir,farve
+1264,reinigen::V,limpar,rense
+1265,reinigen::V,limpar,gøre ren
+1266,reinigen::V,purificar,rense
+1267,reinigen::V,purificar,gøre ren
+1268,waschen::V,lavar,vaske
+1269,abwischen::V,limpar,tørre af
+1270,abwischen::V,esfregar,tørre af
+1271,spülen::V,lavar,skylle
+1272,spülen::V,enxaguar,skylle
+1273,fegen::V,varrer,feje
+1274,kehren::V,varrer,feje
+1275,baden::V,banhar,bade
+1276,baden::V,tomar banho,bade
+1277,sich waschen::V,lavar-se,vaske sig
+1278,ausziehen::V,despir,tage af
+1279,anziehen::V,vestir,tage på
+1280,sich anziehen::V,vestir-se,klæde sig på
+1281,kämmen::V,pentear,rede
+1282,kämmen::V,pentear,frisere
+1283,schmücken::V,adornar,pynte
+1284,schmücken::V,adornar,smykke
+1285,sagen::V,dizer,sige
+1286,sprechen::V,falar,snakke
+1287,reden::V,falar,tale
+1288,reden::V,falar,snakke
+1289,sich unterhalten::V,conversar,snakke sammen
+1290,fragen::V,perguntar,spørge
+1291,bitten::V,pedir,bede
+1292,erzählen::V,contar,berette
+1293,erzählen::V,contar,fortælle
+1294,mitteilen::V,comunicar,meddele
+1295,mitteilen::V,participar,meddele
+1296,nennen::V,nomear,nævne
+1297,nennen::V,apelidar,nævne
+1298,rufen::V,chamar,råbe
+1299,prahlen::V,gabar-se,prale
+1300,prahlen::V,vangloriar-se,prale
+1301,übersetzen::V,traduzir,oversætte
+1302,denken::V,pensar,tænke
+1303,glauben::V,crer,tro
+1304,bemerken::V,notar,bemærke
+1305,bemerken::V,notar,lægge mærke til
+1306,bemerken::V,observar,bemærke
+1307,bemerken::V,observar,lægge mærke til
+1308,erkennen::V,reconhecer,genkende
+1309,begreifen::V,apreender,begribe
+1310,begreifen::V,compreender,begribe
+1311,verstehen::V,entender,forstå
+1312,verstehen::V,compreender,forstå
+1313,lernen::V,aprender,lære
+1314,wissen::V,saber,vide
+1315,sich erinnern an::V,lembrar-se de,mindes
+1316,sich erinnern an::V,lembrar-se de,huske på
+1317,sich erinnern an::V,recordar-se de,mindes
+1318,sich erinnern an::V,recordar-se de,huske på
+1319,vergessen::V,esquecer,glemme
+1320,messen::V,medir,måle
+1321,zählen::V,contar,tælle
+1322,rechnen::V,calcular,regne
+1323,lesen::V,ler,læse
+1324,malen::V,pintar,male
+1325,zeichnen::V,desenhar,tegne
+1326,schreiben::V,escrever,skrive
+1327,besitzen::V,possuir,eje
+1328,besitzen::V,possuir,besidde
+1329,kaufen::V,comprar,købe
+1330,verkaufen::V,vender,sælge
+1331,bezahlen::V,pagar,betale
+1332,zahlen::V,pagar,betale
+1333,beherrschen::V,imperar,beherske
+1334,ertragen::V,suportar,tåle
+1335,ertragen::V,suportar,udholde

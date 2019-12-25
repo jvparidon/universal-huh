@@ -1,0 +1,1384 @@
+,Concept_ID,da,hr
+0,Auge::N,øje,oko
+1,Ohr::N,øre,uho
+2,Nase::N,næse,nos
+3,Mund::N,mund,usta
+4,Zahn::N,tand,zub
+5,Zunge::N,tunge,jezik
+6,Lippe::N,læbe,usna
+7,Wange::N,kind,obraz
+8,Gesicht::N,ansigt,lice
+9,Stirn::N,pande,čelo
+10,Haar::N,hår,kosa
+11,Schnurrbart::N,overskæg,brkovi
+12,Bart::N,skæg,brada
+13,Kinn::N,hage,brada
+14,Kinn::N,hage,podbradak
+15,Kiefer[Anatomie]::N,kæbe,čeljust
+16,Kehle::N,strube,grlo
+17,Hals::N,hals,vrat
+18,Genick::N,nakke,zatiljak
+19,Kopf::N,hoved,glava
+20,Rücken::N,ryg,leđa
+21,Rücken::N,ryg,hrbat
+22,Bauch::N,mave,trbuh
+23,Nabel::N,navle,pupak
+24,Busen::N,barm,sisa
+25,Busen::N,barm,njedra
+26,Brust::N,bryst,prsa
+27,Schulter::N,skulder,rame
+28,Schulter::N,skulder,pleći
+29,Arm::N,arm,ruka
+30,Ellenbogen::N,albue,lakat
+31,Hand::N,hånd,ruka
+32,Handfläche::N,håndflade,dlan
+33,Finger::N,finger,prst
+34,Fingernagel::N,fingernegl,nokat
+35,Nagel[Anatomie]::N,negl,nokat
+36,Zeh::N,tå,nozni prst
+37,Fuß::N,fod,noga
+38,Fuß::N,fod,stopalo
+39,Ferse::N,hæl,peta
+40,Knie::N,knæ,koljeno
+41,Oberschenkel::N,lår,bedro
+42,Bein::N,ben,noga
+43,Körper::N,krop,tijelo
+44,Körper::N,legeme,tijelo
+45,Haut::N,hud,put
+46,Haut::N,hud,koža
+47,Blut::N,blod,krv
+48,Ader::N,åre,žila
+49,Sehne::N,sene,tetiva
+50,Knochen::N,ben,kost
+51,Gehirn::N,hjerne,
+52,Herz::N,hjerte,srce
+53,Magen::N,mave,stomak
+54,Magen::N,mave,želudac
+55,Leber::N,lever,jetra
+56,Atem::N,ånde,dah
+57,Hunger::N,sult,glad
+58,Träne::N,tåre,suza
+59,Geschmack::N,smag,ukus
+60,Geruch::N,lugt,njuh
+61,Geruch::N,lugt,miris
+62,Schlaf::N,søvn,san
+63,Traum::N,drøm,san
+64,Himmel::N,himmel,nebo
+65,Sonne::N,sol,sunce
+66,Mond::N,måne,mjesec
+67,Stern::N,stjerne,zvijezda
+68,Luft::N,luft,zrak
+69,Wind::N,vind,vjetar
+70,Welle::N,bølge,val
+71,Welle::N,bølge,talas
+72,Wasser::N,vand,voda
+73,Stein::N,sten,kamen
+74,Boden::N,jord,tlo
+75,Boden::N,jord,zemlja
+76,Erde::N,jord,zemlja
+77,Staub::N,støv,prah
+78,Staub::N,støv,prašina
+79,Rauch::N,røg,dim
+80,Funke::N,gnist,iskra
+81,Funke::N,gnist,varnica
+82,Feuer::N,ild,vatra
+83,Licht::N,lys,svjetlo
+84,Schatten::N,skygge,hlad
+85,Schatten::N,skygge,sjena
+86,Wetter::N,vejr,vrijeme
+87,Nebel::N,tåge,magla
+88,Wolke::N,sky,oblak
+89,Regen::N,regn,kiša
+90,Schnee::N,sne,snijeg
+91,Eis::N,is,led
+92,Frost::N,frost,mraz
+93,Kälte::N,kulde,studen
+94,Kälte::N,kulde,hladnoća
+95,Hitze::N,hede,vrućina
+96,Raureif::N,rimfrost,inje
+97,Regenbogen::N,regnbue,duga
+98,Donner::N,torden,grom
+99,Donner::N,torden,grmljavina
+100,Strömung::N,strømning,struja
+101,Strömung::N,strømning,strujanje
+102,Tropfen::N,dråbe,kap
+103,Tropfen::N,dråbe,kaplja
+104,Schaum::N,skum,pjena
+105,Schmutz::N,snavs,nečistoća
+106,Schmutz::N,snavs,prljavština
+107,See::N,sø,jezero
+108,Sumpf::N,sump,bara
+109,Moor::N,mose,močvara
+110,Wiese::N,eng,livada
+111,Wald::N,skov,šuma
+112,Hügel::N,høj,brijeg
+113,Hügel::N,høj,brežuljak
+114,Hügel::N,bakke,brijeg
+115,Hügel::N,bakke,brežuljak
+116,Anhöhe::N,høj,uzvišica
+117,Anhöhe::N,bakke,uzvišica
+118,Berg::N,bjerg,brdo
+119,Gipfel::N,top,vrh
+120,Höhle::N,hule,pećina
+121,Höhle::N,hule,spilja
+122,Abhang::N,skrænt,obronak
+123,Abhang::N,skrænt,nizbrdica
+124,Abhang::N,skråning,obronak
+125,Abhang::N,skråning,nizbrdica
+126,Quelle::N,kilde,izvor
+127,Quelle::N,kilde,vrelo
+128,Bach::N,bæk,potok
+129,Fluss::N,flod,rijeka
+130,Ufer::N,bred,obala
+131,Küste::N,kyst,obala
+132,Küste::N,kyst,morska obala
+133,Festland::N,fastland,kopno
+134,Meer::N,hav,more
+135,Bucht::N,bugt,zaliv
+136,Insel::N,ø,ada
+137,Insel::N,ø,otok
+138,Blume::N,blomst,cvijet
+139,Gras::N,græs,trava
+140,Wurzel::N,rod,korijen
+141,Baum::N,træ,drvo
+142,Baum::N,træ,stablo
+143,Stamm::N,stamme,deblo
+144,Stamm::N,stamme,stablo
+145,Rinde::N,bark,kora
+146,Ast::N,gren,grana
+147,Zweig::N,kvist,grana
+148,Blatt::N,blad,list
+149,Birke::N,birk,breza
+150,Kiefer[Baum]::N,fyrretræ,bor
+151,Weide[Baum]::N,piletræ,iva
+152,Weide[Baum]::N,piletræ,vŕba
+153,Tanne::N,gran,jela
+154,Horn::N,horn,rog
+155,Feder::N,fjer,pero
+156,Fell::N,skind,koža
+157,Flügel::N,vinge,krilo
+158,Klaue::N,klov,papak
+159,Kralle::N,klo,pandža
+160,Schwanz::N,hale,rep
+161,Ei::N,æg,jaje
+162,Nest::N,rede,gnijezdo
+163,Bau::N,bo,jazbina
+164,Tier::N,dyr,životinja
+165,Herde::N,flok,krdo
+166,Herde::N,flok,stado
+167,Kuh::N,ko,krava
+168,Bulle::N,tyr,bik
+169,Pferd::N,hest,konj
+170,Schaf::N,får,ovca
+171,Schwein::N,gris,svinja
+172,Hund::N,hund,pas
+173,Hund::N,hund,pseto
+174,Katze::N,kat,mačka
+175,Bär::N,bjørn,medvjed
+176,Eichhörnchen::N,egern,vjeverica
+177,Elch::N,elg,los
+178,Fuchs::N,ræv,lisica
+179,Hase::N,hare,zec
+180,Maus::N,mus,miš
+181,Wolf::N,ulv,vuk
+182,Wolf::N,ulv,kurjak
+183,Vogel::N,fugl,ptica
+184,Schwarm::N,sværm,roj
+185,Schwarm::N,sværm,jato
+186,Huhn::N,høne,kokoš
+187,Hahn::N,hane,kokot
+188,Hahn::N,hane,pijevac
+189,Gans::N,gås,guska
+190,Adler::N,ørn,orao
+191,Ente::N,and,patka
+192,Eule::N,ugle,sova
+193,Kranich::N,trane,ždral
+194,Krähe::N,krage,vrana
+195,Kuckuck::N,gøg,kukavica
+196,Schwan::N,svane,labud
+197,Fisch::N,fisk,riba
+198,Barsch::N,aborre,grgeč
+199,Hecht::N,gedde,štuka
+200,Schlange[Tier]::N,slange,guja
+201,Schlange[Tier]::N,slange,zmija
+202,Wurm::N,orm,crv
+203,Spinne::N,edderkop,pauk
+204,Ameise::N,myre,mrav
+205,Laus::N,lus,uš
+206,Mücke::N,myg,komarac
+207,Fliege::N,flue,muha
+208,Schmetterling::N,sommerfugl,leptir
+209,Beere::N,bær,boba
+210,Beere::N,bær,bobica
+211,Apfel::N,æble,jabuka
+212,Pilz::N,svamp,pečurka
+213,Zwiebel::N,løg,luk
+214,Zwiebel::N,løg,kapula
+215,Saat::N,sæd,sjemenje
+216,Korn::N,korn,zrno
+217,Heu::N,hø,sijeno
+218,Schale::N,skræl,kora
+219,Schale::N,skræl,ljuska
+220,Grube::N,grav,jama
+221,Falle::N,fælde,zamka
+222,Falle::N,fælde,klopka
+223,Schlinge::N,snare,uzao
+224,Schlinge::N,snare,petlja
+225,Spur::N,spor,trag
+226,Spur::N,spor,slijed
+227,Asche::N,aske,pepeo
+228,Dreck::N,snavs,blato
+229,Eisen::N,jern,željezo
+230,Gold::N,guld,zlato
+231,Silber::N,sølv,srebro
+232,Kohle::N,kul,ugalj
+233,Kohle::N,kul,ugljen
+234,Glas::N,glas,staklo
+235,Lehm::N,ler,glina
+236,Lehm::N,ler,ilovača
+237,Sand::N,sand,pijesak
+238,Mensch::N,mennesge,čovjek
+239,Mann::N,mand,muškarac
+240,Frau::N,kvinde,žena
+241,Kind::N,barn,čedo
+242,Kind::N,barn,dijete
+243,Junge::N,dreng,momče
+244,Junge::N,dreng,dječak
+245,Mädchen::N,pige,djevojka
+246,Mädchen::N,pige,djevojčica
+247,Familie::N,familie,obitelj
+248,Familie::N,familie,porodica
+249,Großvater::N,bedstefar,djed
+250,Großmutter::N,bedstemor,baka
+251,Eltern::N,forældre,roditelji
+252,Vater::N,far,otac
+253,Mutter::N,mor,majka
+254,Sohn::N,søn,sin
+255,Tochter::N,datter,kći
+256,Tochter::N,datter,kćerka
+257,Bruder::N,bror,brat
+258,Schwester::N,søster,sestra
+259,Onkel::N,onkel,čika
+260,Onkel::N,onkel,ujak
+261,Tante::N,tante,ujna
+262,Tante::N,tante,tetka
+263,Ehemann::N,ægtemand,muž
+264,Ehemann::N,ægtemand,suprug
+265,Ehefrau::N,hustru,žena
+266,Ehefrau::N,hustru,supruga
+267,Freude::N,glæde,radost
+268,Gelächter::N,latter,grohot
+269,Glück::N,lykke,sreća
+270,Kummer::N,sorg,jad
+271,Kummer::N,sorg,briga
+272,Wunsch::N,ønske,želja
+273,Lust::N,lyst,volja
+274,Geist::N,ånd,duh
+275,Gedanke::N,tanke,misao
+276,Gedächtnis::N,hukommelse,pamćenje
+277,Verstand::N,forstand,um
+278,Verstand::N,forstand,razum
+279,Sinn::N,mening,smisao
+280,Sinn::N,mening,značenje
+281,Sinn::N,betydning,smisao
+282,Sinn::N,betydning,značenje
+283,Grund::N,grund,razlog
+284,Wahrheit::N,sandhed,istina
+285,Gespräch::N,samtale,razgovor
+286,Märchen::N,eventyr,bajka
+287,Erzählung::N,fortælling,priča
+288,Erzählung::N,fortælling,pripovijest
+289,Nachricht::N,efterretning,vijest
+290,Neuigkeit::N,nyhed,novost
+291,Name::N,navn,ime
+292,Rätsel::N,gåde,zagonetka
+293,Rede::N,tale,govor
+294,Rede::N,tale,besjeda
+295,Sprache::N,sprog,jezik
+296,Stimme::N,stemme,glas
+297,Wort::N,ord,riječ
+298,Zeichen::N,tegn,znak
+299,Ruf::N,råb,povik
+300,Ruf::N,råb,poklik
+301,Lärm::N,larm,buka
+302,Lärm::N,larm,galama
+303,Laut::N,lyd,zvuk
+304,Ton::N,tone,ton
+305,Lied::N,sang,pjesma
+306,Ruhe::N,ro,tišina
+307,Ruhe::N,ro,počinak
+308,Ruhe::N,hvile,tišina
+309,Ruhe::N,hvile,počinak
+310,Leute::N,folk,ljudi
+311,Leute::N,mennesker,ljudi
+312,Volk::N,folk,puk
+313,Volk::N,folk,narod
+314,Arbeit::N,arbejde,rad
+315,Arbeit::N,arbejde,posao
+316,Gast::N,gæst,gost
+317,Geschenk::N,gave,dar
+318,Geschenk::N,gave,poklon
+319,Spiel::N,leg,igra
+320,Gesellschaft::N,selskab,društvo
+321,Gesellschaft::N,selskab,kompanija
+322,Hilfe::N,hjælp,pomoć
+323,Freund::N,ven,prijatelj
+324,Kamerad::N,kammerat,drug
+325,Kamerad::N,kammerat,drugar
+326,Angelegenheit::N,sag,posao
+327,Angelegenheit::N,anliggende,posao
+328,Anzahl::N,antal,broj
+329,Anzahl::N,antal,brojnost
+330,Art::N,art,vid
+331,Art::N,art,vrst
+332,Stück::N,stykke,komad
+333,Teil::N,del,dio
+334,Hälfte::N,halvdel,polovina
+335,Kreis::N,cirkel,krug
+336,Kreuz::N,kors,križ
+337,Kreuz::N,kryds,križ
+338,Linie::N,linie,crta
+339,Strich::N,streg,crta
+340,Abstand::N,afstand,razmak
+341,Abstand::N,afstand,odstojanje
+342,Entfernung::N,afstand,udaljenost
+343,Gegend::N,egn,kraj
+344,Gegend::N,egn,predeo
+345,Platz::N,plads,mjesto
+346,Ort::N,sted,mjesto
+347,Seite::N,side,bok
+348,Seite::N,side,strana
+349,Mitte::N,midte,sredina
+350,Gegenstand::N,genstand,predmet
+351,Sache::N,sag,posao
+352,Rand::N,rand,rub
+353,Rand::N,rand,kraj
+354,Kante::N,kant,brid
+355,Kante::N,kant,ivica
+356,Ecke::N,hjørne,ugao
+357,Spitze::N,spids,vrh
+358,Spitze::N,spids,šiljak
+359,Ende::N,ende,konac
+360,Loch::N,hul,rupa
+361,Winkel::N,vinkel,kut
+362,Winkel::N,vinkel,ugao
+363,Muster::N,mønster,uzor
+364,Größe::N,størrelse,veličina
+365,Länge::N,længde,duljina
+366,Höhe::N,højde,visina
+367,Gewicht::N,vægt,težina
+368,Menge::N,mængde,mnoštvo
+369,Menge::N,mængde,količina
+370,Haufen::N,bunke,hrpa
+371,Haufen::N,bunke,gomila
+372,Reihe::N,række,red
+373,Boot::N,båd,čun
+374,Boot::N,båd,čamac
+375,Ruder::N,åre,veslo
+376,Schlitten::N,kælk,saone
+377,Schlitten::N,slæde,saone
+378,Ski::N,ski,ski
+379,Ski::N,ski,smučka
+380,Lagerfeuer::N,lejrbål,logorska vatra
+381,Last::N,last,tovar
+382,Last::N,byrde,tovar
+383,Gang::N,gang,hod
+384,Schritt::N,skridt,korak
+385,Norden::N,nord,sjever
+386,Süden::N,syd,jug
+387,Westen::N,vest,zapad
+388,Osten::N,øst,istok
+389,Holz::N,træ,drvo
+390,Brett::N,bræt,daska
+391,Platte::N,plade,ploča
+392,Stütze::N,støtte,potpora
+393,Stange::N,stang,motka
+394,Stock::N,stok,štap
+395,Stock::N,stok,palica
+396,Stab::N,stav,štap
+397,Stab::N,stav,šipka
+398,Rohr::N,rør,cijev
+399,Haus::N,hus,kuća
+400,Heim::N,hjem,dom
+401,Ofen::N,ovn,peć
+402,Fußboden::N,gulv,pod
+403,Tisch::N,bord,stol
+404,Tisch::N,bord,trpeza
+405,Stuhl::N,stol,stolac
+406,Stuhl::N,stol,stolica
+407,Wiege::N,vugge,kolijevka
+408,Bett::N,seng,krevet
+409,Bett::N,seng,postelja
+410,Regal::N,reol,polica
+411,Kiste::N,kasse,sanduk
+412,Fenster::N,vindue,prozor
+413,Tür::N,dør,vrata
+414,Tor::N,port,vrata
+415,Tor::N,port,kapija
+416,Zaun::N,stakit,plot
+417,Zaun::N,stakit,ograda
+418,Dach::N,tag,krov
+419,Leiter::N,stige,ljestve
+420,Leiter::N,stige,ljestvice
+421,Besen::N,kost,metla
+422,Spaten::N,spade,ašov
+423,Schaufel::N,skovl,lopata
+424,Gabel::N,gaffel,viljuška
+425,Löffel::N,ske,žlica
+426,Messer::N,kniv,nož
+427,Nagel::N,søm,čavao
+428,Netz::N,net,mreža
+429,Haken::N,krog,kuka
+430,Griff::N,tag,držak
+431,Griff::N,tag,ručica
+432,Griff::N,håndtag,držak
+433,Griff::N,håndtag,ručica
+434,Schloss::N,lås,brava
+435,Bild::N,billede,slika
+436,Figur::N,figur,figura
+437,Puppe::N,dukke,lutka
+438,Beutel::N,pose,kesa
+439,Bündel::N,bylt,snop
+440,Bündel::N,bylt,svežanj
+441,Bündel::N,bundt,snop
+442,Bündel::N,bundt,svežanj
+443,Tasche::N,taske,torba
+444,Tasche::N,taske,taška
+445,Eimer::N,spand,kabao
+446,Deckel::N,låg,poklopac
+447,Geschirr::N,husgeråd,suđe
+448,Geschirr::N,husgeråd,posuđe
+449,Sack::N,sæk,džak
+450,Sack::N,sæk,vreća
+451,Tasse::N,kop,šalica
+452,Topf::N,gryde,lonac
+453,Kessel::N,kedel,kazan
+454,Essen::N,måltid,obrok
+455,Nahrung::N,mad,hrana
+456,Nahrung::N,næring,hrana
+457,Speise::N,ret,jelo
+458,Fleisch::N,kød,meso
+459,Getreide::N,korn,žito
+460,Getreide::N,korn,žitarice
+461,Brei::N,grød,kaša
+462,Brot::N,brød,kruh
+463,Scheibe::N,skive,kriška
+464,Fett::N,fedt,mast
+465,Fett::N,fedt,salo
+466,Butter::N,smør,buter
+467,Butter::N,smør,maslac
+468,Öl::N,olie,ulje
+469,Salz::N,salt,sol
+470,Suppe::N,suppe,supa
+471,Honig::N,honning,med
+472,Milch::N,mælk,mlijeko
+473,Tee::N,te,čaj
+474,Leder::N,skind,koža
+475,Wolle::N,uld,vuna
+476,Stoff::N,stof,štof
+477,Stoff::N,stof,tkanina
+478,Nadel::N,nål,igla
+479,Faden::N,tråd,nit
+480,Faden::N,tråd,konac
+481,Knopf::N,knap,dugme
+482,Knoten::N,knude,čvor
+483,Knoten::N,knude,uzao
+484,Farbe::N,farve,farba
+485,Kleidung::N,påklædning,odjeća
+486,Hemd::N,skjorte,košulja
+487,Kragen::N,krave,ovratnik
+488,Ärmel::N,ærme,rukav
+489,Hose::N,bukser,hlače
+490,Gürtel::N,bælte,pas
+491,Gürtel::N,bælte,pojas
+492,Mütze::N,hue,kapa
+493,Schuh::N,sko,cipela
+494,Stiefel::N,støvle,čizma
+495,Ring::N,ring,prsten
+496,Band::N,bånd,vrpca
+497,Kamm::N,kam,češalj
+498,Spiegel::N,spejl,zrcalo
+499,Spiegel::N,spejl,ogledalo
+500,Riemen::N,rem,kaiš
+501,Riemen::N,rem,remen
+502,Schnur::N,snor,vrpca
+503,Leine::N,snor,uzica
+504,Decke::N,tæppe,ćebe
+505,Decke::N,tæppe,pokrivač
+506,Kissen::N,pude,jastuk
+507,Tuch::N,sjaltørklæde,rubac
+508,Tuch::N,sjaltørklæde,marama
+509,Handtuch::N,håndklæde,ručnik
+510,Kraft::N,kraft,snaga
+511,Stärke::N,styrke,jakost
+512,Gesundheit::N,sundhed,zdravlje
+513,Krankheit::N,sygdom,bolest
+514,Schmerz::N,smerte,bol
+515,Wunde::N,sår,rana
+516,Fieber::N,feber,groznica
+517,Arznei::N,medicin,lijek
+518,Arznei::N,lægemiddel,lijek
+519,Brücke::N,bro,most
+520,Brücke::N,bro,ćuprija
+521,Brunnen::N,brønd,bunar
+522,Brunnen::N,brønd,zdenac
+523,Weide::N,græsgang,paša
+524,Weide::N,græsgang,pašnjak
+525,Pfad::N,sti,staza
+526,Weg::N,vej,put
+527,Straße::N,gade,drum
+528,Straße::N,gade,cesta
+529,Dorf::N,landsby,selo
+530,Stadt::N,by,grad
+531,Stadt::N,by,varoš
+532,Brief::N,brev,list
+533,Brief::N,brev,pismo
+534,Buch::N,bog,knjiga
+535,Buchstabe::N,bogstav,slovo
+536,Zeitung::N,avis,novine
+537,Leben::N,liv,život
+538,Tod::N,død,smrt
+539,Grab::N,grav,raka
+540,Kirche::N,kirke,crkva
+541,Sünde::N,synd,grijeh
+542,Gott::N,gud,bog
+543,Arbeiter::N,arbejder,radnik
+544,Chef::N,chef,šef
+545,Meister::N,mester,majstor
+546,Arzt::N,læge,liječnik
+547,Lehrer::N,lærer,učitelj
+548,Geld::N,penge,novac
+549,Geschäft::N,forretning,posao
+550,Geschäft::N,forretning,trgovina
+551,Laden::N,butik,dućan
+552,Laden::N,forretning,dućan
+553,Preis::N,pris,cijena
+554,Ware::N,vare,roba
+555,Nutzen::N,nytte,korist
+556,Reichtum::N,rigdom,bogatstvo
+557,Welt::N,verden,svijet
+558,Land::N,land,zemlja
+559,Staat::N,stat,država
+560,König::N,konge,kralj
+561,Macht::N,magt,moć
+562,Macht::N,magt,vlast
+563,Grenze::N,grænse,granica
+564,Krieg::N,krig,rat
+565,Feind::N,fjende,neprijatelj
+566,Gewalt::N,vold,sila
+567,Gewalt::N,vold,nasilje
+568,Kampf::N,kamp,boj
+569,Kampf::N,kamp,borba
+570,Bogen[Waffe]::N,bue,luk
+571,Pfeil::N,pil,strijela
+572,Gewehr::N,gevær,puška
+573,Fehler::N,fejl,pogreška
+574,Fehler::N,fejl,griješka
+575,Lüge::N,løgn,laž
+576,Schaden::N,skade,šteta
+577,Unglück::N,uheld,nesreća
+578,Unglück::N,ulykke,nesreća
+579,Schuld::N,skyld,krivnja
+580,Alter::N,alder,dob
+581,Schluss::N,slut,kraj
+582,Schluss::N,slut,konac
+583,Schluss::N,slutning,kraj
+584,Schluss::N,slutning,konac
+585,Zeit::N,tid,doba
+586,Zeit::N,tid,vrijeme
+587,Tag::N,dag,dan
+588,Morgen::N,morgen,jutro
+589,Mittag::N,middag,podne
+590,Abend::N,aften,veče
+591,Abend::N,aften,večer
+592,Nacht::N,nat,noć
+593,Woche::N,uge,sedmica
+594,Monat::N,måned,mjesec
+595,Jahr::N,år,godina
+596,Frühling::N,forår,proljeće
+597,Sommer::N,sommer,ljeto
+598,Herbst::N,efterår,jesen
+599,Winter::N,vinter,zima
+600,Januar::N,januar,januar
+601,Januar::N,januar,siječanj
+602,Februar::N,februar,veljača
+603,Februar::N,februar,februar
+604,März::N,marts,mart
+605,März::N,marts,ožujak
+606,April::N,april,april
+607,April::N,april,travanj
+608,Mai::N,maj,maj
+609,Mai::N,maj,svibanj
+610,Juni::N,juni,juni
+611,Juni::N,juni,lipanj
+612,Juli::N,juli,juli
+613,Juli::N,juli,srpanj
+614,August::N,august,august
+615,August::N,august,kolovoz
+616,September::N,september,rujan
+617,September::N,september,septembar
+618,Oktober::N,oktober,oktobar
+619,Oktober::N,oktober,listopad
+620,November::N,november,studeni
+621,November::N,november,novembar
+622,Dezember::N,december,prosinac
+623,Montag::N,mandag,ponedjeljak
+624,Montag::N,mandag,ponedjeljnik
+625,Dienstag::N,tirsdag,utorak
+626,Dienstag::N,tirsdag,utornik
+627,Mittwoch::N,onsdag,srijeda
+628,Donnerstag::N,torsdag,četvrtak
+629,Freitag::N,fredag,petak
+630,Samstag::N,lørdag,subota
+631,Sonntag::N,søndag,nedjelja
+632,groß::A,stor,velik
+633,klein::A,lille,mali
+634,klein::A,lille,malen
+635,lang::A,lang,dug
+636,lang::A,lang,dugačak
+637,kurz::A,kort,kratak
+638,breit::A,bred,širok
+639,schmal::A,smal,uski
+640,schmal::A,smal,uzak
+641,dicht::A,tæt,gust
+642,dick[Gegenstand]::A,tyk,debeo
+643,dünn::A,tynd,tanak
+644,fein::A,fin,fin
+645,fein::A,fin,tanak
+646,fest::A,fast,čvrst
+647,flach::A,flad,ravan
+648,flach::A,flad,plosnat
+649,glatt::A,glat,gladak
+650,hart::A,hård,tvrd
+651,weich::A,blød,mek
+652,weich::A,blød,mekan
+653,rund::A,rund,okrugao
+654,spitz::A,spids,oštar
+655,spitz::A,spids,šiljast
+656,scharf::A,skarp,oštar
+657,scharf::A,skarp,bridak
+658,stumpf::A,sløv,tup
+659,stumpf::A,stump,tup
+660,schwer::A,tung,težak
+661,schön::A,skøn,krasan
+662,heiß::A,hed,vruć
+663,warm::A,varm,topao
+664,kalt::A,kold,hladan
+665,kühl::A,kølig,hladan
+666,frisch::A,frisk,svjež
+667,feucht::A,fugtig,vlažan
+668,nass::A,våd,mokar
+669,trocken::A,tør,suh
+670,voll::A,fuld,pun
+671,leer::A,tom,prazan
+672,offen::A,åben,otvoren
+673,geschlossen::A,lukket,zatvoren
+674,sauber::A,ren,čist
+675,schmutzig::A,snavset,nečist
+676,schmutzig::A,snavset,blatan
+677,roh::A,rå,sirov
+678,reif::A,moden,zreo
+679,lecker::A,lækker,tečan
+680,lecker::A,lækker,ukusan
+681,süß::A,sød,sladak
+682,bitter::A,bitter,gorak
+683,sauer::A,sur,kiseo
+684,hell::A,lys,vedar
+685,hell::A,lys,svijetao
+686,dunkel::A,mørk,taman
+687,schwarz::A,sort,crn
+688,weiß::A,hvid,bio
+689,weiß::A,hvid,bijel
+690,rot::A,rød,crven
+691,gelb::A,gul,žut
+692,blau::A,blå,plav
+693,blau::A,blå,modar
+694,grün::A,grøn,zelen
+695,grau::A,grå,siv
+696,bunt::A,broget,šaren
+697,billig::A,billig,jeftin
+698,teuer::A,dyr,skup
+699,wertvoll::A,værdifuld,vrijedan
+700,wertvoll::A,værdifuld,dragocjen
+701,blind::A,blind,slijep
+702,taub::A,døv,gluh
+703,kräftig::A,kraftig,snažan
+704,stark::A,stærk,jak
+705,stark::A,stærk,snažan
+706,schwach::A,svag,slab
+707,fett::A,fed,pretio
+708,schlank::A,slank,vitak
+709,hübsch::A,køn,zgodan
+710,böse::A,ond,zao
+711,böse::A,ond,opak
+712,böse::A,slem,zao
+713,böse::A,slem,opak
+714,dumm::A,dum,glup
+715,faul::A,doven,lijen
+716,fleißig::A,flittig,radin
+717,fleißig::A,flittig,marljiv
+718,geizig::A,gerrig,škrt
+719,klug::A,klog,razborit
+720,geschickt::A,dygtig,vješt
+721,geschickt::A,behændig,vješt
+722,lieb::A,rar,drag
+723,lustig::A,lystig,veseo
+724,sanft::A,blid,blag
+725,hungrig::A,sulten,gladan
+726,krank::A,syg,bolestan
+727,nackt::A,nøgen,nag
+728,traurig::A,bedrøvet,tužan
+729,traurig::A,bedrøvet,žalostan
+730,lebendig::A,levende,živ
+731,gut::A,god,dobar
+732,schlecht::A,dårlig,loš
+733,schlecht::A,dårlig,rđav
+734,richtig::A,rigtig,tačan
+735,richtig::A,rigtig,ispravan
+736,schlimm::A,slem,zao
+737,schlimm::A,slem,zločest
+738,wahr::A,sand,istinit
+739,alt::A,gammel,star
+740,neu::A,ny,nov
+741,ehemalig::A,forhenværende,bivši
+742,alt[Lebewesen]::A,gammel,star
+743,jung::A,ung,mlad
+744,arm::A,fattig,ubog
+745,arm::A,fattig,siromašan
+746,reich::A,rig,bogat
+747,bekannt::A,kendt,poznat
+748,berühmt::A,berømt,čuven
+749,berühmt::A,berømt,slavan
+750,fremd::A,fremmed,tuđ
+751,fremd::A,fremmed,stran
+752,verschieden::A,forskellig,razan
+753,verschieden::A,forskellig,različan
+754,nah::A,nær,blizak
+755,fern::A,fjern,dalek
+756,fern::A,fjern,daljnji
+757,linker::A,venstre,lijevi
+758,rechter::A,højre,desni
+759,anderer::A,anden,drugi
+760,anderer::A,anden,drugačiji
+761,erster::A,første,prvi
+762,zweiter::A,anden,drugi
+763,dritter::A,tredje,treći
+764,letzter::A,sidste,zadnji
+765,allein::ADV,alene,sam
+766,auf einmal::ADV,på én gang,istodobno
+767,zusammen::ADV,sammen,skupa
+768,zusammen::ADV,sammen,zajedno
+769,lange::ADV,længe,dugo
+770,plötzlich::ADV,pludselig,naglo
+771,plötzlich::ADV,pludselig,iznenada
+772,sofort::ADV,straks,odmah
+773,später::ADV,senere,kasnije
+774,jetzt::ADV,nu,sad
+775,jetzt::ADV,nu,sada
+776,heute::ADV,i dag,danas
+777,morgen::ADV,i morgen,sutra
+778,bald::ADV,snart,skoro
+779,bald::ADV,snart,doskora
+780,dann::ADV,så,zatim
+781,gestern::ADV,i går,juče
+782,gestern::ADV,i går,jučer
+783,einst::ADV,engang,negda
+784,einst::ADV,engang,nekada
+785,damals::ADV,dengang,tada
+786,damals::ADV,dengang,onda
+787,danach::ADV,derefter,poslije
+788,danach::ADV,derefter,nakon toga
+789,vorher::ADV,før,prije
+790,vorher::ADV,før,prije toga
+791,vorher::ADV,forud,prije
+792,vorher::ADV,forud,prije toga
+793,zuerst::ADV,først,prvo
+794,zuerst::ADV,først,najprije
+795,einmal::ADV,en gang,jednom
+796,einmal::ADV,en gang,jedanput
+797,manchmal::ADV,sommetider,katkad
+798,manchmal::ADV,sommetider,katkada
+799,oft::ADV,ofte,često
+800,immer::ADV,altid,vazda
+801,immer::ADV,altid,uvijek
+802,niemals::ADV,aldrig,nikad
+803,niemals::ADV,aldrig,nikada
+804,hier::ADV,her,tu
+805,hier::ADV,her,ovdje
+806,hierhin::ADV,hid,amo
+807,hierhin::ADV,hid,ovamo
+808,hierhin::ADV,herhen,amo
+809,hierhin::ADV,herhen,ovamo
+810,von hier::ADV,herfra,odavde
+811,dort::ADV,der,ondje
+812,dorthin::ADV,derhen,onamo
+813,geradeaus::ADV,lige ud,ravno
+814,vorwärts::ADV,fremad,naprijed
+815,rückwärts::ADV,baglæns,natrag
+816,zurück::ADV,tilbage,nazad
+817,zurück::ADV,tilbage,natrag
+818,unten::ADV,nede,dolje
+819,unten::ADV,forneden,dolje
+820,hinab::ADV,ned,nizbrdo
+821,hinab::ADV,nedad,nizbrdo
+822,oben::ADV,oppe,gore
+823,oben::ADV,ovenpå,gore
+824,hinauf::ADV,op,uzbrdo
+825,hinauf::ADV,opad,uzbrdo
+826,überall::ADV,overalt,svuda
+827,überall::ADV,overalt,svagdje
+828,nicht::ADV,ikke,ne
+829,ein wenig::ADV,lidt,malo
+830,kaum::ADV,knap,tek
+831,kaum::ADV,knap,jedva
+832,kaum::ADV,næppe,tek
+833,kaum::ADV,næppe,jedva
+834,sehr::ADV,meget,jako
+835,sehr::ADV,meget,veoma
+836,so::ADV,så,tako
+837,so::ADV,så,ovako
+838,noch::ADV,endnu,još
+839,nur::ADV,kun,samo
+840,nur::ADV,bare,samo
+841,schon::ADV,alt,već
+842,schon::ADV,allerede,već
+843,wieder::ADV,igen,opet
+844,wieder::ADV,igen,ponovo
+845,vergebens::ADV,forgæves,uzalud
+846,vergebens::ADV,forgæves,zabadava
+847,vor::PRP,foran,pred
+848,vor::PRP,foran,ispred
+849,vor::PRP,uden for,pred
+850,vor::PRP,uden for,ispred
+851,hinter::PRP,bag,za
+852,hinter::PRP,bag,iza
+853,hinter::PRP,bagved,za
+854,hinter::PRP,bagved,iza
+855,unter::PRP,under,pod
+856,unter::PRP,under,ispod
+857,durch::PRP,gennem,po
+858,durch::PRP,gennem,kroz
+859,durch::PRP,igennem,po
+860,durch::PRP,igennem,kroz
+861,neben::PRP,ved siden af,kraj
+862,neben::PRP,ved siden af,pored
+863,neben::PRP,ved siden af,pokraj
+864,zwischen::PRP,mellem,među
+865,zwischen::PRP,mellem,između
+866,wegen::PRP,på grund af,radi
+867,wegen::PRP,på grund af,zbog
+868,dies::PRN,dette,ovo
+869,das::PRN,det,to
+870,das::PRN,det,ono
+871,alles::PRN,alt,sve
+872,ich::PRN,jeg,ja
+873,du::PRN,du,ti
+874,er::PRN,han,on
+875,wir::PRN,vi,mi
+876,ihr::PRN,I,vi
+877,sie::PRN,de,oni
+878,was::FPRN,hvad,što
+879,wer::FPRN,hvem,tko
+880,wo::FADV,hvor,gdje
+881,wohin::FADV,hvorhen,kuda
+882,wohin::FADV,hvorhen,kamo
+883,wie::FADV,hvordan,kako
+884,warum::FADV,hvorfor,zašto
+885,wieviel::FNUM,hvor meget,koliko
+886,eins::NUM,én,jedan
+887,zwei::NUM,to,dva
+888,drei::NUM,tre,tri
+889,vier::NUM,fire,četiri
+890,fünf::NUM,fem,pet
+891,sechs::NUM,seks,šest
+892,sieben::NUM,syv,sedam
+893,acht::NUM,otte,osam
+894,neun::NUM,ni,devet
+895,zehn::NUM,ti,deset
+896,elf::NUM,elleve,jedanaest
+897,zwölf::NUM,tolv,dvanaest
+898,zwanzig::NUM,tyve,dvadeset
+899,dreißig::NUM,tredive,trideset
+900,vierzig::NUM,fyrre,četrdeset
+901,vierzig::NUM,fyrretyve,četrdeset
+902,fünfzig::NUM,halvtreds,pedeset
+903,sechzig::NUM,tres,šezdeset
+904,siebzig::NUM,halvfjerds,sedamdeset
+905,achtzig::NUM,firs,osamdeset
+906,neunzig::NUM,halvfems,devetdeset
+907,hundert::NUM,hundrede,sto
+908,tausend::NUM,tusind,tisuća
+909,und::CNJ,og,i
+910,und::CNJ,og,te
+911,oder::CNJ,eller,ili
+912,stehen::V,stå,stajati
+913,sitzen::V,sidde,sjediti
+914,liegen::V,ligge,ležati
+915,hängen::V,hænge,visiti
+916,werden::V,blive,postati
+917,werden::V,blive,činiti se
+918,passieren::V,ske,desiti se
+919,passieren::V,ske,dogoditi se
+920,passieren::V,hænde,desiti se
+921,passieren::V,hænde,dogoditi se
+922,beginnen::V,begynde,početi
+923,enden::V,ende,prestati
+924,enden::V,ende,svršiti se
+925,wechseln::V,veksle,mijenjati se
+926,aufgehen[Sonne]::V,gå op,izići
+927,aufgehen[Sonne]::V,stå op,izići
+928,untergehen[Sonne]::V,gå ned,zaći
+929,scheinen[Sonne]::V,skinne,sijati
+930,donnern::V,tordne,grmjeti
+931,wehen::V,blæse,duhati
+932,strömen::V,strømme,strujati
+933,fließen::V,flyde,teći
+934,sich drehen::V,dreje sig,obrtati se
+935,sich drehen::V,dreje sig,vrtjeti se
+936,schwanken::V,vakle,teturati
+937,schwanken::V,vakle,kolebati se
+938,schwingen::V,svinge,njihati
+939,schwingen::V,svinge,titrati
+940,fallen::V,falde,padati
+941,brennen::V,brænde,gorjeti
+942,rauchen::V,ryge,dimiti se
+943,regnen::V,regne,kišiti
+944,regnen::V,regne,daždjeti
+945,gefrieren::V,fryse,smrznuti se
+946,tauen::V,tø,kopnjeti
+947,tauen::V,tø,kraviti se
+948,schmelzen::V,smelte,topiti se
+949,trocknen::V,tørre,sušiti se
+950,sieden::V,koge,kipjeti
+951,sieden::V,koge,ključati
+952,faulen::V,rådne,gnjiti
+953,verfaulen::V,rådne,sagnjiti
+954,reißen::V,briste,otrgnuti se
+955,versinken::V,synke,tonuti
+956,versinken::V,synke,propasti
+957,versinken::V,synke ned,tonuti
+958,versinken::V,synke ned,propasti
+959,vergehen::V,forløbe,prolaziti
+960,erscheinen::V,vise sig,pojaviti se
+961,verschwinden::V,forsvinde,nestati
+962,verschwinden::V,forsvinde,izgubiti se
+963,sinken::V,synke,trgnuti
+964,sinken::V,synke,spustiti se
+965,abnehmen::V,aftage,opasti
+966,zunehmen::V,tiltage,povećati se
+967,steigen::V,stige,uzići
+968,steigen::V,stige,nadoći
+969,wachsen::V,gro,rasti
+970,wachsen::V,vokse,rasti
+971,glänzen::V,glinse,blistati
+972,glänzen::V,glinse,sjati se
+973,funkeln::V,tindre,svjetlucati
+974,lärmen::V,larme,bučati
+975,lärmen::V,larme,galamiti
+976,läuten::V,ringe,zvoniti
+977,klingeln::V,ringe,zvoniti
+978,klirren::V,klirre,zvečati
+979,brausen::V,bruse,hujati
+980,rauschen::V,suse,šumiti
+981,rauschen::V,suse,šuškati
+982,klingen::V,lyde,zvučati
+983,klingen::V,klinge,zvučati
+984,bellen::V,gø,lajati
+985,heulen::V,hyle,zavijati
+986,blasen::V,blæse,puhati
+987,pfeifen::V,fløjte,fućkati
+988,schreien::V,skrige,vikati
+989,schreien::V,skrige,kričati
+990,stöhnen::V,stønne,stenjati
+991,zittern::V,dirre,drhtati
+992,zittern::V,dirre,trepetati
+993,zittern::V,skælve,drhtati
+994,zittern::V,skælve,trepetati
+995,leben::V,leve,živjeti
+996,geboren werden::V,fødes,roditi se
+997,atmen::V,ånde,disati
+998,trinken::V,drikke,piti
+999,essen::V,spise,jesti
+1000,schlucken::V,synke,gutati
+1001,müde werden::V,blive træt,umoriti se
+1002,einschlafen::V,falde i søvn,usnuti
+1003,einschlafen::V,falde i søvn,zaspati
+1004,schlafen::V,sove,spati
+1005,aufwachen::V,vågne,probuditi se
+1006,aufstehen::V,stå op,ustati
+1007,sich erholen::V,komme sig,odmoriti se
+1008,krank werden::V,blive syg,oboljeti se
+1009,krank werden::V,blive syg,razboljeti se
+1010,krank sein::V,være syg,bolovati
+1011,schmerzen::V,smerte,boljeti
+1012,husten::V,hoste,kašljati
+1013,genesen::V,komme sig,ozdraviti
+1014,genesen::V,komme sig,oporaviti se
+1015,sterben::V,dø,umrijeti
+1016,umkommen::V,omkomme,skapati
+1017,sich bewegen::V,bevæge sig,gibati se
+1018,sich bewegen::V,bevæge sig,kretati se
+1019,sich rühren::V,røre på sig,maknuti se
+1020,sich erheben::V,rejse sig,dići se
+1021,sich setzen::V,sætte sig,sjesti
+1022,laufen::V,løbe,hodati
+1023,schreiten::V,skride,stupati
+1024,spazierengehen::V,gå en tur,šetati se
+1025,eilen::V,ile,hitati
+1026,sich beeilen::V,skynde sig,požuriti se
+1027,sausen::V,suse,juriti
+1028,rennen::V,løbe,trčati
+1029,rennen::V,rende,trčati
+1030,springen::V,hoppe,skakati
+1031,springen::V,springe,skakati
+1032,klettern::V,klatre,popeti se
+1033,klettern::V,klatre,penjati se
+1034,schaukeln::V,gynge,ljuljati se
+1035,kriechen::V,krybe,puzati
+1036,kriechen::V,krybe,gmizati
+1037,schwimmen::V,svømme,plivati
+1038,tauchen::V,dykke,roniti
+1039,tauchen::V,dykke,gnjuriti
+1040,rudern::V,ro,veslati
+1041,fahren::V,køre,voziti se
+1042,fliegen::V,flyve,letjeti
+1043,fliegen::V,flyve,lijetati
+1044,gehen::V,gå,ići
+1045,weggehen::V,gå bort,otići
+1046,abfahren::V,køre bort,krenuti
+1047,abfahren::V,køre bort,otputovati
+1048,anhalten::V,standse,stati
+1049,anhalten::V,standse,zaustaviti
+1050,hineingehen::V,gå ind,ulaziti
+1051,eintreten::V,træde ind,ući
+1052,kommen::V,komme,doći
+1053,ankommen::V,ankomme,stići
+1054,zurückkommen::V,komme tilbage,vratiti se
+1055,zurückkommen::V,komme tilbage,povratiti se
+1056,bleiben::V,blive,ostati
+1057,bleiben::V,forblive,ostati
+1058,warten::V,vente,čekati
+1059,erwarten::V,vente,očekivati
+1060,erwarten::V,afvente,očekivati
+1061,suchen::V,søge,tražiti
+1062,finden::V,finde,naći
+1063,versuchen::V,forsøge,pokušati
+1064,vorbereiten::V,forberede,spremiti
+1065,vorbereiten::V,forberede,pripremiti
+1066,lieben::V,elske,voljeti
+1067,mögen::V,holde af,voljeti
+1068,mögen::V,kunne lide,voljeti
+1069,lachen::V,le,smijati se
+1070,rühren::V,røre,taknuti
+1071,weinen::V,græde,plakati
+1072,schimpfen::V,skænde,psovati
+1073,sich ärgern::V,ærgre sig,ljutiti se
+1074,sich fürchten::V,være bange,bojati se
+1075,fürchten::V,være bange for,bojati se
+1076,fliehen::V,flygte,pobjeći
+1077,flüchten::V,flygte,utjeći
+1078,sehen::V,se,vidjeti
+1079,anschauen::V,se på,ogledati
+1080,anschauen::V,betragte,ogledati
+1081,ansehen::V,anse,gledati
+1082,hören::V,høre,čuti
+1083,zuhören::V,høre til,slušati
+1084,probieren::V,smage,probati
+1085,probieren::V,smage på,probati
+1086,riechen::V,lugte,osjećati miris
+1087,fühlen::V,føle,osjećati
+1088,scheinen::V,synes,činiti se
+1089,zu sehen sein::V,synes,biti vidljiv
+1090,vernehmen::V,erfare,saznati
+1091,frieren::V,fryse,zima je
+1092,tun::V,gøre,raditi
+1093,können::V,kunne,moći
+1094,wollen::V,ville,htjeti
+1095,anfangen::V,begynde,početi
+1096,beenden::V,afslutte,svršiti
+1097,beenden::V,afslutte,dovršiti
+1098,aufhören::V,ophøre,prestati
+1099,aufhören::V,holde op,prestati
+1100,gelingen::V,lykkes,uspjeti
+1101,geraten::V,blive,desiti se
+1102,öffnen::V,åbne,otvoriti
+1103,schließen::V,lukke,zatvoriti
+1104,stellen::V,stille,metnuti
+1105,stellen::V,stille,postaviti
+1106,setzen::V,sætte,posaditi
+1107,legen::V,lægge,polagati
+1108,berühren::V,berøre,doticati
+1109,berühren::V,berøre,dodirivati
+1110,verbinden::V,forbinde,spojiti
+1111,verbinden::V,forbinde,zavezati
+1112,bedecken::V,dække,pokriti
+1113,bedecken::V,bedække,pokriti
+1114,aufhängen::V,hænge,objesiti
+1115,aufhängen::V,hænge op,objesiti
+1116,anzünden::V,tænde,upaliti
+1117,anzünden::V,tænde,zapaliti
+1118,anzünden::V,antænde,upaliti
+1119,anzünden::V,antænde,zapaliti
+1120,aufheben::V,løfte,podići
+1121,aufheben::V,løfte,podignuti
+1122,aufheben::V,tage op,podići
+1123,aufheben::V,tage op,podignuti
+1124,zurücklassen::V,lade tilbage,ostaviti
+1125,zurücklassen::V,lade tilbage,pustiti natrag
+1126,verlieren::V,miste,izgubiti
+1127,fallen lassen::V,tabe,ispustiti
+1128,fallen lassen::V,droppe,ispustiti
+1129,machen::V,gøre,uraditi
+1130,machen::V,gøre,načiniti
+1131,machen::V,gøre,napraviti
+1132,herstellen::V,fremstille,proizvesti
+1133,bauen::V,bygge,graditi
+1134,reparieren::V,reparere,popraviti
+1135,verbessern::V,rette,poboljšati
+1136,verbessern::V,forbedre,poboljšati
+1137,ändern::V,ændre,promijeniti
+1138,graben::V,grave,kopati
+1139,graben::V,grave,kopkati
+1140,beugen::V,bøje,saviti
+1141,biegen::V,bøje,saviti
+1142,biegen::V,bøje,sagnuti
+1143,drehen::V,dreje,vrtjeti
+1144,wenden::V,vende,obrnuti
+1145,umdrehen::V,dreje om,okrenuti
+1146,umdrehen::V,dreje om,prevŕnuti
+1147,heben::V,hæve,dizati
+1148,hochheben::V,løfte,dignuti
+1149,ergreifen::V,gribe fat i,uhvatiti
+1150,ergreifen::V,gribe fat i,prihvatiti
+1151,halten::V,holde,držati
+1152,drücken::V,trykke,pritiskivati
+1153,schieben::V,skyde,gurati
+1154,schieben::V,skubbe,gurati
+1155,kratzen::V,klø,česati
+1156,kratzen::V,klø,grepsti
+1157,kratzen::V,kradse,česati
+1158,kratzen::V,kradse,grepsti
+1159,lecken::V,slikke,lizati
+1160,beißen::V,bide,ujesti
+1161,beißen::V,bide,gristi
+1162,abreißen::V,rive af,otkinuti
+1163,abschneiden::V,skære af,odrezati
+1164,binden::V,binde,vezati
+1165,stecken::V,stikke,turiti
+1166,brechen::V,brække,slomiti
+1167,klopfen::V,banke,lupati
+1168,klopfen::V,banke,kucati
+1169,hauen::V,hugge,tući
+1170,hauen::V,hugge,udarati
+1171,kleben::V,klistre,lijepiti
+1172,reiben::V,gnide,trti
+1173,streichen::V,smøre,namazati
+1174,schleifen::V,slibe,brusiti
+1175,schneiden::V,skære,rezati
+1176,schneiden::V,klippe,rezati
+1177,rütteln::V,ruske,drmati
+1178,schütteln::V,ryste,tresti
+1179,schwenken::V,svinge,mahati
+1180,schütten::V,hælde,sipati
+1181,schütten::V,hælde,lijevati
+1182,füllen::V,fylde,napuniti
+1183,einwickeln::V,pakke ind,umotati
+1184,einwickeln::V,pakke ind,zamotati
+1185,tragen::V,bære,nositi
+1186,schleppen::V,slæbe,tegliti
+1187,ziehen::V,trække,vući
+1188,aufbewahren::V,opbevare,čuvati
+1189,werfen::V,kaste,bacati
+1190,fangen::V,fange,loviti
+1191,fangen::V,fange,hvatati
+1192,packen::V,gribe,ščepati
+1193,packen::V,gribe,zgrabiti
+1194,verstecken::V,gemme,sakriti
+1195,teilen::V,dele,podijeliti
+1196,schicken::V,sende,slati
+1197,bringen::V,bringe,donijeti
+1198,hinzufügen::V,tilføje,dodati
+1199,hinzufügen::V,tilføje,pridati
+1200,bekommen::V,få,dobiti
+1201,erhalten::V,få,primiti
+1202,nehmen::V,tage,uzeti
+1203,wählen::V,vælge,izabrati
+1204,auswählen::V,udvælge,odabrati
+1205,bewahren::V,bevare,sačuvati
+1206,behindern::V,hindre,smetati
+1207,behindern::V,forhindre,smetati
+1208,verderben::V,ødelægge,pokvariti
+1209,beschädigen::V,beskadige,oštetiti
+1210,zerbrechen::V,brække itu,razbiti
+1211,zerbrechen::V,brække itu,prelomiti
+1212,zerreißen::V,rive itu,poderati
+1213,zerreißen::V,rive itu,rastrgnuti
+1214,zerstören::V,ødelægge,razoriti
+1215,zerstören::V,ødelægge,razrušiti
+1216,verbrennen::V,brænde,spaliti
+1217,verbrennen::V,brænde,sagorjeti
+1218,geben::V,give,dati
+1219,reichen::V,række,pružiti
+1220,schenken::V,forære,darivati
+1221,versprechen::V,love,obećati
+1222,wünschen::V,ønske,željeti
+1223,loben::V,rose,hvaliti
+1224,küssen::V,kysse,ljubiti
+1225,wiegen::V,vugge,njihati
+1226,wiegen::V,vugge,ljuljati
+1227,zudecken::V,dække til,pokriti
+1228,wecken::V,vække,probuditi
+1229,zeigen::V,vise,pokazati
+1230,führen::V,føre,voditi
+1231,lehren::V,lære,učiti
+1232,unterrichten::V,undervise,poučiti
+1233,aufziehen::V,opdrage,uzgajati
+1234,leiten::V,lede,upravljati
+1235,antreiben::V,skynde på,natjeravati
+1236,lassen::V,få til at,dati
+1237,einladen::V,indbyde,pozvati
+1238,einladen::V,invitere,pozvati
+1239,vereinigen::V,forene,ujediniti
+1240,besuchen::V,besøge,posjetiti
+1241,treffen::V,møde,sresti
+1242,sich versammeln::V,forsamles,okupiti se
+1243,spielen::V,lege,igrati se
+1244,spielen::V,spille,igrati se
+1245,singen::V,synge,pjevati
+1246,tanzen::V,danse,plesati
+1247,sich trennen::V,skilles,razići se
+1248,verlassen::V,forlade,ostaviti
+1249,verlassen::V,forlade,napustiti
+1250,retten::V,redde,spasiti
+1251,bewachen::V,bevogte,čuvati
+1252,bewachen::V,bevogte,stražariti
+1253,schützen::V,skærme,čuvati
+1254,schützen::V,beskytte,čuvati
+1255,verteidigen::V,forsvare,obraniti
+1256,sich schlagen::V,slås,biti se
+1257,sich schlagen::V,slås,udariti se
+1258,schießen::V,skyde,pucati
+1259,schießen::V,skyde,strijeljati
+1260,siegen::V,sejre,pobijediti
+1261,ärgern::V,ærgre,ljutiti
+1262,schlagen::V,slå,biti
+1263,schlagen::V,slå,udariti
+1264,treten::V,sparke,šutnuti
+1265,stechen::V,stikke,ubosti
+1266,stoßen::V,støde,gurnuti
+1267,stehlen::V,stjæle,ukrasti
+1268,stören::V,forstyrre,smetati
+1269,belästigen::V,genere,smetati
+1270,belästigen::V,genere,dosaditi
+1271,belästigen::V,ulejlige,smetati
+1272,belästigen::V,ulejlige,dosaditi
+1273,verbergen::V,skjule,skriti
+1274,täuschen::V,villede,obmanuti
+1275,betrügen::V,bedrage,prevarati
+1276,töten::V,dræbe,ubiti
+1277,wohnen::V,bo,stanovati
+1278,arbeiten::V,arbejde,raditi
+1279,sammeln::V,samle,sabrati
+1280,pflücken::V,plukke,ubrati
+1281,jagen::V,jage,loviti
+1282,fischen::V,fiske,ribati
+1283,fischen::V,fiske,loviti ribu
+1284,fassen::V,fange,uloviti
+1285,hüten::V,vogte,pasti
+1286,treiben::V,drive,goniti
+1287,anbinden::V,binde fast,privezati
+1288,füttern::V,fodre,hraniti
+1289,melken::V,malke,musti
+1290,hacken::V,hakke,sjeckati
+1291,gießen::V,hælde,politi
+1292,reifen::V,modne,sazreti
+1293,zubereiten::V,tilberede,prigotoviti
+1294,kochen::V,koge,kuhati
+1295,backen::V,bage,peći
+1296,braten::V,stege,peći
+1297,braten::V,stege,pržiti
+1298,umrühren::V,røre om,promiješati
+1299,stricken::V,strikke,plesti
+1300,nähen::V,sy,šiti
+1301,färben::V,farve,obojiti
+1302,reinigen::V,rense,očistiti
+1303,reinigen::V,rense,počistiti
+1304,reinigen::V,gøre ren,očistiti
+1305,reinigen::V,gøre ren,počistiti
+1306,waschen::V,vaske,prati
+1307,abwischen::V,tørre af,otrti
+1308,spülen::V,skylle,isprati
+1309,spülen::V,skylle,oplakati
+1310,fegen::V,feje,mesti
+1311,fegen::V,feje,pomesti
+1312,kehren::V,feje,mesti
+1313,baden::V,bade,kupati se
+1314,sich waschen::V,vaske sig,umiti se
+1315,sich waschen::V,vaske sig,prati se
+1316,ausziehen::V,tage af,svući
+1317,anziehen::V,tage på,obući
+1318,sich anziehen::V,klæde sig på,obući se
+1319,kämmen::V,rede,češljati
+1320,kämmen::V,frisere,češljati
+1321,schmücken::V,pynte,uresiti
+1322,schmücken::V,pynte,nakititi
+1323,schmücken::V,smykke,uresiti
+1324,schmücken::V,smykke,nakititi
+1325,sagen::V,sige,reći
+1326,sagen::V,sige,kazati
+1327,sprechen::V,snakke,govoriti
+1328,reden::V,tale,govoriti
+1329,reden::V,tale,besjediti
+1330,reden::V,snakke,govoriti
+1331,reden::V,snakke,besjediti
+1332,sich unterhalten::V,snakke sammen,razgovarati se
+1333,fragen::V,spørge,pitati
+1334,bitten::V,bede,moliti
+1335,erzählen::V,berette,ispričati
+1336,erzählen::V,berette,pripovjediti
+1337,erzählen::V,fortælle,ispričati
+1338,erzählen::V,fortælle,pripovjediti
+1339,mitteilen::V,meddele,saopćiti
+1340,nennen::V,nævne,nazvati
+1341,rufen::V,råbe,zvati
+1342,rufen::V,råbe,dozvati
+1343,prahlen::V,prale,hvalisati se
+1344,übersetzen::V,oversætte,prevesti
+1345,denken::V,tænke,misliti
+1346,glauben::V,tro,vjerovati
+1347,bemerken::V,bemærke,zapaziti
+1348,bemerken::V,bemærke,primijetiti
+1349,bemerken::V,lægge mærke til,zapaziti
+1350,bemerken::V,lægge mærke til,primijetiti
+1351,erkennen::V,genkende,prepoznati
+1352,begreifen::V,begribe,pojmiti
+1353,begreifen::V,begribe,shvatiti
+1354,verstehen::V,forstå,razabrati
+1355,lernen::V,lære,učiti se
+1356,wissen::V,vide,znati
+1357,sich erinnern an::V,mindes,sjetiti se
+1358,sich erinnern an::V,huske på,sjetiti se
+1359,vergessen::V,glemme,zaboraviti
+1360,messen::V,måle,mjeriti
+1361,zählen::V,tælle,brojiti
+1362,rechnen::V,regne,računati
+1363,lesen::V,læse,čitati
+1364,malen::V,male,slikati
+1365,zeichnen::V,tegne,crtati
+1366,schreiben::V,skrive,pisati
+1367,besitzen::V,eje,imati
+1368,besitzen::V,eje,posjedovati
+1369,besitzen::V,besidde,imati
+1370,besitzen::V,besidde,posjedovati
+1371,kaufen::V,købe,kupiti
+1372,verkaufen::V,sælge,prodati
+1373,verkaufen::V,sælge,raspačati
+1374,bezahlen::V,betale,platiti
+1375,zahlen::V,betale,plaćati
+1376,beherrschen::V,beherske,vladati
+1377,beherrschen::V,beherske,gospodariti
+1378,ertragen::V,tåle,trpjeti
+1379,ertragen::V,tåle,podnijeti
+1380,ertragen::V,udholde,trpjeti
+1381,ertragen::V,udholde,podnijeti
+1382,hinfallen::V,,pasti
