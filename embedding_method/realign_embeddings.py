@@ -59,9 +59,9 @@ def realign_embeddings(lang, align_to):
     bilingual_dictionary = list(zip(align_to_words, lang_words))
 
     # load source and target vectors
-    source_vecs = subs2vec.vecs.Vectors(f'../../for_publication/{align_to}/wiki-subs.{align_to}.1e6.vec', normalize=True)
+    source_vecs = subs2vec.vecs.Vectors(f'../../for_publication/{align_to}/wiki-subs.{align_to}.1e6.vec', normalize=True, n=1e5)
     source_vecs_dict = source_vecs.as_dict()
-    target_vecs = subs2vec.vecs.Vectors(f'../../for_publication/{lang}/wiki-subs.{lang}.1e6.vec', normalize=True)
+    target_vecs = subs2vec.vecs.Vectors(f'../../for_publication/{lang}/wiki-subs.{lang}.1e6.vec', normalize=True, n=1e5)
     target_vecs_dict = target_vecs.as_dict()
     source_dictionary = {word: source_vecs_dict.get(word, None) for word in align_to_words if source_vecs_dict.get(word, None) is not None}
     target_dictionary = {word: target_vecs_dict.get(word, None) for word in lang_words if target_vecs_dict.get(word, None) is not None}
@@ -78,9 +78,12 @@ def realign_embeddings(lang, align_to):
     # learn mapping
     source_matrix, target_matrix = make_training_matrices(source_dictionary, target_dictionary, bilingual_dictionary)
     transform = learn_transformation(source_matrix, target_matrix)
-
+    print('transform matrix shape')
+    print(transform.shape)
     # apply mapping
     target_vecs.vectors = np.matmul(target_vecs.vectors, transform)
+    print('transformed vecs shape')
+    print(target_vecs.vectors.shape)
 
     # write aligned vectors to file
     target_vecs.write_vecs(f'{lang}.aligned.vec')
