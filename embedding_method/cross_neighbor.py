@@ -10,10 +10,8 @@ def crosslinguistic_nn(word, source_lang, target_lang):
     def cos_dist(a, b):
         return (1.0 - np.matmul(a, b.T)) / 2.0
 
-    source_fname = f'{source_lang}.aligned.vec'
-    target_fname = f'{target_lang}.aligned.vec'
-    #source_fname = f'wiki.multi.{source_lang}.vec'
-    #target_fname = f'wiki.multi.{target_lang}.vec'
+    source_fname = f'{source_lang}.vec'
+    target_fname = f'{target_lang}.muse_aligned.vec'
     vecs_source = subs2vec.vecs.Vectors(source_fname, normalize=True, n=1e5)
     vecs_target = subs2vec.vecs.Vectors(target_fname, normalize=True, n=1e5)
     dist = cos_dist(vecs_source.vectors[vecs_source.words == word], vecs_target.vectors)
@@ -31,5 +29,5 @@ if __name__ == '__main__':
     args = argparser.parse_args()
 
     df = crosslinguistic_nn(**vars(args))
-    print(df.head(10))
-    df.to_csv('neighbors.tsv', sep='\t', index=False)
+    print(df.head(20))
+    df.head(20).to_csv(f'{args.source_lang}-{args.target_lang}_muse_neighbors.tsv', sep='\t', index=False)
