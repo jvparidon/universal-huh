@@ -12,7 +12,7 @@ def find_freqs(lang, fname=None):
         freqs = collections.Counter(words)  # count word occurrences
         df = pd.DataFrame(freqs.most_common(), columns=['word', 'count'])  # store counts in pandas df
         df = df[df['count'] > 1]  # remove words with count == 1 (likely to be flukes or misspellings)
-        df.to_csv(f'{lang}_freqs.tsv', sep='\t', index=False)  # write df to tab-separated file
+        return df
 
 
 if __name__ == '__main__':
@@ -22,6 +22,9 @@ if __name__ == '__main__':
     args = argparser.parse_args()
 
     if args.fname:
-        find_freqs(lang=args.lang, fname=args.fname)
+        df = find_freqs(lang=args.lang, fname=args.fname)
     else:
-        find_freqs(lang=args.lang)
+        df = find_freqs(lang=args.lang)
+    
+    print(df.head(10))
+    df.head(100).to_csv(f'{lang}_freqs.tsv', sep='\t', index=False)

@@ -17,7 +17,7 @@ def crosslinguistic_nn(word, source_lang, target_lang):
     dist = cos_dist(vecs_source.vectors[vecs_source.words == word], vecs_target.vectors)
     sort_idx = np.argsort(dist, axis=1)
     neighbors = vecs_target.words[sort_idx]
-    df = pd.DataFrame(np.hstack([neighbors.T, dist[0, sort_idx].T]), columns=['neighbors', 'cosine_dists'])
+    df = pd.DataFrame(np.hstack([neighbors.T, dist[0, sort_idx].T]), columns=['word', 'cosine_distance'])
     return df
 
 
@@ -29,5 +29,5 @@ if __name__ == '__main__':
     args = argparser.parse_args()
 
     df = crosslinguistic_nn(**vars(args))
-    print(df.head(20))
-    df.head(20).to_csv(f'{args.source_lang}-{args.target_lang}_muse_neighbors.tsv', sep='\t', index=False)
+    print(df.head(10))
+    df.head(100).to_csv(f'{args.source_lang}-{args.target_lang}_muse_neighbors.tsv', sep='\t', index=False)
