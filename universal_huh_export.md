@@ -351,13 +351,13 @@ display_md('---')
 ### ABA sequence B-word frequencies for language: en
 
 
-    |    | word   |   count |
-    |---:|:-------|--------:|
-    |  0 | what   |   18991 |
-    |  1 | nan    |    4145 |
-    |  2 | huh    |    3229 |
-    |  3 | hello  |    2167 |
-    |  4 | really |    1548 |
+|    | word   |   count |
+|---:|:-------|--------:|
+|  0 | what   |   18991 |
+|  1 | nan    |    4145 |
+|  2 | huh    |    3229 |
+|  3 | hello  |    2167 |
+|  4 | really |    1548 |
 
 
 
