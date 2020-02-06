@@ -23,7 +23,7 @@ def find_b(lang, fname=None, verbose=True):
                 stripped_a, time_a2 = parse_line(abatext[i + 1])  # parse A2 line into utterance and timestamp
                 if stripped_b != stripped_a:  # check if B line is not identical to A lines
                     if (len(stripped_b.split(' ')) == 1) and stripped_b.endswith('?'):  # check if line is one word and ends in ?
-                        bfile.write(stripped_b + '\n')  # write to file
+                        bfile.write(stripped_b.strip('?') + '\n')  # write to file
 
                         if verbose:
                             # some printing for diagnostic purposes
