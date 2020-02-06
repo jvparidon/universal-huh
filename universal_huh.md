@@ -40,7 +40,7 @@ These Bs are potential repair initiations; they are one-word questions that prov
 ```python
 for lang in langs:
     display_md(f'### ABA sequence B-word frequencies for language: {lang}')
-    display(pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').head(10))
+    display_md(pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').rename_axis('idx').head(10).to_markdown())
     display_md('---')
 ```
 
@@ -51,7 +51,7 @@ We can try our procedure on English, to see what kind of results we get for the 
 ```python
 lang = 'en'
 display_md(f'### ABA sequence B-word frequencies for language: {lang}')
-print(pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').head().to_markdown())
+display_md(pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').rename_axis('idx').head(10).to_markdown())
 display_md('---')
 ```
 

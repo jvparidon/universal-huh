@@ -28,7 +28,7 @@ These Bs are potential repair initiations; they are one-word questions that prov
 ```python
 for lang in langs:
     display_md(f'### ABA sequence B-word frequencies for language: {lang}')
-    display(pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').head(10))
+    display_md(pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').rename_axis('idx').head(10).to_markdown())
     display_md('---')
 ```
 
@@ -37,37 +37,9 @@ for lang in langs:
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>word</th>
-      <th>count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>wat</td>
-      <td>4</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|   idx | word   |   count |
+|------:|:-------|--------:|
+|     0 | wat    |       4 |
 
 
 
@@ -79,82 +51,18 @@ for lang in langs:
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>word</th>
-      <th>count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>mitä</td>
-      <td>1847</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>anteeksi</td>
-      <td>154</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>mikä</td>
-      <td>135</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>haloo</td>
-      <td>127</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>kuka</td>
-      <td>70</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>miksi</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>niinkö</td>
-      <td>67</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>niin</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>kuuletko</td>
-      <td>62</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>kuuletteko</td>
-      <td>56</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|   idx | word       |   count |
+|------:|:-----------|--------:|
+|     0 | mitä       |    1847 |
+|     1 | anteeksi   |     154 |
+|     2 | mikä       |     135 |
+|     3 | haloo      |     127 |
+|     4 | kuka       |      70 |
+|     5 | miksi      |      69 |
+|     6 | niinkö     |      67 |
+|     7 | niin       |      64 |
+|     8 | kuuletko   |      62 |
+|     9 | kuuletteko |      56 |
 
 
 
@@ -166,82 +74,18 @@ for lang in langs:
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>word</th>
-      <th>count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>wat</td>
-      <td>3058</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>pardon</td>
-      <td>385</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>hallo</td>
-      <td>275</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>ja</td>
-      <td>186</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>wie</td>
-      <td>175</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>echt</td>
-      <td>147</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>nee</td>
-      <td>144</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>sorry</td>
-      <td>124</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>waarom</td>
-      <td>115</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>jij</td>
-      <td>96</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|   idx | word   |   count |
+|------:|:-------|--------:|
+|     0 | wat    |    3058 |
+|     1 | pardon |     385 |
+|     2 | hallo  |     275 |
+|     3 | ja     |     186 |
+|     4 | wie    |     175 |
+|     5 | echt   |     147 |
+|     6 | nee    |     144 |
+|     7 | sorry  |     124 |
+|     8 | waarom |     115 |
+|     9 | jij    |      96 |
 
 
 
@@ -253,82 +97,18 @@ for lang in langs:
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>word</th>
-      <th>count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>ne</td>
-      <td>7187</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>efendim</td>
-      <td>559</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>neredesin</td>
-      <td>409</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>neden</td>
-      <td>333</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>pardon</td>
-      <td>325</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>kim</td>
-      <td>287</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>alo</td>
-      <td>276</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>merhaba</td>
-      <td>270</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>evet</td>
-      <td>268</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>nerede</td>
-      <td>260</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|   idx | word      |   count |
+|------:|:----------|--------:|
+|     0 | ne        |    7187 |
+|     1 | efendim   |     559 |
+|     2 | neredesin |     409 |
+|     3 | neden     |     333 |
+|     4 | pardon    |     325 |
+|     5 | kim       |     287 |
+|     6 | alo       |     276 |
+|     7 | merhaba   |     270 |
+|     8 | evet      |     268 |
+|     9 | nerede    |     260 |
 
 
 
@@ -343,7 +123,7 @@ We can try our procedure on English, to see what kind of results we get for the 
 ```python
 lang = 'en'
 display_md(f'### ABA sequence B-word frequencies for language: {lang}')
-print(pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').head().to_markdown())
+display_md(pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').rename_axis('idx').head(10).to_markdown())
 display_md('---')
 ```
 
@@ -351,13 +131,19 @@ display_md('---')
 ### ABA sequence B-word frequencies for language: en
 
 
-    |    | word   |   count |
-    |---:|:-------|--------:|
-    |  0 | what   |   18991 |
-    |  1 | nan    |    4145 |
-    |  2 | huh    |    3229 |
-    |  3 | hello  |    2167 |
-    |  4 | really |    1548 |
+
+|   idx | word   |   count |
+|------:|:-------|--------:|
+|     0 | what   |   18991 |
+|     1 | nan    |    4145 |
+|     2 | huh    |    3229 |
+|     3 | hello  |    2167 |
+|     4 | really |    1548 |
+|     5 | why    |    1461 |
+|     6 | yeah   |    1389 |
+|     7 | no     |    1058 |
+|     8 | who    |     990 |
+|     9 | okay   |     984 |
 
 
 
