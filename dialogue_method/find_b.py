@@ -7,7 +7,7 @@ def parse_line(line):
         timestamp = float(line[0].split('[')[1].replace(' ', '').replace('-', ''))
     except ValueError:
         timestamp = 0
-    stripped = line[1].replace('-', '').strip(' ')
+    stripped = line[1].replace('-', '').strip(' ').lower()
     return stripped, timestamp
 
 
