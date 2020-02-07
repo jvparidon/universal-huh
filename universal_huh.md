@@ -345,3 +345,19 @@ for lang in langs:
 
 
 As we can see, this method yields the correct answer in each language. (We exclude Afrikaans, because the only hit in Afrikaans using the dialogue method was "wat" and that word isn't present in the top 100 of cross-linguistic nearest neighbors for Afrikaans.)
+
+
+```python
+# convert this Jupyter notebook to Markdown
+import subprocess as sp
+make_md = 'jupyter nbconvert universal_huh.ipynb --to markdown --output universal_huh.md'.split(' ')
+convert = sp.run(make_md)
+if convert.returncode == 0:
+    display_md('Jupyter notebook converted to Markdown successfully.')
+else:
+    display_md('Error: encountered problem converting Jupyter notebook to Markdown')
+```
+
+
+Jupyter notebook converted to Markdown successfully.
+
