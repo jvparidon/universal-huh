@@ -15,6 +15,29 @@ def strip_line(line):
     return line.replace('-', '').strip(' ').lower()
 
 
+def is_question(line):
+    """Takes a line and checks if it is a question.
+
+    This function tries to take into account different methods of marking a question in various languages,
+    but is very unlikely to be exhaustive.
+
+    :param line: line to check
+    :return: boolean, True if line is a question, else False
+    """
+    if line.startswith('؟') or line.startswith('⸮'):  # arabic question mark, should appear at beginning of line (because arabic is right-to-left)
+        return True
+    elif line.endswith('?'):  # latin question mark
+        return True
+    elif line.startswith('?'):  # hebrew question mark, should appear at beginning of line (because hebrew is right-to-left)
+        return True
+    elif line.endswith(';') or line.endswith(';'):  # greek question mark
+        return True
+    elif line.endswith('՞'):  # armenian question mark
+        return True
+    else:
+        return False  # not a question, it would seem
+
+
 def find_b(lang, fname=None, verbose=True):
     if fname is None:
         fname = f'{lang}_aba.txt'
@@ -29,7 +52,7 @@ def find_b(lang, fname=None, verbose=True):
                     stripped_a = strip_line(parsed_a)
                     stripped_b = strip_line(parsed_b)
                     if stripped_b != stripped_a:  # check if B line is not identical to A lines
-                        if (len(stripped_b.split(' ')) == 1) and stripped_b.endswith('?'):  # check if line is one word and ends in ?
+                        if (len(stripped_b.split(' ')) == 1) and is_question(stripped_b):  # check if line is one word and is a question
                             bfile.write(stripped_b + '\n')  # write to file
                             if verbose:
                                 # some printing for diagnostic purposes
