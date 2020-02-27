@@ -3,7 +3,7 @@ import argparse
 
 def find_aba(lang, fname=None):
     if fname is None:
-        fname = f'../data/OpenSubtitles/viz/{lang}/{lang}.viz'
+        fname = f'../../data/OpenSubtitles/viz/{lang}/{lang}.viz'
     with open(fname, 'r') as subsfile, open(f'{lang}_aba.txt', 'w') as abafile:
         line1back = ''
         line2back = ''

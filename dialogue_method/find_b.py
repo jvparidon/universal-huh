@@ -7,8 +7,12 @@ def parse_line(line):
         timestamp = float(line[0].split('[')[1].replace(' ', '').replace('-', ''))
     except ValueError:
         timestamp = 0
-    stripped = line[1].replace('-', '').strip(' ').lower()
+    stripped = line[1]
     return stripped, timestamp
+
+
+def strip_line(line):
+    return line.replace('-', '').strip(' ').lower()
 
 
 def find_b(lang, fname=None, verbose=True):
@@ -18,19 +22,21 @@ def find_b(lang, fname=None, verbose=True):
         abatext = abafile.read().split('\n')  # read text and split into list of lines
         for i, line in enumerate(abatext):  # iterate over lines, but keep track of index
             if line.startswith('B'):  # check if a line is a B line (in ABA sequence)
-                stripped_b, time_b = parse_line(line)  # parse B line into utterance and timestamp
-                stripped_a, time_a1 = parse_line(abatext[i - 1])  # parse A1 line into utterance and timestamp
-                stripped_a, time_a2 = parse_line(abatext[i + 1])  # parse A2 line into utterance and timestamp
-                if stripped_b != stripped_a:  # check if B line is not identical to A lines
-                    if (len(stripped_b.split(' ')) == 1) and stripped_b.endswith('?'):  # check if line is one word and ends in ?
-                        bfile.write(stripped_b.strip('?') + '\n')  # write to file
-
-                        if verbose:
-                            # some printing for diagnostic purposes
-                            print(abatext[i - 1])
-                            print(line)
-                            print(abatext[i + 1])
-                            print('\n')
+                parsed_b, time_b = parse_line(line)  # parse B line into utterance and timestamp
+                parsed_a, time_a1 = parse_line(abatext[i - 1])  # parse A1 line into utterance and timestamp
+                parsed_a, time_a2 = parse_line(abatext[i + 1])  # parse A2 line into utterance and timestamp
+                if parsed_b.startswith('  ') ^ parsed_a.startswith('  '):
+                    stripped_a = strip_line(parsed_a)
+                    stripped_b = strip_line(parsed_b)
+                    if stripped_b != stripped_a:  # check if B line is not identical to A lines
+                        if (len(stripped_b.split(' ')) == 1) and stripped_b.endswith('?'):  # check if line is one word and ends in ?
+                            bfile.write(stripped_b + '\n')  # write to file
+                            if verbose:
+                                # some printing for diagnostic purposes
+                                print(abatext[i - 1])
+                                print(line)
+                                print(abatext[i + 1])
+                                print('\n')
 
 
 if __name__ == '__main__':

@@ -27,4 +27,4 @@ if __name__ == '__main__':
         df = find_freqs(lang=args.lang)
     
     print(df.head(10))
-    df.head(100).to_csv(f'{lang}_freqs.tsv', sep='\t', index=False)
+    df.head(100).to_csv(f'{args.lang}_freqs.tsv', sep='\t', index=False)
