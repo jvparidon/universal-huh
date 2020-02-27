@@ -5,6 +5,7 @@ import pandas as pd
 def sum_ranks(lang):
     e_ranks = pd.read_csv(f'embedding_method/en-{lang}_muse_neighbors.tsv', sep='\t')
     d_ranks = pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t')
+    d_ranks['word'] = d_ranks['word'].str.strip('?')  # strip question marks so merge on word column will work
     e_ranks['e_rank'] = list(range(len(e_ranks)))
     d_ranks['d_rank'] = list(range(len(d_ranks)))
     ranks = e_ranks.merge(d_ranks, how='inner', on='word')

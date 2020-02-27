@@ -1,6 +1,12 @@
 
 # Finding cross-linguistic analogues to "huh"
 
+## To do:
+1. Implement whitespace-sensitive method for identifying dialogue ABA (as opposed to monologue ABA)
+2. Check if that changes the rankings?
+3. Check if Google Translate has an audio API
+4. Maybe add 1 non-alphabetic language to the initial (pre-preregistration) dataset?
+
 
 ```python
 import pandas as pd
@@ -28,7 +34,11 @@ These Bs are potential repair initiations; they are one-word questions that prov
 ```python
 for lang in langs:
     display_md(f'### ABA sequence B-word frequencies for language: {lang}')
-    display_md(pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').rename_axis('idx').head(10).to_markdown())
+    df = pd.read_csv(f'dialogue_method/{lang}_freqs.tsv', sep='\t').rename_axis('idx')
+    if len(df) > 0:
+        display_md(df.head(10).to_markdown())
+    else:
+        display_md(f'No ABA sequences found for language: {lang}')
     display_md('---')
 ```
 
@@ -37,9 +47,7 @@ for lang in langs:
 
 
 
-|   idx | word   |   count |
-|------:|:-------|--------:|
-|     0 | wat    |       4 |
+No ABA sequences found for language: af
 
 
 
@@ -51,18 +59,18 @@ for lang in langs:
 
 
 
-|   idx | word       |   count |
-|------:|:-----------|--------:|
-|     0 | mitä       |    1847 |
-|     1 | anteeksi   |     154 |
-|     2 | mikä       |     135 |
-|     3 | haloo      |     127 |
-|     4 | kuka       |      70 |
-|     5 | miksi      |      69 |
-|     6 | niinkö     |      67 |
-|     7 | niin       |      64 |
-|     8 | kuuletko   |      62 |
-|     9 | kuuletteko |      56 |
+|   idx | word      |   count |
+|------:|:----------|--------:|
+|     0 | mitä?     |    1410 |
+|     1 | mikä?     |     120 |
+|     2 | anteeksi? |     119 |
+|     3 | haloo?    |      81 |
+|     4 | kuka?     |      59 |
+|     5 | miksi?    |      57 |
+|     6 | niinkö?   |      55 |
+|     7 | niin?     |      49 |
+|     8 | missä?    |      48 |
+|     9 | kuuletko? |      48 |
 
 
 
@@ -74,18 +82,18 @@ for lang in langs:
 
 
 
-|   idx | word   |   count |
-|------:|:-------|--------:|
-|     0 | wat    |    3058 |
-|     1 | pardon |     385 |
-|     2 | hallo  |     275 |
-|     3 | ja     |     186 |
-|     4 | wie    |     175 |
-|     5 | echt   |     147 |
-|     6 | nee    |     144 |
-|     7 | sorry  |     124 |
-|     8 | waarom |     115 |
-|     9 | jij    |      96 |
+|   idx | word    |   count |
+|------:|:--------|--------:|
+|     0 | wat?    |    2043 |
+|     1 | pardon? |     254 |
+|     2 | ja?     |     148 |
+|     3 | wie?    |     141 |
+|     4 | echt?   |     128 |
+|     5 | hallo?  |     124 |
+|     6 | nee?    |     112 |
+|     7 | ?       |      88 |
+|     8 | waarom? |      80 |
+|     9 | oké?    |      78 |
 
 
 
@@ -97,25 +105,25 @@ for lang in langs:
 
 
 
-|   idx | word      |   count |
-|------:|:----------|--------:|
-|     0 | ne        |    7187 |
-|     1 | efendim   |     559 |
-|     2 | neredesin |     409 |
-|     3 | neden     |     333 |
-|     4 | pardon    |     325 |
-|     5 | kim       |     287 |
-|     6 | alo       |     276 |
-|     7 | merhaba   |     270 |
-|     8 | evet      |     268 |
-|     9 | nerede    |     260 |
+|   idx | word       |   count |
+|------:|:-----------|--------:|
+|     0 | ne?        |    4186 |
+|     1 | efendim?   |     310 |
+|     2 | neden?     |     248 |
+|     3 | kim?       |     212 |
+|     4 | ?          |     205 |
+|     5 | nerede?    |     203 |
+|     6 | evet?      |     183 |
+|     7 | alo?       |     167 |
+|     8 | ha?        |     166 |
+|     9 | neredesin? |     160 |
 
 
 
 ---
 
 
-In every language tested here, the highest frequency B-word is the equivalent of "what" (i.e., "wat", "mitä", and "ne" all mean "what").  
+Afrikaans seems to have too small a corpus to yield any ABA-sequences, but in all three of the other languages tested here, the highest frequency B-word is the equivalent of "what" (i.e., "wat", "mitä", and "ne" all mean "what").  
 Asking "what?" is not an unreasonable way to initiate a repair, but of course we were looking for "huh" equivalents.  
 We can try our procedure on English, to see what kind of results we get for the language the majority of subtitles are translated from.
 
@@ -132,18 +140,18 @@ display_md('---')
 
 
 
-|   idx | word   |   count |
-|------:|:-------|--------:|
-|     0 | what   |   18991 |
-|     1 | nan    |    4145 |
-|     2 | huh    |    3229 |
-|     3 | hello  |    2167 |
-|     4 | really |    1548 |
-|     5 | why    |    1461 |
-|     6 | yeah   |    1389 |
-|     7 | no     |    1058 |
-|     8 | who    |     990 |
-|     9 | okay   |     984 |
+|   idx | word    |   count |
+|------:|:--------|--------:|
+|     0 | what?   |   10455 |
+|     1 | ?       |    4109 |
+|     2 | huh?    |    1988 |
+|     3 | yeah?   |    1181 |
+|     4 | really? |    1116 |
+|     5 | why?    |    1114 |
+|     6 | hello?  |     980 |
+|     7 | no?     |     779 |
+|     8 | okay?   |     737 |
+|     9 | who?    |     698 |
 
 
 
@@ -151,7 +159,7 @@ display_md('---')
 
 
 Even in English "what" is the most frequent B-word, by far.  
-However, for English "huh" is the third item, much more frequent than in other languages. Two factors might partially explain why "what" is more prevalent than "huh" in English and even more so in other languages.
+However, for English "huh" is the third item; relatively much more frequent than in other languages. Two factors might partially explain why "what" is more prevalent than "huh" in English and even more so in other languages.
 
 1. Scriptwriters prefer to use a more lexicalized repair initiation, whereas in real life people are likely to use "huh?" and its equivalents.
 2. That same cognitive bias toward lexicalized repair initiations affects translators. As dialogue is transcribed and translated, "huh" sometimes gets turned into "what", for instance. This results in a further decrease in the fraction of "huh" equivalents.
@@ -279,22 +287,36 @@ Neither of the methods used above is perfect, but since they provide evidence fr
 
 ```python
 for lang in langs:
-    if lang != 'af':
-        display_md(f'### Combined rankings for language: {lang}')
-        display_md(pd.read_csv(f'{lang}_ranks.tsv', sep='\t').head(10).rename_axis('idx').head(10).to_markdown())
-        display_md('---')
+    display_md(f'### Combined rankings for language: {lang}')
+    df = pd.read_csv(f'{lang}_ranks.tsv', sep='\t').rename_axis('idx')
+    if len(df) > 0:
+        display_md(df.head(10).to_markdown())
+    else:
+        display_md(f'No combined rankings found for language: {lang}')
+    display_md('---')
 ```
+
+
+### Combined rankings for language: af
+
+
+
+No combined rankings found for language: af
+
+
+
+---
+
 
 
 ### Combined rankings for language: fi
 
 
 
-|   idx | word      |   count |   cosine_distance |   d_rank |   e_rank |   sum_rank |
-|------:|:----------|--------:|------------------:|---------:|---------:|-----------:|
-|     0 | häh       |      17 |          0.225935 |       24 |        2 |         26 |
-|     1 | nyt       |       7 |          0.247161 |       75 |       18 |         93 |
-|     2 | kultaseni |       5 |          0.245345 |       96 |       13 |        109 |
+|   idx | word   |   count |   cosine_distance |   d_rank |   e_rank |   sum_rank |
+|------:|:-------|--------:|------------------:|---------:|---------:|-----------:|
+|     0 | häh    |      13 |          0.225935 |       25 |        2 |         27 |
+|     1 | nyt    |       7 |          0.247161 |       57 |       18 |         75 |
 
 
 
@@ -306,18 +328,16 @@ for lang in langs:
 
 
 
-|   idx | word    |   count |   cosine_distance |   d_rank |   e_rank |   sum_rank |
-|------:|:--------|--------:|------------------:|---------:|---------:|-----------:|
-|     0 | huh     |      51 |          0.159184 |       15 |        0 |         15 |
-|     1 | oké     |      88 |          0.202835 |       11 |        9 |         20 |
-|     2 | mam     |      37 |          0.202271 |       19 |        8 |         27 |
-|     3 | papa    |      41 |          0.218817 |       17 |       19 |         36 |
-|     4 | pap     |      30 |          0.211262 |       26 |       13 |         39 |
-|     5 | hè      |      21 |          0.181786 |       39 |        5 |         44 |
-|     6 | schatje |      13 |          0.162617 |       58 |        1 |         59 |
-|     7 | hé      |      13 |          0.180575 |       63 |        4 |         67 |
-|     8 | lieverd |      10 |          0.174831 |       93 |        2 |         95 |
-|     9 | eh      |       7 |          0.213423 |      136 |       15 |        151 |
+|   idx | word   |   count |   cosine_distance |   d_rank |   e_rank |   sum_rank |
+|------:|:-------|--------:|------------------:|---------:|---------:|-----------:|
+|     0 | huh    |      33 |          0.159184 |       17 |        0 |         17 |
+|     1 | oké    |      78 |          0.202835 |        9 |        9 |         18 |
+|     2 | mam    |      28 |          0.202271 |       20 |        8 |         28 |
+|     3 | pap    |      23 |          0.211262 |       27 |       13 |         40 |
+|     4 | hè     |      13 |          0.181786 |       40 |        5 |         45 |
+|     5 | papa   |      14 |          0.218817 |       39 |       19 |         58 |
+|     6 | hé     |       8 |          0.180575 |       75 |        4 |         79 |
+|     7 | eh     |       7 |          0.213423 |       83 |       15 |         98 |
 
 
 
@@ -329,22 +349,17 @@ for lang in langs:
 
 
 
-|   idx | word    |   count |   cosine_distance |   d_rank |   e_rank |   sum_rank |
-|------:|:--------|--------:|------------------:|---------:|---------:|-----------:|
-|     0 | ha      |     233 |          0.231013 |       11 |        2 |         13 |
-|     1 | tatlım  |      78 |          0.247647 |       20 |        7 |         27 |
-|     2 | huh     |      49 |          0.237431 |       27 |        4 |         31 |
-|     3 | bebeğim |      15 |          0.255516 |      104 |       11 |        115 |
-|     4 | ahbap   |       5 |          0.23277  |      459 |        3 |        462 |
-|     5 | kanka   |       3 |          0.262215 |      727 |       13 |        740 |
-|     6 | dostum  |       2 |          0.217794 |     1259 |        0 |       1259 |
+|   idx | word   |   count |   cosine_distance |   d_rank |   e_rank |   sum_rank |
+|------:|:-------|--------:|------------------:|---------:|---------:|-----------:|
+|     0 | ha     |     166 |          0.231013 |        8 |        2 |         10 |
+|     1 | huh    |      26 |          0.237431 |       27 |        4 |         31 |
 
 
 
 ---
 
 
-As we can see, this method yields the correct answer in each language. (We exclude Afrikaans, because the only hit in Afrikaans using the dialogue method was "wat" and that word isn't present in the top 100 of cross-linguistic nearest neighbors for Afrikaans.)
+As we can see, this method yields the correct answer in each language. (We can disregard Afrikaans, because there  were no hits in Afrikaans using the dialogue method.)
 
 
 ```python
